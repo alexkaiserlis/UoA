@@ -1,0 +1,63 @@
+{
+  "concept_id": "473",
+  "concept_data": {
+    "title": "wine delivery",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": true,
+    "preferred_term": "distillation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wine delivery\" in EU legal and regulatory frameworks is primarily redirected to \"distillation,\" which encompasses the processes involving the transformation of grape must into wine. This process, often presuming the use of various cépages, includes the careful management of harvesters and the adjustment of fermentation conditions to avoid overpressing. Winegrowers must comply with compulsory regulations that govern the use of fortifiers and the treatment of marcs. The legal framework delimits the standards for undistilled and distilled products, ensuring that the quality remains plentiful and interesting. Furthermore, the government penalizes opportunist practices that evade these regulations, maintaining the integrity of regions like Rheinhessen and Mittelrhein, where varietals such as Riesling and Silvaner thrive. The attraction of wine markets, including those in Portugal and the Maghreb, is bolstered by these stringent guidelines, which aim to protect both producers and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:52.338433",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 142,
+    "vocabulary_stats": {
+      "total_related_words": 1897,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 26.88
+    },
+    "related_words": [
+      "clearest",
+      "argol",
+      "cépages",
+      "oragnization",
+      "witheld",
+      "opportunist",
+      "cumpulsory",
+      "winegrower",
+      "slighter",
+      "jobbing",
+      "fortifiers",
+      "overpressing",
+      "marcs",
+      "uprocessed",
+      "presumes",
+      "aiready",
+      "moscato",
+      "mittelrhein",
+      "nahe",
+      "măźller",
+      "thurgau",
+      "silvaner",
+      "bumped",
+      "tabel",
+      "evading",
+      "undistilled",
+      "dire",
+      "pursurant",
+      "rheinhessen",
+      "adjustement"
+    ],
+    "prompt_length": 1715,
+    "category": "6036 food technology"
+  }
+}

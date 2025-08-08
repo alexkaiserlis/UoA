@@ -1,0 +1,63 @@
+{
+  "concept_id": "1114",
+  "concept_data": {
+    "title": "frontier",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"frontier\" pertains to the inviolability of borders, which is essential for the facilitation of lawful travel and immigration. Frontiers serve as lanes for the movement of residents, refugees, and stateless individuals, where customs and visas are crucial for crossing. The EU endeavors to harmonize regulations to ensure smoother passage and reinforce security at these borders. On occasions, diplomatic pacts are established to organize the crossing of frontiers, thereby addressing the needs of minorities and enhancing the inspection processes for individuals travelling across inland waterways. The concept underlines the importance of a concerted approach to managing borders while respecting the rights of all individuals involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:50.621635",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 391,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 903,
+      "selected_avg_freq": 426.03333333333336
+    },
+    "related_words": [
+      "inviolability",
+      "inoperative",
+      "stateless",
+      "inaugural",
+      "minorities",
+      "lanes",
+      "preselected",
+      "whereras",
+      "centralize",
+      "smoother",
+      "staple",
+      "openly",
+      "empty",
+      "preferably",
+      "organizing",
+      "lawfully",
+      "passports",
+      "refugees",
+      "immigration",
+      "custom",
+      "passing",
+      "facilitation",
+      "diplomatic",
+      "waiting",
+      "travelling",
+      "waterway",
+      "inspected",
+      "pact",
+      "resident",
+      "endeavour"
+    ],
+    "prompt_length": 1672,
+    "category": "1231 international law"
+  }
+}

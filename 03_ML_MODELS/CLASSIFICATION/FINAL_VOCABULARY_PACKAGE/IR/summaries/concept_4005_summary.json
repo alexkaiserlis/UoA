@@ -1,0 +1,63 @@
+{
+  "concept_id": "4005",
+  "concept_data": {
+    "title": "visa",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "admission of aliens",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"visa,\" redirected to \"admission of aliens,\" encompasses the frameworks governing the entry of foreigners into member states. This includes the regulation of nationalities, the processing of applications, and the prevention of falsified documents. The legal framework solemnly addresses issues such as smuggling and the influx of stateless individuals, while also considering the rights of persecuted activists and refugees. Systems like Eurodac utilize biometrics, including fingerprints and photographs, to enhance security and streamline searches. The codecision process ensures that distinctions in national policies are harmonized, allowing for a readjusted approach to visa regulations across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:39:14.553852",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1241,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 113,
+      "selected_avg_freq": 54.81333333333333
+    },
+    "related_words": [
+      "backup",
+      "argo",
+      "appropriating",
+      "ads",
+      "burmese",
+      "overturn",
+      "ghanaian",
+      "finger",
+      "falsified",
+      "ethiopian",
+      "ceas",
+      "persecuted",
+      "foreigner",
+      "photograph",
+      "readjusted",
+      "paralympic",
+      "nationalities",
+      "falsifications",
+      "forged",
+      "activists",
+      "presuming",
+      "curriculum",
+      "codecision",
+      "atv",
+      "sticker",
+      "stickers",
+      "nigerian",
+      "searches",
+      "pakistani",
+      "relaxing"
+    ],
+    "prompt_length": 1717,
+    "category": "1231 international law"
+  }
+}

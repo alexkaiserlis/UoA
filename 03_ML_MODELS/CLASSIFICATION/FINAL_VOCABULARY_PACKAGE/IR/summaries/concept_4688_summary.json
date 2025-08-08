@@ -1,0 +1,63 @@
+{
+  "concept_id": "4688",
+  "concept_data": {
+    "title": "boned meat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Boned meat\" refers to animal products that have undergone a process of deboning, resulting in unprepared cuts suitable for various culinary applications. In the context of EU legal and regulatory frameworks, measures concerning boned meat involve strict regulations on its provisioning, regularising trade practices, and ensuring compliance with food safety standards. This includes the repackaging and authentication of products to prevent fraud. The EU's pluriannual strategies aim to support the sustainable management of meat production, particularly in regions like Matebeleland and Mashonaland, where local undertakings may engage in the subsidization of meat products. The legal framework also addresses issues related to the halting of unregulated imports and the need for smoother trade relations, particularly with countries like Gweru and Gokwe.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:36:42.977328",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 1028,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 202,
+      "selected_avg_freq": 89.14
+    },
+    "related_words": [
+      "indertaking",
+      "chilimanzi",
+      "selukwe",
+      "gwelo",
+      "chegutu",
+      "kadoma",
+      "bern",
+      "gokwe",
+      "mberengwa",
+      "gweru",
+      "shurugwi",
+      "chirimanzu",
+      "pluri",
+      "makoni",
+      "zvishavane",
+      "gutu",
+      "masvingo",
+      "insiza",
+      "matebeleland",
+      "kwekwe",
+      "beaf",
+      "manicaland",
+      "measurs",
+      "mashonaland",
+      "ghanzi",
+      "fenced",
+      "caracol",
+      "antônio",
+      "joão",
+      "repeating"
+    ],
+    "prompt_length": 1660,
+    "category": "6011 animal product"
+  }
+}

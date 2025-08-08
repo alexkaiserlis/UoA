@@ -1,0 +1,63 @@
+{
+  "concept_id": "5500",
+  "concept_data": {
+    "title": "hairdressing and beauty care",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"hairdressing and beauty care\" encompasses a diverse range of vocational practices within the EU's miscellaneous industries. It recognizes the professional qualifications of hairdressers and beauty care workers, who possess specific skills necessary for their trade. The regulatory framework aims to facilitate the mobility of these professionals across member states, removing discriminatory obstacles that may impede their pursuit of employment. Registration and formal recognition of qualifications are crucial, as they ensure that employees and self-employed individuals can proceed in their careers without hindrance. This sector, therefore, plays a vital role in promoting professional standards and enhancing the ability of workers to attain their aspirations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:40:14.422622",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 209,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2599,
+      "selected_avg_freq": 1110.6533333333334
+    },
+    "related_words": [
+      "hairdressing",
+      "hairdresser",
+      "hairdressers",
+      "whence",
+      "practise",
+      "himself",
+      "possesses",
+      "manager",
+      "recognizing",
+      "branch",
+      "nationality",
+      "qualification",
+      "mobility",
+      "nonetheless",
+      "qualifications",
+      "vocational",
+      "imposes",
+      "subdivision",
+      "host",
+      "membership",
+      "wishes",
+      "pursuit",
+      "obstacle",
+      "proceed",
+      "employees",
+      "adds",
+      "possession",
+      "comes",
+      "discriminatory",
+      "ability"
+    ],
+    "prompt_length": 1711,
+    "category": "6846 miscellaneous industries"
+  }
+}

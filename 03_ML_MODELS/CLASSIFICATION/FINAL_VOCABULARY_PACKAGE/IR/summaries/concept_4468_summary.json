@@ -1,0 +1,63 @@
+{
+  "concept_id": "4468",
+  "concept_data": {
+    "title": "Tuscany",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tuscany, or Toscana, is a significant region within the EU, known for its rich cultural heritage and diverse habitats. It encompasses areas like Garfagnana and Volterra, where traditional practices such as producing pecorino cheese and prosciutto thrive. In the context of EU regulations, Tuscany's coastal regions, including Livorno, are subject to directives governing marine habitats and fishing activities, particularly concerning trawlers and seine nets. The region's seabed and depths are monitored to ensure sustainable practices, with directorates verifying compliance with environmental standards. Additionally, Tuscany's agricultural products, including carciofo and neccio, are protected under EU quality schemes, reflecting the region's unique identity.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:16:09.027427",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 670,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 447,
+      "selected_avg_freq": 201.15333333333334
+    },
+    "related_words": [
+      "balze",
+      "volterrane",
+      "fungo",
+      "borgotaro",
+      "paestum",
+      "neccio",
+      "garfagnana",
+      "toscano",
+      "prosciutto",
+      "gsa",
+      "goby",
+      "farina",
+      "carciofo",
+      "genoa",
+      "aphia",
+      "minuta",
+      "hauled",
+      "directorates",
+      "seabed",
+      "depths",
+      "isobath",
+      "livorno",
+      "toscana",
+      "pecorino",
+      "delle",
+      "della",
+      "touch",
+      "attended",
+      "boat",
+      "imp"
+    ],
+    "prompt_length": 1619,
+    "category": "7211 regions of EU Member States"
+  }
+}

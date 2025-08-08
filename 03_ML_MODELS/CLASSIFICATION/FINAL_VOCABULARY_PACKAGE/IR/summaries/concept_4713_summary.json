@@ -1,0 +1,63 @@
+{
+  "concept_id": "4713",
+  "concept_data": {
+    "title": "wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wine\" within EU legal and regulatory frameworks encompasses a broad spectrum of œnological practices and standards. It is a harmonious blend of tradition and innovation, where particular attention is paid to the distill process and the fortifying of wines, such as the use of fortifiers in production. Regulations ensure that wines, including varietals like portugieser and rosăš, meet compulsory quality criteria, maximizing their aromatic profiles. The winesector is subject to quantitative assessments, including densimetry and pasteurise methods, to guarantee product integrity. Additionally, derogations may apply to specific regional practices, while organizations like vinimpex oversee compliance. This regulatory landscape is crucial for maintaining the generational heritage of wine production across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:32:43.008784",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 3261,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.693333333333333
+    },
+    "related_words": [
+      "muted",
+      "pariticular",
+      "distill",
+      "quantative",
+      "harmonoius",
+      "huamn",
+      "fortifier",
+      "portugieser",
+      "rosăš",
+      "maximized",
+      "mediocre",
+      "generational",
+      "koospol",
+      "argol",
+      "opend",
+      "oragnization",
+      "entended",
+      "vinimpex",
+      "œnological",
+      "winesector",
+      "pectolytic",
+      "gozo",
+      "késői",
+      "szüretelésű",
+      "bocksbeutel",
+      "cantil",
+      "individualized",
+      "erase",
+      "fortifying",
+      "malo"
+    ],
+    "prompt_length": 1681,
+    "category": "6021 beverages and sugar"
+  }
+}

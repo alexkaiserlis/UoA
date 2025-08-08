@@ -1,0 +1,63 @@
+{
+  "concept_id": "5684",
+  "concept_data": {
+    "title": "systems interconnection",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"systems interconnection\" pertains to the integration of diverse telecommunications networks and services within the EU, facilitating seamless communication across various platforms. This regulatory framework emphasises the importance of interoperability among terminals, including both analogue and digital devices, ensuring that users can connect independently through various teleservices. The European Telecommunications Standards Institute (ETSI) plays a crucial role in establishing standards for signalling and compatibility. By referencing existing legislation, such as the ISDN and PSTN frameworks, the EU aims to enhance portability and accessibility of services, thus transforming the telephony landscape in the 21st century. This interconnectedness supports transnational communication, fostering an opportune environment for innovation in informatics and software development.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:49:51.472277",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 300,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1272,
+      "selected_avg_freq": 541.0
+    },
+    "related_words": [
+      "pstns",
+      "dtmf",
+      "pstn",
+      "discernment",
+      "wil",
+      "handset",
+      "teleservice",
+      "khz",
+      "tone",
+      "eeurope",
+      "informatics",
+      "emphasising",
+      "referenced",
+      "portability",
+      "switched",
+      "isdn",
+      "acte",
+      "voice",
+      "telephony",
+      "connect",
+      "etsi",
+      "marginally",
+      "signalling",
+      "exclusions",
+      "century",
+      "earth",
+      "terminals",
+      "attachment",
+      "portable",
+      "orientation"
+    ],
+    "prompt_length": 1695,
+    "category": "3236 information technology and data processing"
+  }
+}

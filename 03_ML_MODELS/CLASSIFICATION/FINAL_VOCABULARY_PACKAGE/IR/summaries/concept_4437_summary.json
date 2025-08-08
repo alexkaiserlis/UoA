@@ -1,0 +1,63 @@
+{
+  "concept_id": "4437",
+  "concept_data": {
+    "title": "European Monetary Agreement",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European Monetary Agreement\" (EMA) is a pivotal framework governing monetary relations among EU member states, ensuring compliance with statutes that oversee the issuance of coins and banknotes. It foresees modalities for the negotiation and renegotiation of monetary policies, enhancing the fitness of currency systems against counterfeiting and fraud. The EMA addresses the authenticity of denominations, including tokens and medals, while providing guidelines for the recirculation of cash. It also establishes ceilings for monetary increases and withdrawal procedures. The European Central Bank (ECB) plays a crucial role in enforcing these regulations, ensuring that all reproductions and counter measures are compliant with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:15.715476",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 171,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3113,
+      "selected_avg_freq": 1303.72
+    },
+    "related_words": [
+      "overruled",
+      "recirculation",
+      "reproductions",
+      "tokens",
+      "medals",
+      "coin",
+      "laundering",
+      "renegotiated",
+      "vatican",
+      "monaco",
+      "renegotiation",
+      "fitness",
+      "counterfeiting",
+      "denominations",
+      "marino",
+      "coins",
+      "banknotes",
+      "issuance",
+      "statutes",
+      "guideline",
+      "money",
+      "authenticity",
+      "city",
+      "san",
+      "sides",
+      "compliant",
+      "reproduction",
+      "cash",
+      "modalities",
+      "ecb"
+    ],
+    "prompt_length": 1698,
+    "category": "2406 monetary relations"
+  }
+}

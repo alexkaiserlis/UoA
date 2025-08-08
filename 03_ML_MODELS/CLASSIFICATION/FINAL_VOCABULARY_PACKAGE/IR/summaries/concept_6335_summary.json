@@ -1,0 +1,63 @@
+{
+  "concept_id": "6335",
+  "concept_data": {
+    "title": "dual conversion rate",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "conversion rate",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"dual conversion rate,\" a redirect to \"conversion rate,\" pertains to monetary economics within EU regulatory frameworks. It involves computations that establish the nominal value of currencies during a changeover, such as the transition to the euro. This process is crucial for ensuring accuracy and minimizing inaccuracies in financial transactions across jurisdictions. The dual conversion rate allows for an intermediate mechanism, where currencies like the kroon and lats are substituted, reinforcing the presumption of stability. It is meant to provide explicit guidance to ministers and governors, ensuring unanimity in the application of conversion rates, thereby facilitating a smooth transition and abrogating obsolete practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:06.962872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 325,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1071,
+      "selected_avg_freq": 523.9266666666666
+    },
+    "related_words": [
+      "communiquăšs",
+      "alphabets",
+      "rebuttable",
+      "algorithm",
+      "computations",
+      "kroon",
+      "lats",
+      "inverse",
+      "inaccuracies",
+      "rounding",
+      "hundred",
+      "basket",
+      "erm",
+      "irrevocably",
+      "universally",
+      "pound",
+      "unanimity",
+      "anything",
+      "fifteen",
+      "irrevocable",
+      "jurisdictions",
+      "intentions",
+      "cent",
+      "counted",
+      "governors",
+      "debtor",
+      "abrogated",
+      "changeover",
+      "substituted",
+      "presumption"
+    ],
+    "prompt_length": 1733,
+    "category": "2411 monetary economics"
+  }
+}

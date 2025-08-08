@@ -1,0 +1,63 @@
+{
+  "concept_id": "2221",
+  "concept_data": {
+    "title": "bread",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"bread\" (duona) encompasses a diverse range of foodstuffs, including various doughs, such as focaccia and pizzas, and specialty types like rudzu and rupjmaize. Regulations dictate standards for ingredients, including maltose and diphosphates, ensuring quality and safety in products like tarts and quiches. The term also relates to traditional breads, such as cebularz and chleb, which reflect regional culinary heritage, including the pagès and piadina. Legal frameworks support bakers and their wares, promoting gourmet options while addressing health concerns linked to stanols and sterols. Overall, \"bread\" signifies a vital component of EU food culture, regulated to maintain high standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:20.431402",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 577,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 275,
+      "selected_avg_freq": 85.46
+    },
+    "related_words": [
+      "salinātā",
+      "rudzu",
+      "rupjmaize",
+      "alfacar",
+      "pagès",
+      "català",
+      "maltose",
+      "doughs",
+      "pizzas",
+      "quiches",
+      "tarts",
+      "focaccia",
+      "recco",
+      "gourmet",
+      "nonsensical",
+      "dictating",
+      "cebularz",
+      "lubelski",
+      "daujėnų",
+      "naminė",
+      "duona",
+      "pane",
+      "tinca",
+      "gobba",
+      "dorata",
+      "pianalto",
+      "poirino",
+      "upplandskubb",
+      "chleb",
+      "prądnicki"
+    ],
+    "prompt_length": 1601,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "930",
+  "concept_data": {
+    "title": "mode of enforcement",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "enforcement of ruling",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mode of enforcement,\" redirected to \"enforcement of ruling,\" pertains to the mechanisms by which judicial decisions are executed within the EU legal framework. This involves ensuring that rulings are enforceable across member states, thereby enhancing predictability for claimants and defendants alike. The Lugano Convention and Hague Regulations provide a modernised approach to cross-border enforcement, allowing courts to hear cases involving misappropriated assets or disputes over domicile. The enforceability of rulings is crucial for policyholders and insured parties, particularly in reinsurance contexts. By fostering parallelism and autonomy among jurisdictions, the EU aims to create a swifter, more effective enforcement regime, ensuring that even weaker claims are not rendered ineffective.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:38:18.721759",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 515,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 632,
+      "selected_avg_freq": 307.12666666666667
+    },
+    "related_words": [
+      "swifter",
+      "paved",
+      "policyholder",
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "claimant",
+      "sued",
+      "defendant",
+      "misappropriated",
+      "domiciled",
+      "domicile",
+      "enumerates",
+      "defendants",
+      "lugano",
+      "parallelism",
+      "modernised",
+      "reassess",
+      "weaker",
+      "reinsurance",
+      "abstain",
+      "enforceability",
+      "enforceable",
+      "tunisian",
+      "insured",
+      "autonomy",
+      "ineffective",
+      "patent",
+      "appeals"
+    ],
+    "prompt_length": 1721,
+    "category": "1221 justice"
+  }
+}

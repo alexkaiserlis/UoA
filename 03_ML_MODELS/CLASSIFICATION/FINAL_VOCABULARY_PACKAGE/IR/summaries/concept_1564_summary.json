@@ -1,0 +1,63 @@
+{
+  "concept_id": "1564",
+  "concept_data": {
+    "title": "wool",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wool,\" categorized under animal products (6011), encompasses various forms such as carded, combed, and bleached wool. In EU legal frameworks, wool is subject to stringent regulations that scrutinize its production processes, including degreasing and carbonizing. Notably, trademarked variants like \"phildar\" and \"harrap\" illustrate the market's diversity. The legal landscape also addresses the potential harms of substandard wool, ensuring that products like carpets and garments meet quality standards. Additionally, the coexistence of traditional and modern practices, such as the use of linters and the production of garnetted wool, reflects the industry's evolution. Regulatory bodies may issue writs or summons to enforce compliance, emphasizing the importance of descriptive labeling and adherence to standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:33:44.639832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 699,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 220,
+      "selected_avg_freq": 83.33333333333333
+    },
+    "related_words": [
+      "garnetted",
+      "degreasing",
+      "carbonizing",
+      "phildar",
+      "harrap",
+      "mulliez",
+      "hindustani",
+      "nobleman",
+      "tribal",
+      "dijonnaise",
+      "phildon",
+      "phildora",
+      "dar",
+      "unopposed",
+      "roubaix",
+      "chancery",
+      "writ",
+      "summons",
+      "wrapper",
+      "trademarked",
+      "scrutinizes",
+      "linters",
+      "harms",
+      "sirdar",
+      "phonetic",
+      "redeeming",
+      "coarse",
+      "fears",
+      "bros",
+      "wools"
+    ],
+    "prompt_length": 1627,
+    "category": "6011 animal product"
+  }
+}

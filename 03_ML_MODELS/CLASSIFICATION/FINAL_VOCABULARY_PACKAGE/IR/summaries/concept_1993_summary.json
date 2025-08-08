@@ -1,0 +1,26 @@
+{
+  "concept_id": "1993",
+  "concept_data": {
+    "title": "occupational mortality",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Occupational mortality refers to the incidence of death resulting from work-related hazards and conditions, a critical concern in EU legal and regulatory frameworks. This concept is essential for understanding demographic trends and population health within the workforce. The European Union has established various directives and regulations aimed at reducing occupational mortality, emphasizing the need for safe working environments. These regulations mandate risk assessments, the implementation of health and safety measures, and the monitoring of workplace conditions to mitigate factors contributing to occupational mortality. By addressing this issue, the EU seeks to enhance public health and promote sustainable labor practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:13.588788",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1187,
+    "category": "2816 demography and population"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2747",
+  "concept_data": {
+    "title": "polishing and scouring preparations",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Polishing and scouring preparations\" refer to chemical formulations designed for cleaning and surface enhancement, often utilized in domestic and industrial applications. In the EU regulatory context, these preparations must comply with safety standards concerning their ingredients, such as acrylaldehyde and nonylphenol ethoxylate, which may trigger concerns over biodegradation and environmental impact. The presence of corrosive agents like dichlorobenzene (DCB) necessitates proper labeling and safety measures to mitigate risks associated with fumes and aversive reactions. Additionally, formulations may include fresheners and deodorisers, which enhance user experience but must be evaluated for their potential mitogenic effects. Compliance with REACH and CLP regulations is critical to ensure that these products do not impair health or the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:38.241966",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1067,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 66,
+      "selected_avg_freq": 27.72
+    },
+    "related_words": [
+      "oxygenation",
+      "tranference",
+      "particularr",
+      "npe",
+      "acrylaldehyde",
+      "branched",
+      "formulants",
+      "formulant",
+      "dichlorobenzene",
+      "dcb",
+      "fresheners",
+      "moth",
+      "repellent",
+      "toilets",
+      "deodoriser",
+      "freshener",
+      "mitogen",
+      "çöz",
+      "levent",
+      "kimya",
+      "karakus",
+      "iserlohn",
+      "limescale",
+      "remover",
+      "removers",
+      "bittering",
+      "repulsive",
+      "photosynthesis",
+      "guerbet",
+      "dehypon"
+    ],
+    "prompt_length": 1699,
+    "category": "6811 chemistry"
+  }
+}

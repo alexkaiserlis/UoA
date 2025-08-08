@@ -1,0 +1,63 @@
+{
+  "concept_id": "2695",
+  "concept_data": {
+    "title": "administrative procedure",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"administrative procedure\" within EU legal and regulatory contexts refers to the systematic processes through which public authorities, including executive bodies, deliver decisions and services. This concept emphasizes harmonization across member states to ensure consistency, particularly in areas like aviation, where terms such as microlight and sailplanes are regulated. Administrative procedures must address potential inaccuracies and invalidity in filings, ensuring that decisions are made transparently and effectively. The centralisation of procedures allows for multiparty engagement, while the revocation of decisions can impinge on rights, necessitating careful examination by qualified examiners. The use of biometrics and other modern tools further enhances procedural efficiency, although challenges like monopolies and unsuccessful motions may arise. Ultimately, the administrative procedure is crucial for maintaining the integrity of public service delivery in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:38:35.857160",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 1049,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 233,
+      "selected_avg_freq": 104.02
+    },
+    "related_words": [
+      "simap",
+      "hang",
+      "ultralight",
+      "amj",
+      "fan",
+      "inaccuracy",
+      "harmonizaiton",
+      "cpv",
+      "microlight",
+      "faa",
+      "jar",
+      "sailplanes",
+      "vocabulary",
+      "gliders",
+      "readjusted",
+      "multiparty",
+      "examiners",
+      "vla",
+      "inconsistently",
+      "tsos",
+      "compressor",
+      "impinge",
+      "apu",
+      "renunciation",
+      "tso",
+      "banknote",
+      "irrecoverable",
+      "jars",
+      "centralisation",
+      "shaft"
+    ],
+    "prompt_length": 1677,
+    "category": "0436 executive power and public service"
+  }
+}

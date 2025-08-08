@@ -1,0 +1,63 @@
+{
+  "concept_id": "2474",
+  "concept_data": {
+    "title": "competition policy",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Competition policy within the EU framework is designed to ensure a fair and competitive market environment, preventing monopolistic practices and fostering economic growth. It regulates entities such as Bouygues and Costain, ensuring they compete effectively without engaging in anti-competitive behaviors. The policy encompasses various sectors, including the transport sector, exemplified by Eurotunnel shuttles and the infrastructural contributions of firms like Tarmac and Wimpey. It addresses the interests of stakeholders, including invitees and auxiliary businesses, while promoting innovation and efficiency. The overarching goal is to create a balanced market landscape where companies like Metaleurop and Britannia can thrive, thereby enhancing consumer welfare and economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:24:29.250218",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1428,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 49,
+      "selected_avg_freq": 16.12
+    },
+    "related_words": [
+      "vulkan",
+      "vegesack",
+      "cgrt",
+      "astano",
+      "astander",
+      "eurotunnel",
+      "maître",
+      "oeuvre",
+      "ctg",
+      "transmanche",
+      "beatty",
+      "costain",
+      "tarmac",
+      "wimpey",
+      "bouygues",
+      "dumez",
+      "auxiliaire",
+      "spie",
+      "batignolles",
+      "tml",
+      "invitees",
+      "invitee",
+      "shuttles",
+      "atkins",
+      "économiques",
+      "halcrow",
+      "tractionel",
+      "electrobel",
+      "wordl",
+      "intereset"
+    ],
+    "prompt_length": 1653,
+    "category": "4031 competition"
+  }
+}

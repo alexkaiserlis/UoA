@@ -1,0 +1,63 @@
+{
+  "concept_id": "1036",
+  "concept_data": {
+    "title": "inland waterway fleet",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"inland waterway fleet\" constitutes a vital component of the EU's maritime and inland waterway transport sector, encompassing various vessels, including barges, tankers, and pushers. This fleet is subject to regulatory frameworks aimed at modernizing operations and bolstering efficiency, while also addressing bottlenecks that afflict transporters. The EU encourages the scrapping of outdated boats to curb environmental impacts and stimulate the adoption of more efficient tonnages. Skippers and boatmen play crucial roles in navigating these waterways, and their operations are often affected by policies that apportion resources and restrictively classify vessels. Achievements in this sector are enumerated in regulatory documents, reflecting a commitment to sustainable transport solutions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:43.743942",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 863,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 297,
+      "selected_avg_freq": 133.88666666666666
+    },
+    "related_words": [
+      "vessles",
+      "reciprocation",
+      "consitute",
+      "redirecting",
+      "bolstering",
+      "afflicted",
+      "boatmen",
+      "classing",
+      "ecshould",
+      "scapping",
+      "movereover",
+      "barges",
+      "undoing",
+      "discern",
+      "prefinanced",
+      "ccnr",
+      "deadweight",
+      "pusher",
+      "skippers",
+      "abandoning",
+      "motives",
+      "apportion",
+      "push",
+      "allot",
+      "transporters",
+      "bottlenecks",
+      "enumerated",
+      "restrictively",
+      "bolstered",
+      "discriminating"
+    ],
+    "prompt_length": 1726,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

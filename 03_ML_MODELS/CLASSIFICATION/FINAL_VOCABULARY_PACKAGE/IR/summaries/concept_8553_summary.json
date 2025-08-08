@@ -1,0 +1,63 @@
+{
+  "concept_id": "8553",
+  "concept_data": {
+    "title": "Treaty of Lisbon",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Treaty of Lisbon, a pivotal constitutional document of the European Union (EU), significantly rejoined and redefined the legal framework governing EU operations. It established the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU), enhancing the EU's capacity to fight crime and manage judicial cooperation through agencies like Europol and Eurojust. The treaty facilitates accessing databases such as Eurodac for fingerprint and DNA detection, crucial for preventing criminal offences. It also outlines the roles of the President and heads of state in convening sessions, ensuring that decisions are made with necessary consent and in a timely manner, thus avoiding disruption in EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:15:27.361544",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 239,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1738,
+      "selected_avg_freq": 792.9866666666667
+    },
+    "related_words": [
+      "rejoin",
+      "rejoining",
+      "possiblity",
+      "rejoins",
+      "convening",
+      "prüm",
+      "eurodac",
+      "fingerprint",
+      "unavoidably",
+      "eurojust",
+      "convene",
+      "repay",
+      "dna",
+      "consequential",
+      "accessing",
+      "offences",
+      "europol",
+      "teu",
+      "constitutional",
+      "vote",
+      "merits",
+      "crime",
+      "database",
+      "jha",
+      "criminal",
+      "police",
+      "cessation",
+      "significance",
+      "decides",
+      "heads"
+    ],
+    "prompt_length": 1639,
+    "category": "1011 European Union law"
+  }
+}

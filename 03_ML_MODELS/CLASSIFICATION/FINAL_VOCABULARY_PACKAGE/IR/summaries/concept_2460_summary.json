@@ -1,0 +1,63 @@
+{
+  "concept_id": "2460",
+  "concept_data": {
+    "title": "aid policy",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"aid policy\" within the EU legal framework encompasses strategies aimed at revitalisation and reconstruction in regions facing poverty and democratic challenges. This policy is multifaceted, addressing the heterogeneity of needs across various countries, such as Haiti and Mongolia, and is evidenced by disbursements from entities like the IMF and EBRD. The EU's approach emphasizes complementarity and partnerships, ensuring that aid maximizes chances for successful outcomes. Through tranches of funding, the policy supports electoral processes and broader governance reforms, reaffirming commitments to democratic principles. Directors and governors play crucial roles in overseeing these initiatives, which are often voted on unanimously to ensure effective implementation.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:41.982737",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 447,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 765,
+      "selected_avg_freq": 348.06666666666666
+    },
+    "related_words": [
+      "coping",
+      "multifunctional",
+      "alarming",
+      "accomplishing",
+      "revitalisation",
+      "chances",
+      "deserves",
+      "ebrd",
+      "haitian",
+      "governor",
+      "standby",
+      "heterogeneity",
+      "haiti",
+      "evidenced",
+      "disbursements",
+      "electoral",
+      "balkan",
+      "maximise",
+      "disbursed",
+      "reformed",
+      "voted",
+      "admit",
+      "mongolia",
+      "imf",
+      "salvador",
+      "path",
+      "cap",
+      "governors",
+      "macro",
+      "complementarity"
+    ],
+    "prompt_length": 1692,
+    "category": "0811 cooperation policy"
+  }
+}

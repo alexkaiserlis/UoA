@@ -1,0 +1,63 @@
+{
+  "concept_id": "2744",
+  "concept_data": {
+    "title": "toilet preparation",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "cosmetic product",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"toilet preparation,\" as a redirect to \"cosmetic product,\" encompasses a range of formulations intended for personal care, including items like toothpaste and scalp treatments. In the EU regulatory framework, these products must adhere to stringent safety standards, particularly regarding toxicities associated with ingredients such as nitrophenol, benzalkonium, and methylether. Regulatory bodies assess the safety of compounds like dialkanolamines and terpenoids, ensuring consumer protection. Additionally, substances like methylchloroisothiazolinone and hexahydrocoumarin are scrutinized for their potential effects. The classification of these products reflects a commitment to deference in consumer safety, with ongoing evaluations of emerging compounds like propynyl and carbonyl derivatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:08.764897",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1965,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.26
+    },
+    "related_words": [
+      "nitrophenol",
+      "midazol",
+      "ylacrylic",
+      "benzoyl",
+      "methylether",
+      "methoxyphenol",
+      "dialkanolamine",
+      "dialkanolamines",
+      "dialkylamines",
+      "alkanolamines",
+      "alkylamines",
+      "pyrimidine",
+      "toxicities",
+      "costus",
+      "saussurea",
+      "lappa",
+      "hexahydrocoumarin",
+      "myroxylon",
+      "pereirae",
+      "deference",
+      "oxazolidine",
+      "verbena",
+      "lippia",
+      "citriodora",
+      "kunth",
+      "phenethyl",
+      "terpene",
+      "terpenoids",
+      "sinpine",
+      "10îźg"
+    ],
+    "prompt_length": 1790,
+    "category": "6811 chemistry"
+  }
+}

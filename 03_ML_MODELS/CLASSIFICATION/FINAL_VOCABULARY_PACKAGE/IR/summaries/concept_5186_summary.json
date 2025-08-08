@@ -1,0 +1,63 @@
+{
+  "concept_id": "5186",
+  "concept_data": {
+    "title": "audiovisual programme",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"audiovisual programme\" within EU legal and regulatory frameworks encompasses a diverse range of broadcasting content, essential for cultural heritage and communication. As emphasized in various directives, these programmes are indispensable for networking and enriching the linguistic landscape of the EU. The emergence of novel technologies has intensified the deployment of audiovisual modules, enhancing viewer engagement. Professionals in the field, including those from institutions like Novartis and Vinci, acknowledge the need for prudent regulations that address dietary and health-related content, such as those involving phytosterols and carotene. The regulatory landscape continues to upgrade, ensuring that audiovisual content meets elevated standards while fostering innovation in broadcasting practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:17:15.521250",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 466,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 685,
+      "selected_avg_freq": 300.7733333333333
+    },
+    "related_words": [
+      "forbes",
+      "medi",
+      "ccee",
+      "scholz",
+      "bangemann",
+      "concurred",
+      "vinci",
+      "indispensible",
+      "sterol",
+      "leonardo",
+      "carotene",
+      "proxima",
+      "jürgen",
+      "phytostanols",
+      "phytostanol",
+      "phytosterols",
+      "novartis",
+      "corfu",
+      "tech",
+      "essen",
+      "elevated",
+      "eupol",
+      "scf",
+      "allergies",
+      "dietetic",
+      "acknowledging",
+      "networking",
+      "intakes",
+      "enriched",
+      "audiovisual"
+    ],
+    "prompt_length": 1669,
+    "category": "3226 communications"
+  }
+}

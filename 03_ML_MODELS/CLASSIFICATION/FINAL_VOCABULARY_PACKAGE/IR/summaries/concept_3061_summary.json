@@ -1,0 +1,63 @@
+{
+  "concept_id": "3061",
+  "concept_data": {
+    "title": "Flanders (Belgium)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Flanders, a region of Belgium, plays a significant role in the EU's regulatory frameworks, particularly concerning structural funds such as the European Regional Development Fund (ERDF) and the European Social Fund (ESF). The region's development plans are indicative of broader Belgian priorities, focusing on rural investment and effective partnership structures. Flanders is consulted in the preparation of budgetary commitments, ensuring that selected tasks align with EU guidelines. The declaration of intent for investment includes details on the duration and effectiveness of funds allocated. The coordination of these efforts is crucial for achieving the objectives outlined in the main texts of EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:10:08.610637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1844.9344262295083
+    },
+    "related_words": [
+      "hageland",
+      "esf",
+      "intent",
+      "frameworks",
+      "erdf",
+      "eib",
+      "belgian",
+      "indicative",
+      "eaggf",
+      "rural",
+      "priorities",
+      "indication",
+      "source",
+      "selected",
+      "partnership",
+      "dutch",
+      "texts",
+      "plans",
+      "commitments",
+      "guidance",
+      "description",
+      "structures",
+      "approving",
+      "preparation",
+      "bank",
+      "details",
+      "budgetary",
+      "tasks",
+      "belgium",
+      "title"
+    ],
+    "prompt_length": 1666,
+    "category": "7211 regions of EU Member States"
+  }
+}

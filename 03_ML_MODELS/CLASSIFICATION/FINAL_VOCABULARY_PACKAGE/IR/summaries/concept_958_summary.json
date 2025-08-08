@@ -1,0 +1,63 @@
+{
+  "concept_id": "958",
+  "concept_data": {
+    "title": "non-refundable aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Non-refundable aid refers to financial assistance provided by the EU that does not require repayment, often aimed at facilitating macro-level reforms in candidate countries such as Albania, Macedonia, and Bosnia and Herzegovina. This aid is crucial for the reconstruction and stabilisation of these regions, particularly in the context of the former Yugoslavia. The delivery of non-refundable aid is typically structured in tranches, with funds committed to specific reform components. Delays in reaching agreed milestones can hinder the efficient allocation of these resources. The EU agencies oversee the arrangement and ensure that the best practices are followed in the submission and delivery of these funds, which are vital for local development and broader economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:13:08.521750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 116,
+      "requested_words": 150,
+      "min_frequency_found": 84,
+      "max_frequency_found": 4108,
+      "selected_words": 116,
+      "selected_min_freq": 84,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1581.2155172413793
+    },
+    "related_words": [
+      "speedy",
+      "path",
+      "macro",
+      "reconstruction",
+      "tranche",
+      "albania",
+      "reforms",
+      "delayed",
+      "stand",
+      "outstanding",
+      "stabilisation",
+      "macedonia",
+      "facilitated",
+      "bosnia",
+      "herzegovina",
+      "yugoslav",
+      "broad",
+      "loan",
+      "delays",
+      "reaching",
+      "yugoslavia",
+      "deliver",
+      "comprising",
+      "submitting",
+      "continues",
+      "component",
+      "released",
+      "croatia",
+      "principal",
+      "delegated"
+    ],
+    "prompt_length": 1668,
+    "category": "0811 cooperation policy"
+  }
+}

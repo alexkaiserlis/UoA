@@ -1,0 +1,63 @@
+{
+  "concept_id": "5706",
+  "concept_data": {
+    "title": "Republic of Latvia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Latvia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Latvia,\" a redirect to the preferred term \"Latvia,\" is a significant entity in EU political geography. This Baltic state, known for its rich cultural heritage, including traditional foods like sklandrausis and rupjmaize, plays a crucial role in EU regulatory frameworks. Legal discourse often references notable figures such as Gunārs Bērziņš and Aleksandrs Uldis, who contribute to Latvia's legislative landscape. The country’s commitment to transparency and subsidising initiatives aligns with EU objectives, enhancing its maritime and trade sectors, notably in areas like handelsvaart and marina development. Latvia's evolving political sentiment reflects broader Baltic dynamics, impacting EU policy-making and regional cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:34:05.555423",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2521,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 14.106666666666667
+    },
+    "related_words": [
+      "bērziņš",
+      "gunars",
+      "krusts",
+      "uldis",
+      "augulis",
+      "aleksandrs",
+      "lielmežs",
+      "gunārs",
+      "laicāns",
+      "edgars",
+      "zalāns",
+      "indra",
+      "rassa",
+      "jaunsleinis",
+      "jānis",
+      "kalnačs",
+      "arvīds",
+      "kucins",
+      "andris",
+      "salinātā",
+      "rudzu",
+      "rupjmaize",
+      "ainārs",
+      "šlesers",
+      "sergejs",
+      "dolgopolovs",
+      "sanda",
+      "liepina",
+      "sklandrausis",
+      "sentiment"
+    ],
+    "prompt_length": 1671,
+    "category": "7236 political geography"
+  }
+}

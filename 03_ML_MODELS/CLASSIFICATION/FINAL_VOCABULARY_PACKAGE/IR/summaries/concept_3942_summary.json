@@ -1,0 +1,63 @@
+{
+  "concept_id": "3942",
+  "concept_data": {
+    "title": "financial solvency",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial solvency, a critical concept in EU civil law, embodies the capacity of an entity to meet its financial obligations, particularly in the context of insolvency proceedings. Legislators strive to empower liquidators and affiliated parties by codifying protections that enhance creditworthiness and ensure orderly resettlement of assets. The prescriptive nature of financial regulations, such as those enforced by EIOPA and CESR, mechanistically extends to various financial instruments, including AIFMs and UCITS. This framework enumerates the responsibilities of supervisors and the implications for conglomerate structures, ensuring that entities do not overly dominate the market. By documenting solvency assessments, the EU aims to fortiori safeguard stakeholders against the risks of disappearing capital and enhance the overall stability of the financial system.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:08:54.232124",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1180,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 175,
+      "selected_avg_freq": 82.36
+    },
+    "related_words": [
+      "empowerments",
+      "cartiera",
+      "arbatax",
+      "extendible",
+      "perpetuating",
+      "persona",
+      "ons",
+      "gab",
+      "reschedules",
+      "iorps",
+      "mechanistically",
+      "documenting",
+      "omnibus",
+      "codifying",
+      "aifs",
+      "jfsa",
+      "eiopa",
+      "enumerate",
+      "overly",
+      "ordinances",
+      "aifms",
+      "liquidators",
+      "affiliated",
+      "nuova",
+      "eif",
+      "basle",
+      "protections",
+      "notional",
+      "fortiori",
+      "understands"
+    ],
+    "prompt_length": 1694,
+    "category": "1211 civil law"
+  }
+}

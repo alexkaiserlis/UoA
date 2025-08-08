@@ -1,0 +1,63 @@
+{
+  "concept_id": "2726",
+  "concept_data": {
+    "title": "decorative item",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"decorative item\" encompasses a diverse range of ornamental products, including figurines, statuettes, and knick-knacks. These items, often characterized by their stylized motifs and festive designs, serve as adornments in various settings. For instance, a penguin-shaped ornament or a floral-patterned scarf may be classified under this category. Regulatory frameworks may address aspects such as safety standards for drilled components or the use of adhesives in manufacturing. The community's interest in decorative items also extends to their cultural significance, as seen in traditional dolls or miniature representations of local figures, like a beggar or a garfield. Compliance with EU regulations ensures that these decorative items, whether hanging or unframed, meet quality and safety benchmarks, thereby enhancing consumer trust and market stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:00:10.439850",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 743,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 272,
+      "selected_avg_freq": 103.05333333333333
+    },
+    "related_words": [
+      "garfield",
+      "drilled",
+      "unframed",
+      "independant",
+      "preferentialo",
+      "thecommunity",
+      "andrăš",
+      "stopper",
+      "figurine",
+      "beggar",
+      "penguin",
+      "padlock",
+      "scarf",
+      "stylized",
+      "surmounted",
+      "nodding",
+      "miniature",
+      "doll",
+      "ornament",
+      "knick",
+      "knacks",
+      "cachou",
+      "festivities",
+      "hanging",
+      "adornment",
+      "fancy",
+      "statuettes",
+      "lowers",
+      "upload",
+      "motif"
+    ],
+    "prompt_length": 1643,
+    "category": "6846 miscellaneous industries"
+  }
+}

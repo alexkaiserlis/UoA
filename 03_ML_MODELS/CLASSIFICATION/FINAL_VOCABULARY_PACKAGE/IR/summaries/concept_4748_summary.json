@@ -1,0 +1,63 @@
+{
+  "concept_id": "4748",
+  "concept_data": {
+    "title": "trade volume",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"trade volume\" within EU legal and regulatory frameworks refers to the total quantity of goods exchanged, which can include perishable items like bananas, cherries, and cucumbers. In assessing trade volume, parameters such as seasonal disturbances and forecasts are critical, particularly for tropical products from regions like Martinique and Guadeloupe. Legal instruments may trigger observance of trade regulations to forestall deterioration in trade relations, especially concerning ACP countries. The retrospective analysis of trade volume can reveal trends that impact operators, while the outlook for trade volume may extend to hybrid products like salmon and maize. Thus, understanding trade volume is requisite for compliance and strategic planning in EU markets.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:16:11.128561",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 280,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1602,
+      "selected_avg_freq": 828.5733333333334
+    },
+    "related_words": [
+      "debbie",
+      "marilyn",
+      "luis",
+      "iris",
+      "storms",
+      "storm",
+      "cucumbers",
+      "forestall",
+      "sour",
+      "wheras",
+      "perishable",
+      "struck",
+      "cherries",
+      "martinique",
+      "banana",
+      "hybrid",
+      "tropical",
+      "guadeloupe",
+      "retrospective",
+      "trigger",
+      "outlook",
+      "salmon",
+      "bananas",
+      "atlantic",
+      "observance",
+      "endanger",
+      "maize",
+      "austrian",
+      "seasonal",
+      "hereto"
+    ],
+    "prompt_length": 1633,
+    "category": "2016 trade"
+  }
+}

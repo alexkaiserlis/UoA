@@ -1,0 +1,63 @@
+{
+  "concept_id": "5736",
+  "concept_data": {
+    "title": "Black Sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Black Sea,\" categorized under the natural environment, is a crucial biogeographical basin hosting diverse fauna and flora. EU legal frameworks regulate its ecosystems, emphasizing sustainable practices to protect habitats such as estuaries and lagoons. The region's fisheries, including species like turbot and sprat, are managed through Total Allowable Catches (TACs) and specific regulations to minimize discards and ensure the maturity of juvenile populations. Stocking initiatives aim to enhance biodiversity and support local livelihoods. The Black Sea's unique characteristics, including its sargasso-like areas and extreme conditions, necessitate coordinated efforts in habitat conservation and responsible fishing practices to prevent resource exhaustion.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:56:47.827655",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 688,
+      "selected_avg_freq": 294.32
+    },
+    "related_words": [
+      "sargasso",
+      "biogeographical",
+      "turbot",
+      "natura",
+      "sporadic",
+      "stocked",
+      "estuaries",
+      "lagoons",
+      "basins",
+      "slovene",
+      "discarding",
+      "recruit",
+      "twine",
+      "sprat",
+      "functionally",
+      "spawning",
+      "discards",
+      "rivers",
+      "habitat",
+      "juvenile",
+      "escape",
+      "lying",
+      "eel",
+      "implying",
+      "livelihood",
+      "yielded",
+      "nets",
+      "hosting",
+      "tac",
+      "tacs"
+    ],
+    "prompt_length": 1641,
+    "category": "5211 natural environment"
+  }
+}

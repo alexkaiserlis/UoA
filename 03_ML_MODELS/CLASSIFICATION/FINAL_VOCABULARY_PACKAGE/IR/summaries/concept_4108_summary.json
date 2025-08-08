@@ -1,0 +1,63 @@
+{
+  "concept_id": "4108",
+  "concept_data": {
+    "title": "thermodynamics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Thermodynamics, a critical concept in natural and applied sciences, encompasses the study of energy transfer and its properties, including entropy and temperature. In EU regulatory frameworks, thermodynamics is essential for assessing the performance of various apparatus, such as calorimeters and spectrometers, which are used in educational and industrial applications. The principles of thermodynamics are invoked in the regulation of materials, particularly in the context of vaporization and crystallization processes. Understanding the volatility of metallic vapours and the deformation of ferroelectric materials is decisive for compliance with safety standards. Moreover, advanced techniques like differential scanning calorimetry (DSC) and dilatometry are employed to measure thermal properties, ensuring justifiable use of substances in manufacturing.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:11:04.174657",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 202,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2186,
+      "selected_avg_freq": 802.2133333333334
+    },
+    "related_words": [
+      "electrometer",
+      "vaporization",
+      "entropy",
+      "ferroelectric",
+      "extranuclear",
+      "quadrupole",
+      "ionizer",
+      "ribermag",
+      "quai",
+      "halage",
+      "rueil",
+      "malmaison",
+      "quench",
+      "dilatometer",
+      "dilatronic",
+      "deformation",
+      "calorimeter",
+      "theta",
+      "iiis",
+      "thermodynamics",
+      "crystallization",
+      "dsc",
+      "multiplier",
+      "perkin",
+      "elmer",
+      "vapours",
+      "glasses",
+      "spectrometer",
+      "scanning",
+      "inorganic"
+    ],
+    "prompt_length": 1719,
+    "category": "3606 natural and applied sciences"
+  }
+}

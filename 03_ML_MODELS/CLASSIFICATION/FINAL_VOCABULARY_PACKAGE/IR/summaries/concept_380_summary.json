@@ -1,0 +1,63 @@
+{
+  "concept_id": "380",
+  "concept_data": {
+    "title": "foreign representative",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "agency abroad",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"foreign representative\" is redirected to \"agency abroad,\" which signifies an entity that operates on behalf of businesses or nationals in foreign jurisdictions. Such agencies are crucial for facilitating international trade, enabling companies to navigate complex taxation and regulatory frameworks. They may plead for advantages in taxation, ensuring compliance while maximizing profits. Additionally, these representatives are responsible for the retention of essential documents, justifying expenses, and managing portfolios across various sites. Their role is to accelerate business operations abroad, though they must operate within the confines of local laws, explicitly prohibiting any distorting practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:43:15.106464",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 234,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1753,
+      "selected_avg_freq": 825.5066666666667
+    },
+    "related_words": [
+      "ojfr",
+      "octies",
+      "unreservedly",
+      "plead",
+      "signified",
+      "disregarding",
+      "portfolio",
+      "bill",
+      "circular",
+      "distorting",
+      "abroad",
+      "reproduced",
+      "deductions",
+      "besides",
+      "taxable",
+      "neutral",
+      "ought",
+      "minister",
+      "spite",
+      "repayment",
+      "rely",
+      "profits",
+      "retention",
+      "oral",
+      "moved",
+      "sites",
+      "accelerate",
+      "justifying",
+      "offices",
+      "places"
+    ],
+    "prompt_length": 1713,
+    "category": "4006 business organisation"
+  }
+}

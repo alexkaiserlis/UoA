@@ -1,0 +1,63 @@
+{
+  "concept_id": "3650",
+  "concept_data": {
+    "title": "international meeting",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"international meeting\" encompasses formal gatherings aimed at fostering dialogue among nations, particularly within the EU framework. These meetings, often held in cities like Kiev or Bangkok, serve as forums for discussing critical issues such as greenhouse emissions and biofuels, reinforcing collaborative efforts among signatories of various pacts. The inaugural sessions typically welcome diverse personnel, including representatives from minority groups, to actively engage in resolving global challenges. By coordinating budgets and targets, these dialogues aim to build synergy and consolidate resources, ultimately pursuing broader goals within the international sphere, while ensuring the inviolability of agreements made.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:14:45.713737",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 325,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1096,
+      "selected_avg_freq": 552.16
+    },
+    "related_words": [
+      "kiev",
+      "inviolability",
+      "inaugural",
+      "welcome",
+      "minorities",
+      "bangkok",
+      "dialogues",
+      "barroso",
+      "implication",
+      "staple",
+      "commonwealth",
+      "pursues",
+      "biofuels",
+      "discuss",
+      "synergy",
+      "engaging",
+      "outer",
+      "mines",
+      "pact",
+      "prejudge",
+      "signatories",
+      "budgets",
+      "vienna",
+      "greenhouse",
+      "sphere",
+      "reinforcing",
+      "forthcoming",
+      "join",
+      "goals",
+      "resource"
+    ],
+    "prompt_length": 1666,
+    "category": "0806 international affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "604",
+  "concept_data": {
+    "title": "hill farming",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hill farming, classified under EU agricultural policy, refers to the practice of farming in steep, often infertile landscapes, characterized by communal pastures and transhumant grazing. This agricultural method is vital for maintaining biodiversity and stabilizing rural economies in regions like the Vosges and Tuscany. Hill farmers often face challenges such as depopulation and unviable rents, leading to a backlog in support measures. Regulatory frameworks aim to redefine support for these farmers, addressing issues like feedstuff sourcing and the preservation of traditional practices, including beekeeping and the management of ewes and heifers. The EU's decrees promote sustainable practices, ensuring the viability of hill farming in the vicinity of mountainous terrains.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:35.779547",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 807,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 265,
+      "selected_avg_freq": 111.56666666666666
+    },
+    "related_words": [
+      "converning",
+      "classificaton",
+      "infrastructre",
+      "hogget",
+      "communal",
+      "avalanches",
+      "transhumant",
+      "feedstuff",
+      "unviable",
+      "backlog",
+      "beekeeping",
+      "rents",
+      "vosges",
+      "beehives",
+      "landscapes",
+      "deboning",
+      "diminution",
+      "slope",
+      "infertile",
+      "slopes",
+      "guilder",
+      "winds",
+      "agricultura",
+      "headage",
+      "redefinition",
+      "transhumance",
+      "apulia",
+      "kilometre",
+      "spend",
+      "steep"
+    ],
+    "prompt_length": 1695,
+    "category": "5606 agricultural policy"
+  }
+}

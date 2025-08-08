@@ -1,0 +1,63 @@
+{
+  "concept_id": "4531",
+  "concept_data": {
+    "title": "means of public conveyance",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"means of public conveyance\" within EU legal and regulatory frameworks refers to various transport entities and services that ensure effective access to transportation markets. This includes electrical and telecommunications systems that facilitate the operation of public transport. The procurement of these services often involves tenderers submitting tenders under defined contracts, which are awarded based on commitments to quality and duration. The arrangements must comply with international standards and EU directives, ensuring that all operating undertakings benefit from comparable rights. The effective management of these contracts is crucial for devolving power to local governments and enhancing sector efficiency, ultimately resulting in improved public transport services.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:14.641053",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 46,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 46,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1820.4155844155844
+    },
+    "related_words": [
+      "devolving",
+      "tenderers",
+      "procurement",
+      "electrical",
+      "telecommunications",
+      "memorandum",
+      "tenders",
+      "comprising",
+      "award",
+      "works",
+      "ensures",
+      "understanding",
+      "entities",
+      "america",
+      "acceptance",
+      "water",
+      "supplies",
+      "contracts",
+      "commitments",
+      "comparable",
+      "power",
+      "operating",
+      "sectors",
+      "duration",
+      "energy",
+      "originating",
+      "undertakings",
+      "transport",
+      "behalf",
+      "rights"
+    ],
+    "prompt_length": 1716,
+    "category": "4811 organisation of transport"
+  }
+}

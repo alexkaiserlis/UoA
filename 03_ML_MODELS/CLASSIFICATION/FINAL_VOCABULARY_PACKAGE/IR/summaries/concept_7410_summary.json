@@ -1,0 +1,63 @@
+{
+  "concept_id": "7410",
+  "concept_data": {
+    "title": "fingerprint",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "biometrics",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"fingerprint\" is a redirect to the preferred term \"biometrics,\" encompassing various identifiers, including dactyloscopic data. Biometrics, particularly fingerprints, enhance security measures in immigration and passport control, facilitating contactless verification. The use of fingerprints is governed by strict prerequisites to prevent falsifications and counterfeiting, ensuring that only readable and interoperable data is utilized. The Prüm framework exemplifies cooperation among member states in accessing biometric databases, addressing offences related to identity fraud. As technology evolves, the activation of chip-enabled passports and the integration of DNA data may further upgrade functionalities, unavoidably impacting minors and privacy rights.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:50.831720",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 713,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 380,
+      "selected_avg_freq": 190.44666666666666
+    },
+    "related_words": [
+      "contactless",
+      "finger",
+      "falsifications",
+      "minors",
+      "prague",
+      "rejoining",
+      "possiblity",
+      "searching",
+      "dactyloscopic",
+      "prüm",
+      "fingers",
+      "chip",
+      "fingerprint",
+      "biometrics",
+      "addressee",
+      "unavoidably",
+      "fingerprints",
+      "slovene",
+      "biometric",
+      "summarising",
+      "falsification",
+      "repay",
+      "secret",
+      "enhances",
+      "readable",
+      "interoperable",
+      "dna",
+      "prerequisites",
+      "sis",
+      "consequential"
+    ],
+    "prompt_length": 1762,
+    "category": "3606 natural and applied sciences"
+  }
+}

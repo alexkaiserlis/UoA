@@ -1,0 +1,63 @@
+{
+  "concept_id": "1456",
+  "concept_data": {
+    "title": "renovation of housing",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "improvement of housing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"renovation of housing,\" redirected to \"improvement of housing,\" encompasses various legal and regulatory frameworks within the EU, particularly concerning residential property. This process involves comprehensive steps to enhance immovable assets, which may include letting arrangements and addressing undeclared properties. The EU aims to harmonise taxation regimes, allowing taxpayers to deduct renovation costs, thereby mitigating adverse financial consequences. Such improvements can also influence employment in the construction sector, with potential budgetary impacts on member states. Derogations may apply to specific cases, ensuring that consumer wishes are met while maintaining compliance with VAT and turnover regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:50.335854",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 150,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1655.4933333333333
+    },
+    "related_words": [
+      "restaurant",
+      "letting",
+      "undeclared",
+      "taxpayers",
+      "dispensing",
+      "residential",
+      "rental",
+      "immovable",
+      "reconstituted",
+      "existent",
+      "really",
+      "inevitably",
+      "opt",
+      "reintroduce",
+      "deduct",
+      "input",
+      "job",
+      "accruing",
+      "deduction",
+      "negotiation",
+      "wishes",
+      "vat",
+      "taxation",
+      "derogate",
+      "turnover",
+      "taxes",
+      "distortion",
+      "property",
+      "sixth",
+      "losses"
+    ],
+    "prompt_length": 1741,
+    "category": "2846 construction and town planning"
+  }
+}

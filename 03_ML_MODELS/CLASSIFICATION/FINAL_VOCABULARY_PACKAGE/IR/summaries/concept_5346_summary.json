@@ -1,0 +1,63 @@
+{
+  "concept_id": "5346",
+  "concept_data": {
+    "title": "cellulose",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cellulose, a fundamental component in the wood industry, is extensively utilized in various applications, including absorbent materials such as bandages, gauze, and surgical dressings. In EU regulatory frameworks, cellulose is often prescribed for its biocompatibility and safety in medical contexts, particularly in hospitals where it is used in products like plasters and undergarments for bedridden patients. The substance may be processed into films and coatings, enhancing its functionality in diverse products, including paperboard and absorbent towels. Regulatory bodies monitor cellulose for irritants and migration of substances, ensuring that materials like diethyleneglycol and monoethyleneglycol remain safe in consumer applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:56:30.268901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 383,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 812,
+      "selected_avg_freq": 283.6
+    },
+    "related_words": [
+      "drawsheets",
+      "bedridden",
+      "secreted",
+      "handkerchiefs",
+      "absorbent",
+      "plasters",
+      "poultices",
+      "undergarments",
+      "folding",
+      "incontinence",
+      "diethyleneglycol",
+      "ethanediol",
+      "monoethyleneglycol",
+      "bandages",
+      "gauze",
+      "towels",
+      "wadding",
+      "uncoated",
+      "babies",
+      "simulants",
+      "filtration",
+      "hydroxyethyl",
+      "regenerated",
+      "irritant",
+      "adhesive",
+      "impregnated",
+      "dressings",
+      "surgical",
+      "paperboard",
+      "recognisable"
+    ],
+    "prompt_length": 1711,
+    "category": "6836 wood industry"
+  }
+}

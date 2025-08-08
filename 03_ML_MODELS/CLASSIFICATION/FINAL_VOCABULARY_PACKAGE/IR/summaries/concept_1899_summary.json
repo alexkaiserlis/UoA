@@ -1,0 +1,63 @@
+{
+  "concept_id": "1899",
+  "concept_data": {
+    "title": "United Mexican States",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Mexico",
+    "relation_type": "USE"
+  },
+  "summary": "The \"United Mexican States,\" commonly referred to as \"Mexico,\" is a significant entity in political geography, particularly within EU legal and regulatory frameworks. This nation encompasses diverse territorie, including discontinuous regions such as Tabasco and Veracruz, which are subject to various economic and sanitary disposiciones. The EU often engages with Mexico in establishing trade agreements, addressing risks sanitarios, and evaluating economic impacts through institutiones like the Comisión Nacional Bancaria y de Valores (CNBV). Additionally, the EU's regulatory bodies may summon Mexican counterparts to discuss issues related to valores and administrative compliance. The relationship underscores Mexico's role in international trade and regulatory alignment, transforming its economic landscape while navigating complex legal frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:41:09.525908",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1335,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 70,
+      "selected_avg_freq": 30.226666666666667
+    },
+    "related_words": [
+      "territoies",
+      "territorie",
+      "discountinuous",
+      "establishiing",
+      "transformados",
+      "siderúrgicos",
+      "siderurgicos",
+      "ptas",
+      "calcu",
+      "lated",
+      "económico",
+      "charanda",
+      "sotol",
+      "bancaria",
+      "cnbv",
+      "disposiciones",
+      "aplicables",
+      "institutiones",
+      "calificadoras",
+      "refrence",
+      "diskcomp",
+      "contentions",
+      "sanitaria",
+      "bienes",
+      "dgcsbs",
+      "monterrey",
+      "diagnóstico",
+      "valores",
+      "tabasco",
+      "veracruz"
+    ],
+    "prompt_length": 1740,
+    "category": "7236 political geography"
+  }
+}

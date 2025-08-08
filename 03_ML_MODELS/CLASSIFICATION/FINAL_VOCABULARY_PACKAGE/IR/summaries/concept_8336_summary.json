@@ -1,0 +1,63 @@
+{
+  "concept_id": "8336",
+  "concept_data": {
+    "title": "Sofia District region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Sofia District region\" is a significant geographical area within Bulgaria, recognized under EU regulations pertaining to agricultural products. This region is known for its unique foodstuffs, including the renowned българско розово масло (bulgarsko rozovo maslo), which has received Protected Geographical Indication (PGI) status. The designation aims to protect the quality and origin of these products, ensuring they meet stringent standards. Applications for such designations are published in the Official Journal of the European Union, pursuant to regulations established by the European Commission and the Council. The functioning of these schemes is critical for maintaining the integrity of agricultural products entering the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:07:13.899475",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 41,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 41,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1721.2926829268292
+    },
+    "related_words": [
+      "българско",
+      "розово",
+      "масло",
+      "bulgarsko",
+      "rozovo",
+      "maslo",
+      "pgi",
+      "opposition",
+      "designations",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "bulgaria",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "september",
+      "implementing",
+      "functioning",
+      "pursuant"
+    ],
+    "prompt_length": 1612,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "506",
+  "concept_data": {
+    "title": "supplementary activity",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "holding of two jobs",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supplementary activity,\" also referred to as the \"holding of two jobs,\" pertains to employment regulations within the EU framework. This term is significant for various institutions, including the European Atomic Energy Community (EURATOM) and the European Coal and Steel Community (ECSC), as it relates to the legal obligations of directors and operators. Such activities must be undertaken with awareness of confidentiality and potential conflicts of interest. The European Court of Justice (ECJ) has addressed cases where individuals engage in multiple employments, emphasizing the need for inclusive regulations that safeguard workers' rights. This concept is crucial for ensuring fair employment practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:47:00.698169",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 61,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 61,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1533.4426229508197
+    },
+    "related_words": [
+      "consejo",
+      "telefónica",
+      "administrativo",
+      "bangemann",
+      "referral",
+      "telecom",
+      "eaec",
+      "directors",
+      "undertakes",
+      "confidential",
+      "ended",
+      "permanently",
+      "inclusive",
+      "settlement",
+      "vis",
+      "aware",
+      "operator",
+      "note",
+      "coal",
+      "accept",
+      "safeguard",
+      "steel",
+      "represent",
+      "atomic",
+      "ecsc",
+      "employment",
+      "board",
+      "justice",
+      "office",
+      "court"
+    ],
+    "prompt_length": 1674,
+    "category": "4406 employment"
+  }
+}

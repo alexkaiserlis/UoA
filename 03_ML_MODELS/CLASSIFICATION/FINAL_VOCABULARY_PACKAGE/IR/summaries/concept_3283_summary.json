@@ -1,0 +1,63 @@
+{
+  "concept_id": "3283",
+  "concept_data": {
+    "title": "profitability",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Profitability, as defined within the context of EU legal and regulatory frameworks, refers to the optimal performance of entities, particularly in relation to their financial sustainability and cost management. The European Commission and Parliament establish directives that contain requirements for calculating profitability levels, ensuring compliance with relevant regulations. This includes methodologies for correcting errors in financial reporting and supplementing data to enhance transparency. The framework is crucial for buildings and energy sectors, where profitability impacts investment decisions. The EEA and Council regulations further emphasize the relevance of profitability in establishing a functioning internal market, as outlined in the official journal of the Union.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:59:24.875637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 39,
+      "requested_words": 150,
+      "min_frequency_found": 168,
+      "max_frequency_found": 4108,
+      "selected_words": 39,
+      "selected_min_freq": 168,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1923.3333333333333
+    },
+    "related_words": [
+      "comparative",
+      "buildings",
+      "optimal",
+      "hungarian",
+      "errors",
+      "methodology",
+      "correcting",
+      "building",
+      "delegated",
+      "calculating",
+      "corrected",
+      "supplementing",
+      "performance",
+      "energy",
+      "elements",
+      "cost",
+      "contains",
+      "levels",
+      "several",
+      "minimum",
+      "relevance",
+      "eea",
+      "framework",
+      "directive",
+      "requirements",
+      "text",
+      "accordingly",
+      "functioning",
+      "january",
+      "parliament"
+    ],
+    "prompt_length": 1575,
+    "category": "4026 accounting"
+  }
+}

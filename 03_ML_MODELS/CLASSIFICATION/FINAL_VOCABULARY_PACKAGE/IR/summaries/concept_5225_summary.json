@@ -1,0 +1,63 @@
+{
+  "concept_id": "5225",
+  "concept_data": {
+    "title": "fight against insects",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU's \"fight against insects\" concept encompasses regulatory measures aimed at managing invasive species that threaten biodiversity and agricultural productivity. This includes addressing parasites like aethina tumida and the impact of monoculture practices on pollinators such as bumblebees (Bombus spp.). Legal frameworks facilitate the surveying of apiaries to prevent the spread of diseases like anaplasmosis and babesiosis. The EU also promotes sustainable practices, encouraging the preservation of hardwood forests (Fagus silvatica) and the protection of native species against cryptic invaders. By fostering a trophic balance, the EU aims to safeguard ecosystems, ensuring that beneficial insects, including those in apiaries, thrive amidst challenges posed by invasive species like Epitrix and Malasiaca.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:07:15.481524",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 806,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 150,
+      "selected_avg_freq": 53.626666666666665
+    },
+    "related_words": [
+      "heartwater",
+      "invade",
+      "discovering",
+      "bumblebees",
+      "cryptic",
+      "platanoides",
+      "braunau",
+      "fagus",
+      "silvatica",
+      "apiary",
+      "malasiaca",
+      "monoculture",
+      "abovmentioned",
+      "olivier",
+      "apiaries",
+      "epitrix",
+      "cucumeris",
+      "similaris",
+      "gentner",
+      "subcrinita",
+      "lec",
+      "tuberis",
+      "nucleus",
+      "forster",
+      "comb",
+      "thinks",
+      "anaplasmosis",
+      "babesiosis",
+      "cowdriosis",
+      "parasite"
+    ],
+    "prompt_length": 1688,
+    "category": "5206 environmental policy"
+  }
+}

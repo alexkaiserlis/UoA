@@ -1,0 +1,63 @@
+{
+  "concept_id": "525",
+  "concept_data": {
+    "title": "European law",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU law",
+    "relation_type": "USE"
+  },
+  "summary": "\"European law,\" commonly referred to as \"EU law,\" encompasses the legal framework established by EU lawmakers to regulate member states and their interactions. This body of law centralises various legal principles, ensuring validly enacted regulations and directives. It includes mechanisms for codecision, allowing for collaborative lawmaking processes. EU law addresses diverse issues, from the registrability of intellectual property under WIPO to the extrajudicial handling of disputes. It also rationalises the regularisation of trade practices, including the importation of goods like squid and crabs. Researchers and legal professionals must navigate this complex landscape, which is often dwarfed by national laws yet irrevocably shapes member states' legal obligations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:19:41.957718",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1203,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 213,
+      "selected_avg_freq": 104.54666666666667
+    },
+    "related_words": [
+      "lawmakers",
+      "lichtenstein",
+      "unanticipated",
+      "registrability",
+      "centralise",
+      "validly",
+      "lengthen",
+      "glossary",
+      "codecision",
+      "wipo",
+      "bounties",
+      "invalidation",
+      "patagonica",
+      "dwarfed",
+      "spach",
+      "juniperus",
+      "arranging",
+      "sps",
+      "crabs",
+      "extrajudicial",
+      "organotin",
+      "chamaecyparis",
+      "basket",
+      "loligo",
+      "shipboard",
+      "coss",
+      "alphabetical",
+      "regularisation",
+      "lawmaking",
+      "irrevocably"
+    ],
+    "prompt_length": 1739,
+    "category": "1011 European Union law"
+  }
+}

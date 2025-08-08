@@ -1,0 +1,63 @@
+{
+  "concept_id": "1720",
+  "concept_data": {
+    "title": "word processor",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "office equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"word processor\" is a redirect to \"office equipment\" within the EU's regulatory framework, encompassing devices such as typewriters and copiers, including brands like Olivetti and Brother. These devices, often associated with firms like Casio and Konica, are crucial in the production of documents, facilitating tasks like photocopying and binding. In the context of EU legislation, compliance standards for office equipment, including inking spools and ribbon technologies, are essential for ensuring quality and safety. The evolution of these technologies, from traditional typewriters to modern digital solutions, reflects the dynamic landscape of bedrijfsmachines in the EU market, where companies like Ricoh and Triumph play significant roles.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:42.516432",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 786,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 255,
+      "selected_avg_freq": 84.10666666666667
+    },
+    "related_words": [
+      "casio",
+      "konica",
+      "glessen",
+      "firma",
+      "eisbein",
+      "olivetti",
+      "systă",
+      "appopriately",
+      "verfied",
+      "jdk",
+      "triumph",
+      "adler",
+      "nuernberg",
+      "mvb",
+      "verkoop",
+      "bedrijfsmachines",
+      "rosmalen",
+      "wihtout",
+      "ribbon",
+      "aiuffass",
+      "spinnhuette",
+      "seidentechnik",
+      "delacamp",
+      "inking",
+      "spools",
+      "paralleled",
+      "reed",
+      "wrexham",
+      "kyushu",
+      "brăštagne"
+    ],
+    "prompt_length": 1696,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1981",
+  "concept_data": {
+    "title": "government monopoly",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": true,
+    "preferred_term": "State monopoly",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"government monopoly,\" redirected to \"State monopoly,\" refers to a situation where the state exclusively controls certain markets, often in sectors like alcohol production. This can involve distilleries, such as verschlussbrennereien and abfindungsbrennereien, which are bonded entities that produce ethyl alcohol from agricultural products like potatoes and fruits. State monopolies can help preserve biodiversity and secure farmers' livelihoods by creating cooperatives that support traditional practices. However, the EU has increasingly focused on phasing out such monopolies to foster competition, allowing for the transfer of rights and investments that correspond with evolving market landscapes, ultimately benefiting consumers and distillers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:10:57.126176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2106,
+      "selected_avg_freq": 936.5733333333334
+    },
+    "related_words": [
+      "landwirtschaftliche",
+      "verschlussbrennereien",
+      "abfindungsbrennereien",
+      "stoffbesitzer",
+      "obstgemeinschaftsbrennereien",
+      "landscapes",
+      "distillery",
+      "bonded",
+      "orchards",
+      "distillers",
+      "coincides",
+      "investing",
+      "distilleries",
+      "consuming",
+      "survive",
+      "monopoly",
+      "biodiversity",
+      "cooperatives",
+      "transferring",
+      "ethyl",
+      "cooperative",
+      "abolishing",
+      "fallen",
+      "securing",
+      "helping",
+      "phased",
+      "potatoes",
+      "preservation",
+      "phasing",
+      "traditionally"
+    ],
+    "prompt_length": 1785,
+    "category": "4031 competition"
+  }
+}

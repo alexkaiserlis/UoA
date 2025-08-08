@@ -1,0 +1,63 @@
+{
+  "concept_id": "1158",
+  "concept_data": {
+    "title": "waste treatment",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "waste management",
+    "relation_type": "USE"
+  },
+  "summary": "Waste treatment, often redirected to \"waste management,\" encompasses the systematic handling of waste materials within the EU's environmental policy framework. This includes the inventoried processes of decommissionned facilities, where chlorosilanes and silicones may be present. Effective waste management involves shredders and conveyers for processing, ensuring that unmeasured contaminants, such as grease and lards, are adequately addressed. Regulatory inspectors focus on the degradability and inhomogeneity of waste streams, emphasizing the importance of rectifications and iterative assessments. The aim is to achieve unpolluted outcomes through controlled operations, while also considering the environmental impact of shipper activities and the recycling of rechargeable materials.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:25:49.913809",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2229,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 28,
+      "selected_avg_freq": 14.3
+    },
+    "related_words": [
+      "topping",
+      "inventoried",
+      "chlorosilanes",
+      "silicones",
+      "grease",
+      "shredder",
+      "conveyer",
+      "decabde",
+      "coagulation",
+      "lards",
+      "ukaea",
+      "dounreay",
+      "thurso",
+      "rebuilt",
+      "odd",
+      "takings",
+      "reveaaled",
+      "muf",
+      "investigage",
+      "inespectors",
+      "reinventory",
+      "oeprating",
+      "overstatement",
+      "shipper",
+      "slags",
+      "swabs",
+      "sweepings",
+      "unmeasured",
+      "dissolvers",
+      "altough"
+    ],
+    "prompt_length": 1765,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2966",
+  "concept_data": {
+    "title": "referendum",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"referendum\" is a democratic process whereby citizens vote directly on specific issues, often serving as a milestone in constitutional affairs. In the context of EU legal and regulatory frameworks, referendums can influence the implementation of policies, including those related to foreign relations and security. For instance, the EU may freeze assets or impose travel bans on individuals or entities that undermine the democratic process during elections. Ensuring credible and peaceful referendums is vital for representing the majority's outcome. Regulatory bodies may review the preparation and conduct of referendums to maintain uniform standards across member states, thereby justifying the legitimacy of the process.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:14:16.556160",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 104,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 104,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1803.0576923076924
+    },
+    "related_words": [
+      "zimbabwean",
+      "referendum",
+      "milestone",
+      "peaceful",
+      "credible",
+      "freeze",
+      "elections",
+      "constitutional",
+      "zimbabwe",
+      "asset",
+      "implements",
+      "freezing",
+      "travel",
+      "justifying",
+      "targeted",
+      "ground",
+      "ban",
+      "cfsp",
+      "suspend",
+      "affairs",
+      "entities",
+      "democratic",
+      "restrictive",
+      "individuals",
+      "outcome",
+      "represent",
+      "majority",
+      "suspension",
+      "immediate",
+      "foreign"
+    ],
+    "prompt_length": 1684,
+    "category": "0416 electoral procedure and voting"
+  }
+}

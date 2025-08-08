@@ -1,0 +1,63 @@
+{
+  "concept_id": "2526",
+  "concept_data": {
+    "title": "sound pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "noise pollution",
+    "relation_type": "USE"
+  },
+  "summary": "\"Sound pollution,\" more commonly referred to as \"noise pollution,\" pertains to the deterioration of the environment through excessive and disruptive noises, which can be classified as nuisances. In EU legal and regulatory contexts, noise pollution encompasses a range of sources, including aeroplanes, lawnmowers, and construction equipment like excavators and cranes. The EU mandates prescriptive measures to mitigate such disturbances, employing technologies like silencers and attenuating devices to protect the public. Acoustic standards are established to ensure reproducible outcomes in noise reduction, addressing inconveniences caused by airborne and hydraulic machinery. Effective remedies are essential to safeguard the quietest outdoor environments and enhance overall quality of life.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:10:29.016057",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 673,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 363,
+      "selected_avg_freq": 150.05333333333334
+    },
+    "related_words": [
+      "quietest",
+      "breakers",
+      "picks",
+      "crane",
+      "noises",
+      "acoustics",
+      "muffs",
+      "overestimate",
+      "lawn",
+      "trimmers",
+      "dozers",
+      "lawnmower",
+      "mandatorily",
+      "silencers",
+      "protector",
+      "compressors",
+      "tower",
+      "excavator",
+      "cranes",
+      "subsonic",
+      "lawnmowers",
+      "loaders",
+      "protectors",
+      "attenuating",
+      "excavators",
+      "prescriptive",
+      "reproducible",
+      "edge",
+      "bench",
+      "noisy"
+    ],
+    "prompt_length": 1733,
+    "category": "5216 deterioration of the environment"
+  }
+}

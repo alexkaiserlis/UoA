@@ -1,0 +1,63 @@
+{
+  "concept_id": "6292",
+  "concept_data": {
+    "title": "mode of production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"mode of production\" in EU legal and regulatory contexts refers to the specific methods and practices employed in the agricultural and food sectors, impacting product quality and sustainability. This encompasses diverse practices, from pectolytic processes in fruit production to the cultivation of unique varieties like jabłka and łąckie. Regulatory frameworks often address rationing of resources, ensuring the preservation of traditional methods, such as the production of fontina and robiola cheeses. The EU promotes regional specialties, including apfelwein and bratwürste, fostering local economies. Understanding these modes is crucial for compliance with EU standards and for maintaining the integrity of products like kalix and montasio.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:57:04.551870",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 981,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 8.066666666666666
+    },
+    "related_words": [
+      "pectolytic",
+      "gozo",
+      "késői",
+      "szüretelésű",
+      "ptujski",
+      "lük",
+      "rationing",
+      "apfelwein",
+      "peperone",
+      "pontecorvo",
+      "badoere",
+      "longkou",
+      "basilico",
+      "genovese",
+      "śliwka",
+      "szydłowska",
+      "fontina",
+      "montasio",
+      "arnad",
+      "vallée",
+      "aoste",
+      "fagioli",
+      "bianchi",
+      "robiola",
+      "roccaverano",
+      "spinoso",
+      "jabłka",
+      "łąckie",
+      "chleb",
+      "prądnicki"
+    ],
+    "prompt_length": 1650,
+    "category": "6406 production"
+  }
+}

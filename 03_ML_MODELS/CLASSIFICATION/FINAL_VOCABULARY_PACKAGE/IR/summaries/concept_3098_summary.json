@@ -1,0 +1,63 @@
+{
+  "concept_id": "3098",
+  "concept_data": {
+    "title": "destination of transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"destination of transport\" within EU legal and regulatory frameworks pertains to the final location where goods or passengers are intended to arrive. This term is crucial for shipowners and shippers, particularly in maritime transport routes such as those connecting ports like Göteborg, Rostock, and Trelleborg. Regulations often address issues such as ticket handling, refusals, and the responsibilities of transport operators. For instance, in cases of unsatisfied service, the Bundesbahn may defer responsibilities, impacting traffic flow across motorway networks. The concept also encompasses the implications of saturation in transport routes, influencing decisions made by lorry operators and the overall efficiency of transited goods.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:08:10.730199",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 610,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 248,
+      "selected_avg_freq": 90.66666666666667
+    },
+    "related_words": [
+      "roedby",
+      "stena",
+      "rederi",
+      "puttgarden",
+      "taffic",
+      "europort",
+      "goeteborg",
+      "rostock",
+      "warnemuende",
+      "crow",
+      "gedser",
+      "helsingoer",
+      "helsingborg",
+      "travemuende",
+      "trelleborg",
+      "frederikshavn",
+      "fyn",
+      "saeed",
+      "tăšlăšmarketing",
+      "cbem",
+      "clt",
+      "ipb",
+      "resoning",
+      "bundesbahn",
+      "luebeck",
+      "abusing",
+      "unsatisfied",
+      "handles",
+      "porto",
+      "sailings"
+    ],
+    "prompt_length": 1672,
+    "category": "4811 organisation of transport"
+  }
+}

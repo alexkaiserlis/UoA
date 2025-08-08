@@ -1,0 +1,63 @@
+{
+  "concept_id": "1380",
+  "concept_data": {
+    "title": "training allowance",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": true,
+    "preferred_term": "education grant",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"training allowance,\" which redirects to \"education grant,\" refers to financial support provided to individuals, particularly children and workers, to enhance their educational opportunities. In the context of EU legal and regulatory frameworks, these grants are crucial for promoting access to education and facilitating exchanges between member states. They may occasionally cover scholarships for students from industrialised regions like Australasia and North America, aiming to bridge gaps in educational access. The awarding of education grants entails a reorganisation of funding strategies to ensure continuity and rationalisation of resources, thereby addressing the needs of diverse situations, including those in mining sectors or isolated areas. Such initiatives raise awareness and promote collaboration among partners across Europe and beyond, ensuring that all individuals enjoy the benefits of education.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:36:36.540439",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 212,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2348,
+      "selected_avg_freq": 1084.06
+    },
+    "related_words": [
+      "scholarships",
+      "australasia",
+      "reorganise",
+      "dismissal",
+      "industrialised",
+      "reorganisation",
+      "occasionally",
+      "enhancement",
+      "nil",
+      "bridge",
+      "rationalisation",
+      "raises",
+      "mines",
+      "partner",
+      "awarding",
+      "mining",
+      "perspectives",
+      "sulphur",
+      "isolation",
+      "crude",
+      "ended",
+      "earliest",
+      "crucial",
+      "liaison",
+      "executive",
+      "children",
+      "closing",
+      "korea",
+      "enjoy",
+      "gap"
+    ],
+    "prompt_length": 1719,
+    "category": "3216 organisation of teaching"
+  }
+}

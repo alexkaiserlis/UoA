@@ -1,0 +1,63 @@
+{
+  "concept_id": "3679",
+  "concept_data": {
+    "title": "farmers' income",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"farmers' income\" within EU legal and regulatory frameworks pertains to the economic viability of agricultural practices, particularly in regions like Castile and León, where villages such as Trujillo and Plasencia are affected by factors like droughts and reparcelling. The EU aims to establish a gainful farming system that supports farmers through decoupled payments and subceiling measures, ensuring permanence in their income. This involves a rapprochement between various stakeholders, including transferors and inheritors of agricultural land. Legal frameworks also address the stratified nature of income distribution, which can be jeopardized by external pressures such as market fluctuations and environmental constraints, necessitating innovative approaches to income determination and support.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:04:25.014552",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1488,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 106,
+      "selected_avg_freq": 48.153333333333336
+    },
+    "related_words": [
+      "puebla",
+      "alcocer",
+      "castuera",
+      "trujillo",
+      "logrosán",
+      "plasencia",
+      "coria",
+      "stratified",
+      "acompanying",
+      "accomandation",
+      "rapprochement",
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél",
+      "magyarország",
+      "észak",
+      "alföld",
+      "castille",
+      "gainful",
+      "caves",
+      "scissions",
+      "beneficiated",
+      "inheritor",
+      "subceiling",
+      "constraining",
+      "devoting",
+      "droughts",
+      "reparcelling",
+      "oga"
+    ],
+    "prompt_length": 1679,
+    "category": "5616 farming systems"
+  }
+}

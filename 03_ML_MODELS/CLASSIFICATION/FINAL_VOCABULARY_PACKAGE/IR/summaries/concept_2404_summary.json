@@ -1,0 +1,63 @@
+{
+  "concept_id": "2404",
+  "concept_data": {
+    "title": "tree",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tree\" within EU forestry regulations encompasses various aspects of biological diversity and pest management. Trees, including conifers such as Pinus and Chamaecyparis, are vital for maintaining forest ecosystems across the Iberian Peninsula. Regulatory frameworks address the susceptibility of these organisms to infestations by pests like Dendroctonus and Rhynchophorus, which can lead to intensified symptoms and necessitate containment measures. The demarcation of infested areas is crucial for effective management, ensuring that the incidence of pests is mitigated. Plantations, whether naturally or artificially established, require careful monitoring of tree sizes and reproductive biology to maintain healthy ecosystems across hectares of forested land.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:20:47.038273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 433,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 823,
+      "selected_avg_freq": 366.7866666666667
+    },
+    "related_words": [
+      "cryptic",
+      "olivier",
+      "radiata",
+      "palmae",
+      "appliction",
+      "dwarfed",
+      "spach",
+      "juniperus",
+      "ferrugineus",
+      "dendroctonus",
+      "micans",
+      "chamaecyparis",
+      "rhynchophorus",
+      "conifers",
+      "pinus",
+      "plantings",
+      "iberian",
+      "biology",
+      "infestation",
+      "mitigated",
+      "containment",
+      "infested",
+      "susceptibility",
+      "radius",
+      "peninsula",
+      "symptoms",
+      "tree",
+      "demarcated",
+      "plantations",
+      "describing"
+    ],
+    "prompt_length": 1679,
+    "category": "5636 forestry"
+  }
+}

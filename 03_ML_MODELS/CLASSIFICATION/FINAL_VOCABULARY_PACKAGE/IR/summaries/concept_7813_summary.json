@@ -1,0 +1,63 @@
+{
+  "concept_id": "7813",
+  "concept_data": {
+    "title": "Cotonou Agreement",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Cotonou Agreement, inaugurated in 2000, outlines a framework for cooperation between the EU and African, Caribbean, and Pacific (ACP) states, aiming to foster sustainable development and promote democratic governance. This agreement welcomes the resumption of engagement with fragile states like Burkina Faso and Mauritania, emphasizing the importance of credible electoral processes and the restoration of democratic institutions. Key milestones include the facilitation of disbursements from the European Development Fund (EDF) and the establishment of benchmarks for combating corruption. The agreement also addresses issues such as weapons proliferation and the peaceful resolution of conflicts, reflecting a constructive approach to international relations and mediation efforts in regions like Somalia and Togo.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:26:13.045859",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 522,
+      "selected_avg_freq": 220.83333333333334
+    },
+    "related_words": [
+      "inaugurated",
+      "depositaries",
+      "eyadema",
+      "togolese",
+      "inauguration",
+      "junta",
+      "malagasy",
+      "welcomes",
+      "proclamation",
+      "opcw",
+      "milestones",
+      "supreme",
+      "sadc",
+      "edf",
+      "democratically",
+      "mauritanian",
+      "constructive",
+      "iaea",
+      "emerge",
+      "burkina",
+      "faso",
+      "relax",
+      "ouagadougou",
+      "fragile",
+      "disbursements",
+      "outlines",
+      "electoral",
+      "presidential",
+      "bissau",
+      "corruption"
+    ],
+    "prompt_length": 1710,
+    "category": "1016 European construction"
+  }
+}

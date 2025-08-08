@@ -1,0 +1,63 @@
+{
+  "concept_id": "2886",
+  "concept_data": {
+    "title": "oil refining",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Oil refining, a critical component of the oil industry, involves the processing of crudes into valuable products such as naphtha and distillates. In the EU regulatory framework, refineries are subject to stringent environmental standards aimed at the elimination of pollutants, including oxides and NOx emissions. The catalytic cracking process is essential for transforming heavier fractions into lighter, more marketable products. Regulatory bodies, such as the Moniteur, notify refineries of compliance requirements, ensuring that operations do not upset local inhabitants. Concurrently, the EU promotes the recruitment of skilled workers in regions like Antwerp and Flanders, where the industry is vital. These measures are tantamount to fostering sustainable practices within the sector, ultimately worth the investment in cleaner technologies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:45:07.936070",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 700,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 347,
+      "selected_avg_freq": 170.36666666666667
+    },
+    "related_words": [
+      "elemination",
+      "kallo",
+      "anvers",
+      "naphtha",
+      "crudes",
+      "cracking",
+      "niklaas",
+      "knock",
+      "unmodified",
+      "distillates",
+      "moniteur",
+      "bat",
+      "orientated",
+      "inhabitant",
+      "turnhout",
+      "flanders",
+      "hundred",
+      "upset",
+      "nox",
+      "reactivate",
+      "fold",
+      "belge",
+      "depressing",
+      "juncture",
+      "polluter",
+      "concurrently",
+      "antwerp",
+      "catalytic",
+      "lighter",
+      "fractions"
+    ],
+    "prompt_length": 1657,
+    "category": "6616 oil industry"
+  }
+}

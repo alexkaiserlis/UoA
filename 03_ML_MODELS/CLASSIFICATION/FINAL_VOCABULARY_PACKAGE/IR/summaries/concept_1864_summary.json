@@ -1,0 +1,63 @@
+{
+  "concept_id": "1864",
+  "concept_data": {
+    "title": "household unit",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "household",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"household unit\" is a redirect to the preferred term \"household.\" This concept encompasses various domains impacting demographic studies, particularly regarding childhood and adulthood. Households serve as critical units for longitudinal fieldwork, gathering data on variables such as poverty, housing, and intergenerational dynamics. The European Union employs strategies like the SILC (Statistics on Income and Living Conditions) to benchmark household conditions, promoting accessibility and literacy in data collection. Respondents in these surveys provide insights into heating, occupation, and the digital divide, which helps trace the advancement of socio-economic conditions across households, thereby informing policy development.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:13.140869",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 377,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 813,
+      "selected_avg_freq": 356.05333333333334
+    },
+    "related_words": [
+      "childhood",
+      "impacting",
+      "adulthood",
+      "fieldwork",
+      "narrows",
+      "vigorously",
+      "imputation",
+      "icts",
+      "intergenerational",
+      "literacy",
+      "mwh",
+      "sek",
+      "silc",
+      "interview",
+      "longitudinal",
+      "benchmarking",
+      "riga",
+      "equip",
+      "advancement",
+      "sectional",
+      "ict",
+      "online",
+      "highlights",
+      "parental",
+      "domains",
+      "respondents",
+      "encompassing",
+      "invites",
+      "module",
+      "benchmark"
+    ],
+    "prompt_length": 1715,
+    "category": "2816 demography and population"
+  }
+}

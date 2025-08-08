@@ -1,0 +1,63 @@
+{
+  "concept_id": "4165",
+  "concept_data": {
+    "title": "acid rain",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Acid rain, a significant environmental concern, refers to precipitation with elevated acidity, primarily caused by industrial emissions of sulfur dioxide and nitrogen oxides. In the EU regulatory framework, the analysis of acid rain involves quantitative studies examining its components and their effects on vegetation and soil. Experts utilize sophisticated apparatus, such as chromatographs, to assess the characteristics of acid rain and its impact on cultural and natural resources. The EU has established duties for member states to monitor and mitigate acid rain through affirmative action, ensuring that imported materials comply with environmental standards. This regulatory approach is justified by the need to protect ecosystems and public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:36.359427",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1732.9908256880733
+    },
+    "related_words": [
+      "vegetation",
+      "dionex",
+      "chromatograph",
+      "rain",
+      "acidic",
+      "sensibility",
+      "ion",
+      "precipitation",
+      "ordered",
+      "specially",
+      "affirmative",
+      "invoke",
+      "educational",
+      "apparatus",
+      "soil",
+      "principally",
+      "suited",
+      "admission",
+      "cultural",
+      "showed",
+      "composed",
+      "reply",
+      "quantitative",
+      "components",
+      "manufactured",
+      "capable",
+      "kind",
+      "study",
+      "model",
+      "water"
+    ],
+    "prompt_length": 1683,
+    "category": "5216 deterioration of the environment"
+  }
+}

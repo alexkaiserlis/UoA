@@ -1,0 +1,63 @@
+{
+  "concept_id": "3231",
+  "concept_data": {
+    "title": "credit squeeze",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "credit control",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"credit squeeze,\" redirected to \"credit control,\" refers to regulatory measures aimed at managing the availability of credit within financial markets. In the EU context, this concept is crucial for supervisors, such as EIOPA, as it develops frameworks that enhance the solvency of financial institutions. Effective credit control promotes stable relationships among stakeholders, ensuring timely access to credit while mitigating risks. The supervisory regime facilitates consultations and analyses of business models, fostering a clear understanding of potential impacts on pensions and insurance sectors. By phasing in new regulations, the EU aims to create a realistic and efficient environment for credit management, benefiting all parties involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:11.927855",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 118,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 118,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1698.9661016949153
+    },
+    "related_words": [
+      "documenting",
+      "eiopa",
+      "reinsurance",
+      "solvency",
+      "develops",
+      "supervisor",
+      "promotes",
+      "relationships",
+      "facilitates",
+      "stakeholder",
+      "pensions",
+      "reasoned",
+      "realistic",
+      "occupational",
+      "phasing",
+      "supervisory",
+      "pursuit",
+      "enters",
+      "changing",
+      "analysed",
+      "models",
+      "reaching",
+      "insurance",
+      "planning",
+      "enhance",
+      "processes",
+      "understanding",
+      "timely",
+      "step",
+      "supervision"
+    ],
+    "prompt_length": 1729,
+    "category": "2416 financial institutions and credit"
+  }
+}

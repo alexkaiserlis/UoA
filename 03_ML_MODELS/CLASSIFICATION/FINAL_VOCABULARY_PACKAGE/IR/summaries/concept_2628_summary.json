@@ -1,0 +1,63 @@
+{
+  "concept_id": "2628",
+  "concept_data": {
+    "title": "militia",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "armed forces",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"militia\" is redirected to \"armed forces,\" reflecting a standardized approach to military terminology. This regulation ensures clarity in documents concerning the Common Security and Defence Policy (CSDP). Armed forces, often stationed in various locations, including Detmold and Minden, play a crucial role in international security. Their operations may involve detachments that are seconding personnel for missions, while ensuring compliance with legal frameworks. The EU's approach to armies emphasizes the importance of authorized actions, avoiding unauthorized engagements. This system supports a cohesive strategy, facilitating demarches and bookings for operations, while addressing the needs of dependants and clientele associated with military personnel.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:09:40.110530",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 802,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 341,
+      "selected_avg_freq": 143.96
+    },
+    "related_words": [
+      "regulaon",
+      "behelf",
+      "calender",
+      "detachment",
+      "cliff",
+      "burlington",
+      "hardwick",
+      "lemgo",
+      "minden",
+      "detmold",
+      "voss",
+      "transline",
+      "worthless",
+      "sysem",
+      "stationed",
+      "profitmaking",
+      "beaf",
+      "clientele",
+      "demarche",
+      "christa",
+      "bookings",
+      "buxton",
+      "derbyshire",
+      "seconding",
+      "eums",
+      "armies",
+      "dependants",
+      "plead",
+      "coaches",
+      "relatives"
+    ],
+    "prompt_length": 1647,
+    "category": "0821 defence"
+  }
+}

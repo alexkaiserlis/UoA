@@ -1,0 +1,63 @@
+{
+  "concept_id": "1840",
+  "concept_data": {
+    "title": "radioactive substance",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "radioactive materials",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"radioactive substance,\" redirected to \"radioactive materials,\" encompasses materials that emit ionizing radiation, posing significant hazards. The regulation of these materials is crucial for ensuring public safety and environmental protection. Instruments such as spectrometric detectors are employed to characterize and quantify gamma-emitting isotopes, including tritium and fissile materials. The International Atomic Energy Agency (IAEA) underlines the importance of stringent controls to prevent diversions and illegal shipments. Offences related to radioactive materials are punishable under EU law, emphasizing the grave dangers associated with improper handling. Regulatory frameworks complementing these measures include provisions for extradition and prosecution of violations, ensuring accountability in the electrical and nuclear industries.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:36.972784",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 411,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 881,
+      "selected_avg_freq": 383.70666666666665
+    },
+    "related_words": [
+      "preamplifier",
+      "bias",
+      "expander",
+      "gammaemitting",
+      "adc",
+      "cppnm",
+      "spectrometric",
+      "tritium",
+      "cryostat",
+      "characterize",
+      "amplifier",
+      "spectroscopy",
+      "punishable",
+      "extradition",
+      "analog",
+      "converter",
+      "canberra",
+      "diversions",
+      "ionizing",
+      "fissile",
+      "detector",
+      "conducts",
+      "iaea",
+      "gamma",
+      "quantification",
+      "prosecution",
+      "fusion",
+      "offences",
+      "mere",
+      "convened"
+    ],
+    "prompt_length": 1752,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

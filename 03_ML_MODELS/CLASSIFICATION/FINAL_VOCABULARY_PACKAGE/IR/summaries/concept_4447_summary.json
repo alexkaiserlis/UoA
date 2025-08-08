@@ -1,0 +1,63 @@
+{
+  "concept_id": "4447",
+  "concept_data": {
+    "title": "uncultivated land",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"uncultivated land\" within EU legal and regulatory frameworks refers to land that remains abandoned or not actively utilized for agricultural purposes. This category is significant as it constitutes a departure from optimal land use, often distorting agricultural holdings and impacting the attainment of sustainable agricultural practices. The EU implements measures to encourage the correct preparation and management of such lands, including assistance programmes aimed at certifying their potential for cultivation. Rights associated with uncultivated land include restrictions on transfer and holding, ensuring that it remains available for future agricultural use. The establishment of a timetable for the recovery of these lands is essential for achieving immediate and long-term agricultural goals.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:22:30.077512",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1848.8791208791208
+    },
+    "related_words": [
+      "uncultivated",
+      "abandoned",
+      "departure",
+      "distorted",
+      "certifying",
+      "meant",
+      "host",
+      "frequently",
+      "enjoy",
+      "timetable",
+      "correctly",
+      "left",
+      "constituting",
+      "attainment",
+      "abolition",
+      "holdings",
+      "aids",
+      "stages",
+      "freedom",
+      "achievement",
+      "immediate",
+      "holding",
+      "regarded",
+      "preparation",
+      "transfer",
+      "takes",
+      "agriculture",
+      "define",
+      "title",
+      "restrictions"
+    ],
+    "prompt_length": 1681,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4886",
+  "concept_data": {
+    "title": "power sector",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy market",
+    "relation_type": "USE"
+  },
+  "summary": "The \"power sector,\" as a redirect to the preferred term \"energy market,\" encompasses the legal and regulatory frameworks governing energy supplies, including crude oil, natural gas, and electricity. In the EU context, entities involved in this sector must comply with standardized guidelines and conventions, ensuring efficient infrastructure and investment. Regulatory bodies gather statistics and notifications through questionnaires, assessing projects and reporting on compliance. The annulment of expired regulations may occur to simplify processes, while delegated acts serve to notify stakeholders of changes. The nomenclature used in legal documents is crucial for clarity, whereby definitions and resolutions guide the sector's operations and justice.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:48.221157",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 144,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 144,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1800.0277777777778
+    },
+    "related_words": [
+      "gauging",
+      "informal",
+      "annulment",
+      "standardized",
+      "gather",
+      "questionnaires",
+      "crude",
+      "petroleum",
+      "notifying",
+      "subheadings",
+      "sheet",
+      "conventions",
+      "resolutions",
+      "tables",
+      "guide",
+      "gas",
+      "infrastructure",
+      "notifications",
+      "replacing",
+      "definitions",
+      "entities",
+      "serve",
+      "delegated",
+      "obtaining",
+      "repeal",
+      "simplify",
+      "atomic",
+      "expired",
+      "reporting",
+      "supplies"
+    ],
+    "prompt_length": 1724,
+    "category": "6606 energy policy"
+  }
+}

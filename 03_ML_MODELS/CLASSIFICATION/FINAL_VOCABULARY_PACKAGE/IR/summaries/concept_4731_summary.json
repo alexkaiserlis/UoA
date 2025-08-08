@@ -1,0 +1,63 @@
+{
+  "concept_id": "4731",
+  "concept_data": {
+    "title": "wire transfer",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "credit transfer",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wire transfer,\" redirected to the preferred term \"credit transfer,\" is pivotal in EU monetary economics, particularly in combating money laundering and terrorism financing. This mechanism allows for the electronic transfer of funds between jurisdictions, facilitating faster settlement for businesses and individuals. Regulatory frameworks, such as ordinances and decrees, are established to appraise and monitor these transactions, ensuring compliance with anti-money laundering (AML) measures. Providers of credit transfer services must adhere to core regulations that target proceeds of crime, freezing assets linked to terrorist activities. This modernising approach enhances the judiciary's ability to fight financial crime across diverse jurisdictions, including regions like Wallis and Futuna, Sark, and Alderney.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:56.944368",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 196,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2527,
+      "selected_avg_freq": 902.9333333333333
+    },
+    "related_words": [
+      "wallis",
+      "futuna",
+      "sark",
+      "alderney",
+      "bailiwick",
+      "ordinances",
+      "judiciary",
+      "payer",
+      "polynesia",
+      "appraising",
+      "laundering",
+      "handbook",
+      "caledonia",
+      "taliban",
+      "ida",
+      "banque",
+      "guernsey",
+      "reforming",
+      "jersey",
+      "miquelon",
+      "countering",
+      "professions",
+      "mayotte",
+      "faster",
+      "jurisdictions",
+      "terrorist",
+      "pierre",
+      "isle",
+      "modernising",
+      "wire"
+    ],
+    "prompt_length": 1672,
+    "category": "2411 monetary economics"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4774",
+  "concept_data": {
+    "title": "deposit-taking bank",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "commercial bank",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"deposit-taking bank,\" commonly referred to as a \"commercial bank,\" plays a pivotal role in the financial system. These institutions are typically involved in liquiditätssicherung, ensuring the stability of clients' monies through various financial instruments. They are subject to stringent regulations, including preconditions for operating licenses, overseen by a bewilligungsausschuß. Commercial banks often engage in activities like appraising equity and managing debts, while also adhering to norms that prevent unlawful practices. Programs such as the sonderbürgschaftsprogramm provide additional support, aiding industries and professions in distress. Ultimately, these banks devise workable solutions to bridge financial deficiencies, ensuring a robust economic environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:54.662613",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 503,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 441,
+      "selected_avg_freq": 202.93333333333334
+    },
+    "related_words": [
+      "bürgschaftsbank",
+      "sonderbürgschaftsprogramm",
+      "liquiditätssicherung",
+      "bewilligungsausschuß",
+      "handwerkskammern",
+      "sonderbürgerschaftsprogramm",
+      "liquiditässicherung",
+      "recompensed",
+      "monies",
+      "belated",
+      "proviso",
+      "liberal",
+      "appraised",
+      "handels",
+      "devise",
+      "workable",
+      "sachsen",
+      "ranged",
+      "adhering",
+      "dem",
+      "chambers",
+      "norm",
+      "prevailed",
+      "anhalt",
+      "convincing",
+      "preconditions",
+      "insufficiently",
+      "deficiency",
+      "professions",
+      "unlawfully"
+    ],
+    "prompt_length": 1813,
+    "category": "2416 financial institutions and credit"
+  }
+}

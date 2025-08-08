@@ -1,0 +1,63 @@
+{
+  "concept_id": "5048",
+  "concept_data": {
+    "title": "sound emission",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "noise",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sound emission,\" redirected to \"noise,\" pertains to the deterioration of the environment within EU legal and regulatory frameworks. It encompasses various sources of impulsive and continuous noises, such as those from aeroplanes, excavators, and compressors, which can create nuisances and inconvenience for communities. Regulatory measures often focus on characterizing sound amplitude and frequency, addressing issues like subsonic emissions and the impact of airborne noise on airworthiness. The European Union emphasizes the need for standards set by CEN and CENELEC to gauge and mitigate these emissions, ensuring that equipment like lawnmowers and dozers comply with electrotechnical regulations to minimize their acoustic footprint.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:10:18.412706",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 695,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 113.62666666666667
+    },
+    "related_words": [
+      "amplitude",
+      "impulsive",
+      "ailtech",
+      "washer",
+      "noises",
+      "bodywork",
+      "driers",
+      "lohr",
+      "jacking",
+      "kinematic",
+      "louder",
+      "dozers",
+      "lawnmower",
+      "compressors",
+      "characterizing",
+      "silent",
+      "rails",
+      "excavator",
+      "subsonic",
+      "lawnmowers",
+      "afa",
+      "tsis",
+      "impulse",
+      "loaders",
+      "excavators",
+      "brake",
+      "noisy",
+      "aeroplane",
+      "generator",
+      "helpful"
+    ],
+    "prompt_length": 1694,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2545",
+  "concept_data": {
+    "title": "polymer",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"polymer\" refers to macromolecules formed through processes such as copolymerization and polymerization, which include various types like polyisobutylene and polysulphide. These substances are characterized by their unique transformations and properties, which can be analyzed using techniques like ultracentrifuge and calorimeter. Regulatory assessments often involve the characterization of polymeric materials, including their copolymers and the effects of hydrogenation. The legal implications may encompass safety evaluations, environmental impacts, and compliance with standards, particularly for applications involving bituminous materials or cationic hardeners. Understanding polymer behavior, including polymorphism and sedimentation, is crucial for effective regulation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:44:35.638259",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 815,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 191,
+      "selected_avg_freq": 63.62
+    },
+    "related_words": [
+      "polyisobutylene",
+      "isobutylene",
+      "copolymerization",
+      "butyral",
+      "microscopical",
+      "polymerized",
+      "vulcanusweg",
+      "dani",
+      "rovani",
+      "cationic",
+      "hardener",
+      "attractions",
+      "transduction",
+      "macromolecules",
+      "temscan",
+      "polysulphide",
+      "akcros",
+      "polymorphism",
+      "kitozyme",
+      "ultracentrifuge",
+      "gravitational",
+      "becker",
+      "calorimeter",
+      "bituminous",
+      "ene",
+      "cpme",
+      "polymerization",
+      "masses",
+      "characterization",
+      "polymeric"
+    ],
+    "prompt_length": 1723,
+    "category": "6811 chemistry"
+  }
+}

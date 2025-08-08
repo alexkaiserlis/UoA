@@ -1,0 +1,63 @@
+{
+  "concept_id": "1950",
+  "concept_data": {
+    "title": "student mobility",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"student mobility\" within the EU legal and regulatory framework encompasses the facilitation of students' interchange across universities, enriching their academic experiences. Mandated by initiatives such as Erasmus and Comett, this mobility aims to broaden students' horizons, enhance their skills, and foster lifelong learning. It supports the elaboration of relationships between institutions, allowing graduates to harness diverse teaching methodologies and curricula. The ISCED classifications play a crucial role in this process, ensuring that courses and diplomas are mutually recognized. By stimulating collaboration among specialists and scientists, student mobility emerges as a foundation for intensified educational achievements across various domains.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:56.182704",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 495,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 719,
+      "selected_avg_freq": 337.02666666666664
+    },
+    "related_words": [
+      "acquaint",
+      "graduates",
+      "teacher",
+      "companion",
+      "lingua",
+      "tempus",
+      "erasmus",
+      "harnessed",
+      "student",
+      "isced",
+      "teachers",
+      "enriches",
+      "spes",
+      "comett",
+      "unesco",
+      "students",
+      "skill",
+      "academic",
+      "universities",
+      "stimulation",
+      "studying",
+      "broadening",
+      "intensification",
+      "lifelong",
+      "strasbourg",
+      "scientists",
+      "teaching",
+      "domains",
+      "achievements",
+      "mandated"
+    ],
+    "prompt_length": 1709,
+    "category": "3216 organisation of teaching"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "387",
+  "concept_data": {
+    "title": "perishable goods",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"perishable goods\" refers to foodstuffs that undergo rapid perishability, necessitating stringent regulations to maintain freshness and prevent infestation. This category includes items like watermelons, mushrooms, and various spices, which must be sorted and packed to eliminate unsatisfactory conditions. The use of fumigants and ionising radiation may be employed to enhance shelf life. Additionally, the incorporation of seasonings such as garlic and aromatic herbs is regulated to ensure quality. The EU encourages the use of guidelines and brochures illustrating proper handling practices, thereby directing stakeholders to uphold standards that protect consumers and promote food safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:33:53.150070",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 353,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1005,
+      "selected_avg_freq": 397.4066666666667
+    },
+    "related_words": [
+      "seasonings",
+      "gailtaler",
+      "palmero",
+      "thrapsano",
+      "turrón",
+      "agramunt",
+      "torró",
+      "morbier",
+      "fumigants",
+      "speck",
+      "ffv",
+      "palma",
+      "illustrations",
+      "brochure",
+      "turgidity",
+      "queso",
+      "perishability",
+      "directing",
+      "undergoes",
+      "agaricus",
+      "watermelons",
+      "spices",
+      "ionising",
+      "melon",
+      "sorted",
+      "redrafted",
+      "mushroom",
+      "herbs",
+      "infestation",
+      "melons"
+    ],
+    "prompt_length": 1659,
+    "category": "6026 foodstuff"
+  }
+}

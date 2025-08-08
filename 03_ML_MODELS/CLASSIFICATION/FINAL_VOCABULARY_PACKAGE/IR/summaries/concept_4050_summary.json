@@ -1,0 +1,63 @@
+{
+  "concept_id": "4050",
+  "concept_data": {
+    "title": "social security",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social security within the EU framework encompasses a comprehensive system designed to protect individuals, including the selfemployed and their dependants, from economic uncertainties. It addresses various needs such as maternity, pensioning, and healthcare, ensuring that retired individuals receive adequate support. The regulatory landscape promotes flexicurity, balancing labor market flexibility with social protection. Additionally, social security systems often involve streamlining processes for benefits related to unemployment, housing, and healthcare, particularly for transient populations. The integration of microfinance initiatives and support for coalmining communities, including miners and their families, reflects the EU's commitment to inclusive social policies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:05:05.674507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 1194,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 144,
+      "selected_avg_freq": 63.833333333333336
+    },
+    "related_words": [
+      "selfemployed",
+      "carbonifera",
+      "pejao",
+      "esspros",
+      "carbonífera",
+      "electricidade",
+      "tapada",
+      "outeiro",
+      "germunde",
+      "subsidence",
+      "maternity",
+      "coicop",
+      "omc",
+      "paiva",
+      "concessionary",
+      "microfinance",
+      "perimeters",
+      "residences",
+      "castelo",
+      "dependants",
+      "privatize",
+      "equipement",
+      "highways",
+      "cova",
+      "transient",
+      "flexicurity",
+      "unworked",
+      "venting",
+      "trustees",
+      "tips"
+    ],
+    "prompt_length": 1679,
+    "category": "2836 social protection"
+  }
+}

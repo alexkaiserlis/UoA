@@ -1,0 +1,63 @@
+{
+  "concept_id": "4637",
+  "concept_data": {
+    "title": "cow",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"cow\" pertains to various breeds classified under the means of agricultural production. This includes breeds such as Simmental and Pinzgau, which are often documented in herdbooks that certify pedigree and purity. The regulation of cattle involves strict nomenclatures and coding systems to ensure compliance with standards. Traders must adhere to these regulations when assigning animals for breeding or sale, particularly when dealing with heifers and bulls. The Commission contemplates measures to unbind the market, allowing for uninterrupted trade while ensuring the quality of breeds, including the grey and mottled varieties. In circumstances where concessions are denied, the regulatory framework remains rigid, forcing compliance to maintain the integrity of the agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:52.223256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 602,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 565,
+      "selected_avg_freq": 284.79333333333335
+    },
+    "related_words": [
+      "certifiying",
+      "inital",
+      "othelr",
+      "herdbook",
+      "unbinds",
+      "schwyz",
+      "fribourg",
+      "mottled",
+      "simmental",
+      "pinzgau",
+      "comparatively",
+      "grey",
+      "unter",
+      "mould",
+      "forcing",
+      "pedigree",
+      "nomenclatures",
+      "heifers",
+      "rigid",
+      "bulls",
+      "viewpoint",
+      "alpine",
+      "breed",
+      "book",
+      "circumstance",
+      "cct",
+      "brown",
+      "denied",
+      "assign",
+      "trader"
+    ],
+    "prompt_length": 1637,
+    "category": "5626 means of agricultural production"
+  }
+}

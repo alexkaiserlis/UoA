@@ -1,0 +1,63 @@
+{
+  "concept_id": "757",
+  "concept_data": {
+    "title": "thermal energy",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Thermal energy, categorized under soft energy, plays a crucial role in the EU's regulatory framework for sustainable energy generation. It encompasses various methods, including cogeneration and the use of biogas, to produce heat and electricity efficiently. The thermodynamics of thermal energy systems are essential for retrofitting older boilers and constructing new facilities that utilize ambient temperature effectively. The EU promotes the generation of thermal energy through incentives that encourage investors to develop economically viable projects. By differentiating between fuels, such as wood and other biomass, the framework aims to save energy losses and reflect climatic considerations, thereby ensuring a stable and justifiable energy grid.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:10:36.769145",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 185,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2699,
+      "selected_avg_freq": 1078.2666666666667
+    },
+    "related_words": [
+      "cogeneration",
+      "thermodynamics",
+      "retrofitting",
+      "boilers",
+      "biogas",
+      "matrix",
+      "waiving",
+      "grid",
+      "ambient",
+      "statistically",
+      "investor",
+      "older",
+      "generating",
+      "realistic",
+      "constructed",
+      "justifiable",
+      "art",
+      "save",
+      "wood",
+      "fuels",
+      "climatic",
+      "built",
+      "additionally",
+      "temperature",
+      "thereafter",
+      "differentiated",
+      "site",
+      "incentive",
+      "confidence",
+      "electricity"
+    ],
+    "prompt_length": 1685,
+    "category": "6626 soft energy"
+  }
+}

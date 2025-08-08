@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_2df9b142",
+  "concept_data": {
+    "title": "data science",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Data science, within the context of EU legal and regulatory frameworks, refers to the systematic extraction and analysis of information from vast datasets to inform decision-making processes. This discipline encompasses methodologies that leverage statistical techniques, machine learning, and data processing tools to derive insights that can impact policy formulation and compliance monitoring. As the EU increasingly prioritizes data-driven governance, the implications of data science extend to areas such as privacy regulations, particularly under the General Data Protection Regulation (GDPR). The integration of data science into regulatory practices aims to enhance transparency, accountability, and efficiency in public administration and service delivery.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:59.441866",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "3236 information technology and data processing"
+  }
+}

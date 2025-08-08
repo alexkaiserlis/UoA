@@ -1,0 +1,63 @@
+{
+  "concept_id": "2709",
+  "concept_data": {
+    "title": "agricultural production",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Agricultural production within the EU framework encompasses various farming systems, focusing on the cultivation of diverse crops and the management of herbivores. It involves the specified use of plants like safflower and brome, alongside practices that ensure hardseededness and the viability of crops such as cardoon and gourd. Regulatory measures address issues like decoupling subsidies and the impact of blockades on supply chains. The EU promotes verifiability in production methods, ensuring that practices like the cultivation of grasses and oatgrass align with sustainability goals. Additionally, the integration of species like finola and tiborszállási enhances biodiversity in agricultural systems, reflecting the EU's commitment to environmental stewardship.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:12.973492",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1918,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 23.406666666666666
+    },
+    "related_words": [
+      "herbivores",
+      "regrd",
+      "brome",
+      "harding",
+      "sulla",
+      "gourd",
+      "cardoon",
+      "schould",
+      "specfied",
+      "hardseededness",
+      "thinner",
+      "platter",
+      "stapf",
+      "blockade",
+      "representive",
+      "guyot",
+      "salaried",
+      "blockades",
+      "dockets",
+      "capolongo",
+      "maya",
+      "lorenz",
+      "steinike",
+      "weinlig",
+      "extérieur",
+      "fujikuroi",
+      "pbtc",
+      "bluebell",
+      "reissue",
+      "unrest"
+    ],
+    "prompt_length": 1652,
+    "category": "5616 farming systems"
+  }
+}

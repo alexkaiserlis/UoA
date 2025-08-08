@@ -1,0 +1,63 @@
+{
+  "concept_id": "6541",
+  "concept_data": {
+    "title": "European Union migration policy",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": true,
+    "preferred_term": "EU migration policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"EU migration policy\" encompasses a comprehensive framework tasked with addressing migration challenges within the European Union. It aims to ensure the dignity and rights of all beings, particularly refugees and residents, while combating pressing issues such as smuggling and trafficking. The policy is shaped by various legal instruments and institutions, including Frontex, Eurojust, and EASO, which facilitate the enforcement of regulations and the resettlement of individuals. The framework also emphasizes the importance of combating racism, xenophobia, and intolerance, while promoting tailored orientations for asylum seekers. Key documents, such as the Tampere and Stockholm conclusions, outline preconditions for effective immigration management, ensuring that the EU remains committed to human rights and the enjoyment of fundamental freedoms.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:20:43.634424",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 654,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 446,
+      "selected_avg_freq": 197.24666666666667
+    },
+    "related_words": [
+      "argo",
+      "appropriating",
+      "tasked",
+      "emn",
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "resettled",
+      "resettle",
+      "expulsion",
+      "frontex",
+      "smuggling",
+      "cepol",
+      "refugee",
+      "posting",
+      "orientations",
+      "enjoyment",
+      "resettlement",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "eurojust",
+      "laeken",
+      "college",
+      "posted",
+      "seville",
+      "thematic",
+      "disseminating",
+      "dignity"
+    ],
+    "prompt_length": 1723,
+    "category": "2811 migration"
+  }
+}

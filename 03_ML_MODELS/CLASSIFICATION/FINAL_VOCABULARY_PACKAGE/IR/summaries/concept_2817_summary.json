@@ -1,0 +1,63 @@
+{
+  "concept_id": "2817",
+  "concept_data": {
+    "title": "intellectual property right",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "intellectual property",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"intellectual property right,\" a redirect to the preferred term \"intellectual property,\" encompasses various legal protections for creations of the mind, including patents, trademarks, and designs. Within the EU regulatory framework, it is crucial for rightholders to navigate the complexities of registrability and invalidation processes, often supervised by entities like the EPO and WIPO. The evolving landscape of intellectual property also addresses challenges such as counterfeit goods and pirated content, which can impede innovation. By endorsing unitary patents and harmonizing translations, the EU aims to maximize protection for designers and proprietors, fostering a robust environment for research and development in sectors like semiconductor technologies and diagnostics.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:09:00.910664",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 964,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 224,
+      "selected_avg_freq": 100.63333333333334
+    },
+    "related_words": [
+      "eudr",
+      "eureg",
+      "habitual",
+      "translational",
+      "sideground",
+      "registrability",
+      "cheques",
+      "epo",
+      "eurid",
+      "evaluators",
+      "asbl",
+      "designers",
+      "supervises",
+      "unmet",
+      "wipo",
+      "eda",
+      "topographies",
+      "impediments",
+      "invalidation",
+      "rightholders",
+      "diagnostics",
+      "pirated",
+      "furthers",
+      "proprietor",
+      "maximize",
+      "unitary",
+      "patents",
+      "insurmountable",
+      "suspensive",
+      "designing"
+    ],
+    "prompt_length": 1782,
+    "category": "6416 research and intellectual property"
+  }
+}

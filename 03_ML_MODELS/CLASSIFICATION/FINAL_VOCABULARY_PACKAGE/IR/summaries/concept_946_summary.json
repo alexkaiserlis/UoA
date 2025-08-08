@@ -1,0 +1,63 @@
+{
+  "concept_id": "946",
+  "concept_data": {
+    "title": "export sale",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": true,
+    "preferred_term": "export",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"export sale,\" redirected to the preferred term \"export,\" encompasses the legal framework governing the sale of goods from the EU to external markets. In this context, fabricators must navigate regulatory measures that ensure compliance with standards, particularly concerning substances like tributyltin and simazine, which are subject to stringent controls. The inelastic demand for certain goods can lead to overbidding in tenders, necessitating a careful account of costs to avoid unnecessary financial burdens. Successful export operations often require a thorough understanding of market statistics and the ability to manoeuvre through complex legal landscapes, ensuring that undertakings are both compliant and profitable. The saga of trade negotiations, particularly with nations like Rumania and Nepalese markets, highlights the persistent challenges faced by exporters. Ultimately, the export process is a dynamic interplay of regulatory measures, market demands, and strategic planning, where the reissue of guidelines and the formulation of new policies can significantly impact success rates.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:57:47.400953",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 155,
+    "vocabulary_stats": {
+      "total_related_words": 3232,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 21,
+      "selected_avg_freq": 12.16
+    },
+    "related_words": [
+      "fabricators",
+      "inelastic",
+      "overbidding",
+      "reasserted",
+      "amosite",
+      "antophyllite",
+      "actinolite",
+      "tremolite",
+      "dustable",
+      "indertaking",
+      "unnecesary",
+      "acocunt",
+      "tenderes",
+      "saga",
+      "lax",
+      "formuale",
+      "encroaching",
+      "statistic",
+      "challengable",
+      "successes",
+      "gfsp",
+      "signedon",
+      "persistant",
+      "ingesting",
+      "undistilled",
+      "yougoslavia",
+      "gtc",
+      "costwold",
+      "insémination",
+      "prim"
+    ],
+    "prompt_length": 1728,
+    "category": "2016 trade"
+  }
+}

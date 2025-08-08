@@ -1,0 +1,63 @@
+{
+  "concept_id": "766",
+  "concept_data": {
+    "title": "investment aid",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Investment aid refers to financial support provided by EU member states to catalyze economic development, particularly in regions facing economic challenges. This aid can take various forms, including grants, tax incentives, or subsidized loans, aimed at stimulating investment in depreciable assets. The legal framework governing investment aid is designed to prevent outworn practices that distort competition within the internal market. Schemes such as investeringspremierregeling facilitate the allocation of resources to boroughs like Heerlen and Geleen, promoting regional growth. Compliance with EU regulations ensures that such aid does not lead to nationalization or unfair advantages, maintaining a balanced economic ambit across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:17:45.903140",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2455,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 6.926666666666667
+    },
+    "related_words": [
+      "afforest",
+      "elemination",
+      "depreciations",
+      "fip",
+      "geleen",
+      "boroughs",
+      "heerlen",
+      "catalyzing",
+      "ate",
+      "investeringspremierregeling",
+      "depreciable",
+      "catanzaro",
+      "crotone",
+      "foggia",
+      "potenza",
+      "vibo",
+      "valentia",
+      "tivoli",
+      "formia",
+      "sora",
+      "cassino",
+      "lemonade",
+      "sevenfold",
+      "shemes",
+      "pernis",
+      "outworn",
+      "veendam",
+      "werkstoff",
+      "lippendorf",
+      "chambered"
+    ],
+    "prompt_length": 1707,
+    "category": "1606 economic policy"
+  }
+}

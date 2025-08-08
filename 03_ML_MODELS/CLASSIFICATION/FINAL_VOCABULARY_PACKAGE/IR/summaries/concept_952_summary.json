@@ -1,0 +1,63 @@
+{
+  "concept_id": "952",
+  "concept_data": {
+    "title": "mining extraction technique",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "mining extraction",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mining extraction technique,\" a redirect to the preferred term \"mining extraction,\" encompasses various methodologies employed in the mining sector, particularly within the EU's regulatory framework. This includes the extraction of ores such as galena and fluorite, which are critical for geochemical applications. The EU's regulatory landscape mandates rigorous gestione of mining activities, ensuring that extraction processes are environmentally sustainable and economically viable. Regulatory bodies may conduct an istruttoria to assess the representativity of bids for mining rights, scrutinizing factors such as the characterisation of waste and the impact on local ecosystems. Investors must navigate complex legal requirements, including compliance with environmental standards and the management of abandoned mines. The iterative nature of regulatory approvals often leads to questions regarding the ranking of competing bids, with authorities tasked to ensure that the winning bidder can effectively manage the extraction process while minimizing inert waste and maximizing ore recovery.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:46.918368",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 150,
+    "vocabulary_stats": {
+      "total_related_words": 473,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 595,
+      "selected_avg_freq": 249.95333333333335
+    },
+    "related_words": [
+      "fluorite",
+      "silius",
+      "genna",
+      "tres",
+      "montis",
+      "intervento",
+      "fluorsid",
+      "hydrofluoric",
+      "istruttoria",
+      "iterative",
+      "galena",
+      "programma",
+      "mineraria",
+      "gestione",
+      "geochemical",
+      "nuova",
+      "winning",
+      "forgone",
+      "bidder",
+      "doubted",
+      "inert",
+      "extracting",
+      "extractive",
+      "incoming",
+      "banca",
+      "relieved",
+      "ore",
+      "cis",
+      "hired",
+      "alleging"
+    ],
+    "prompt_length": 1717,
+    "category": "6611 coal and mining industries"
+  }
+}

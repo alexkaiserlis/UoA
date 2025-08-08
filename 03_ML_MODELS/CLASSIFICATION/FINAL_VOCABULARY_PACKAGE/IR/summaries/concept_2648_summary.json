@@ -1,0 +1,63 @@
+{
+  "concept_id": "2648",
+  "concept_data": {
+    "title": "offer price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"offer price\" in EU legal and regulatory contexts refers to the specified price at which products, such as sylvaner or riesling wines, are proposed for sale. This price must comply with detailed requirements outlined in various regulations, ensuring that it reflects the characteristics of the product and market fluctuations. For instance, when dealing with heterogeneous goods like artichokes and endives, the offer price may need adjustment to account for compensation mechanisms or countervailing duties. Additionally, the arithmetic calculation of offer prices must disregard unaltered factors, ensuring transparency and fairness in trade practices, particularly at the frontier of EU markets.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:51.570339",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 551,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 494,
+      "selected_avg_freq": 229.17333333333335
+    },
+    "related_words": [
+      "regulatiuon",
+      "producton",
+      "wiht",
+      "detalied",
+      "compensaton",
+      "offfer",
+      "atfrontier",
+      "requirments",
+      "refrence",
+      "sylvaner",
+      "febraury",
+      "characterstics",
+      "boberg",
+      "contervailing",
+      "flucutations",
+      "riesling",
+      "batavian",
+      "leaved",
+      "arithmetical",
+      "disregarding",
+      "endives",
+      "toward",
+      "sluice",
+      "heterogeneous",
+      "cabbage",
+      "aricle",
+      "artichokes",
+      "lettuce",
+      "sows",
+      "cucumbers"
+    ],
+    "prompt_length": 1692,
+    "category": "2451 prices"
+  }
+}

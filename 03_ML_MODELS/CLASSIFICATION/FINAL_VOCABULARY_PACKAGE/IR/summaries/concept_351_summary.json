@@ -1,0 +1,63 @@
+{
+  "concept_id": "351",
+  "concept_data": {
+    "title": "West Africa",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"West Africa\" within EU legal and regulatory frameworks encompasses various issues related to immigration, security, and international cooperation. This region faces irregular migration challenges, necessitating the deployment of biometrics, such as fingerprint and photographs, to enhance visa processing and consular representation. The EU's acquis includes measures to address threats posed by irregular migration, with agencies like Europol involved in fighting these issues. Additionally, the Schengen area’s regulations impact nationals from West Africa, influencing their ability to stay or face visa refusal. The feasibility of solutions to these challenges is critical for building effective policies that protect both EU borders and the rights of individuals encountered during immigration processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:25:32.652184",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 211,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 2274,
+      "selected_avg_freq": 1005.58
+    },
+    "related_words": [
+      "irregularly",
+      "fingerprint",
+      "biometrics",
+      "sequence",
+      "photographs",
+      "equipping",
+      "consular",
+      "sis",
+      "palestinian",
+      "immigration",
+      "fighting",
+      "occupied",
+      "irregular",
+      "europol",
+      "threats",
+      "latters",
+      "visas",
+      "solve",
+      "visa",
+      "deployment",
+      "builds",
+      "locations",
+      "asia",
+      "stay",
+      "refusal",
+      "principality",
+      "posts",
+      "liechtenstein",
+      "schengen",
+      "southern"
+    ],
+    "prompt_length": 1652,
+    "category": "7221 Africa"
+  }
+}

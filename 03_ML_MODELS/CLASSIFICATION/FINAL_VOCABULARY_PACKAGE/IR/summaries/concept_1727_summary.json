@@ -1,0 +1,63 @@
+{
+  "concept_id": "1727",
+  "concept_data": {
+    "title": "Mashreq",
+    "category_code": "7226",
+    "category_name": "Asia and Oceania",
+    "category_full": "7226 Asia and Oceania",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"Mashreq\" refers to a geographical and political region in Asia and Oceania, encompassing countries that are eligible for various EU aid and support initiatives. In the context of EU legal and regulatory documents, the Mashreq region is often specified in decisions regarding the allocation of resources, particularly in sectors such as food and oil supplies. The EU lays down rules and criteria for the management of operations in these countries, determining the conditions under which aid is mobilised. The resultant policies aim to enhance security and support beneficiaries through the efficient transport and supply of essential products, ensuring that the allocated resources meet the needs of the abovementioned nations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:39:35.175953",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 156,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 156,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2146.467741935484
+    },
+    "related_words": [
+      "fob",
+      "mobilisation",
+      "resultant",
+      "vegetable",
+      "beneficiaries",
+      "specifies",
+      "supplies",
+      "oil",
+      "allocated",
+      "allocation",
+      "organisations",
+      "supplied",
+      "specify",
+      "food",
+      "eligible",
+      "stage",
+      "transport",
+      "aid",
+      "security",
+      "supply",
+      "determine",
+      "operations",
+      "limits",
+      "costs",
+      "abovementioned",
+      "lays",
+      "criteria",
+      "decisions",
+      "support",
+      "special"
+    ],
+    "prompt_length": 1635,
+    "category": "7226 Asia and Oceania"
+  }
+}

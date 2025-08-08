@@ -1,0 +1,63 @@
+{
+  "concept_id": "4530",
+  "concept_data": {
+    "title": "own-account transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Own-account transport\" refers to the practice where operators, such as hauliers and carriers, perform the carriage of goods using their own vehicles without hiring external transport services. This concept is central to EU regulations governing transport, particularly in relation to cabotage and the authorization of transport undertakings. Operators engaged in own-account transport are entitled to certain rights and must adhere to specific clauses and authorizations issued by regulatory bodies. The abolition of restrictive practices has facilitated better operational techniques, allowing resident drivers to exploit the possibilities afforded by this model. However, unequal competition may arise when few operators dominate the market, leading to ongoing examination of regulatory frameworks to ensure fair transport practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:29.143812",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1825.8595041322315
+    },
+    "related_words": [
+      "hauliers",
+      "reward",
+      "cabotage",
+      "hired",
+      "hire",
+      "haulage",
+      "unequal",
+      "drivers",
+      "resident",
+      "exploit",
+      "carriers",
+      "clauses",
+      "authorizations",
+      "afforded",
+      "performing",
+      "carriage",
+      "facilitated",
+      "host",
+      "cut",
+      "few",
+      "road",
+      "techniques",
+      "vehicles",
+      "abolition",
+      "possibilities",
+      "continuing",
+      "restrictive",
+      "resulted",
+      "operate",
+      "authorization"
+    ],
+    "prompt_length": 1671,
+    "category": "4811 organisation of transport"
+  }
+}

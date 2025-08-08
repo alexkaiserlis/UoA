@@ -1,0 +1,63 @@
+{
+  "concept_id": "449",
+  "concept_data": {
+    "title": "directive (EU)",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A directive (EU) is a legislative act that establishes a framework for member states to achieve specific objectives while allowing flexibility in implementation. It invites countries to equip their legal systems with measures that address disparities in areas such as environmental protection and consumer rights. For instance, directives may regulate the use of incandescent lamps and their variants, ensuring that lighting standards meet fitness criteria for visual acuity. They also preclude meaningless regulations by providing clear parameters for compliance. By cataloguing requirements, directives facilitate the purification of legal frameworks, enabling retailers and drivers to navigate regulations effectively, thus enhancing overall societal wellbeing.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:14:42.958071",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 509,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 522,
+      "selected_avg_freq": 215.94666666666666
+    },
+    "related_words": [
+      "reclined",
+      "acuity",
+      "dioptres",
+      "diplopia",
+      "uncorrected",
+      "abstraction",
+      "incandescent",
+      "meaningless",
+      "headlamps",
+      "parametric",
+      "binocular",
+      "glasses",
+      "headlamp",
+      "variants",
+      "dipped",
+      "eutrophication",
+      "lenses",
+      "else",
+      "retailer",
+      "equip",
+      "mental",
+      "beams",
+      "mirrors",
+      "filament",
+      "mirror",
+      "fitness",
+      "tolerated",
+      "catalogues",
+      "lamp",
+      "signalling"
+    ],
+    "prompt_length": 1662,
+    "category": "1011 European Union law"
+  }
+}

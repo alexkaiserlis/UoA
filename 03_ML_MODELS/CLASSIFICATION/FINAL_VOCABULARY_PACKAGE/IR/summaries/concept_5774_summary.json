@@ -1,0 +1,63 @@
+{
+  "concept_id": "5774",
+  "concept_data": {
+    "title": "Baltic States",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Baltic States\" refers to Estonia, Latvia, and Lithuania, which have regained independence and are integral to the EU's regulatory landscape. Their industrialization has been marked by initiatives to tackle environmental challenges, such as the management of landfill waste under the WEEE directive, promoting reuse and recycling. The EU's assistance programs mobilising resources aim to support households in adapting to regulatory changes. The region's unique landscape and minority populations, including the inhabitants of Gdansk, face challenges like economic rigidity and inefficient systems. Committees are underway to finalize strategies that stimulate growth while addressing disaster risks and ensuring compliance with EU standards, including tolerances for food products like glucose and syrup.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:54:14.658430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 983,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 309,
+      "selected_avg_freq": 173.09333333333333
+    },
+    "related_words": [
+      "ordinator",
+      "concordia",
+      "assitance",
+      "weee",
+      "inhabitant",
+      "rigidity",
+      "gdansk",
+      "regained",
+      "skirt",
+      "fatua",
+      "industrialization",
+      "eupm",
+      "attracted",
+      "thick",
+      "landfill",
+      "avena",
+      "minority",
+      "fyrom",
+      "storm",
+      "prawn",
+      "adjusts",
+      "inefficient",
+      "mobilising",
+      "nafo",
+      "underway",
+      "finalized",
+      "commitee",
+      "reuse",
+      "imf",
+      "mushrooms"
+    ],
+    "prompt_length": 1635,
+    "category": "7206 Europe"
+  }
+}

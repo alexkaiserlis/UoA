@@ -1,0 +1,63 @@
+{
+  "concept_id": "1155",
+  "concept_data": {
+    "title": "management accounting",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Management accounting, within the EU regulatory framework, encompasses the systematic process of preparing financial information that aids in decision-making and enhances organizational performance. It involves the use of various standards, including IFRS and GAAP, to ensure accurate disclosures and compliance. Key practices include the assessment of goodwill, impairment, and prepayments, which are crucial for maintaining financial integrity. Management accounting also addresses the implications of novation and hedging strategies, particularly in OTC transactions. Furthermore, it prescribes guidelines for dividend distribution and the treatment of recoverable amounts, ensuring that stakeholders are adequately informed through transparent reporting and reminders of obligations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:39:18.171360",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 822,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 277,
+      "selected_avg_freq": 122.96666666666667
+    },
+    "related_words": [
+      "hainault",
+      "misprints",
+      "novated",
+      "adopter",
+      "circa",
+      "unquoted",
+      "unanswered",
+      "prepayments",
+      "ifrss",
+      "inconsiderable",
+      "agr",
+      "novation",
+      "hedge",
+      "tune",
+      "loyalty",
+      "ifric",
+      "teg",
+      "extant",
+      "travels",
+      "viticulture",
+      "reorganises",
+      "hedging",
+      "wise",
+      "prepayment",
+      "iasb",
+      "gaap",
+      "efrag",
+      "counterparty",
+      "goodwill",
+      "warned"
+    ],
+    "prompt_length": 1648,
+    "category": "4026 accounting"
+  }
+}

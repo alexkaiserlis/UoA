@@ -1,0 +1,63 @@
+{
+  "concept_id": "2043",
+  "concept_data": {
+    "title": "cargo vessel",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"cargo vessel\" refers to a merchant ship primarily designed for transporting cargo across maritime and inland waterway routes. In the context of EU legal and regulatory frameworks, such vessels are subject to various conventions, including SOLAS and MARPOL, which enforce safety and pollution prevention measures. Administrations are tasked with certifying and monitoring these ships, ensuring compliance with tonnage and load regulations. Divergences in interpretations of flag state jurisdiction can lead to complications, such as ships being detained in ports. The EU aims to reconcile these differences, promoting a strengthened regulatory environment that facilitates efficient shipping operations while safeguarding maritime safety and environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:25.424686",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 224,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2185,
+      "selected_avg_freq": 932.9533333333334
+    },
+    "related_words": [
+      "succinct",
+      "shipboard",
+      "marpol",
+      "sailing",
+      "solas",
+      "merchant",
+      "detained",
+      "reconcile",
+      "divergences",
+      "flags",
+      "impeded",
+      "imo",
+      "losing",
+      "interpretations",
+      "discretion",
+      "tonnage",
+      "load",
+      "cargo",
+      "enforce",
+      "registers",
+      "ship",
+      "refused",
+      "refined",
+      "flying",
+      "passenger",
+      "certifying",
+      "shipping",
+      "flag",
+      "leave",
+      "conventions"
+    ],
+    "prompt_length": 1678,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

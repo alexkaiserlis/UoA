@@ -1,0 +1,63 @@
+{
+  "concept_id": "610",
+  "concept_data": {
+    "title": "surface water",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Surface water\" refers to watercourses such as rivers and lakes that are critical for biodiversity and human use within the EU's natural environment framework. Regulatory documents emphasize the harmfulness of pollutants, including polyaromatic hydrocarbons (PAHs) and heavy metals like cadmium and mercury, which bioaccumulate in aquatic ecosystems. The prioritisation of monitoring and managing discharges is essential to mitigate ecotoxicity and endocrine disrupters. The EU employs scientific modelling and intercalibration methods to assess water quality, ensuring compliance with frameworks like HELCOM and OSPAR. Effective synchronisation of transboundary water management is vital for addressing nuisances and maintaining intrinsic ecological foundations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:02:12.329382",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 510,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 590,
+      "selected_avg_freq": 257.12
+    },
+    "related_words": [
+      "diffuse",
+      "commps",
+      "helcom",
+      "dynamec",
+      "ptbs",
+      "disrupters",
+      "synchronisation",
+      "intercalibration",
+      "abstraction",
+      "polyaromatic",
+      "harmfulness",
+      "pahs",
+      "modelling",
+      "watercourses",
+      "ospar",
+      "nuisances",
+      "prioritisation",
+      "bioaccumulate",
+      "accumulate",
+      "unep",
+      "endocrine",
+      "rivers",
+      "expeditious",
+      "approaching",
+      "assigning",
+      "ecotoxicity",
+      "fora",
+      "ranking",
+      "discharged",
+      "foundations"
+    ],
+    "prompt_length": 1714,
+    "category": "5211 natural environment"
+  }
+}

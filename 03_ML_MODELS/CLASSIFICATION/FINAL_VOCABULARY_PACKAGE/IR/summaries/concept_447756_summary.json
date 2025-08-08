@@ -1,0 +1,63 @@
+{
+  "concept_id": "447756",
+  "concept_data": {
+    "title": "European Institute for Gender Equality",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Institute for Gender Equality (EIGE) is a pivotal EU institution established to promote gender equality across member states. Appointed by the governments of EU countries, the board comprises members from various nations, including Slovakia, Estonia, and Malta, who serve alternating terms. EIGE provides essential research and data to support the functioning of gender equality policies and regulations. It plays a crucial role in nominating candidates for various initiatives and ensuring that gender considerations are integrated into EU legislation. Established under a regulation, the institute's management is accountable to the European Parliament, with reports submitted in June and December each year.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:46:33.715417",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 58,
+      "requested_words": 150,
+      "min_frequency_found": 43,
+      "max_frequency_found": 4108,
+      "selected_words": 58,
+      "selected_min_freq": 43,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1730.8793103448277
+    },
+    "related_words": [
+      "nominate",
+      "eighteen",
+      "alternates",
+      "gender",
+      "alternate",
+      "candidates",
+      "equality",
+      "appoint",
+      "appointing",
+      "institute",
+      "slovakia",
+      "governments",
+      "estonia",
+      "malta",
+      "latvia",
+      "lithuania",
+      "luxembourg",
+      "cyprus",
+      "board",
+      "bulgaria",
+      "romania",
+      "poland",
+      "lists",
+      "greece",
+      "netherlands",
+      "finland",
+      "italy",
+      "denmark",
+      "ireland",
+      "austria"
+    ],
+    "prompt_length": 1690,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

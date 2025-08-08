@@ -1,0 +1,63 @@
+{
+  "concept_id": "6821",
+  "concept_data": {
+    "title": "brick",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"brick\" refers to a fundamental construction material pivotal in various subsectors, including building and public works. The materiality of bricks, which can be baked or unfired, plays a crucial role in ensuring structural integrity. Jurisprudence surrounding bricks often addresses issues such as disaggregation and leakage, particularly concerning refractories and magnesia-based products like magnesite. The argumentation surrounding the use of clay and paste in brick production highlights the challenges of compliance with environmental standards. Furthermore, the unwillingness of some manufacturers to adhere to regulations can undermine the veracity of construction claims, thereby affecting the overall quality of constructions.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:57.491338",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 783,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 287,
+      "selected_avg_freq": 135.98666666666668
+    },
+    "related_words": [
+      "trl",
+      "dalmond",
+      "unfired",
+      "yingkou",
+      "refractories",
+      "qinghua",
+      "nowhere",
+      "citl",
+      "mgo",
+      "magnesite",
+      "please",
+      "challenging",
+      "magnesia",
+      "disaggregation",
+      "unwilling",
+      "unwillingness",
+      "tiles",
+      "argumentation",
+      "harmed",
+      "baked",
+      "jurisprudence",
+      "materiality",
+      "disaggregated",
+      "penetrate",
+      "clay",
+      "paste",
+      "bricks",
+      "subsectors",
+      "constructions",
+      "subsector"
+    ],
+    "prompt_length": 1688,
+    "category": "6831 building and public works"
+  }
+}

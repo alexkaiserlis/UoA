@@ -1,0 +1,63 @@
+{
+  "concept_id": "554",
+  "concept_data": {
+    "title": "company law",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Company law within the EU framework encompasses the legal principles governing business organisations, including their formation, operation, and dissolution. It aims to ensure accountability and protect shareholders' prerogatives while facilitating the modernisation of corporate structures. This body of law scrutinises mergers and acquisitions, ensuring compliance with IFRS standards and preventing prejudicing of creditors. Entrepreneurs and SMEs benefit from streamlined regulations that boost economic growth, while outdated practices are dispensed with to enhance efficiency. The law also addresses the roles of subcontractors and conglomerates, ensuring that all stakeholders, including issuers and contractors, are adequately represented and relieved of superfluous obligations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:22:17.420769",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 854,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 338,
+      "selected_avg_freq": 166.34666666666666
+    },
+    "related_words": [
+      "nullity",
+      "entrepreneur",
+      "säger",
+      "smus",
+      "regrouping",
+      "acquires",
+      "publishes",
+      "afore",
+      "relieving",
+      "conglomerate",
+      "prejudicing",
+      "lawmaking",
+      "prerogatives",
+      "rarely",
+      "boosting",
+      "relieved",
+      "isic",
+      "dispensing",
+      "subcontractors",
+      "twelfth",
+      "scrutinise",
+      "ifrs",
+      "sme",
+      "academic",
+      "resigned",
+      "dispensed",
+      "websites",
+      "immaterial",
+      "chambers",
+      "nomenclatures"
+    ],
+    "prompt_length": 1706,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1590",
+  "concept_data": {
+    "title": "regulations on foodstuffs",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "foodstuffs legislation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"foodstuffs legislation\" encompasses the comprehensive regulatory framework governing the safety, quality, and labeling of food products within the EU. This legislation addresses various aspects, including the permissible levels of additives like acesulfme and the presence of contaminants such as chlorohydrins and ethylester. It mandates responsible practices to prevent unhygienic conditions that could exacerbate health issues, including encephalopaties and cholesterolaemia. Additionally, regulations cover the use of ingredients like lycopenes and baobab, ensuring that foodstuffs are safe and bioaccumulable. The legislation also includes provisions for monitoring substances such as naphthalenol and diglycidyl, reflecting the EU's commitment to public health and safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:17.307778",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 4192,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.006666666666667
+    },
+    "related_words": [
+      "naphthalenol",
+      "anatase",
+      "rutile",
+      "pearlescence",
+      "foodtuffs",
+      "acesulfme",
+      "aminoacid",
+      "reqired",
+      "reasonabe",
+      "sepiolite",
+      "responsable",
+      "diglycidyl",
+      "chlorohydrins",
+      "methylbuta",
+      "diene",
+      "picolinate",
+      "encephalopaties",
+      "steatites",
+      "chlorites",
+      "sepiolitic",
+      "südzucker",
+      "transformant",
+      "inra",
+      "lycopenes",
+      "baobab",
+      "phytotrade",
+      "unsaponifiable",
+      "pharmascience",
+      "expanscience",
+      "cholesterolaemia"
+    ],
+    "prompt_length": 1791,
+    "category": "2841 health"
+  }
+}

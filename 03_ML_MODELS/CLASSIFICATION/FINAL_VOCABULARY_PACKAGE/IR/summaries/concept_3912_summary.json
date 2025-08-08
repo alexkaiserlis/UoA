@@ -1,0 +1,63 @@
+{
+  "concept_id": "3912",
+  "concept_data": {
+    "title": "xenophobia",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Xenophobia, a concept closely related to racism, is addressed within EU legal and regulatory frameworks aimed at protecting rights and freedoms. The European Union actively monitors xenophobia through various agreements and proposals, establishing regulations to combat discrimination against communities. In June, the European Parliament approved a decision that emphasizes cooperation among member states to address xenophobia in accordance with the Treaty. This initiative aims to foster a more inclusive Union, with the Commission providing an official opinion on the matter. The conclusion of these efforts is to ensure that all individuals, regardless of their background, are treated with dignity and respect.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:35:19.222755",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 33,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 33,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2627.2727272727275
+    },
+    "related_words": [
+      "racism",
+      "xenophobia",
+      "centre",
+      "sentence",
+      "close",
+      "europe",
+      "monitoring",
+      "conjunction",
+      "conclusion",
+      "approved",
+      "cooperation",
+      "subparagraph",
+      "purpose",
+      "agreement",
+      "relating",
+      "proposal",
+      "parliament",
+      "june",
+      "opinion",
+      "communities",
+      "december",
+      "journal",
+      "official",
+      "regulation",
+      "union",
+      "accordance",
+      "decision",
+      "community",
+      "establishing",
+      "commission"
+    ],
+    "prompt_length": 1515,
+    "category": "1236 rights and freedoms"
+  }
+}

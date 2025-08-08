@@ -1,0 +1,63 @@
+{
+  "concept_id": "2379",
+  "concept_data": {
+    "title": "Piedmont",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Piedmont,\" or \"Piemonte,\" is a significant region within the EU Member States, particularly known for its socio-economic frameworks and agricultural cooperatives. The region, encompassing areas like Domodossola, is characterized by its mountainous terrain and rich agricultural practices, including the cultivation of nocciola. In EU regulatory contexts, Piedmont is often referenced in discussions surrounding the European Social Fund (ESF) and the European Regional Development Fund (ERDF), which aim to foster modernization and skills development. The region's development strategies are indexed to additionality and inflation considerations, ensuring that investments are effectively utilized. The cessation of certain practices may be ruled under specific legal frameworks, while the encouragement of occupational skills is a favored approach to enhance local readiness and perspectives. The concept of marshalling resources in Piedmont reflects a broader intent to adopt innovative solutions, with a focus on sustainability and economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:54:12.857879",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 519,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 835,
+      "selected_avg_freq": 432.14666666666665
+    },
+    "related_words": [
+      "domodossola",
+      "domodossolla",
+      "toma",
+      "piemontese",
+      "nocciola",
+      "marshalling",
+      "piedmont",
+      "yard",
+      "piemonte",
+      "consonant",
+      "hill",
+      "cooperatives",
+      "encouragement",
+      "utilized",
+      "additionality",
+      "indexed",
+      "titles",
+      "calves",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "mountain",
+      "occupational",
+      "skills",
+      "del",
+      "analogy",
+      "station",
+      "intent"
+    ],
+    "prompt_length": 1671,
+    "category": "7211 regions of EU Member States"
+  }
+}

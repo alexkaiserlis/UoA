@@ -1,0 +1,63 @@
+{
+  "concept_id": "1537",
+  "concept_data": {
+    "title": "the bench",
+    "category_code": "1226",
+    "category_name": "organisation of the legal system",
+    "category_full": "1226 organisation of the legal system",
+    "is_redirect": true,
+    "preferred_term": "judge",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, \"the bench\" is a redirect to the preferred term \"judge,\" referring to individuals who perform judicial functions within a tribunal. Judges are pivotal in litigation, contemplating cases and ensuring that justice is served in accordance with statutes. The appointment of judges involves a rigorous process, conferring responsibilities that require intellectual and factual suitability. Discussions around their workload and remuneration are frequent, as they cope with the demands of their posts. The cessation of a judge's duties may arise from resignation or other circumstances, impacting the jurisdiction and functioning of the legal system.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:06.174719",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 226,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1971,
+      "selected_avg_freq": 853.4266666666666
+    },
+    "related_words": [
+      "haris",
+      "tagaras",
+      "contemplating",
+      "similary",
+      "boruta",
+      "irena",
+      "bench",
+      "litigation",
+      "appended",
+      "resigned",
+      "emoluments",
+      "judges",
+      "tribunal",
+      "exhaust",
+      "resignation",
+      "circumstance",
+      "judge",
+      "workload",
+      "cope",
+      "suitability",
+      "conferring",
+      "candidates",
+      "avail",
+      "intellectual",
+      "factual",
+      "remuneration",
+      "named",
+      "cessation",
+      "heard",
+      "appoint"
+    ],
+    "prompt_length": 1716,
+    "category": "1226 organisation of the legal system"
+  }
+}

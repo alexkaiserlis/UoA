@@ -1,0 +1,63 @@
+{
+  "concept_id": "1310",
+  "concept_data": {
+    "title": "tax rate",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax rate,\" categorized under taxation, is redirected to the preferred term \"tax.\" In EU legal and regulatory frameworks, tax rates are crucial for ensuring sufficient revenue generation while fostering competition among merchants. The alignment of tax policies can relieve burdens on businesses and individuals, thereby stimulating economic growth. Various decrees and regulations, such as those concerning parafiscal measures, have evolved to address the complexities of taxation. These frameworks aim to prevent infringements on fair competition and ensure compliance with established norms. By summarizing tax obligations, collectors can manage emoluments effectively, ensuring that tax systems remain durably efficient and transparent.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:11:00.365940",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 979,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 253,
+      "selected_avg_freq": 113.91333333333333
+    },
+    "related_words": [
+      "uit",
+      "bapsa",
+      "fasc",
+      "fnda",
+      "debars",
+      "gratuitous",
+      "leby",
+      "thousands",
+      "curbed",
+      "resepct",
+      "comeptition",
+      "mentined",
+      "devoting",
+      "cheques",
+      "therewith",
+      "sevenths",
+      "mem",
+      "ifric",
+      "veto",
+      "ignores",
+      "hicp",
+      "cmfb",
+      "alignments",
+      "infringes",
+      "parafiscal",
+      "summarized",
+      "relieving",
+      "collector",
+      "gnpmp",
+      "sees"
+    ],
+    "prompt_length": 1637,
+    "category": "2446 taxation"
+  }
+}

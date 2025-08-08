@@ -1,0 +1,63 @@
+{
+  "concept_id": "5146",
+  "concept_data": {
+    "title": "economic situation",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic situation\" within EU legal and regulatory frameworks encompasses the dynamic layers of economic conditions impacting member states. It is crucial for the Eurogroup to monitor projections and outturns, particularly during periods of stagnation or contraction. The Council adopted measures targeting underdeveloped regions, aiming to recapitalise businesses and prevent deadlock in economic recovery. Exogenous factors can destabilise economies, necessitating injections of support. The EU's commitment to fostering growth is evident through initiatives like the EDP and the emphasis on parental leave policies, which underpin workforce stability. Over decades, these dynamics have shaped the economic topography, reflecting both challenges and opportunities for stakeholders like BusinessEurope and ETUC.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:37.628541",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 745,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 249,
+      "selected_avg_freq": 102.40666666666667
+    },
+    "related_words": [
+      "implented",
+      "eurogroup",
+      "recapitalise",
+      "dexia",
+      "impacted",
+      "counciladopted",
+      "stagnate",
+      "amnesty",
+      "fortis",
+      "targetting",
+      "destabilise",
+      "ueapme",
+      "reap",
+      "committment",
+      "businesseurope",
+      "underdeveloped",
+      "deadlock",
+      "expectancy",
+      "ceep",
+      "mto",
+      "outturn",
+      "exogenous",
+      "missed",
+      "injections",
+      "dividend",
+      "tightening",
+      "recapitalisation",
+      "ample",
+      "projection",
+      "telecom"
+    ],
+    "prompt_length": 1695,
+    "category": "1611 economic conditions"
+  }
+}

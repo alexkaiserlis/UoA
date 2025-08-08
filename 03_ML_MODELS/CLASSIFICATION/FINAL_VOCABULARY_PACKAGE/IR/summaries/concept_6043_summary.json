@@ -1,0 +1,63 @@
+{
+  "concept_id": "6043",
+  "concept_data": {
+    "title": "fuel",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fuel\" within EU energy policy encompasses various combustible substances, including coal, oil, and gas, which are critical for energy production. The regulatory framework prioritises cleaner alternatives, such as liquefaction and gasification processes, to ameliorate environmental impacts, particularly acidification. The EU encourages blending denaturants like ethyltertbutylether (ETBE) and methyltertbutylether (MTBE) to optimise fuel efficiency. Additionally, the Saarland region, with its historical coal mining (houillères) and lignite production, exemplifies the integration of regional energy resources, such as those from Saarbruecken and Saarbergwerke. The legal instruments aim to furthered the transition towards sustainable fuels, addressing both economic and political dimensions of energy security.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:38.772761",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 753,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 242,
+      "selected_avg_freq": 106.48
+    },
+    "related_words": [
+      "houillères",
+      "saarlor",
+      "lothringische",
+      "kohlenunion",
+      "deutsch",
+      "franzoesische",
+      "aktien",
+      "charbonnière",
+      "sarro",
+      "allemande",
+      "liquefaction",
+      "gasification",
+      "ormulsion",
+      "oilshale",
+      "ethyltertbutylether",
+      "methyltertbutylether",
+      "tba",
+      "separable",
+      "bassin",
+      "prioritise",
+      "isopropanol",
+      "auf",
+      "isobutanol",
+      "ameliorate",
+      "propanol",
+      "mtbe",
+      "saarbruecken",
+      "combustible",
+      "denaturants",
+      "denaturant"
+    ],
+    "prompt_length": 1704,
+    "category": "6606 energy policy"
+  }
+}

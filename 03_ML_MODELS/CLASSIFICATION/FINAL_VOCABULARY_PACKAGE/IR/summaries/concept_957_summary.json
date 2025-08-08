@@ -1,0 +1,26 @@
+{
+  "concept_id": "957",
+  "concept_data": {
+    "title": "invoicing",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"invoicing\" refers to the systematic process of documenting sales transactions through invoices, which serve as formal requests for payment. Invoicing is integral to accounting practices, ensuring compliance with VAT regulations and financial transparency. The EU has established directives that govern invoicing standards, mandating specific information to be included, such as the seller's and buyer's details, transaction date, and applicable tax rates. Proper invoicing is essential for maintaining accurate financial records and facilitating audits, thereby supporting the integrity of the internal market and fostering fair competition among businesses.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:01:31.789379",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1159,
+    "category": "4026 accounting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2371",
+  "concept_data": {
+    "title": "arbitrage",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Arbitrage, in the context of EU financial institutions and credit, refers to the practice of resolving differences in prices or rates across markets to create balanced financial opportunities. It involves the participation of competent authorities, such as the European Central Bank (ECB), which supervises and notifies institutions regarding policies that govern these activities. The establishment of a supervisory panel may be necessary to address objections and ensure a reasoned approach to mediation. This process is crucial for maintaining prudential oversight and fostering a stable financial environment, where the interests of all parties are expressed without prejudice, thus enhancing the overall integrity of the credit system.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:08:05.264633",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 69,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 69,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1614.7971014492753
+    },
+    "related_words": [
+      "resolves",
+      "disagreement",
+      "resolving",
+      "notifies",
+      "mediation",
+      "vice",
+      "prudential",
+      "conferring",
+      "reasoned",
+      "chair",
+      "ecb",
+      "supervisory",
+      "panel",
+      "objection",
+      "credit",
+      "balanced",
+      "composition",
+      "recital",
+      "views",
+      "participating",
+      "supervision",
+      "euro",
+      "create",
+      "differences",
+      "best",
+      "board",
+      "placed",
+      "policies",
+      "bank",
+      "tasks"
+    ],
+    "prompt_length": 1667,
+    "category": "2416 financial institutions and credit"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1909",
+  "concept_data": {
+    "title": "rhythm of migration",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": true,
+    "preferred_term": "migration",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rhythm of migration,\" while a redirect to the preferred term \"migration,\" encapsulates the dynamic patterns and trends of migrant flows within the EU. This phenomenon is integral to addressing skill shortages and adapting to an ageing population, as highlighted in various EU regulatory frameworks. The Lisbon Strategy emphasizes the need for a flexible approach, or flexicurity, to integrate migrants into the labor market effectively. Surveys reveal that immigrants often face disadvantages, yet their experiences can spur economic growth by filling occupational gaps. The EU's ongoing debate on immigration reflects these complexities, aiming to combat diseases and ensure safety in migrant integration.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:57.823458",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 178,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1029.5133333333333
+    },
+    "related_words": [
+      "esaw",
+      "eods",
+      "immigrants",
+      "spur",
+      "relaunched",
+      "flexicurity",
+      "quarrying",
+      "obtainable",
+      "skill",
+      "migrants",
+      "adaptability",
+      "shortages",
+      "migrant",
+      "matching",
+      "predicted",
+      "module",
+      "rev",
+      "immigration",
+      "modules",
+      "ageing",
+      "grow",
+      "nace",
+      "debate",
+      "mining",
+      "emerging",
+      "experiences",
+      "disadvantage",
+      "gaps",
+      "integrating",
+      "occupational"
+    ],
+    "prompt_length": 1682,
+    "category": "2811 migration"
+  }
+}

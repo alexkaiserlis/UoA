@@ -1,0 +1,63 @@
+{
+  "concept_id": "2925",
+  "concept_data": {
+    "title": "reaping",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "harvest",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"reaping\" is a term that redirects to \"harvest,\" encompassing the process of gathering crops from cultivated lands. This concept is crucial for producers of various agricultural products, including seedflax, watermelons, and aubergines. The timing of the harvest is vital, as it relates to the ripeness of crops, which can be affected by factors such as rainfall, sunshine, and overall climatic conditions. Regulations may penalize unfair practices during harvesting, ensuring validly receipted transactions and the avoidance of duplicates. The detailed communication of harvest data facilitates transparency and neutrality in agricultural markets, supporting the availability of abundant produce like cauliflowers and melons.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:40.453878",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 857,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 249,
+      "selected_avg_freq": 116.6
+    },
+    "related_words": [
+      "seedflax",
+      "seedfax",
+      "servere",
+      "prducers",
+      "delicate",
+      "incompleteness",
+      "communicaiton",
+      "facilitiate",
+      "dtailed",
+      "receipted",
+      "validly",
+      "unfairly",
+      "unripe",
+      "parsnips",
+      "agrigento",
+      "rain",
+      "ripeness",
+      "sunshine",
+      "dark",
+      "duplicates",
+      "curing",
+      "flue",
+      "symbolic",
+      "tobaccos",
+      "ripe",
+      "cured",
+      "watermelons",
+      "vinification",
+      "assemble",
+      "logic"
+    ],
+    "prompt_length": 1718,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

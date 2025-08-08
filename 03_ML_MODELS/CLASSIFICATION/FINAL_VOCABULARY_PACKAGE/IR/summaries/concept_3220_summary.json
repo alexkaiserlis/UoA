@@ -1,0 +1,63 @@
+{
+  "concept_id": "3220",
+  "concept_data": {
+    "title": "private-sector liquidity",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"private-sector liquidity\" pertains to the availability of financial resources within the private banking sector, crucial for monetary stability in the EU. It is defined by the ability of banks to transmit funds efficiently, thus influencing domestic markets and prices. The governors of central banks adopt various methods to calculate liquidity levels, ensuring that financial institutions are endowed with sufficient resources to meet statutory requirements. This involves the harmonization of financial regulations across member states, as outlined in directives and protocols. The determination of liquidity size is essential for the compilation of statistical data, which informs monetary policy and contributes to the overall economic stability of the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:55:47.561358",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 40,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 40,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1972.5
+    },
+    "related_words": [
+      "emi",
+      "endowed",
+      "governors",
+      "precedent",
+      "compilation",
+      "institute",
+      "gross",
+      "statute",
+      "banks",
+      "introduces",
+      "harmonization",
+      "contributions",
+      "transmitted",
+      "key",
+      "monetary",
+      "sources",
+      "domestic",
+      "size",
+      "start",
+      "steps",
+      "calculation",
+      "acts",
+      "determination",
+      "central",
+      "method",
+      "euratom",
+      "constitute",
+      "statistical",
+      "own",
+      "stage"
+    ],
+    "prompt_length": 1657,
+    "category": "2411 monetary economics"
+  }
+}

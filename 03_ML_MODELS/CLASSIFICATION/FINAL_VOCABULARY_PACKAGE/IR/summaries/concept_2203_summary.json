@@ -1,0 +1,63 @@
+{
+  "concept_id": "2203",
+  "concept_data": {
+    "title": "Uganda",
+    "category_code": "7616",
+    "category_name": "extra-European organisations",
+    "category_full": "7616 extra-European organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Uganda\" within the context of EU legal and regulatory frameworks pertains to its classification as an extra-European organisation. This categorization is significant in the assessment of food safety, particularly concerning the importation of fish products such as perch and fillets from Ugandan waters. Regulatory measures focus on detecting microbiological hazards, including vibrions, salmonellae, and cholerae, that could contaminate these products. The wholesomeness of such imports is critical, especially in light of potential epidemics linked to food poisoning. The EU mandates that consignors ensure hygienic practices during packing and transport to maintain healthy standards upon reception in member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:59:34.071523",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 428,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 648,
+      "selected_avg_freq": 275.2
+    },
+    "related_words": [
+      "parahaemolitycus",
+      "dfr",
+      "vibrions",
+      "perch",
+      "vibrios",
+      "salmonellae",
+      "ugandan",
+      "parahaemolyticus",
+      "wih",
+      "cholerae",
+      "nile",
+      "vibrio",
+      "victoria",
+      "consignee",
+      "lake",
+      "lesotho",
+      "cholera",
+      "contaminate",
+      "ethiopia",
+      "wholesomeness",
+      "djibouti",
+      "poisoning",
+      "eritrea",
+      "malawi",
+      "consignor",
+      "zambia",
+      "fillets",
+      "comoros",
+      "angola",
+      "mozambique"
+    ],
+    "prompt_length": 1669,
+    "category": "7616 extra-European organisations"
+  }
+}

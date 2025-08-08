@@ -1,0 +1,63 @@
+{
+  "concept_id": "295",
+  "concept_data": {
+    "title": "investment loan",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"investment loan\" refers to a financial instrument provided by credit institutions to foster investments in various ventures. In the EU regulatory context, these loans are articulated to enhance economic growth by enabling businesses to expand their assets and resources. The rationale behind investment loans is to boost job creation and sustain economic activities, with funds often denominated in euros or other currencies. Shareholders and directors may vote on the terms of such loans, ensuring compliance with statutes and avoiding incompatibility with existing financial disciplines. By providing promotional incentives, investment loans can restore confidence in markets, allowing companies to float new projects and realize dividends.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:16.150776",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 378.6666666666667
+    },
+    "related_words": [
+      "offsets",
+      "investements",
+      "lent",
+      "float",
+      "francs",
+      "expended",
+      "tied",
+      "feel",
+      "articulated",
+      "dividends",
+      "adduced",
+      "deprive",
+      "invalidated",
+      "rationale",
+      "favours",
+      "venture",
+      "compact",
+      "recalling",
+      "thanks",
+      "enhancement",
+      "disciplines",
+      "promotional",
+      "smart",
+      "boost",
+      "realized",
+      "denominated",
+      "subscribed",
+      "restoring",
+      "emphasized",
+      "fostering"
+    ],
+    "prompt_length": 1698,
+    "category": "2416 financial institutions and credit"
+  }
+}

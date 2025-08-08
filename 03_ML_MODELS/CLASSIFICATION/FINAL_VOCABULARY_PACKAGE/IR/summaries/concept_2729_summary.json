@@ -1,0 +1,63 @@
+{
+  "concept_id": "2729",
+  "concept_data": {
+    "title": "processed cereal product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "cereal product",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"processed cereal product,\" a redirect to the preferred term \"cereal product,\" encompasses a range of foodstuffs derived from various grains, including amaranth and rice. In EU regulatory frameworks, these products must meet minimum safety standards to guarantee their organoleptically acceptable quality. The classification of such products includes considerations of contaminants like zearalenone and fumonisins, which can arise during processing. Additionally, the use of additives such as tylosine and flavophospholipol is regulated to prevent unnecessary health risks. Articles related to these products must account for their treatment and storage, ensuring they remain palatable and free from inoperable defects. The grancommiss oversees compliance with these regulations, facilitating a market that prioritizes consumer safety and product integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:44.580805",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 2233,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 37,
+      "selected_avg_freq": 13.96
+    },
+    "related_words": [
+      "amaranth",
+      "classifiction",
+      "tylosine",
+      "flavophospholipol",
+      "kibbled",
+      "deformed",
+      "poducts",
+      "listes",
+      "prviously",
+      "luff",
+      "schoorl",
+      "cobs",
+      "stalks",
+      "sheaf",
+      "gurantee",
+      "unnecesary",
+      "acocunt",
+      "ric",
+      "douala",
+      "djamena",
+      "alcools",
+      "libéres",
+      "soulte",
+      "uncompleted",
+      "volta",
+      "koudougou",
+      "bobodioulasso",
+      "relaced",
+      "unpalatable",
+      "organoleptically"
+    ],
+    "prompt_length": 1744,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6727",
+  "concept_data": {
+    "title": "victims' rights",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "help for victims",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"victims' rights,\" redirected to \"help for victims,\" encompasses the legal frameworks established within the EU to ensure the protection and support of individuals affected by crime. This includes the dissemination of orientations that improve the enjoyment of rights for victims, particularly in the context of gender equality and the fight against racism and xenophobia. EU agencies such as Eurojust, Europol, and Frontex play a crucial role in coordinating responses to disasters, including earthquakes and floods, while also addressing issues related to migration and asylum. The legal remit includes ensuring that victims receive suitable relief and support, thereby enhancing their rights and facilitating their recovery. The JHA (Justice and Home Affairs) framework emphasizes the importance of ratifying agreements that serve to protect victims and uphold their dignity in the aftermath of accidents or criminal acts.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:28.333686",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 376,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1005,
+      "selected_avg_freq": 456.06666666666666
+    },
+    "related_words": [
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "earthquakes",
+      "frontex",
+      "cepol",
+      "orientations",
+      "flood",
+      "enjoyment",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "eurojust",
+      "dissociated",
+      "college",
+      "thematic",
+      "disseminating",
+      "preconditions",
+      "earthquake",
+      "reliefs",
+      "stockholm",
+      "floods",
+      "asylum",
+      "suitably",
+      "gender",
+      "remit",
+      "complementarity",
+      "ratify",
+      "supervisor"
+    ],
+    "prompt_length": 1709,
+    "category": "1216 criminal law"
+  }
+}

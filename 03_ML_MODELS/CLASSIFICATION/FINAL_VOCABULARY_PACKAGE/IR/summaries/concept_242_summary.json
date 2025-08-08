@@ -1,0 +1,26 @@
+{
+  "concept_id": "242",
+  "concept_data": {
+    "title": "letter",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "correspondence",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"letter,\" categorized under documentation (3221), serves as a redirect to the preferred term \"correspondence.\" In the context of EU legal and regulatory frameworks, correspondence encompasses various forms of written communication, including official letters, notices, and other documents that facilitate dialogue between institutions, stakeholders, and citizens. Such correspondence is crucial for ensuring transparency, accountability, and adherence to procedural norms within the EU. It plays a significant role in the documentation of legislative processes, policy discussions, and regulatory compliance, thereby reinforcing the rule of law and the effective functioning of the European Union's governance structures.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:41:17.359169",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1193,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7854",
+  "concept_data": {
+    "title": "?ilina region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"?ilina region\" is a designated area in Slovakia recognized under EU regulations concerning regions of Member States. This region has specific agricultural products that may receive protected geographical indications (PGI) status, ensuring the quality and origin of foodstuffs. The European Commission, pursuant to the relevant treaty, oversees the application and implementation of these designations. The functioning of the register for such products is crucial for maintaining standards and promoting regional identity. Official statements and published documents in the EU journal reflect the ongoing opposition and support for various schemes aimed at enhancing the region's agricultural profile, particularly as it relates to quality products entering the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:36:37.462693",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 37,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 37,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1880.4054054054054
+    },
+    "related_words": [
+      "zázrivské",
+      "vojky",
+      "pgi",
+      "opposition",
+      "designations",
+      "slovakia",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "august",
+      "products",
+      "implementing",
+      "functioning",
+      "pursuant",
+      "november",
+      "application",
+      "parliament",
+      "journal"
+    ],
+    "prompt_length": 1567,
+    "category": "7211 regions of EU Member States"
+  }
+}

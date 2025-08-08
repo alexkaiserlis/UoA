@@ -1,0 +1,63 @@
+{
+  "concept_id": "1755",
+  "concept_data": {
+    "title": "epizooty",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal disease",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"epizooty,\" redirected to \"animal disease,\" encompasses various zoonotic conditions affecting livestock and wildlife, including those caused by pathogens like *Perkinsus marinus* and *Taura syndrome virus*. The EU's Animal Disease Control Programme (ACDP) addresses these issues through epidemiological surveillance and management strategies to prevent outbreaks. Regulatory frameworks necessitate monitoring of subclinical infections and justifications for interventions, particularly in herds exhibiting irregularities. The impact of diseases such as heartwater and PRRS can lead to significant economic losses, necessitating measures for uninfected populations and the control of stray animals. The community's response includes research initiatives, such as those by BBSRC, to enhance understanding of these diseases and their transmission dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:29.089191",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 5177,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.52
+    },
+    "related_words": [
+      "acdp",
+      "skull",
+      "incisor",
+      "erupted",
+      "prrs",
+      "abortions",
+      "uneviscerated",
+      "haemopoletic",
+      "bbsrc",
+      "stray",
+      "exitiosa",
+      "microcytos",
+      "mackini",
+      "perkinsus",
+      "marinus",
+      "taura",
+      "yellowhead",
+      "ber",
+      "refrigens",
+      "fuglafjordur",
+      "inpro",
+      "coulter",
+      "ondersteport",
+      "subclinical",
+      "gambian",
+      "squirrels",
+      "monkeys",
+      "communnity",
+      "obivated",
+      "noneviscerated"
+    ],
+    "prompt_length": 1707,
+    "category": "5631 agricultural activity"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "3728",
+  "concept_data": {
+    "title": "risk",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": true,
+    "preferred_term": "insured risk",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the concept of \"risk\" is often redirected to the preferred term \"insured risk.\" This term encapsulates the potential for loss or damage that is covered under an insurance policy. Insured risks are critical in determining the scope of coverage and the obligations of insurers within the regulatory landscape. The assessment of insured risks informs underwriting practices and premium calculations, ensuring compliance with EU directives on consumer protection and financial stability. Understanding insured risks is essential for both policyholders and insurers to navigate the complexities of the insurance market effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:14.506841",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1185,
+    "category": "2431 insurance"
+  }
+}

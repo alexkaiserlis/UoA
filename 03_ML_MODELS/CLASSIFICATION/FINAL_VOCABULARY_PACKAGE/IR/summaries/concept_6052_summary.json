@@ -1,0 +1,63 @@
+{
+  "concept_id": "6052",
+  "concept_data": {
+    "title": "technical additive",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": true,
+    "preferred_term": "food additive",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"technical additive\" is a redirect to \"food additive,\" which encompasses substances like virginiamycin and tylosine, used to enhance the appetizing qualities of food. These additives, including alginic and gellan gums, play a crucial role in achieving desirable consistence and stability in food products. Regulatory frameworks address various categories of food additives, such as flavor enhancers and colorants like amaranth and violaxanthin. The use of additives must comply with safety standards, ensuring that substances like methylnon and diketones are deemed responsible for consumer health. Overall, the regulation of food additives is vital for maintaining food quality and safety within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:16.785730",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 3778,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.2
+    },
+    "related_words": [
+      "virginiamycin",
+      "appetizing",
+      "fiftieth",
+      "montmorillonite",
+      "perlite",
+      "promotor",
+      "nitrovin",
+      "amaranth",
+      "violaxanthin",
+      "tylosine",
+      "flavophospholipol",
+      "aminoacid",
+      "cyclamate",
+      "aditivos",
+      "jintian",
+      "peña",
+      "kraemer",
+      "augustin",
+      "ddp",
+      "alginic",
+      "euchema",
+      "tara",
+      "gellan",
+      "consistence",
+      "gums",
+      "reasonabe",
+      "dialcohols",
+      "diketones",
+      "hydroxyketones",
+      "pentane"
+    ],
+    "prompt_length": 1733,
+    "category": "6036 food technology"
+  }
+}

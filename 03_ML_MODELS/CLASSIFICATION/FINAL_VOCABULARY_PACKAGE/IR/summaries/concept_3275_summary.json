@@ -1,0 +1,63 @@
+{
+  "concept_id": "3275",
+  "concept_data": {
+    "title": "yield per hectare",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "crop yield",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"yield per hectare,\" redirected to \"crop yield,\" is pivotal in EU agricultural regulations, particularly concerning beneficiaries of agricultural subsidies. This metric delineates the quantity harvested per unit area, which is influenced by various agrometeorological factors, such as soil vitality and irrigation practices. Accurate forecasting of crop yields is essential for equalization measures within the Common Agricultural Policy (CAP), ensuring that regions with unevenly distributed resources can receive appropriate support. The finalization of yield data is critical for determining eligibility for certain programs, while also addressing the challenges posed by unusable acreages and the need for technological advancements in farming systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:49:20.378087",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1196,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 177,
+      "selected_avg_freq": 79.19333333333333
+    },
+    "related_words": [
+      "beneficiaires",
+      "recieved",
+      "hervested",
+      "euopean",
+      "vitality",
+      "setaside",
+      "souces",
+      "inflexibly",
+      "unmodulated",
+      "acreages",
+      "technologial",
+      "agrometeorological",
+      "disqualified",
+      "nra",
+      "detaled",
+      "mga",
+      "delimits",
+      "unusable",
+      "hypotheses",
+      "areal",
+      "intoxicating",
+      "finalization",
+      "tallies",
+      "perfect",
+      "concomitant",
+      "framing",
+      "irrigated",
+      "cerain",
+      "equalization",
+      "distinguishes"
+    ],
+    "prompt_length": 1768,
+    "category": "5616 farming systems"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "309",
+  "concept_data": {
+    "title": "political crisis",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"political crisis\" in the context of EU legal and regulatory frameworks refers to a situation where governance structures are challenged, often requiring mediation among stakeholders. Such crises may emerge during electoral processes, as seen in countries like Madagascar and Burkina Faso, where the inauguration of newly elected officials is critical. The EU often endorses inclusive dialogue and transparent roadmaps to ensure credible elections, fulfilling constitutional obligations. Proclamations from the Southern African Development Community (SADC) and other regional bodies outline milestones for conflict resolution. The EU's involvement aims to confirm stability and satisfaction among signatories, facilitating a neutral environment for political appointments and parliamentary processes.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:40:26.566536",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 172,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3015,
+      "selected_avg_freq": 1173.8933333333334
+    },
+    "related_words": [
+      "inaugurated",
+      "inauguration",
+      "malagasy",
+      "proclamation",
+      "milestones",
+      "sadc",
+      "emerge",
+      "burkina",
+      "faso",
+      "ouagadougou",
+      "outlines",
+      "presidential",
+      "map",
+      "thanks",
+      "elected",
+      "mediation",
+      "parliamentary",
+      "credible",
+      "roadmap",
+      "cotonou",
+      "elections",
+      "madagascar",
+      "consensus",
+      "signatories",
+      "constitutional",
+      "neutral",
+      "minister",
+      "begun",
+      "welcomed",
+      "satisfaction"
+    ],
+    "prompt_length": 1697,
+    "category": "0431 politics and public safety"
+  }
+}

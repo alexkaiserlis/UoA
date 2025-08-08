@@ -1,0 +1,26 @@
+{
+  "concept_id": "5046",
+  "concept_data": {
+    "title": "bromine",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Bromine, classified under the category of chemistry, is a halogen element with significant applications in various industrial processes within the EU. Its regulatory oversight is crucial due to its potential environmental and health impacts. The European Chemicals Agency (ECHA) evaluates bromine under the REACH regulation, ensuring safe use and minimizing risks associated with its chemical properties. Furthermore, bromine compounds are subject to specific directives regarding hazardous substances, necessitating compliance with safety data sheets and labeling requirements. The EU's stringent regulatory framework aims to mitigate adverse effects while promoting innovation in chemical applications, reflecting a commitment to sustainable development and public health protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:40:22.329423",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1156,
+    "category": "6811 chemistry"
+  }
+}

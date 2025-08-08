@@ -1,0 +1,63 @@
+{
+  "concept_id": "5884",
+  "concept_data": {
+    "title": "State secret",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"State secret\" pertains to classified information that is critical for national security and foreign affairs within the EU framework. It encompasses strategic data related to armament, missions, and political negotiations, particularly under the Common Foreign and Security Policy (CFSP). The protection of state secrets is essential to prevent the deterioration of diplomatic relations, especially during phases of reform or transition in regions like Serbia or Georgia. Authorisation for handling such information is tightly regulated, ensuring that any exchanging or signing of agreements adheres to recommendations endorsed by the EU. The TFEU mandates that member states adapt their procedures to safeguard these secrets, thereby facilitating continued cooperation in external affairs.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:11:13.477490",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1735.102189781022
+    },
+    "related_words": [
+      "armament",
+      "eusec",
+      "eumm",
+      "handing",
+      "psc",
+      "exchanging",
+      "congo",
+      "teu",
+      "georgia",
+      "deteriorate",
+      "presidency",
+      "twelve",
+      "serbia",
+      "impede",
+      "strategic",
+      "tfeu",
+      "protecting",
+      "endorsed",
+      "mission",
+      "cfsp",
+      "signing",
+      "advice",
+      "mandate",
+      "affairs",
+      "democratic",
+      "phase",
+      "conclude",
+      "reform",
+      "expires",
+      "negotiated"
+    ],
+    "prompt_length": 1689,
+    "category": "3231 information and information processing"
+  }
+}

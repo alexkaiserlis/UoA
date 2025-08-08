@@ -1,0 +1,63 @@
+{
+  "concept_id": "2947",
+  "concept_data": {
+    "title": "waste recycling",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Waste recycling is a critical component of EU environmental policy aimed at reducing wastage and promoting sustainable practices. The regulatory framework encourages the recyclability and recoverability of materials, minimizing littering and enhancing the reusability of products. Innovative methods, such as anaerobic digestion and thermoelectric processes, are researched to improve the biodegradation of compostable materials. The EU also addresses the challenges posed by complex materials, including those containing oleochemical and proteinaceous components, necessitating advanced technologies like shredders and digitizers for effective processing. By fostering a circular economy, the EU aims to ensure that waste is not merely buried or incinerated but transformed into valuable resources, thus reducing the environmental impact of industrial activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:01.883356",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1788,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 53,
+      "selected_avg_freq": 23.453333333333333
+    },
+    "related_words": [
+      "littering",
+      "prone",
+      "wastage",
+      "compostable",
+      "oxo",
+      "recyclability",
+      "recoverability",
+      "shredder",
+      "decabde",
+      "peptides",
+      "lignocellulose",
+      "proteinaceous",
+      "oleochemical",
+      "imcis",
+      "requalify",
+      "mesophilic",
+      "industrially",
+      "radiofrequency",
+      "crafted",
+      "luminous",
+      "hldts",
+      "artwork",
+      "handcrafted",
+      "particluar",
+      "interconnects",
+      "miniaturisation",
+      "reusability",
+      "anaerobic",
+      "biodegradation",
+      "thicker"
+    ],
+    "prompt_length": 1760,
+    "category": "5206 environmental policy"
+  }
+}

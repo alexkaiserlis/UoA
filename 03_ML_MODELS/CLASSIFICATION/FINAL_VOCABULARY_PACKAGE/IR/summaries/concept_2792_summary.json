@@ -1,0 +1,63 @@
+{
+  "concept_id": "2792",
+  "concept_data": {
+    "title": "work programme",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "action programme",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, a \"work programme,\" also referred to as an \"action programme,\" serves as a strategic document outlining specific projects and initiatives aimed at addressing various issues, including the support of marginalized groups and the facilitation of apprenticeships. These programmes often coordinate efforts across member states, promoting borderless collaboration on matters such as education, environmental sustainability, and economic development. For instance, initiatives may involve experimenting with innovative practices in sectors like rabbitmeat production or the management of slaughterpigs. The programmes also aim to enhance the employability of graduates through tools like Europass, ensuring that competencies are recognized across borders. By compartmentalizing projects and establishing clear objectives, the EU fosters perseverance in achieving its regulatory goals, ultimately contributing to a more integrated and cohesive European Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:34:06.154181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 3681,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 13,
+      "selected_avg_freq": 7.84
+    },
+    "related_words": [
+      "prmgramme",
+      "rabbitmeat",
+      "slaughterpigs",
+      "articvle",
+      "apprenticeship",
+      "europass",
+      "zentrum",
+      "fife",
+      "movment",
+      "experimenting",
+      "coordinatin",
+      "middlesborough",
+      "langbaurgh",
+      "coruăąa",
+      "pontevedra",
+      "toulon",
+      "seyne",
+      "aubagne",
+      "ciotat",
+      "dunkerque",
+      "trasimeno",
+      "reparation",
+      "marginalized",
+      "projets",
+      "facilitator",
+      "acquaint",
+      "graduates",
+      "teacher",
+      "firefighters",
+      "judiciaries"
+    ],
+    "prompt_length": 1755,
+    "category": "4021 management"
+  }
+}

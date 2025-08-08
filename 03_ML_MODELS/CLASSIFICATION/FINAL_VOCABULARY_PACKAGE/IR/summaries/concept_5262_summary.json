@@ -1,0 +1,63 @@
+{
+  "concept_id": "5262",
+  "concept_data": {
+    "title": "motor fuel",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"motor fuel\" encompasses various energy sources utilized for vehicular consumption, including unleaded petrol and compressed natural gas (CNG). The regulatory landscape scrutinizes specifications for these fuels, ensuring compliance with environmental standards and emissions reductions. Provisos may require the inclusion of oxygenated compounds, such as ETBE and isobutene, to enhance performance. The fragility of fuel supply chains necessitates diagnostics and oversight by warehousekeepers to prevent leak incidents. As the EU reexamines its energy policies, the integration of renewables into motor fuel production is imperative, reflecting a commitment to sustainability and reducing carbon footprints.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:00:10.830041",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1436,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 116,
+      "selected_avg_freq": 53.93333333333333
+    },
+    "related_words": [
+      "cng",
+      "provisos",
+      "somewhere",
+      "reexamine",
+      "momentary",
+      "cosumption",
+      "etween",
+      "specifictions",
+      "vinus",
+      "finisched",
+      "eccp",
+      "oxygenated",
+      "isobutene",
+      "warehousekeepers",
+      "reverts",
+      "inadmissibility",
+      "pfennigs",
+      "renewables",
+      "slows",
+      "assad",
+      "compressed",
+      "indiscriminate",
+      "taxis",
+      "poster",
+      "altener",
+      "fragility",
+      "emulsion",
+      "hourly",
+      "brokering",
+      "etbe"
+    ],
+    "prompt_length": 1664,
+    "category": "6616 oil industry"
+  }
+}

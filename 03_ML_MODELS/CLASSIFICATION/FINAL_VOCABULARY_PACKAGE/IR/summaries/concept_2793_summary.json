@@ -1,0 +1,63 @@
+{
+  "concept_id": "2793",
+  "concept_data": {
+    "title": "aid programme",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"aid programme\" within the EU's cooperation policy framework is designed to address inefficiencies in various sectors, including agriculture and rural development. It directs resources towards villages in need, transforming outdated practices through initiatives like afforestation and the rehabilitation of farmland. Programmes such as SAPARD facilitate disbursement of funds for projects that enhance local economies, ensuring prerequisites for sustainable development are met. The EU welcomes collaboration with international entities, including the ICRC, to redress issues like landmines and promote potable water access. By scheduling sectorial fairs and supporting decentralised governance, these programmes aim to foster constructive local engagement and enhance community resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:52.355809",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1079,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 238,
+      "selected_avg_freq": 113.63333333333334
+    },
+    "related_words": [
+      "redresses",
+      "castille",
+      "interspecific",
+      "directs",
+      "icrc",
+      "subordination",
+      "mafa",
+      "farmland",
+      "vinifera",
+      "inefficiencies",
+      "afa",
+      "landmines",
+      "villages",
+      "telexes",
+      "castile",
+      "welcomes",
+      "leon",
+      "basque",
+      "ordinating",
+      "trail",
+      "sadc",
+      "transforming",
+      "graphical",
+      "scheduling",
+      "vitis",
+      "crossings",
+      "localisation",
+      "afforestation",
+      "sensing",
+      "kilogramme"
+    ],
+    "prompt_length": 1693,
+    "category": "0811 cooperation policy"
+  }
+}

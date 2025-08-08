@@ -1,0 +1,63 @@
+{
+  "concept_id": "4152",
+  "concept_data": {
+    "title": "transport of animals",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transport of animals\" concept within EU legal and regulatory frameworks encompasses various protocols aimed at ensuring the safe movement of animals, particularly in the context of preventing the transmission of infectious diseases. Regulations mandate strict identifications and health certifications to mitigate risks of reinfestation and epizootie outbreaks. Travelers transporting animals must adhere to guidelines on revaccination and serologicaly testing to confirm seronegative status. Furthermore, the transport paths must be disinfected to prevent invasions of pathogens, including those carried by vectors like culicoides. Compliance with these regulations is crucial for maintaining animal health and safeguarding public health across adjoining regions, such as Gdańsk and Southampton.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:40.935554",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1883,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 11.813333333333333
+    },
+    "related_words": [
+      "stray",
+      "conomic",
+      "travelers",
+      "infect",
+      "reated",
+      "identifications",
+      "reinfestation",
+      "adjoining",
+      "revaccination",
+      "booster",
+      "vee",
+      "serologicaly",
+      "virologicaly",
+      "idanha",
+      "epizootie",
+      "seronegative",
+      "virologically",
+      "viremic",
+      "invasions",
+      "titrations",
+      "langoat",
+      "kraj",
+      "infirm",
+      "disinfect",
+      "cataluăąa",
+      "astakos",
+      "culicoides",
+      "oleiros",
+      "sertã",
+      "rei"
+    ],
+    "prompt_length": 1699,
+    "category": "4811 organisation of transport"
+  }
+}

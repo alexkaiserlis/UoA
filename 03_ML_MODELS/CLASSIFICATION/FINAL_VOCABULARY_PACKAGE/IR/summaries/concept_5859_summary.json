@@ -1,0 +1,63 @@
+{
+  "concept_id": "5859",
+  "concept_data": {
+    "title": "Slovakia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Slovakia, a central European nation, is significant in EU political geography, influencing regional dynamics and legal frameworks. The country, with its capital Bratislava, has a distinct cultural identity, reflected in its inhabitants, including notable figures like Dušan and František. Slovakia's legal system is shaped by EU regulations, impacting local governance in cities such as Banská Bystrica and Piešť. The integration of Slovak korunas into the eurozone exemplifies economic adaptation. Legal discourse often involves objectors, such as those in Lučenec, addressing distinctiveness in regional policies. Slovakia's role in EU legislation is further highlighted by its contributions to discussions on environmental and social regulations, including those affecting the Hronom region.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:06:22.271455",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2612,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 13,
+      "selected_avg_freq": 7.546666666666667
+    },
+    "related_words": [
+      "dušan",
+      "barčik",
+      "benč",
+      "slafkovský",
+      "bobík",
+      "králik",
+      "vítek",
+      "mikušová",
+      "murgaš",
+      "vladimír",
+      "bajan",
+      "gašperan",
+      "andrej",
+      "ďurkovský",
+      "knapík",
+      "jozef",
+      "petušík",
+      "blcháč",
+      "cicutto",
+      "ftáčnik",
+      "skk",
+      "korunas",
+      "habitants",
+      "pavol",
+      "frešo",
+      "bratislavský",
+      "rožok",
+      "pressburger",
+      "kipfel",
+      "pozsonyi"
+    ],
+    "prompt_length": 1614,
+    "category": "7236 political geography"
+  }
+}

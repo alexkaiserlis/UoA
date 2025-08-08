@@ -1,0 +1,26 @@
+{
+  "concept_id": "4535",
+  "concept_data": {
+    "title": "semi-public transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"semi-public transport\" pertains to a category of transport services that are not fully private nor entirely public, often characterized by a hybrid operational model. In the context of EU legal and regulatory frameworks, semi-public transport may involve partnerships between public authorities and private operators, facilitating access to transport services while ensuring compliance with EU regulations on competition and public service obligations. This model aims to enhance mobility, particularly in underserved areas, while balancing efficiency and social equity. The regulatory landscape governing semi-public transport is crucial for fostering sustainable transport solutions across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:38:45.504847",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1186,
+    "category": "4811 organisation of transport"
+  }
+}

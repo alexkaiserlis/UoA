@@ -1,0 +1,63 @@
+{
+  "concept_id": "2990",
+  "concept_data": {
+    "title": "meat and bonemeal",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "cereal substitute",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"meat and bonemeal\" refers to a category of animal by-products, specifically derived from mammalian sources, that are often used as a cereal substitute in animal feed. Due to concerns over BSE (bovine spongiform encephalopathy) outbreaks, strict regulations govern the categorisation, transportation, and disposal of this material. The prohibition of certain animal-derived feeds aims to protect animal health and prevent disease transmission. Authorisation processes are in place for facilities involved in the collection, storage, and incineration of these products. Compliance checks ensure that stocks containing potentially hazardous material are adequately managed to mitigate risks associated with animal feed.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:54.482827",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1863.5912408759125
+    },
+    "related_words": [
+      "incinerate",
+      "categorisation",
+      "incineration",
+      "killed",
+      "fertilisers",
+      "contracted",
+      "mammalian",
+      "bone",
+      "accumulation",
+      "bse",
+      "encephalopathy",
+      "meal",
+      "spongiform",
+      "transportation",
+      "dispatch",
+      "suspected",
+      "zootechnical",
+      "intermediate",
+      "disposed",
+      "outbreak",
+      "eradication",
+      "occurrence",
+      "pose",
+      "waste",
+      "bovine",
+      "meat",
+      "disease",
+      "feed",
+      "live",
+      "insufficient"
+    ],
+    "prompt_length": 1739,
+    "category": "5631 agricultural activity"
+  }
+}

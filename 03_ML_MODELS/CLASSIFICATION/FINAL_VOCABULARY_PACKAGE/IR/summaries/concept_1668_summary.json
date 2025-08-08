@@ -1,0 +1,63 @@
+{
+  "concept_id": "1668",
+  "concept_data": {
+    "title": "seed flax",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"seed flax,\" categorized under plant products (6006), pertains to the cultivation of flax (Linum usitatissimum), which is primarily sown for its oilseed and fiber. Pursuant to EU regulations, growers must adhere to specific guidelines regarding the harvesting and sowing of seed flax to ensure quality and compliance. This includes the management of leguminosae and gramineae crops, which may inadvertently affect flax yields. Communities in regions like Sachsen and Mecklenburg must catalogue their seed flax varieties to avoid sanctions for non-compliance. The changeover to modern practices has emerged as a necessity, albeit complicated by factors such as floods and market demands, which can impair production. The legal framework aims to support growers while ensuring that the interests of the EU market are not ignored, thus promoting a smooth transition in agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:15:47.575691",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 134,
+    "vocabulary_stats": {
+      "total_related_words": 650,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 424,
+      "selected_avg_freq": 219.43333333333334
+    },
+    "related_words": [
+      "prusuant",
+      "seedflax",
+      "seedfax",
+      "lineseed",
+      "legitime",
+      "hervested",
+      "sowed",
+      "desires",
+      "leguminosae",
+      "inadvertently",
+      "gramineae",
+      "communites",
+      "sachsen",
+      "assemble",
+      "convenience",
+      "vorpommern",
+      "attenuated",
+      "emerge",
+      "ignored",
+      "anhalt",
+      "oilseed",
+      "impair",
+      "linseed",
+      "deferring",
+      "mecklenburg",
+      "grower",
+      "cake",
+      "overruns",
+      "sanction",
+      "floods"
+    ],
+    "prompt_length": 1646,
+    "category": "6006 plant product"
+  }
+}

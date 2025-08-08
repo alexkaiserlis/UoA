@@ -1,0 +1,63 @@
+{
+  "concept_id": "1397",
+  "concept_data": {
+    "title": "ready-to-wear clothing industry",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "clothing industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"ready-to-wear clothing industry,\" a subset of the broader \"clothing industry,\" encompasses various sectors involved in the production and distribution of garments, including knitwear, shirts, and jumpers. EU regulations often address the complexities of this industry, such as the automation of manufacturing processes and the need for associations to advocate for sustainable practices. Legal frameworks may also cover the rehousing of subcontractors and the personalization of clothing items, like elastic tights and pyjamas. Additionally, issues like dyeing processes and effluent management are critical for compliance. The industry anticipates considerable changes, necessitating interministerial cooperation to address challenges such as expropriation and incompatible standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:11:52.101319",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1188,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 134,
+      "selected_avg_freq": 52.11333333333334
+    },
+    "related_words": [
+      "knit",
+      "turtle",
+      "necked",
+      "devloping",
+      "underwear",
+      "automate",
+      "assocations",
+      "deducts",
+      "tights",
+      "showrooms",
+      "jumpers",
+      "furskin",
+      "rehousing",
+      "recipeient",
+      "reorganize",
+      "computerize",
+      "rubberized",
+      "anticipates",
+      "shirt",
+      "rehouse",
+      "siderable",
+      "blouses",
+      "cutoms",
+      "sprider",
+      "ment",
+      "jerseys",
+      "relocate",
+      "incomptible",
+      "awkward",
+      "subcontractor"
+    ],
+    "prompt_length": 1748,
+    "category": "6841 leather and textile industries"
+  }
+}

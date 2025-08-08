@@ -1,0 +1,63 @@
+{
+  "concept_id": "1892",
+  "concept_data": {
+    "title": "meteorology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Meteorology, as a scientific discipline within the EU's regulatory framework, encompasses the study of atmospheric phenomena and their implications for climate and weather forecasting. It employs advanced instrumentation, such as spectrometers and telemetry systems, to gather data on stratospheric conditions and cloud formation. The EU authorizes the use of meteorological stations equipped with microcomputers and processors to monitor environmental hazards. This data is crucial for synchronizing responses to climate change and for educational purposes. By invoking meteorological insights, the EU aims to enhance public safety and facilitate informed decision-making regarding weather-related risks, thereby realizing an affirmative approach to environmental management.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:01.838708",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 231,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1732,
+      "selected_avg_freq": 640.96
+    },
+    "related_words": [
+      "stratosperic",
+      "chron",
+      "translator",
+      "stratospheric",
+      "synchronizer",
+      "ampex",
+      "multiband",
+      "pms",
+      "droplet",
+      "scattering",
+      "transformer",
+      "aspirator",
+      "icsp",
+      "microcomputer",
+      "telemetry",
+      "epoch",
+      "instrumentation",
+      "heater",
+      "collins",
+      "climatology",
+      "cloud",
+      "spectrometer",
+      "transmitter",
+      "generator",
+      "das",
+      "recorder",
+      "physics",
+      "meteorological",
+      "receiver",
+      "recorders"
+    ],
+    "prompt_length": 1711,
+    "category": "3606 natural and applied sciences"
+  }
+}

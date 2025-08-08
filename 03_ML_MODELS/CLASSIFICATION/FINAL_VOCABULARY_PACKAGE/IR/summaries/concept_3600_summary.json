@@ -1,0 +1,63 @@
+{
+  "concept_id": "3600",
+  "concept_data": {
+    "title": "restructuring plan",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": true,
+    "preferred_term": "industrial restructuring",
+    "relation_type": "USE"
+  },
+  "summary": "The \"restructuring plan,\" often referred to as \"industrial restructuring,\" is a critical framework within EU legal and regulatory contexts aimed at revitalizing industrial sectors facing economic challenges. Such plans decisively address contingencies related to financial distress, facilitating the redevelopment of affected areas, such as kreisfreie cities like Kraków and Vegesack. They often involve refinancing strategies that engage various stakeholders, including towarzystwo budownictwa społecznego and local corporations. The plans may also incorporate innovative approaches, such as chemobudowa, to ensure sustainable growth. By delinking from outdated practices, these initiatives foster a resilient industrial landscape, ultimately benefiting communities like Lothian and enhancing overall economic stability across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:44.249197",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2516,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.84
+    },
+    "related_words": [
+      "certin",
+      "kreisfreie",
+      "stadt",
+      "vulkan",
+      "vegesack",
+      "cgrt",
+      "astano",
+      "astander",
+      "autun",
+      "charleville",
+      "mézières",
+      "sedan",
+      "vessles",
+      "ingenieur",
+      "gewerbebau",
+      "igb",
+      "hab",
+      "tab",
+      "gera",
+      "abovenamed",
+      "decisively",
+      "rethink",
+      "chemobudowa",
+      "kraków",
+      "chk",
+      "towarzystwo",
+      "budownictwa",
+      "społecznego",
+      "krak",
+      "tbs"
+    ],
+    "prompt_length": 1686,
+    "category": "6806 industrial structures and policy"
+  }
+}

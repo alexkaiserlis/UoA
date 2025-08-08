@@ -1,0 +1,63 @@
+{
+  "concept_id": "500",
+  "concept_data": {
+    "title": "donation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"donation\" refers to the voluntary transfer of resources, often instrumental in alleviating poverty and supporting charitable initiatives. This concept is preoccupying for policymakers, particularly in relation to the poorest regions, where donations can mobilize abundant inflows of aid. The EU's cooperation policy, particularly through instruments like the FEOGA and the IMF, emphasizes the importance of concessional donations to sustain economic stability. Parliamentary discussions often convene around the distribution of these resources, ensuring that they are disbursed effectively. The impact of donations can be durable, influencing macroeconomic ratios and fostering collaboration among member states, including those in the Commonwealth and CIS.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:23.065148",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 603,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 443,
+      "selected_avg_freq": 191.74666666666667
+    },
+    "related_words": [
+      "preoccupying",
+      "feoga",
+      "ifc",
+      "pfsac",
+      "ebpac",
+      "normalising",
+      "assassination",
+      "moldovan",
+      "concessional",
+      "charity",
+      "convening",
+      "serbian",
+      "distributive",
+      "spell",
+      "poorest",
+      "defrayed",
+      "instrumental",
+      "ida",
+      "juncture",
+      "alleviating",
+      "durable",
+      "inflows",
+      "boning",
+      "cis",
+      "comfort",
+      "commonwealth",
+      "club",
+      "mobilized",
+      "abundant",
+      "compression"
+    ],
+    "prompt_length": 1665,
+    "category": "0811 cooperation policy"
+  }
+}

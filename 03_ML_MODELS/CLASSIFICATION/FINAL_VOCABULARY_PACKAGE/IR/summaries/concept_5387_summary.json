@@ -1,0 +1,63 @@
+{
+  "concept_id": "5387",
+  "concept_data": {
+    "title": "pit",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "coal mining",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"pit,\" categorized under coal and mining industries, is a redirect to the preferred term \"coal mining.\" In the context of EU legal and regulatory frameworks, coal mining encompasses various activities, including the extraction of coal from coalfields and the management of collieries. Regulatory bodies examine the compatibility of mining practices with environmental standards, ensuring miner safety and addressing issues like firedamp and atmospheric conditions at the pithead. The sector faces challenges such as the retraining of mineworkers amid industry upheaval and the need for sustainable practices. Additionally, coal mining involves financial considerations, including bonuses and outgoings related to briquetting and coalfield management, which are essential for the industry's viability.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:12:51.853789",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 718,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 283,
+      "selected_avg_freq": 103.38666666666667
+    },
+    "related_words": [
+      "priciple",
+      "apreciably",
+      "isto",
+      "withthe",
+      "briquetting",
+      "submited",
+      "cerchar",
+      "assosiciation",
+      "compatibilty",
+      "augmentation",
+      "mineworker",
+      "kempense",
+      "steenkolenmijnen",
+      "bergwerksverein",
+      "examiniation",
+      "etudes",
+      "firedamp",
+      "pithead",
+      "bergmannspraemie",
+      "upheaval",
+      "outgoings",
+      "kohlepfennig",
+      "critera",
+      "campine",
+      "pounds",
+      "recruiting",
+      "recherches",
+      "briquette",
+      "essentials",
+      "charbonnages"
+    ],
+    "prompt_length": 1751,
+    "category": "6611 coal and mining industries"
+  }
+}

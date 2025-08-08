@@ -1,0 +1,63 @@
+{
+  "concept_id": "2746",
+  "concept_data": {
+    "title": "receptacle",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "packaging product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"receptacle\" is redirected to the preferred term \"packaging product,\" which encompasses various materials designed to contain goods. This includes items made from kraftboard, polyolefin, and epoxypropyl, among others. The regulatory framework addresses concerns regarding materials such as bisphenol A (BPA) and diglycidyl compounds, ensuring safety and compliance. Packaging products must meet specific standards to avoid inappropriately affecting the contents, particularly in cases involving neurodevelopmental substances like glycyrrhizinic acid. Additionally, the design of these products often involves intricate features such as perforated sheeting and nesting capabilities, which are crucial for efficient storage and transportation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:21:48.412695",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1902,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 39,
+      "selected_avg_freq": 17.56
+    },
+    "related_words": [
+      "ceillings",
+      "indiviual",
+      "diglycidyl",
+      "chlorohydrins",
+      "envopak",
+      "dhl",
+      "departmental",
+      "inappropriately",
+      "kraftboard",
+      "decorated",
+      "perforated",
+      "glycyrrhizinic",
+      "aftger",
+      "jury",
+      "weighs",
+      "doubtlessly",
+      "hyderabad",
+      "pithampur",
+      "sangam",
+      "cirfab",
+      "mysore",
+      "partiular",
+      "inners",
+      "polyolefin",
+      "bittering",
+      "repulsive",
+      "cedo",
+      "subham",
+      "cellings",
+      "rotations"
+    ],
+    "prompt_length": 1714,
+    "category": "2031 marketing"
+  }
+}

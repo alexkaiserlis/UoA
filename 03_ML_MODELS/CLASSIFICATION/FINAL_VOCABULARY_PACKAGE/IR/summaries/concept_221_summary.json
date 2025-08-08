@@ -1,0 +1,63 @@
+{
+  "concept_id": "221",
+  "concept_data": {
+    "title": "regional cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Regional cooperation within the EU framework refers to collaborative efforts among member states and neighboring countries to address shared challenges and enhance mutual benefits. This concept is particularly relevant in the context of the Balkans and the ENI (European Neighbourhood Instrument), which aims to facilitate partnerships and affirming ties among regions. Initiatives such as the Thessaloniki Summit and the inaugural Feira process emphasize the importance of interregional dialogues and timetables for progress. By committing to a roadmap that considers specificities of each district, the EU seeks to enrich relationships, intensifying cooperation across borders while addressing the needs of inhabitants in areas like Kaliningrad and Moldova.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:09:55.795176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 501,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 603,
+      "selected_avg_freq": 268.2266666666667
+    },
+    "related_words": [
+      "checklist",
+      "zagreb",
+      "facilitations",
+      "oblast",
+      "interregional",
+      "affirming",
+      "inaugural",
+      "mainstream",
+      "eni",
+      "intensifying",
+      "diagonal",
+      "enclave",
+      "feira",
+      "ipa",
+      "fullest",
+      "surrounded",
+      "kaliningrad",
+      "balkan",
+      "enriched",
+      "informal",
+      "participates",
+      "inhabitants",
+      "timetables",
+      "commit",
+      "depositary",
+      "neighbourhood",
+      "interchange",
+      "residents",
+      "thessaloniki",
+      "revisions"
+    ],
+    "prompt_length": 1707,
+    "category": "0811 cooperation policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1366",
+  "concept_data": {
+    "title": "video game industry",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "audiovisual industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"video game industry,\" as a redirect to the \"audiovisual industry,\" encompasses a broad spectrum of creative expressions, including interactive entertainment that commands audiences akin to traditional media. Within EU legal frameworks, this sector is intrinsically linked to regulations on copyright, retailing, and the protection of artists' repertoires. The industry's dynamics are influenced by factors such as reshipping and reimporting of games, which can lead to complexities in cross-border transactions. Events like tournaments and championships, including football and athletics, showcase the industry's cultural significance, while regulatory challenges, such as foreclosure and inapplicability of certain laws, remain pertinent. The EU's approach aims to balance innovation with protection, ensuring that creators can thrive in a competitive landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:16:54.700942",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 968,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 152,
+      "selected_avg_freq": 50.986666666666665
+    },
+    "related_words": [
+      "schallplatten",
+      "quickborn",
+      "bei",
+      "sonic",
+      "bargain",
+      "parade",
+      "folk",
+      "vocal",
+      "reshipping",
+      "songs",
+      "dialect",
+      "carnival",
+      "reimporting",
+      "intentially",
+      "consten",
+      "wea",
+      "filipacchi",
+      "mundus",
+      "ccee",
+      "handball",
+      "vault",
+      "discus",
+      "intrinsically",
+      "foreclosure",
+      "repertoire",
+      "grundig",
+      "volleyball",
+      "commanding",
+      "tournaments",
+      "uefa"
+    ],
+    "prompt_length": 1717,
+    "category": "3226 communications"
+  }
+}

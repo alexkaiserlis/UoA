@@ -1,0 +1,63 @@
+{
+  "concept_id": "3482",
+  "concept_data": {
+    "title": "international code of conduct",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "code of conduct",
+    "relation_type": "USE"
+  },
+  "summary": "The \"international code of conduct,\" a term redirecting to \"code of conduct,\" encompasses multilateral agreements aimed at curbing threats such as weapons proliferation and enhancing global peace. This concept is rooted in the universality of principles that advocate for openness and accountability among nations. The EU actively endorses these codes, acknowledging their role in equipping inspectors and reinforcing capabilities against conflicts. Workshops in cities like Bangkok and Edinburgh facilitate discussions on implications and subscription to these norms. By subscribing to such frameworks, actors can better address ballistic threats and promote stability, as seen in councils convened in Hague and Vienna.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:20.696264",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 378,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 829,
+      "selected_avg_freq": 363.58
+    },
+    "related_words": [
+      "faring",
+      "israc",
+      "hcoc",
+      "universalisation",
+      "subscribing",
+      "kiev",
+      "universality",
+      "glp",
+      "debris",
+      "ballistic",
+      "multilateralism",
+      "missile",
+      "acknowledgement",
+      "welcome",
+      "bangkok",
+      "birmingham",
+      "implication",
+      "curbing",
+      "endorsing",
+      "subscribe",
+      "advocates",
+      "israeli",
+      "papers",
+      "subscription",
+      "equipping",
+      "workshop",
+      "openness",
+      "discuss",
+      "enhancement",
+      "nation"
+    ],
+    "prompt_length": 1762,
+    "category": "0806 international affairs"
+  }
+}

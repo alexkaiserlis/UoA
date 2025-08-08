@@ -1,0 +1,63 @@
+{
+  "concept_id": "6124",
+  "concept_data": {
+    "title": "viral haemorrhagic septicaemia",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "fish disease",
+    "relation_type": "USE"
+  },
+  "summary": "Viral haemorrhagic septicaemia (VHS) is a significant fish disease caused by the isavirus, impacting various fish species, including coregonus and trutta. In the context of EU regulations, VHS is monitored under veterinary legislation to prevent outbreaks in aquaculture, particularly in regions like Uusikaupunki and Pyhäranta, where fish farming (troticoltura) is prevalent. The disease is polymorphic, with different genogroups identified, necessitating strict biosecurity measures in facilities such as incubatoio and ittico. Regulatory frameworks ensure that affected areas, including locations like Whitstable and Poole, adhere to guidelines to mitigate risks associated with VHS, safeguarding aquatic ecosystems and fisheries.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:12:56.659518",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 721,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 134,
+      "selected_avg_freq": 38.053333333333335
+    },
+    "related_words": [
+      "hpr",
+      "polymorphic",
+      "isavirus",
+      "isav",
+      "orthomyxoviridae",
+      "uusikaupunki",
+      "pyhäranta",
+      "venina",
+      "bacino",
+      "taverone",
+      "sessera",
+      "bondo",
+      "fosso",
+      "melga",
+      "brembana",
+      "troticoltura",
+      "torrente",
+      "bassan",
+      "gweendore",
+      "ballinakill",
+      "veterinaere",
+      "vesijärvi",
+      "drumcliff",
+      "shannon",
+      "oysterhaven",
+      "cristina",
+      "pancreas",
+      "genogroups",
+      "genogroup",
+      "dunmanus"
+    ],
+    "prompt_length": 1734,
+    "category": "5631 agricultural activity"
+  }
+}

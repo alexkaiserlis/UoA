@@ -1,0 +1,63 @@
+{
+  "concept_id": "6089",
+  "concept_data": {
+    "title": "virtual commerce",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "electronic commerce",
+    "relation_type": "USE"
+  },
+  "summary": "\"Virtual commerce,\" often redirected to \"electronic commerce,\" encompasses the online exchange of goods and services, regulated under EU law. This domain intersects with various legal frameworks, particularly concerning the sale of psychoactive substances, such as methylenedioxypyrovalerone and methoxetamine, which may induce hallucinations or euphoria. The regulation of these substances is crucial due to their psychopharmacological effects, including potential overdoses and associated dysfunctions. Additionally, the use of hyperlinks in marketing strategies must comply with EU consumer protection laws. As virtual commerce evolves, the need for stringent regulations addressing the sale of sedatives, opioids, and hallucinogens remains paramount to safeguard public health and ensure responsible medicating practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:27:10.772008",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 668,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 118,
+      "selected_avg_freq": 35.28
+    },
+    "related_words": [
+      "hyperlinks",
+      "nbome",
+      "benzamide",
+      "methylenedioxypyrovalerone",
+      "mdpv",
+      "methoxyphenyl",
+      "ethylamino",
+      "cyclohexanone",
+      "methoxetamine",
+      "neurochemistry",
+      "serotonergic",
+      "hallucinogen",
+      "auditory",
+      "hallucinations",
+      "trauma",
+      "lsd",
+      "opioid",
+      "analgesic",
+      "doxylam",
+      "doxylamine",
+      "antihistaminic",
+      "sedative",
+      "hypnotic",
+      "overdoses",
+      "opioids",
+      "euphoria",
+      "itchiness",
+      "medicating",
+      "injecting",
+      "pyrovalerone"
+    ],
+    "prompt_length": 1839,
+    "category": "2031 marketing"
+  }
+}

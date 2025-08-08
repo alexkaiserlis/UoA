@@ -1,0 +1,63 @@
+{
+  "concept_id": "1365",
+  "concept_data": {
+    "title": "arms industry",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"arms industry\" within the EU regulatory framework is paramount in discussions surrounding the proliferation of weapons and the urgent need for comprehensive policies. The EU has strongly condemned stockpiling practices that undermine global security and has committed to verifiable measures for the destruction of chemical weapons. Notably, the EU's external relations involve a consensus on the prohibition of arms exports to conflict zones, reflecting a commitment to political stability. The importance of early and immediate actions is underlined in various resolutions and conventions, which require member states to review their arms trade practices consistently. The nature of these discussions emphasizes the need for a single, coherent approach to arms regulation, ensuring that interests are aligned with global security objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:15.474036",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 49,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 49,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1785.72
+    },
+    "related_words": [
+      "stockpiling",
+      "condemned",
+      "paramount",
+      "verifiable",
+      "weapons",
+      "proliferation",
+      "consensus",
+      "strongly",
+      "surrounding",
+      "underlined",
+      "paris",
+      "destruction",
+      "forum",
+      "regulated",
+      "discussions",
+      "urgent",
+      "urgency",
+      "chemical",
+      "conference",
+      "comprehensive",
+      "keep",
+      "political",
+      "early",
+      "immediate",
+      "prohibition",
+      "commitment",
+      "global",
+      "took",
+      "notably",
+      "external"
+    ],
+    "prompt_length": 1678,
+    "category": "0821 defence"
+  }
+}

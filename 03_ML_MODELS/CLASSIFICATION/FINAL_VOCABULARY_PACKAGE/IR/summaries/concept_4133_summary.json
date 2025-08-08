@@ -1,0 +1,63 @@
+{
+  "concept_id": "4133",
+  "concept_data": {
+    "title": "postal service",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"postal service\" within EU legal and regulatory frameworks encompasses the operationally critical exchanges of inbound and outbound mail and parcels. It includes various logistics providers such as Dachser, Kühne + Nagel, and Schenker, which facilitate the dispatches of palletised goods. The regulatory landscape aims to eliminate impediments that hinder efficient operations, ensuring synchronised services across member states. Notably, the role of national authorities, like the Danish Konkurrencestyrelsen, is to oversee competition and prevent monopolistic practices in the sector. This framework supports a robust infrastructure for courier and parcel services, enhancing the efficiency of international logistics and fostering a competitive marketplace.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:42.190801",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 847,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 330,
+      "selected_avg_freq": 140.66
+    },
+    "related_words": [
+      "exchages",
+      "palletised",
+      "sender",
+      "outbound",
+      "inbound",
+      "dachser",
+      "kühne",
+      "nagel",
+      "logwin",
+      "schachinger",
+      "paketdienst",
+      "schenker",
+      "weiss",
+      "lagermax",
+      "spedition",
+      "ceva",
+      "konkurrencestyrelsen",
+      "btb",
+      "operationally",
+      "corollory",
+      "gruppe",
+      "narrower",
+      "danmark",
+      "marshalling",
+      "commissioning",
+      "traveller",
+      "courier",
+      "surpass",
+      "approx",
+      "impediments"
+    ],
+    "prompt_length": 1686,
+    "category": "3226 communications"
+  }
+}

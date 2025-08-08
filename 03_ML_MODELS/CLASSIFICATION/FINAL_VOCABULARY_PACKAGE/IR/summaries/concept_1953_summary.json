@@ -1,0 +1,63 @@
+{
+  "concept_id": "1953",
+  "concept_data": {
+    "title": "voting method",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"voting method\" within EU electoral procedures is critical for ensuring the democratic integrity of decision-making processes. It defines the operational framework for various voting systems, including weighted and preferential methods, which are essential for representing diverse societal opinions. The voting method is particularly relevant in contexts such as the CCE (Committee of the European Communities) and Euratom, where decisions may require unanimous or consultative approval. This concept also encompasses the allocation of rights and responsibilities among member states, contributing to the building of a cohesive European society. Moreover, it lays the groundwork for updating electoral actions and training programmes, ensuring effective participation in the democratic process.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:29:31.478308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1905.4222222222222
+    },
+    "related_words": [
+      "cce",
+      "fusion",
+      "voting",
+      "consultative",
+      "unanimously",
+      "dealing",
+      "seventh",
+      "nuclear",
+      "weighted",
+      "deliver",
+      "assisted",
+      "society",
+      "contributing",
+      "building",
+      "updating",
+      "composition",
+      "preferential",
+      "opinions",
+      "recommended",
+      "defines",
+      "atomic",
+      "knowledge",
+      "operational",
+      "training",
+      "priority",
+      "creation",
+      "allocation",
+      "research",
+      "fourth",
+      "actions"
+    ],
+    "prompt_length": 1679,
+    "category": "0416 electoral procedure and voting"
+  }
+}

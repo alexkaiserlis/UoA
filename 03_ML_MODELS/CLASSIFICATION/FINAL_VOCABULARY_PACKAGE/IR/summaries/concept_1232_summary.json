@@ -1,0 +1,63 @@
+{
+  "concept_id": "1232",
+  "concept_data": {
+    "title": "harmonisation of customs procedures",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "customs harmonisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"harmonisation of customs procedures,\" also referred to as \"customs harmonisation,\" is pivotal in the EU's 2011 tariff policy. It aims to centralize and organize customs processes across member states, facilitating smoother exportations and reimported goods. This regulatory framework addresses conflicting nomenclatures and ensures that customs procedures are economically efficient and measurable. By joining efforts to ease customs lanes, the EU fosters a preamble for international trade, enhancing the inward and outward flow of goods. The use of carnets, such as TIR and nimexe, exemplifies this harmonisation, providing a recapitulative manifest for customs officials. Through plenary sessions and appendices, the EU continues to refine these procedures, ensuring they remain effective and inoperative against outdated practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:07.180618",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 681,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 481,
+      "selected_avg_freq": 239.42666666666668
+    },
+    "related_words": [
+      "subtitles",
+      "germanies",
+      "commity",
+      "recapitulative",
+      "staatsvertrag",
+      "exportations",
+      "measurable",
+      "inoperative",
+      "carnet",
+      "lanes",
+      "carnets",
+      "tir",
+      "centralize",
+      "smoother",
+      "inner",
+      "reimported",
+      "sessions",
+      "conflicting",
+      "manifest",
+      "drawback",
+      "nomenclatures",
+      "furnishing",
+      "empty",
+      "stimulus",
+      "kyoto",
+      "preferably",
+      "joining",
+      "easing",
+      "organizing",
+      "outward"
+    ],
+    "prompt_length": 1751,
+    "category": "2011 tariff policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "245",
+  "concept_data": {
+    "title": "corruption",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Corruption, as defined within EU criminal law, encompasses various forms of misconduct by public servants that undermine accountability and the integrity of institutions. The EU legislator emphasizes the need for robust proceedings to combat corruption, which includes the investigation of suspicions through agencies like OLAF. Corruption not only affects the reputation of involved parties but also has far-reaching implications for societal structures, as seen in the Budapest and Stockholm declarations. The inviolability of democratic processes is circumscribed by such acts, prompting the need for disciplinary measures and enhanced oversight. The EU invites member states to commit to benchmarks that sustain autonomy and ensure impartial governance, thereby reaffirming their dedication to combating corruption in all its facets.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:41:28.258615",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 720,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 325,
+      "selected_avg_freq": 146.12666666666667
+    },
+    "related_words": [
+      "dereliction",
+      "servant",
+      "misconduct",
+      "deicison",
+      "buidlings",
+      "procedings",
+      "faceted",
+      "circumscribed",
+      "agis",
+      "reaffirms",
+      "announces",
+      "privilege",
+      "epac",
+      "archives",
+      "inviolability",
+      "undisputed",
+      "suspicions",
+      "arrest",
+      "millennium",
+      "backgrounds",
+      "disciplinary",
+      "overwhelming",
+      "legislator",
+      "commits",
+      "supervisors",
+      "budapest",
+      "sustaining",
+      "conducts",
+      "deviate",
+      "emphasises"
+    ],
+    "prompt_length": 1697,
+    "category": "1216 criminal law"
+  }
+}

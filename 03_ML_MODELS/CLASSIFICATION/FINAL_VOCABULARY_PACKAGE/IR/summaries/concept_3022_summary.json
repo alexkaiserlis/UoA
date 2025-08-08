@@ -1,0 +1,26 @@
+{
+  "concept_id": "3022",
+  "concept_data": {
+    "title": "Videotex",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Videotex refers to an early form of interactive information retrieval technology that enables users to access and display text and graphics through telephone lines. In the context of EU legal and regulatory frameworks, Videotex systems were pivotal in the evolution of electronic communications, influencing the development of subsequent digital services and regulatory measures. The EU has historically promoted the integration of such technologies to enhance information accessibility and communication efficiency across member states. As a precursor to modern digital platforms, Videotex underscores the importance of establishing robust regulatory frameworks to ensure interoperability, data protection, and user rights in the rapidly evolving communications landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:14:10.318279",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1162,
+    "category": "3226 communications"
+  }
+}

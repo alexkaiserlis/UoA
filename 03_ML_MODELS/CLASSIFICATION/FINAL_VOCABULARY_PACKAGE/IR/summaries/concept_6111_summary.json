@@ -1,0 +1,63 @@
+{
+  "concept_id": "6111",
+  "concept_data": {
+    "title": "enzyme",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"enzyme\" refers to biocatalysts essential in various applications, including food production and biotechnology. Enzymes such as mannanase, xylanase, and chymosin are pivotal in processes involving polysaccharides, aiding in the breakdown of complex carbohydrates. Regulatory frameworks ensure the harmlessness of enzymes like subtilisin and urease, which are derived from organisms such as Bacillus subtilis and Kluyveromyces marxianus. The European Food Safety Authority (EFSA) evaluates enzymes for safety, efficacy, and compliance with standards, including those related to provitamins and coagulants. Additionally, enzymes like polygalacturonase and invertase are crucial in food labeling, often represented through pictograms. The classification of enzymes under the QPS (Qualified Presumption of Safety) framework facilitates their use in various applications, ensuring consumer safety and industry standards are met.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:51:02.951971",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 719,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 160,
+      "selected_avg_freq": 51.45333333333333
+    },
+    "related_words": [
+      "humicola",
+      "insolens",
+      "satifisfied",
+      "anidmal",
+      "mannanase",
+      "hemicell",
+      "lentus",
+      "bacillolysin",
+      "hansenula",
+      "aviax",
+      "provitamins",
+      "bccm",
+      "natuphos",
+      "fragilis",
+      "chymosin",
+      "invertase",
+      "viride",
+      "nibh",
+      "kluyveromyces",
+      "marxianus",
+      "hydroxycholecalciferol",
+      "polygalacturonase",
+      "pictograms",
+      "nrrl",
+      "polymorpha",
+      "schizosaccharomyces",
+      "pombe",
+      "semduramicin",
+      "diformate",
+      "funiculosum"
+    ],
+    "prompt_length": 1712,
+    "category": "3606 natural and applied sciences"
+  }
+}

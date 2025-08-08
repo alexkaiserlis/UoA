@@ -1,0 +1,63 @@
+{
+  "concept_id": "5381",
+  "concept_data": {
+    "title": "Champagne-Ardenne",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Champagne-Ardenne, categorized under regions of EU Member States, is a significant area recognized for its unique contributions to the EU's socio-economic landscape. This region, known for its production of jambon and noix, is governed by frameworks that ensure compliance with statutory requirements. The EU's programming, particularly through the European Regional Development Fund (ERDF), foresees allocations that satisfy regional development needs. The indexed perspectives on economic readiness and inflation impact the region's development patterns. Additionally, the designation of Champagne-Ardenne as a Protected Geographical Indication (PGI) highlights its cultural significance, while the European Investment Bank (EIB) supports lending initiatives to enhance economic stability and additionality.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:12:34.517556",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 406,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1078,
+      "selected_avg_freq": 627.4
+    },
+    "related_words": [
+      "jambon",
+      "noix",
+      "ardennes",
+      "ardenne",
+      "champagne",
+      "rechar",
+      "sec",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "pgi",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "opposition",
+      "adopts",
+      "mention",
+      "des",
+      "perspective"
+    ],
+    "prompt_length": 1662,
+    "category": "7211 regions of EU Member States"
+  }
+}

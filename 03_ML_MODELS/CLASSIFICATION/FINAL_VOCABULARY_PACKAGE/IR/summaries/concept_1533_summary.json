@@ -1,0 +1,26 @@
+{
+  "concept_id": "1533",
+  "concept_data": {
+    "title": "Official Journal",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Official Journal\" of the European Union serves as the primary publication for EU legal acts, including regulations, directives, and decisions. It is essential for ensuring transparency and accessibility of EU legislation, as it provides a formal record of all legislative measures and legal notices. Published daily, the Official Journal is divided into two series: L (Legislation) and C (Information and Notices). This documentation is crucial for legal certainty, as it allows stakeholders, including member states and citizens, to stay informed about applicable laws and regulatory changes. Compliance with the provisions published in the Official Journal is mandatory for all EU entities.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:50:28.794739",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "3221 documentation"
+  }
+}

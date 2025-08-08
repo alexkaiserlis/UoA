@@ -1,0 +1,63 @@
+{
+  "concept_id": "1817",
+  "concept_data": {
+    "title": "social exclusion",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "marginalisation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"social exclusion\" is often synonymous with \"marginalisation,\" reflecting the urgent need to address the socio-economic factors that lead to the marginalised status of specific groups, such as the Roma. The EU emphasizes desegregation and targeted interventions to combat poverty and unemployment, particularly among youth. Programmed initiatives focus on urban and rural areas, enhancing housing and education to prevent the deterioration of socio-economic conditions. The European Social Fund (ESF) plays a decisive role in funding projects aimed at absorption and cohesion, ensuring that allocations address the needs of threatened communities. The methodology for these interventions is constructed to share resources effectively, regardless of territorial boundaries, thus fostering convergence and reducing exclusion.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:45.380757",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 260,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1591,
+      "selected_avg_freq": 805.5066666666667
+    },
+    "related_words": [
+      "roma",
+      "desegregation",
+      "marginalised",
+      "programmed",
+      "breakdowns",
+      "axis",
+      "segregation",
+      "renovation",
+      "youth",
+      "focused",
+      "urban",
+      "stemming",
+      "absorption",
+      "esf",
+      "housing",
+      "reiterated",
+      "interventions",
+      "constructed",
+      "poverty",
+      "serving",
+      "decisive",
+      "buildings",
+      "experiencing",
+      "unemployment",
+      "socio",
+      "poor",
+      "threatened",
+      "enhancing",
+      "acceded",
+      "territorial"
+    ],
+    "prompt_length": 1750,
+    "category": "2826 social affairs"
+  }
+}

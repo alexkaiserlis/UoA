@@ -1,0 +1,63 @@
+{
+  "concept_id": "5232",
+  "concept_data": {
+    "title": "fresh product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"fresh product\" refers to foodstuff that maintains its freshness and quality, crucial for consumer safety and market standards. This category encompasses various edible items, including fruits like nectarines, peaches, and lemons, as well as crustaceans such as crabs, lobsters, and shrimps. The concept also includes dairy products from cows, which must adhere to stabilization and standardization protocols. Fresh products are often subject to geographical regulations, ensuring that items like tomatoes and apples are locally sourced. The EU encourages practices that enhance freshness, including the proper landing and handling of seafood species like crangon and nephrops, while addressing issues of abnormally sized or diverted goods.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:26:51.377749",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 382,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1033,
+      "selected_avg_freq": 467.97333333333336
+    },
+    "related_words": [
+      "crangan",
+      "ameneded",
+      "pagurus",
+      "norvegicus",
+      "crangon",
+      "crabs",
+      "dairies",
+      "stays",
+      "uht",
+      "nephrops",
+      "lobsters",
+      "stabilising",
+      "endowed",
+      "freshness",
+      "reconstituted",
+      "poseima",
+      "shrimps",
+      "poseican",
+      "interval",
+      "nectarines",
+      "width",
+      "genus",
+      "geographically",
+      "diverted",
+      "crustaceans",
+      "shell",
+      "passing",
+      "cancer",
+      "lemons",
+      "encouragement"
+    ],
+    "prompt_length": 1650,
+    "category": "6026 foodstuff"
+  }
+}

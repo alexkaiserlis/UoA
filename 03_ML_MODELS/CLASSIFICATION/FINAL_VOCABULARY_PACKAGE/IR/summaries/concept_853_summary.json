@@ -1,0 +1,63 @@
+{
+  "concept_id": "853",
+  "concept_data": {
+    "title": "swimming pool",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "sports facilities",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"swimming pool,\" categorized under social affairs, is redirected to the preferred term \"sports facilities\" within EU legal and regulatory frameworks. This encompasses various requisites for sports, including the design and construction of facilities that conform to safety mandates. Regulations may specify the use of garments such as tracksuits, which are often fastened with zips or velcro, ensuring athletes are appropriately attired. The ensemble of sports facilities may include stationary equipment, nets, and mirrors for training purposes. Furthermore, the EU may decide to transpose regulations that govern the use of such facilities, addressing chapters related to safety and accessibility.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:39:48.238055",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 283,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1300,
+      "selected_avg_freq": 563.56
+    },
+    "related_words": [
+      "tracksuits",
+      "zip",
+      "fastener",
+      "studs",
+      "velcro",
+      "lark",
+      "mandating",
+      "annexec",
+      "buttons",
+      "fastened",
+      "ensemble",
+      "requisites",
+      "shooting",
+      "hooks",
+      "decoy",
+      "butterfly",
+      "ensembles",
+      "fastening",
+      "trousers",
+      "garment",
+      "worn",
+      "garments",
+      "stationary",
+      "mirrors",
+      "knitted",
+      "rods",
+      "hunting",
+      "nets",
+      "reinstate",
+      "front"
+    ],
+    "prompt_length": 1663,
+    "category": "2826 social affairs"
+  }
+}

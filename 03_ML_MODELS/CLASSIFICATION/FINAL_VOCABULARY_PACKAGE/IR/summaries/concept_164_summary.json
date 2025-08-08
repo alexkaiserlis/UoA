@@ -1,0 +1,63 @@
+{
+  "concept_id": "164",
+  "concept_data": {
+    "title": "law of contract",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "contract",
+    "relation_type": "USE"
+  },
+  "summary": "The \"law of contract,\" a fundamental aspect of civil law, governs agreements between parties, ensuring that obligations are met and rights are protected. In the EU context, lawmakers establish a framework that augments the enforceability of contracts, facilitating cross-border transactions and assignments. Noteworthy elements include the predefinition of terms, which aids in the clarity of contractual obligations. Contracts may involve consumable goods, services, or even specialized agreements like gesellschaftsvertrag in corporate settings. The supervision of compliance is crucial, as is the management of lossess and liabilities. This legal framework channels communication between parties, ensuring that all aspects, from paperwork to drawdown processes, are effectively managed.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:29:53.100534",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2348,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 33,
+      "selected_avg_freq": 14.753333333333334
+    },
+    "related_words": [
+      "bigarreau",
+      "articlar",
+      "gesellschaftsvertrag",
+      "drawdown",
+      "lawmakers",
+      "winery",
+      "assignments",
+      "augment",
+      "qualifiable",
+      "minded",
+      "paperwork",
+      "sutmit",
+      "kernkraftwerke",
+      "lippe",
+      "kle",
+      "bnfl",
+      "contrating",
+      "procede",
+      "bnl",
+      "facilty",
+      "timel",
+      "radiocative",
+      "victuallers",
+      "victualler",
+      "consumable",
+      "konsortium",
+      "untertuerkheim",
+      "spécial",
+      "predefinition",
+      "detecon"
+    ],
+    "prompt_length": 1717,
+    "category": "1211 civil law"
+  }
+}

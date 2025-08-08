@@ -1,0 +1,63 @@
+{
+  "concept_id": "5889",
+  "concept_data": {
+    "title": "ship safety",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "maritime safety",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"ship safety,\" redirected to \"maritime safety,\" encompasses a comprehensive framework within EU transport policy aimed at enhancing the safety of shipborne operations. This includes the implementation of advanced technologies such as VDRs and EPIRBs, which are crucial for real-time monitoring and emergency response. Regulatory bodies, including DNV and its Germanischer counterpart, oversee the certification of vessels, ensuring compliance with safety standards. The EU emphasizes drills and training for crew members, while also addressing issues of detentions and uninspected vessels. By centralising safety measures and leveraging systems like LRIT and Cospas-Sarsat, the EU aims to dynamically improve maritime safety across its waters, safeguarding lives and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:35.016212",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1747,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 34,
+      "selected_avg_freq": 14.433333333333334
+    },
+    "related_words": [
+      "det",
+      "veritas",
+      "germanischer",
+      "dnv",
+      "stiftelsen",
+      "sdnv",
+      "mayfair",
+      "umbrella",
+      "launay",
+      "etienne",
+      "montaigne",
+      "poncins",
+      "drills",
+      "dynamically",
+      "norske",
+      "detentions",
+      "vhf",
+      "epirb",
+      "reaping",
+      "hlsg",
+      "advancements",
+      "lrit",
+      "ifcd",
+      "vtmis",
+      "cise",
+      "ecshould",
+      "sirenac",
+      "vdr",
+      "vdrs",
+      "towage"
+    ],
+    "prompt_length": 1660,
+    "category": "4806 transport policy"
+  }
+}

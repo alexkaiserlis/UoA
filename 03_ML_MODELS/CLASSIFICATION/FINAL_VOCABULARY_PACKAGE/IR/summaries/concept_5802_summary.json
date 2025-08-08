@@ -1,0 +1,63 @@
+{
+  "concept_id": "5802",
+  "concept_data": {
+    "title": "legal process",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"legal process\" within the EU context encompasses the systematic procedures for prosecuting crimes, including genocide and war crimes, as seen in the tribunals for Rwanda and Yugoslavia. It affirms the necessity of investigating violations of humanity, ensuring that perpetrators are not left unpunished and that impunity is confronted. Jurisdictions within the EU are tasked with enhancing the prosecution of transnational crimes, enforcing sanctions, and investigating suspected abuses. The legal process also involves periodic reviews and the imposition of penalties for infringements, thereby ensuring that justice is served and that residents can participate in a system that upholds the rule of law.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:56.995093",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 223,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1900,
+      "selected_avg_freq": 749.98
+    },
+    "related_words": [
+      "genocide",
+      "prosecuting",
+      "affirms",
+      "unpunished",
+      "impunity",
+      "perpetrators",
+      "prosecuted",
+      "humanity",
+      "rwanda",
+      "tribunals",
+      "crimes",
+      "reside",
+      "emphasises",
+      "trying",
+      "prosecution",
+      "confronted",
+      "war",
+      "recalls",
+      "jurisdictions",
+      "interrupting",
+      "infringe",
+      "fines",
+      "immigration",
+      "investigating",
+      "waterway",
+      "rome",
+      "transnational",
+      "violations",
+      "ratified",
+      "interference"
+    ],
+    "prompt_length": 1682,
+    "category": "1221 justice"
+  }
+}

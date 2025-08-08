@@ -1,0 +1,63 @@
+{
+  "concept_id": "1037",
+  "concept_data": {
+    "title": "trade vessel",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "merchant fleet",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"trade vessel,\" redirected to \"merchant fleet,\" encompasses a range of maritime and inland waterway transport activities regulated within the EU. This includes the operations of shipbuilders like Hyundai and Daewoo, which are pivotal in the shipbuilding sector, particularly in constructing tankers and container ships. The EU's regulatory framework addresses issues such as subcontracting, corporate equity, and actionable allegations against carriers. Additionally, the impact of liquified natural gas (LNG) on shipping logistics is significant, as fleets tackle overheads and strive to regain market share amidst economic depression. The regulatory landscape also involves voting rights and contingent liabilities, ensuring that all stakeholders, including buyers and shipyards, operate under mutually beneficial agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:40:53.229508",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 384,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 729,
+      "selected_avg_freq": 329.68
+    },
+    "related_words": [
+      "cesa",
+      "samho",
+      "daedong",
+      "mipo",
+      "hanjin",
+      "kexim",
+      "aprg",
+      "liquified",
+      "hyundai",
+      "daewoo",
+      "samsung",
+      "actionable",
+      "forgiveness",
+      "spin",
+      "shipbuilders",
+      "scm",
+      "halted",
+      "subcontracting",
+      "lng",
+      "regain",
+      "swaps",
+      "depression",
+      "shipyard",
+      "shipyards",
+      "tankers",
+      "collapse",
+      "contingent",
+      "undercutting",
+      "shipbuilding",
+      "overheads"
+    ],
+    "prompt_length": 1694,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

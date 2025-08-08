@@ -1,0 +1,63 @@
+{
+  "concept_id": "729",
+  "concept_data": {
+    "title": "issuing of currency",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"issuing of currency\" encompasses the minting and circulation of banknotes and coins, essential for stable monetary economics within the EU. National central banks (NCBs) are responsible for the issuance, ensuring that each coinage is distinguishable and recognisable, often featuring commemorative designs to celebrate significant events. The process involves rigorous accreditations to prevent counterfeiting, with innovations in tactile features for the visually impaired. Currency issuances must adhere to EU regulations, streamlining operations across member states. This includes forecasting economic impacts and addressing issues like unstable currencies, ensuring that the euro remains a robust and reliable medium of exchange, surpassing previous national currencies like the lira or the oesterreichische.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:20.358669",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 657,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 376,
+      "selected_avg_freq": 138.13333333333333
+    },
+    "related_words": [
+      "alphabet",
+      "minting",
+      "coverning",
+      "commemorative",
+      "celebrate",
+      "issuances",
+      "vending",
+      "jubilee",
+      "ecumenical",
+      "tactile",
+      "accustomed",
+      "oesterreichische",
+      "lettering",
+      "nationalbank",
+      "coinage",
+      "surpassed",
+      "minted",
+      "banknote",
+      "stars",
+      "accreditations",
+      "holy",
+      "blind",
+      "edge",
+      "collector",
+      "repeat",
+      "mint",
+      "coin",
+      "unstable",
+      "recognisable",
+      "lira"
+    ],
+    "prompt_length": 1702,
+    "category": "2411 monetary economics"
+  }
+}

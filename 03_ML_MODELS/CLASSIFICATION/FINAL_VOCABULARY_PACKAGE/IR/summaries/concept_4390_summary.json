@@ -1,0 +1,63 @@
+{
+  "concept_id": "4390",
+  "concept_data": {
+    "title": "exchange rate",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"exchange rate\" is pivotal in monetary economics, particularly within the EU's regulatory framework. It refers to the value of one currency in relation to another, influencing trade and economic stability. The exchange rate can shiftwork due to various factors, including market demand and monetary policy interventions. For instance, the korunas and tolars may experience revaluation against the euro, impacting national economies in regions like UEMOA and CEMAC. Regulatory bodies often contemplate mechanisms for rediscounting rates to stabilize currencies. Understanding these dynamics is essential for bidders in financial markets, as fluctuations can affect remuneration and pricing strategies across borders, including in the Comorian and Afrique contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:47.485712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1488,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 89,
+      "selected_avg_freq": 34.833333333333336
+    },
+    "related_words": [
+      "korunas",
+      "ppc",
+      "megalopolis",
+      "hermes",
+      "kredit",
+      "versicherungs",
+      "magalopolis",
+      "immedialety",
+      "fremework",
+      "rediscount",
+      "sgm",
+      "sgms",
+      "tolars",
+      "naka",
+      "applicaple",
+      "decembr",
+      "cents",
+      "renumeration",
+      "weigthing",
+      "ons",
+      "lodges",
+      "contemplates",
+      "nationl",
+      "comorian",
+      "uemoa",
+      "africaine",
+      "cemac",
+      "afrique",
+      "comores",
+      "tolar"
+    ],
+    "prompt_length": 1665,
+    "category": "2411 monetary economics"
+  }
+}

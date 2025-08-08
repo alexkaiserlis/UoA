@@ -1,0 +1,63 @@
+{
+  "concept_id": "4714",
+  "concept_data": {
+    "title": "vermouth",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "flavoured wine",
+    "relation_type": "USE"
+  },
+  "summary": "Vermouth, classified under the category of \"beverages and sugar,\" is a type of flavoured wine that is characterized by its unique aromatized properties. In EU legal and regulatory contexts, vermouth is defined as a fortified wine obtained through the distillation of neutral spirits, which may include various botanicals and flavourings. The application of regulations ensures the reproducibility of its characteristics, including colour and flavour, while addressing potential contaminations and microbiological concerns. Additionally, the use of preservatives such as sulphites and antioxidants is regulated to maintain quality. Vermouth is often utilized in cocktails, contributing to the harmonizing of diverse beverage profiles.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:15:36.958113",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1125,
+      "selected_avg_freq": 458.5933333333333
+    },
+    "related_words": [
+      "applciation",
+      "alchohol",
+      "carcateristics",
+      "charecteristics",
+      "obteined",
+      "glühwein",
+      "vermouth",
+      "aromatized",
+      "contaminations",
+      "definied",
+      "sulphites",
+      "referrred",
+      "coupage",
+      "antioxidant",
+      "reproducibility",
+      "cocktails",
+      "foil",
+      "repeatability",
+      "drawbacks",
+      "harmonizing",
+      "oxidation",
+      "bottle",
+      "aromatised",
+      "capsules",
+      "preservative",
+      "bottles",
+      "flavour",
+      "intakes",
+      "sparkling",
+      "sweetening"
+    ],
+    "prompt_length": 1746,
+    "category": "6021 beverages and sugar"
+  }
+}

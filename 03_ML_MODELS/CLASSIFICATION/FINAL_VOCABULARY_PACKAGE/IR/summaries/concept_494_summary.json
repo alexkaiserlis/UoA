@@ -1,0 +1,63 @@
+{
+  "concept_id": "494",
+  "concept_data": {
+    "title": "technical documentation",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "documentation",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"technical documentation\" is a critical component of \"documentation,\" serving as a template for compliance across various sectors, including transportation and fisheries. It encompasses validated records that detail subsystem specifications, interoperability standards, and operational benchmarks. For instance, in the railway sector, technical documentation ensures alignment with EU directives, facilitating the fast and efficient movement of passenger and freight transport. Additionally, it addresses unregulated areas, such as tuna catch reporting under ICCAT guidelines, where accurate data is essential. This documentation aids in consolidating institutional knowledge and executing regulatory choices that deter duplications and enhance operational independence.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:56.378802",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 330,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1020,
+      "selected_avg_freq": 468.92
+    },
+    "related_words": [
+      "insis",
+      "stidc",
+      "duplications",
+      "esprit",
+      "arrivals",
+      "rec",
+      "telematics",
+      "subsystem",
+      "telematic",
+      "template",
+      "templates",
+      "bluefin",
+      "unregulated",
+      "era",
+      "executing",
+      "unreported",
+      "iccat",
+      "int",
+      "crest",
+      "choices",
+      "benchmarks",
+      "baseline",
+      "deter",
+      "challenge",
+      "fast",
+      "railway",
+      "interoperability",
+      "specialized",
+      "tuna",
+      "fao"
+    ],
+    "prompt_length": 1699,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5672",
+  "concept_data": {
+    "title": "waste incineration",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Waste incineration refers to the combustion of municipal and hazardous waste in dedicated incinerators, a method employed to treat unwanted materials while reducing their volume. The EU regulatory framework outlines stringent standards for incineration processes to minimize harmful emissions, including dioxins and furans, which can endanger human health and the environment. Precautions are mandated to monitor pollutant concentrations and ensure compliance with environmental policies. Strategies for rationalising waste management emphasize recycling and decontamination approaches, aiming to mitigate the overwhelming stress on landfills. The advisability of incineration is assessed in light of transboundary impacts, with a focus on attaining clean combustion and protecting ecosystems, including fishmeal and ruminant health.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:13.720034",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 445,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 816,
+      "selected_avg_freq": 361.66
+    },
+    "related_words": [
+      "mehtods",
+      "wast",
+      "obtaines",
+      "burial",
+      "incinerators",
+      "incinerate",
+      "overwhelming",
+      "furans",
+      "harming",
+      "fishmeal",
+      "decontamination",
+      "municipal",
+      "unwanted",
+      "stationary",
+      "precautions",
+      "burning",
+      "treating",
+      "standardising",
+      "dioxins",
+      "endangering",
+      "incineration",
+      "rationalising",
+      "ruminant",
+      "responses",
+      "tses",
+      "tse",
+      "combustion",
+      "advisability",
+      "clean",
+      "measurements"
+    ],
+    "prompt_length": 1719,
+    "category": "5206 environmental policy"
+  }
+}

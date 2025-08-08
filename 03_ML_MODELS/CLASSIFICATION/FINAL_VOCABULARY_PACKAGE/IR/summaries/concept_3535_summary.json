@@ -1,0 +1,63 @@
+{
+  "concept_id": "3535",
+  "concept_data": {
+    "title": "water resources",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"water resources\" encompasses the management and preservation of aquatic ecosystems within the EU's legal framework. It addresses critical parameters such as phytoplankton, macrophytes, and phytobenthos, which are essential for maintaining ecological balance. The EU's water strategy emphasizes the need for standardisation in sampling protocols to ensure comparability across member states, particularly in river basins like the Danube. Governments are called to jointly formulate recommendations that conform to hydromorphological standards, thereby addressing pollution and promoting the preservation of benthic invertebrates and fish populations. Continuous updates and bilateral liaisons are vital for effective governance and the protection of water resources.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:34.504657",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 198,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2491,
+      "selected_avg_freq": 1212.02
+    },
+    "related_words": [
+      "phytoplankton",
+      "macrophytes",
+      "phytobenthos",
+      "hydromorphological",
+      "liaisons",
+      "regensburg",
+      "benthic",
+      "invertebrates",
+      "danube",
+      "fifteen",
+      "attaches",
+      "formulate",
+      "basin",
+      "boundaries",
+      "cen",
+      "ecological",
+      "addressing",
+      "iso",
+      "preservation",
+      "generated",
+      "class",
+      "comparability",
+      "biological",
+      "parameters",
+      "standardisation",
+      "ones",
+      "pollution",
+      "perform",
+      "sampling",
+      "protocols"
+    ],
+    "prompt_length": 1710,
+    "category": "5211 natural environment"
+  }
+}

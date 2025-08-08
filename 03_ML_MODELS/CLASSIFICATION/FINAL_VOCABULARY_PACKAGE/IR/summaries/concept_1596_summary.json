@@ -1,0 +1,63 @@
+{
+  "concept_id": "1596",
+  "concept_data": {
+    "title": "health standard",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "health legislation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"health standard,\" which redirects to \"health legislation,\" encompasses a framework of EU regulations aimed at ensuring public health safety and efficacy in various sectors. This includes the regulation of pasteurized products, the thawing processes of food items, and the identification of specific serovars in health-related contexts. Health legislation addresses issues such as the management of slaughterhouses, the handling of haemorrhagic conditions, and the monitoring of gyrodactylosis in aquatic species. It also encompasses the specificity of preparations for clinical trials and the legalities surrounding the docking and clipping of animals. By establishing rigorous health standards, the EU aims to prevent incompetent practices and ensure the safety of community health, thus fostering a robust regulatory environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:16.622648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 3248,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 7.026666666666666
+    },
+    "related_words": [
+      "pasteurized",
+      "thawing",
+      "thawed",
+      "degreased",
+      "docking",
+      "clipping",
+      "tearing",
+      "incompetent",
+      "piercing",
+      "haermorrhagic",
+      "hattop",
+      "kbr",
+      "itineraries",
+      "filming",
+      "intracerebral",
+      "icpi",
+      "perparations",
+      "karnten",
+      "karpu",
+      "fiskbæk",
+      "gudenåen",
+      "halkær",
+      "storåen",
+      "bohv",
+      "identifications",
+      "treay",
+      "castration",
+      "graciosa",
+      "corvo",
+      "killings"
+    ],
+    "prompt_length": 1704,
+    "category": "2841 health"
+  }
+}

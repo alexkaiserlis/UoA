@@ -1,0 +1,63 @@
+{
+  "concept_id": "1230",
+  "concept_data": {
+    "title": "Hamburg (Free Hanseatic City of)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Hamburg",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Hamburg (Free Hanseatic City of)\" is a significant region within the EU Member States, specifically categorized under 7211. This concept redirects to the preferred term \"Hamburg,\" which is central to various legal and regulatory frameworks. In the context of EU policies, Hamburg plays a pivotal role in areas such as biotopschutz, with implications for environmental management and urban planning. The city's extensive districts engage in shipbuilding and modernization efforts, while also addressing the repercussions of inflation on local economies. Furthermore, Hamburg's allocation of ERDF funds emphasizes rationalization and additionality in projects, ensuring lasting benefits through indexed verifications and environmentally sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:17:55.559688",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 410,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 961,
+      "selected_avg_freq": 492.58666666666664
+    },
+    "related_words": [
+      "zentrum",
+      "biotopschutz",
+      "durch",
+      "einschraenkung",
+      "bewirtschaftung",
+      "flaechen",
+      "lueneberg",
+      "refrigerating",
+      "abattoirs",
+      "renaval",
+      "hall",
+      "rebuilding",
+      "von",
+      "flower",
+      "hamburg",
+      "der",
+      "schleswig",
+      "holstein",
+      "shipbuilding",
+      "lapsed",
+      "reorganization",
+      "repercussions",
+      "demarcation",
+      "saxony",
+      "flowers",
+      "districts",
+      "ornamental",
+      "additionality",
+      "indexed",
+      "instituting"
+    ],
+    "prompt_length": 1776,
+    "category": "7211 regions of EU Member States"
+  }
+}

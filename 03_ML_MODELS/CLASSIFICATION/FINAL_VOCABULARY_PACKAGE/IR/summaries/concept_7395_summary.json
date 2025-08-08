@@ -1,0 +1,63 @@
+{
+  "concept_id": "7395",
+  "concept_data": {
+    "title": "gas supply",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"gas supply\" within EU legal and regulatory frameworks involves the comprehensive management of gas networks, ensuring the adequacy and reliability of fuel delivery to consumers, including households and industries. Regulators play a distinguished role in monitoring and safeguarding the operational integrity of these networks, particularly in times of crisis or emergency. The composition of gas supply plans actively responds to demand fluctuations, with traders and suppliers participating in a shared effort to enhance the efficiency of storage and distribution. Transparency and disclosure are essential for maintaining consumer trust, while advisers guide users on the appropriateness of various supply options, including LNG and electricity generation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:16.515051",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 183,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 2908,
+      "selected_avg_freq": 1271.42
+    },
+    "related_words": [
+      "adviser",
+      "lng",
+      "consuming",
+      "regulators",
+      "heating",
+      "distinguished",
+      "district",
+      "adequacy",
+      "household",
+      "gain",
+      "appropriateness",
+      "actively",
+      "preventive",
+      "electricity",
+      "respond",
+      "generation",
+      "fuel",
+      "sense",
+      "customers",
+      "traders",
+      "networks",
+      "disclosure",
+      "side",
+      "shared",
+      "ability",
+      "supplying",
+      "gas",
+      "play",
+      "involves",
+      "composed"
+    ],
+    "prompt_length": 1680,
+    "category": "2846 construction and town planning"
+  }
+}

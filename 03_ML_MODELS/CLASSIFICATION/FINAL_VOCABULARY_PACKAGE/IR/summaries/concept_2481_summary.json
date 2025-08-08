@@ -1,0 +1,63 @@
+{
+  "concept_id": "2481",
+  "concept_data": {
+    "title": "reorganisation of production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "production policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reorganisation of production,\" redirected to \"production policy,\" encompasses the EU's strategic approach to modernizing agricultural practices. This policy aims to rationalize and restructure production systems, addressing imbalances caused by intense competition and environmental constraints. It promotes extensification and mechanized methods, enhancing irrigation and harvesting techniques for crops like tomatoes and cotton. The policy also seeks to harmonize practices across diverse landscapes, including vineyards and lakes, while mitigating degradation of natural resources. By collectively engaging growers, the EU aims to positively impact production efficiency, ensuring that practices are both sustainable and responsive to climatic variations, such as precipitation patterns.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:00:30.376661",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 546,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 615,
+      "selected_avg_freq": 303.41333333333336
+    },
+    "related_words": [
+      "mechanized",
+      "inadvisable",
+      "reparcelling",
+      "interacts",
+      "lagoons",
+      "ginning",
+      "delimiting",
+      "coastline",
+      "rivers",
+      "imp",
+      "precipitation",
+      "extensification",
+      "charentes",
+      "constraint",
+      "restructured",
+      "vineyard",
+      "positively",
+      "unwarranted",
+      "watch",
+      "lakes",
+      "irrigation",
+      "vineyards",
+      "methodological",
+      "degradation",
+      "intense",
+      "landscape",
+      "vines",
+      "psr",
+      "tomato",
+      "imbalances"
+    ],
+    "prompt_length": 1753,
+    "category": "6406 production"
+  }
+}

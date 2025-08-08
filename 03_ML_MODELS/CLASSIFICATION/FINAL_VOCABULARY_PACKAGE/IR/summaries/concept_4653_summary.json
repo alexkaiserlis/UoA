@@ -1,0 +1,63 @@
+{
+  "concept_id": "4653",
+  "concept_data": {
+    "title": "two-wheeled vehicle",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"two-wheeled vehicle\" encompasses various motorized and non-motorized forms of transport, including bicycles and motorcycles, regulated under EU land transport legislation. This category plays a crucial role in restablishing efficient mobility solutions, particularly in urban areas. Legal frameworks address safety standards, such as the requirement for frontal lights and the use of clamps for securing loads. Additionally, the EU promotes the use of two-wheeled vehicles in initiatives aimed at calming traffic and reducing emissions. Notably, regulations also consider accessories for prams and pushchairs, ensuring comprehensive categorization. The concept is vital for fostering sustainable transport practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:29:07.192590",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2074,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 6.626666666666667
+    },
+    "related_words": [
+      "restablishing",
+      "calming",
+      "eevc",
+      "frontal",
+      "cyclocross",
+      "bestween",
+      "clamp",
+      "inches",
+      "motorized",
+      "ridden",
+      "prams",
+      "pushchairs",
+      "costituted",
+      "categores",
+      "pozzaglio",
+      "uniti",
+      "gasperi",
+      "coste",
+      "maser",
+      "motomur",
+      "ctra",
+      "mazarrón",
+      "palmar",
+      "ciclo",
+      "comercializaçaõ",
+      "grou",
+      "aguada",
+      "cima",
+      "águeda",
+      "oude"
+    ],
+    "prompt_length": 1641,
+    "category": "4816 land transport"
+  }
+}

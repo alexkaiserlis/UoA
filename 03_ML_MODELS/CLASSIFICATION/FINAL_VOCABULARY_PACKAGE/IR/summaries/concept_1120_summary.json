@@ -1,0 +1,63 @@
+{
+  "concept_id": "1120",
+  "concept_data": {
+    "title": "tropical fruit",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tropical fruit\" within EU legal and regulatory frameworks encompasses various plant products, particularly those classified under the category 6006. This includes commodities such as bananas (plátano), plantains, and kiwifruit (actinidia), which are subject to specific import quotas and regulations. The EU aims to stabilize markets by adjusting import policies and ensuring that weighers accurately assess the quality of unripened fruits. Organizations involved in the trade of tropical fruits, like musa (balbisiana and acuminata), must adhere to guidelines that address issues such as canker and the ripening process. The regulatory framework is designed to support remunerative practices and facilitate the trade of these vital agricultural products, particularly towards enhancing the market for chirimoya and pineapple.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:20:31.085871",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 2278,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 32,
+      "selected_avg_freq": 13.886666666666667
+    },
+    "related_words": [
+      "flhorban",
+      "triploide",
+      "musa",
+      "balbisiana",
+      "acuminata",
+      "laconia",
+      "ripen",
+      "hass",
+      "refrerence",
+      "weighers",
+      "banans",
+      "plaintains",
+      "particulrly",
+      "indicatives",
+      "chirimoya",
+      "dummy",
+      "finalnd",
+      "empting",
+      "remunerative",
+      "govemment",
+      "plátano",
+      "kiwifruit",
+      "commundity",
+      "impors",
+      "stabilizes",
+      "quatas",
+      "plantains",
+      "unripened",
+      "pleaded",
+      "organziations"
+    ],
+    "prompt_length": 1671,
+    "category": "6006 plant product"
+  }
+}

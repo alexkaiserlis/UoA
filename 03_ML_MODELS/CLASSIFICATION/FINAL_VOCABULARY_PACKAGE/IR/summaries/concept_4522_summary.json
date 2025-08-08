@@ -1,0 +1,63 @@
+{
+  "concept_id": "4522",
+  "concept_data": {
+    "title": "seagoing traffic",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "maritime transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"seagoing traffic,\" redirected to \"maritime transport,\" encompasses the legal and regulatory frameworks governing seaborne activities within the EU. This includes advancements in containerization and the implications of cargosharing practices, which enhance efficiency in mercantile operations. Regulatory bodies focus on the legalization of practices surrounding dirty and clean cargo, ensuring compliance with international standards. The integration of technologies such as VTMS and IGC systems is pivotal for safe navigation, buoyage, and the management of traffic in busy waterways. Additionally, the partitioned responsibilities among sailors, shipowners, and port authorities are crucial for maintaining operational integrity and addressing the challenges posed by chemical and reefer transport.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:20.402629",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 3054,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.993333333333333
+    },
+    "related_words": [
+      "biffex",
+      "anderson",
+      "servieces",
+      "coley",
+      "harper",
+      "lynch",
+      "fenner",
+      "fixture",
+      "dirty",
+      "intex",
+      "seaborne",
+      "conquet",
+      "coquet",
+      "ouessant",
+      "buoyage",
+      "sailors",
+      "corsen",
+      "attuned",
+      "cargosharing",
+      "mercantile",
+      "nicosia",
+      "abovementional",
+      "alreday",
+      "possibilty",
+      "containerization",
+      "legalization",
+      "igc",
+      "partitioned",
+      "clinker",
+      "reefer"
+    ],
+    "prompt_length": 1714,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1822",
+  "concept_data": {
+    "title": "Martinique",
+    "category_code": "7241",
+    "category_name": "overseas countries and territories",
+    "category_full": "7241 overseas countries and territories",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Martinique, categorized under overseas countries and territories (OCTs) within the EU framework, is subject to specific legal and regulatory considerations. The region has witnessed unrest, prompting the need for regularisations to address socio-economic challenges. Notably, the production of alcohols, particularly rums, is significant, with distilleries generating substantial revenues. Regulatory measures include the stamping of bottles and the management of cotisation related to alcohol sales. Additionally, the EU has forecasted economic impacts that may result in unaccounted wages and the need for deferral of certain obligations. The complexities of these regulations are compounded by global market dynamics and local conditions, including health concerns like anaplasmosis and babesiosis affecting livestock.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:39:24.057562",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 915,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 294,
+      "selected_avg_freq": 137.24666666666667
+    },
+    "related_words": [
+      "unrest",
+      "regularisations",
+      "cveds",
+      "lakonia",
+      "unaccounted",
+      "hlpa",
+      "cotisation",
+      "boissons",
+      "alcooliques",
+      "vignette",
+      "sociale",
+      "vss",
+      "immoderate",
+      "anaplasmosis",
+      "babesiosis",
+      "cowdriosis",
+      "bip",
+      "rums",
+      "shed",
+      "cved",
+      "undistorted",
+      "underestimated",
+      "forecasted",
+      "witnessed",
+      "regularisation",
+      "bigger",
+      "generates",
+      "alcohols",
+      "endorsing",
+      "crete"
+    ],
+    "prompt_length": 1681,
+    "category": "7241 overseas countries and territories"
+  }
+}

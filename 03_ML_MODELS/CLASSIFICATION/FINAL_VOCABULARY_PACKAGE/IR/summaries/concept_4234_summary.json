@@ -1,0 +1,63 @@
+{
+  "concept_id": "4234",
+  "concept_data": {
+    "title": "breadwinner",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"breadwinner\" refers to the individual primarily responsible for the financial maintenance of a family. This concept is governed by various international frameworks, including the Hague Convention, which streamlines matters of family law across jurisdictions. The breadwinner's obligations may include child maintenance and support, which are crucial for ensuring the welfare of dependents. In conjunction with mutual recognition principles, EU member states, such as Denmark and Ireland, are bound to accept and enforce maintenance decisions. The integration of these legal frameworks allows for effective recovery of support across borders, ensuring justice and security for families worldwide.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:31.818342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1767.5809523809523
+    },
+    "related_words": [
+      "streamlined",
+      "hague",
+      "reservations",
+      "child",
+      "virtually",
+      "sign",
+      "dealt",
+      "accede",
+      "worldwide",
+      "judicial",
+      "family",
+      "jurisdiction",
+      "alone",
+      "signing",
+      "declarations",
+      "enforcement",
+      "accept",
+      "competence",
+      "governed",
+      "recovery",
+      "freedom",
+      "approve",
+      "bound",
+      "integration",
+      "maintenance",
+      "mutual",
+      "recognition",
+      "justice",
+      "good",
+      "allows"
+    ],
+    "prompt_length": 1663,
+    "category": "2806 family"
+  }
+}

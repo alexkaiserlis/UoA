@@ -1,0 +1,63 @@
+{
+  "concept_id": "4722",
+  "concept_data": {
+    "title": "sparkling wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"sparkling wine\" refers to beverages characterized by their effervescence, produced through specific fermentation methods such as méthode champenoise or tsschaumwein. The production process involves tirage and bottling techniques that ensure quality and exclusiveness, with producers adhering to strict regulations to maintain the reputation of their brands. The term encompasses various types, including sekt and cuvée, each denoting unique characteristics. Regulatory bodies, such as the OIV, dictate standards for viticulture practices, fermentation processes, and labeling to prevent misleading information. The role of vendors and bottlers is crucial in ensuring that sparkling wines meet established quality criteria, thereby preserving their renown and guaranteeing the origin of the product.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:38:56.699131",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 807,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 337,
+      "selected_avg_freq": 159.42
+    },
+    "related_words": [
+      "tirage",
+      "stirrers",
+      "sekt",
+      "ruels",
+      "prducers",
+      "spéciale",
+      "hausmarke",
+      "méthode",
+      "exclusiveness",
+      "măšthode",
+      "tsschaumwein",
+      "garantierten",
+      "ursprungs",
+      "cuvée",
+      "champenoise",
+      "singled",
+      "bottler",
+      "vendors",
+      "qualită",
+      "renown",
+      "pour",
+      "denoting",
+      "vendor",
+      "viticulture",
+      "oiv",
+      "lees",
+      "capsule",
+      "sunshine",
+      "dictates",
+      "uninterruptedly"
+    ],
+    "prompt_length": 1663,
+    "category": "6021 beverages and sugar"
+  }
+}

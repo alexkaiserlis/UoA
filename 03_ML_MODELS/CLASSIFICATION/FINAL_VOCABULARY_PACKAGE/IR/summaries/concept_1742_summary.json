@@ -1,0 +1,63 @@
+{
+  "concept_id": "1742",
+  "concept_data": {
+    "title": "job preservation",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Job preservation refers to the EU's regulatory efforts aimed at stabilizing employment in sectors facing competition and economic challenges. This concept is particularly relevant in the context of industries like coal mining, where dwindling resources and unprofitable operations have led to significant job losses. The EU promotes retraining and redeployment initiatives to support miners and skilled workers affected by these changes. By scrutinizing the impacts of relocation and resettlement, the EU aims to remedy the situation, ensuring that employment opportunities are not merely dropped but rather apportioned in a manner that is favourable to both workers and the economy. The promise of job preservation is a tangible commitment to maintaining a skilled workforce while adapting to the evolving market landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:45.231901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 672,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 380,
+      "selected_avg_freq": 174.39333333333335
+    },
+    "related_words": [
+      "comptetition",
+      "anxious",
+      "promise",
+      "spectacular",
+      "briquette",
+      "dwindling",
+      "winning",
+      "retraining",
+      "relocated",
+      "scrutinizing",
+      "doubling",
+      "resettlement",
+      "pit",
+      "owning",
+      "redeployment",
+      "miners",
+      "feel",
+      "steam",
+      "coalfields",
+      "pits",
+      "relocation",
+      "unprofitable",
+      "goes",
+      "coking",
+      "miquelon",
+      "stabilized",
+      "employs",
+      "ncb",
+      "keen",
+      "definite"
+    ],
+    "prompt_length": 1652,
+    "category": "4406 employment"
+  }
+}

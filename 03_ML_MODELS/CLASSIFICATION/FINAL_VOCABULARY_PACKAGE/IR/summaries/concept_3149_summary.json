@@ -1,0 +1,63 @@
+{
+  "concept_id": "3149",
+  "concept_data": {
+    "title": "marine life",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"marine life\" encompasses diverse ecosystems, including deepwater habitats like lophelia pertusa mounds and coral reefs, which are critical for various marine fauna and flora. EU legal frameworks, such as the OSPAR Convention, aim to protect these habitats from threats like trawling and biotoxins. Regulations mandate the inspection of fishing gears and the relaying of species, including bivalves and gastropods, to ensure sanitary conditions. The exploration and mapping of these habitats are vital for understanding juvenile aggregations and the impacts of demersal trawls. Effective quarantine measures are essential for safeguarding endangered species and maintaining ecological balance in surrounding waters.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:40:49.724612",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 343,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 981,
+      "selected_avg_freq": 416.31333333333333
+    },
+    "related_words": [
+      "lophelia",
+      "pertusa",
+      "darwin",
+      "mounds",
+      "aqis",
+      "aggregations",
+      "corals",
+      "mapped",
+      "reefs",
+      "deepwater",
+      "coral",
+      "trawling",
+      "ospar",
+      "plankton",
+      "biotoxins",
+      "habitat",
+      "trawl",
+      "inspecting",
+      "relaying",
+      "demersal",
+      "fora",
+      "bottom",
+      "echinoderms",
+      "tunicates",
+      "juveniles",
+      "diverse",
+      "trawls",
+      "toxins",
+      "towed",
+      "gastropods"
+    ],
+    "prompt_length": 1651,
+    "category": "5211 natural environment"
+  }
+}

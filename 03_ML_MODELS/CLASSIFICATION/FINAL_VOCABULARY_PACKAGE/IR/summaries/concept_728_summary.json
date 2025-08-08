@@ -1,0 +1,63 @@
+{
+  "concept_id": "728",
+  "concept_data": {
+    "title": "issue of securities",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"issue of securities\" pertains to the regulatory framework governing the issuance and circulation of financial instruments within the EU, facilitating the free movement of capital. This process alleviates barriers for handlers and designers of securities, ensuring compliance with GAAP and IFRS standards. It encompasses various aspects, including the preparation of prospectuses, announcements, and advertisements to inform potential investors. The issuance can involve reissued or unlisted securities, with considerations for retroactivity and the potential for counterfeit reproductions. Regulatory bodies oversee the minting of securities, ensuring that theft and robbery are mitigated through stringent protocols. The decentralisation of securities markets promotes a plurality of investment options, while accountants and NCBs play crucial roles in reconciling financial statements and managing subscription processes.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:14.894813",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 685,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 302,
+      "selected_avg_freq": 120.49333333333334
+    },
+    "related_words": [
+      "plurality",
+      "reissued",
+      "vending",
+      "announcements",
+      "asbe",
+      "unlisted",
+      "mutilated",
+      "coarse",
+      "sided",
+      "handlers",
+      "designers",
+      "smp",
+      "alleviates",
+      "theft",
+      "reproductions",
+      "banknote",
+      "resubmit",
+      "remunerated",
+      "chartered",
+      "prospectuses",
+      "accrues",
+      "shaped",
+      "accountants",
+      "acknowledgement",
+      "gaap",
+      "reproduce",
+      "blind",
+      "converge",
+      "repatriation",
+      "edge"
+    ],
+    "prompt_length": 1714,
+    "category": "2421 free movement of capital"
+  }
+}

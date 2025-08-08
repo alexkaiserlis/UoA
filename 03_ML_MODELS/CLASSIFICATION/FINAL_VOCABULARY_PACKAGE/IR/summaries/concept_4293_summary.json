@@ -1,0 +1,26 @@
+{
+  "concept_id": "4293",
+  "concept_data": {
+    "title": "energy storage",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Energy storage refers to the technologies and systems that capture and store energy for later use, playing a crucial role in the EU's energy policy framework. As the EU transitions towards a sustainable energy system, energy storage solutions are essential for balancing supply and demand, integrating renewable energy sources, and enhancing grid stability. Regulatory frameworks, such as the Clean Energy for All Europeans package, emphasize the importance of energy storage in achieving climate goals. The EU encourages investment in innovative storage technologies to facilitate energy transition, improve energy efficiency, and ensure security of supply across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:46:40.025229",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1167,
+    "category": "6606 energy policy"
+  }
+}

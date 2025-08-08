@@ -1,0 +1,63 @@
+{
+  "concept_id": "4369",
+  "concept_data": {
+    "title": "European system of national and regional accounts in the European Union",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": true,
+    "preferred_term": "European accounting system",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European system of national and regional accounts in the European Union,\" commonly referred to as the \"European accounting system,\" is crucial for ensuring the exhaustiveness and credibility of economic data across member states. This multilaterial framework accommodates various notions of economic indicators, including GNP and GNI, while adhering to strict standards set by Eurostat. It hinges on the accurate interpretation of data, allowing for reclassification and backdata adjustments. The system also involves the use of swaps and intermediation techniques to streamline financial settlements. By employing predictors and accommodating undistributed earnings, it ensures a fair and impartial representation of economic activities, crucially impacting policy decisions made by the ECOFIN Council.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:49:46.089389",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 910,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 274,
+      "selected_avg_freq": 120.62666666666667
+    },
+    "related_words": [
+      "unrounded",
+      "fras",
+      "multilaterial",
+      "predictors",
+      "ucis",
+      "undistributed",
+      "backdata",
+      "notions",
+      "subscribers",
+      "nominating",
+      "fisim",
+      "exhaustiveness",
+      "infra",
+      "swap",
+      "literal",
+      "ascending",
+      "subtracting",
+      "intermediation",
+      "cmfb",
+      "fairest",
+      "crucially",
+      "accommodated",
+      "hinges",
+      "efrag",
+      "gnpmp",
+      "decimal",
+      "descending",
+      "interpret",
+      "gni",
+      "reclassification"
+    ],
+    "prompt_length": 1794,
+    "category": "1626 national accounts"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "628",
+  "concept_data": {
+    "title": "European school",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European school\" concept pertains to an institutional framework designed to facilitate educational exchanges and reinforce synergies among EU member states. Governed by the European Schools system, it implements obligatory courses that align with the educational standards set forth by the European Union. The European School serves as a precondition for fostering a wider understanding of EU affairs among its personnel, including secretaries and officials. It is administratively supported by a steering committee, which exercises oversight and ensures that the curriculum is endowed with professional relevance. The institution also plays a crucial role in transmitting knowledge and reinforcing networks among member states, thereby enhancing the collective defence of shared values.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:06:45.467314",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 188,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2740,
+      "selected_avg_freq": 1042.16
+    },
+    "related_words": [
+      "esdc",
+      "secretaries",
+      "dictates",
+      "ombudsman",
+      "comittee",
+      "registrar",
+      "college",
+      "precondition",
+      "endowed",
+      "administratively",
+      "courses",
+      "attachment",
+      "synergies",
+      "school",
+      "transmitting",
+      "servants",
+      "signatory",
+      "reinforcing",
+      "obligatory",
+      "steering",
+      "implements",
+      "exercising",
+      "leaves",
+      "institutional",
+      "auditors",
+      "facilitated",
+      "reinforced",
+      "personnel",
+      "places",
+      "wider"
+    ],
+    "prompt_length": 1699,
+    "category": "3211 teaching"
+  }
+}

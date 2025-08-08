@@ -1,0 +1,63 @@
+{
+  "concept_id": "3483",
+  "concept_data": {
+    "title": "reprisals",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "international sanctions",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"reprisals\" refers to actions taken against states or entities in response to violations of international norms, often manifesting as \"international sanctions.\" These sanctions may target infrastructure, such as the bunkering of vessels, or involve unfreezing assets linked to individuals like Babak Zanjani or entities like Iran's Hafize Darya. The EU employs sanctions to pacify aggressive actions, deter abduction or maiming, and promote compliance with UNSCRs. Such measures can impact various sectors, including those associated with companies like Safiran and Kompressor, while aiming to uphold human rights and stability in regions like Persia and Misr.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:04.406412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2518,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.366666666666666
+    },
+    "related_words": [
+      "qaeda",
+      "samir",
+      "bushehr",
+      "hafize",
+      "darya",
+      "hdsl",
+      "irano",
+      "misr",
+      "irinvestship",
+      "khazar",
+      "leadmarine",
+      "safiran",
+      "payam",
+      "sapid",
+      "soroush",
+      "saramin",
+      "asatir",
+      "valfajr",
+      "unscrs",
+      "infrastucture",
+      "fereydoun",
+      "mahmoudian",
+      "fulmen",
+      "uladzimir",
+      "uladzimiravich",
+      "makei",
+      "bunkering",
+      "aboard",
+      "babak",
+      "zanjani"
+    ],
+    "prompt_length": 1677,
+    "category": "0806 international affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5324",
+  "concept_data": {
+    "title": "driving school",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "driving instruction",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"driving school,\" redirected to \"driving instruction,\" encompasses the regulatory framework governing the training of drivers within the EU. This framework aims to ensure that drivers are equipped with the necessary skills to operate vehicles safely, thereby averting accidents and enhancing road safety. Driving instruction addresses various aspects, including the fitness of drivers, the impact of obstructive sleep apnoea on driving abilities, and the importance of modern, environmentally friendly vehicles, such as electric and hybrid models. The EU's regulatory demands also focus on accommodating diverse driving conditions, including tunnels and leisure activities, ensuring that driving schools are equipped to provide comprehensive, theoretical, and practical training. By fostering safer driving practices and promoting utility, the EU seeks to progress towards a more efficient transport policy, ultimately fighting pollution and enhancing public safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:41.525969",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 286,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1199,
+      "selected_avg_freq": 517.86
+    },
+    "related_words": [
+      "averting",
+      "apnoea",
+      "overloaded",
+      "researches",
+      "sleep",
+      "tunnel",
+      "obstructive",
+      "leisure",
+      "theory",
+      "abilities",
+      "progressed",
+      "tunnels",
+      "motorcycles",
+      "editorial",
+      "heterogeneous",
+      "utility",
+      "polluting",
+      "annexe",
+      "ignored",
+      "fitness",
+      "syndrome",
+      "accommodation",
+      "drive",
+      "theoretical",
+      "safer",
+      "understand",
+      "drivers",
+      "explaining",
+      "fighting",
+      "hybrid"
+    ],
+    "prompt_length": 1719,
+    "category": "4806 transport policy"
+  }
+}

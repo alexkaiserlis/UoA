@@ -1,0 +1,63 @@
+{
+  "concept_id": "3944",
+  "concept_data": {
+    "title": "crime against property",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"crime against property\" encompasses various offenses that infringe upon personal and collective property rights within the EU legal framework. These crimes, which include theft, vandalism, and fraud, are addressed through a series of conventions and decisions by the Council of the European Union. Europol plays a crucial role in countering such crimes by instructing police forces and facilitating cooperation among member states. The implications of property crimes extend to the management of resources, requiring budgetary considerations for law enforcement staffing and activities. The principle of freedom and security within the Union necessitates a concerted effort to combat these offenses, ensuring that the establishment of effective legal measures is prioritized.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:12.620403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 45,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 45,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1315.4444444444443
+    },
+    "related_words": [
+      "instructing",
+      "conscious",
+      "limb",
+      "instruct",
+      "crimes",
+      "staffing",
+      "terrorist",
+      "terrorism",
+      "europol",
+      "police",
+      "counter",
+      "preparatory",
+      "implications",
+      "property",
+      "deal",
+      "life",
+      "committed",
+      "freedom",
+      "personal",
+      "board",
+      "separate",
+      "course",
+      "office",
+      "budgetary",
+      "takes",
+      "reached",
+      "convention",
+      "consideration",
+      "likely",
+      "work"
+    ],
+    "prompt_length": 1607,
+    "category": "1216 criminal law"
+  }
+}

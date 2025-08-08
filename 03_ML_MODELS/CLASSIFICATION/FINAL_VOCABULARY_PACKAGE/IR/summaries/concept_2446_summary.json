@@ -1,0 +1,26 @@
+{
+  "concept_id": "2446",
+  "concept_data": {
+    "title": "food policy",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Food policy within the European Union encompasses a comprehensive framework of legal and regulatory measures aimed at ensuring food safety, quality, and sustainability. It integrates various aspects of public health, agricultural practices, and environmental protection. The EU's food policy is guided by principles that promote consumer protection, enhance food security, and support the agricultural economy. It involves collaboration among member states to harmonize standards and regulations, ensuring compliance with EU directives. This policy is pivotal in addressing contemporary challenges such as foodborne illnesses and the impact of climate change on food systems, thereby safeguarding public health and promoting sustainable practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:31.462403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1157,
+    "category": "2841 health"
+  }
+}

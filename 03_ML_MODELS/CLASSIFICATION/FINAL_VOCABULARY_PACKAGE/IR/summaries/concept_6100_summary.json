@@ -1,0 +1,63 @@
+{
+  "concept_id": "6100",
+  "concept_data": {
+    "title": "quality control of agricultural products",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"quality control of agricultural products\" within EU agricultural policy encompasses a comprehensive regulatory framework aimed at ensuring the safety and quality of food products. This includes monitoring for contaminants such as scurf and scab, and addressing issues related to pathogens like synchytrium and heterodera. The establishment of rigorous standards is essential for the certification (sertifikasyon) of agricultural goods, ensuring they meet EU directives. Moreover, the redrafting of regulations may involve the amalgamation of various quality parameters, including the assessment of digestate and the use of fertilizers like diammonium and monocalciumphosphate. Effective quality control also requires proficient management of agricultural practices to prevent issues such as shrivelled produce and overlong growth cycles. The role of organizations in implementing these standards is crucial for maintaining agricultural integrity and consumer trust.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:57.438902",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 1286,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 68,
+      "selected_avg_freq": 26.713333333333335
+    },
+    "related_words": [
+      "scurf",
+      "scab",
+      "spieck",
+      "kotth",
+      "skapt",
+      "burkh",
+      "byralstonia",
+      "overlong",
+      "hagberg",
+      "incubator",
+      "synchytrium",
+      "endobioticum",
+      "schilb",
+      "perc",
+      "heterodera",
+      "woll",
+      "agreco",
+      "göderz",
+      "sertifikasyon",
+      "ști",
+      "organización",
+      "bra",
+      "fujikuroi",
+      "pbtc",
+      "proficient",
+      "powdery",
+      "establishement",
+      "redrafting",
+      "overheated",
+      "digestate"
+    ],
+    "prompt_length": 1731,
+    "category": "5606 agricultural policy"
+  }
+}

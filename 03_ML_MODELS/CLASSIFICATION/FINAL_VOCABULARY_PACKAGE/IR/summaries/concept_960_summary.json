@@ -1,0 +1,63 @@
+{
+  "concept_id": "960",
+  "concept_data": {
+    "title": "criminal bankruptcy",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "bankruptcy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"criminal bankruptcy,\" a redirect to the preferred term \"bankruptcy,\" pertains to the legal framework governing insolvency proceedings within the EU. This framework involves codifying regulations that ensure liquidators manage winding-up processes effectively. Various member states, including Slovakia, Latvia, and Romania, have acceded to initiatives aimed at harmonizing bankruptcy legislation. The codification of these laws provides certainty for participating entities and outlines the necessary procedures for notification and amendment. Furthermore, the protocol includes annexes detailing the designations of involved parties, ensuring that all amendments are duly applied across jurisdictions such as Greece, Italy, and Poland.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:39.551169",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 114,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 114,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1968.342105263158
+    },
+    "related_words": [
+      "codifying",
+      "liquidators",
+      "winding",
+      "insolvency",
+      "codification",
+      "acceded",
+      "secretariat",
+      "designations",
+      "codified",
+      "proceedings",
+      "replacing",
+      "slovak",
+      "modify",
+      "wish",
+      "participating",
+      "bound",
+      "certainty",
+      "latvia",
+      "lithuania",
+      "luxembourg",
+      "cyprus",
+      "czech",
+      "initiative",
+      "bulgaria",
+      "romania",
+      "poland",
+      "notice",
+      "subsequently",
+      "lists",
+      "greece"
+    ],
+    "prompt_length": 1717,
+    "category": "4006 business organisation"
+  }
+}

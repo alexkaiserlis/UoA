@@ -1,0 +1,63 @@
+{
+  "concept_id": "3460",
+  "concept_data": {
+    "title": "residence",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"residence\" pertains to the status of individuals, particularly citizens and migrants, who reside within a jurisdiction. This concept is enshrined in various norms, affecting rights related to emoluments, social security, and access to services. The complexities of residence can lead to issues such as disqualification from benefits or conflicts in candidacy for municipal roles. Legislators must navigate the history of residency laws, addressing the needs of seekers of asylum and ensuring that attachments to family, such as a spouse, are recognized. The Tampere conclusions emphasized the importance of a definite legal framework to support successful intermediation and protect against deprivation of rights.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:34:31.543034",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 731,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 312,
+      "selected_avg_freq": 137.05333333333334
+    },
+    "related_words": [
+      "conflicted",
+      "incapacity",
+      "proclaimed",
+      "promises",
+      "disqualification",
+      "seeker",
+      "intemediaries",
+      "pii",
+      "intermediated",
+      "corollary",
+      "candidacy",
+      "mortgages",
+      "complexities",
+      "spouse",
+      "substitutions",
+      "intermediation",
+      "illness",
+      "attachments",
+      "deletions",
+      "deprivation",
+      "hierarchy",
+      "stipulation",
+      "legislator",
+      "mortgage",
+      "correlated",
+      "appealed",
+      "insurers",
+      "municipal",
+      "residential",
+      "reside"
+    ],
+    "prompt_length": 1729,
+    "category": "2816 demography and population"
+  }
+}

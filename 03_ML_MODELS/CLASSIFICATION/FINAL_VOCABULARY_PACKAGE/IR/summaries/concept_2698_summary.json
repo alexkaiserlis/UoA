@@ -1,0 +1,63 @@
+{
+  "concept_id": "2698",
+  "concept_data": {
+    "title": "budgetary procedure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"budgetary procedure\" within the EU framework encompasses the systematic process of preparing, adopting, and executing the budget, crucial for mobilising resources across member states. This procedure is vital for addressing challenges such as flooding in regions like Galicia or redundancies in the automotive sector, including firms like Danfoss and Unilever. It involves earmarked funds for specific agendas, such as the reintegration of affected towns in the Balkans. The procedure also facilitates the discharge of financial responsibilities and encourages solidarity among member states, ensuring that resources are allocated effectively to support reconstruction and address globalisation impacts.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:48:21.902181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 349,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 937,
+      "selected_avg_freq": 435.47333333333336
+    },
+    "related_words": [
+      "podkarpackie",
+      "automoción",
+      "danfoss",
+      "qimonda",
+      "wearing",
+      "cataluña",
+      "spol",
+      "unilever",
+      "towns",
+      "utrecht",
+      "noord",
+      "nordjylland",
+      "apparel",
+      "contiguous",
+      "limburg",
+      "reading",
+      "holland",
+      "mounted",
+      "flooding",
+      "galicia",
+      "struck",
+      "shorten",
+      "egf",
+      "earmarked",
+      "balkans",
+      "redundancies",
+      "foundation",
+      "printing",
+      "nace",
+      "substituted"
+    ],
+    "prompt_length": 1684,
+    "category": "2441 budget"
+  }
+}

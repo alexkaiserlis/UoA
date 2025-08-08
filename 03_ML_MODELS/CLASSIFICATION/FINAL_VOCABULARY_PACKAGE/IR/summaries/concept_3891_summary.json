@@ -1,0 +1,63 @@
+{
+  "concept_id": "3891",
+  "concept_data": {
+    "title": "Sardinia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sardinia, categorized under regions of EU Member States, plays a crucial role in various legal and regulatory frameworks. The island's unique geographical position fosters a booming maritime economy, with initiatives like metanizzazione aimed at enhancing energy efficiency. Sardinia's administration actively promotes the reutilization of resources, particularly in steelmaking and combustible sectors, ensuring sustainable practices. The region's professional enterprises, including navieras and líneas regulares, contribute to its economic landscape, while measures to contest indisputable environmental challenges are implemented. Additionally, the involvement of Euroinvest in local projects, such as the development of catamarans and tugs, exemplifies the commitment to enhancing regional infrastructure and economic efficacy.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:03:58.888641",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1609,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 72,
+      "selected_avg_freq": 28.893333333333334
+    },
+    "related_words": [
+      "metanizzazione",
+      "sarde",
+      "fas",
+      "reutilization",
+      "reutilized",
+      "perpendiculars",
+      "belvedere",
+      "marittimo",
+      "euroinvest",
+      "booming",
+      "locted",
+      "spezia",
+      "catamarans",
+      "eradicaction",
+      "sardo",
+      "meassures",
+      "anela",
+      "bultei",
+      "ferriere",
+      "calangianus",
+      "gallura",
+      "telti",
+      "pso",
+      "alghero",
+      "surety",
+      "alitalia",
+      "merdiana",
+      "profesional",
+      "navieras",
+      "líneas"
+    ],
+    "prompt_length": 1678,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7944",
+  "concept_data": {
+    "title": "traffic offence",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"traffic offence\" within EU criminal law encompasses a range of serious infringements committed by drivers that can lead to significant consequences, including injury or death. The categorisation of these offences is crucial for ensuring compliance with harmonised safety standards across member states. EU legislation aims to create a fairer transport system by introducing minimum guidelines that facilitate the recording and rating of offences based on their gravity. This harmonisation allows for a clearer understanding of the risks associated with road transport and the ability to adapt regulations accordingly. Ultimately, these efforts contribute to a safer road environment and promote competition among undertakings in the transport sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:56.187371",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 110,
+      "requested_words": 150,
+      "min_frequency_found": 39,
+      "max_frequency_found": 4108,
+      "selected_words": 110,
+      "selected_min_freq": 39,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1960.1
+    },
+    "related_words": [
+      "fairer",
+      "categorisation",
+      "rating",
+      "gravity",
+      "death",
+      "driver",
+      "facilitated",
+      "infringements",
+      "depend",
+      "divided",
+      "ability",
+      "recording",
+      "nos",
+      "injury",
+      "road",
+      "harmonisation",
+      "step",
+      "committed",
+      "personal",
+      "certainty",
+      "consequences",
+      "create",
+      "inclusion",
+      "harmonised",
+      "range",
+      "guidance",
+      "guidelines",
+      "equipment",
+      "rule",
+      "undertaking"
+    ],
+    "prompt_length": 1676,
+    "category": "1216 criminal law"
+  }
+}

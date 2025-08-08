@@ -1,0 +1,63 @@
+{
+  "concept_id": "3586",
+  "concept_data": {
+    "title": "scientist",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "scientific profession",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"scientist,\" redirected to \"scientific profession,\" encompasses individuals engaged in research and intellectual property within the EU framework. This profession is vital for the evaluation of data and statistics, contributing to fields like pharmacovigilance and econometrics. Institutions such as the University of California, Princeton, and McGill foster researchers who advance knowledge and innovation. The regulatory landscape often involves antifraud measures and the appointment of faculty to ensure integrity in research. Additionally, organizations like the Drees Center and the Woodrow Wilson Foundation support initiatives aimed at youth wellbeing and sports research, enhancing the overall impact of scientific endeavors across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:50.022877",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 228,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1732,
+      "selected_avg_freq": 555.2533333333333
+    },
+    "related_words": [
+      "resigns",
+      "évaluation",
+      "statistiques",
+      "drees",
+      "animation",
+      "dares",
+      "rfsuny",
+      "eläketurvakeskus",
+      "etk",
+      "wellbeing",
+      "chw",
+      "wilson",
+      "princeton",
+      "rady",
+      "econometrics",
+      "antifraud",
+      "uic",
+      "sabanci",
+      "tuzla",
+      "mcgill",
+      "atkinson",
+      "uofc",
+      "woodrow",
+      "albany",
+      "diego",
+      "recherche",
+      "ontario",
+      "sera",
+      "liberal",
+      "esaf"
+    ],
+    "prompt_length": 1689,
+    "category": "6416 research and intellectual property"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4827",
+  "concept_data": {
+    "title": "vessel",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"vessel\" encompasses a broad range of watercraft, including submersible units and dynamically positioned barges. The regulatory framework, governed by entities such as DNV and RINA, mandates rigorous inspections and certifications to ensure safety and compliance. Uninspected vessels face detentions, while mercantile operations must adhere to standards set forth in registries like the hrvatski registar brodova. Investigations into unsubstantiated claims may lead to dismissals of non-compliant vessels. Moreover, the role of surveyors is critical in assessing the seaworthiness of vessels, which span from traditional crafts to modern innovations like Yamaha and Honda engines.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:41:16.600960",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2538,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.533333333333333
+    },
+    "related_words": [
+      "det",
+      "veritas",
+      "germanischer",
+      "dnv",
+      "stiftelsen",
+      "sdnv",
+      "mayfair",
+      "umbrella",
+      "northampton",
+      "honda",
+      "suzuki",
+      "hamamatsu",
+      "tohatsu",
+      "yamaha",
+      "offenbach",
+      "verviers",
+      "heppenheim",
+      "chessington",
+      "investigaiton",
+      "dismissals",
+      "unsubstantiated",
+      "unterdakings",
+      "submersible",
+      "drills",
+      "dynamically",
+      "norske",
+      "regaining",
+      "detentions",
+      "mercantile",
+      "nicosia"
+    ],
+    "prompt_length": 1693,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

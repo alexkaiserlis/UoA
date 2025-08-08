@@ -1,0 +1,63 @@
+{
+  "concept_id": "282",
+  "concept_data": {
+    "title": "social expenditure",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "social cost",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"social expenditure,\" redirected to the preferred term \"social cost,\" encompasses the financial implications of policies aimed at supporting dependants, retired miners, and communities affected by privatization of coalfields. This includes costs associated with the redevelopment of mothballed pits and the reauthorization of concessions for mining operations. The staggering social costs arise from issues like subsidence and methane venting, which impact geological stability. Furthermore, the privatization of state-owned entities, such as Hunosa, necessitates careful consideration of inherited liabilities and the need to defray costs for unworked mines. The EU welcomes initiatives that ensure smokeless energy transitions while supporting affected communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:46:07.230095",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 527,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 469,
+      "selected_avg_freq": 169.1
+    },
+    "related_words": [
+      "fiaredo",
+      "seam",
+      "dela",
+      "redevelopment",
+      "selve",
+      "nscct",
+      "reauthorizing",
+      "goitre",
+      "retransferred",
+      "figaredo",
+      "camocha",
+      "mothballed",
+      "rjb",
+      "subsidence",
+      "concessionary",
+      "hunosa",
+      "dependants",
+      "privatize",
+      "mina",
+      "anthracite",
+      "tower",
+      "defray",
+      "reauthorize",
+      "unworked",
+      "venting",
+      "irrecoverable",
+      "tips",
+      "inherited",
+      "pensioning",
+      "retired"
+    ],
+    "prompt_length": 1694,
+    "category": "2826 social affairs"
+  }
+}

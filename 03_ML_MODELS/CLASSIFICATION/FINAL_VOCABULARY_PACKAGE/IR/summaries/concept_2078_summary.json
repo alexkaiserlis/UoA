@@ -1,0 +1,63 @@
+{
+  "concept_id": "2078",
+  "concept_data": {
+    "title": "food standard",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"food standard\" refers to the established criteria governing food safety, quality, and labeling. These standards elucidate permissible levels of substances, including progestagen and ethylcarbamate, while addressing potential contaminants like butylhydroquinone and perfluoroalkylated compounds. Regulatory bodies enforce compliance to prevent nephrotoxic and immunotoxic effects, ensuring that food products, such as raisins and diglycerides, are safe for consumption. The standards also cover additives like lactitol and hexylresorcinol, which may enhance flavor or preservation. By reevaluating these standards, the EU aims to protect public health and maintain consumer trust in food safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:26.313644",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 2394,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 15,
+      "selected_avg_freq": 8.713333333333333
+    },
+    "related_words": [
+      "progestagen",
+      "secretion",
+      "luff",
+      "schoorl",
+      "ethylester",
+      "vtt",
+      "ptsa",
+      "natrolite",
+      "phonolite",
+      "erythorbic",
+      "diglycerides",
+      "butylhydroquinone",
+      "tbhq",
+      "hemicellulose",
+      "hexylresorcinol",
+      "pullulan",
+      "succinate",
+      "byssochlamys",
+      "pmtdi",
+      "lactitol",
+      "nephropathy",
+      "raisins",
+      "cleansible",
+      "walbaum",
+      "elucidate",
+      "appendages",
+      "cephalothorax",
+      "hepatopancreas",
+      "ethylcarbamate",
+      "perfluoroalkylated"
+    ],
+    "prompt_length": 1717,
+    "category": "2841 health"
+  }
+}

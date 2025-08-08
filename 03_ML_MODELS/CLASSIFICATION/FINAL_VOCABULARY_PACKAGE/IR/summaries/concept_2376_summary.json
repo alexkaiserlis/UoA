@@ -1,0 +1,63 @@
+{
+  "concept_id": "2376",
+  "concept_data": {
+    "title": "nuclear physics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nuclear physics, a vital branch of natural and applied sciences, encompasses the study of atomic particles and their interactions, particularly in educational and experimental contexts. In EU regulatory frameworks, nuclear physics is crucial for developing precision apparatus, such as goniometers and cyclotrons, which are essential for advanced experiments. Institutions like Zeiss and Siemens contribute to this field by producing detectors and electron microscopes, enhancing the understanding of nuclear properties. The EU invokes regulations to ensure that nuclear research adheres to safety standards, addressing barriers related to depleted materials and ensuring that the findings are correlated with cultural and environmental considerations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:44.767392",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1406.4666666666667
+    },
+    "related_words": [
+      "uhg",
+      "zeiss",
+      "oberkochen",
+      "elmiscop",
+      "goniometer",
+      "planar",
+      "jem",
+      "polymeric",
+      "hmg",
+      "postfach",
+      "cyclotron",
+      "ortec",
+      "jeol",
+      "microscope",
+      "carl",
+      "boschdijk",
+      "karlsruhe",
+      "detectors",
+      "electron",
+      "physics",
+      "siemens",
+      "correlated",
+      "eindhoven",
+      "beams",
+      "depleted",
+      "philips",
+      "nederland",
+      "silicon",
+      "particles",
+      "metallic"
+    ],
+    "prompt_length": 1672,
+    "category": "3606 natural and applied sciences"
+  }
+}

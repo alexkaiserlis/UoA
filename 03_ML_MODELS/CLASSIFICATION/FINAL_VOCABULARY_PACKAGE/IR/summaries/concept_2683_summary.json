@@ -1,0 +1,63 @@
+{
+  "concept_id": "2683",
+  "concept_data": {
+    "title": "average price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"average price\" in EU legal and regulatory contexts refers to a weighted arithmetic mean of prices for goods or services, often utilized in agricultural markets. This average is crucial for cooperatives and unions to appraise the value of harvested products, such as linseed or tobacco, ensuring justifiable transactions. It serves as a benchmark for quotations, helping to mitigate risks of defraud practices in slaughterhouses and boards overseeing livestock, including calves and squid. By generating a homogeneous picture of market conditions, the average price reflects attitudes towards supply shortages and influences pricing strategies for aged or ripe products, thus facilitating fair trade practices across EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:20:14.188595",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 519,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 642,
+      "selected_avg_freq": 322.1533333333333
+    },
+    "related_words": [
+      "hervested",
+      "weigthed",
+      "defraud",
+      "patagonica",
+      "transacted",
+      "coupage",
+      "quid",
+      "loligo",
+      "ripe",
+      "slowly",
+      "attitudes",
+      "chambers",
+      "squid",
+      "disregard",
+      "linseed",
+      "quotation",
+      "receipts",
+      "arithmetic",
+      "representativeness",
+      "sown",
+      "cooperatives",
+      "anymore",
+      "realized",
+      "unions",
+      "abandonment",
+      "aged",
+      "presentations",
+      "generating",
+      "picture",
+      "carcasses"
+    ],
+    "prompt_length": 1660,
+    "category": "2451 prices"
+  }
+}

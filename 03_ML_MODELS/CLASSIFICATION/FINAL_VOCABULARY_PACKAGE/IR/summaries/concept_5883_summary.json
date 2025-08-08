@@ -1,0 +1,63 @@
+{
+  "concept_id": "5883",
+  "concept_data": {
+    "title": "European System of Central Banks",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European System of Central Banks (ESCB) is a pivotal framework within the EU's monetary economics, overseeing the monetary policy of the Eurozone. It comprises the European Central Bank (ECB) and the national central banks (NCBs) of EU member states, such as the Narodna banka Hrvatske (Hrvatska), the Narodowy Bank Polski (Polski), and the Sveriges Riksbank (Sveriges). The ESCB facilitates borderless financial interoperation, ensuring the efficient transfer of funds among depositories and central securities depositories (CSDs). It also manages seigniorage and oversees the issuance of Special Drawing Rights (SDRs). The ESCB's regulatory role includes monitoring MFIs and enhancing reputational standards among overseers, contributing to a stable financial environment across member states, including Belgium (België), Romania (României), and Slovenia (Slovenija).",
+  "metadata": {
+    "generation_date": "2025-07-29T17:49:52.645561",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 986,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 113,
+      "selected_avg_freq": 45.74
+    },
+    "related_words": [
+      "depositories",
+      "csds",
+      "borderless",
+      "commoditised",
+      "seigniorage",
+      "reputational",
+      "interoperation",
+      "hrvatska",
+      "narodna",
+      "nbb",
+      "bnb",
+      "bedrijfsrevisoren",
+      "réviseurs",
+      "transfered",
+      "česká",
+      "národní",
+      "eesti",
+      "pank",
+      "magyar",
+      "nemzeti",
+      "narodowy",
+      "sveriges",
+      "riksbank",
+      "národná",
+      "stathakis",
+      "naţională",
+      "româniei",
+      "rotated",
+      "underlyings",
+      "offeror"
+    ],
+    "prompt_length": 1689,
+    "category": "2411 monetary economics"
+  }
+}

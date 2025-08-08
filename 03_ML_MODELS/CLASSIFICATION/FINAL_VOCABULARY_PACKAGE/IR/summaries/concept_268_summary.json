@@ -1,0 +1,63 @@
+{
+  "concept_id": "268",
+  "concept_data": {
+    "title": "operating cost",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"operating cost\" refers to the accrued expenses necessary for the functioning of an organization, including fees associated with services and resources. This concept is integral to accountancy frameworks, as it aids in the designating of budgets and financial planning. Operating costs can encompass a range of expenditures, from treasury fees to costs incurred in the installation of systems like SIS (Schengen Information System). The accurate recording and reporting of these costs are essential for the successful integration of devolved responsibilities and the accomplishment of regulatory objectives. Moreover, operating costs are often highlighted in manuals and instructions to ensure compliance across member states, including those in the Benelux and principality regions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:21:28.588094",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 410,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 885,
+      "selected_avg_freq": 439.46
+    },
+    "related_words": [
+      "afrc",
+      "devolution",
+      "devolved",
+      "edfs",
+      "reorganising",
+      "edf",
+      "installing",
+      "accrued",
+      "thirteen",
+      "pirbright",
+      "consular",
+      "sis",
+      "reserving",
+      "lomé",
+      "delegations",
+      "accomplishment",
+      "designates",
+      "treasury",
+      "bureau",
+      "accountancy",
+      "vesicular",
+      "transpose",
+      "translation",
+      "latters",
+      "mauritius",
+      "transmitting",
+      "deposited",
+      "visa",
+      "builds",
+      "hereby"
+    ],
+    "prompt_length": 1677,
+    "category": "4026 accounting"
+  }
+}

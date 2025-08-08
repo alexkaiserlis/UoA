@@ -1,0 +1,63 @@
+{
+  "concept_id": "5310",
+  "concept_data": {
+    "title": "European Environment Monitoring and Information Network",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Environment Agency",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Environment Monitoring and Information Network\" redirects to the \"European Environment Agency\" (EEA), which plays a crucial role in consolidating environmental data across EU member states. This agency, based in Helsinki, incorporates statisticians and auditors to ensure the accuracy and integrity of environmental observations. By delivering accessible information on sustainability, the EEA supports decision-making processes that are environmentally friendly and inclusive. It foresees the need for repeatable methodologies in monitoring, allowing for the effective exploitation of resources. The agency also emphasizes the importance of rechargeable batteries and portable appliances in reducing environmental impact, thereby reaffirming the EU's commitment to socio-economic freedoms and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:43:44.331536",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 367,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1107,
+      "selected_avg_freq": 581.7
+    },
+    "related_words": [
+      "statisticians",
+      "rechargeable",
+      "controllable",
+      "understandable",
+      "conveniently",
+      "repeatable",
+      "accumulators",
+      "appliance",
+      "batteries",
+      "battery",
+      "choosing",
+      "wheras",
+      "span",
+      "appeals",
+      "sport",
+      "portable",
+      "automotive",
+      "exploiting",
+      "footing",
+      "stepping",
+      "appliances",
+      "helsinki",
+      "reaffirmed",
+      "experiences",
+      "freedoms",
+      "environmentally",
+      "candidate",
+      "input",
+      "refusal",
+      "repeals"
+    ],
+    "prompt_length": 1837,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

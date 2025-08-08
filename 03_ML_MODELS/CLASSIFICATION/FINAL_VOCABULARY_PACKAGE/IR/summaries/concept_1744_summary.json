@@ -1,0 +1,63 @@
+{
+  "concept_id": "1744",
+  "concept_data": {
+    "title": "maize",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Maize, classified under the EU category of plant products (6006), plays a significant role in agricultural regulations and market dynamics. The regulatory framework outlines exigencies related to the marketing of maize varieties, including those that are genetically modified or contain novel traits, such as phosphinotricine. The fluctations in maize production can impact quantities available for consumption, necessitating calculatory measures for effective administrating of resources. Issues like zearalenone and fumonisins, which can arise during ensilage, are monitored to ensure food safety. The EU also addresses the implications of monoculture practices and the use of herbicides like Roundup, emphasizing the need for realigment in agricultural strategies to mitigate risks associated with inbred crops and to promote sustainable practices within the communitie.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:38:33.097075",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 2776,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 28,
+      "selected_avg_freq": 14.32
+    },
+    "related_words": [
+      "quantiies",
+      "swollen",
+      "flotation",
+      "coutervailing",
+      "markting",
+      "realigment",
+      "calculatory",
+      "purpoes",
+      "transformant",
+      "inra",
+      "communitie",
+      "oulined",
+      "fluctations",
+      "exigencies",
+      "prefixation",
+      "novelis",
+      "bamako",
+      "prferential",
+      "variet",
+      "phosphinotricine",
+      "dcetain",
+      "zearalenone",
+      "fumonisins",
+      "trichothecenes",
+      "deoxynivalenol",
+      "kuiburi",
+      "durban",
+      "phosphated",
+      "distarch",
+      "maltodextrine"
+    ],
+    "prompt_length": 1703,
+    "category": "6006 plant product"
+  }
+}

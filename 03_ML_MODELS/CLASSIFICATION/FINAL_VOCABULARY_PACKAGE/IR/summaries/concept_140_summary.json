@@ -1,0 +1,63 @@
+{
+  "concept_id": "140",
+  "concept_data": {
+    "title": "food consumption",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"food consumption\" within EU legal and regulatory frameworks encompasses the adaptive behaviors and innate preferences of consumers, influenced by various factors including caloric intake and appetite regulation. Legislators address the inflexibility of dietary habits and the impact of food additives, such as cyclamates, aspartame, and neotame, on health. The regulation of substances like sucralose and acesulfame aims to ensure harmlessness while considering the needs of intolerant populations, such as those with coeliac disease. Additionally, the consumption of specific ingredients, like caralluma fimbriata and blackcurrant (ribes nigrum), is monitored for their synergic effects on health, promoting awareness of waist circumference and overall well-being.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:44.547726",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1265,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 114,
+      "selected_avg_freq": 51.36
+    },
+    "related_words": [
+      "inflexibility",
+      "gencor",
+      "caralluma",
+      "fimbriata",
+      "slimaluma",
+      "appetite",
+      "innate",
+      "innéov",
+      "blackcurrant",
+      "nigrum",
+      "cyclamates",
+      "furnishes",
+      "synergic",
+      "comsumption",
+      "sweetness",
+      "snc",
+      "waist",
+      "intolerant",
+      "coeliac",
+      "cyclamic",
+      "circumference",
+      "abdominal",
+      "leiber",
+      "yestimun",
+      "esculentum",
+      "wordings",
+      "neotame",
+      "adaptive",
+      "laboratoires",
+      "debbie"
+    ],
+    "prompt_length": 1696,
+    "category": "2026 consumption"
+  }
+}

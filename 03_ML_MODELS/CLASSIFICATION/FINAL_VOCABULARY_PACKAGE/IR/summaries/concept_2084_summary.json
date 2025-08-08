@@ -1,0 +1,63 @@
+{
+  "concept_id": "2084",
+  "concept_data": {
+    "title": "Norway",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Norway, a key player in political geography, is intricately linked to EU legal and regulatory frameworks, particularly regarding its fisheries and agricultural sectors. The country’s meierier (dairy farms) and salgssentral (sales centers) are governed by principles that accommodate both national and EU regulations. The Norwegian fishery industry, including entities like frionor and fjordgruppen, is subject to inspection norms that ensure compliance with exclusive agreements. Concerns regarding sustainable practices are paramount, as seen in the management of species such as boreogadus and adspersus. Additionally, the regulatory landscape addresses issues like countrvailing measures and the trade of tørrfisk (dried fish), ensuring that Norwegian products meet EU standards while fostering economic cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:30:55.141048",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2411,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 8.553333333333333
+    },
+    "related_words": [
+      "meieriers",
+      "salgssentral",
+      "meierier",
+      "accomodate",
+      "inespection",
+      "priciples",
+      "exlusive",
+      "drene",
+      "uneviscerated",
+      "conccerned",
+      "boreogadus",
+      "saida",
+      "norske",
+      "obivated",
+      "noneviscerated",
+      "agreeement",
+      "norman",
+      "norwell",
+      "informaton",
+      "fryseriet",
+      "emborg",
+      "norsea",
+      "stella",
+      "agnefest",
+      "rosfjord",
+      "frionor",
+      "stranda",
+      "seanor",
+      "empted",
+      "skaarfish"
+    ],
+    "prompt_length": 1690,
+    "category": "7236 political geography"
+  }
+}

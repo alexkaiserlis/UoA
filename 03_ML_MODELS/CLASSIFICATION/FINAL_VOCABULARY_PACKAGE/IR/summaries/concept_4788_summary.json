@@ -1,0 +1,63 @@
+{
+  "concept_id": "4788",
+  "concept_data": {
+    "title": "catch area",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"catch area\" in EU fisheries regulation refers to specific marine zones where vessels are permitted to haul in various species, including overexploited stocks like the megrim and forkbeard. These areas are crucial for managing fish populations, such as the yellowtail and gobies, while foreseeing the impacts of overuse on ecosystems, including seagrass beds like Posidonia oceanica. Regulatory frameworks aim to prevent the capture of immature fries and ensure sustainable practices in shallow and deep waters. The designation of catch areas is essential for the protection of biodiversity and the management of fishing activities, particularly in subareas like Biscay and the GSA.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:43.491332",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 946,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 97,
+      "selected_avg_freq": 41.913333333333334
+    },
+    "related_words": [
+      "deerned",
+      "overexploited",
+      "novergicus",
+      "ferrer",
+      "pseudaphia",
+      "ferreri",
+      "lowbody",
+      "picarel",
+      "spicara",
+      "smaris",
+      "gangui",
+      "posidonia",
+      "oceanica",
+      "phanerogams",
+      "overuse",
+      "foreseeing",
+      "shallow",
+      "vesels",
+      "touching",
+      "gsa",
+      "viij",
+      "gobies",
+      "viih",
+      "viik",
+      "goby",
+      "seagrass",
+      "yellowtail",
+      "spider",
+      "megrims",
+      "biscay"
+    ],
+    "prompt_length": 1604,
+    "category": "5641 fisheries"
+  }
+}

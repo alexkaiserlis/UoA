@@ -1,0 +1,63 @@
+{
+  "concept_id": "2904",
+  "concept_data": {
+    "title": "vocational retraining",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Vocational retraining within the EU legal framework is geared towards addressing the needs of unemployed individuals, particularly those from professions facing abrupt cessation due to market changes. This concept derives from the necessity to rethink employment strategies, especially for sectors like fishing, where shipowners and fishermen face heavy repercussions from regulatory shifts. The EU stipulates formalities for retraining programs, aiming to present usefully structured pathways for employees to attain new skills. By abolishing barriers at borders, vocational retraining promotes diversification and equips agents with the tools to navigate changing job landscapes, ensuring that no individual is left permanently dependent on a single profession.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:18.344534",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 257,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1530,
+      "selected_avg_freq": 695.3666666666667
+    },
+    "related_words": [
+      "decisively",
+      "rethink",
+      "fisherman",
+      "abruptly",
+      "birmingham",
+      "feels",
+      "null",
+      "derives",
+      "lump",
+      "unemployed",
+      "profession",
+      "derogated",
+      "usefully",
+      "equivalents",
+      "geared",
+      "shipowners",
+      "repercussions",
+      "temporis",
+      "stipulating",
+      "forced",
+      "diversification",
+      "void",
+      "heavily",
+      "fishermen",
+      "attaining",
+      "abolishing",
+      "stopped",
+      "vocational",
+      "cessation",
+      "rata"
+    ],
+    "prompt_length": 1666,
+    "category": "4406 employment"
+  }
+}

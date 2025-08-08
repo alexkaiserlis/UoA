@@ -1,0 +1,63 @@
+{
+  "concept_id": "6787",
+  "concept_data": {
+    "title": "gelatine",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Gelatine, categorized under foodstuff (6026), is a vital ingredient derived primarily from collagen, often used in the production of jelly-like mixtures. In the EU regulatory framework, gelatine must meet stringent sanitary standards to ensure safety from pathogens and diseases. Establishments producing gelatine are required to certify compliance through inspections and confirm equivalence with international standards, particularly when traded with neighbouring regions like Africa, the Caribbean, and India. The regulatory framework also addresses retroactive measures for injury claims related to gelatine products. Furthermore, gelatine can be derived from various sources, including swine and bivalve molluscs, necessitating clear labeling to communicate its origin.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:44.801704",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 324,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1349,
+      "selected_avg_freq": 736.48
+    },
+    "related_words": [
+      "pubic",
+      "diced",
+      "pineapple",
+      "collagen",
+      "pineapples",
+      "jelly",
+      "pear",
+      "peach",
+      "gelatine",
+      "swaziland",
+      "peaches",
+      "certify",
+      "cumulation",
+      "specimen",
+      "pears",
+      "draws",
+      "pathogens",
+      "bivalve",
+      "juice",
+      "traded",
+      "sanitary",
+      "molluscs",
+      "neighbouring",
+      "mixtures",
+      "india",
+      "subdivision",
+      "caribbean",
+      "putting",
+      "adds",
+      "pacific"
+    ],
+    "prompt_length": 1637,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3684",
+  "concept_data": {
+    "title": "household income",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"household income\" is a critical component within EU national accounts, encompassing various statistical methods to compile and analyze data on living standards. This longitudinal analysis includes variables such as gross income, indebtedness, and poverty levels, providing a systematic overview of household resources across different sizes and compositions. The EU employs harmonised definitions and codes to ensure that income statistics are comparable and timely, allowing for effective policy adaptation. By delivering updated statistics, the EU targets areas of exclusion and supports intra-community sharing of relevant information, thereby establishing a comprehensive framework for understanding household income dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:23.952798",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 112,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 112,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1930.0535714285713
+    },
+    "related_words": [
+      "silc",
+      "indebtedness",
+      "longitudinal",
+      "sectional",
+      "encompassing",
+      "compiling",
+      "module",
+      "variables",
+      "sizes",
+      "poverty",
+      "household",
+      "secondary",
+      "variable",
+      "sharing",
+      "sample",
+      "systematic",
+      "gross",
+      "deliver",
+      "exclusion",
+      "component",
+      "timely",
+      "definitions",
+      "composition",
+      "living",
+      "target",
+      "income",
+      "cross",
+      "statistics",
+      "harmonised",
+      "accompanied"
+    ],
+    "prompt_length": 1680,
+    "category": "1626 national accounts"
+  }
+}

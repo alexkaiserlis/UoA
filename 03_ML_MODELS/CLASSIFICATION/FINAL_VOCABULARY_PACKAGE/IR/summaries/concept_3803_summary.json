@@ -1,0 +1,63 @@
+{
+  "concept_id": "3803",
+  "concept_data": {
+    "title": "section",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"section\" refers to a distinct part of a legal document or regulation, often delineating specific provisions or requirements. Sections are crucial for organizing complex regulations, such as those governing technology and technical regulations, including studies (étude) on materials like ferreux alloys from manufacturers such as Thyssen and Wuppermann. They may also address issues like profilage in manufacturing processes, including galvanizaciones and reassembly of components. Sections can encompass diverse topics, from environmental impacts in regions like Maastricht to technical specifications for products from corporations like Teledyne and Allvac. Understanding these sections is essential for compliance and regulatory surveillance (suveillance) within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:02.810518",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1362,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 19.826666666666668
+    },
+    "related_words": [
+      "étude",
+      "profilage",
+      "froid",
+      "voelklingen",
+      "fenne",
+      "mannstaedt",
+      "wuppermann",
+      "kaltprofil",
+      "regout",
+      "longtain",
+      "haine",
+      "kirchfeld",
+      "maastricht",
+      "troisdorf",
+      "măštaux",
+      "ferreux",
+      "cezus",
+      "schmiedewerke",
+      "thyssen",
+      "kobe",
+      "marietta",
+      "angeles",
+      "rmi",
+      "niles",
+      "ohio",
+      "teledyne",
+      "allvac",
+      "monroe",
+      "pittsburg",
+      "armco"
+    ],
+    "prompt_length": 1662,
+    "category": "6411 technology and technical regulations"
+  }
+}

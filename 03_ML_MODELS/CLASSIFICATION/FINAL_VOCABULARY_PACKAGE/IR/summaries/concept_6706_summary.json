@@ -1,0 +1,63 @@
+{
+  "concept_id": "6706",
+  "concept_data": {
+    "title": "accession criteria",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"accession criteria\" refer to the essential standards and requirements that candidate countries must meet to join the European Union. These criteria, often reiterated in interinstitutional documents, encompass various sectors, including the management of nuclear facilities, as seen in the case of Bohunice in Slovakia. The EU emphasizes the need for technological expertise and the decommissioning of atomic energy sources, ensuring that member states can optimally channel resources for reconstruction. Compliance with the acquis communautaire is crucial, as it represents a commitment to uphold EU regulations and standards. The modalities of accession also involve financial appropriations and the willingness to address potential distortions in national markets, ensuring a smooth integration process.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:28.241187",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2114,
+      "selected_avg_freq": 1014.8133333333334
+    },
+    "related_words": [
+      "bohunice",
+      "ebrd",
+      "decommissioning",
+      "reiterates",
+      "shut",
+      "contributor",
+      "phare",
+      "nationally",
+      "optimise",
+      "accredited",
+      "carries",
+      "routes",
+      "reconstruction",
+      "money",
+      "perspectives",
+      "willingness",
+      "channel",
+      "leaves",
+      "modalities",
+      "sections",
+      "closure",
+      "administered",
+      "acquis",
+      "nuclear",
+      "managing",
+      "compensate",
+      "expertise",
+      "inserted",
+      "entrusted",
+      "sum"
+    ],
+    "prompt_length": 1715,
+    "category": "1016 European construction"
+  }
+}

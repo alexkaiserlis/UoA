@@ -1,0 +1,63 @@
+{
+  "concept_id": "5413",
+  "concept_data": {
+    "title": "European Union action",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EU action",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU action\" encompasses a prolific array of initiatives and policies that shape the European Union's legal and regulatory landscape. As a facilitator of intergenerational dialogue, EU action explores diverse stories and experiences, harnessing creativity to address societal challenges. This includes tackling the scourge of unhealthy lifestyles among minors and promoting volunteering among sportswomen and sportsmen. Concurrently, it emphasizes the importance of pedagogical approaches in policymaking, fostering a kaleidoscope of entrepreneurial opportunities. The predefined frameworks and brochures serve to announce new initiatives, while the emotional narratives of volunteers highlight the wealth of contributions within the confines of EU action.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:00.958668",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1422,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 80,
+      "selected_avg_freq": 37.446666666666665
+    },
+    "related_words": [
+      "facilitator",
+      "prolific",
+      "explored",
+      "stories",
+      "europan",
+      "daphne",
+      "emotional",
+      "scourge",
+      "infirmity",
+      "ivth",
+      "pedagogical",
+      "sportswomen",
+      "heighten",
+      "unhealthy",
+      "eafg",
+      "volunteering",
+      "volunteers",
+      "volunteer",
+      "abided",
+      "harnessed",
+      "triangle",
+      "entrepreneurial",
+      "kaleidoscope",
+      "concurrent",
+      "creativity",
+      "predefined",
+      "prize",
+      "brochures",
+      "inauguration",
+      "forges"
+    ],
+    "prompt_length": 1758,
+    "category": "1016 European construction"
+  }
+}

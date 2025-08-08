@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_b71ca500",
+  "concept_data": {
+    "title": "sewerage system",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "public sanitation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sewerage system,\" categorized under health (2841), is primarily redirected to the term \"public sanitation\" within EU legal and regulatory frameworks. Public sanitation encompasses the infrastructure and processes involved in the collection, treatment, and disposal of wastewater, thereby safeguarding public health and environmental quality. The EU emphasizes the importance of effective public sanitation systems to prevent waterborne diseases and promote hygiene standards. Regulatory directives, such as the Urban Waste Water Treatment Directive, mandate member states to ensure adequate sewerage systems, highlighting their critical role in public health management and environmental protection across the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:29.220303",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1198,
+    "category": "2841 health"
+  }
+}

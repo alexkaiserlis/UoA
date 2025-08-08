@@ -1,0 +1,63 @@
+{
+  "concept_id": "3575",
+  "concept_data": {
+    "title": "workers' trade union",
+    "category_code": "4426",
+    "category_name": "labour law and labour relations",
+    "category_full": "4426 labour law and labour relations",
+    "is_redirect": true,
+    "preferred_term": "trade union",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"workers' trade union\" is redirected to the preferred term \"trade union,\" which signifies an organized association of workers. Trade unions play a vital role in representing employees' interests, ensuring equality and safeguarding their rights in socio-economic matters. They are allotted seats in consultative bodies, where they nominate candidates and appoint observers to represent workers' perspectives. The composition of these unions is altered periodically, with renewal processes occurring to maintain representativeness. Trade unions engage in meetings to discuss prospects for employed nationals, addressing issues across various sectors, including steel and coal. Their freedom to operate is crucial for fostering dialogue between employers and employees, thereby enhancing the overall labour law landscape in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:15:28.069921",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 190,
+      "requested_words": 150,
+      "min_frequency_found": 39,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 39,
+      "selected_max_freq": 2748,
+      "selected_avg_freq": 1189.7866666666666
+    },
+    "related_words": [
+      "allotted",
+      "nominate",
+      "vacant",
+      "representativeness",
+      "alternate",
+      "observers",
+      "employers",
+      "seats",
+      "candidates",
+      "twice",
+      "renewing",
+      "posts",
+      "socio",
+      "designating",
+      "equality",
+      "consultative",
+      "arisen",
+      "appointing",
+      "optimum",
+      "prospects",
+      "employees",
+      "nationals",
+      "enjoy",
+      "forces",
+      "occasion",
+      "representation",
+      "polish",
+      "enlargement",
+      "renewal",
+      "altered"
+    ],
+    "prompt_length": 1728,
+    "category": "4426 labour law and labour relations"
+  }
+}

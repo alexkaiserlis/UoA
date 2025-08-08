@@ -1,0 +1,63 @@
+{
+  "concept_id": "4054",
+  "concept_data": {
+    "title": "SEDOC",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "EURES",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"SEDOC,\" categorized under the labour market, serves as a redirect to the preferred term \"EURES.\" EURES, the European Employment Services, facilitates the free movement of workers within the EU and the European Economic Area (EEA), allowing individuals to seek employment across borders. This cooperation is based on specific arrangements that enhance the functioning of the labour market. The provisions concerning EURES are outlined in various EU regulations and decisions, which include amendments adopted by the European Parliament. The joint position of the parties involved is crucial for extending the freedoms and opportunities available to job seekers, thereby promoting economic integration.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:54:56.871976",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 188,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 188,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2452.0377358490564
+    },
+    "related_words": [
+      "freedoms",
+      "fields",
+      "attached",
+      "contracting",
+      "four",
+      "behalf",
+      "contains",
+      "draft",
+      "amendment",
+      "extend",
+      "protocol",
+      "joint",
+      "position",
+      "parties",
+      "extended",
+      "paragraph",
+      "place",
+      "include",
+      "area",
+      "allow",
+      "cooperation",
+      "eea",
+      "arrangements",
+      "based",
+      "agreement",
+      "third",
+      "specific",
+      "implementing",
+      "accordingly",
+      "take"
+    ],
+    "prompt_length": 1669,
+    "category": "4411 labour market"
+  }
+}

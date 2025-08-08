@@ -1,0 +1,63 @@
+{
+  "concept_id": "535",
+  "concept_data": {
+    "title": "environmental regulations",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental law",
+    "relation_type": "USE"
+  },
+  "summary": "Environmental regulations, often referred to as environmental law within EU legal frameworks, encompass a broad array of policies aimed at protecting the environment. These regulations address the use of substances such as chlorofluorocarbons (CFCs) and halons, which are known to deplete the ozone layer. The EU's commitment to the Montreal Protocol exemplifies its proactive stance in regulating harmful chemicals, including hydrobromofluorocarbons and trichloroethane. Institutions are tasked with analytical assessments and determining compliance through metered inhalers and controlled substances. The Aarhus Convention further guides public participation in environmental decision-making, ensuring transparency and essentiality in regulatory processes. These modalities reflect the EU's dedication to sustainable practices and the prevention of environmental degradation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:23:43.049938",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 270,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1488,
+      "selected_avg_freq": 774.6666666666666
+    },
+    "related_words": [
+      "bromo",
+      "chloromethane",
+      "agonist",
+      "essentiality",
+      "hydrobromofluorocarbon",
+      "chlorofluorocarbon",
+      "metered",
+      "inhalers",
+      "mdis",
+      "trichloroethane",
+      "cfcs",
+      "cfc",
+      "depleting",
+      "tetrachloride",
+      "halons",
+      "aarhus",
+      "halogenated",
+      "chlorofluorocarbons",
+      "deplete",
+      "omissions",
+      "ozone",
+      "believes",
+      "montreal",
+      "determinations",
+      "layer",
+      "beta",
+      "dose",
+      "prevents",
+      "estonian",
+      "carbon"
+    ],
+    "prompt_length": 1775,
+    "category": "5206 environmental policy"
+  }
+}

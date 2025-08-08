@@ -1,0 +1,63 @@
+{
+  "concept_id": "4500",
+  "concept_data": {
+    "title": "customs transit",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs transit within the EU framework refers to the regulatory process that facilitates the movement of commodities across frontiers while suspending customs duties. This system empowers administrations to systematically manage the transport of goods, including farmed and wild birds, which may be susceptible to pathogens like salmonella and avian influenza. It establishes preconditions for the safe transit of products, ensuring that outbreaks are detected and addressed. The process involves various compartments and links between member states and EFTA countries, promoting reciprocal trade. Reforms in customs transit aim to enhance efficiency and facilitate trade, inviting participation from all stakeholders in the regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:39.273143",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 353,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 34,
+      "selected_max_freq": 1208,
+      "selected_avg_freq": 632.7
+    },
+    "related_words": [
+      "tir",
+      "concert",
+      "pathogen",
+      "columns",
+      "preconditions",
+      "ratites",
+      "circumvented",
+      "appendices",
+      "salmonella",
+      "facilitation",
+      "suspends",
+      "linguistic",
+      "turkish",
+      "introductory",
+      "compartments",
+      "invite",
+      "phrase",
+      "game",
+      "systematically",
+      "join",
+      "influenza",
+      "pathogenic",
+      "avian",
+      "inland",
+      "reforms",
+      "commodities",
+      "discussed",
+      "detect",
+      "efta",
+      "recommend"
+    ],
+    "prompt_length": 1676,
+    "category": "2011 tariff policy"
+  }
+}

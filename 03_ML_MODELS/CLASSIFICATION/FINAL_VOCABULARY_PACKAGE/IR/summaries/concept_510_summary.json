@@ -1,0 +1,63 @@
+{
+  "concept_id": "510",
+  "concept_data": {
+    "title": "drainage",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"drainage\" refers to the systematic removal of excess water from land, crucial for land development and reclamation projects. This process often involves trench digging and the installation of systems that manage subsoil water levels, thereby preventing trouble related to flooding. Entities such as grondboorbedrijven may conduct boringen to assess soil conditions, while heidemaatschappij may oversee reclamation efforts. Legal disputes can arise over patentable inventions related to drainage technologies, with patentholders asserting their rights against opponents in courts like the arrondissementsrechtbank. Licensees must navigate regulatory frameworks to avoid anticompetitive practices, ensuring compliance with EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:24:38.943416",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 484,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 347,
+      "selected_avg_freq": 129.45333333333335
+    },
+    "related_words": [
+      "bronbemaling",
+      "heidemaatschappij",
+      "grondboorbedrijf",
+      "reinders",
+      "wessemius",
+      "grondboorbedrijven",
+      "ruiter",
+      "boringen",
+      "bemalingen",
+      "lareco",
+      "grondboringen",
+      "steenbergen",
+      "klaaswaal",
+      "halfweg",
+      "haarlemmerliede",
+      "rhoon",
+      "patentable",
+      "hagendoorn",
+      "arrondissementsrechtbank",
+      "haitjema",
+      "dedemsvaart",
+      "witnesses",
+      "patentholder",
+      "indispensability",
+      "subsoil",
+      "trench",
+      "dug",
+      "prelimary",
+      "invention",
+      "trouble"
+    ],
+    "prompt_length": 1760,
+    "category": "6831 building and public works"
+  }
+}

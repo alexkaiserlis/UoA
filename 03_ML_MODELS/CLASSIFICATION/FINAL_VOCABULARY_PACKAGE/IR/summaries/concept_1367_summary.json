@@ -1,0 +1,63 @@
+{
+  "concept_id": "1367",
+  "concept_data": {
+    "title": "information industry",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"information industry\" within the EU regulatory framework encompasses various sectors involved in the processing and dissemination of information. This industry plays a crucial role in supporting agricultural markets by providing farmers with essential data for decision-making. Specific regulations, introduced in recent years, aim to aid the management of information flows, ensuring that applications for support are processed efficiently. Detailed schemes are laid out to address problems faced by stakeholders, with a focus on marketing and extension services. Reports indicate that, until the last period, these initiatives have resulted in improved market conditions, benefiting all involved organisations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:03:57.533714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 78,
+      "requested_words": 150,
+      "min_frequency_found": 220,
+      "max_frequency_found": 4108,
+      "selected_words": 78,
+      "selected_min_freq": 220,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2332.051282051282
+    },
+    "related_words": [
+      "ends",
+      "fodder",
+      "dried",
+      "lodging",
+      "cmo",
+      "farmers",
+      "reported",
+      "days",
+      "month",
+      "schemes",
+      "short",
+      "marketing",
+      "problems",
+      "direct",
+      "extension",
+      "markets",
+      "aid",
+      "processing",
+      "applications",
+      "conjunction",
+      "introduced",
+      "agricultural",
+      "organisation",
+      "months",
+      "while",
+      "single",
+      "administrative",
+      "regulations",
+      "sector",
+      "support"
+    ],
+    "prompt_length": 1666,
+    "category": "3231 information and information processing"
+  }
+}

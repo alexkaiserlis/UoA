@@ -1,0 +1,63 @@
+{
+  "concept_id": "6701",
+  "concept_data": {
+    "title": "strategic stocks",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "strategic reserves",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU energy policy, \"strategic stocks,\" also referred to as \"strategic reserves,\" are essential for maintaining a minimum level of crude oil and petroleum products within member states. These stocks are established to ensure compliance with obligations imposed by directives and decisions of the Council and Commission. The implementation of such provisions requires individual governments to maintain reasonable stocks, accounting for the economic territory of the European Communities. The establishment of these reserves is a critical undertaking that aims to safeguard against supply disruptions, ensuring that member states can reach a conclusion on energy security in times of crisis.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:58:03.396291",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 52,
+      "requested_words": 150,
+      "min_frequency_found": 215,
+      "max_frequency_found": 4108,
+      "selected_words": 52,
+      "selected_min_freq": 215,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2235.6153846153848
+    },
+    "related_words": [
+      "crude",
+      "petroleum",
+      "imposing",
+      "seems",
+      "governments",
+      "stocks",
+      "oil",
+      "complied",
+      "reasonable",
+      "makes",
+      "reached",
+      "event",
+      "maintain",
+      "undertakings",
+      "obligation",
+      "another",
+      "agreements",
+      "lay",
+      "individual",
+      "territory",
+      "minimum",
+      "conclusion",
+      "establishment",
+      "provision",
+      "applied",
+      "directive",
+      "products",
+      "relating",
+      "state",
+      "time"
+    ],
+    "prompt_length": 1707,
+    "category": "6606 energy policy"
+  }
+}

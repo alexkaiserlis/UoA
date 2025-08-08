@@ -1,0 +1,63 @@
+{
+  "concept_id": "2956",
+  "concept_data": {
+    "title": "maize oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Maize oil, categorized under processed agricultural produce, is derived from the germ of maize (corn) through extraction methods such as expeller pressing or solvent extraction. The oil is characterized by its oleaginous properties and is often subjected to processes that yield various fractions, including cakes and meal, which contain residual protein and starch. In EU regulatory contexts, maize oil is distinguished from other oils based on its composition, including the presence of albuminoid and nitrogen contents. The classification of maize oil is economically significant, as it is utilized in food products and industrial applications, where the quality and purity of ingredients are precisely regulated to ensure compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:38:37.446595",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 179,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2885,
+      "selected_avg_freq": 1055.3133333333333
+    },
+    "related_words": [
+      "expeller",
+      "albuminoid",
+      "amyloid",
+      "pelletized",
+      "endosperm",
+      "pericarp",
+      "ligneous",
+      "germs",
+      "rotary",
+      "slabs",
+      "cakes",
+      "fragments",
+      "germ",
+      "oleaginous",
+      "compression",
+      "solvent",
+      "solvents",
+      "corn",
+      "inapplicable",
+      "judgement",
+      "custom",
+      "extracted",
+      "press",
+      "extraction",
+      "classifying",
+      "grains",
+      "distinguished",
+      "nitrogen",
+      "distinguishing",
+      "meal"
+    ],
+    "prompt_length": 1674,
+    "category": "6016 processed agricultural produce"
+  }
+}

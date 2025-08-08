@@ -1,0 +1,63 @@
+{
+  "concept_id": "4676",
+  "concept_data": {
+    "title": "window glass",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "glass",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"window glass,\" as redirected to the preferred term \"glass,\" encompasses various types of glass used in construction and manufacturing within the EU. This includes products from companies like PPG, Guardian, and Pilkingtons, which engage in glassmaking processes. The regulatory framework governs aspects such as the fabrication of translucid materials and the standards for glass production, including those from specialized manufacturers like Vetrocom and Glasexco. The EU's focus on sustainable practices influences the operations of glassfabriek and glaceries, ensuring compliance with environmental regulations. Additionally, terms like flachglas and cristal highlight the diversity within the glass industry, reflecting the intricate relationships among various stakeholders, including executives from firms like Levallois and Perret, and suppliers such as Tradimpex and Nutricia.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:34.296489",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 1400,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 23,
+      "selected_avg_freq": 7.56
+    },
+    "related_words": [
+      "mecaniver",
+      "ppg",
+      "boussois",
+      "glasexco",
+      "vetrocom",
+      "cristal",
+      "mollis",
+      "glasunit",
+      "glaskontoret",
+      "hellerup",
+      "lof",
+      "vernante",
+      "pennitalia",
+      "flachglas",
+      "vetrocol",
+      "glasunt",
+      "glaskontroet",
+      "machinale",
+      "glasfabriek",
+      "maas",
+      "compaña",
+      "fabricación",
+      "mecánica",
+      "vidrio",
+      "celo",
+      "vidrerias",
+      "guardian",
+      "luxguard",
+      "levallois",
+      "perret"
+    ],
+    "prompt_length": 1691,
+    "category": "6811 chemistry"
+  }
+}

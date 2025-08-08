@@ -1,0 +1,63 @@
+{
+  "concept_id": "2217",
+  "concept_data": {
+    "title": "payment on account",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": true,
+    "preferred_term": "advance payment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"payment on account,\" often referred to as \"advance payment,\" signifies a prefinancing arrangement where funds are provided before the completion of a service or delivery of goods. This mechanism is crucial for organizations facing exorbitant costs or harsh economic conditions, such as those in the Hebrides or affected by dramatic rainfalls. Advance payments can neutralize financial risks and facilitate smoother transactions, particularly in sectors like oilseed and linseed refining. Legal frameworks often include articles that govern such payments, ensuring equalization of obligations and providing guarantees against potential defaults. The chairperson of a relevant committee may oversee these arrangements, ensuring compliance and addressing any complications that arise, such as depreciated assets or intermediary issues. In cases where payment elapses, legal citations may be required to resolve disputes, reinforcing the importance of clear contractual terms and conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:40:33.115257",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 991,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 129.08
+    },
+    "related_words": [
+      "organizazion",
+      "layed",
+      "artciles",
+      "statitics",
+      "caes",
+      "arrangemets",
+      "cephalopod",
+      "citations",
+      "applicaton",
+      "garantees",
+      "exorbitant",
+      "isles",
+      "hebrides",
+      "elapses",
+      "connexion",
+      "amenities",
+      "oder",
+      "equalization",
+      "harsh",
+      "rainfalls",
+      "dramatic",
+      "prefinancing",
+      "depreciated",
+      "chilean",
+      "neutralize",
+      "chairperson",
+      "worsened",
+      "symbol",
+      "oilseed",
+      "loaded"
+    ],
+    "prompt_length": 1721,
+    "category": "4026 accounting"
+  }
+}

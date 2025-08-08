@@ -1,0 +1,63 @@
+{
+  "concept_id": "4680",
+  "concept_data": {
+    "title": "work clothes",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "clothing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"work clothes,\" categorized under the leather and textile industries, is redirected to the preferred term \"clothing.\" In EU legal and regulatory contexts, clothing encompasses various items such as jeans, tracksuits, and uniforms, which may feature elements like zip fasteners, studs, and velcro. Regulations often address the absorbent qualities of materials used in garments, including jackets and pants, to ensure safety and comfort. Specific provisions may apply to nightdresses, skirts, and shawls, with restrictions on certain designs or materials. The individualization of clothing, such as through the use of buttons or honeycombed fabrics, is also relevant in compliance frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:28.813231",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1374,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 35,
+      "selected_avg_freq": 13.64
+    },
+    "related_words": [
+      "jeans",
+      "tracksuits",
+      "zip",
+      "fastener",
+      "studs",
+      "velcro",
+      "scarves",
+      "mufflers",
+      "mantillas",
+      "veils",
+      "enveloping",
+      "waistline",
+      "neckline",
+      "rubberised",
+      "cheaters",
+      "ladies",
+      "pullover",
+      "waistcoat",
+      "individualize",
+      "shawls",
+      "restricitions",
+      "girl",
+      "buttons",
+      "unfiorm",
+      "pants",
+      "incontinent",
+      "honeycombed",
+      "pruposes",
+      "explantory",
+      "joumal"
+    ],
+    "prompt_length": 1699,
+    "category": "6841 leather and textile industries"
+  }
+}

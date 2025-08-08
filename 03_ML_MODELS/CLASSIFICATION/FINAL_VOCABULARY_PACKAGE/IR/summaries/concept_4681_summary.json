@@ -1,0 +1,63 @@
+{
+  "concept_id": "4681",
+  "concept_data": {
+    "title": "meat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"meat\" within EU legal and regulatory frameworks encompasses various animal products, including rabbitmeat, venison, and ternera. Regulations address the processing and handling of these products, ensuring compliance with hygiene standards, such as milieuhygiăťne practices. Specific terms like somatotropin and somatotrophin relate to growth hormones used in livestock, while rewrapping and reassembling are critical in meat distribution. The EU also regulates traditional products like mallorquín and trdelník, emphasizing cultural significance. Additionally, terms like lapin and poron highlight the diversity of meats available. Compliance routines are essential for maintaining quality and safety in the meat industry across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:34.605332",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1610,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 12.38
+    },
+    "related_words": [
+      "rabbitmeat",
+      "venison",
+      "erection",
+      "whetever",
+      "somatotropin",
+      "gentleman",
+      "kuivaliha",
+      "baie",
+      "prés",
+      "salés",
+      "dăšbouchăšs",
+      "milieuhygiăťne",
+      "lapin",
+      "poron",
+      "rewrapping",
+      "reassembling",
+      "slicing",
+      "kylmäsavuliha",
+      "routines",
+      "smoljan",
+      "mallorquín",
+      "mallorquí",
+      "alternation",
+      "somatotrophin",
+      "intravaginal",
+      "bst",
+      "somme",
+      "bísaro",
+      "szalámi",
+      "filiano"
+    ],
+    "prompt_length": 1671,
+    "category": "6011 animal product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3618",
+  "concept_data": {
+    "title": "withdrawal from the market",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Withdrawal from the market\" refers to the regulatory process by which specific substances, such as naphthylacetamide or pyriofenone, are removed from circulation due to safety concerns or non-compliance with EU trade policy. This action often involves a thorough assessment of the substance's processing and potential risks, including exposure to harmful chemicals like phosgene or chloripicrin. Regulatory bodies may require the withdrawal of products containing hazardous compounds, such as hexaconazole or fluopyram, to protect public health. The process is critical in managing substances that may pose risks, ensuring that attractants or agricultural chemicals like tefluthrin and dimethipin are safe for use.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:48:21.868119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2769,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.76
+    },
+    "related_words": [
+      "procesisng",
+      "naphthylacetamide",
+      "pyriofenone",
+      "fluxapyroxad",
+      "attractant",
+      "dichloronitromethane",
+      "phosgene",
+      "chloripicrin",
+      "naphthylacetic",
+      "sulphamate",
+      "hexaconazole",
+      "tetrathiocarbonate",
+      "tefluthrin",
+      "eugenol",
+      "sanguinello",
+      "sanguigno",
+      "moro",
+      "tarocco",
+      "restorer",
+      "drakkar",
+      "acrinathrin",
+      "fenpyrazamine",
+      "fluquinconazole",
+      "norchloro",
+      "norchloracetochlor",
+      "hydroxyacetochlor",
+      "benzoyl",
+      "methylether",
+      "methoxyphenol",
+      "dialkanolamine"
+    ],
+    "prompt_length": 1830,
+    "category": "2006 trade policy"
+  }
+}

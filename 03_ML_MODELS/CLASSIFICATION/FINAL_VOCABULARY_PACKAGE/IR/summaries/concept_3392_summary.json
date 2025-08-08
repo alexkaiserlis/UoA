@@ -1,0 +1,63 @@
+{
+  "concept_id": "3392",
+  "concept_data": {
+    "title": "Region of Murcia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Region of Murcia,\" classified under EU Member States' regions, is a significant area foreseeing various legal and regulatory frameworks. This region, touching the Mediterranean, is known for its rich biodiversity, including habitats for cephalopods and seagrass. The spatial management of its seabed resources is crucial, particularly concerning fishing activities by trawlers and seines, which exploit marine life. Regulatory bodies, such as the STECF, mobilise efforts to track fishing impacts and ensure sustainable practices. Additionally, the region faces challenges like flooding and earthquakes, necessitating disaster preparedness and responsive measures. The PDO designation for local products, such as queso and vino, further highlights Murcia's cultural and economic significance within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:51:30.872376",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 321,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 944,
+      "selected_avg_freq": 404.2266666666667
+    },
+    "related_words": [
+      "foreseeing",
+      "touching",
+      "goby",
+      "seagrass",
+      "aphia",
+      "minuta",
+      "hauled",
+      "seabed",
+      "queso",
+      "depths",
+      "isobath",
+      "vino",
+      "stops",
+      "touch",
+      "boat",
+      "spatial",
+      "cephalopods",
+      "seines",
+      "murcia",
+      "census",
+      "nautical",
+      "earthquake",
+      "stecf",
+      "meters",
+      "trawlers",
+      "towed",
+      "miles",
+      "habitats",
+      "flooding",
+      "bed"
+    ],
+    "prompt_length": 1627,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6345",
+  "concept_data": {
+    "title": "lifelong vocational training",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "continuing vocational training",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"lifelong vocational training,\" redirected to \"continuing vocational training,\" is pivotal in EU employment strategies aimed at enhancing employability within a dynamic workforce. This notion, endorsed by entities like UNESCO and the OECD, emphasizes the importance of adaptable learning modules that modernise skills across various domains. By honouring the need for continuous education, the EU seeks to optimise the training process, ensuring that respondents are equipped to meet evolving benchmarks. The formulation of these strategies is decisive for addressing disadvantages faced by certain households, ultimately expediting mobility and fostering a skilled workforce that can adapt to changing economic landscapes.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:03.107820",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 439,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 791,
+      "selected_avg_freq": 388.78
+    },
+    "related_words": [
+      "uis",
+      "uoe",
+      "relaunch",
+      "unesco",
+      "employability",
+      "honouring",
+      "optimisation",
+      "adaptable",
+      "expedite",
+      "adapts",
+      "adaptability",
+      "lifelong",
+      "skilled",
+      "domains",
+      "agreeing",
+      "notion",
+      "respondents",
+      "benchmarks",
+      "stressing",
+      "modules",
+      "modernise",
+      "inevitably",
+      "emerges",
+      "subjects",
+      "learning",
+      "trained",
+      "workforce",
+      "emphasis",
+      "broader",
+      "evolving"
+    ],
+    "prompt_length": 1741,
+    "category": "4406 employment"
+  }
+}

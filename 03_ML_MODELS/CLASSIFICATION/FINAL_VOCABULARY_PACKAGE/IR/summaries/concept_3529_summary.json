@@ -1,0 +1,63 @@
+{
+  "concept_id": "3529",
+  "concept_data": {
+    "title": "youth employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"youth employment\" within EU legal and regulatory frameworks emphasizes the need for innovative strategies to address the scarcity of job opportunities for young people. The EU encourages member states to invest in vocational education and training modules that equip youth with the necessary skills for the job market. By promoting mobility and strategic recruitment practices, the EU aims to reinforce positive attitudes among employers towards hiring young men and women. Flagship initiatives and reforms are designed to help reduce unemployment rates, with a focus on specialized sectors, thereby improving socioeconomic outcomes for youth. Surveys and comparisons of recruitment practices further underline the importance of adapting to changing labor market demands.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:33:53.363543",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 203,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2237,
+      "selected_avg_freq": 870.1333333333333
+    },
+    "related_words": [
+      "rethinking",
+      "advertised",
+      "classic",
+      "recruit",
+      "scarcity",
+      "filters",
+      "attitudes",
+      "flagship",
+      "online",
+      "investing",
+      "outcomes",
+      "preferably",
+      "youth",
+      "module",
+      "modules",
+      "recruitment",
+      "encourages",
+      "search",
+      "promotes",
+      "underlines",
+      "invest",
+      "men",
+      "employers",
+      "comparisons",
+      "mobility",
+      "socioeconomic",
+      "occupational",
+      "skills",
+      "women",
+      "job"
+    ],
+    "prompt_length": 1654,
+    "category": "4406 employment"
+  }
+}

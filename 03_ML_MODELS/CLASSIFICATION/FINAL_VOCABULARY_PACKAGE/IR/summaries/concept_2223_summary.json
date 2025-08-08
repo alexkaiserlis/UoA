@@ -1,0 +1,26 @@
+{
+  "concept_id": "2223",
+  "concept_data": {
+    "title": "vote splitting",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "cross voting",
+    "relation_type": "USE"
+  },
+  "summary": "\"Vote splitting,\" also known as \"cross voting,\" refers to the electoral practice where voters select candidates from different political parties or lists, rather than adhering to a single party line. This concept is significant in the context of EU electoral procedures, as it can influence the distribution of seats in legislative bodies, such as the European Parliament. The phenomenon of vote splitting can lead to fragmented electoral outcomes, complicating coalition-building and governance. Understanding cross voting is essential for analyzing electoral dynamics and ensuring compliance with EU regulations on fair representation and democratic processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:31.129175",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1216,
+    "category": "0416 electoral procedure and voting"
+  }
+}

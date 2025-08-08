@@ -1,0 +1,63 @@
+{
+  "concept_id": "4579",
+  "concept_data": {
+    "title": "turbine",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"turbine,\" classified under the category of mechanical engineering, is crucial in EU regulatory frameworks, particularly in the context of trade and customs. Turbines are goods that are subject to specific nomenclature and tariff codes, as indicated in the relevant annexes of EU regulations. The interpretation of these codes is binding, ensuring uniform application across member states. Pursuant to established guidelines, holders of turbine-related goods must conform to additional requirements that may be invoked for statistical purposes. This classification aids in the functioning of the internal market, providing clarity and facilitating trade while respecting the reasons for regulatory oversight.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:21:47.126338",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2312.1234567901233
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "classification",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "statistical",
+      "code",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods",
+      "months",
+      "reasons",
+      "continue",
+      "three"
+    ],
+    "prompt_length": 1656,
+    "category": "6821 mechanical engineering"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1463",
+  "concept_data": {
+    "title": "economic integration",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic integration within the EU framework refers to the process by which countries, such as Malta, Cyprus, and those in Central America like Guatemala and Honduras, collaborate to form a cohesive economic sphere. This integration involves the attainment of common policies and financial cooperation, as outlined in various articles and protocols. The European Parliament often plays a pivotal role in approving proposals concerning external relations and commercial agreements. The integration process aims to exceed mere trade relations, fostering deeper cooperation among parties. It encompasses technical and regulatory actions that facilitate seamless economic interactions, ultimately leading to a conclusion that benefits all member states involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:33:32.292896",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 66,
+      "requested_words": 150,
+      "min_frequency_found": 84,
+      "max_frequency_found": 4108,
+      "selected_words": 66,
+      "selected_min_freq": 84,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2035.3181818181818
+    },
+    "related_words": [
+      "guatemala",
+      "salvador",
+      "panama",
+      "honduras",
+      "nicaragua",
+      "rica",
+      "costa",
+      "sphere",
+      "ends",
+      "assent",
+      "american",
+      "attainment",
+      "approve",
+      "relations",
+      "integration",
+      "malta",
+      "cyprus",
+      "external",
+      "sentence",
+      "forms",
+      "exceed",
+      "central",
+      "commercial",
+      "powers",
+      "protocol",
+      "conjunction",
+      "conclusion",
+      "parties",
+      "paragraph",
+      "approved"
+    ],
+    "prompt_length": 1655,
+    "category": "1606 economic policy"
+  }
+}

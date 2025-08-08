@@ -1,0 +1,63 @@
+{
+  "concept_id": "2948",
+  "concept_data": {
+    "title": "spice",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "aromatic plant",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"spice\" is redirected to the preferred term \"aromatic plant,\" encompassing a wide range of plant products used for flavoring and medicinal purposes. The regulatory framework addresses issues such as aflatoxins and ochratoxin levels in spices like paprika, coriander, and pepper, ensuring consumer safety. Notably, rare varieties such as kalocsai and szegedi paprika are subject to specific quality standards. The application of graphical logos for branding, alongside compliance with EU notifiers, aids in market differentiation. Additionally, the achievability of regulatory standards is crucial for contributors from regions like Nigeria and Ghana, where spices like curry and okra are cultivated.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:33.348231",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 617,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 388,
+      "selected_avg_freq": 155.37333333333333
+    },
+    "related_words": [
+      "tade",
+      "kalocsai",
+      "český",
+      "kmín",
+      "tuscia",
+      "basilico",
+      "genovese",
+      "spalter",
+      "fűszerpaprika",
+      "őrlemény",
+      "spalt",
+      "ota",
+      "applicaiton",
+      "curry",
+      "okras",
+      "remediate",
+      "limestone",
+      "basil",
+      "okra",
+      "liquorice",
+      "achievability",
+      "szegedi",
+      "watermelon",
+      "camphor",
+      "seldom",
+      "coriander",
+      "groundnuts",
+      "carbide",
+      "ochratoxin",
+      "twi"
+    ],
+    "prompt_length": 1656,
+    "category": "6006 plant product"
+  }
+}

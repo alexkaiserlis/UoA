@@ -1,0 +1,63 @@
+{
+  "concept_id": "5166",
+  "concept_data": {
+    "title": "theme park",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "leisure park",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"theme park,\" redirected to the preferred term \"leisure park,\" encompasses various recreational infrastructures within the EU, including amusement parks, zoos, and aquaria. These parks serve as vital habitats for biodiversity, promoting conservation and education about flora and fauna. Regulatory frameworks govern the licensing and operation of such facilities, ensuring they adequately care for specimens and promote responsible breeding practices. Additionally, leisure parks facilitate journeys that enhance community engagement and tourism, contributing to local economies. The EU emphasizes the importance of regulating heavy vehicle access and charging infrastructures to minimize distortions in travel patterns, thereby supporting sustainable repopulation and reintroduction efforts for wild species.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:13.175658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 215,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2237,
+      "selected_avg_freq": 934.9533333333334
+    },
+    "related_words": [
+      "repopulation",
+      "aquaria",
+      "amusement",
+      "circus",
+      "circuses",
+      "accomodation",
+      "parks",
+      "visiting",
+      "zoos",
+      "park",
+      "situ",
+      "journeys",
+      "capture",
+      "get",
+      "occasionally",
+      "specimens",
+      "habitats",
+      "town",
+      "biodiversity",
+      "reintroduction",
+      "roads",
+      "fauna",
+      "flora",
+      "occupation",
+      "display",
+      "owner",
+      "infrastructures",
+      "charging",
+      "summer",
+      "birds"
+    ],
+    "prompt_length": 1686,
+    "category": "2826 social affairs"
+  }
+}

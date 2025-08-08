@@ -1,0 +1,63 @@
+{
+  "concept_id": "2429",
+  "concept_data": {
+    "title": "plutonium",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Plutonium, a fissile material, is significant in the context of the EU's regulatory framework governing nuclear energy and atomic research. Under the Euratom Treaty, the European Commission establishes rules for the production, transfer, and supply of nuclear materials, including plutonium. Member States must adhere to regulations that cover the quantities and volumes of plutonium produced and exempting certain small-scale research activities from stringent permits. The regulation aims to ensure safe handling and development of nuclear energy while preventing prejudice to consumers and maintaining a secure supply chain. Amendments to these rules are periodically reviewed to adapt to evolving fields and energy demands.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:39:09.158157",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 50,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 50,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1830.8
+    },
+    "related_words": [
+      "fissile",
+      "ores",
+      "exempting",
+      "permits",
+      "fields",
+      "source",
+      "atomic",
+      "supplies",
+      "consumers",
+      "materials",
+      "volume",
+      "exemption",
+      "transfer",
+      "rule",
+      "involving",
+      "chapter",
+      "research",
+      "energy",
+      "euratom",
+      "quantities",
+      "produced",
+      "small",
+      "extension",
+      "increased",
+      "contribute",
+      "supply",
+      "prejudice",
+      "entered",
+      "able",
+      "cover"
+    ],
+    "prompt_length": 1665,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

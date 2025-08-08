@@ -1,0 +1,63 @@
+{
+  "concept_id": "6927",
+  "concept_data": {
+    "title": "regional security",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regional security\" within EU legal and regulatory frameworks encompasses multidimensional strategies aimed at stabilizing conflict-prone areas, such as the Central African Republic (CAR) and Somalia. Initiatives like EUFOR and EUMM are mandated to enhance security capabilities, often deploying civilian and military resources to address deteriorating situations. The EU engages in partnerships, reaffirming commitments through frameworks like the PSC and UNSCR, while addressing violations of arms embargoes and humanitarian needs. Operations such as MINUSCA in Bangui and the AFISM in the Congo illustrate the EU's role in bridging gaps in security, facilitating handovers, and modifying engagement strategies to stabilize regions effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:16:57.190512",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 361,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 924,
+      "selected_avg_freq": 382.32666666666665
+    },
+    "related_words": [
+      "minusca",
+      "bangui",
+      "afism",
+      "sangaris",
+      "eccas",
+      "foc",
+      "handover",
+      "multidimensional",
+      "eusec",
+      "eumm",
+      "reaffirming",
+      "army",
+      "handing",
+      "bridging",
+      "rca",
+      "somali",
+      "hosted",
+      "modifies",
+      "csdp",
+      "eufor",
+      "ammunition",
+      "commander",
+      "mandated",
+      "compact",
+      "engagement",
+      "unscr",
+      "somalia",
+      "unsc",
+      "path",
+      "psc"
+    ],
+    "prompt_length": 1645,
+    "category": "0816 international security"
+  }
+}

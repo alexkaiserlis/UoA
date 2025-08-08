@@ -1,0 +1,63 @@
+{
+  "concept_id": "6369",
+  "concept_data": {
+    "title": "services of public interest",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "services of general interest",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, \"services of public interest,\" redirected to \"services of general interest,\" encompass essential functions that support societal needs, such as transport and utilities. These services are intrinsically linked to the well-being of citizens, akin to the passion seen in sports like basketball and rugby, where athletes compete in tournaments such as the UEFA. The Altmark judgment established criteria for compensations related to these services, ensuring they are not subject to foreclosure or unfair competition. Member States, including Italy with companies like Alitalia and Meridiana, must navigate regulations while managing public service obligations, fostering hubs for diverse activities, from cycling to handball, thus enhancing audience engagement across various domains.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:55.290562",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 886,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 138,
+      "selected_avg_freq": 43.11333333333334
+    },
+    "related_words": [
+      "motogp",
+      "prix",
+      "riders",
+      "basketball",
+      "internazionali",
+      "tennis",
+      "italians",
+      "passion",
+      "cycling",
+      "fenice",
+      "scala",
+      "handball",
+      "vault",
+      "discus",
+      "intrinsically",
+      "foreclosure",
+      "altmark",
+      "pso",
+      "alghero",
+      "surety",
+      "alitalia",
+      "merdiana",
+      "profesional",
+      "navieras",
+      "líneas",
+      "regulares",
+      "analir",
+      "administración",
+      "contesting",
+      "carpatair"
+    ],
+    "prompt_length": 1714,
+    "category": "2026 consumption"
+  }
+}

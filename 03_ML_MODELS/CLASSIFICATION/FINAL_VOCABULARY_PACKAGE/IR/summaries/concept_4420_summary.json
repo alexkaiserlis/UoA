@@ -1,0 +1,63 @@
+{
+  "concept_id": "4420",
+  "concept_data": {
+    "title": "energy technology",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"energy technology\" within EU legal and regulatory frameworks encompasses diverse innovations aimed at ameliorating the environmental impact of energy production. It includes advancements in cleaner energy sources such as biomass, photovoltaic cells, and oilshale, which are crucial for reducing greenhouse gas emissions. The EU commits to modernising energy systems through the development of efficient modules and panels, enhancing predictability in energy supply. Regulatory deliberations focus on fostering synergy between fossil and renewable sources, ensuring that combustion processes are less polluting. The uptake of crystalline silicon technologies further supports the diversification of energy fractions, contributing to sustainable energy policies aligned with international agreements like Marrakesh and Copenhagen.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:43.997819",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 548,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 482,
+      "selected_avg_freq": 233.51333333333332
+    },
+    "related_words": [
+      "ormulsion",
+      "oilshale",
+      "anchored",
+      "ameliorate",
+      "combustible",
+      "bat",
+      "furthered",
+      "peat",
+      "lignite",
+      "crystalline",
+      "cleaner",
+      "photovoltaic",
+      "underwent",
+      "wafers",
+      "commits",
+      "deliberation",
+      "acidification",
+      "politically",
+      "sorted",
+      "boilers",
+      "fossil",
+      "polluting",
+      "fractions",
+      "abundant",
+      "expresses",
+      "sustain",
+      "keen",
+      "definite",
+      "silicon",
+      "diverse"
+    ],
+    "prompt_length": 1681,
+    "category": "6606 energy policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4448",
+  "concept_data": {
+    "title": "plough land",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "arable land",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"plough land\" is a redirect to the preferred term \"arable land,\" which encompasses plots utilized for the cultivation of crops. This concept is integral to agrarian policies, particularly in the context of extensification and the redistribution of agricultural resources. The abandonment of arable land can lead to depopulation and penalises farmers who fail to adhere to sustainable practices. The EU promotes fairness in land utilization, encouraging practices such as crop rotation and the stocking of oilseeds. Additionally, the regulation of arable land involves monitoring the redistribution of entitlements and addressing abuses in land occupation, ensuring that agricultural land is effectively utilized and restored for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:08:00.211890",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 593,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 527,
+      "selected_avg_freq": 234.14
+    },
+    "related_words": [
+      "autonomus",
+      "agraria",
+      "collectivization",
+      "largerly",
+      "incerease",
+      "intitial",
+      "penalises",
+      "collectivized",
+      "successors",
+      "abondonment",
+      "terminates",
+      "novelty",
+      "textual",
+      "plots",
+      "delimiting",
+      "grubbed",
+      "redistributed",
+      "adhering",
+      "breeders",
+      "extensification",
+      "depopulation",
+      "deferring",
+      "trento",
+      "redistribution",
+      "abuses",
+      "pasture",
+      "grubbing",
+      "solved",
+      "experiment",
+      "suckler"
+    ],
+    "prompt_length": 1765,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

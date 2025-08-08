@@ -1,0 +1,63 @@
+{
+  "concept_id": "4417",
+  "concept_data": {
+    "title": "war aviation",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "military aircraft",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"war aviation,\" redirected to \"military aircraft,\" encompasses the legal and regulatory frameworks governing the use of military aircraft within EU airspace. This includes compliance with protocols established by entities like Eurocontrol, which enhances air traffic management and navigation. The procurement of military aircraft must align with mandatory regulations ensuring interoperability among providers. Timely delivery and secure operations are critical, as military flights contribute to national security. The EU's commitment to simplifying aviation regulations fosters competitiveness among manufacturers while addressing issues related to costly and complex air traffic. This network of regulations ensures a flexible and uniform approach to military aviation operations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:52:43.353013",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 212,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2364,
+      "selected_avg_freq": 1101.78
+    },
+    "related_words": [
+      "tcp",
+      "eurocontrol",
+      "airspace",
+      "sky",
+      "enhances",
+      "flights",
+      "message",
+      "software",
+      "flight",
+      "constituents",
+      "costly",
+      "inward",
+      "suitability",
+      "navigation",
+      "interoperability",
+      "providers",
+      "describe",
+      "rely",
+      "discharge",
+      "uniformly",
+      "procurement",
+      "afforded",
+      "aviation",
+      "internet",
+      "aircraft",
+      "becoming",
+      "controlling",
+      "military",
+      "traffic",
+      "flexible"
+    ],
+    "prompt_length": 1724,
+    "category": "0821 defence"
+  }
+}

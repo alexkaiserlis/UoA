@@ -1,0 +1,63 @@
+{
+  "concept_id": "83",
+  "concept_data": {
+    "title": "way of life",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": true,
+    "preferred_term": "living conditions",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"way of life,\" redirected to \"living conditions,\" encompasses various dimensions impacting individuals throughout their lifespan, from childhood to adulthood. In EU legal and regulatory frameworks, it addresses the principle of ensuring equitable living conditions, particularly for vulnerable groups such as the elderly and disabled. This includes longitudinal studies on deprivation and indebtedness, which inform policies aimed at furthering rehabilitation and support for handicapped individuals. Researchers compile data on residential environments and attitudes towards disabilities, tracing interconnections between socio-economic factors and individual aspirations. The regulatory focus on inclusive ICT and stimulation modules aims to enhance the quality of life across diverse domains, ensuring no one is left behind.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:55:30.413963",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 453,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 637,
+      "selected_avg_freq": 263.38666666666666
+    },
+    "related_words": [
+      "childhood",
+      "impacting",
+      "adulthood",
+      "fieldwork",
+      "handicapping",
+      "individends",
+      "prinicple",
+      "aes",
+      "convergent",
+      "imputation",
+      "intergenerational",
+      "aspirations",
+      "tide",
+      "mainstream",
+      "nursing",
+      "deprivation",
+      "silc",
+      "deficient",
+      "indebtedness",
+      "longitudinal",
+      "furthering",
+      "disability",
+      "impairment",
+      "disabilities",
+      "handicapped",
+      "sectional",
+      "attitudes",
+      "residential",
+      "ict",
+      "stimulation"
+    ],
+    "prompt_length": 1773,
+    "category": "2821 social framework"
+  }
+}

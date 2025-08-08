@@ -1,0 +1,26 @@
+{
+  "concept_id": "5355",
+  "concept_data": {
+    "title": "data-processing centre",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer centre",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"data-processing centre,\" which redirects to the preferred term \"computer centre,\" pertains to facilities dedicated to the management and processing of data within the European Union's legal and regulatory framework. These centres play a critical role in ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR), which mandates stringent safeguards for personal data processing. Computer centres are integral to the implementation of information technology solutions that enhance data security and operational efficiency. Their regulatory oversight is essential for maintaining the integrity of data handling practices across member states, ensuring adherence to EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:26:58.536195",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1239,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4891",
+  "concept_data": {
+    "title": "biodeterioration",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "biodegradability",
+    "relation_type": "USE"
+  },
+  "summary": "Biodeterioration, often redirected to \"biodegradability,\" is a critical concept within EU environmental policy, particularly concerning the regulation of substances like surfactants and detergents in cosmetic products. The biodegradation process involves the breakdown of polymers and other chemical compounds, such as ethoxylated alcohols and ionic surfactants, into harmless metabolites in aqueous environments. This is essential for minimizing allergenic effects and ensuring that products like shampoos, conditioners, and soaps are environmentally friendly. The EU's ecolabel initiatives promote biodegradable products, encouraging manufacturers to use biodegradable ingredients, thus progressing towards sustainable consumption habits. Understanding biodegradability is vital for compliance with regulations like EINECS and REACH, ensuring that substances derived from natural sources, including fragrances and perfumes, are both effective and environmentally responsible.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:31:23.895804",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 407,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 859,
+      "selected_avg_freq": 315.05333333333334
+    },
+    "related_words": [
+      "particularr",
+      "guerbet",
+      "dehypon",
+      "elincs",
+      "nlp",
+      "biodegradation",
+      "perfumes",
+      "inci",
+      "ethoxylated",
+      "dish",
+      "ionic",
+      "biodegradability",
+      "understandable",
+      "iupac",
+      "fragrances",
+      "surfactant",
+      "detergent",
+      "surfactants",
+      "dispersive",
+      "allergenic",
+      "einecs",
+      "shampoos",
+      "soaps",
+      "aerobic",
+      "conditioners",
+      "progressed",
+      "dispense",
+      "poorly",
+      "alcohols",
+      "polymer"
+    ],
+    "prompt_length": 1716,
+    "category": "5206 environmental policy"
+  }
+}

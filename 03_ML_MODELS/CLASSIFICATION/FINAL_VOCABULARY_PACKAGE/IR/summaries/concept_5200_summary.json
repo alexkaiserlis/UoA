@@ -1,0 +1,63 @@
+{
+  "concept_id": "5200",
+  "concept_data": {
+    "title": "machine translation",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Machine translation refers to the automated process of translating text from one language to another, significantly impacting the dissemination of legal and regulatory documents within the EU. Tools such as Eurotra have been developed to enhance linguistic accuracy, particularly in the context of patents and intellectual property. This technology aids SMEs by reducing the costly expense of manual translations, thereby stimulating innovation and facilitating cross-border collaboration. However, issues of infringement may arise if translations are not properly managed, leading to disputes over proprietary rights. The European Patent Convention (EPC) emphasizes the need for precise translations to prevent damages and ensure substantive legal compliance across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:43.102160",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 405,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 939,
+      "selected_avg_freq": 480.02666666666664
+    },
+    "related_words": [
+      "eurotra",
+      "epo",
+      "infringer",
+      "epc",
+      "cgc",
+      "translating",
+      "domiciled",
+      "proprietor",
+      "unitary",
+      "patents",
+      "customarily",
+      "translations",
+      "sme",
+      "disseminate",
+      "infringing",
+      "crest",
+      "reimbursements",
+      "publications",
+      "recalls",
+      "patent",
+      "damages",
+      "filed",
+      "faith",
+      "lapse",
+      "precedent",
+      "engines",
+      "linguistic",
+      "translation",
+      "automated",
+      "costly"
+    ],
+    "prompt_length": 1685,
+    "category": "3231 information and information processing"
+  }
+}

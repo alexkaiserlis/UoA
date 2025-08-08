@@ -1,0 +1,63 @@
+{
+  "concept_id": "3685",
+  "concept_data": {
+    "title": "taxable income",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"taxable income\" within EU legal and regulatory frameworks refers to the income on which taxation is imposed, encompassing emoluments, wages, salaries, and allowances received by individuals and groups. This taxable income is critical for determining the financial obligations of officials and servants of the communities, particularly under the protocols of institutions like the ECSC and Euratom. Recent reforms aim to modernise taxation processes, ensuring that all persons are liable for their duties in a fair manner. The context of taxable income is essential for the functioning of justice and investment in research funds, as it directly impacts the financial resources available for public service and urgent political initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:17.418028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 28,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 28,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1784.5934065934066
+    },
+    "related_words": [
+      "communites",
+      "standby",
+      "emoluments",
+      "wages",
+      "salaries",
+      "immunities",
+      "modernisation",
+      "privileges",
+      "servants",
+      "allowances",
+      "terminate",
+      "instituted",
+      "taxation",
+      "institution",
+      "officials",
+      "judgment",
+      "urgent",
+      "post",
+      "staff",
+      "seems",
+      "reform",
+      "tax",
+      "appointed",
+      "political",
+      "liable",
+      "ecsc",
+      "employment",
+      "justice",
+      "court",
+      "service"
+    ],
+    "prompt_length": 1637,
+    "category": "2446 taxation"
+  }
+}

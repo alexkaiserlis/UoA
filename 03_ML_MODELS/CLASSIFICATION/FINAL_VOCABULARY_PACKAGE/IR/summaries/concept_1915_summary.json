@@ -1,0 +1,63 @@
+{
+  "concept_id": "1915",
+  "concept_data": {
+    "title": "irregular migration",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": true,
+    "preferred_term": "illegal migration",
+    "relation_type": "USE"
+  },
+  "summary": "Irregular migration, often redirected to \"illegal migration,\" encompasses the complex legal landscape surrounding individuals who cross borders without proper authorization. The EU has tasked agencies like Frontex with combating this issue through various measures, including biometric checks and streamlined removals. Legal frameworks aim to formalise procedures for returnees, ensuring humane treatment and resisting inhumane conditions during detention. The regulation of aircarriers and the issuance of tickets play crucial roles in curbing irregular crossings. Additionally, the EU emphasizes the importance of respecting the rights of individuals, regardless of nationality, religion, or race, while expediting processes and maintaining liberty.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:08:34.905727",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 911,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 197,
+      "selected_avg_freq": 87.00666666666666
+    },
+    "related_words": [
+      "resisting",
+      "unescorted",
+      "escorted",
+      "humiliating",
+      "staying",
+      "overturn",
+      "aircarriers",
+      "tasked",
+      "combated",
+      "conviction",
+      "nationalities",
+      "presuming",
+      "tickets",
+      "ordre",
+      "inhumane",
+      "frontex",
+      "returnees",
+      "intranet",
+      "overviews",
+      "relaxing",
+      "aiding",
+      "briefing",
+      "liberty",
+      "religion",
+      "penal",
+      "stamps",
+      "lanes",
+      "posting",
+      "formalise",
+      "stays"
+    ],
+    "prompt_length": 1689,
+    "category": "2811 migration"
+  }
+}

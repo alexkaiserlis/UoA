@@ -1,0 +1,63 @@
+{
+  "concept_id": "2955",
+  "concept_data": {
+    "title": "rabbit meat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"rabbit meat\" pertains to the category of animal products, specifically within the leporidae family. This meat, derived from domesticated and feral rabbits, is subject to stringent regulations concerning health certifications and vaccinations to ensure consumer safety. The EU emphasizes the importance of appropriate farming practices, including the management of regionalised populations, such as those found in Botswana and Kaliningrad. Additionally, the occurrence of diseases like Newcastle in rabbits necessitates staggered vaccination protocols. The legal framework also addresses the humane killing of rabbits, ensuring compliance with animal welfare standards, while promoting the utilisation of rabbit meat in various culinary applications across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:09:09.206832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 632,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 428,
+      "selected_avg_freq": 193.76666666666668
+    },
+    "related_words": [
+      "zebras",
+      "africain",
+      "suppressive",
+      "botswanan",
+      "fences",
+      "furred",
+      "murmansk",
+      "leporidae",
+      "periphery",
+      "soliped",
+      "approriate",
+      "reindeer",
+      "utilize",
+      "regionalise",
+      "caledonia",
+      "excepting",
+      "occurence",
+      "ratite",
+      "certifications",
+      "matured",
+      "cloven",
+      "hoofed",
+      "groupings",
+      "utilise",
+      "stamped",
+      "kaliningrad",
+      "thought",
+      "feathered",
+      "rabbits",
+      "boar"
+    ],
+    "prompt_length": 1663,
+    "category": "6011 animal product"
+  }
+}

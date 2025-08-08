@@ -1,0 +1,63 @@
+{
+  "concept_id": "4856",
+  "concept_data": {
+    "title": "concrete",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"concrete\" within EU legal and regulatory frameworks pertains to its extensive use in building and public works. This material can be produced using various processes, including precast and autoclaved methods, which enhance its properties. Manufacturers often incorporate lightweight and insulating elements, such as aerated blocks and panels, to meet specific load and fire reaction specifications. The use of concrete is subject to onerous mandates, requiring certification and attestation to ensure compliance with safety standards. Continuous surveillance of construction practices and the specification of units, such as beams and floor kits, gives rise to a family of concrete products that correspond to diverse construction possibilities, clearly reflecting the importance of this material in modern architecture.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:30:04.754377",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 3308,
+      "selected_avg_freq": 1433.9533333333334
+    },
+    "related_words": [
+      "shuttering",
+      "precast",
+      "autoclaved",
+      "anchors",
+      "lightweight",
+      "hollow",
+      "insulating",
+      "kits",
+      "aerated",
+      "onerous",
+      "panels",
+      "floor",
+      "beam",
+      "blocks",
+      "mandates",
+      "block",
+      "attestation",
+      "attesting",
+      "load",
+      "fire",
+      "select",
+      "sometimes",
+      "reaction",
+      "metal",
+      "incorporating",
+      "concrete",
+      "preference",
+      "organic",
+      "factory",
+      "family"
+    ],
+    "prompt_length": 1683,
+    "category": "6831 building and public works"
+  }
+}

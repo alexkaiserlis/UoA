@@ -1,0 +1,63 @@
+{
+  "concept_id": "1506",
+  "concept_data": {
+    "title": "regions of Ireland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions of Ireland\" pertains to the distinct geographical and administrative areas within the island, which are often classified in EU legal and regulatory frameworks. These regions, characterized by their unique topographies such as steep slopes and mountainous terrains, face various handicaps, including lessfavoured conditions due to ambient weather and soil salinity. The EU recognizes these disparities, providing grants and support through mechanisms like the EAGGF to enhance agricultural productivity and address constraints. The regions are periodically assessed, identifying boundaries that affect farming cooperatives and drainage systems, thus enabling a more profitable utilization of resources and acceleration of rural development initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:24.768549",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 225,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1827,
+      "selected_avg_freq": 872.4
+    },
+    "related_words": [
+      "slieve",
+      "felim",
+      "salinity",
+      "lessfavoured",
+      "uaa",
+      "arterial",
+      "slopes",
+      "winds",
+      "ranked",
+      "steep",
+      "violent",
+      "catchment",
+      "acceleration",
+      "drainage",
+      "ambient",
+      "hill",
+      "handicaps",
+      "countryside",
+      "cooperatives",
+      "circular",
+      "disadvantages",
+      "boundaries",
+      "utilized",
+      "totalling",
+      "profitable",
+      "opportune",
+      "mountain",
+      "identifies",
+      "poor",
+      "periodically"
+    ],
+    "prompt_length": 1683,
+    "category": "7211 regions of EU Member States"
+  }
+}

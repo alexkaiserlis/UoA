@@ -1,0 +1,26 @@
+{
+  "concept_id": "102",
+  "concept_data": {
+    "title": "sick leave",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sick leave refers to the legal entitlement of employees to take time off work due to health-related issues while maintaining their social protection rights. Within the EU regulatory framework, sick leave is governed by various directives and national laws that ensure workers receive adequate compensation during their absence. This concept is integral to the broader category of social protection, which aims to safeguard the well-being of individuals in the labor market. The provisions surrounding sick leave also address the conditions under which it can be granted, thereby promoting both employee health and workplace stability across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:42:20.152999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1167,
+    "category": "2836 social protection"
+  }
+}

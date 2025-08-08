@@ -1,0 +1,63 @@
+{
+  "concept_id": "1777",
+  "concept_data": {
+    "title": "procuration",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "power of attorney",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, \"procuration,\" or \"power of attorney,\" refers to a legal instrument allowing one person to act on behalf of another in various matters, including financial and legal decisions. This concept is crucial for ensuring ethical representation, particularly in multidisciplinary contexts such as corporate governance or electoral processes. Notably, individuals like Erwan and Hansjörg may serve as advisers under such arrangements, ensuring compliance with ethical standards. The power of attorney can be vested in entities like PricewaterhouseCoopers, facilitating efficient management of complex transactions. It is essential for maintaining presences in jurisdictions, including the Caucasus and ESDP missions, where legal representation is paramount.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:37.575819",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 382,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 611,
+      "selected_avg_freq": 209.94
+    },
+    "related_words": [
+      "ettore",
+      "sequi",
+      "erwan",
+      "fouéré",
+      "kálmán",
+      "koen",
+      "vervaeke",
+      "presences",
+      "roeland",
+      "geer",
+      "gentilini",
+      "hansjörg",
+      "haber",
+      "gaeib",
+      "semneby",
+      "feith",
+      "torben",
+      "brylle",
+      "mizsei",
+      "personam",
+      "morel",
+      "otte",
+      "pieter",
+      "pricewaterhousecoopers",
+      "ico",
+      "ege",
+      "fernando",
+      "esdp",
+      "sap",
+      "caucasus"
+    ],
+    "prompt_length": 1626,
+    "category": "1211 civil law"
+  }
+}

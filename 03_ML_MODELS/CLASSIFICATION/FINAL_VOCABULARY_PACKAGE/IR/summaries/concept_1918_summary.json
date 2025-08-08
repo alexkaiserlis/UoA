@@ -1,0 +1,63 @@
+{
+  "concept_id": "1918",
+  "concept_data": {
+    "title": "clearing agreement",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"clearing agreement\" is a legally binding contract that facilitates the netting of transactions between parties, particularly in the context of banking and monetary relations within the EU. It is designed to enhance solvency and reinforce prudential measures by ensuring that credit and liquidity risks are effectively managed. Supervisors strive to create a harmonized framework that complies with international standards, allowing for a wider range of financial transactions. By incorporating bilateral arrangements, these agreements enable active participation in a competitive forum, where items are calculated to achieve a balanced capital ratio. Thus, clearing agreements play a crucial role in the stability of the financial system.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:49.244318",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1659.3309352517986
+    },
+    "related_words": [
+      "ons",
+      "notional",
+      "strive",
+      "supervisors",
+      "netting",
+      "solvency",
+      "reinforcement",
+      "prudential",
+      "playing",
+      "contemplated",
+      "compete",
+      "banking",
+      "internationally",
+      "sheet",
+      "forum",
+      "confined",
+      "supervisory",
+      "wider",
+      "contractual",
+      "institute",
+      "legally",
+      "gross",
+      "ratio",
+      "apparent",
+      "items",
+      "credit",
+      "balanced",
+      "obliged",
+      "subsidiarity",
+      "harmonized"
+    ],
+    "prompt_length": 1667,
+    "category": "2406 monetary relations"
+  }
+}

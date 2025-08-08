@@ -1,0 +1,63 @@
+{
+  "concept_id": "4055",
+  "concept_data": {
+    "title": "European Development Fund",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "EDF",
+    "relation_type": "USE"
+  },
+  "summary": "The European Development Fund (EDF) is a pivotal instrument within the EU's cooperation policy, designed to address the immense challenges faced by developing countries, particularly in subregions like Darfur and Vanuatu. Established through the Yaoundé Conventions, the EDF facilitates appropriations for projects aimed at democratization, sanitation, and the resettlement of returnees and combatants. It operates on principles of devolution and reengagement, ensuring that funds are programmable and effectively utilized. The EDF's regulatory framework includes provisions for managing unexpended monies and addressing fragility in various contexts, such as the Haitian crisis. As a redirect, \"EDF\" is the preferred term for this essential funding mechanism, underscoring its role in bridging developmental gaps and supporting initiatives like demobilisation and repatriation.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:43:15.809491",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 853,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 205,
+      "selected_avg_freq": 79.35333333333334
+    },
+    "related_words": [
+      "yaoundé",
+      "unexpended",
+      "yaoundăš",
+      "durint",
+      "seond",
+      "iiaa",
+      "appopriations",
+      "whereupon",
+      "ddrrr",
+      "nip",
+      "sudanese",
+      "immense",
+      "reengagement",
+      "devolution",
+      "regressive",
+      "monies",
+      "subregion",
+      "combatants",
+      "miscellaneous",
+      "fragility",
+      "democratization",
+      "appropriation",
+      "condominium",
+      "returnees",
+      "demobilisation",
+      "hitting",
+      "deserve",
+      "delegates",
+      "decommitted",
+      "programmable"
+    ],
+    "prompt_length": 1742,
+    "category": "0811 cooperation policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4000",
+  "concept_data": {
+    "title": "professional secret",
+    "category_code": "4426",
+    "category_name": "labour law and labour relations",
+    "category_full": "4426 labour law and labour relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"professional secret\" is enshrined in EU labour law and labour relations, emphasizing the confidentiality obligations of officials and staff entrusted with sensitive information. This principle operates to protect the privacy of individuals and organizations, ensuring that whoever violates this secrecy may face considerable penalties. The declassification of records is strictly regulated, with sanctions imposed on offenders who wilfully disclose confidential information. Such violations can lead to disciplinary actions and legal repercussions, including fines or imprisonment. The rationale behind this concept extends to safeguarding the integrity of archives and historical data, as well as maintaining the trust necessary for effective governance and cooperation within EU institutions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:51.209710",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 254,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1632,
+      "selected_avg_freq": 816.32
+    },
+    "related_words": [
+      "whoever",
+      "offender",
+      "wilfully",
+      "declassification",
+      "declassified",
+      "archives",
+      "disciplinary",
+      "sentences",
+      "enshrined",
+      "succession",
+      "renders",
+      "negligence",
+      "proves",
+      "immunities",
+      "secrecy",
+      "privileges",
+      "disclosed",
+      "backed",
+      "servants",
+      "institutes",
+      "confidential",
+      "violation",
+      "invoke",
+      "historical",
+      "eurostat",
+      "infringement",
+      "dealt",
+      "analyses",
+      "operates",
+      "confidentiality"
+    ],
+    "prompt_length": 1731,
+    "category": "4426 labour law and labour relations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5993",
+  "concept_data": {
+    "title": "cement industry",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "cement",
+    "relation_type": "USE"
+  },
+  "summary": "The \"cement industry,\" categorized under building and public works, encompasses various entities such as Cementir, Italcementi, and Unicem, which operate across regions like Gubbio and Bergame. This sector is pivotal in the EU's regulatory framework, addressing environmental concerns related to emissions of substances like acrylaldehyde and nonylphenol. The production of cements, including Portland and pozzolanico varieties, is subject to strict compliance with EU directives, ensuring sustainable practices. Companies such as Molins and Cementos must adhere to regional standards, while associations like the Bundesverband advocate for industry interests. The redirect to \"cement\" underscores its preferred terminology in legal contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:56:35.584848",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 925,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 167,
+      "selected_avg_freq": 59.95333333333333
+    },
+    "related_words": [
+      "cemento",
+      "colacem",
+      "gubbio",
+      "sacci",
+      "cementir",
+      "italcementi",
+      "bergame",
+      "unicem",
+      "friulcem",
+      "cementizillo",
+      "pozzolanico",
+      "yougoslavian",
+      "limes",
+      "oficemen",
+      "asland",
+      "cataluna",
+      "mediterranneo",
+      "cementos",
+      "atlantico",
+      "molins",
+      "compania",
+      "minera",
+      "uniland",
+      "cementera",
+      "npe",
+      "acrylaldehyde",
+      "branched",
+      "formulants",
+      "formulant",
+      "bundesverband"
+    ],
+    "prompt_length": 1725,
+    "category": "6831 building and public works"
+  }
+}

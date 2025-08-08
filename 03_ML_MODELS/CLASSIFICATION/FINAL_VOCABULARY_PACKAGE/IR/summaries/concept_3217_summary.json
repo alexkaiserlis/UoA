@@ -1,0 +1,63 @@
+{
+  "concept_id": "3217",
+  "concept_data": {
+    "title": "wholesale trading centre",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"wholesale trading centre\" refers to a regulated establishment within the EU's distributive trades framework, where goods such as livestock, vegetables, and fruit are marketed and sold in bulk. These centres are crucial for modernizing trade practices, ensuring optimum allocation of resources, and facilitating the execution of authorizations for the buying and selling of products like pigmeat and fishery products. They often compile quotations and ascertained prices for various goods, including pears and grapes, while also addressing limitations on quantities. The regulatory framework aims to enhance rationality in trade, ensuring that installations meet standards for the entirety of the supply chain, from slaughterhouses to textile markets.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:20.031383",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 249,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 1613,
+      "selected_avg_freq": 887.3266666666667
+    },
+    "related_words": [
+      "slipped",
+      "murcia",
+      "fairs",
+      "quotation",
+      "compiling",
+      "subdivided",
+      "modernize",
+      "mistake",
+      "slaughterhouses",
+      "pears",
+      "berlin",
+      "ascertained",
+      "quotations",
+      "carcases",
+      "authorizations",
+      "grapes",
+      "modernization",
+      "slaughtered",
+      "installations",
+      "entirety",
+      "optimum",
+      "pig",
+      "cattle",
+      "places",
+      "pigmeat",
+      "pigs",
+      "rationality",
+      "textile",
+      "allocate",
+      "centres"
+    ],
+    "prompt_length": 1714,
+    "category": "2036 distributive trades"
+  }
+}

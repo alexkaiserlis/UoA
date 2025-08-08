@@ -1,0 +1,63 @@
+{
+  "concept_id": "4412",
+  "concept_data": {
+    "title": "farm work",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "cultivation techniques",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farm work,\" categorized under the cultivation of agricultural land, is redirected to the preferred term \"cultivation techniques\" within EU legal and regulatory frameworks. This relationship underscores the importance of diverse cultivation methods in addressing pressures such as soil erosion and landscape transformation. Effective cultivation techniques are vital for balancing the demands of intensification and extensification, ensuring the upkeep of arable land. Guidelines disseminated by the EU aim to avert flooding and wildfires, while promoting organic practices that enhance soil health. As rural depopulation threatens agricultural viability, educating stakeholders on beneficial practices becomes essential for the sustainable management of the countryside.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:21.050989",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 377,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1055,
+      "selected_avg_freq": 514.2266666666667
+    },
+    "related_words": [
+      "educate",
+      "zonal",
+      "upkeep",
+      "fires",
+      "neutralize",
+      "extensification",
+      "depopulation",
+      "alters",
+      "intensification",
+      "balancing",
+      "avert",
+      "definitely",
+      "erosion",
+      "diverse",
+      "fertilizers",
+      "flooding",
+      "disseminated",
+      "landscape",
+      "pressures",
+      "abandoned",
+      "countryside",
+      "contracted",
+      "reactions",
+      "transformed",
+      "guideline",
+      "budgets",
+      "agri",
+      "forest",
+      "solve",
+      "begins"
+    ],
+    "prompt_length": 1743,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

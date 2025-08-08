@@ -1,0 +1,139 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch and ML Models
+*.pt
+*.pth
+*.safetensors
+*.bin
+model/
+models/
+checkpoints/
+checkpoint-*/
+
+# TensorFlow/TensorBoard logs
+*.0
+*.1
+*.2
+*.3
+*.4
+*.5
+*.6
+*.7
+*.8
+*.9
+events.out.tfevents.*
+*.tfevents.*
+
+# Large datasets and PDFs
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Dataset folders with large files
+01_DATASETS/ETHNIKO_TYPOGRAFEIO/ΕΘΝΙΚΟ ΤΥΠΟΓΡΑΦΕΙΟ/
+01_DATASETS/HELLASVOC/HELLASVOC/
+01_DATASETS/RAW_DATA/
+FINAL_VOCABULARY_PACKAGE/data/
+FINAL_VOCABULARY_PACKAGE/EURLEX_DATASET/
+FINAL_VOCABULARY_PACKAGE/drive-download-*.zip
+
+# Model experiments folders - exclude all large model files
+03_ML_MODELS/NER_MODELS/experiments/*/checkpoint-*/
+03_ML_MODELS/NER_MODELS/experiments/*/model/
+03_ML_MODELS/NER_MODELS/experiments/baseline/checkpoint-*/
+03_ML_MODELS/NER_MODELS/experiments/crf_enhanced/checkpoint-*/  
+03_ML_MODELS/NER_MODELS/experiments/focal_loss/checkpoint-*/
+03_ML_MODELS/NER_MODELS/experiments/augmented/checkpoint-*/
+03_ML_MODELS/NER_MODELS/experiments/baseline/model/
+03_ML_MODELS/NER_MODELS/experiments/crf_enhanced/model/
+03_ML_MODELS/NER_MODELS/experiments/focal_loss/model/
+03_ML_MODELS/NER_MODELS/experiments/augmented/model/
+03_ML_MODELS/NER_MODELS/cache/
+
+# Large result folders
+ner_results/
+04_RESULTS/CRF_RESULTS/
+04_RESULTS/FOCAL_LOSS_RESULTS/
+
+# Logs
+*.log
+04_RESULTS/LOGS/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Keep only essential files:
+# - Source code (.py files)
+# - Configuration files (.json, .yaml, .yml)
+# - Documentation (.md, .txt)
+# - Small datasets (.csv, .jsonl for training/validation)
+# - Requirements and setup files
+
+# Specific exceptions (keep these even if they match patterns above)
+!requirements.txt
+!setup.py
+!config.json
+!*_config.json
+!README.md
+!*.py
+
+# Keep small essential JSON files but exclude large model files
+!*.json
+# But exclude large JSON files in certain directories
+01_DATASETS/ETHNIKO_TYPOGRAFEIO/**/*.json
+01_DATASETS/HELLASVOC/**/*.json
+FINAL_VOCABULARY_PACKAGE/**/*.json

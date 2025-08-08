@@ -1,0 +1,63 @@
+{
+  "concept_id": "3521",
+  "concept_data": {
+    "title": "national",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"national\" within EU legal and regulatory frameworks pertains to the status and rights of individuals and entities within member states. It encompasses various undertakings related to nationality, residency, and the legal implications of being a national. For instance, residents of the Balearic archipelago may face specific regulations regarding travel routes and ticket fares when engaging with transmediterranea services. Additionally, the concept is crucial in contexts involving criminal tribunals, such as the ICTY, where nationality can influence jurisdiction and legal proceedings against individuals like Saddam Hussein. The EU reaffirms the importance of nationality in ensuring the protection of rights and representation, especially during occasions of legal enactments or decrees that impact nationals.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:53.583129",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 294,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1217,
+      "selected_avg_freq": 486.56
+    },
+    "related_words": [
+      "tavelling",
+      "underakings",
+      "stae",
+      "membr",
+      "similarily",
+      "transmediterranea",
+      "saddam",
+      "hussein",
+      "sailings",
+      "tickets",
+      "iberia",
+      "palmas",
+      "indicted",
+      "icty",
+      "tenerife",
+      "iraqi",
+      "fares",
+      "fare",
+      "cruz",
+      "crimes",
+      "enact",
+      "santa",
+      "las",
+      "pointing",
+      "balearic",
+      "evade",
+      "tribunal",
+      "intermediary",
+      "archipelago",
+      "cee"
+    ],
+    "prompt_length": 1645,
+    "category": "1231 international law"
+  }
+}

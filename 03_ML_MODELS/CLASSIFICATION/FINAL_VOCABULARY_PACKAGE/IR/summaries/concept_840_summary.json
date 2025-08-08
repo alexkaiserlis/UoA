@@ -1,0 +1,63 @@
+{
+  "concept_id": "840",
+  "concept_data": {
+    "title": "exhaustion of resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"exhaustion of resources\" within EU environmental policy pertains to the sustainable management of aquatic resources, particularly in the context of fishing fleets operating in the Atlantic and Mediterranean waters. This principle emphasizes the precautionary approach to prevent the over-exploitation of species such as bluefin tuna, ensuring that fishing activities, including seiners and trawlers, do not exceed sustainable limits. The EU regulates fishing gears and techniques, fixing quotas to prolong the viability of fish populations. Prohibiting certain practices, such as catching during critical periods, is essential for maintaining hygiene and ecological balance, thereby safeguarding future opportunities for aquaculture and fishing industries across member states, including Croatia.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:56:26.149408",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 30,
+      "selected_max_freq": 2659,
+      "selected_avg_freq": 1049.0466666666666
+    },
+    "related_words": [
+      "longitude",
+      "seiners",
+      "bluefin",
+      "purse",
+      "seine",
+      "catching",
+      "traps",
+      "trawlers",
+      "gears",
+      "fished",
+      "gear",
+      "fleets",
+      "navigation",
+      "ocean",
+      "metres",
+      "tuna",
+      "finds",
+      "flying",
+      "atlantic",
+      "prolongation",
+      "fleet",
+      "stop",
+      "viability",
+      "flag",
+      "aquatic",
+      "confirms",
+      "vessel",
+      "possession",
+      "prolong",
+      "prohibiting"
+    ],
+    "prompt_length": 1650,
+    "category": "5206 environmental policy"
+  }
+}

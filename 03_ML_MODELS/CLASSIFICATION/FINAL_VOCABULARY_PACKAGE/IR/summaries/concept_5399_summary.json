@@ -1,0 +1,63 @@
+{
+  "concept_id": "5399",
+  "concept_data": {
+    "title": "access to EU information",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"access to EU information\" enshrines the legitimacy and soundness of EU institutions by ensuring that data is digitised and made searchable. This access maximises the reusability of information, facilitating interaction with archives and repositories like EUR-Lex. It emphasizes timeliness and transparency, allowing for the candid dissemination of microdata and modelling hypotheses. The legal framework, supported by the CJEU, delineates the determinants of access while embedding disclaimers to safeguard sensitive information. By leveraging untapped resources, the EU fosters harmony and facilitates the enumeration of data, ultimately enhancing public engagement and supporting simulation initiatives such as eEurope.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:29:39.949123",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1210,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 109,
+      "selected_avg_freq": 50.86
+    },
+    "related_words": [
+      "renumbering",
+      "disclaimers",
+      "antedate",
+      "eui",
+      "csis",
+      "hbs",
+      "cgr",
+      "substructures",
+      "candid",
+      "untapped",
+      "eurlex",
+      "searchable",
+      "armament",
+      "enshrines",
+      "maximised",
+      "cjeu",
+      "singled",
+      "reusability",
+      "corpus",
+      "microdata",
+      "hypotheses",
+      "nominating",
+      "divulging",
+      "esrb",
+      "embed",
+      "style",
+      "legitimacy",
+      "soundness",
+      "leveraging",
+      "archives"
+    ],
+    "prompt_length": 1711,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

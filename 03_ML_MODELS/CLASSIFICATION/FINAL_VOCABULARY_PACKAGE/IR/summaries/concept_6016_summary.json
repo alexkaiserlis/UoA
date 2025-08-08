@@ -1,0 +1,63 @@
+{
+  "concept_id": "6016",
+  "concept_data": {
+    "title": "United Nations Conference on Trade and Development",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN Conference on Trade and Development",
+    "relation_type": "USE"
+  },
+  "summary": "The \"UN Conference on Trade and Development\" (UNCTAD) plays a pivotal role in shaping international trade regulations, particularly for developing nations. Established to negotiate and improve trade preferences, UNCTAD focuses on enhancing the industrial capabilities of these nations through guidelines and studies that address issues like jute and textiles. The conference sessions, held periodically, aim to finalize outcomes that benefit developing countries by offering preferential treatment in trade agreements. This process is crucial as it replaces outdated rules with renewed preferences, ensuring that beneficiaries automatically receive support unless specified otherwise. The EU recognizes UNCTAD's influence in promoting positive trade relations and improving economic conditions globally.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:17:15.883898",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 159,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1641.7866666666666
+    },
+    "related_words": [
+      "jute",
+      "unctad",
+      "went",
+      "liquidation",
+      "played",
+      "ninth",
+      "ended",
+      "negotiating",
+      "generalized",
+      "semi",
+      "finished",
+      "preference",
+      "session",
+      "automatically",
+      "replaces",
+      "textile",
+      "preferences",
+      "started",
+      "adding",
+      "renewed",
+      "beneficiaries",
+      "preferential",
+      "recognized",
+      "expire",
+      "conference",
+      "outcome",
+      "study",
+      "negotiated",
+      "half",
+      "approve"
+    ],
+    "prompt_length": 1762,
+    "category": "7606 United Nations"
+  }
+}

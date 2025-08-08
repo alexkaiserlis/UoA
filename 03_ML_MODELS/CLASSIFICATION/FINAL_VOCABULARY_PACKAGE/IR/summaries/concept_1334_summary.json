@@ -1,0 +1,63 @@
+{
+  "concept_id": "1334",
+  "concept_data": {
+    "title": "unfit for work",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "incapacity for work",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"unfit for work,\" redirected to \"incapacity for work,\" pertains to the legal framework governing occupational health within the EU. This term encompasses individuals unable to perform their job due to medical conditions or diseases, ultimately jeopardizing their professional lives. The regulatory dialogue aims to harmonize benefits and certification processes across member states, ensuring that employed individuals receive legitimate support. Adaptation of work environments assists in aligning expectations with health needs, while simplified procedures for obtaining medical certificates enhance certainty for families affected by such conditions. This framework is crucial for preventing accidents, particularly in high-risk sectors like railway operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:56:08.523703",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 172,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 3259,
+      "selected_avg_freq": 1496.9533333333334
+    },
+    "related_words": [
+      "binocular",
+      "locomotives",
+      "contradicts",
+      "eyes",
+      "trains",
+      "assists",
+      "train",
+      "jeopardizing",
+      "drivers",
+      "sickness",
+      "vision",
+      "families",
+      "ultimately",
+      "railway",
+      "occupational",
+      "stay",
+      "job",
+      "alignment",
+      "rail",
+      "accidents",
+      "dialogue",
+      "expectations",
+      "lost",
+      "moving",
+      "medical",
+      "legitimate",
+      "modifying",
+      "retroactively",
+      "self",
+      "diseases"
+    ],
+    "prompt_length": 1758,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

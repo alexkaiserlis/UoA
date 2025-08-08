@@ -1,0 +1,63 @@
+{
+  "concept_id": "328",
+  "concept_data": {
+    "title": "greenhouse crops",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "glasshouse cultivation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"greenhouse crops,\" which redirects to the preferred term \"glasshouse cultivation,\" pertains to the cultivation of agricultural land under controlled conditions, primarily using glass structures. In EU regulatory frameworks, glasshouse cultivation is subject to stringent assessments to ensure that operators comply with specifications regarding toxicological profiles and impurity limits in crops, such as tomatoes. Notifiers must provide justifiable arguments and calculations to demonstrate that their practices do not exceed permissible exposure levels. Procedural evaluations involve meetings with rapporteurs to discuss scenarios related to contamination and the accelerated growth of batches, ensuring that all authorisations are finalised and realistic.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:26.365388",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 278,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1423,
+      "selected_avg_freq": 727.06
+    },
+    "related_words": [
+      "undser",
+      "glasshouse",
+      "flurprimidol",
+      "aoel",
+      "justifiably",
+      "impurity",
+      "notifier",
+      "irrigation",
+      "batches",
+      "scenarios",
+      "worker",
+      "rapporteur",
+      "toxicological",
+      "greenhouse",
+      "realistic",
+      "justifiable",
+      "profile",
+      "glass",
+      "tomatoes",
+      "carefully",
+      "substantive",
+      "contaminated",
+      "accelerated",
+      "variation",
+      "concentrate",
+      "calculations",
+      "finalised",
+      "grown",
+      "package",
+      "assessments"
+    ],
+    "prompt_length": 1775,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

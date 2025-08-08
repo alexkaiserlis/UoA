@@ -1,0 +1,63 @@
+{
+  "concept_id": "6626",
+  "concept_data": {
+    "title": "Specific Information Exchange System",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "Schengen Information System",
+    "relation_type": "USE"
+  },
+  "summary": "The Specific Information Exchange System, commonly referred to as the Schengen Information System (SIS), is a pivotal framework in EU international law designed to enhance security and cooperation among member states. It facilitates the transmission of data regarding stolen property, aliens, and individuals subject to alerts, thereby ensuring robust operability and interlinking of information. The SIS employs encryption to safeguard sensitive transmissions, while its unique functionalities, such as the Sirene system, support multilaterally coordinated responses. As the system evolves, it addresses challenges like overburdening and misinterpretations, ensuring that data remains relevant and declassified for effective law enforcement.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:02:40.428895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1120,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 177,
+      "selected_avg_freq": 78.85333333333334
+    },
+    "related_words": [
+      "smtp",
+      "overburdening",
+      "resend",
+      "misinterpretations",
+      "declassify",
+      "robustness",
+      "restreint",
+      "aliens",
+      "encryption",
+      "migrated",
+      "caravans",
+      "declassifying",
+      "multilaterally",
+      "mta",
+      "ensemble",
+      "def",
+      "stolen",
+      "interlinking",
+      "uniqueness",
+      "formations",
+      "declassified",
+      "unladen",
+      "sisnet",
+      "misappropriated",
+      "sirene",
+      "assistants",
+      "transmissions",
+      "seizure",
+      "downgraded",
+      "conceived"
+    ],
+    "prompt_length": 1788,
+    "category": "1231 international law"
+  }
+}

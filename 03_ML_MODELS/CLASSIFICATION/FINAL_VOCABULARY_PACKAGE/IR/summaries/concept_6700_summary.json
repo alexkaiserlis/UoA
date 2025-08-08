@@ -1,0 +1,63 @@
+{
+  "concept_id": "6700",
+  "concept_data": {
+    "title": "energy efficiency",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Energy efficiency, a critical component of EU energy policy, focuses on optimizing energy use to reduce consumption and enhance sustainability. It encompasses various strategies, including retrofitting older buildings and implementing cogeneration systems to improve thermodynamics. The EU sets ambitious targets for energy efficiency, aiming to save significant mtoe through differentiated measures across sectors. Regulatory frameworks promote the use of ecolabels and ecodesign to encourage investments in energy-efficient technologies, such as advanced boilers and biogas systems. Additionally, the EU negotiates options for grid enhancements and heat generation improvements, reflecting a commitment to realistic projections and justifiable incentives that support ambient temperature regulation and climatic goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:26.588872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 328,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1102,
+      "selected_avg_freq": 582.1466666666666
+    },
+    "related_words": [
+      "mtoe",
+      "cogeneration",
+      "thermodynamics",
+      "retrofitting",
+      "ecolabel",
+      "ecodesign",
+      "boilers",
+      "biogas",
+      "matrix",
+      "star",
+      "waiving",
+      "grid",
+      "ambient",
+      "statistically",
+      "investor",
+      "projections",
+      "older",
+      "generating",
+      "projected",
+      "drew",
+      "realistic",
+      "constructed",
+      "justifiable",
+      "art",
+      "save",
+      "implements",
+      "wood",
+      "fuels",
+      "climatic",
+      "built"
+    ],
+    "prompt_length": 1683,
+    "category": "6606 energy policy"
+  }
+}

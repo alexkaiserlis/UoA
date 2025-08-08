@@ -1,0 +1,63 @@
+{
+  "concept_id": "1642",
+  "concept_data": {
+    "title": "export permit",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "export licence",
+    "relation_type": "USE"
+  },
+  "summary": "An \"export permit,\" commonly referred to as an \"export licence,\" is a regulatory document required for the delivery of goods from the EU to a destination outside its borders. This licence is essential for ensuring compliance with restrictions concerning specific products, such as agricultural items or maltodextrine. The validity of an export licence is crucial, as it interrupts the potential for confiscating goods during transport. In the context of negotiations, the issuance of such licences can affect trade dynamics, particularly in sectors like the winesector. Implementing quantitative restrictions may also necessitate rerouting shipments, thus impacting dockers and the overall outlay of trade operations. The process of establishing these licences involves synchronizing with various regulatory frameworks across member states, including Bundesländer, to ensure that all requirements are met.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:57:57.184497",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 3206,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 14.346666666666666
+    },
+    "related_words": [
+      "interrupts",
+      "fith",
+      "validy",
+      "dockers",
+      "rend",
+      "glacăš",
+      "concernint",
+      "culd",
+      "subparagrah",
+      "upsetting",
+      "winesector",
+      "rerouting",
+      "haying",
+      "implemeting",
+      "ocases",
+      "establsih",
+      "restricitions",
+      "licece",
+      "licenceswith",
+      "deliverance",
+      "exort",
+      "repacked",
+      "aparticular",
+      "wre",
+      "kazakstan",
+      "kyrgystan",
+      "innitiations",
+      "quantitatives",
+      "neutralized",
+      "outlay"
+    ],
+    "prompt_length": 1743,
+    "category": "2011 tariff policy"
+  }
+}

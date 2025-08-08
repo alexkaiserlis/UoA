@@ -1,0 +1,63 @@
+{
+  "concept_id": "7218",
+  "concept_data": {
+    "title": "geographical information system",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A geographical information system (GIS) is a critical infrastructure in the EU, facilitating the sharing of spatial data among institutions and bodies. It allows for the coherent integration of diverse themes and metadata, enhancing usability for contractors and policymakers. The INSPIRE Directive sets specifications for GIS, ensuring compatibility and harmonised approaches across member states. Agreements and contracts define the tasks and requirements for GIS operation, while exceptions and expiry clauses govern the licensing of data. This system supports the renewal of environmental policies and fosters efficient exchanges of information, ultimately fulfilling the EU's objectives for a sustainable and informed environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:12:35.645497",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1908.304347826087
+    },
+    "related_words": [
+      "usability",
+      "mails",
+      "inspire",
+      "metadata",
+      "themes",
+      "spatial",
+      "get",
+      "eighteen",
+      "contractors",
+      "terminology",
+      "sharing",
+      "coherent",
+      "renewal",
+      "exchanges",
+      "link",
+      "exceptions",
+      "infrastructure",
+      "respected",
+      "compatibility",
+      "licence",
+      "network",
+      "specifications",
+      "operate",
+      "arrangement",
+      "created",
+      "contracts",
+      "expiry",
+      "harmonised",
+      "previously",
+      "policies"
+    ],
+    "prompt_length": 1701,
+    "category": "3606 natural and applied sciences"
+  }
+}

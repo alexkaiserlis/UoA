@@ -1,0 +1,63 @@
+{
+  "concept_id": "4365",
+  "concept_data": {
+    "title": "United Nations programmes and funds",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN programmes and funds",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"UN programmes and funds,\" categorized under the United Nations, encompasses various financial resources allocated for development and humanitarian efforts. In the context of EU legal and regulatory frameworks, these funds are often subject to specific conditions set by UN Security Council (UNSC) resolutions. For instance, assets may be frozen or transferred in compliance with decisions regarding Iraq or other nations. The EU's Common Foreign and Security Policy (CFSP) plays a crucial role in implementing these arrangements, ensuring that funds are utilized effectively and in accordance with adopted resolutions. The management of these resources is pivotal for the full realization of international development goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:18:45.245658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 91,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 91,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2030.5849056603774
+    },
+    "related_words": [
+      "unsc",
+      "iraq",
+      "proceeds",
+      "successor",
+      "resolutions",
+      "assets",
+      "frozen",
+      "terminated",
+      "cfsp",
+      "transferred",
+      "accounts",
+      "nations",
+      "transfer",
+      "funds",
+      "resolution",
+      "permit",
+      "fund",
+      "later",
+      "put",
+      "resources",
+      "security",
+      "full",
+      "decided",
+      "government",
+      "position",
+      "place",
+      "united",
+      "arrangements",
+      "financial",
+      "development"
+    ],
+    "prompt_length": 1692,
+    "category": "7606 United Nations"
+  }
+}

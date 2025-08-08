@@ -1,0 +1,63 @@
+{
+  "concept_id": "4442",
+  "concept_data": {
+    "title": "building plot",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"building plot\" refers to a designated area of land intended for the construction of residential or commercial buildings within the framework of EU construction and town planning regulations. Developers must navigate various legal obligations, including compliance with zoning laws and occupancy ratings. The letting of building plots is often subject to VAT, which can be taxed or exempted based on specific criteria. Historical contexts, such as the displacement of refugees in the Balkans, may influence planning decisions. Additionally, regulations may derogate from standard practices to accommodate renewable housing solutions. Notaries and bailiffs play crucial roles in the legal processes surrounding the transfer and occupation of these plots, ensuring that all transactions are justifiable and aligned with EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:39.040469",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 333,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1122,
+      "selected_avg_freq": 524.9066666666666
+    },
+    "related_words": [
+      "developer",
+      "lets",
+      "notaries",
+      "bailiffs",
+      "narrowing",
+      "letting",
+      "displaced",
+      "ipa",
+      "residential",
+      "rent",
+      "taxed",
+      "refugees",
+      "rating",
+      "exempts",
+      "occupied",
+      "balkans",
+      "occupation",
+      "derogates",
+      "evasion",
+      "croatian",
+      "retaining",
+      "taxable",
+      "avoidance",
+      "housing",
+      "constructed",
+      "deletion",
+      "approximate",
+      "buildings",
+      "passengers",
+      "accruing"
+    ],
+    "prompt_length": 1688,
+    "category": "2846 construction and town planning"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2269",
+  "concept_data": {
+    "title": "political participation",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Political participation within the EU legal framework encompasses the active engagement of citizens and stakeholders in the democratic process, enhancing transparency and integrity in governance. This concept includes various contexts, such as lobbying by interest groups, including churches and philosophical organizations, which seek to influence decision-making openly. The Treaty on the Functioning of the European Union (TFEU) emphasizes the importance of public dialogue and consultations, allowing citizens to attend meetings and propose initiatives. Furthermore, institutional audits and investigations are conducted to ensure that the processes are sincere and unambiguously uphold privacy and consent, thereby fostering a society where individuals understand their rights and can actively pursue their interests.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:40:53.430598",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 234,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1813,
+      "selected_avg_freq": 788.7466666666667
+    },
+    "related_words": [
+      "lobbyists",
+      "churches",
+      "philosophical",
+      "confessional",
+      "cabinets",
+      "sincere",
+      "unambiguously",
+      "learn",
+      "contexts",
+      "cabinet",
+      "openly",
+      "attend",
+      "confronted",
+      "privacy",
+      "understand",
+      "vice",
+      "domain",
+      "directors",
+      "withheld",
+      "teu",
+      "holds",
+      "audits",
+      "contacts",
+      "proposing",
+      "missions",
+      "dialogue",
+      "integrity",
+      "institutional",
+      "undermine",
+      "enhancing"
+    ],
+    "prompt_length": 1702,
+    "category": "0431 politics and public safety"
+  }
+}

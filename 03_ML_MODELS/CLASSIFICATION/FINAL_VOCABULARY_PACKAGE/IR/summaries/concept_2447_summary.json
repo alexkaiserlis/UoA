@@ -1,0 +1,63 @@
+{
+  "concept_id": "2447",
+  "concept_data": {
+    "title": "banking policy",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Banking policy within the EU framework encompasses the regulatory measures governing financial institutions and credit systems. It involves the oversight of national central banks (ncb) and the establishment of counterparty credit risk management through central counterparties (ccps). The policy aims to ensure prudential stability, adjusting exposures and weightings to mitigate risks. It tacitly influences the seigniorage of member states, such as Česká, Magyar, and României, by regulating the issuance and circulation of banknotes. Additionally, the Eurosystem plays a crucial role in harmonizing banking practices, while national banks, like Danmarks Nationalbank and Sveriges Riksbank, contribute to the collective stability of the financial landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:13.690974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 408,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 724,
+      "selected_avg_freq": 295.8466666666667
+    },
+    "related_words": [
+      "qccps",
+      "seigniorage",
+      "qccp",
+      "česká",
+      "národní",
+      "eesti",
+      "pank",
+      "magyar",
+      "nemzeti",
+      "narodowy",
+      "sveriges",
+      "riksbank",
+      "národná",
+      "naţională",
+      "româniei",
+      "lietuvos",
+      "bankas",
+      "danmarks",
+      "slovenska",
+      "polski",
+      "latvijas",
+      "nationalbank",
+      "slovenije",
+      "ccp",
+      "ccps",
+      "penalising",
+      "counterparty",
+      "tacitly",
+      "banka",
+      "banca"
+    ],
+    "prompt_length": 1679,
+    "category": "2416 financial institutions and credit"
+  }
+}

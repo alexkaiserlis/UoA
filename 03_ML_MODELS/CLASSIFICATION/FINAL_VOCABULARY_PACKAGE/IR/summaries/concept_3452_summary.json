@@ -1,0 +1,63 @@
+{
+  "concept_id": "3452",
+  "concept_data": {
+    "title": "OCCAR",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "European arms policy",
+    "relation_type": "USE"
+  },
+  "summary": "OCCAR, a clearinghouse for European arms policy, plays a pivotal role in consolidating defence capabilities across EU member states. It addresses the proliferation of firearms and explosives, acutely aware of the destabilising effects of uncontrolled stockpiles and trafficking. By emphasising disarmament and demobilisation, OCCAR influences the rehabilitation of combatants and promotes voluntary surrender of weapons. The organisation engages with parliamentarians and donors in various fora, including forums in Belgrade and Lima, to drive initiatives that mitigate insecurity. Its programmes focus on training trainers and enhancing visibility of arms management, thereby pursuing a comprehensive approach to security and stability in the region.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:03:57.413780",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 332,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 792,
+      "selected_avg_freq": 306.05333333333334
+    },
+    "related_words": [
+      "programe",
+      "clearinghouse",
+      "academies",
+      "parliamentarians",
+      "combatants",
+      "lirec",
+      "demobilisation",
+      "exacerbating",
+      "undp",
+      "acutely",
+      "lima",
+      "forums",
+      "emphasising",
+      "dda",
+      "firearms",
+      "insecurity",
+      "convince",
+      "stockpile",
+      "surrender",
+      "trainers",
+      "appealed",
+      "belgrade",
+      "influencing",
+      "explosives",
+      "disarmament",
+      "ammunition",
+      "destabilising",
+      "pursues",
+      "constraint",
+      "fuelled"
+    ],
+    "prompt_length": 1747,
+    "category": "0821 defence"
+  }
+}

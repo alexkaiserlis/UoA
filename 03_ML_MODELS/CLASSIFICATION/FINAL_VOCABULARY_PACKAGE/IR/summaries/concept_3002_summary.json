@@ -1,0 +1,63 @@
+{
+  "concept_id": "3002",
+  "concept_data": {
+    "title": "totalitarianism",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": true,
+    "preferred_term": "authoritarian regime",
+    "relation_type": "USE"
+  },
+  "summary": "Totalitarianism, often redirected to \"authoritarian regime,\" refers to a political framework characterized by severe repression and violations of human rights. In the context of EU legal and regulatory documents, this concept is particularly relevant when addressing situations like that in Belarus under Lukashenka's regime. The EU has adopted restrictive measures, including freezing funds and applying economic sanctions against entities benefiting from such oppressive governance. These actions aim to support the opposition and uphold democratic values by providing resources to civil society. The CFSP (Common Foreign and Security Policy) reflects the Union's serious commitment to addressing the gravity of human rights violations and ensuring responsible governance until the situation improves.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:17:59.465366",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1774.2407407407406
+    },
+    "related_words": [
+      "lukashenka",
+      "repression",
+      "gravity",
+      "violations",
+      "belarus",
+      "freezing",
+      "opposition",
+      "admission",
+      "society",
+      "cfsp",
+      "benefiting",
+      "entities",
+      "democratic",
+      "restrictive",
+      "leading",
+      "regime",
+      "supporting",
+      "restrictions",
+      "material",
+      "adopting",
+      "funds",
+      "responsible",
+      "serious",
+      "human",
+      "persons",
+      "rights",
+      "resources",
+      "providing",
+      "position",
+      "extended"
+    ],
+    "prompt_length": 1718,
+    "category": "0406 political framework"
+  }
+}

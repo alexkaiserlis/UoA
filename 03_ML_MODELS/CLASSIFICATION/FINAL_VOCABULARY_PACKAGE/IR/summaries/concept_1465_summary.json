@@ -1,0 +1,63 @@
+{
+  "concept_id": "1465",
+  "concept_data": {
+    "title": "quality objective",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "production improvement",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory frameworks, the term \"quality objective,\" redirected to \"production improvement,\" serves as a cornerstone for enhancing agricultural and industrial outputs. This concept addresses inadequacies in production processes, particularly in sectors like beekeeping, where diseases such as varroasis threaten colonies. Consequently, measures are implemented to curb these issues, focusing on infrastructural advancements and ecosystem health. For instance, in apiculture, the management of hives and the removal of diseased progeny are critical. Additionally, the production of crops like hazelnut and freshwater eels is optimized through careful land development and the monitoring of micromoles. These efforts furthering production improvement are essential for sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:34.639293",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1287,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 151,
+      "selected_avg_freq": 71.16
+    },
+    "related_words": [
+      "difficulies",
+      "elvers",
+      "consequnetly",
+      "meastures",
+      "pylias",
+      "outgoings",
+      "landdevelopment",
+      "micromoles",
+      "diseased",
+      "woodlands",
+      "inadequacies",
+      "varroasis",
+      "glucosinolate",
+      "opinon",
+      "mites",
+      "varroa",
+      "beekeeping",
+      "interacts",
+      "inadequacy",
+      "hazelnut",
+      "infrastructural",
+      "backwardness",
+      "cornerstone",
+      "colonies",
+      "mould",
+      "forcing",
+      "locust",
+      "energies",
+      "apiculture",
+      "salmonidae"
+    ],
+    "prompt_length": 1724,
+    "category": "6406 production"
+  }
+}

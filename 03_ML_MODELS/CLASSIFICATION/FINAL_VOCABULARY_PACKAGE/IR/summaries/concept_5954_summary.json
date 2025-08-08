@@ -1,0 +1,63 @@
+{
+  "concept_id": "5954",
+  "concept_data": {
+    "title": "review procedure",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "appeal",
+    "relation_type": "USE"
+  },
+  "summary": "The \"review procedure,\" commonly redirected to \"appeal,\" is a critical aspect of EU legal frameworks, particularly in matters concerning the enforceability of judgments across member states. This procedure allows interested parties, such as spouses in matrimonial disputes or parents in parental rights cases, to seek redress against decisions issued by competent courts. The appeal process enumerates specific grounds for challenging judgments, ensuring that decisions are recognized and enforced in acceding states like Slovakia, Slovenia, Latvia, Lithuania, and others. It provides a structured approach for parties to request amendments or declarations, thereby enhancing the jurisdictional coherence of EU law and ensuring that rights are duly protected.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:25.673882",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 68,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 68,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1784.3676470588234
+    },
+    "related_words": [
+      "enumerate",
+      "spouses",
+      "matrimonial",
+      "enforceability",
+      "enforceable",
+      "parental",
+      "redress",
+      "appeals",
+      "acceding",
+      "courts",
+      "judgments",
+      "children",
+      "jurisdiction",
+      "judgment",
+      "deal",
+      "slovakia",
+      "enforcement",
+      "slovenia",
+      "latvia",
+      "lithuania",
+      "recognition",
+      "indicate",
+      "declared",
+      "responsibility",
+      "interested",
+      "party",
+      "lists",
+      "recognised",
+      "matters",
+      "declaration"
+    ],
+    "prompt_length": 1708,
+    "category": "1221 justice"
+  }
+}

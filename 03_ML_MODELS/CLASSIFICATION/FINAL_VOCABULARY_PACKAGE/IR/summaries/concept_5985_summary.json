@@ -1,0 +1,63 @@
+{
+  "concept_id": "5985",
+  "concept_data": {
+    "title": "branch of activity",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"branch of activity\" within the EU legal and regulatory framework pertains to the classification of businesses as defined by NACE (Nomenclature of Economic Activities). This classification system is crucial for compiling reliable data on various sectors, allowing for systematic comparisons of expenditures and performance indicators across different dimensions. It includes instructions for completing registers that reflect the periodicity of activities, such as banking and insurance. The module facilitates the transmission of consolidated accounts, ensuring that affiliates can adapt to regulatory changes. By analyzing these variables, Eurostat can identify competitiveness issues and address errors in data compilation, thereby enhancing the overall reliability of economic assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:51.422866",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 238,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 34,
+      "selected_max_freq": 1960,
+      "selected_avg_freq": 914.5733333333334
+    },
+    "related_words": [
+      "affiliates",
+      "periodicity",
+      "module",
+      "rev",
+      "outward",
+      "pension",
+      "expenditures",
+      "nace",
+      "resident",
+      "inward",
+      "variables",
+      "compiled",
+      "comparing",
+      "dimensions",
+      "compilation",
+      "registers",
+      "completing",
+      "differs",
+      "banking",
+      "manual",
+      "instructions",
+      "tools",
+      "indicators",
+      "eurostat",
+      "broken",
+      "frequently",
+      "businesses",
+      "contents",
+      "systematic",
+      "errors"
+    ],
+    "prompt_length": 1693,
+    "category": "4011 business classification"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1273",
+  "concept_data": {
+    "title": "quality of life at work",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "humanisation of work",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"quality of life at work,\" redirected to the preferred term \"humanisation of work,\" encompasses vital aspects of the organisation of work and working conditions within the EU legal framework. It reflects the interdependence between decent working conditions and socio-economic factors such as unemployment and poverty. The EU aims to ratify conventions that promote responsive and adaptable work environments, focusing on lifelong learning and the integration of skilled migrant workers. Through judicial reforms and the TFEU, the EU guides member states in achieving broad targets for productivity and inclusivity, ensuring that the workforce is trained and equipped to respond to evolving job demands. This concept plays a crucial role in the EU's commitment to improving working conditions and fostering a fair labour market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:50:36.083760",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 290,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 26,
+      "selected_max_freq": 1246,
+      "selected_avg_freq": 618.5933333333334
+    },
+    "related_words": [
+      "responsive",
+      "deficient",
+      "adaptable",
+      "decent",
+      "tertiary",
+      "lifelong",
+      "ilo",
+      "skilled",
+      "headline",
+      "migrant",
+      "interdependence",
+      "asylum",
+      "combining",
+      "immigration",
+      "smart",
+      "ratify",
+      "responding",
+      "learning",
+      "trained",
+      "explore",
+      "workforce",
+      "pact",
+      "teu",
+      "plays",
+      "poverty",
+      "job",
+      "reforms",
+      "unemployment",
+      "criminal",
+      "socio"
+    ],
+    "prompt_length": 1734,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

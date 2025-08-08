@@ -1,0 +1,63 @@
+{
+  "concept_id": "1161",
+  "concept_data": {
+    "title": "logistics",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"logistics\" encompasses the systematic management of the flow of goods and services, crucial for sectors such as textiles and machinery. Organizations like the Fachgemeinschaft and VDMA exemplify the collaborative efforts of exhibitors and resellers, ensuring compliance with stringent regulations. Events in cities like Lyoner and Zürich facilitate networking among stakeholders, including drapiers and constructeurs. The role of logistics is further underscored by the involvement of syndicat belges and the participation of exhibitors from diverse regions, such as Zoetermeer and Bruxelles. Effective logistics management is vital for maintaining competitive advantage and ensuring that products, like macchinario and textielmachines, reach markets efficiently, while adhering to EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:36:00.516514",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 499,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 272,
+      "selected_avg_freq": 82.42
+    },
+    "related_words": [
+      "cematex",
+      "itma",
+      "janaury",
+      "fachgemeinschaft",
+      "textilmaschinen",
+      "verein",
+      "anstalten",
+      "vdma",
+      "lyoner",
+      "constructeurs",
+      "symatex",
+      "drapiers",
+      "ucmtf",
+      "hoche",
+      "btma",
+      "costruttori",
+      "italiani",
+      "macchinario",
+      "acimit",
+      "tevere",
+      "textielmachines",
+      "gtm",
+      "metaal",
+      "elektrotechnische",
+      "fme",
+      "bredewater",
+      "zoetermeer",
+      "vsm",
+      "kirchenweg",
+      "mock"
+    ],
+    "prompt_length": 1664,
+    "category": "4021 management"
+  }
+}

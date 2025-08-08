@@ -1,0 +1,63 @@
+{
+  "concept_id": "1635",
+  "concept_data": {
+    "title": "free market",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": true,
+    "preferred_term": "free competition",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"free market,\" redirected to \"free competition,\" is pivotal in EU competition law, emphasizing rivalry among competitors to enhance consumer welfare. This principle aims to satisfy market demands while preventing dominance by any single entity, thus fostering a structurally balanced environment. The rationale behind free competition is to encourage innovation and efficiency, particularly in sectors like polypropylene and catalysts, where sophisticated technologies such as spheripol and fluidized processes are utilized. Regulatory frameworks often involve remedies like divestiture to address anti-competitive behaviors, ensuring that licensees and competitors can thrive without constraints. This dynamic landscape is crucial for maintaining a vibrant economic center in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:23:41.927896",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 502,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 470,
+      "selected_avg_freq": 184.59333333333333
+    },
+    "related_words": [
+      "statisfy",
+      "montecatini",
+      "concentrative",
+      "montell",
+      "spheripol",
+      "unipol",
+      "ucc",
+      "rivalry",
+      "technipol",
+      "cua",
+      "shac",
+      "seadrift",
+      "ftc",
+      "divestiture",
+      "polyco",
+      "norco",
+      "westhollow",
+      "licensor",
+      "dominance",
+      "montedison",
+      "toll",
+      "louisiana",
+      "fluidized",
+      "polyolefins",
+      "severance",
+      "catalysts",
+      "houston",
+      "carbide",
+      "summarized",
+      "licensees"
+    ],
+    "prompt_length": 1710,
+    "category": "4031 competition"
+  }
+}

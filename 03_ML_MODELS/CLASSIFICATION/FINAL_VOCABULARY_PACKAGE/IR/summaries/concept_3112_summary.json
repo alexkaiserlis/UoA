@@ -1,0 +1,63 @@
+{
+  "concept_id": "3112",
+  "concept_data": {
+    "title": "settlement of disputes",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"settlement of disputes\" is a crucial concept within EU legal frameworks, particularly in the context of international security. It encompasses mechanisms for resolving conflicts, such as those involving Cypriots and Serbs, often multilaterally through diplomatic channels. Notable instances include the role of conciliators in ceasefire agreements, like those in the Caucasus, or the reunification efforts in Cyprus. The EU promotes neighbourliness and supportive dialogue, as seen in initiatives like the JMC and campaigns for suffrage. Legal distinctions are vital, as unjustifiable violations of agreements can lead to escalated tensions. The EU's commitment to peaceful resolutions is exemplified in its engagements with entities like ECOWAS and the CPLP, ensuring that disputes are addressed consensually and effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:31:36.656472",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 818,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 193,
+      "selected_avg_freq": 74.91333333333333
+    },
+    "related_words": [
+      "cypriots",
+      "ajello",
+      "roumeliotis",
+      "anapa",
+      "asociaciăłn",
+      "armadores",
+      "buques",
+      "palangreros",
+      "altura",
+      "acuicultura",
+      "oficio",
+      "conciliators",
+      "jmc",
+      "tagliavini",
+      "suffrage",
+      "lefort",
+      "état",
+      "campaigning",
+      "bacai",
+      "sanhá",
+      "cplp",
+      "reunited",
+      "multilaterally",
+      "sintra",
+      "neighbourliness",
+      "royaumont",
+      "heidi",
+      "serbs",
+      "ley",
+      "coup"
+    ],
+    "prompt_length": 1672,
+    "category": "0816 international security"
+  }
+}

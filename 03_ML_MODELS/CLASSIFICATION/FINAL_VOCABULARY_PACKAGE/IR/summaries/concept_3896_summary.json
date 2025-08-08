@@ -1,0 +1,63 @@
+{
+  "concept_id": "3896",
+  "concept_data": {
+    "title": "private limited-liability company",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "private limited company",
+    "relation_type": "USE"
+  },
+  "summary": "A \"private limited company,\" also known as a \"private limited-liability company,\" is a legal form of organization within the EU, designed to safeguard shareholders' liabilities. This structure allows entrepreneurs to form divisions while limiting their financial exposure. The formation process involves disclosing subscribed shares and ensuring compliance with codified regulations. Insofar as mergers and alterations occur, safeguards must be in place to protect the identity of the company and its shareholders. The rationality of this structure is evident in its accessibility to SMEs, permitting them to exploit market opportunities while managing liabilities effectively. Such frameworks are essential for fostering innovation and ensuring transparent governance in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:34:02.414269",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 284,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1552,
+      "selected_avg_freq": 777.4266666666666
+    },
+    "related_words": [
+      "nullity",
+      "entrepreneur",
+      "dimethylglycine",
+      "taminco",
+      "bvba",
+      "twelfth",
+      "sme",
+      "shareholder",
+      "divergences",
+      "mergers",
+      "subscribed",
+      "salt",
+      "transformed",
+      "disclosed",
+      "divisions",
+      "sodium",
+      "exploit",
+      "additive",
+      "liabilities",
+      "functional",
+      "purely",
+      "alteration",
+      "reforms",
+      "exercising",
+      "nutrition",
+      "proposing",
+      "accessible",
+      "zootechnical",
+      "additives",
+      "formation"
+    ],
+    "prompt_length": 1769,
+    "category": "4016 legal form of organisations"
+  }
+}

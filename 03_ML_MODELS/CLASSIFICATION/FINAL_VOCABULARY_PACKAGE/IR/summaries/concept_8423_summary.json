@@ -1,0 +1,63 @@
+{
+  "concept_id": "8423",
+  "concept_data": {
+    "title": "participatory democracy",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Participatory democracy within the EU framework empowers citizens to engage directly in the legislative process through initiatives. The Treaty on the Functioning of the European Union (TFEU) provides a structured procedure for collecting requests from citizens, allowing them to propose modifications to existing legislation. Organisers of these initiatives must register their proposals, fulfilling specific criteria outlined in annexes. The verification process ensures that submitted statements meet the required standards. By facilitating this engagement, the EU aims to provide a platform where citizens' needs are equally represented, thus enhancing democratic legitimacy and accountability in decision-making.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:49.197164",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 71,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 71,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1960.0845070422536
+    },
+    "related_words": [
+      "organisers",
+      "statements",
+      "collecting",
+      "tfeu",
+      "versions",
+      "equally",
+      "citizens",
+      "initiatives",
+      "handling",
+      "modifications",
+      "replacing",
+      "delegated",
+      "empowered",
+      "registration",
+      "forwarded",
+      "register",
+      "initiative",
+      "verification",
+      "modified",
+      "registered",
+      "requests",
+      "fulfilled",
+      "forms",
+      "previous",
+      "six",
+      "annexes",
+      "communication",
+      "proposed",
+      "several",
+      "amend"
+    ],
+    "prompt_length": 1689,
+    "category": "0406 political framework"
+  }
+}

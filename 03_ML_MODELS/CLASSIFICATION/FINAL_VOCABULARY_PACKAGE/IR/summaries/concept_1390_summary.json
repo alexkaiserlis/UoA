@@ -1,0 +1,63 @@
+{
+  "concept_id": "1390",
+  "concept_data": {
+    "title": "refrigeration industry",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"refrigeration industry\" encompasses various sectors involved in the manufacturing and assembly of refrigeration apparatus, which are capable of maintaining low temperatures for diverse applications. This industry is regulated under EU legal frameworks that ensure the stability and safety of substances used in refrigeration, including cryogenic materials and thermocurrents. Experts in the field study the precision of refrigeration cycles and the impact of variable temperatures on the performance of refrigeration units. Additionally, the importation of refrigeration equipment is subject to strict compliance with EU standards, which invoke affirmative measures for environmental protection and cultural considerations. The industry is vital for preserving lives and maintaining ordered conditions in various sectors, including food safety and medical storage.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:01:52.843999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 129,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 129,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1599.9302325581396
+    },
+    "related_words": [
+      "mead",
+      "thermocurrents",
+      "cryotronics",
+      "lts",
+      "cryostat",
+      "maid",
+      "osney",
+      "cryogenic",
+      "oxford",
+      "ionic",
+      "refrigerator",
+      "lives",
+      "temperatures",
+      "radioactive",
+      "ordered",
+      "specially",
+      "precision",
+      "affirmative",
+      "temperature",
+      "invoke",
+      "educational",
+      "apparatus",
+      "cold",
+      "variable",
+      "principally",
+      "cycle",
+      "head",
+      "suited",
+      "assembly",
+      "ltd"
+    ],
+    "prompt_length": 1661,
+    "category": "6846 miscellaneous industries"
+  }
+}

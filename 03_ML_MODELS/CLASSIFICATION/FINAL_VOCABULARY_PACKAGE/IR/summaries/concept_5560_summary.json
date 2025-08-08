@@ -1,0 +1,63 @@
+{
+  "concept_id": "5560",
+  "concept_data": {
+    "title": "organized crime",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "organised crime",
+    "relation_type": "USE"
+  },
+  "summary": "Organised crime, a critical concern in EU legal and regulatory frameworks, encompasses transnational criminal activities that exploit vulnerabilities across borders. This includes trafficking in migrants and illicit goods, where criminals employ sophisticated instrumentalities for smuggling and facilitating offences. The EU prioritises combating organised crime through initiatives like EUCAP and intelligence-sharing via Europol, focusing on tracing and confiscation of proceeds from criminal activities. Legal instruments, such as the Palermo Protocol, advocate for penal measures against these offences. Efforts to enhance cooperation among member states aim to build a robust response against the roles of organised crime in sustaining illegal activities, including sexual exploitation and immigration fraud.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:13:14.112928",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 407,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 716,
+      "selected_avg_freq": 312.18
+    },
+    "related_words": [
+      "trails",
+      "criminals",
+      "instrumentalities",
+      "camden",
+      "nigerien",
+      "carin",
+      "combated",
+      "motive",
+      "aiding",
+      "smuggling",
+      "seizure",
+      "penal",
+      "sahel",
+      "confiscation",
+      "prioritised",
+      "eucap",
+      "intelligence",
+      "depositing",
+      "roles",
+      "committing",
+      "csdp",
+      "sustaining",
+      "sexual",
+      "staffing",
+      "palermo",
+      "niger",
+      "migrants",
+      "offence",
+      "stimulus",
+      "advocated"
+    ],
+    "prompt_length": 1717,
+    "category": "2826 social affairs"
+  }
+}

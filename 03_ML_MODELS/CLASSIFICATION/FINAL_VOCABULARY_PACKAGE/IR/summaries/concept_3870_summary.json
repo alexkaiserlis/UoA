@@ -1,0 +1,63 @@
+{
+  "concept_id": "3870",
+  "concept_data": {
+    "title": "economic sanctions",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic sanctions are regulatory measures imposed by the European Union to influence the behavior of states or entities, often in response to actions such as abduction or maiming of individuals. These sanctions can include asset freezing, trade restrictions, and unfreezing of funds under specific conditions. The EU's legal framework addresses sanctions against countries like Iran, particularly concerning nuclear activities in Bushehr, and entities linked to individuals like Mahmoudian and Zanjani. Sanctions may target sectors such as bunkering and turbopomp manufacturing, impacting companies like Safiran and Kompressor. The EU also engages in monitoring compliance and assessing the effectiveness of these measures, ensuring they align with international law and human rights standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:22.927087",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 2202,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.5
+    },
+    "related_words": [
+      "qaeda",
+      "samir",
+      "bushehr",
+      "hafize",
+      "darya",
+      "hdsl",
+      "irano",
+      "misr",
+      "irinvestship",
+      "khazar",
+      "leadmarine",
+      "safiran",
+      "payam",
+      "sapid",
+      "soroush",
+      "saramin",
+      "asatir",
+      "valfajr",
+      "fereydoun",
+      "mahmoudian",
+      "fulmen",
+      "bunkering",
+      "aboard",
+      "babak",
+      "zanjani",
+      "sorinet",
+      "sharif",
+      "transfo",
+      "sakhte",
+      "turbopomp"
+    ],
+    "prompt_length": 1624,
+    "category": "0806 international affairs"
+  }
+}

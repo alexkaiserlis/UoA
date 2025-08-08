@@ -1,0 +1,63 @@
+{
+  "concept_id": "1542",
+  "concept_data": {
+    "title": "rural planning",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "rural development",
+    "relation_type": "USE"
+  },
+  "summary": "Rural planning, as a redirect to \"rural development,\" encompasses various EU regulatory frameworks aimed at enhancing the socio-economic fabric of rural regions. This concept involves cofinanced initiatives under multiple axes, such as the European Agricultural Fund for Rural Development (EAFRD), which supports submeasures designed to extensify agricultural practices. Accompanying regulations address underspending and unspent funds, ensuring efficient allocation. The integration of preaccession strategies, like the Instrument for Pre-Accession Assistance (IPA), aids in recovery efforts for regions like Andalucía and Wallonne. Additionally, the management of decommitment processes and the role of chairpersons in overseeing these initiatives are crucial for achieving beneficial outcomes while adhering to EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:29:43.207010",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2127,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 52,
+      "selected_avg_freq": 24.946666666666665
+    },
+    "related_words": [
+      "cofinanced",
+      "axes",
+      "extensify",
+      "acompanying",
+      "accomandation",
+      "afas",
+      "underspending",
+      "nma",
+      "arda",
+      "searchable",
+      "submeasure",
+      "dienst",
+      "regelingen",
+      "unspent",
+      "scissions",
+      "beneficiated",
+      "inheritor",
+      "pardf",
+      "constraining",
+      "ama",
+      "pria",
+      "eip",
+      "enrd",
+      "mrra",
+      "pfatz",
+      "odarc",
+      "région",
+      "recoveries",
+      "ibh",
+      "helaba"
+    ],
+    "prompt_length": 1681,
+    "category": "1616 regions and regional policy"
+  }
+}

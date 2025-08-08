@@ -1,0 +1,63 @@
+{
+  "concept_id": "5927",
+  "concept_data": {
+    "title": "taxi",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"taxi\" within EU legal and regulatory frameworks pertains to the operation and regulation of taxi services, which are often confined to local jurisdictions. The harmonisation of taxi regulations is crucial to prevent distortions in competition across member states. Key considerations include the degressive excise duties on fuels consumed by taxis, such as diesel, which may vary in rates and exemptions. Authorities are tasked with authorising taxi operations while ensuring compliance with defined structures. Moreover, planned reductions in operational costs should not exceed proportionate limits, thereby affecting the overall market dynamics. The introduction of differentiated tariffs may also be communicated to ensure transparency and fairness in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:24.592254",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 86,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 86,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1558.593023255814
+    },
+    "related_words": [
+      "taxis",
+      "nlg",
+      "diesel",
+      "litre",
+      "degressive",
+      "excise",
+      "mineral",
+      "unanimously",
+      "consumed",
+      "differentiated",
+      "confined",
+      "hinder",
+      "fuel",
+      "retail",
+      "proportionate",
+      "refund",
+      "distortions",
+      "oils",
+      "reductions",
+      "exemptions",
+      "considerations",
+      "harmonisation",
+      "falls",
+      "complies",
+      "approximation",
+      "authorise",
+      "exceeding",
+      "planned",
+      "communicated",
+      "asked"
+    ],
+    "prompt_length": 1668,
+    "category": "6846 miscellaneous industries"
+  }
+}

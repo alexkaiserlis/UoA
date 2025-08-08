@@ -1,0 +1,63 @@
+{
+  "concept_id": "2684",
+  "concept_data": {
+    "title": "preferential price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"preferential price\" within EU legal and regulatory frameworks refers to a pricing mechanism that provides certain beneficiaries, such as suppliers or purchasers, with advantageous terms during transactions. This preferential pricing can be utilized in various sectors, including the refining of commodities like sugar and butter. In pursuance of equalising market conditions, preferential prices may be marked by alterations in currency or levies, ensuring that goods transported overseas or situated at ports are competitively priced. Such arrangements often involve vouchers or packages that facilitate the purchase of refined products, thereby benefiting departments and armies engaged in procurement.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:49:06.114364",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 213,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 2259,
+      "selected_avg_freq": 1075.84
+    },
+    "related_words": [
+      "equalising",
+      "armies",
+      "duplicating",
+      "voucher",
+      "army",
+      "refinery",
+      "belongs",
+      "fob",
+      "alterations",
+      "top",
+      "shortly",
+      "cream",
+      "refining",
+      "grade",
+      "refined",
+      "pursuance",
+      "zealand",
+      "packages",
+      "sums",
+      "butter",
+      "transported",
+      "factory",
+      "purchased",
+      "care",
+      "entitlement",
+      "forces",
+      "port",
+      "marking",
+      "supplier",
+      "transaction"
+    ],
+    "prompt_length": 1640,
+    "category": "2451 prices"
+  }
+}

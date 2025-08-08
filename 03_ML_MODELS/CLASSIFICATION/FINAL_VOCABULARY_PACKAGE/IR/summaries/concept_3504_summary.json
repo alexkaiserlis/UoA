@@ -1,0 +1,60 @@
+{
+  "concept_id": "3504",
+  "concept_data": {
+    "title": "Conference on Disarmament in Europe",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Conference on Disarmament in Europe\" is a pivotal forum within the framework of international security, focusing on the proliferation of weapons, particularly nuclear arms. It serves as a platform for states to engage in joint discussions regarding disarmament actions and to establish guidelines for non-proliferation. The European Union, through its Common Foreign and Security Policy (CFSP), actively participates in the preparation and decision-making processes of this conference. Articles of relevant treaties lay down the basis for EU involvement, ensuring that the union's positions are adopted and articulated during the conference sessions, particularly in June and July discussions concerning disarmament initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:24:24.589367",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 27,
+      "requested_words": 150,
+      "min_frequency_found": 109,
+      "max_frequency_found": 4108,
+      "selected_words": 27,
+      "selected_min_freq": 109,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2328.6666666666665
+    },
+    "related_words": [
+      "weapons",
+      "proliferation",
+      "nuclear",
+      "cfsp",
+      "conference",
+      "preparation",
+      "guidelines",
+      "joint",
+      "parties",
+      "regarding",
+      "action",
+      "non",
+      "general",
+      "articles",
+      "basis",
+      "adopted",
+      "laid",
+      "concerning",
+      "july",
+      "june",
+      "down",
+      "union",
+      "states",
+      "decision",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1442,
+    "category": "0816 international security"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1724",
+  "concept_data": {
+    "title": "transfer machine",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "machine tool",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"transfer machine,\" categorized under mechanical engineering, is a redirect to the preferred term \"machine tool.\" In EU legal and regulatory contexts, machine tools encompass various devices, including presses and conveyors, that are essential for manufacturing processes. These machines operate through mechanisms that compress, inflate, or oscillate materials, facilitating tasks such as painting or fortification. Notably, brands like Heckert and Starrag produce advanced models that utilize pressurised airflow to enhance efficiency. Regulatory frameworks ensure safety standards for these tools, which may involve interlocking shafts and clutches. Compliance with EU directives is crucial for manufacturers in this sector, particularly in regions like Chemnitz and Haarby.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:41.696001",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1097,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 79,
+      "selected_avg_freq": 28.566666666666666
+    },
+    "related_words": [
+      "presses",
+      "revolution",
+      "pushes",
+      "airflow",
+      "min",
+      "pressurised",
+      "inflate",
+      "punctured",
+      "inflating",
+      "inflatable",
+      "painting",
+      "rightfully",
+      "fortification",
+      "compress",
+      "heckert",
+      "werkzeugmaschinen",
+      "hwg",
+      "chemnitzer",
+      "hcw",
+      "traub",
+      "reichenbach",
+      "froze",
+      "starrag",
+      "grasscutters",
+      "mowers",
+      "tsf",
+      "cabinplant",
+      "foresbjergvej",
+      "haarby",
+      "drainpipe"
+    ],
+    "prompt_length": 1736,
+    "category": "6821 mechanical engineering"
+  }
+}

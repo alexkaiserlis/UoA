@@ -1,0 +1,26 @@
+{
+  "concept_id": "5894",
+  "concept_data": {
+    "title": "State health service",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"State health service\" refers to the public health systems established by EU Member States to provide healthcare services to their populations. These services are often governed by national legislation and must comply with EU regulations concerning public health, patient rights, and cross-border healthcare. The legal framework aims to ensure equitable access to healthcare, promote public health standards, and facilitate cooperation among Member States. Additionally, state health services are integral to the EU's efforts in addressing health crises, ensuring that health policies align with broader EU objectives such as social inclusion and economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:10:40.668872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1166,
+    "category": "2841 health"
+  }
+}

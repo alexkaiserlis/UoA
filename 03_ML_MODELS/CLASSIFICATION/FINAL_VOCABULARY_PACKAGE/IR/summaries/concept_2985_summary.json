@@ -1,0 +1,63 @@
+{
+  "concept_id": "2985",
+  "concept_data": {
+    "title": "plant protection product",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "plant health product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"plant protection product,\" also referred to as \"plant health product,\" encompasses substances used to safeguard crops against pests and diseases, including biologischer agents. The stewardship of these products involves rigorous reevaluation processes to ensure their safety for humans and the environment, particularly concerning inhalatory and ocular exposure. Notably, substances like thiametoxam and nicobifen are scrutinized for their potential sublethal effects on non-target species. Regulatory frameworks mandate comprehensive information on groundwatr contamination risks and the impact of climate variations on product efficacy. The sector's dynamics are influenced by innovations in agriscience, such as the development of triazamate and silthiofam, ensuring sustainable agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:59.674727",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 3393,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.673333333333333
+    },
+    "related_words": [
+      "partied",
+      "tumors",
+      "tumor",
+      "informaiton",
+      "pitch",
+      "triazamate",
+      "convincingly",
+      "volatilise",
+      "silthiofam",
+      "propham",
+      "reevaluation",
+      "qrd",
+      "reassign",
+      "ocular",
+      "inhalatory",
+      "hares",
+      "sublethal",
+      "stewardship",
+      "pmpa",
+      "molinate",
+      "groundwatr",
+      "biologischer",
+      "pflanzenschutz",
+      "szx",
+      "inprovalicarb",
+      "resourcing",
+      "naphthylacetamide",
+      "pyriofenone",
+      "climates",
+      "slowness"
+    ],
+    "prompt_length": 1762,
+    "category": "5626 means of agricultural production"
+  }
+}

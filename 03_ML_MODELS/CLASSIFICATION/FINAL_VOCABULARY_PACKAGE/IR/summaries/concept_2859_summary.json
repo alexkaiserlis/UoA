@@ -1,0 +1,63 @@
+{
+  "concept_id": "2859",
+  "concept_data": {
+    "title": "publication",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, \"publication\" refers to the formal dissemination of information, such as prospectuses and disclosures, which are crucial for transparency and compliance. This process often involves restating and reconciling financial data in accordance with IASB and IFRS standards, ensuring that all stakeholders, including guarantors and charterers, are informed. Publications may include advertisements or narratives that outline the terms of agreements, such as memorandums of understanding (MOU). The inability to retrieve or restate essential information can lead to hostile detentions or atypical regulatory scrutiny, particularly for the poorest entities. Thus, effective publication practices are essential for converging global standards and mitigating risks.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:18.990658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 719,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 297,
+      "selected_avg_freq": 138.31333333333333
+    },
+    "related_words": [
+      "detentions",
+      "hostile",
+      "gaaps",
+      "restating",
+      "forma",
+      "restatement",
+      "restate",
+      "thetis",
+      "simulations",
+      "asbj",
+      "unreserved",
+      "setters",
+      "bareboat",
+      "charterer",
+      "narrative",
+      "unwillingness",
+      "prospectuses",
+      "computation",
+      "retrieve",
+      "ism",
+      "conceivable",
+      "misses",
+      "iasb",
+      "gaap",
+      "cesr",
+      "converge",
+      "restated",
+      "advertisements",
+      "slipped",
+      "mou"
+    ],
+    "prompt_length": 1656,
+    "category": "3221 documentation"
+  }
+}

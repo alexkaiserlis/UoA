@@ -1,0 +1,63 @@
+{
+  "concept_id": "7130",
+  "concept_data": {
+    "title": "scientific report",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"scientific report\" in the EU legal and regulatory context serves as a critical documentation tool, often addressing complex subjects such as the flammability of materials or the irritancy of substances. These reports may include analyses on various topics, including entomology, mycology, and agronomy, and can feature data on compounds like eicosapentaenoic acid or galactose. They often activate regulatory frameworks by providing essential information on health and safety, such as DNEL (Derived No Effect Level) and PNEC (Predicted No Effect Concentration). Furthermore, scientific reports may index findings related to immunoglobulin levels or the effects of prebiotic substances, thereby supporting informed decision-making in EU policy development.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:10.935440",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1112,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 12.453333333333333
+    },
+    "related_words": [
+      "helium",
+      "xenon",
+      "galactose",
+      "frits",
+      "flammability",
+      "irritancy",
+      "dnel",
+      "pnec",
+      "entomology",
+      "mycology",
+      "botany",
+      "agronomy",
+      "svus",
+      "protequine",
+      "oligopeptides",
+      "secretory",
+      "immunoglobulin",
+      "sciga",
+      "elevates",
+      "sore",
+      "csl",
+      "normalizing",
+      "idace",
+      "volatilisation",
+      "rudolf",
+      "defences",
+      "activates",
+      "indexes",
+      "predecessors",
+      "immunofortis"
+    ],
+    "prompt_length": 1665,
+    "category": "3221 documentation"
+  }
+}

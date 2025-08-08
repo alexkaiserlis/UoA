@@ -1,0 +1,63 @@
+{
+  "concept_id": "4798",
+  "concept_data": {
+    "title": "sterling area",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "currency area",
+    "relation_type": "USE"
+  },
+  "summary": "The \"sterling area,\" now redirected to \"currency area,\" refers to a monetary zone where specific jurisdictions, such as the bailiwicks of Guernsey, Jersey, and Alderney, utilize the British pound sterling. This concept is crucial in EU legal and regulatory frameworks, particularly concerning anti-money laundering (AML) measures. Entities operating within this area must comply with ordinances that counter the proceeds of crime and terrorism, including the freezing of assets and the imposition of sanctions. Businesses and financial providers are tasked with detecting suspicious transfers and fulfilling criteria outlined in regulatory handbooks, ensuring a consolidated approach to managing risks associated with currency laundering and criminal activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:52:32.992430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 155,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 3811,
+      "selected_avg_freq": 1479.8133333333333
+    },
+    "related_words": [
+      "sark",
+      "alderney",
+      "bailiwick",
+      "ordinances",
+      "payer",
+      "appraising",
+      "laundering",
+      "handbook",
+      "taliban",
+      "ida",
+      "guernsey",
+      "jersey",
+      "countering",
+      "faster",
+      "jurisdictions",
+      "terrorist",
+      "isle",
+      "wire",
+      "proceeds",
+      "terrorism",
+      "freeze",
+      "money",
+      "providers",
+      "asset",
+      "crime",
+      "orders",
+      "channel",
+      "criminal",
+      "man",
+      "targets"
+    ],
+    "prompt_length": 1694,
+    "category": "2406 monetary relations"
+  }
+}

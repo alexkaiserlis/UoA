@@ -1,0 +1,63 @@
+{
+  "concept_id": "2680",
+  "concept_data": {
+    "title": "watering",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "irrigation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"watering,\" redirected to \"irrigation,\" pertains to the cultivation of agricultural land, crucial for maintaining balanced ecosystems and supporting rural villages. Effective irrigation practices are essential in managing water resources, especially in areas affected by pests like gossypii and pathogens such as erwinia. The regulation of irrigation systems must consider the impact on biodiversity, including species like leptionotarsa and dendroctonus, which can degrade agricultural productivity. Additionally, the legal frameworks address unbalanced water distribution, ensuring that practices do not lead to the overexploitation of resources, thereby safeguarding woodlands and promoting sustainable agricultural practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:19:38.295865",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 513,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 568,
+      "selected_avg_freq": 211.52
+    },
+    "related_words": [
+      "keener",
+      "glomerella",
+      "gossypii",
+      "cephalcia",
+      "lariciphila",
+      "gremmeniella",
+      "abietina",
+      "morelet",
+      "hypoxylon",
+      "mammatum",
+      "wahl",
+      "leptionotarsa",
+      "boerner",
+      "anthonomus",
+      "grandis",
+      "boh",
+      "typographus",
+      "corsican",
+      "klug",
+      "bemisia",
+      "tabaci",
+      "genn",
+      "decemlineata",
+      "leptinotarsa",
+      "sexdentatus",
+      "pissodes",
+      "edgerton",
+      "woodlands",
+      "gilpinia",
+      "hercyniae"
+    ],
+    "prompt_length": 1703,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

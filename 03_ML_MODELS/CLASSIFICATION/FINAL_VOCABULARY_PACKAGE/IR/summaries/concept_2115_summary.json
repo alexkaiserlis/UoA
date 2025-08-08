@@ -1,0 +1,63 @@
+{
+  "concept_id": "2115",
+  "concept_data": {
+    "title": "beekeeping",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "apiculture",
+    "relation_type": "USE"
+  },
+  "summary": "Beekeeping, or apiculture, is a vital agricultural activity within the EU, encompassing the management of honeybee colonies, particularly *Apis mellifera*. This practice is essential for pollination, which supports biodiversity and food production. Regulatory frameworks address bee health, focusing on issues like varroosis, a disorder caused by *Varroa* mites, and foulbrood infections. Notably, the notifiability of certain diseases, such as acariosis and tropilaelaps infestations, is critical for maintaining healthy apiaries. The use of substances like fipronil and clothianidin is regulated to prevent adverse effects on bee populations. Additionally, the protection of bumblebees, such as *Bombus* species, is increasingly recognized in EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:09.536387",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1045,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 149,
+      "selected_avg_freq": 51.873333333333335
+    },
+    "related_words": [
+      "que",
+      "liveanimals",
+      "bee_health_en",
+      "notifiablity",
+      "aphis",
+      "hawaii",
+      "skeps",
+      "invade",
+      "discovering",
+      "bumblebees",
+      "tarde",
+      "acariosis",
+      "certrain",
+      "honeybee",
+      "bothnia",
+      "apiary",
+      "queens",
+      "infest",
+      "foulbrood",
+      "antipolis",
+      "apiaries",
+      "hatched",
+      "nucleus",
+      "comb",
+      "receptacle",
+      "tropilaelaps",
+      "mite",
+      "fipronil",
+      "varroosis",
+      "ectoparasitic"
+    ],
+    "prompt_length": 1694,
+    "category": "5631 agricultural activity"
+  }
+}

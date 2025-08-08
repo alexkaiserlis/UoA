@@ -1,0 +1,63 @@
+{
+  "concept_id": "1811",
+  "concept_data": {
+    "title": "financial analysis",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial analysis within the EU legal and regulatory framework encompasses the systematic evaluation of financial information to inform decision-making by administrators and regulatory bodies such as the Comisión Nacional del Mercado de Valores (CNMV) and the Autoriteit Financiële Markten (AFM). This analysis is crucial for assessing portfolios and ensuring compliance with disposiciones aplicables. It involves the use of methodologies like Dodd-Frank Act provisions, which require filings from institutions and calificadoras. Financial analysis also aids in identifying discontinuities and probabilities related to market risks, thereby endowing CEOs and stakeholders with essential insights for strategic planning and regulatory adherence, including onsite and offsite inspections.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:08:09.632908",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1064,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 86,
+      "selected_avg_freq": 32.48
+    },
+    "related_words": [
+      "administrators",
+      "csa",
+      "cad",
+      "dros",
+      "bancaria",
+      "cnbv",
+      "disposiciones",
+      "aplicables",
+      "institutiones",
+      "calificadoras",
+      "comision",
+      "cnv",
+      "autopista",
+      "informacion",
+      "comissão",
+      "mobiliários",
+      "público",
+      "reprimand",
+      "injunctive",
+      "onsite",
+      "offsite",
+      "filings",
+      "dodd",
+      "nrsro",
+      "nrsros",
+      "proxy",
+      "cva",
+      "interpolation",
+      "tenors",
+      "conceptually"
+    ],
+    "prompt_length": 1631,
+    "category": "4021 management"
+  }
+}

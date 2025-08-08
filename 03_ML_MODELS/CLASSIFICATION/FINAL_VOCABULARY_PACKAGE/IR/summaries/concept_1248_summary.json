@@ -1,0 +1,63 @@
+{
+  "concept_id": "1248",
+  "concept_data": {
+    "title": "South Holland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"South Holland\" refers to a significant region within the Netherlands, categorized under EU Member States' regions (7211). This area plays a crucial role in various EU legal and regulatory frameworks, particularly in the context of economic development and labour reintegration. The European Globalisation Adjustment Fund (EGF) mobilises resources to assist workers facing redundancies due to globalisation. In South Holland, the allocation of funds is guided by NACE classifications, ensuring compliance with eligibility criteria. The region's programming reflects priorities set by interinstitutional partners, addressing inflation and labour market patterns. Contributions from the European Regional Development Fund (ERDF) further support the reintegration of redundant workers, fostering a disciplined approach to crisis management and economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:07:53.345935",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 219,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 26,
+      "selected_max_freq": 2246,
+      "selected_avg_freq": 1026.24
+    },
+    "related_words": [
+      "utrecht",
+      "zuid",
+      "holland",
+      "egf",
+      "redundancies",
+      "printing",
+      "nace",
+      "additionality",
+      "reintegration",
+      "indexed",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "reproduction",
+      "nuts",
+      "seq",
+      "erdf",
+      "mobilisation",
+      "media",
+      "redundant",
+      "eib",
+      "inflation",
+      "proposes",
+      "perspective",
+      "allocations",
+      "division",
+      "patterns",
+      "programming",
+      "pattern"
+    ],
+    "prompt_length": 1709,
+    "category": "7211 regions of EU Member States"
+  }
+}

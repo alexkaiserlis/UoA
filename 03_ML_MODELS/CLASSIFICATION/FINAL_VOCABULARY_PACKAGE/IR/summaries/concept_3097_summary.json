@@ -1,0 +1,63 @@
+{
+  "concept_id": "3097",
+  "concept_data": {
+    "title": "vehicle rental",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vehicle rental\" within EU legal and regulatory frameworks encompasses the leasing of motorised assets, primarily cars, to hirers or lessees. This arrangement facilitates tourism and transportation, allowing drivers to travel with flexibility. The regulatory landscape governs aspects such as mileage limitations, taxation, and exclusions related to leased vehicles. Notably, the recasting of leasing regulations aims to simplify compliance burdens for hauliers and rental companies. Additionally, provisions exist to avoid tax evasion and ensure justifiable deductions for businesses. The triangular relationship between lessee, lessor, and regulatory bodies is crucial for maintaining uninterrupted service and equitable treatment across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:50.053579",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 452,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 817,
+      "selected_avg_freq": 359.38
+    },
+    "related_words": [
+      "leasee",
+      "filmscreens",
+      "hirer",
+      "extant",
+      "mileage",
+      "travelled",
+      "hauliers",
+      "lessee",
+      "recasting",
+      "reward",
+      "motorised",
+      "expediency",
+      "pvc",
+      "triangular",
+      "hired",
+      "circulated",
+      "hire",
+      "removes",
+      "leased",
+      "simplifications",
+      "leasing",
+      "lease",
+      "exclusions",
+      "laden",
+      "taxed",
+      "unequal",
+      "believes",
+      "drivers",
+      "car",
+      "facilitation"
+    ],
+    "prompt_length": 1656,
+    "category": "4811 organisation of transport"
+  }
+}

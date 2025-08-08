@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7a2f7820",
+  "concept_data": {
+    "title": "skateboard",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "personal mobility device",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"skateboard\" within the EU regulatory framework is categorized under \"land transport\" and is redirected to the preferred term \"personal mobility device.\" This classification reflects the evolving nature of urban mobility solutions, emphasizing the need for regulatory clarity regarding various modes of transport. Personal mobility devices, including skateboards, are subject to specific safety and usage regulations to ensure public safety and compliance with EU transport directives. The recognition of skateboards as personal mobility devices underscores the EU's commitment to promoting sustainable transport options while addressing the legal implications of their use in urban environments.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:51:59.871432",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1208,
+    "category": "4816 land transport"
+  }
+}

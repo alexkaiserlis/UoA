@@ -1,0 +1,63 @@
+{
+  "concept_id": "5277",
+  "concept_data": {
+    "title": "symposium",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "conference proceedings",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory documents, the term \"symposium\" is a redirect to \"conference proceedings,\" which encompasses the collection of materials disseminated following a conference. These proceedings are crucial for the elaboration of scientific knowledge and best practices, particularly in areas such as animal health and welfare. They assist in the dissemination of research findings and educational resources, contributing to the global understanding of veterinary legislation. Conference proceedings are often invoiced and financed through allocated budgets, ensuring that the maximum contribution towards the production of these materials is achieved. The proceedings are expected to be published in a timely manner, facilitating the ongoing training and education of professionals within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:16:37.934824",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1795.2222222222222
+    },
+    "related_words": [
+      "rom",
+      "dissociated",
+      "disseminate",
+      "invoiced",
+      "elaboration",
+      "hard",
+      "credits",
+      "oie",
+      "copy",
+      "dissemination",
+      "education",
+      "welfare",
+      "distributed",
+      "publish",
+      "proceedings",
+      "undertake",
+      "conference",
+      "expired",
+      "financed",
+      "finance",
+      "produce",
+      "assist",
+      "veterinary",
+      "training",
+      "global",
+      "version",
+      "chain",
+      "materials",
+      "eur",
+      "expected"
+    ],
+    "prompt_length": 1697,
+    "category": "3221 documentation"
+  }
+}

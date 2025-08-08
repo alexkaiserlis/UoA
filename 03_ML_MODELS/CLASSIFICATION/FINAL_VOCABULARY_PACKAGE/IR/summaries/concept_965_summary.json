@@ -1,0 +1,63 @@
+{
+  "concept_id": "965",
+  "concept_data": {
+    "title": "nuclear family",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "family",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"nuclear family,\" categorized under family concepts in EU legal and regulatory frameworks, is a redirect to the preferred term \"family.\" This concept encompasses dependents and childcare, reflecting the EU's commitment to promoting gender equality and the integration of family life within labor policies. The EU has developed comprehensive guidelines and modules to streamline parental leave and care, ensuring that both men and women can effectively balance work and family responsibilities. Jurisdictional matters, such as the Hague conventions, govern cross-border family issues, while surveys and declarations inform the roadmap for future enforcement and maintenance of family rights, thereby enhancing the quality of life for families across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:20.749738",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 191,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2762,
+      "selected_avg_freq": 1218.8733333333332
+    },
+    "related_words": [
+      "dependents",
+      "childcare",
+      "streamlined",
+      "parental",
+      "module",
+      "reconciliation",
+      "gender",
+      "hague",
+      "modules",
+      "roadmap",
+      "reservations",
+      "child",
+      "pact",
+      "guideline",
+      "men",
+      "virtually",
+      "women",
+      "equality",
+      "leave",
+      "sign",
+      "hoc",
+      "dealt",
+      "accede",
+      "worldwide",
+      "judicial",
+      "care",
+      "sample",
+      "family",
+      "jurisdiction",
+      "survey"
+    ],
+    "prompt_length": 1677,
+    "category": "2806 family"
+  }
+}

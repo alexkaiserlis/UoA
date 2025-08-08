@@ -1,0 +1,63 @@
+{
+  "concept_id": "1538",
+  "concept_data": {
+    "title": "ruling",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"ruling\" refers to a formal judgment issued by a court, which may involve matters of jurisdiction and the enforcement of legal instruments. Rulings can include references to specific settlements and judgments, often joined with other legal actions. They serve to clarify the proper application of law, ensuring that member states, such as Croatia, Latvia, and Lithuania, recognize and adopt these decisions. Rulings may also involve the adoption of protocols or annexes that replace former instruments, providing authentic certificates that bind parties to their contents. The consequences of a ruling can significantly impact commercial practices and the circulation of currency, including the euro.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:24.615107",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 92,
+      "requested_words": 150,
+      "min_frequency_found": 50,
+      "max_frequency_found": 4108,
+      "selected_words": 92,
+      "selected_min_freq": 50,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1957.5434782608695
+    },
+    "related_words": [
+      "settlements",
+      "judgments",
+      "joined",
+      "contents",
+      "settlement",
+      "jurisdiction",
+      "judgment",
+      "croatia",
+      "replacing",
+      "delegated",
+      "currency",
+      "enforcement",
+      "references",
+      "bound",
+      "circulation",
+      "euro",
+      "latvia",
+      "certificate",
+      "deleted",
+      "lithuania",
+      "mutual",
+      "certificates",
+      "recognition",
+      "start",
+      "former",
+      "instrument",
+      "replace",
+      "court",
+      "forms",
+      "proper"
+    ],
+    "prompt_length": 1655,
+    "category": "1221 justice"
+  }
+}

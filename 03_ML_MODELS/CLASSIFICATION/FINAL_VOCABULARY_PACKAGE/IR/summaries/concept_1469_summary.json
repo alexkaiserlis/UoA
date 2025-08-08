@@ -1,0 +1,63 @@
+{
+  "concept_id": "1469",
+  "concept_data": {
+    "title": "social integration",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social integration within the EU legal and regulatory framework emphasizes the inclusion of marginalized groups, addressing issues such as racial and ethnic minorities, and individuals facing handicapping conditions. It promotes proactive measures, including microfinancing initiatives like microcredit and the Jeremie initiative, to alleviate indebtedness and enhance economic participation. Programs supported by Eurofound and EIGE focus on literacy and mentoring, fostering aspirations among disadvantaged populations. Responsive outreach strategies aim to optimize social cohesion, ensuring that all citizens can enjoy their rights and contribute to society. The integration process is also informed by the principles of equality and non-discrimination, addressing insecurities and promoting diverse orientations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:44.946759",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1012,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 141,
+      "selected_avg_freq": 56.94
+    },
+    "related_words": [
+      "marginalized",
+      "microcredit",
+      "jasmine",
+      "mentoring",
+      "microcredits",
+      "microfinancing",
+      "jeremie",
+      "handicapping",
+      "individends",
+      "prinicple",
+      "articular",
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "convergent",
+      "attacking",
+      "microfinance",
+      "helios",
+      "frontex",
+      "literacy",
+      "aspirations",
+      "counselling",
+      "pittsburgh",
+      "ethnic",
+      "tide",
+      "anticipatory",
+      "eif",
+      "cip",
+      "optimize"
+    ],
+    "prompt_length": 1701,
+    "category": "2826 social affairs"
+  }
+}

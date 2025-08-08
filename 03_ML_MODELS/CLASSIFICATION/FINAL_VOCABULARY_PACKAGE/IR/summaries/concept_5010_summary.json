@@ -1,0 +1,63 @@
+{
+  "concept_id": "5010",
+  "concept_data": {
+    "title": "common wheat",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Common wheat, classified under the EU plant product category 6006, plays a pivotal role in agroalimentaria sectors across member states. The regulatory framework outlined in various EU articles addresses the exigencies and fluctuations in production, ensuring that imbalanced supply does not persistently affect market stability. Notably, the transferability of subquotas is crucial for managing oversubscription scenarios, particularly in regions like Ghent and Tarragona. Legal provisions also aim to quellmehl shortages while addressing the inadequacy of certain baking standards. NGOs and community stakeholders are concerned about the implications of these regulations, especially regarding the whereabouts of unaccounted stocks and the potential for encroaching market tensions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:21:21.748845",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1632,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 102,
+      "selected_avg_freq": 45.06
+    },
+    "related_words": [
+      "lrcs",
+      "shoudl",
+      "undischarged",
+      "artiucle",
+      "communitie",
+      "oulined",
+      "fluctations",
+      "exigencies",
+      "imbalanced",
+      "parlticular",
+      "parlia",
+      "encroaching",
+      "noneneless",
+      "tajkistan",
+      "kyrgzystan",
+      "geogia",
+      "agroalimentaria",
+      "oversubscription",
+      "whereabouts",
+      "ngo",
+      "baking",
+      "overheated",
+      "conerned",
+      "ment",
+      "tension",
+      "persistently",
+      "closes",
+      "forego",
+      "subquotas",
+      "calidad"
+    ],
+    "prompt_length": 1689,
+    "category": "6006 plant product"
+  }
+}

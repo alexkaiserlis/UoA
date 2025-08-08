@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_63446d6e",
+  "concept_data": {
+    "title": "unaccompanied migrant minor",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": true,
+    "preferred_term": "unaccompanied child",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"unaccompanied migrant minor,\" which redirects to the preferred term \"unaccompanied child,\" refers to individuals under the age of 18 who arrive in a country without the presence of a legal guardian or parent. Within the EU legal framework, these minors are afforded specific protections under various regulations, including the Common European Asylum System (CEAS) and the EU Charter of Fundamental Rights. The EU emphasizes the need for special care and safeguarding measures for unaccompanied children, recognizing their vulnerability and the necessity for tailored support in migration processes. This concept underscores the EU's commitment to upholding the rights of children in migration contexts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:48.060323",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1215,
+    "category": "2811 migration"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3624",
+  "concept_data": {
+    "title": "location of industry",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"location of industry\" concept pertains to the strategic positioning of industrial structures within the EU, influencing regulatory frameworks and policies. This concept differs significantly across member states, as it involves calculating the average duties and tariffs applicable to various products. For instance, the importation of cereals may incur fixed rates that are adjusted based on world market prices. The EU's customs organisation plays a crucial role in fixing these rates, ensuring they remain valid and representative. Periodical adjustments are necessary to reflect changes in market conditions, with recorded prices charged per tonne often exceeding previous quotations. Consequently, the function of this concept is vital for maintaining competitive balance and facilitating trade within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:41.809772",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 80,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 80,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1873.8
+    },
+    "related_words": [
+      "quotation",
+      "periodical",
+      "minus",
+      "cif",
+      "differs",
+      "arisen",
+      "consignment",
+      "weeks",
+      "tonne",
+      "next",
+      "function",
+      "normally",
+      "cereals",
+      "calculating",
+      "preceding",
+      "adjust",
+      "difference",
+      "recorded",
+      "charged",
+      "intervention",
+      "valid",
+      "calculated",
+      "eur",
+      "importation",
+      "average",
+      "duty",
+      "exceed",
+      "adjustment",
+      "equal",
+      "fixing"
+    ],
+    "prompt_length": 1656,
+    "category": "6806 industrial structures and policy"
+  }
+}

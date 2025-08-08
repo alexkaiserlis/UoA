@@ -1,0 +1,63 @@
+{
+  "concept_id": "6731",
+  "concept_data": {
+    "title": "canon law",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Canon law refers to the body of ecclesiastical laws governing the Catholic Church, particularly in matters of marriage and family. It encompasses regulations on matrimonial validity, the jurisdiction of ecclesiastical tribunals, and the recognition of marriages across EU member states. Canon law influences the legal status of spouses and children, particularly in countries like Italy, Poland, and Slovakia, where concordats between the Church and state exist. The enforcement of these laws may require adaptation to national legal frameworks, ensuring that judgments regarding invalidity or parental responsibility are recognized. This legal framework is significant for EU treaties and acts, as it corresponds with the majority of member states’ legal systems, including Malta, Hungary, and Slovenia.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:06.046955",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1727.0
+    },
+    "related_words": [
+      "marriage",
+      "concordats",
+      "canonical",
+      "marriages",
+      "ecclesiastical",
+      "holy",
+      "spouses",
+      "matrimonial",
+      "tribunals",
+      "invalidity",
+      "parental",
+      "judgments",
+      "children",
+      "mention",
+      "see",
+      "jurisdiction",
+      "corresponds",
+      "qualified",
+      "treaties",
+      "slovakia",
+      "enforcement",
+      "simplified",
+      "majority",
+      "estonia",
+      "malta",
+      "slovenia",
+      "latvia",
+      "lithuania",
+      "cyprus",
+      "recognition"
+    ],
+    "prompt_length": 1686,
+    "category": "1206 sources and branches of the law"
+  }
+}

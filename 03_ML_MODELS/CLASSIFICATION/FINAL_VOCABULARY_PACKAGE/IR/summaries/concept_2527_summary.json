@@ -1,0 +1,63 @@
+{
+  "concept_id": "2527",
+  "concept_data": {
+    "title": "smog",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "air quality",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"smog,\" categorized under the deterioration of the environment, is redirected to the preferred term \"air quality\" within EU legal and regulatory frameworks. This relationship underscores the importance of monitoring emissions, particularly from sources like sparkignition engines and industrial processes, which can lead to exceedences of air quality standards. Regulatory measures aim to abate pollutants such as trifluoromethane and chlorodifluoromethane, while methodologies for validating emissions data, including recalculations and intercomparison techniques, are crucial. Developers of environmental policies must consider affordability and the implications of ultrafine particulates on public health, ensuring compliance with specifictions set forth in directives like the IED.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:06.028739",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2554,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 10.36
+    },
+    "related_words": [
+      "crankshafts",
+      "ied",
+      "arithmetically",
+      "aberthaw",
+      "remarked",
+      "scaling",
+      "trifluoromethane",
+      "hfc",
+      "adipic",
+      "chlorodifluoromethane",
+      "abating",
+      "developers",
+      "elv",
+      "intercomparison",
+      "gems",
+      "exceedences",
+      "mehtods",
+      "wast",
+      "obtaines",
+      "sparkignition",
+      "recalculations",
+      "epefe",
+      "propel",
+      "cm³",
+      "amalgamating",
+      "multidirectional",
+      "emisison",
+      "monixide",
+      "obds",
+      "eshaust"
+    ],
+    "prompt_length": 1724,
+    "category": "5216 deterioration of the environment"
+  }
+}

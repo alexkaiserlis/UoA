@@ -1,0 +1,63 @@
+{
+  "concept_id": "1335",
+  "concept_data": {
+    "title": "fire",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fire\" within the EU regulatory framework pertains to its significant role in the deterioration of the environment, particularly affecting forested ecosystems. Fires can lead to vast damages to flora and fauna, disrupting ecological equilibria and contributing to desertification. The EU emphasizes the importance of sustainable silviculture practices, involving foresters and firefighters, to manage and mitigate fire risks. Conferences, such as those held in Strasbourg and Rio, have contemplated innovatory strategies for fire management, focusing on the upkeep of woodland areas. Evaluating the chronological sequence of fire incidents is crucial for understanding their impacts on surrounding ecosystems and ensuring the protection of natural heritage across hectares of countryside.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:52.364039",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 523,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 653,
+      "selected_avg_freq": 312.52
+    },
+    "related_words": [
+      "equilibria",
+      "espcially",
+      "tracts",
+      "forested",
+      "burnt",
+      "firefighters",
+      "silviculture",
+      "abiotic",
+      "woodland",
+      "innovatory",
+      "sixty",
+      "foresters",
+      "upkeep",
+      "desertification",
+      "trustees",
+      "evolve",
+      "janeiro",
+      "ecosystem",
+      "fires",
+      "sequence",
+      "attach",
+      "strasbourg",
+      "practising",
+      "rio",
+      "forests",
+      "damages",
+      "experiments",
+      "conferences",
+      "vast",
+      "countryside"
+    ],
+    "prompt_length": 1686,
+    "category": "5216 deterioration of the environment"
+  }
+}

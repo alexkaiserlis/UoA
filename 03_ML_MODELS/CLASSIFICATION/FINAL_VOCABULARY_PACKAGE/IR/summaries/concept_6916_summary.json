@@ -1,0 +1,63 @@
+{
+  "concept_id": "6916",
+  "concept_data": {
+    "title": "tiling",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "building technique",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tiling,\" categorized under building and public works, is redirected to the preferred term \"building technique.\" This encompasses various wallcoverings and decorative solutions that are integral to construction. EU regulatory documents identify specific requirements for materials used in tiling, including their fire reaction and smoke spread characteristics. The harmonised classification of these materials is crucial for ensuring safety and performance levels, as outlined in testing strategies. Regulators envisage a framework that limits potential risks through the approximation of local laws, ensuring that all interrelated aspects of construction are sufficiently addressed. This comprehensive approach defines a robust strategy for the construction sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:40:02.496632",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 116,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 116,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1788.2327586206898
+    },
+    "related_words": [
+      "wallcoverings",
+      "jointing",
+      "interpretative",
+      "variously",
+      "interrelated",
+      "decorative",
+      "smoke",
+      "roll",
+      "regulators",
+      "characteristic",
+      "drying",
+      "fire",
+      "reaction",
+      "compounds",
+      "envisages",
+      "identifies",
+      "classes",
+      "generation",
+      "panel",
+      "limiting",
+      "works",
+      "limitation",
+      "construction",
+      "air",
+      "spread",
+      "testing",
+      "solution",
+      "approximation",
+      "strategy",
+      "harmonised"
+    ],
+    "prompt_length": 1736,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2271",
+  "concept_data": {
+    "title": "passport",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"passport\" serves as a crucial document for international travel, embodying identifiers such as biometrics, fingerprints, and photographs. The integration of contactless chip technology enhances security, making passports readable and interoperable across borders. The EU's commitment to combatting counterfeiting and falsifications is evident in the stringent measures against passport smuggling and the use of counterfeit documents. Initiatives like the Tampere and Thessaloniki agendas emphasize the importance of secure travel for all beings, including minors. Furthermore, the EU collaborates with international bodies like ICAO to ensure universally accepted formats and standards, while databases are utilized for archiving and monitoring passport integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:30:15.026075",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 511,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 612,
+      "selected_avg_freq": 276.46666666666664
+    },
+    "related_words": [
+      "contactless",
+      "archiving",
+      "fado",
+      "ftd",
+      "frtd",
+      "divulged",
+      "falsifications",
+      "alarming",
+      "minors",
+      "smuggling",
+      "chip",
+      "biometrics",
+      "fingerprints",
+      "naked",
+      "recognisable",
+      "biometric",
+      "universally",
+      "affixing",
+      "contiguous",
+      "falsification",
+      "counterfeit",
+      "federative",
+      "secret",
+      "concert",
+      "readable",
+      "interoperable",
+      "saudi",
+      "arabia",
+      "consular",
+      "tampere"
+    ],
+    "prompt_length": 1679,
+    "category": "1231 international law"
+  }
+}

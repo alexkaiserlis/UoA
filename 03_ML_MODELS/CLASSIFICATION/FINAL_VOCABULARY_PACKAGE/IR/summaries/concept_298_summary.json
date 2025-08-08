@@ -1,0 +1,63 @@
+{
+  "concept_id": "298",
+  "concept_data": {
+    "title": "real estate credit",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Real estate credit\" refers to financial products, primarily mortgages, that facilitate the acquisition of immovable assets, such as residential properties. In the EU regulatory context, this concept encompasses various methodologies for intermediation, where intermediaries play a crucial role in matching borrowers with lenders. The stipulation of terms, including prepayment options and indemnity clauses, is vital for ensuring prudent lending practices. Regulatory frameworks aim to mitigate risks associated with liabilities and enhance the valuation of underlying assets. Stakeholders, including insurers and banking institutions, must adhere to supervisory standards to prevent negligence and protect against potential detriment stemming from market fluctuations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:16.928608",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 241,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1385,
+      "selected_avg_freq": 586.1133333333333
+    },
+    "related_words": [
+      "premise",
+      "intemediaries",
+      "pii",
+      "intermediated",
+      "mortgages",
+      "prepayment",
+      "intermediation",
+      "borrower",
+      "stipulation",
+      "mortgage",
+      "correlated",
+      "bond",
+      "insurers",
+      "matched",
+      "residential",
+      "embedded",
+      "indemnity",
+      "immovable",
+      "exhibit",
+      "history",
+      "jurisdictions",
+      "gains",
+      "negligence",
+      "intermediaries",
+      "bonds",
+      "prudential",
+      "familiar",
+      "detriment",
+      "novel",
+      "methodologies"
+    ],
+    "prompt_length": 1734,
+    "category": "2416 financial institutions and credit"
+  }
+}

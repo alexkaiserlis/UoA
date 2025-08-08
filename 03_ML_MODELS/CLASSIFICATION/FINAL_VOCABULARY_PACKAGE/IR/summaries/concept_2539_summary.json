@@ -1,0 +1,63 @@
+{
+  "concept_id": "2539",
+  "concept_data": {
+    "title": "radioactive pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Radioactive pollution refers to the contamination of the environment by radionuclides, which can adversely affect ecosystems and human health. In the EU regulatory context, this concept encompasses the monitoring and management of radioactivity in various media, including soil, water, and food products like spinach and mushrooms. Following incidents such as Chernobyl and Fukushima, EU regulations have evolved to address the presence of isotopes like radiocaesium in affected prefectures. The European Commission, through committees, aims to substantiate safety standards and ensure that merchantable goods remain free from harmful levels of radioactivity. This regulatory framework seeks to mitigate the worst impacts of radioactive pollution and maintain environmental integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:09:52.610893",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 718,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 391,
+      "selected_avg_freq": 175.00666666666666
+    },
+    "related_words": [
+      "yiels",
+      "vailable",
+      "themselvews",
+      "shizuoka",
+      "niigata",
+      "yamagata",
+      "radiocaesium",
+      "contaminating",
+      "ecurie",
+      "wooded",
+      "style",
+      "reassuring",
+      "fukushima",
+      "isotopes",
+      "caesium",
+      "radionuclide",
+      "prefectures",
+      "regulaton",
+      "radionuclides",
+      "superseding",
+      "spinach",
+      "disequilibrium",
+      "iaea",
+      "herbs",
+      "prefecture",
+      "substantiating",
+      "parmigiano",
+      "reggiano",
+      "tea",
+      "padano"
+    ],
+    "prompt_length": 1727,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2169",
+  "concept_data": {
+    "title": "precision instrument",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"precision instrument\" within the EU legal and regulatory framework pertains to devices that ensure accurate measurements in metrology, such as gyroscopes, alcoholometers, and hydrometers. These instruments, often characterized by their precision, are essential for calibrating gauges and verifying weights, including the kilogramme. The EU's agenda includes the recast of metrological regulations to address outdated standards and ensure compliance with stringent approvals. Instruments like cylindrical and rectangular tanks, alongside differential meters, play a crucial role in various sectors, from manufacturing to food and drink industries. The affixing of precision instruments is vital for accurate results in pesées and stress testing, illustrating the importance of precision in regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:48:48.676873",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 375,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 918,
+      "selected_avg_freq": 404.0466666666667
+    },
+    "related_words": [
+      "acutronic",
+      "gyros",
+      "gyroscope",
+      "precisions",
+      "leeds",
+      "northrup",
+      "valeur",
+      "conventionnelle",
+      "résultat",
+      "pesées",
+      "optic",
+      "alcoholometers",
+      "hydrometers",
+      "dans",
+      "metrology",
+      "gauges",
+      "cylindrical",
+      "revolving",
+      "tyre",
+      "accessory",
+      "kilogramme",
+      "rectangular",
+      "metrological",
+      "affixing",
+      "axis",
+      "outdated",
+      "laser",
+      "meters",
+      "calibration",
+      "bar"
+    ],
+    "prompt_length": 1693,
+    "category": "6821 mechanical engineering"
+  }
+}

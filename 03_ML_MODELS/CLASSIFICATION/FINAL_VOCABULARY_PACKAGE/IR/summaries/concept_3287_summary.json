@@ -1,0 +1,63 @@
+{
+  "concept_id": "3287",
+  "concept_data": {
+    "title": "dental medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Dental medicine, a vital component of health regulation within the EU, encompasses various aspects of dentistry, including whitening and bleaching procedures. The field is often discussed at symposia and congresses, where experts like Professor Gabriel and organizers such as the Verband gather to share knowledge on dental pathology and advancements. Notable figures, including Dimitrios and Leif, contribute to the discourse, ensuring that practices adhere to established standards. The role of arbitrators and umpire is crucial in resolving disputes among exhibitors at these events, ensuring precedence in ethical practices. The integration of innovative techniques, as discussed by scholars like Hartvig and Anneroth, reflects the evolving nature of dental medicine in the EU regulatory framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:05:09.201541",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 710,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 256,
+      "selected_avg_freq": 88.98666666666666
+    },
+    "related_words": [
+      "damoulis",
+      "angelos",
+      "angelopoulos",
+      "dentalschau",
+      "ids",
+      "symposia",
+      "congresses",
+      "organizer",
+      "umpire",
+      "dentaire",
+      "hartvig",
+      "albaek",
+      "eugène",
+      "ève",
+      "monnot",
+      "goeran",
+      "anneroth",
+      "ostreicher",
+      "leif",
+      "leisnert",
+      "heribert",
+      "pohl",
+      "schulze",
+      "wilck",
+      "whitening",
+      "bleaching",
+      "dimitrios",
+      "dentistry",
+      "admissions",
+      "gabriel"
+    ],
+    "prompt_length": 1656,
+    "category": "2841 health"
+  }
+}

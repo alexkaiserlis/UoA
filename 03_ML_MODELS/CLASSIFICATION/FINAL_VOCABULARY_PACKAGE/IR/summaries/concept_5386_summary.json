@@ -1,0 +1,63 @@
+{
+  "concept_id": "5386",
+  "concept_data": {
+    "title": "power station coal",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "coal",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"power station coal,\" while a redirect to the preferred term \"coal,\" encompasses various legal and regulatory frameworks within the EU's coal and mining industries. Coalpower generation has historically reigned as a significant energy source, influencing competition among energy suppliers. The EU's regulatory landscape, including directives on emissions and sustainability, impacts coal's role, particularly in regions like Ruhr and Mülheim, where coal mining is prominent. Companies such as Veba and Klöckner have divested from traditional coal operations, aligning with EU goals for greener energy. The interplay of these regulations affects wholesaling practices, interlocking corporate structures, and the future of coal-related industries, including cabot and brennstoffhandel. As the EU expects a perceptible shift towards renewable sources, the legacy of coal remains a critical factor in energy policy discussions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:12:40.775608",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 1223,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 123,
+      "selected_avg_freq": 50.74666666666667
+    },
+    "related_words": [
+      "kühl",
+      "kgh",
+      "wholesaling",
+      "reigned",
+      "cabot",
+      "norit",
+      "harpen",
+      "rheinstahl",
+      "divests",
+      "compeitition",
+      "istaken",
+      "compeititon",
+      "influential",
+      "pac",
+      "kiel",
+      "stinnes",
+      "mülheim",
+      "coalpower",
+      "hulleras",
+      "lieres",
+      "pozo",
+      "siero",
+      "bayerischer",
+      "departures",
+      "lange",
+      "verkehr",
+      "klöckner",
+      "gruppe",
+      "interlocking",
+      "thence"
+    ],
+    "prompt_length": 1686,
+    "category": "6611 coal and mining industries"
+  }
+}

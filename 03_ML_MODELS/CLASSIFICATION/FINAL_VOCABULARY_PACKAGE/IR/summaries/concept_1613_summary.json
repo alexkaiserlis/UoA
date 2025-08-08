@@ -1,0 +1,63 @@
+{
+  "concept_id": "1613",
+  "concept_data": {
+    "title": "Lebanon",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Lebanon\" within EU legal and regulatory frameworks encompasses a complex political geography marked by historical events, such as the assassination of Rafiq Hariri, which has led to ongoing investigations and international scrutiny. The EU's engagement includes supporting the Lebanese state through the European Neighbourhood Policy (ENP) and the European Peace and Security Architecture (EPCA). The EU aims to combatting regional instability and sponsoring transitional governance, particularly in areas like Beirut, Akkar, and Bekaa. The presence of UNIFIL underscores the EU's commitment to peacekeeping amid mounting tensions. Legal frameworks address issues of guilt and innocence, particularly concerning perpetrators of violence, while also considering the humanitarian needs of the indebted Lebanese population. The EU's regulatory approach seeks to regularise aid and ensure the effective use of matériel in rebuilding efforts, reflecting a deeper commitment to Lebanon's stability and regionalisation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:34:12.021412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 140,
+    "vocabulary_stats": {
+      "total_related_words": 1036,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 225,
+      "selected_avg_freq": 102.20666666666666
+    },
+    "related_words": [
+      "tats",
+      "epca",
+      "overhang",
+      "rafiq",
+      "hariri",
+      "beirut",
+      "dozens",
+      "guilt",
+      "innocence",
+      "sponsoring",
+      "perpetrating",
+      "unifil",
+      "embraces",
+      "reinicke",
+      "akkar",
+      "bekaa",
+      "spieckermann",
+      "bombing",
+      "corned",
+      "indebted",
+      "assassination",
+      "burkholderia",
+      "mallei",
+      "bounties",
+      "committtee",
+      "concessional",
+      "matériel",
+      "combatting",
+      "eeas",
+      "unrefined"
+    ],
+    "prompt_length": 1681,
+    "category": "7236 political geography"
+  }
+}

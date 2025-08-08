@@ -1,0 +1,63 @@
+{
+  "concept_id": "3076",
+  "concept_data": {
+    "title": "aid to disaster victims",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"aid to disaster victims\" within EU legal and regulatory frameworks pertains to the mobilising of resources and support for individuals affected by various disasters, such as hurricanes, earthquakes, and floods. This aid is crucial in regions like Liguria and Tuscany, which frequently experience harsh storms and flooding. The EU emphasizes preparedness and interoperability in disaster response, ensuring that relief efforts are suitably coordinated. Mobilisation of funds, often exceeding a billion euros, aims to alleviate the suffering of victims struck by disasters, including avalanches and droughts. The EU's solidarity principle underpins these efforts, fostering cooperation among member states in times of crisis.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:13.520128",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 315,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1176,
+      "selected_avg_freq": 522.5533333333333
+    },
+    "related_words": [
+      "hurricane",
+      "dean",
+      "avalanche",
+      "beacons",
+      "submerged",
+      "earthquakes",
+      "cyclone",
+      "alps",
+      "snow",
+      "incompatibilities",
+      "flood",
+      "harsh",
+      "wave",
+      "storms",
+      "storm",
+      "fires",
+      "liguria",
+      "prestige",
+      "mobilising",
+      "ets",
+      "tuscany",
+      "earthquake",
+      "reliefs",
+      "floods",
+      "flooding",
+      "suitably",
+      "struck",
+      "rescue",
+      "preparedness",
+      "disaster"
+    ],
+    "prompt_length": 1672,
+    "category": "0811 cooperation policy"
+  }
+}

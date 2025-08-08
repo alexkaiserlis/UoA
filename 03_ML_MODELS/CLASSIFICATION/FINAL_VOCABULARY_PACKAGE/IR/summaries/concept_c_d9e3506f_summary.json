@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_d9e3506f",
+  "concept_data": {
+    "title": "smart farming",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "precision agriculture",
+    "relation_type": "USE"
+  },
+  "summary": "\"Smart farming,\" a term redirected to \"precision agriculture,\" refers to the integration of advanced technologies in agricultural production within the EU framework. This concept encompasses the use of data analytics, Internet of Things (IoT), and automation to optimize farming practices, enhance productivity, and ensure sustainable resource management. EU legal and regulatory documents increasingly emphasize the importance of precision agriculture in achieving the objectives of the Common Agricultural Policy (CAP) and environmental sustainability goals. By promoting smart farming techniques, the EU aims to support farmers in adapting to climate change, improving food security, and fostering rural development through innovative agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:48:38.068199",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1226,
+    "category": "5626 means of agricultural production"
+  }
+}

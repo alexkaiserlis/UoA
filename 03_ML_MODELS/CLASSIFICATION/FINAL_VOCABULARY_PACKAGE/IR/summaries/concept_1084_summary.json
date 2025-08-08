@@ -1,0 +1,63 @@
+{
+  "concept_id": "1084",
+  "concept_data": {
+    "title": "pharmaceutical expenses",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pharmaceutical expenses\" within EU legal and regulatory frameworks pertains to the financial obligations incurred by member states for healthcare provisions, particularly in the context of the Treaty establishing the European Community. The Council and Commission often submit decisions regarding the economic management of these expenses, informed by opinions from various committees. Following the September nominations for vacant seats, the government must address the fallen economic conditions affecting pharmaceutical costs. The European Union's commitment to social welfare necessitates the appointment of members to oversee these expenditures, ensuring compliance with Euratom regulations and maintaining energy in healthcare delivery across communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:40.245718",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 35,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 35,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2151.285714285714
+    },
+    "related_words": [
+      "rebuffel",
+      "lucien",
+      "nominations",
+      "resignation",
+      "vacant",
+      "seat",
+      "fallen",
+      "appointing",
+      "atomic",
+      "obtained",
+      "energy",
+      "euratom",
+      "french",
+      "members",
+      "informed",
+      "government",
+      "social",
+      "submitted",
+      "following",
+      "september",
+      "period",
+      "june",
+      "economic",
+      "opinion",
+      "communities",
+      "committee",
+      "union",
+      "member",
+      "decision",
+      "community"
+    ],
+    "prompt_length": 1512,
+    "category": "2841 health"
+  }
+}

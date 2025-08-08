@@ -1,0 +1,63 @@
+{
+  "concept_id": "212",
+  "concept_data": {
+    "title": "aerosol",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"aerosol\" refers to a suspension of fine solid particles or liquid droplets in air, often utilized in inhalers and dispensers. The regulation of aerosols is critical due to their use of propellants, including chlorofluorocarbons (CFCs) and hydrobromofluorocarbon, which have raised concerns regarding mutagenicity and environmental impact. Technicalities surrounding aerosol formulations involve the analysis of components like salbutamol and toluene, with devices such as electrostatic inhalers and photoacoustic analysers ensuring operability and safety. Regulatory bodies, including the SCCP, monitor these products to mitigate risks associated with allergies and oxidative stress, while promoting relaunching of safer alternatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:59.644693",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 687,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 245,
+      "selected_avg_freq": 88.68666666666667
+    },
+    "related_words": [
+      "salbutamol",
+      "respirators",
+      "technicalities",
+      "propellants",
+      "analyser",
+      "fluorocarbons",
+      "ingnored",
+      "photoacoustic",
+      "edt",
+      "gilford",
+      "deg",
+      "phytonadione",
+      "monobutyl",
+      "degbe",
+      "egbe",
+      "lags",
+      "stebs",
+      "divesting",
+      "tamper",
+      "relaunching",
+      "chlorofluorcarbons",
+      "nail",
+      "hydrobromofluorocarbon",
+      "chlorofluorocarbon",
+      "ultraviolet",
+      "cutaneous",
+      "bromochloromethane",
+      "diethylene",
+      "oas",
+      "electrostatic"
+    ],
+    "prompt_length": 1703,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "477",
+  "concept_data": {
+    "title": "electricity supply",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electricity supply\" within EU legal and regulatory frameworks encompasses the intricate systems of intertransmission and distribution networks that facilitate the delivery of electricity to cities and consumers. This includes both onshore and offshore grids, where various fuels, including termoelecttrica and bunker, are utilized. Regulatory measures aim to avoid distorting market dynamics, ensuring equitable access for all customers. The integration of renewable energy sources necessitates incremental adjustments in voltage and grid management, while mergers among distributors help streamline operations. Additionally, regulations address the environmental impact of pollutants generated during electricity production, promoting a transition to cleaner, more sustainable energy solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:09.279452",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 421,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 870,
+      "selected_avg_freq": 437.53333333333336
+    },
+    "related_words": [
+      "intertransmission",
+      "termoelecttrica",
+      "incremental",
+      "redistributors",
+      "edison",
+      "berth",
+      "seamlessly",
+      "bunker",
+      "grids",
+      "onshore",
+      "cities",
+      "transits",
+      "lying",
+      "burning",
+      "nordic",
+      "shore",
+      "hosting",
+      "taxed",
+      "grid",
+      "realised",
+      "mergers",
+      "voltage",
+      "existent",
+      "avoids",
+      "distorting",
+      "lifetime",
+      "penetration",
+      "valuable",
+      "compensated",
+      "discourage"
+    ],
+    "prompt_length": 1699,
+    "category": "2846 construction and town planning"
+  }
+}

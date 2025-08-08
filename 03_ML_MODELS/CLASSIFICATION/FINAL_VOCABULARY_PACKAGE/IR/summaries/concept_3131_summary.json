@@ -1,0 +1,63 @@
+{
+  "concept_id": "3131",
+  "concept_data": {
+    "title": "traffic regulations",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Traffic regulations within the EU transport policy framework encompass a comprehensive set of legal standards aimed at ensuring road safety and efficient vehicle operation. These regulations specifically address the licensing of drivers, imposing stricter medical tests for conditions such as diabetes and epilepsy, which can affect driving fitness. The existence of harmonised codes facilitates the updating of licensing requirements, ensuring that all drivers meet satisfactory standards. Reports from appointed specialists review infrastructure and traffic demands, leading to the development of supplementary regulations. This regulatory framework is vital for maintaining safe driving practices, particularly in complex environments like tunnels, and is aligned with the EU's broader transport objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:16:43.056396",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1670.3021582733813
+    },
+    "related_words": [
+      "eyesight",
+      "diabetes",
+      "epilepsy",
+      "theory",
+      "tunnels",
+      "fitness",
+      "drive",
+      "specialists",
+      "comprised",
+      "driving",
+      "driver",
+      "demands",
+      "stricter",
+      "licensing",
+      "restricting",
+      "inadequate",
+      "advised",
+      "aligned",
+      "traffic",
+      "medical",
+      "daily",
+      "automatic",
+      "road",
+      "vehicles",
+      "tests",
+      "infrastructure",
+      "proved",
+      "test",
+      "updating",
+      "licence"
+    ],
+    "prompt_length": 1668,
+    "category": "4806 transport policy"
+  }
+}

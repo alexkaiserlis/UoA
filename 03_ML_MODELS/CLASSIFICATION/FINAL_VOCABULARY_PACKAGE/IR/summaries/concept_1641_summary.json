@@ -1,0 +1,63 @@
+{
+  "concept_id": "1641",
+  "concept_data": {
+    "title": "trade licence",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"trade licence\" within the EU legal framework is a regulatory instrument that categorises businesses, including restaurants and shops, enabling them to operate legally in specific sectors. This concept is crucial for rightholders, such as authors, composers, and publishers, as it governs the distribution of copyrighted materials and ensures that royalties are appropriately allocated. The enactment of trade licences can curtail unregulated transmissions and broadcasts, thus protecting the interests of creative professionals. Additionally, trade licences can serve as a catalyst for economic activity, encouraging venues to host events while complying with legislative requirements, thereby avoiding contraventions that could deprive them of operational rights.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:54:49.241758",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 631,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 250,
+      "selected_avg_freq": 88.45333333333333
+    },
+    "related_words": [
+      "imro",
+      "sociétés",
+      "auteurs",
+      "compositeurs",
+      "gesac",
+      "copyrighted",
+      "retransmitted",
+      "frequented",
+      "homestyle",
+      "composers",
+      "arrangers",
+      "lyricists",
+      "curtails",
+      "disincentive",
+      "dramatical",
+      "lobbies",
+      "resisted",
+      "senate",
+      "repopulation",
+      "aquaria",
+      "loudspeaker",
+      "refinishing",
+      "loudspeakers",
+      "restaurant",
+      "contravenes",
+      "groupement",
+      "accomodation",
+      "categorised",
+      "voc",
+      "rightholders"
+    ],
+    "prompt_length": 1716,
+    "category": "2006 trade policy"
+  }
+}

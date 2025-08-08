@@ -1,0 +1,63 @@
+{
+  "concept_id": "3741",
+  "concept_data": {
+    "title": "energy-generating product",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"energy-generating product\" encompasses various technologies and systems designed to produce energy, such as motors, pumps, and fans. In the context of EU energy policy, these products are subject to regulations that promote ecodesign and efficiency, thereby enhancing accessibility and reducing environmental hindrances. Supervisors, including ACER and ESMA, oversee compliance with benchmarks and parameters that govern these products. The decentralisation of energy generation drives innovation and aggregation of resources, allowing for more granular control over energy supply. As the EU seeks to redesign its energy landscape, the role of energy-generating products remains pivotal in achieving sustainable and reproducible energy solutions across jurisdictions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:49:03.946779",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 670,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 379,
+      "selected_avg_freq": 164.41333333333333
+    },
+    "related_words": [
+      "detours",
+      "fans",
+      "practicalities",
+      "underlyings",
+      "offeror",
+      "devolution",
+      "overseers",
+      "eup",
+      "drives",
+      "disassembly",
+      "aggregating",
+      "esrb",
+      "precede",
+      "repository",
+      "hindrance",
+      "notional",
+      "ccps",
+      "twh",
+      "reproducible",
+      "counterparty",
+      "unleaded",
+      "granular",
+      "repositories",
+      "otc",
+      "redesign",
+      "supervisors",
+      "acer",
+      "decentralisation",
+      "ecodesign",
+      "motors"
+    ],
+    "prompt_length": 1712,
+    "category": "6606 energy policy"
+  }
+}

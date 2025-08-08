@@ -1,0 +1,63 @@
+{
+  "concept_id": "3190",
+  "concept_data": {
+    "title": "export (EU)",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"export (EU)\" encompasses the regulatory framework governing the movement of goods from the European Union to external markets. This includes the export of specialized products such as butterkă, begonias, and gladioli, which are subject to specific grading and quality standards. The EU empowers member states to enforce compliance, ensuring that repackaged goods meet community regulations. Additionally, the export of agricultural chemicals like thiobencarb and asulam is strictly regulated to prevent overdose and environmental harm. The legal framework also addresses issues of confiscating goods that do not meet safety standards, thereby uniting member states in a collaborative effort to maintain market integrity and consumer safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:18:29.419429",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2593,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 12.526666666666667
+    },
+    "related_words": [
+      "butterkă",
+      "begonias",
+      "sinningias",
+      "gladioli",
+      "dahlias",
+      "issueof",
+      "telegrams",
+      "repackaged",
+      "communnity",
+      "convered",
+      "whereus",
+      "impowered",
+      "ethalfluralin",
+      "indolylacetic",
+      "thiobencarb",
+      "msut",
+      "sufficint",
+      "lilium",
+      "hexa",
+      "organizaion",
+      "danfordiae",
+      "treats",
+      "senpa",
+      "asulam",
+      "confiscating",
+      "neum",
+      "dubrovnik",
+      "unites",
+      "summing",
+      "gradings"
+    ],
+    "prompt_length": 1673,
+    "category": "2016 trade"
+  }
+}

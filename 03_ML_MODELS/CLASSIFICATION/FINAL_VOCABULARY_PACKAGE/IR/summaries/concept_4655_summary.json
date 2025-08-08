@@ -1,0 +1,63 @@
+{
+  "concept_id": "4655",
+  "concept_data": {
+    "title": "agricultural vehicle",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"agricultural vehicle\" within EU legal and regulatory frameworks encompasses a range of vehicles designed for farming activities, including those used for earthmoving and landscaping. These vehicles often feature specialized configurations such as tracked systems and versatile attachments for tasks like digging and fertilizer application. Regulatory standards address safety measures, including the use of seatbelts and guard systems to protect occupants. Additionally, enhancements like polycarbonate glazing and effective illumination are mandated to ensure visibility and safety. The coupling mechanisms and anchorage systems must comply with nomenclature standards to prevent unintentional uncoupling, thereby ensuring operational integrity on farmland.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:49:09.436062",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 830,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 179,
+      "selected_avg_freq": 73.62
+    },
+    "related_words": [
+      "tracked",
+      "avant",
+      "tecno",
+      "ylötie",
+      "ylöjärvi",
+      "digging",
+      "mtt",
+      "vakola",
+      "rops",
+      "uncoupling",
+      "nomenclautre",
+      "versatility",
+      "surmount",
+      "landscaping",
+      "ride",
+      "fops",
+      "disabling",
+      "seatbelt",
+      "reversible",
+      "masses",
+      "obstruction",
+      "stables",
+      "cabs",
+      "penetrating",
+      "couplings",
+      "anchorage",
+      "earthmoving",
+      "farmland",
+      "endeavouring",
+      "anchorages"
+    ],
+    "prompt_length": 1696,
+    "category": "4811 organisation of transport"
+  }
+}

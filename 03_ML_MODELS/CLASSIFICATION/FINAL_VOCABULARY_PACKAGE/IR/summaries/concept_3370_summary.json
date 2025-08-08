@@ -1,0 +1,63 @@
+{
+  "concept_id": "3370",
+  "concept_data": {
+    "title": "sick person's rights",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "patient's rights",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sick person's rights,\" redirected to \"patient's rights,\" encompasses the legal and regulatory frameworks that govern the rights of patients within the EU healthcare system. This includes the comprehensibility of information regarding prescriptions and the authenticity of medicinal products. Patients have the right to enquire about their treatment options, including the prescribing of orphan medicines and the use of medical devices. Healthcare professionals are tasked with ensuring that patients understand their rights and the instructions for prescribed treatments. The regulatory landscape also emphasizes pharmacovigilance, ensuring that prescribed medications are dispensed correctly and safely, thereby preventing adverse effects and promoting patient safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:38.668712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 218,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2070,
+      "selected_avg_freq": 935.4666666666667
+    },
+    "related_words": [
+      "prescriber",
+      "medically",
+      "enquire",
+      "orphan",
+      "comprehensibility",
+      "patient",
+      "pharmacovigilance",
+      "appoints",
+      "dispensing",
+      "prescription",
+      "prescribing",
+      "dispensed",
+      "healthcare",
+      "derives",
+      "prescriptions",
+      "alternates",
+      "brand",
+      "profession",
+      "understand",
+      "proprietary",
+      "patients",
+      "professionals",
+      "contrast",
+      "nothing",
+      "device",
+      "prevents",
+      "nomination",
+      "authenticity",
+      "exhaustive",
+      "preclude"
+    ],
+    "prompt_length": 1766,
+    "category": "2841 health"
+  }
+}

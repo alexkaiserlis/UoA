@@ -1,0 +1,63 @@
+{
+  "concept_id": "1201",
+  "concept_data": {
+    "title": "producers' organisation",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "producer organisation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"producer organisation\" (redirected from \"producers' organisation\") is a cooperative structure that allows members to collectively manage agricultural production. These organisations are typified by their heterogeneous membership, which may include various varieties of crops and livestock, such as goatmeal and lupulin. By regularizing production processes, they aim to augment market efficiency and reduce the burdening effects of overload on individual producers. Members benefit from shared resources and assignments, enabling them to navigate the complexities of EU schemes. Such organisations also play a crucial role in ensuring that unspecialized producers can compete in a diverse market, fostering cooperation and innovation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:34.035983",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2885,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.113333333333333
+    },
+    "related_words": [
+      "lowels",
+      "heretogeneous",
+      "overload",
+      "procides",
+      "shepherd",
+      "disbanding",
+      "paragrph",
+      "lupulin",
+      "markt",
+      "typified",
+      "undser",
+      "varieities",
+      "patudo",
+      "atăşn",
+      "inconspicuous",
+      "goatmeal",
+      "transhumanc",
+      "coopérative",
+      "houblonnière",
+      "coophounord",
+      "encumbering",
+      "prdouction",
+      "provieded",
+      "μmol",
+      "maore",
+      "oiks",
+      "unspecialized",
+      "minima",
+      "montado",
+      "anacef"
+    ],
+    "prompt_length": 1756,
+    "category": "5611 agricultural structures and production"
+  }
+}

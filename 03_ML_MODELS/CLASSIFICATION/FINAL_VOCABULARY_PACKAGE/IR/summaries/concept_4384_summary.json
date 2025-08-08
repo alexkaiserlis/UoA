@@ -1,0 +1,63 @@
+{
+  "concept_id": "4384",
+  "concept_data": {
+    "title": "postal charges",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"postal charges\" within EU legal and regulatory frameworks pertains to the fees levied on the sending and receiving of postal consignments. The aim is to strengthen internal trade by reducing barriers and formalities that can hinder the movement of goods. Consequently, the abolition of excessive postal charges is desirable, benefiting citizens and governments alike. This includes the removal of duties and taxes that may affect the importation of goods. By making postal services more accessible and affordable, the EU seeks to enhance social and economic contributions, ultimately achieving a more integrated Europe where trade can continue to flourish.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:46:22.133947",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 76,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 76,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1952.8765432098764
+    },
+    "related_words": [
+      "visible",
+      "postal",
+      "abolishing",
+      "excise",
+      "fees",
+      "removing",
+      "formalities",
+      "levying",
+      "citizens",
+      "turnover",
+      "taxes",
+      "levy",
+      "consignments",
+      "abolition",
+      "benefiting",
+      "charges",
+      "strengthen",
+      "governments",
+      "achievement",
+      "immediate",
+      "presentation",
+      "exemption",
+      "importation",
+      "reducing",
+      "sent",
+      "desirable",
+      "representatives",
+      "europe",
+      "duties",
+      "major"
+    ],
+    "prompt_length": 1654,
+    "category": "3226 communications"
+  }
+}

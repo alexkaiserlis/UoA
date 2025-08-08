@@ -1,0 +1,63 @@
+{
+  "concept_id": "2149",
+  "concept_data": {
+    "title": "banking transaction",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "banking",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"banking transaction,\" categorized under financial institutions and credit, is redirected to the preferred term \"banking.\" In the EU regulatory framework, banking transactions encompass a multitude of activities involving depositors and savers, including payouts and seigniorage. These transactions are governed by stringent regulations to ensure the stability of financial markets, particularly during periods of turmoil. National banks, such as the Česká národní banka and Latvijas Banka, play a crucial role in overseeing these activities. Regulatory measures may include earmarkable funds and counterclaims to protect depositors' interests. Indisputably, the revival of trust in financial systems relies on transparent banking practices, ensuring that affiliated institutions operate wisely and sparingly.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:57.302919",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1168,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 113,
+      "selected_avg_freq": 48.10666666666667
+    },
+    "related_words": [
+      "seigniorage",
+      "finanziari",
+      "assicurativi",
+      "revive",
+      "sparing",
+      "slavic",
+      "hardest",
+      "revival",
+      "earmarkable",
+      "gab",
+      "reschedules",
+      "payout",
+      "savers",
+      "depositors",
+      "depositor",
+      "payouts",
+      "česká",
+      "národní",
+      "eesti",
+      "pank",
+      "magyar",
+      "nemzeti",
+      "narodowy",
+      "sveriges",
+      "riksbank",
+      "národná",
+      "amply",
+      "naţională",
+      "româniei",
+      "lietuvos"
+    ],
+    "prompt_length": 1708,
+    "category": "2416 financial institutions and credit"
+  }
+}

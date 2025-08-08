@@ -1,0 +1,63 @@
+{
+  "concept_id": "8460",
+  "concept_data": {
+    "title": "reimbursement of funding",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "reimbursement of aid",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reimbursement of funding,\" redirected to \"reimbursement of aid,\" pertains to the recovery of financial support provided under EU economic policies. This process involves participants, often classified as debtors, who must repay funds that are deemed ineligible or incorrectly allocated. The reimbursement mechanism is crucial for maintaining the integrity of partnerships and ensuring societal benefits are realized. In cases of non-compliance, inquiries may expose offences that necessitate remedied actions. The legibility of reimbursement claims is essential, as is the correctness of documentation submitted electronically. This framework also allows for the modulation of funding, deferring repayments under specific circumstances, thereby leveraging financial resources effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:20:04.216210",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 596,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 562,
+      "selected_avg_freq": 279.04
+    },
+    "related_words": [
+      "ecsel",
+      "recoveries",
+      "rejoining",
+      "possiblity",
+      "prüm",
+      "exposes",
+      "fingerprint",
+      "unavoidably",
+      "sensing",
+      "leverage",
+      "reimbursing",
+      "repay",
+      "executing",
+      "legibility",
+      "societal",
+      "deferral",
+      "deferring",
+      "dna",
+      "correctness",
+      "consequential",
+      "viewpoint",
+      "horizon",
+      "offences",
+      "participant",
+      "debtor",
+      "inquiry",
+      "explanations",
+      "reimburse",
+      "tackle",
+      "partnerships"
+    ],
+    "prompt_length": 1748,
+    "category": "1606 economic policy"
+  }
+}

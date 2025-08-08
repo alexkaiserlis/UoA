@@ -1,0 +1,63 @@
+{
+  "concept_id": "5994",
+  "concept_data": {
+    "title": "film",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": true,
+    "preferred_term": "cinema",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"film,\" redirected to \"cinema,\" encompasses various aspects of the cultural and regulatory landscape within the EU. The film industry is characterised by the exhibition of films, which may include dubbing or subtitling to accommodate diverse languages and nationalities. EU regulations aim to progressively abolish restrictions on the importation and exportation of films, fostering the movement of cultural products across member states. This regulatory framework addresses problems related to the establishment of cinemas and the presentation of foreign films, ensuring that beneficiary countries can satisfactorily participate in the industry. Ultimately, the achievement of a cohesive film programme is desirable for promoting cultural diversity and freedom of expression.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:04:34.771971",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1805.723404255319
+    },
+    "related_words": [
+      "cinemas",
+      "dubbing",
+      "dubbed",
+      "exhibition",
+      "specialising",
+      "films",
+      "solved",
+      "film",
+      "nationality",
+      "alike",
+      "distorted",
+      "elapsed",
+      "simultaneously",
+      "satisfactorily",
+      "abolished",
+      "language",
+      "progressively",
+      "abolition",
+      "considerably",
+      "restrict",
+      "beneficiary",
+      "aids",
+      "exporting",
+      "exclusively",
+      "freedom",
+      "achievement",
+      "foreign",
+      "remaining",
+      "opening",
+      "importation"
+    ],
+    "prompt_length": 1726,
+    "category": "2831 culture and religion"
+  }
+}

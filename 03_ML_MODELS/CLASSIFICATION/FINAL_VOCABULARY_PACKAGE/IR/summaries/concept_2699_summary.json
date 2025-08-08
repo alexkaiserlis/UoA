@@ -1,0 +1,63 @@
+{
+  "concept_id": "2699",
+  "concept_data": {
+    "title": "civil procedure",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Civil procedure refers to the body of law governing the adjudicatory processes in civil cases within the EU. It encompasses the rules and principles that guide how plaintiffs and defendants interact in court, ensuring that disputes are settled in a predictable and impartial manner. This includes codifying procedures for mediation and arbitration, where parties may voluntarily opt for extrajudicial resolutions, often facilitated by mediators. The enforceability of judgments is crucial, as unenforceable outcomes can lead to further legal complications. Additionally, civil procedure addresses issues like insolvency and matrimonial disputes, providing tailored frameworks for winding up affairs and settling claims. Ultimately, effective civil procedure aims to enhance trust in the judicial system and encourage amicable resolutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:07:29.784382",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 493,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 646,
+      "selected_avg_freq": 293.18
+    },
+    "related_words": [
+      "codifying",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "plaintiffs",
+      "mediators",
+      "liquidators",
+      "mediator",
+      "defendants",
+      "extrajudicial",
+      "poorer",
+      "consensual",
+      "matrimonial",
+      "atlas",
+      "displaying",
+      "prescription",
+      "winding",
+      "amicable",
+      "enforceability",
+      "enforceable",
+      "settling",
+      "prescribes",
+      "arbitration",
+      "impartial",
+      "anything",
+      "autonomy",
+      "parental",
+      "tampere",
+      "pronounced",
+      "practitioners"
+    ],
+    "prompt_length": 1719,
+    "category": "1221 justice"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "320",
+  "concept_data": {
+    "title": "forage-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "fodder-growing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"forage-growing,\" redirected to \"fodder-growing,\" pertains to agricultural activities focused on cultivating crops specifically for animal feed. This practice restores soil fertility through the use of legumes, clover, and various grass varieties such as cocksfoot and timothy. Farmers engage in fodder-growing on arable land, where climatic conditions and weather patterns significantly influence crop yields. The totality of fodder crops, including rye and fescue, varies depending on predetermined agronomic practices and the selection of seeds. In the EU regulatory context, these activities qualify as essential for sustainable farming, meeting foodstuffs requirements and supporting domestic livestock holdings.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:06.779528",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 183,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2961,
+      "selected_avg_freq": 1294.94
+    },
+    "related_words": [
+      "restores",
+      "fim",
+      "cocksfoot",
+      "timothy",
+      "meadow",
+      "fescue",
+      "fertility",
+      "legumes",
+      "clover",
+      "fertilisers",
+      "predetermined",
+      "agronomic",
+      "totality",
+      "grass",
+      "grow",
+      "rye",
+      "multiplied",
+      "cultivated",
+      "varies",
+      "arable",
+      "red",
+      "adjacent",
+      "climatic",
+      "hectare",
+      "cultivation",
+      "weather",
+      "aside",
+      "fodder",
+      "organic",
+      "soil"
+    ],
+    "prompt_length": 1669,
+    "category": "5631 agricultural activity"
+  }
+}

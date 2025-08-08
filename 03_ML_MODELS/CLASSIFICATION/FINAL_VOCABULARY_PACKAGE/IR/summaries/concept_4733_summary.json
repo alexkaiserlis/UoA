@@ -1,0 +1,63 @@
+{
+  "concept_id": "4733",
+  "concept_data": {
+    "title": "vitamin",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"vitamin\" refers to essential nutrients that are crucial for maintaining health and preventing deficiencies. Vitamins, such as biotin, niacinamide, and folic acid, are often included in dietetic products and medicaments. The regulation of vitamins encompasses their extraction from foodstuffs, including sources like natto and orange, and their incorporation into effervescent pills and spreadable formulations. The EU regulates the permissible levels of vitamins and minerals, including selenium, molybdenum, and zinc, to ensure consumer safety and prevent unintentional overdose. Additionally, vitamins are subject to scrutiny regarding their flavouring agents and the use of solvents in their production, ensuring that dietary habits align with health standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:28:37.176825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 576,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 551,
+      "selected_avg_freq": 245.88666666666666
+    },
+    "related_words": [
+      "pill",
+      "pentothenate",
+      "mcg",
+      "biotin",
+      "niacinamide",
+      "pills",
+      "effervescent",
+      "menaquinone",
+      "natto",
+      "nattopharma",
+      "invert",
+      "medicaments",
+      "rations",
+      "saccharin",
+      "folic",
+      "spreadable",
+      "selenium",
+      "molybdenum",
+      "iodine",
+      "subtilis",
+      "unintentional",
+      "nutrients",
+      "premixtures",
+      "curtailed",
+      "dehydrated",
+      "vitamin",
+      "allergies",
+      "flavouring",
+      "bacillus",
+      "dietetic"
+    ],
+    "prompt_length": 1669,
+    "category": "2841 health"
+  }
+}

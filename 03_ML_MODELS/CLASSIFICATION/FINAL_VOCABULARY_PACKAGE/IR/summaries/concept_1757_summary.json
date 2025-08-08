@@ -1,0 +1,63 @@
+{
+  "concept_id": "1757",
+  "concept_data": {
+    "title": "heart disease",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "cardiovascular disease",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"heart disease,\" redirected to \"cardiovascular disease,\" encompasses a range of conditions affecting the vascular system, including lesions, stenosis, and vasculopathy. In EU legal and regulatory frameworks, cardiovascular disease is significant due to its prevalence among patients and its implications for public health. Regulatory bodies focus on the dynamics of blood circulation and the impact of dietary components such as phytosterols and stanols on cholesterol levels. Diagnostic tools like ultrasound and biosound are essential for assessing arterial health. Furthermore, advertising regulations for health products must ensure informative labels that accurately reflect health benefits, addressing potential allergies and intolerances.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:52:38.701718",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 314,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1082,
+      "selected_avg_freq": 434.5933333333333
+    },
+    "related_words": [
+      "simultrace",
+      "biosound",
+      "lesion",
+      "manifestations",
+      "vasculopathy",
+      "stenosis",
+      "vascular",
+      "lsi",
+      "perfusion",
+      "intolerances",
+      "khorasan",
+      "pulse",
+      "stanol",
+      "ins",
+      "limb",
+      "plug",
+      "kamut",
+      "curve",
+      "coronary",
+      "sterols",
+      "ultrasound",
+      "arterial",
+      "stanols",
+      "phytosterol",
+      "phytostanols",
+      "phytostanol",
+      "informative",
+      "phytosterols",
+      "recorder",
+      "trademark"
+    ],
+    "prompt_length": 1693,
+    "category": "2841 health"
+  }
+}

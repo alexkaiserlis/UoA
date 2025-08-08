@@ -1,0 +1,63 @@
+{
+  "concept_id": "2862",
+  "concept_data": {
+    "title": "advertising campaign",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "advertising",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"advertising campaign,\" a redirect to the preferred term \"advertising,\" encompasses various promotional strategies employed across periodicals, newspapers, and magazines. In the EU regulatory context, advertising must adhere to principles that prevent addiction and ensure equitable representation of products, especially in sectors like horticiles and agricultural goods. Regulatory frameworks scrutinise sponsorships and promotional content to avoid misleading perceptions. Campaigns may include teleshopping and exhibitions, where logos and branding are prominently displayed. The EU emphasizes coresponsibility among communities to foster ethical advertising practices, thereby overcoming potential clashes between commercial interests and consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:40:58.657945",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 1115,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 213,
+      "selected_avg_freq": 92.48
+    },
+    "related_words": [
+      "addictive",
+      "addicted",
+      "periodicals",
+      "newspapers",
+      "magazines",
+      "teleshopping",
+      "débouchés",
+      "fomed",
+      "prvided",
+      "fristly",
+      "horticiles",
+      "hulst",
+      "siergewassen",
+      "erected",
+      "coresponsibility",
+      "commuities",
+      "ondah",
+      "agricoles",
+      "horticoles",
+      "clash",
+      "sponsorship",
+      "glasshouse",
+      "produktschap",
+      "equitably",
+      "imitate",
+      "moniteur",
+      "specializing",
+      "connective",
+      "witloof",
+      "ispa"
+    ],
+    "prompt_length": 1733,
+    "category": "2031 marketing"
+  }
+}

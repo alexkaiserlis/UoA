@@ -1,0 +1,63 @@
+{
+  "concept_id": "5916",
+  "concept_data": {
+    "title": "supervision of pharmaceutical drugs",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "drug surveillance",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supervision of pharmaceutical drugs,\" redirected to \"drug surveillance,\" encompasses the regulatory framework ensuring the safety and efficacy of medications within the EU. This includes pharmacovigilance activities that monitor adverse effects, such as nausea, vomiting, and palpitations, which may arise from medications like anthelmintics or stimulants. Pharmacists and prescribers must adequately assess contraindications and patient responses, particularly in paediatric populations. The legal obligations extend to the documentation of pharmacotoxicological data and the management of psychoactive substances like methylamphetamine. By ensuring comprehensibility in drug monographs, the EU aims to protect patients from distress, anxiety, and other health risks associated with improper drug use.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:27.473387",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 886,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 193,
+      "selected_avg_freq": 79.36666666666666
+    },
+    "related_words": [
+      "resigns",
+      "arprinocide",
+      "dinitolmide",
+      "ipronidazole",
+      "prescriber",
+      "adquate",
+      "anthelmintics",
+      "pharmacists",
+      "methylamphetamine",
+      "methylated",
+      "methylbenzyl",
+      "bmk",
+      "anorexia",
+      "perspiration",
+      "coughing",
+      "headache",
+      "palpitations",
+      "insomnia",
+      "resemblance",
+      "contraindications",
+      "medically",
+      "paediatric",
+      "enquire",
+      "pharmacotoxicological",
+      "phenethylamine",
+      "nausea",
+      "vomiting",
+      "paranoia",
+      "unknowingly",
+      "hyperthermia"
+    ],
+    "prompt_length": 1827,
+    "category": "2841 health"
+  }
+}

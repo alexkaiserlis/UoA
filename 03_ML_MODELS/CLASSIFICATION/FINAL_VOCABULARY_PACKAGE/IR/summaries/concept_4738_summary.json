@@ -1,0 +1,63 @@
+{
+  "concept_id": "4738",
+  "concept_data": {
+    "title": "bank",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"bank\" refers to a financial institution that engages in activities such as accepting deposits, debiting accounts, and providing loans. Banks operate under a collegial governance structure and are subject to stringent regulations to ensure systemic stability. The formalisation of banking practices is guided by laws (loi) that align with ethical standards set by bodies like IOSCO. Banks, including unincorporated entities and those like Ulster and Bayerische, must adhere to the fundamentals of financial diligence. They also play a critical role in the economy, serving as trustees for debtors and facilitating transactions through ATMs and SIPS. The multiplicity of banking services, including the issuance (émission) of financial instruments, underscores their importance in the EU's economic landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:09.912837",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 637,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 282,
+      "selected_avg_freq": 101.54
+    },
+    "related_words": [
+      "ibsc",
+      "ulster",
+      "unincorporated",
+      "atms",
+      "chase",
+      "debiting",
+      "zuechner",
+      "vereinsbank",
+      "sips",
+      "pankki",
+      "contrat",
+      "etat",
+      "fiben",
+      "fichier",
+      "bancaire",
+      "collegial",
+      "formalisation",
+      "émission",
+      "originator",
+      "debits",
+      "suomen",
+      "westminster",
+      "decisional",
+      "teller",
+      "bayerische",
+      "monétaire",
+      "outre",
+      "mer",
+      "iedom",
+      "midland"
+    ],
+    "prompt_length": 1660,
+    "category": "2416 financial institutions and credit"
+  }
+}

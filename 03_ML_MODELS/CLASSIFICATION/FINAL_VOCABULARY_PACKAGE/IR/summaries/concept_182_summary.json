@@ -1,0 +1,63 @@
+{
+  "concept_id": "182",
+  "concept_data": {
+    "title": "exchange control",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Exchange control refers to regulatory measures that govern the convertibility of currencies and the flow of capital across borders within the EU. This framework aims to ensure equilibrium in monetary economics by managing inflows and outflows of foreign currencies, thereby preventing disequilibrium. It involves the multilateralization of settlements, where member states confer privileges and immunities to facilitate transactions. Exchange control statutes may invoke interventions by central banks to maintain parities and assure stability. The responsibilities of governors include administering these controls to mitigate unemployment and financial risks. As such, exchange control is crucial for maintaining strong economic positions and securing contractual obligations among residents and banks.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:54:29.794020",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1808,
+      "selected_avg_freq": 848.76
+    },
+    "related_words": [
+      "multilateralization",
+      "erects",
+      "conferment",
+      "combines",
+      "convertibility",
+      "disequilibrium",
+      "inflows",
+      "assuring",
+      "settlements",
+      "concertation",
+      "parities",
+      "ties",
+      "get",
+      "irrevocable",
+      "continuance",
+      "irreversible",
+      "governors",
+      "residents",
+      "worse",
+      "expensive",
+      "immunities",
+      "secrecy",
+      "privileges",
+      "statutes",
+      "equilibrium",
+      "interventions",
+      "unemployment",
+      "administering",
+      "threatens",
+      "heads"
+    ],
+    "prompt_length": 1735,
+    "category": "2411 monetary economics"
+  }
+}

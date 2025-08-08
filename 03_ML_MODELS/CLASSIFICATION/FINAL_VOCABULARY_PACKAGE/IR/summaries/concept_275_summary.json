@@ -1,0 +1,63 @@
+{
+  "concept_id": "275",
+  "concept_data": {
+    "title": "production cost",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"production cost\" refers to the total expenses incurred in the creation of goods, such as coking coal, which is fundamental for industries like steel manufacturing. This concept is crucial for calculating subsidies, like the bergmannsprämie and kokskohlenbeihilfe, aimed at miners in regions like Saar and Westphalia. The verstromungsgesetz regulates the maximization of energy production from coal, while ensuring compliance with EU directives to avoid unconstitutional practices. By deducting overpaid amounts and applying degression principles, authorities aim to minimize financial burdens on taxpayers. Ultimately, understanding production costs helps achieve tangible economic stability in the EU's diverse agricultural and industrial sectors, including the cultivation of crops like artichokes and lettuce.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:28.685662",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 636,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 404,
+      "selected_avg_freq": 194.79333333333332
+    },
+    "related_words": [
+      "fünftes",
+      "bergmannsprämie",
+      "kokskohlenbeihilfe",
+      "beihilfe",
+      "verstromungskohle",
+      "maximization",
+      "verstromungsgesetz",
+      "kohlepfennig",
+      "auguste",
+      "unconstitutional",
+      "jacoba",
+      "gewerkschaft",
+      "preussag",
+      "lessening",
+      "pumped",
+      "sophia",
+      "saarbergwerke",
+      "ruhrkohle",
+      "victoria",
+      "overpaid",
+      "degression",
+      "nearby",
+      "pit",
+      "miners",
+      "saar",
+      "cabbage",
+      "pits",
+      "für",
+      "achieves",
+      "coking"
+    ],
+    "prompt_length": 1704,
+    "category": "4026 accounting"
+  }
+}

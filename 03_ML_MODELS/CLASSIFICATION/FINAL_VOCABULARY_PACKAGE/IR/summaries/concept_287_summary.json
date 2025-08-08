@@ -1,0 +1,63 @@
+{
+  "concept_id": "287",
+  "concept_data": {
+    "title": "export credit",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Export credit refers to financial support provided to buyers for international transactions, particularly in the context of EU trade policy. This arrangement aims to minimize distortions in the market and reinforce the competitiveness of EU participants, especially in sectors like shipbuilding. The OECD disciplines govern these credits, ensuring they do not become counterproductive or weaken the integrity of trade. Export credits can accommodate smaller projects by offering guaranteed insurance, thereby affording flexibility to buyers. The EU continues to officially subscribe to a series of initiatives that support successful transactions while seeking to harmonise regulations across member states, ensuring a consolidated understanding of export credit frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:58:07.441000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 193,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 2599,
+      "selected_avg_freq": 1190.6
+    },
+    "related_words": [
+      "counterproductive",
+      "subscribe",
+      "idea",
+      "weaken",
+      "affording",
+      "confine",
+      "accommodate",
+      "disciplines",
+      "shipbuilding",
+      "participant",
+      "minimize",
+      "reject",
+      "buyers",
+      "credits",
+      "trial",
+      "oecd",
+      "regulating",
+      "ships",
+      "insofar",
+      "reinforce",
+      "participants",
+      "insurance",
+      "transaction",
+      "successful",
+      "comprises",
+      "distortions",
+      "smaller",
+      "credit",
+      "consolidated",
+      "understanding"
+    ],
+    "prompt_length": 1706,
+    "category": "2006 trade policy"
+  }
+}

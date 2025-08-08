@@ -1,0 +1,63 @@
+{
+  "concept_id": "4617",
+  "concept_data": {
+    "title": "uranium 235",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "uranium",
+    "relation_type": "USE"
+  },
+  "summary": "Uranium 235, a critical isotope in the nuclear industry, is often referenced in EU legal and regulatory frameworks under the preferred term \"uranium.\" Its applications in kernkraftwerke (nuclear power plants) necessitate stringent regulations regarding the handling, accounting, and disposal of irradiated materials. Regulatory bodies, including INESPECTORS, oversee the processes of reinventory and rectifications to ensure compliance. The presence of unmeasured and unaccounted scraps, ashes, and slags from decommissionned facilities poses challenges for accurate accounting. Moreover, the inhomogeneity of uranium materials requires careful prospecting and refurbishing of resources. As the EU continues to address the complexities of nuclear energy, the importance of thorough investigage and reporting remains paramount.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:49:31.907919",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 838,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 178,
+      "selected_avg_freq": 62.85333333333333
+    },
+    "related_words": [
+      "kernkraftwerke",
+      "lippe",
+      "kle",
+      "bnfl",
+      "contrating",
+      "procede",
+      "bnl",
+      "ukaea",
+      "dounreay",
+      "thurso",
+      "rebuilt",
+      "odd",
+      "takings",
+      "reveaaled",
+      "muf",
+      "investigage",
+      "inespectors",
+      "reinventory",
+      "oeprating",
+      "overstatement",
+      "shipper",
+      "slags",
+      "swabs",
+      "sweepings",
+      "unmeasured",
+      "dissolvers",
+      "altough",
+      "accontancy",
+      "acconting",
+      "inhomogeneity"
+    ],
+    "prompt_length": 1730,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4002",
+  "concept_data": {
+    "title": "United Nations Secretariat",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN Secretariat",
+    "relation_type": "USE"
+  },
+  "summary": "The \"UN Secretariat,\" a term redirected to \"United Nations Secretariat,\" plays a pivotal role in international governance, particularly within the context of the EU's Common Foreign and Security Policy (CFSP). The Secretariat, under the leadership of the Secretary-General, is responsible for implementing resolutions and actions approved by member states. It notifies nations of decisions and guidelines, ensuring that personnel and resources are effectively managed across various areas. The Secretariat's actions are subject to international agreements and resolutions, which may extend over several years. Its role is crucial in fostering cooperation and addressing global challenges, thereby influencing EU legal frameworks and policy proposals.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:18:11.451550",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 66,
+      "requested_words": 150,
+      "min_frequency_found": 79,
+      "max_frequency_found": 4108,
+      "selected_words": 66,
+      "selected_min_freq": 79,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2036.6060606060605
+    },
+    "related_words": [
+      "coffee",
+      "mines",
+      "sphere",
+      "secretary",
+      "personnel",
+      "expiring",
+      "simultaneously",
+      "came",
+      "cfsp",
+      "anti",
+      "acceptance",
+      "notify",
+      "nations",
+      "intention",
+      "guidelines",
+      "actions",
+      "resolution",
+      "identified",
+      "six",
+      "falling",
+      "notification",
+      "held",
+      "indicated",
+      "extend",
+      "security",
+      "joint",
+      "decided",
+      "applying",
+      "areas",
+      "extended"
+    ],
+    "prompt_length": 1676,
+    "category": "7606 United Nations"
+  }
+}

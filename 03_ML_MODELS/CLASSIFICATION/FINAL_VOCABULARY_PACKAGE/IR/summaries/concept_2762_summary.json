@@ -1,0 +1,63 @@
+{
+  "concept_id": "2762",
+  "concept_data": {
+    "title": "irradiated product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"irradiated product\" refers to foodstuffs that have undergone treatment with ionizing radiation to eliminate pathogens and extend shelf life. In the EU, regulations impose strict controls on such products to ensure safety and minimize contamination from radionuclides. The legal framework, stipulated under Euratom, specifies permissible levels of radioactivity, irrespective of the type of foodstuff. For instance, cereals and feedingstuffs must meet defined maxima to be marketed. Committees oversee compliance, ensuring that irradiated products are sound and merchantable. In cases of excess contamination, compensatory refunds may be required, particularly following nuclear accidents like Chernobyl, demonstrating the EU's commitment to public health and fair agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:59.079377",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 141,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 141,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1728.4255319148936
+    },
+    "related_words": [
+      "maxima",
+      "radionuclides",
+      "merchantable",
+      "chernobyl",
+      "radioactivity",
+      "radiological",
+      "chairmen",
+      "radioactive",
+      "varies",
+      "accident",
+      "station",
+      "contaminated",
+      "varying",
+      "imposes",
+      "contamination",
+      "feedingstuffs",
+      "nuclear",
+      "irrespective",
+      "compensatory",
+      "stipulated",
+      "refunds",
+      "example",
+      "showing",
+      "committees",
+      "excess",
+      "emergency",
+      "cereals",
+      "marketed",
+      "foodstuffs",
+      "specifies"
+    ],
+    "prompt_length": 1708,
+    "category": "6026 foodstuff"
+  }
+}

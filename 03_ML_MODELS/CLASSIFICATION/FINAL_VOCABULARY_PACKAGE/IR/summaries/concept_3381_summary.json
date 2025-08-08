@@ -1,0 +1,63 @@
+{
+  "concept_id": "3381",
+  "concept_data": {
+    "title": "Isle of Man",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Isle of Man,\" categorized under Europe (7206), is a self-governing dependency with unique legal frameworks and ordinances distinct from the EU. Its governance structure includes the Crown and local authorities, such as the Tynwald, which appraises legislation relevant to its jurisdictions. The island's topographies and ecosystems, including hives affected by varroa mites, are subject to specific regulations addressing ectoparasitic infestations and notifiable diseases like varroasis. The Isle of Man also engages in countering money laundering and has provisions for rightholders in intellectual property. Its relationship with nearby bailiwicks, such as Guernsey and Jersey, further complicates its regulatory landscape, necessitating appropriate legal frameworks for cross-border issues.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:28:41.024927",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 714,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 369,
+      "selected_avg_freq": 154.34
+    },
+    "related_words": [
+      "queenies",
+      "govem",
+      "skeps",
+      "habitual",
+      "sark",
+      "alderney",
+      "receptacle",
+      "varroosis",
+      "ectoparasitic",
+      "bailiwick",
+      "topographies",
+      "ordinances",
+      "varroasis",
+      "forseeable",
+      "rightholders",
+      "mites",
+      "varroa",
+      "åland",
+      "payer",
+      "hematopoietic",
+      "brood",
+      "appraising",
+      "seedlings",
+      "topic",
+      "laundering",
+      "appropiate",
+      "handbook",
+      "hives",
+      "dependency",
+      "internally"
+    ],
+    "prompt_length": 1664,
+    "category": "7206 Europe"
+  }
+}

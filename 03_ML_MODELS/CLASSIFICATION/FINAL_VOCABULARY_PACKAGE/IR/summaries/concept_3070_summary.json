@@ -1,0 +1,63 @@
+{
+  "concept_id": "3070",
+  "concept_data": {
+    "title": "sales aid",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU regulatory contexts, \"sales aid\" refers to mechanisms designed to support and stimulate economic activity, particularly in sectors like agriculture and fisheries. These aids can take various forms, such as vouchers or refundable incentives, aimed at equalising market conditions. For instance, sales aid may assist producers of crops like cauliflower or seafood, including shrimp and seabream, by compensating for fluctuating prices or unpredictable market demands. Regulatory frameworks, often discussed within the Parliament, seek to rationalise these aids, ensuring they do not distort competition. Departments involved may recommend measures to defray costs, particularly for immobilized assets or during periods of stagnating sales.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:30:28.461065",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1463,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 117,
+      "selected_avg_freq": 59.94
+    },
+    "related_words": [
+      "scabbard",
+      "viewpoints",
+      "regulatiion",
+      "parliamant",
+      "deparments",
+      "parliment",
+      "rrc",
+      "equalise",
+      "inversely",
+      "croation",
+      "rijeka",
+      "compensable",
+      "equalising",
+      "captures",
+      "rationalised",
+      "recommenced",
+      "immobilized",
+      "mixes",
+      "frosts",
+      "failings",
+      "lading",
+      "caseins",
+      "butterfat",
+      "peaks",
+      "defray",
+      "euromarkets",
+      "fluctuates",
+      "cauliflower",
+      "vouchers",
+      "euribor"
+    ],
+    "prompt_length": 1684,
+    "category": "1606 economic policy"
+  }
+}

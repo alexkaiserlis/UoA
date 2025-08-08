@@ -1,0 +1,63 @@
+{
+  "concept_id": "3134",
+  "concept_data": {
+    "title": "building standard",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "building regulations",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"building regulations\" encompass a comprehensive framework that prescribes standards for construction and town planning. These regulations incorporate various classifications of materials, such as thermal insulation and waterproofing systems, ensuring safety and efficiency in structures. Key elements include the use of fire-resistant materials, like coated plastics and composite roofs, and the implementation of sealants and anchors in masonry. Building regulations also mandate approvals for designs, which must utilize interpretative guidelines for layout and functionality. Additionally, they address pedestrian walkways and the integration of cables, thereby ensuring that all components are interrelated and comply with established etics and standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:11.949028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 331,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1107,
+      "selected_avg_freq": 448.8466666666667
+    },
+    "related_words": [
+      "walkways",
+      "choise",
+      "etics",
+      "plastisol",
+      "roofs",
+      "cavity",
+      "masonry",
+      "anchors",
+      "combustible",
+      "waterproofing",
+      "joints",
+      "continous",
+      "sealants",
+      "pedestrian",
+      "bench",
+      "utilize",
+      "interpretative",
+      "correlated",
+      "interrelated",
+      "roof",
+      "insulation",
+      "coverings",
+      "smoke",
+      "kits",
+      "prescribes",
+      "elaborated",
+      "cables",
+      "room",
+      "coated",
+      "layout"
+    ],
+    "prompt_length": 1731,
+    "category": "2846 construction and town planning"
+  }
+}

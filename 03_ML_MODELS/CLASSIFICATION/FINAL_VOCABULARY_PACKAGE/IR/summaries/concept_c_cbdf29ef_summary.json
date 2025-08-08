@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_cbdf29ef",
+  "concept_data": {
+    "title": "rare disease",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "orphan disease",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"rare disease\" is commonly redirected to \"orphan disease,\" which refers to conditions that affect a small percentage of the population, typically fewer than 5 in 10,000 individuals. The European Union has established specific regulations to incentivize the development of treatments for these orphan diseases, recognizing the challenges posed by their low prevalence. The Orphan Medicinal Products Regulation (EC) No 141/2000 facilitates research and market access for therapies targeting these conditions, ensuring that patients with rare diseases receive necessary medical attention and support, despite the limited commercial viability for pharmaceutical companies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:24:11.697920",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1192,
+    "category": "2841 health"
+  }
+}

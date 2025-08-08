@@ -1,0 +1,63 @@
+{
+  "concept_id": "220",
+  "concept_data": {
+    "title": "political cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Political cooperation within the EU framework refers to the consensual engagement of member states and associated actors in charting a unified approach to governance and policy-making. This cooperation aims to reinforce democracy and uphold constitutional values, particularly in contexts involving elections and the readmission of migrants. The EU has developed a roadmap for integrating various republics, fostering stability in regions like Honduras and Nicaragua, while addressing violations of human rights. By mediating conflicts and resuming dialogue, the EU acknowledges the need for reforming systems that have been deemed unconstitutional. Ultimately, political cooperation seeks to restore trust and succeed in fostering sustainable development across member states, including those in the Cotonou Agreement sphere.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:40:22.312237",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 325,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1045,
+      "selected_avg_freq": 480.7733333333333
+    },
+    "related_words": [
+      "charting",
+      "unconstitutional",
+      "mediators",
+      "restart",
+      "consensual",
+      "sadc",
+      "acknowledge",
+      "readmission",
+      "reforming",
+      "migrants",
+      "ouagadougou",
+      "mexican",
+      "mauritania",
+      "resumed",
+      "guatemala",
+      "salvador",
+      "panama",
+      "mediation",
+      "honduras",
+      "islamic",
+      "nicaragua",
+      "credible",
+      "roadmap",
+      "rica",
+      "envisage",
+      "restoring",
+      "violated",
+      "cotonou",
+      "elections",
+      "madagascar"
+    ],
+    "prompt_length": 1701,
+    "category": "0811 cooperation policy"
+  }
+}

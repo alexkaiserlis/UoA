@@ -1,0 +1,63 @@
+{
+  "concept_id": "5032",
+  "concept_data": {
+    "title": "Burgundy",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Burgundy, or Bourgogne, is a significant region within the EU Member States, recognized for its rich agricultural products, including the renowned crottin and crème de Bresse. In the context of EU legal frameworks, Burgundy's designation as a PDO (Protected Designation of Origin) satisfies statutory requirements aimed at preserving regional specialties. The region's economic development is supported through various EU funding mechanisms, such as the ERDF (European Regional Development Fund) and EIB (European Investment Bank) loans, which are indexed to inflation and designed to enhance additionality. Programming in Burgundy foresees allocations that retain local traditions while addressing declining economic patterns, ensuring readiness for future challenges and fostering opposition to unsustainable practices. The intent of these frameworks is to adopt a comprehensive approach that precisely meets the needs of the region's stakeholders, thereby enhancing its perspectives within the broader EU context.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:00:33.850026",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 139,
+    "vocabulary_stats": {
+      "total_related_words": 406,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1064,
+      "selected_avg_freq": 604.1066666666667
+    },
+    "related_words": [
+      "crottin",
+      "chavignol",
+      "crème",
+      "bresse",
+      "burgundy",
+      "beurre",
+      "charolles",
+      "bœuf",
+      "bourgogne",
+      "rechar",
+      "additionality",
+      "indexed",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "opposition",
+      "adopts"
+    ],
+    "prompt_length": 1657,
+    "category": "7211 regions of EU Member States"
+  }
+}

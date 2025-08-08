@@ -1,0 +1,63 @@
+{
+  "concept_id": "5041",
+  "concept_data": {
+    "title": "Brittany",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Brittany, or Bretagne, is a significant region within the EU Member States, recognized for its unique coastal landscapes and agricultural practices. The region's cultivation of buckwheat and oilseeds reflects its diverse arable farming, which is essential for protein and fodder production. Brittany's catchment areas are crucial for maintaining ecological balance, particularly concerning climatic impacts on local biodiversity, including molluscs and hematopoietic species. EU frameworks, such as the European Regional Development Fund (ERDF) and the European Social Fund (ESF), adopt strategies to enhance regional readiness and address declining agricultural productivity. These initiatives aim to prevent detrimental effects, ensuring sustainable development and economic growth in Brittany.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:59:17.591722",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 450,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 928,
+      "selected_avg_freq": 488.0466666666667
+    },
+    "related_words": [
+      "buckwheat",
+      "bretagne",
+      "hematopoietic",
+      "poitou",
+      "rechar",
+      "brittany",
+      "coasts",
+      "charentes",
+      "ihn",
+      "catchment",
+      "vhs",
+      "septicaemia",
+      "necrosis",
+      "haemorrhagic",
+      "oilseeds",
+      "sowing",
+      "additionality",
+      "indexed",
+      "continental",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "viral",
+      "com",
+      "analogy",
+      "arable",
+      "detrimental",
+      "intent",
+      "frameworks"
+    ],
+    "prompt_length": 1664,
+    "category": "7211 regions of EU Member States"
+  }
+}

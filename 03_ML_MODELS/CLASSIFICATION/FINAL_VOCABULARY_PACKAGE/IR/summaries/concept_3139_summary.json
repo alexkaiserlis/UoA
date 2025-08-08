@@ -1,0 +1,63 @@
+{
+  "concept_id": "3139",
+  "concept_data": {
+    "title": "environmental impact",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"environmental impact\" within EU legal and regulatory frameworks refers to the assessment of potential effects of activities, such as the use of dishwashers or the application of chemicals like acrylaldehyde and dichlorobenzoic acid, on the environment. This includes evaluating substances that may be cancerogenic or harmful, such as fluorocarbons and metamitron. The EU employs methodologies, including the use of hygrometers and manometers, to measure impacts. Regulations aim to minimize adverse effects through bunding and the careful selection of formulants, ensuring compliance with directives like REACH. The assessment process is critical for sustainable development and informed decision-making in environmental policy.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:55.532048",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1940,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 11.206666666666667
+    },
+    "related_words": [
+      "dishwasher",
+      "indicatively",
+      "ddacarbonate",
+      "bunding",
+      "dimethylbenzyl",
+      "alkyldimethyl",
+      "bcs",
+      "ghøø2",
+      "paracoccus",
+      "carotinifaciens",
+      "nite",
+      "brushing",
+      "fluorocarbons",
+      "ingnored",
+      "pmp",
+      "npe",
+      "acrylaldehyde",
+      "branched",
+      "formulants",
+      "formulant",
+      "unseasoned",
+      "deluge",
+      "circulator",
+      "metzq",
+      "dishwashing",
+      "cob",
+      "lipha",
+      "belgagri",
+      "synonymous",
+      "aclonifen"
+    ],
+    "prompt_length": 1736,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3497",
+  "concept_data": {
+    "title": "liability",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"liability\" encompasses the obligations of parties, particularly in civil law contexts, to discharge debts or compensate for damages. This concept is crucial in areas such as aviation, where carriers are liable for baggage and cargo under the Montreal Convention. Liability may stem from contractual agreements, such as those involving instalments or loans, and can be influenced by constitutional principles. Insured parties may seek to convert liabilities into claims against reserves, while assessments of liability ratios are essential for financial stability. The unification of legal standards across member states facilitates the consistent treatment of liabilities, ensuring that populations and successor entities are adequately protected.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:16:20.151548",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 222,
+      "requested_words": 150,
+      "min_frequency_found": 27,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 27,
+      "selected_max_freq": 2106,
+      "selected_avg_freq": 898.4866666666667
+    },
+    "related_words": [
+      "convertibility",
+      "csfr",
+      "signatures",
+      "baggage",
+      "servicing",
+      "insured",
+      "disbursed",
+      "dissolution",
+      "icao",
+      "cent",
+      "accumulated",
+      "triggering",
+      "montreal",
+      "successor",
+      "stemming",
+      "constitutional",
+      "czechoslovakia",
+      "thirds",
+      "liabilities",
+      "unification",
+      "cargo",
+      "carriers",
+      "populations",
+      "republics",
+      "instalments",
+      "passengers",
+      "discharge",
+      "fees",
+      "designating",
+      "aviation"
+    ],
+    "prompt_length": 1682,
+    "category": "1211 civil law"
+  }
+}

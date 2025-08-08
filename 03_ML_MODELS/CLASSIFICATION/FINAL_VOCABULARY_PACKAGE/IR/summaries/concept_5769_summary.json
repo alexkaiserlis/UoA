@@ -1,0 +1,63 @@
+{
+  "concept_id": "5769",
+  "concept_data": {
+    "title": "specialised Community agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "EU office or agency",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"specialised Community agency,\" a redirect to \"EU office or agency,\" refers to entities established within the EU framework to facilitate policymaking and regulatory functions. These agencies, such as BEREC and ESRB, are resourced to address specific sectors, igniting effective governance and compliance. They engage in subtitling complex regulations and conveying essential information through brochures and reports. Their prerogative includes overseeing areas like veterinary regulations (veterinaria) and environmental policies (engendering globalised standards). The agencies' chairpersons and secretaries play pivotal roles in the inauguration of initiatives, ensuring that stories of success and challenges are documented, thereby enhancing transparency and accountability in EU operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:40.274186",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 2126,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 45,
+      "selected_avg_freq": 24.366666666666667
+    },
+    "related_words": [
+      "subtitling",
+      "refarming",
+      "resolves",
+      "erg",
+      "nras",
+      "berec",
+      "cnacs",
+      "shortlist",
+      "stories",
+      "imagined",
+      "ieea",
+      "globalised",
+      "sparked",
+      "chairs",
+      "larosière",
+      "eip",
+      "enrd",
+      "uclaf",
+      "ignited",
+      "motorists",
+      "petro",
+      "fscg",
+      "eccg",
+      "conveying",
+      "resourced",
+      "prerogative",
+      "cnac",
+      "engender",
+      "iee",
+      "veterinaria"
+    ],
+    "prompt_length": 1716,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

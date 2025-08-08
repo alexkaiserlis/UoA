@@ -1,0 +1,63 @@
+{
+  "concept_id": "4207",
+  "concept_data": {
+    "title": "silk yarn",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": true,
+    "preferred_term": "silk",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"silk yarn\" is a redirect to the preferred term \"silk,\" encompassing various animal products derived from silkworms. This category includes noil, a byproduct of silk production, and other forms like ribbon and spools. The Commission oversees regulations ensuring that silk, including spun and woven fabrics, meets quality standards. The survival of the silk industry relies on rearing practices in regions such as Zhejiang, where rearers cultivate cocoons. Legal frameworks address issues like undercut pricing and the suppression of weaker competitors, warranting compliance to maintain market integrity. Comparisons with other textiles highlight silk's unique attributes, reinforcing its profitable status in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:42:41.732374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 543,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 518,
+      "selected_avg_freq": 246.16666666666666
+    },
+    "related_words": [
+      "noil",
+      "ribbon",
+      "aiuffass",
+      "spinnhuette",
+      "seidentechnik",
+      "delacamp",
+      "inking",
+      "spools",
+      "paralleled",
+      "thrown",
+      "celle",
+      "typewriter",
+      "cocoons",
+      "preceeding",
+      "spun",
+      "rearers",
+      "zhejiang",
+      "commisson",
+      "bristles",
+      "silkworm",
+      "silkworms",
+      "weaker",
+      "silk",
+      "suppressed",
+      "causality",
+      "plain",
+      "orally",
+      "diminishing",
+      "puts",
+      "woven"
+    ],
+    "prompt_length": 1661,
+    "category": "6011 animal product"
+  }
+}

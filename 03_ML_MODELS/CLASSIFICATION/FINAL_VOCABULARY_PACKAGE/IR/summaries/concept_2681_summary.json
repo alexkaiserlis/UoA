@@ -1,0 +1,63 @@
+{
+  "concept_id": "2681",
+  "concept_data": {
+    "title": "minimum price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"minimum price\" within EU legal and regulatory frameworks refers to a guaranteed price level that prevents market drops for specific products, such as blackcurrants, strowberries, and various vegetables. This intervention aims to protect farmers from penalization due to market fluctuations, ensuring that their produce, including mandrins and dahlias, maintains a viable economic value. Regulatory departments may implement minimum pricing procedures to address differences in market accesson and to support common agricultural policies. By publicising these measures, the EU seeks to stabilize prices, thus preventing the crippling effects of unrealized profits and ensuring that quality products, like muscatels and lilium, are not undervalued.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:22.970627",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1805,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 68,
+      "selected_avg_freq": 30.573333333333334
+    },
+    "related_words": [
+      "accesson",
+      "embarrassed",
+      "strowberries",
+      "presentated",
+      "blackcurrants",
+      "begonias",
+      "sinningias",
+      "gladioli",
+      "dahlias",
+      "vcegetables",
+      "veg",
+      "etables",
+      "proviced",
+      "mandrins",
+      "lemmons",
+      "talking",
+      "comune",
+      "jugdment",
+      "apace",
+      "pylias",
+      "repuced",
+      "counry",
+      "moscatel",
+      "publicising",
+      "lilium",
+      "storehouse",
+      "differnces",
+      "prcedure",
+      "departements",
+      "guaranted"
+    ],
+    "prompt_length": 1673,
+    "category": "2451 prices"
+  }
+}

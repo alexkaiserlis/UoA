@@ -1,0 +1,63 @@
+{
+  "concept_id": "4765",
+  "concept_data": {
+    "title": "open ballot",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"open ballot\" pertains to electoral procedures within the EU, emphasizing transparency in voting processes. Unlike secret ballots, open ballots allow voters to publicly express their choices, which can enhance accountability but may also deter independent decision-making. In the context of various electoral frameworks, including those addressing endemic issues such as the management of populations of pests like gossypii and leptionotarsa, open ballots can be critical for recognizing local preferences. This method of voting may influence regulatory decisions, particularly in sectors affected by species like the grandis and typographus, where stakeholder engagement is paramount.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:20:49.868964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 145,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 145,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1229.096551724138
+    },
+    "related_words": [
+      "glomerella",
+      "gossypii",
+      "cephalcia",
+      "lariciphila",
+      "gremmeniella",
+      "abietina",
+      "morelet",
+      "hypoxylon",
+      "mammatum",
+      "wahl",
+      "leptionotarsa",
+      "boerner",
+      "anthonomus",
+      "grandis",
+      "boh",
+      "typographus",
+      "klug",
+      "bemisia",
+      "tabaci",
+      "genn",
+      "decemlineata",
+      "leptinotarsa",
+      "sexdentatus",
+      "pissodes",
+      "edgerton",
+      "gilpinia",
+      "hercyniae",
+      "hartig",
+      "miller",
+      "cembrae"
+    ],
+    "prompt_length": 1667,
+    "category": "0416 electoral procedure and voting"
+  }
+}

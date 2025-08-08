@@ -1,0 +1,63 @@
+{
+  "concept_id": "3176",
+  "concept_data": {
+    "title": "remission of customs duties",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "customs drawback",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"remission of customs duties,\" also known as \"customs drawback,\" pertains to the EU's tariff policy, facilitating the reimbursement of customs duties under specific conditions. This system is designed to prevent deception in trade practices, ensuring that businesses like Kobelco and Kobesteel can reclaim duties on goods that are exported or used in manufacturing. The process, while straightforward, can sometimes lead to overclaims if not properly managed, as seen in cases involving companies like Equipco and Asahi. Regulatory frameworks aim to streamline these applications, providing opportunities for compliance while addressing potential issues, such as involuntary errors or rejected claims. The histories of various cases, including those from Liverpool and Surrey, illustrate the complexities involved in navigating this system, emphasizing the need for precise documentation and adherence to EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:46.873568",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 983,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 157,
+      "selected_avg_freq": 59.846666666666664
+    },
+    "related_words": [
+      "deception",
+      "nellen",
+      "quack",
+      "gronau",
+      "opportunitiy",
+      "eximation",
+      "againsted",
+      "neu",
+      "isenburg",
+      "bareggio",
+      "tridiam",
+      "kobemac",
+      "communtity",
+      "overclaim",
+      "reyners",
+      "equipco",
+      "boeg",
+      "thomsen",
+      "vipperoed",
+      "oswald",
+      "bruycker",
+      "ostend",
+      "beazer",
+      "bridgewater",
+      "histories",
+      "gantrade",
+      "bishop",
+      "stortford",
+      "systeme",
+      "kronberg"
+    ],
+    "prompt_length": 1689,
+    "category": "2011 tariff policy"
+  }
+}

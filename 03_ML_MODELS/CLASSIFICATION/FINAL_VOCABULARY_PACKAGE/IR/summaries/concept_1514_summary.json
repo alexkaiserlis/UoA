@@ -1,0 +1,63 @@
+{
+  "concept_id": "1514",
+  "concept_data": {
+    "title": "building insulation",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Building insulation refers to materials and techniques employed to reduce thermal leakage in structures, thereby enhancing energy efficiency and contributing to greenhouse gas reduction. In the EU regulatory framework, insulation materials such as rock wool, membranes, and panels are subject to stringent approvals and inspections to ensure compliance with safety and performance standards. Various subsectors utilize insulating products, including woven fabrics and chopped strands, which are often manufactured in rolls or sheets. Guidelines mandate the use of these materials in heating appliances and construction, promoting the use of disaggregated components like mattresses and blocks. The integration of innovative technologies, such as generator systems and digitized monitoring, further distinguishes modern insulation practices within the building and public works category.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:06.890986",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 338,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 974,
+      "selected_avg_freq": 372.12
+    },
+    "related_words": [
+      "shuttering",
+      "voiles",
+      "slivers",
+      "webs",
+      "slag",
+      "chopped",
+      "wools",
+      "prodcom",
+      "rovings",
+      "continous",
+      "mats",
+      "disaggregated",
+      "hollow",
+      "generator",
+      "insulating",
+      "rock",
+      "membranes",
+      "subsectors",
+      "strands",
+      "subsector",
+      "mattresses",
+      "fired",
+      "insulation",
+      "rolls",
+      "leakage",
+      "kits",
+      "digit",
+      "plate",
+      "wool",
+      "generators"
+    ],
+    "prompt_length": 1645,
+    "category": "6831 building and public works"
+  }
+}

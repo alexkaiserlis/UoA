@@ -1,0 +1,63 @@
+{
+  "concept_id": "5313",
+  "concept_data": {
+    "title": "working language",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "official language",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"working language\" is a redirect to \"official language,\" reflecting its critical role in facilitating communication among linguists, translators, and legal professionals. The European Patent Convention (EPC) and the European Chemicals Agency (ECHA) emphasize the importance of translations, as documents must be translated into official languages to ensure compliance and avoid infringing on linguistic rights. This process customarily involves adapting texts to meet legal standards, thereby preventing delays and backlogs in patent filings. The multilingual framework supports SMEs and enhances the dissemination of legal publications, ensuring that all stakeholders, including proprietors and applicants, are unaffected by language barriers.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:18:28.742586",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 684,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 453,
+      "selected_avg_freq": 215.32
+    },
+    "related_words": [
+      "linguists",
+      "gernal",
+      "translators",
+      "epo",
+      "infringer",
+      "epc",
+      "laissez",
+      "passer",
+      "backlog",
+      "translating",
+      "echa",
+      "domiciled",
+      "proprietor",
+      "unitary",
+      "patents",
+      "customarily",
+      "slovene",
+      "translations",
+      "slowing",
+      "sme",
+      "translated",
+      "disseminate",
+      "adapts",
+      "infringing",
+      "reimbursements",
+      "eleven",
+      "deferral",
+      "mutagenic",
+      "joining",
+      "attaches"
+    ],
+    "prompt_length": 1728,
+    "category": "0431 politics and public safety"
+  }
+}

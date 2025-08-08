@@ -1,0 +1,63 @@
+{
+  "concept_id": "869",
+  "concept_data": {
+    "title": "Extremadura",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Extremadura, a region in Spain, is significant within EU legal and regulatory frameworks, particularly concerning the designation of protected geographical indications (PGI) and protected designations of origin (PDO) for foodstuffs. This region encompasses districts such as Plasencia, Coria, and Trujillo, where local farmers produce unique products, including cereza del Jerte and cordero. The EU aims to support these agricultural schemes through annual budget allocations and aids, ensuring compliance with specifications and indications of origin. The approval process involves examining objections and consulting stakeholders, with the intention of entering these products into the EU register, thereby enhancing their market value and protecting regional heritage.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:50:54.118258",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 115,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 115,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1735.017391304348
+    },
+    "related_words": [
+      "puebla",
+      "alcocer",
+      "castuera",
+      "trujillo",
+      "logrosán",
+      "plasencia",
+      "coria",
+      "cordero",
+      "benito",
+      "cereza",
+      "jerte",
+      "don",
+      "extremadura",
+      "districts",
+      "pdo",
+      "pgi",
+      "del",
+      "opposition",
+      "designations",
+      "specification",
+      "objection",
+      "eaggf",
+      "minor",
+      "designation",
+      "farmers",
+      "annually",
+      "aids",
+      "indications",
+      "income",
+      "protected"
+    ],
+    "prompt_length": 1657,
+    "category": "7211 regions of EU Member States"
+  }
+}

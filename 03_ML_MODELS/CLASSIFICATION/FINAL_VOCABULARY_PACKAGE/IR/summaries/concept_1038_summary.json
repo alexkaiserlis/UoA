@@ -1,0 +1,63 @@
+{
+  "concept_id": "1038",
+  "concept_data": {
+    "title": "seasonal fluctuation",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": true,
+    "preferred_term": "cyclical fluctuation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"seasonal fluctuation,\" often redirected to \"cyclical fluctuation,\" pertains to variations in economic conditions that occur at specific times of the year, significantly impacting agricultural markets. In the EU regulatory framework, these fluctuations are crucial for ensuring fair prices for consumers and producers alike. Factors such as seasonal supply adjustments for products like goatmeat and sheepmeat necessitate a careful analysis of storage levels and marketing strategies. Policies aim to guarantee reasonable price levels while considering the main objectives of agricultural organisations. By taking into account these cyclical changes, the EU seeks to ensure a stable and fair market environment for all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:55:46.084354",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 69,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 69,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1995.623188405797
+    },
+    "related_words": [
+      "seasonally",
+      "weekly",
+      "carcases",
+      "goatmeat",
+      "sheepmeat",
+      "seasonal",
+      "sheep",
+      "farming",
+      "living",
+      "reach",
+      "supplies",
+      "fair",
+      "adjustments",
+      "storage",
+      "private",
+      "gained",
+      "consumers",
+      "reasonable",
+      "factors",
+      "adjusted",
+      "fixing",
+      "price",
+      "marketing",
+      "main",
+      "basic",
+      "prices",
+      "standard",
+      "amounts",
+      "guarantee",
+      "experience"
+    ],
+    "prompt_length": 1684,
+    "category": "1611 economic conditions"
+  }
+}

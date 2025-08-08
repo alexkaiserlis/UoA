@@ -1,0 +1,63 @@
+{
+  "concept_id": "2211",
+  "concept_data": {
+    "title": "sheep",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sheep\" within the EU regulatory framework pertains to means of agricultural production, specifically focusing on the management and welfare of ovine livestock. Regulations emphasize respect for animal health, addressing diseases such as epididymitis and ensuring measures against reinfestation and invasions of harmful pathogens. The seasonalized nature of sheep farming necessitates specificaid practices, including the tattooing of finishers and monitoring for virologically or seronegative conditions. Collectivized efforts in regions like Chalkidiki and Samos aim to increase production while maintaining uniform standards. Additionally, the regulatory landscape includes provisions for clawback mechanisms related to subsidies, ensuring that resources are not rendered useless amid climatic challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:54:08.565146",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 3174,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 13,
+      "selected_avg_freq": 8.82
+    },
+    "related_words": [
+      "repsect",
+      "rustic",
+      "premim",
+      "inpro",
+      "coulter",
+      "ondersteport",
+      "clawback",
+      "chagring",
+      "amendsed",
+      "specificaid",
+      "reated",
+      "hoggets",
+      "reinfestation",
+      "pourquier",
+      "disaese",
+      "peripherical",
+      "seasonalized",
+      "agraria",
+      "collectivization",
+      "largerly",
+      "incerease",
+      "unfirom",
+      "outstrip",
+      "drama",
+      "chalkidiki",
+      "retailed",
+      "useless",
+      "idanha",
+      "disinsecting",
+      "kos"
+    ],
+    "prompt_length": 1715,
+    "category": "5626 means of agricultural production"
+  }
+}

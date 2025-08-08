@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_0e092eaf",
+  "concept_data": {
+    "title": "wetland",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "aquatic ecosystem",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"wetland\" is redirected to \"aquatic ecosystem,\" emphasizing the significance of these vital natural environments. Wetlands, characterized by their unique hydrological conditions, serve as crucial habitats for biodiversity and play a pivotal role in water purification and flood control. The EU's regulatory frameworks, such as the Water Framework Directive, recognize the importance of preserving aquatic ecosystems to maintain ecological balance and support sustainable development. By prioritizing the conservation of wetlands, the EU aims to enhance environmental resilience and promote the sustainable use of natural resources, thereby safeguarding these essential ecosystems for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:07:28.375136",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "5211 natural environment"
+  }
+}

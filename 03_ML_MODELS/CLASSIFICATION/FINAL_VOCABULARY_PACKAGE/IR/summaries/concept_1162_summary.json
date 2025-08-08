@@ -1,0 +1,63 @@
+{
+  "concept_id": "1162",
+  "concept_data": {
+    "title": "drink problem",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "alcoholism",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"drink problem\" is a redirect to \"alcoholism,\" a critical issue within EU social affairs. This term encompasses various themes linked to irresponsible drinking patterns and the harm associated with alcohol consumption. The EU has established guidelines and promotional campaigns aimed at responsible drinking, which are detailed in various articles and annexes of regulatory documents. These rules provide information on managing alcohol-related issues across member countries, setting out budgets for campaigns and internal provisions to address the problem. The EU's commitment to reducing alcohol harm is indicative of its broader agricultural and health policies, covering products like wine and other alcoholic beverages.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:53.216552",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 73,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 73,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2177.027397260274
+    },
+    "related_words": [
+      "irresponsible",
+      "themes",
+      "promotional",
+      "drinking",
+      "budgets",
+      "campaigns",
+      "harm",
+      "alcohol",
+      "designations",
+      "patterns",
+      "indicative",
+      "wine",
+      "promotion",
+      "guidelines",
+      "linked",
+      "lists",
+      "sectors",
+      "responsible",
+      "consumption",
+      "annexes",
+      "sets",
+      "markets",
+      "various",
+      "amendments",
+      "internal",
+      "annual",
+      "agricultural",
+      "organisation",
+      "country",
+      "detailed"
+    ],
+    "prompt_length": 1685,
+    "category": "2826 social affairs"
+  }
+}

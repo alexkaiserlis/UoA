@@ -1,0 +1,63 @@
+{
+  "concept_id": "4763",
+  "concept_data": {
+    "title": "national bank",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "central bank",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, the term \"national bank\" redirects to \"central bank,\" which plays a pivotal role in monetary economics. Central banks, such as the OeNB and NBB, oversee monetary policy, manage seigniorage, and ensure financial stability across member states. They are responsible for issuing currency, including reissued notes, and administrate collateralised lending mechanisms. Institutions like PwC and BDO provide auditing services to these banks, ensuring compliance with regulations. The plurality of central banks in the EU, including Hrvatska Narodna Banka and the BNB, facilitates multilateralization of monetary strategies, addressing the unique economic contexts of the Baltics and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:42.127283",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1663,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 10.88
+    },
+    "related_words": [
+      "rsm",
+      "farrell",
+      "sparks",
+      "elects",
+      "steuerberatungs",
+      "pwc",
+      "önb",
+      "beas",
+      "unrounded",
+      "oenb",
+      "alpen",
+      "tpa",
+      "horwath",
+      "wirtschaftsprüfung",
+      "stephens",
+      "bdo",
+      "auxilia",
+      "wirtschaftsprüfungs",
+      "steuerberatungsgesellschaft",
+      "coopers",
+      "lybrand",
+      "lev",
+      "collateralised",
+      "revisores",
+      "oficiais",
+      "contas",
+      "consultores",
+      "associados",
+      "sociedade",
+      "dnb"
+    ],
+    "prompt_length": 1733,
+    "category": "2411 monetary economics"
+  }
+}

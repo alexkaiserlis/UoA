@@ -1,0 +1,63 @@
+{
+  "concept_id": "2768",
+  "concept_data": {
+    "title": "domestic product",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"domestic product\" is crucial within the framework of EU national accounts, explicitly defined in the context of Gross Domestic Product (GDP) and its relationship to Gross National Income (GNI) and Gross National Product (GNP). The European System of Accounts (ESA) clarifies the compilation and calculation of domestic product, establishing criteria for taxable turnover and income. This definition supersedes earlier notions and harmonises laws across member states, ensuring equal treatment of economic units. The domestic product serves as a resource for budgetary planning and tax assessments, with implications for VAT and energy pricing, thereby influencing regional economic policies and repayments.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:22:53.367273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1869.6880733944954
+    },
+    "related_words": [
+      "notions",
+      "gni",
+      "gnp",
+      "superseding",
+      "repayments",
+      "clarifies",
+      "esa",
+      "forwarding",
+      "taxable",
+      "compilation",
+      "resource",
+      "vat",
+      "clarification",
+      "gross",
+      "explicitly",
+      "turnover",
+      "taxes",
+      "criterion",
+      "earlier",
+      "sixth",
+      "exempt",
+      "harmonisation",
+      "accounts",
+      "tax",
+      "income",
+      "defines",
+      "atomic",
+      "clarify",
+      "person",
+      "units"
+    ],
+    "prompt_length": 1644,
+    "category": "1626 national accounts"
+  }
+}

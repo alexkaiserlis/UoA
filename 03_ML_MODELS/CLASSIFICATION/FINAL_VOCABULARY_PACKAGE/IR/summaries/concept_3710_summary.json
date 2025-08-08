@@ -1,0 +1,63 @@
+{
+  "concept_id": "3710",
+  "concept_data": {
+    "title": "United Nations High Commissioner for Refugees",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UNHCR",
+    "relation_type": "USE"
+  },
+  "summary": "The United Nations High Commissioner for Refugees (UNHCR) plays a pivotal role in addressing the needs of refugees and asylum seekers globally. In the context of EU legal and regulatory frameworks, the UNHCR's achievements in mobilization and monitoring are crucial for shaping policies on justice and home affairs (JHA). The organization specifies priorities for aid and support, ensuring that eligible individuals receive necessary resources, including food and transport. Resolutions from the UNHCR reveal lessons learned in the field, guiding future operations and practical preparations. The EU collaborates with the UNHCR to refine instruments that address refugee crises, carrying forward a commitment to humanitarian principles and justice.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:17:03.891407",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 111,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 111,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1877.9279279279278
+    },
+    "related_words": [
+      "unhcr",
+      "lessons",
+      "commissioner",
+      "achievements",
+      "asylum",
+      "refugees",
+      "mobilization",
+      "rape",
+      "fob",
+      "reveal",
+      "refined",
+      "resultant",
+      "calling",
+      "jha",
+      "resolutions",
+      "home",
+      "seed",
+      "useful",
+      "affairs",
+      "priorities",
+      "fields",
+      "organizations",
+      "specifies",
+      "nations",
+      "oil",
+      "priority",
+      "tonnes",
+      "followed",
+      "justice",
+      "preparation"
+    ],
+    "prompt_length": 1705,
+    "category": "7606 United Nations"
+  }
+}

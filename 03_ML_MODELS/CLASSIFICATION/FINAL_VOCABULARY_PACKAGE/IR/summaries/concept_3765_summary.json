@@ -1,0 +1,63 @@
+{
+  "concept_id": "3765",
+  "concept_data": {
+    "title": "oil extraction",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "extraction of oil",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"extraction of oil,\" categorized under the oil industry, encompasses the legal and regulatory frameworks governing the extraction activities on both the continental shelf and landward areas. In the EU, extraction is regulated through various decrees and licensing systems, including opsporingsvergunningen and bidding rounds. Companies like ExxonMobil and Eni engage in these activities, often competing in contests for licenses to explore and extract oil. The regulatory landscape includes provisions for geophysical surveys and the establishment of pipelines and terminals to transport extracted minerals. The process is subject to scrutiny, with utilities and affiliated entities required to communicate their intentions transparently. The extraction of oil is critical for energy supply, with significant implications for environmental policies and market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:00:29.770692",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 610,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 446,
+      "selected_avg_freq": 185.92
+    },
+    "related_words": [
+      "mijnwet",
+      "continentaalplat",
+      "geophysical",
+      "toewijzing",
+      "ronde",
+      "opsporingsvergunningen",
+      "nogepa",
+      "assomineraria",
+      "seaward",
+      "landward",
+      "edison",
+      "quarries",
+      "majors",
+      "exxonmobil",
+      "affiliated",
+      "reproduces",
+      "utilities",
+      "onshore",
+      "communicates",
+      "barrels",
+      "eni",
+      "extracting",
+      "reproducing",
+      "prospection",
+      "exploring",
+      "vertically",
+      "bidding",
+      "contests",
+      "pipelines",
+      "gazette"
+    ],
+    "prompt_length": 1733,
+    "category": "6616 oil industry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4063",
+  "concept_data": {
+    "title": "membership of the European Union",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "European Union membership",
+    "relation_type": "USE"
+  },
+  "summary": "\"Membership of the European Union,\" commonly referred to as \"European Union membership,\" is a foundational concept within EU legal and regulatory frameworks. It anchors the principles of citizenship and political integration, reaffirming the ensemble of member states. This membership is conceived as a dynamic process, cyclically evolving to address the heterogeneity of national interests. The underpinnings of EU membership include commitments to macroeconomic stability, articulated through the Stability and Growth Pact, which guides fiscal policies and alerts member states to potential deficits. Constructive updates and notices ensure compliance, while peer reviews improve governance. Membership also complements the EU's overarching goals of equitable ownership and sustainable development, framing a collaborative approach to challenges, including unexpected economic downturns. Ultimately, EU membership is validated through adherence to shared values and principles, enhancing the collective usefulness of the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:20:26.685770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 439,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 713,
+      "selected_avg_freq": 333.4866666666667
+    },
+    "related_words": [
+      "anchoring",
+      "reaffirm",
+      "ensemble",
+      "framing",
+      "conceived",
+      "cyclically",
+      "underpinnings",
+      "heterogeneity",
+      "citizenship",
+      "articulated",
+      "constructive",
+      "politically",
+      "ecofin",
+      "edp",
+      "generations",
+      "alerts",
+      "comprehensively",
+      "sis",
+      "pillar",
+      "peer",
+      "careful",
+      "guiding",
+      "benchmark",
+      "complements",
+      "notices",
+      "unexpected",
+      "pension",
+      "noting",
+      "deficits",
+      "macroeconomic"
+    ],
+    "prompt_length": 1763,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1519",
+  "concept_data": {
+    "title": "Italy",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Italy, a key member state of the European Union, plays a significant role in political geography and regulatory frameworks. Its ministerial structure, including figures like Salvatore Cuffaro and Gianfranco Vitagliano, influences EU legislation, particularly in foodstuffs and agricultural policies. Italy's diverse regions, from Bagnoli to Sesto and Lovere, contribute to unique local practices, such as the production of cuvées and rabbitmeat, which are subject to EU standards. The country’s legal landscape is shaped by articles that address regional needs, ensuring appropriate responses to specific challenges. Notably, figures like Filippo Bombarda and Alessia Cosolini advocate for equitable policies, reflecting Italy's commitment to EU integration and collaboration.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:28:57.195211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 7102,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.2333333333333334
+    },
+    "related_words": [
+      "satified",
+      "ministeral",
+      "cuvées",
+      "srequired",
+      "bagnoli",
+      "sesto",
+      "lovere",
+      "milana",
+      "salvatore",
+      "cuffaro",
+      "mastrocinque",
+      "rabbitmeat",
+      "bedoni",
+      "cota",
+      "chiodi",
+      "musotto",
+      "andria",
+      "silvano",
+      "moffa",
+      "bisogno",
+      "gianfranco",
+      "vitagliano",
+      "carrozza",
+      "tarentine",
+      "foodstsuffs",
+      "scoma",
+      "vierin",
+      "zan",
+      "ottaviano",
+      "turco"
+    ],
+    "prompt_length": 1641,
+    "category": "7236 political geography"
+  }
+}

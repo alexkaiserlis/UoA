@@ -1,0 +1,63 @@
+{
+  "concept_id": "3420",
+  "concept_data": {
+    "title": "weapon of mass destruction",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"weapon of mass destruction\" (WMD) encompasses various destabilising arms, including nuclear, chemical, and biological weapons, which pose significant threats to global security. The EU's legal framework underlines the importance of multilateralism and disarmament, fostering dialogues aimed at curbing the proliferation of such weapons. Through initiatives like the Hague Code of Conduct (HCOC), the EU subscribes to universalisation efforts that enhance accountability and deter illicit trafficking. By specialising in countering WMD threats, the EU aims to diminish the capabilities of states and non-state actors to forge and accumulate these arms. Workshops and outreach programs further explore logistical challenges and lessons learned in disarmament efforts.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:31:30.621164",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 851,
+      "selected_avg_freq": 361.08666666666664
+    },
+    "related_words": [
+      "weapon",
+      "hcoc",
+      "universalisation",
+      "wmd",
+      "forge",
+      "subscribing",
+      "universality",
+      "formations",
+      "ballistic",
+      "multilateralism",
+      "missile",
+      "salw",
+      "dialogues",
+      "outreach",
+      "think",
+      "curbing",
+      "subscribe",
+      "specialising",
+      "disarmament",
+      "lessons",
+      "ammunition",
+      "destabilising",
+      "subscription",
+      "learned",
+      "workshop",
+      "countering",
+      "diminishing",
+      "unscr",
+      "enhancement",
+      "intensify"
+    ],
+    "prompt_length": 1723,
+    "category": "0821 defence"
+  }
+}

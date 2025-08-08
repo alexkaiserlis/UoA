@@ -1,0 +1,63 @@
+{
+  "concept_id": "2664",
+  "concept_data": {
+    "title": "selling price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"selling price\" in EU legal and regulatory contexts refers to the amount charged by retailers for goods, including agricultural products like feedwheat and seafood such as monkfish and sardina. This price is crucial for market intervention strategies, ensuring that prices remain fair and do not drop excessively, thereby protecting communities and charities reliant on these goods. The selling price is often expressed per kilogramme and must align with EU regulations regarding transparency and deductibility of costs. In accordance with reforming practices, it is vital for stakeholders, including dairies and fishermen, to understand how selling prices can incrementally affect their businesses and the broader market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:38:34.583878",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1095,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 178,
+      "selected_avg_freq": 83.0
+    },
+    "related_words": [
+      "procided",
+      "sellng",
+      "feedwheat",
+      "intrvention",
+      "easiest",
+      "bochum",
+      "increment",
+      "charities",
+      "castor",
+      "barn",
+      "drops",
+      "lampante",
+      "overly",
+      "hanover",
+      "meaningless",
+      "explicity",
+      "monkfish",
+      "nineteenth",
+      "albacares",
+      "anchovies",
+      "stripe",
+      "bellied",
+      "katsuwonus",
+      "pelamis",
+      "provisioning",
+      "unprepared",
+      "twentieth",
+      "gleaned",
+      "dairies",
+      "communites"
+    ],
+    "prompt_length": 1670,
+    "category": "2451 prices"
+  }
+}

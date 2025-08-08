@@ -1,0 +1,63 @@
+{
+  "concept_id": "7956",
+  "concept_data": {
+    "title": "relocation of firm",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "offshoring",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"relocation of firm,\" commonly referred to as \"offshoring,\" pertains to the strategic movement of a company's operations to a different location, often outside its home country. In the context of EU legal and regulatory frameworks, this practice can impact the freedom of establishment as enshrined in the TFEU. Governments may unilaterally or mutually negotiate terms to host foreign firms, which can lead to urgent discussions among parliaments regarding the implications for local economies. Notwithstanding the benefits of cost reduction, offshoring can jeopardise local employment, prompting debates on maintaining a balance between competitive advantages and social responsibilities. The Lisbon Treaty emphasizes the need for a smooth transition, ensuring that firms relocating to sites like Malta or Estonia comply with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:00.904591",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 184,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2647,
+      "selected_avg_freq": 1096.3666666666666
+    },
+    "related_words": [
+      "bramshill",
+      "policing",
+      "sincere",
+      "cepol",
+      "hosts",
+      "budapest",
+      "hosted",
+      "college",
+      "hosting",
+      "jeopardising",
+      "headquarters",
+      "seat",
+      "teu",
+      "wished",
+      "unilaterally",
+      "mutually",
+      "accord",
+      "emerged",
+      "starts",
+      "leaves",
+      "jha",
+      "police",
+      "deriving",
+      "elsewhere",
+      "site",
+      "host",
+      "run",
+      "lisbon",
+      "tfeu",
+      "notwithstanding"
+    ],
+    "prompt_length": 1668,
+    "category": "4006 business organisation"
+  }
+}

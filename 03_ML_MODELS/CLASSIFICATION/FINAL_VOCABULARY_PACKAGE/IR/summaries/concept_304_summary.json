@@ -1,0 +1,63 @@
+{
+  "concept_id": "304",
+  "concept_data": {
+    "title": "Scientific and Technical Research Committee",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Scientific and Technical Research Committee (STECF) is an essential body within the European Union, established to provide scientific advice and technical support for the sustainable exploitation of marine resources. Appointed members serve a term of three years, contributing to the committee's plenary sessions, where decisions on fisheries conservation policies are drawn. The committee's functioning is guided by regulations from the Commission and the Council, ensuring valid and effective recommendations. The establishment of STECF is rooted in the Treaty of the European Union, with its findings published in the official journal, influencing economic and environmental policy decisions within the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:07:32.574450",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 47,
+      "requested_words": 150,
+      "min_frequency_found": 69,
+      "max_frequency_found": 4108,
+      "selected_words": 47,
+      "selected_min_freq": 69,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2169.0
+    },
+    "related_words": [
+      "stecf",
+      "plenary",
+      "appointment",
+      "exploitation",
+      "conservation",
+      "reserve",
+      "appointed",
+      "fisheries",
+      "reach",
+      "sustainable",
+      "valid",
+      "office",
+      "scientific",
+      "resources",
+      "drawn",
+      "full",
+      "members",
+      "term",
+      "establishment",
+      "three",
+      "august",
+      "list",
+      "end",
+      "years",
+      "technical",
+      "policy",
+      "year",
+      "new",
+      "time",
+      "functioning"
+    ],
+    "prompt_length": 1660,
+    "category": "6416 research and intellectual property"
+  }
+}

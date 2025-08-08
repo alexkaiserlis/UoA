@@ -1,0 +1,63 @@
+{
+  "concept_id": "1241",
+  "concept_data": {
+    "title": "summertime",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"summertime\" within the EU's energy policy framework pertains to the timetabling and harmonization of time zones across member states. This arrangement facilitates stable energy consumption patterns by adjusting clocks forward during the summer months, thereby optimizing daylight usage. The EU's regulatory documents examine the accuracy and clarity of these timings, ensuring that all territories, including overseas regions, are sufficiently covered. Past experiments with summertime adjustments have aimed to reduce energy consumption in various sectors. Nonetheless, the ongoing planning and monitoring of these dates are essential for maintaining a proper timetable, reflecting the principle of subsidiarity in EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:54:41.113207",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 175,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3159,
+      "selected_avg_freq": 1612.1933333333334
+    },
+    "related_words": [
+      "timetabling",
+      "summertime",
+      "unspecified",
+      "finish",
+      "experiment",
+      "runs",
+      "timing",
+      "eighth",
+      "nonetheless",
+      "summer",
+      "belong",
+      "accuracy",
+      "apart",
+      "seventh",
+      "retained",
+      "timetable",
+      "onwards",
+      "planning",
+      "zero",
+      "stable",
+      "monitored",
+      "communications",
+      "belonging",
+      "facilitating",
+      "zone",
+      "overseas",
+      "subsidiarity",
+      "sixth",
+      "harmonization",
+      "harmonisation"
+    ],
+    "prompt_length": 1682,
+    "category": "6606 energy policy"
+  }
+}

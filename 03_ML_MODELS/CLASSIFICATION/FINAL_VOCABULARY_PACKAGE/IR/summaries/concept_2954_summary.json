@@ -1,0 +1,63 @@
+{
+  "concept_id": "2954",
+  "concept_data": {
+    "title": "wildfowl",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": true,
+    "preferred_term": "game meat",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"wildfowl\" is a redirect to the preferred term \"game meat,\" encompassing various species, including ratites and ungulates. Game meat, which includes birds and furred animals, is subject to specific regulations regarding hunting, certifications, and health standards. The occurrence of pathogens, such as H5N1, necessitates appropriate vaccinations and inactivating measures to ensure food safety. Regionalise strategies may be implemented to manage populations of species like zebras and reindeer, while hunting trophies must comply with EU directives. The mechanical processing of game meat must be stamped and certified to meet EU standards, thereby utilising appropriate methods for unskinned and matured products.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:55.869078",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 743,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 278,
+      "selected_avg_freq": 133.12666666666667
+    },
+    "related_words": [
+      "zebras",
+      "wilde",
+      "africain",
+      "unskinned",
+      "suppressive",
+      "sălaj",
+      "botswanan",
+      "fences",
+      "furred",
+      "murmansk",
+      "vratsa",
+      "periphery",
+      "notifiy",
+      "soliped",
+      "approriate",
+      "blagoevgrad",
+      "reindeer",
+      "utilize",
+      "hunted",
+      "neuraminidase",
+      "appropiate",
+      "regionalise",
+      "caledonia",
+      "excepting",
+      "pathogenicity",
+      "occurence",
+      "ratite",
+      "certifications",
+      "solipeds",
+      "incubation"
+    ],
+    "prompt_length": 1705,
+    "category": "6011 animal product"
+  }
+}

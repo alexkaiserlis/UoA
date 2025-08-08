@@ -1,0 +1,63 @@
+{
+  "concept_id": "347",
+  "concept_data": {
+    "title": "radioactive waste",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Radioactive waste refers to materials that are no longer usable and emit radiation, necessitating careful management under EU regulations. The UKAEA and ENSREG oversee the safe handling and disposal of such waste, particularly in sites like Dounreay near Thurso. Regulatory frameworks require the solidification of inhomogeneous waste and the use of prototypes for waste management technologies. Inspectors must ensure compliance, investigating unmeasured and unrecorded waste types, including slags and ashes. The recurrence of issues related to decommissioned facilities highlights the need for robust accontancy and rectifications. Effective waste management involves the refurbishment of systems and the careful tracking of all takings and swabs to prevent overstatement of safety measures.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:14.756923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 984,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 140,
+      "selected_avg_freq": 50.74
+    },
+    "related_words": [
+      "ukaea",
+      "dounreay",
+      "thurso",
+      "rebuilt",
+      "odd",
+      "takings",
+      "reveaaled",
+      "muf",
+      "investigage",
+      "inespectors",
+      "reinventory",
+      "oeprating",
+      "overstatement",
+      "shipper",
+      "slags",
+      "swabs",
+      "sweepings",
+      "unmeasured",
+      "dissolvers",
+      "altough",
+      "accontancy",
+      "acconting",
+      "inhomogeneity",
+      "irridiated",
+      "appreciating",
+      "recurence",
+      "resumes",
+      "rectifications",
+      "decommissionned",
+      "wenra"
+    ],
+    "prompt_length": 1703,
+    "category": "5216 deterioration of the environment"
+  }
+}

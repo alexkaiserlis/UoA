@@ -1,0 +1,63 @@
+{
+  "concept_id": "4649",
+  "concept_data": {
+    "title": "Vatican City State",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": true,
+    "preferred_term": "Holy See",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Vatican City State,\" often redirected to the preferred term \"Holy See,\" is a unique entity within the EU legal framework, engaging in various ecclesiastical and diplomatic negotiations. It issues its own coins and banknotes, denominated in lira, which are minted for authenticity and compliance with EU regulations. The Holy See undertakes the issuance of medals and tokens, often commemorating significant events like jubilee celebrations. Legal matters, such as marriage and matrimonial disputes, are governed by canonical law, with tribunals addressing issues of invalidity and parental rights. The Holy See's concordats with EU member states reflect its commitment to uphold guidelines on ecclesiastical matters, while also addressing concerns like counterfeiting and forgery in financial transactions. Through these engagements, the Holy See maintains its status as a sovereign entity, navigating the complexities of EU law while ensuring the authenticity of its monetary and ecclesiastical practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:19:46.712397",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 144,
+    "vocabulary_stats": {
+      "total_related_words": 354,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 990,
+      "selected_avg_freq": 437.38666666666666
+    },
+    "related_words": [
+      "overruled",
+      "jubilee",
+      "ecumenical",
+      "marriage",
+      "concordats",
+      "canonical",
+      "marriages",
+      "ecclesiastical",
+      "forgery",
+      "recirculation",
+      "negotiates",
+      "minted",
+      "reproductions",
+      "holy",
+      "tokens",
+      "renegotiations",
+      "medals",
+      "mint",
+      "spouses",
+      "matrimonial",
+      "laundering",
+      "lira",
+      "authentication",
+      "tribunals",
+      "vatican",
+      "invalidity",
+      "itl",
+      "fitness",
+      "parental",
+      "counterfeiting"
+    ],
+    "prompt_length": 1726,
+    "category": "7206 Europe"
+  }
+}

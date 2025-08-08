@@ -1,0 +1,63 @@
+{
+  "concept_id": "6370",
+  "concept_data": {
+    "title": "electronic signature",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"electronic signature\" is a legally recognized method of signing documents electronically, ensuring that signatures are trustworthy and can be validated across various platforms. In the EU, electronic signatures must conform to standards set by organizations such as ETSI and CEN, promoting interoperability among different systems and providers. These signatures can be processed automatically, allowing for efficient workflows in telecommunications and document management. By relying on accredited providers, users can ensure that their signatures are accessible, readable, and secure. The use of electronic signatures facilitates the completion of transactions while maintaining the integrity of originals and copies, thus supporting automated processes and enhancing trust in digital communications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:16.561065",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 332,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1079,
+      "selected_avg_freq": 454.58
+    },
+    "related_words": [
+      "eessi",
+      "cwa",
+      "handwritten",
+      "trusted",
+      "processable",
+      "trustworthy",
+      "originals",
+      "conformance",
+      "translations",
+      "signatures",
+      "template",
+      "etsi",
+      "automation",
+      "readable",
+      "workshop",
+      "interoperable",
+      "consuming",
+      "validate",
+      "profiles",
+      "choices",
+      "provider",
+      "baseline",
+      "translation",
+      "supervised",
+      "automated",
+      "formats",
+      "accredited",
+      "consensus",
+      "electronically",
+      "platform"
+    ],
+    "prompt_length": 1708,
+    "category": "2031 marketing"
+  }
+}

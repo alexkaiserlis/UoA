@@ -1,0 +1,63 @@
+{
+  "concept_id": "699",
+  "concept_data": {
+    "title": "municipal election",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "local election",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"municipal election,\" redirected to \"local election,\" pertains to electoral procedures within the EU framework, where citizens residing in various units, such as Åland and Croatia, participate in voting for local candidates. These elections are crucial for ensuring that nationals enjoy their rights to vote and stand for office, thereby enhancing democratic governance. The evolution of local elections has led to adaptations in electoral acts across member states, including Greece and Lithuania, which have formally revised their electoral processes. The majority of citizens, notified of their eligibility, must meet specific conditions to participate, reflecting the EU's commitment to inclusive and updated electoral practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:42:50.885598",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 151,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4090,
+      "selected_avg_freq": 1742.98
+    },
+    "related_words": [
+      "substitutions",
+      "åland",
+      "deletions",
+      "citizenship",
+      "municipal",
+      "residing",
+      "elections",
+      "vote",
+      "drew",
+      "candidates",
+      "residence",
+      "candidate",
+      "additions",
+      "stand",
+      "nationals",
+      "enjoy",
+      "citizens",
+      "finnish",
+      "formally",
+      "abolished",
+      "qualified",
+      "croatia",
+      "evolution",
+      "adaptations",
+      "islands",
+      "conference",
+      "original",
+      "majority",
+      "political",
+      "created"
+    ],
+    "prompt_length": 1713,
+    "category": "0416 electoral procedure and voting"
+  }
+}

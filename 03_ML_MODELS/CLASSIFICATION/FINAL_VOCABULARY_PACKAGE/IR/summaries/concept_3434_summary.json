@@ -1,0 +1,63 @@
+{
+  "concept_id": "3434",
+  "concept_data": {
+    "title": "firearms and munitions",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"firearms and munitions\" within EU legal and regulatory frameworks encompasses various aspects of security, demilitarisation, and transborder control. It addresses the management of stockpiles and caches of unserviceable firearms, emphasising the importance of responsible surrender and destruction practices. The EU collaborates with international forums such as the OSCE and UNIDIR to devise strategies for combatants' demobilisation and the clearinghouse for small arms and light weapons (SALW). Initiatives like the Wassenaar Arrangement and the Ottawa Treaty highlight multilateralism in addressing insecurity exacerbating conflicts. Additionally, training academies and advisors play a critical role in ensuring compliance with regulations, while parliamentarians engage in legislative discussions on the topic.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:12:02.290774",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 815,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 175,
+      "selected_avg_freq": 71.67333333333333
+    },
+    "related_words": [
+      "unserviceable",
+      "pfp",
+      "demilitarisation",
+      "namsa",
+      "saps",
+      "caches",
+      "programe",
+      "unidir",
+      "codun",
+      "sitcen",
+      "sipri",
+      "clearinghouse",
+      "academies",
+      "parliamentarians",
+      "arsenal",
+      "devising",
+      "combatants",
+      "lirec",
+      "neglected",
+      "cit",
+      "wars",
+      "demobilisation",
+      "exacerbating",
+      "undp",
+      "gge",
+      "transborder",
+      "acutely",
+      "wassenaar",
+      "locating",
+      "lima"
+    ],
+    "prompt_length": 1673,
+    "category": "0821 defence"
+  }
+}

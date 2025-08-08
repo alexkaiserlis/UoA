@@ -1,0 +1,63 @@
+{
+  "concept_id": "288",
+  "concept_data": {
+    "title": "import credit",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"import credit\" within EU trade policy pertains to the financial mechanisms that facilitate the importation of goods, particularly in cases where subsidies or levies are involved. This regulatory framework allows for the deferred charging of import duties, thereby supporting industries in regions such as Eastern Europe and Albania. Import credits can be granted to maintain competitive prices for finished products, including raw materials and semi-finished goods. The EU's approach lays out considerable thresholds for imports, ensuring that the consumption of these goods aligns with market demands. By approving draft regulations, the EU aims to restructure trade practices, fostering higher exports and resource allocation across different sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:54.305583",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 102,
+      "requested_words": 150,
+      "min_frequency_found": 53,
+      "max_frequency_found": 4108,
+      "selected_words": 102,
+      "selected_min_freq": 53,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1965.5686274509803
+    },
+    "related_words": [
+      "rises",
+      "albanian",
+      "spare",
+      "albania",
+      "charging",
+      "semi",
+      "deferred",
+      "finished",
+      "weeks",
+      "subsidy",
+      "levy",
+      "eastern",
+      "sugar",
+      "restructuring",
+      "threshold",
+      "raw",
+      "supplies",
+      "communicated",
+      "approving",
+      "materials",
+      "considerable",
+      "maintained",
+      "exports",
+      "higher",
+      "central",
+      "parts",
+      "six",
+      "fixing",
+      "region",
+      "europe"
+    ],
+    "prompt_length": 1631,
+    "category": "2006 trade policy"
+  }
+}

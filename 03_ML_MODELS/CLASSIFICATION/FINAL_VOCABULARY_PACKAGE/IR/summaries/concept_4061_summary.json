@@ -1,0 +1,63 @@
+{
+  "concept_id": "4061",
+  "concept_data": {
+    "title": "history of the European Communities",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "history of Europe",
+    "relation_type": "USE"
+  },
+  "summary": "The \"history of the European Communities\" is a pivotal concept within the broader \"history of Europe,\" reflecting the evolution of EU institutions and their regulatory frameworks. This history encompasses the appointment of independent bodies tasked with enhancing the transparency and fairness of institutional processes. Evaluations of candidates for various roles are conducted through a procedural framework that respects gender balance and geographical diversity. The designation of sites and projects is monitored to ensure compliance with EU competences. Regular recommendations are transmitted to decision-making panels, encouraging participation from diverse experts. This historical context is essential for understanding the EU's heritage and its commitment to fair and inclusive governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:04:37.873164",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 38,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1646.5047619047618
+    },
+    "related_words": [
+      "appoints",
+      "attribution",
+      "gender",
+      "heritage",
+      "easy",
+      "evaluations",
+      "candidates",
+      "deciding",
+      "designating",
+      "sites",
+      "competences",
+      "label",
+      "site",
+      "enhancing",
+      "appointment",
+      "respects",
+      "institution",
+      "discriminatory",
+      "panel",
+      "designate",
+      "awarded",
+      "procedural",
+      "complementary",
+      "submitting",
+      "transparent",
+      "monitored",
+      "encouraged",
+      "seek",
+      "selection",
+      "continues"
+    ],
+    "prompt_length": 1762,
+    "category": "1016 European construction"
+  }
+}

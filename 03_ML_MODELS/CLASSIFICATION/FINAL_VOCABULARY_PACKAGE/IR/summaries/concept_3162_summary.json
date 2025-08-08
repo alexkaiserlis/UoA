@@ -1,0 +1,63 @@
+{
+  "concept_id": "3162",
+  "concept_data": {
+    "title": "metal pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Metal pollution refers to the contamination of the environment by anthropogenic activities, particularly through the discharge of heavy metals such as leaded and hexavalent compounds. The EU regulatory framework aims to mitigate these pollutants by promoting the achievability of lower thresholds in industrial processes and encouraging the recycling and reuse of materials, such as PVC and phosphoric fertilizers. The Aarhus Convention emphasizes public participation in environmental decision-making, inviting communities to reassess local pollution levels. Measurements of metal concentrations in groundwater and the atmosphere are crucial for analyzing the impacts of industrialization, while banning certain contaminants, like cadmium, is essential to protect populated areas from noticeable nuisances.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:28:36.300861",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 564,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 561,
+      "selected_avg_freq": 242.60666666666665
+    },
+    "related_words": [
+      "leaded",
+      "inhibits",
+      "imagined",
+      "phosphatic",
+      "achievability",
+      "alara",
+      "inhaled",
+      "analyze",
+      "sparsely",
+      "stimulates",
+      "industrialization",
+      "polyvinyl",
+      "unleaded",
+      "phosphoric",
+      "rock",
+      "reassess",
+      "nuisances",
+      "pigments",
+      "refurbishment",
+      "hexavalent",
+      "stabilizer",
+      "anthropogenic",
+      "aarhus",
+      "noticeable",
+      "fertilizer",
+      "pvc",
+      "ppm",
+      "pollutant",
+      "tolerated",
+      "populated"
+    ],
+    "prompt_length": 1736,
+    "category": "5216 deterioration of the environment"
+  }
+}

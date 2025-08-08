@@ -1,0 +1,63 @@
+{
+  "concept_id": "413",
+  "concept_data": {
+    "title": "natural disaster",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"natural disaster\" within EU legal and regulatory frameworks encompasses events such as earthquakes, tsunamis, and cyclones that can wreak havoc on communities and ecosystems. These disastrous occurrences often lead to the wrecked infrastructure of coasts and groves, necessitating extensive relief efforts. The EU Solidarity Fund (EUSF) mobilises resources to assist stricken regions, facilitating the reconstitution of affected areas and the reallocation of funds for rebuilding efforts. In response to ravaging fires and floods, the EU prioritises equipping nurseries and sowing seedlings to restore damaged landscapes. Regulatory measures aim to redefine resilience strategies, ensuring preparedness for future calamities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:11.622575",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 749,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 340,
+      "selected_avg_freq": 135.94
+    },
+    "related_words": [
+      "ravaging",
+      "wrecked",
+      "seaworthy",
+      "disastrous",
+      "eusf",
+      "tsunamis",
+      "eruption",
+      "rehouse",
+      "tsunami",
+      "debbie",
+      "reconstitution",
+      "etna",
+      "rebuild",
+      "reassigned",
+      "cyclone",
+      "grove",
+      "frost",
+      "reconstitute",
+      "flood",
+      "dominica",
+      "seedlings",
+      "scrapped",
+      "sowings",
+      "rainfalls",
+      "stricken",
+      "apulia",
+      "groves",
+      "lucia",
+      "maldives",
+      "coasts"
+    ],
+    "prompt_length": 1663,
+    "category": "5216 deterioration of the environment"
+  }
+}

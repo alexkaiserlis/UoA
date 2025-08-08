@@ -1,0 +1,63 @@
+{
+  "concept_id": "1809",
+  "concept_data": {
+    "title": "money market",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"money market\" encompasses a segment of monetary economics where short-term borrowing and lending occur, primarily involving banknotes, deposits, and securities. In the EU context, the Eurosystem plays a crucial role in refinancing operations, where banks allocate collateral, such as bonds, to secure liquidity. The European Central Bank (ECB) oversees these transactions, ensuring that participants adhere to guidelines that govern the distribution of reserves and the remuneration of deposits. Haircuts may apply to uncovered assets, affecting the rating of securities. The market facilitates the settlement of balances, with anticipated expenses and profits accruing to banks, thereby simplifying financial operations within the Economic and Monetary Union.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:15:01.070875",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 211,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2119,
+      "selected_avg_freq": 852.6266666666667
+    },
+    "related_words": [
+      "refinements",
+      "haircuts",
+      "smp",
+      "remunerated",
+      "accrues",
+      "uncovered",
+      "refinancing",
+      "gold",
+      "ncbs",
+      "banknotes",
+      "collateral",
+      "allocates",
+      "rating",
+      "eurosystem",
+      "distributing",
+      "deposits",
+      "bonds",
+      "subscribed",
+      "escb",
+      "backed",
+      "settled",
+      "guideline",
+      "asset",
+      "recast",
+      "holds",
+      "remuneration",
+      "accruing",
+      "core",
+      "lending",
+      "ecb"
+    ],
+    "prompt_length": 1658,
+    "category": "2411 monetary economics"
+  }
+}

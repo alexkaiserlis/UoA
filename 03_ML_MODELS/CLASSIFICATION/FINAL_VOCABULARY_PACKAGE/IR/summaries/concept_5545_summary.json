@@ -1,0 +1,63 @@
+{
+  "concept_id": "5545",
+  "concept_data": {
+    "title": "customs cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs cooperation within the EU framework embodies a formal agreement aimed at enhancing the efficiency of customs operations across member states. This cooperation expands competencies and facilitates the movement of goods, akin to the principles outlined in the CMAA. The Joint Customs Cooperation Committee (JCCC) plays a pivotal role in this process, fostering talks that address peculiarities in customs nomenclatures and practices. By promoting unity and accountability among unions, customs cooperation ultimately strives to mitigate distances in regulatory practices. The use of carnets and specimen documentation is crucial, as it aids in the seamless stationing of containers, thereby intensifying trade facilitation.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:31.405143",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 641,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 533,
+      "selected_avg_freq": 251.32
+    },
+    "related_words": [
+      "cmaa",
+      "agreeement",
+      "akin",
+      "jccc",
+      "stationing",
+      "peculiarities",
+      "expands",
+      "formality",
+      "geography",
+      "competencies",
+      "printers",
+      "envisaging",
+      "carnet",
+      "communicates",
+      "carnets",
+      "harsh",
+      "intensifying",
+      "tir",
+      "strive",
+      "manifest",
+      "gaining",
+      "nomenclatures",
+      "furnishing",
+      "broadening",
+      "intensification",
+      "talks",
+      "exploratory",
+      "penalized",
+      "variant",
+      "accountable"
+    ],
+    "prompt_length": 1690,
+    "category": "0811 cooperation policy"
+  }
+}

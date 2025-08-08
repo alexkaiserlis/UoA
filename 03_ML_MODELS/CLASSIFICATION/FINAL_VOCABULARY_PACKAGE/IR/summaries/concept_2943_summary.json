@@ -1,0 +1,63 @@
+{
+  "concept_id": "2943",
+  "concept_data": {
+    "title": "recruitment",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"recruitment\" within EU legal and regulatory frameworks encompasses the systematic process of staffing positions across various institutions, including the recruitment of linguists, clerks, and translators. This process is governed by regulations that ensure merit-based selections, often through competitions that assess candidates' qualifications. Recruitment procedures may involve probationary periods for new hires, allowing for evaluation of their performance and suitability. The recruitment bureau plays a crucial role in managing these processes, addressing issues such as staffing backlogs and ensuring compliance with constitutional mandates. Additionally, recruitment practices are influenced by factors like seniority, pecuniary considerations, and the need for effective delegation, thereby impacting the overall efficiency of personnel management.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:12:55.484269",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 377,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 936,
+      "selected_avg_freq": 444.78
+    },
+    "related_words": [
+      "aece",
+      "linguists",
+      "clerks",
+      "translators",
+      "recruitments",
+      "probationer",
+      "probationary",
+      "seconding",
+      "probation",
+      "seniority",
+      "backlog",
+      "ast",
+      "career",
+      "dismissal",
+      "broadest",
+      "forecasted",
+      "pecuniary",
+      "slowing",
+      "staffing",
+      "translated",
+      "competitions",
+      "versa",
+      "depart",
+      "arbitration",
+      "impending",
+      "unaffected",
+      "vice",
+      "recruitment",
+      "bureau",
+      "delegate"
+    ],
+    "prompt_length": 1701,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

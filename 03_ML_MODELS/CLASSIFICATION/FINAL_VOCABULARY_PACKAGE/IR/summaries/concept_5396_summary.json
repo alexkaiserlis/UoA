@@ -1,0 +1,63 @@
+{
+  "concept_id": "5396",
+  "concept_data": {
+    "title": "trapping",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "hunting",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"trapping,\" as categorized under social affairs, is redirected to the preferred term \"hunting\" within EU legal frameworks. This relationship underscores the regulatory regime governing the capture of game, including ungulates and birds, which is subject to specific import and trade requirements. The EU directives establish health and veterinary standards for the treatment of animals, ensuring that imported products, such as trophies and taxidermy items, meet stringent certification criteria. Countries within the EEA must adhere to these regulations, which include a declaration process that guarantees compliance with public health considerations. The abovementioned chapter outlines the relevance of these measures in preventing the spread of pathogens and ensuring sustainable practices in hunting activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:51:08.729276",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2159.1875
+    },
+    "related_words": [
+      "taxidermy",
+      "reworded",
+      "trophies",
+      "insured",
+      "ungulates",
+      "game",
+      "pathogens",
+      "traded",
+      "birds",
+      "undergone",
+      "certification",
+      "considering",
+      "regime",
+      "veterinary",
+      "gained",
+      "chapter",
+      "complete",
+      "animal",
+      "imported",
+      "import",
+      "declaration",
+      "establishes",
+      "treatment",
+      "imports",
+      "guarantee",
+      "governing",
+      "experience",
+      "standing",
+      "health",
+      "abovementioned"
+    ],
+    "prompt_length": 1670,
+    "category": "2826 social affairs"
+  }
+}

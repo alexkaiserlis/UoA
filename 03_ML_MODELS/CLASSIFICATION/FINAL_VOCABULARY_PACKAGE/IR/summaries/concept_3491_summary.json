@@ -1,0 +1,63 @@
+{
+  "concept_id": "3491",
+  "concept_data": {
+    "title": "legal cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Legal cooperation within the EU framework entails a systematic approach to enhancing collaboration among member states in legal and regulatory matters. This cooperation is crucial for addressing transnational issues, ensuring that courts can effectively enforce laws and respond to complaints. The initiator of legal inquiries may include various stakeholders, such as complainants and respondents, who seek to defend their interests. Anonymised data may be used to safeguard secrets while publishing findings. Legal cooperation also involves the aggregation of information to detect unlawful activities, thereby materially contributing to modernisation efforts. By establishing a standstill on burdensome demands, the EU aims to create a more efficient legal environment, wherein addressees can transparently disclose relevant information without fear of fines or rejection.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:03.800819",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 455,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 653,
+      "selected_avg_freq": 305.70666666666665
+    },
+    "related_words": [
+      "sincerely",
+      "respondent",
+      "anonymised",
+      "initiator",
+      "purported",
+      "substantiates",
+      "addressees",
+      "depositing",
+      "motion",
+      "defend",
+      "officio",
+      "secrets",
+      "materially",
+      "inquiries",
+      "enforcing",
+      "bind",
+      "safeguarded",
+      "respondents",
+      "standstill",
+      "fines",
+      "overview",
+      "disclose",
+      "aggregated",
+      "secrecy",
+      "prospective",
+      "suspicion",
+      "ante",
+      "modernisation",
+      "unlawful",
+      "detecting"
+    ],
+    "prompt_length": 1700,
+    "category": "0811 cooperation policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1879",
+  "concept_data": {
+    "title": "Mediterranean Sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Mediterranean Sea, categorized under the natural environment (5211), is a pivotal area for EU legal and regulatory frameworks, particularly concerning marine biodiversity and sustainable fishing practices. Provisos in regulations often address the management of undersized species, such as anchovy and sardine, while promoting the use of selective fishing methods like longlines and traps. The EU employs algorithms to scrutinize fishing activities, including driftnets and baitboats, to prevent overfishing. Initiatives like Integrated Coastal Zone Management (ICZM) and the General Fisheries Commission for the Mediterranean (GFCM) aim to congregate stakeholders for sustainable practices. The latest scientific assessments, particularly around species like pilchardus and shark, are crucial for informed decision-making.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:39:55.555006",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1309,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 130,
+      "selected_avg_freq": 62.486666666666665
+    },
+    "related_words": [
+      "theroef",
+      "provisos",
+      "somewhere",
+      "compostela",
+      "congregate",
+      "syracuse",
+      "volantina",
+      "sebastian",
+      "boxing",
+      "baitboats",
+      "trolling",
+      "scrs",
+      "caging",
+      "iczm",
+      "gfcm",
+      "stereoscopic",
+      "undersized",
+      "scientfic",
+      "lastest",
+      "defended",
+      "inexistent",
+      "drifting",
+      "incoherence",
+      "algorithms",
+      "driftnets",
+      "gill",
+      "longline",
+      "alicante",
+      "plenipotentiaries",
+      "trap"
+    ],
+    "prompt_length": 1686,
+    "category": "5211 natural environment"
+  }
+}

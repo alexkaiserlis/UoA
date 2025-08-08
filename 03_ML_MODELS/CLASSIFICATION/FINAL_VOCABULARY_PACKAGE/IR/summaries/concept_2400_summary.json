@@ -1,0 +1,63 @@
+{
+  "concept_id": "2400",
+  "concept_data": {
+    "title": "transport planning",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Transport planning within the EU regulatory framework encompasses the strategic organization and optimization of transport routes, addressing inefficiencies in congested airspace and railways. This process involves scheduling flights and deploying slots to ensure convenient connections for carriers and passengers alike. It presupposes a liberalized market where entrants can operate efficiently, while alliances among airlines can enhance interlining options. Regulatory bodies declare seasonal adjustments and manage scarce resources, such as airport slots and baggage handling. Observers today note that effective transport planning is crucial for mitigating the impact of potential terrorist attacks and ensuring a safe, efficient transport environment for all stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:45:44.376817",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 582,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 490,
+      "selected_avg_freq": 221.94
+    },
+    "related_words": [
+      "evzoni",
+      "volos",
+      "kleidi",
+      "axios",
+      "arre",
+      "congested",
+      "interlining",
+      "busy",
+      "optimizing",
+      "alliances",
+      "inefficiencies",
+      "unambiguously",
+      "slot",
+      "slots",
+      "scarce",
+      "fares",
+      "fare",
+      "organizational",
+      "deploying",
+      "managerial",
+      "consignors",
+      "attempted",
+      "scheduling",
+      "airline",
+      "airspace",
+      "baggage",
+      "blocked",
+      "attacks",
+      "railways",
+      "entrants"
+    ],
+    "prompt_length": 1681,
+    "category": "4806 transport policy"
+  }
+}

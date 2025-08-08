@@ -1,0 +1,63 @@
+{
+  "concept_id": "3105",
+  "concept_data": {
+    "title": "port traffic",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"port traffic\" encompasses the movement of vessels in maritime and inland waterway transport, integral to the EU's strategic transport policy. Oversight of port traffic is crucial for ensuring safety and efficiency, with agencies like EMSA (European Maritime Safety Agency) playing a central role. The agency's tasks include monitoring developments and addressing issues related to traffic management. Recommendations from various groups assist in establishing objectives that align with the EU's goals for integrated transport systems. Effective communication and cooperation among representatives are vital for future policy development, ensuring that port traffic remains a high priority within the regulatory framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:45:40.978054",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 79,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 79,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2065.26582278481
+    },
+    "related_words": [
+      "safeseanet",
+      "emsa",
+      "oversight",
+      "goals",
+      "steering",
+      "vessel",
+      "strategic",
+      "traffic",
+      "maritime",
+      "closely",
+      "issues",
+      "recommendations",
+      "address",
+      "assist",
+      "agency",
+      "tasks",
+      "integrated",
+      "structure",
+      "central",
+      "representatives",
+      "responsible",
+      "appears",
+      "safety",
+      "developments",
+      "communication",
+      "transport",
+      "involved",
+      "monitoring",
+      "future",
+      "work"
+    ],
+    "prompt_length": 1688,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

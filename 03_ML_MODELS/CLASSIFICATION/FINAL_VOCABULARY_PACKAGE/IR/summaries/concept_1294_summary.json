@@ -1,0 +1,63 @@
+{
+  "concept_id": "1294",
+  "concept_data": {
+    "title": "Faroes",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Faroes,\" or Faeroese, refer to a group of islands in the North Atlantic, significant in EU political geography. The region is known for its unique marine biodiversity, including species like salmonidae, forkbeard, and scabbardfish. Regulatory frameworks, such as those governing the sustainable harvesting of mussels and prawns, are crucial for maintaining ecological balance. The Faroese fishing industry, including the establishment of quotas for species like rainbow trout and haddock, is subject to EU regulations, particularly concerning resales and the management of gametes. Additionally, the islands' geographical positioning influences trade agreements under the Euromed framework, impacting their economic relations with the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:09:16.710450",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1048,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 235,
+      "selected_avg_freq": 103.6
+    },
+    "related_words": [
+      "fuglafjordur",
+      "vagar",
+      "kangerlussuaq",
+      "heilsufrodiliga",
+      "starvsstovan",
+      "prg",
+      "vestsalmon",
+      "vestlax",
+      "euromed",
+      "faroes",
+      "luna",
+      "mussels",
+      "vian",
+      "forkbeard",
+      "compounding",
+      "faeroes",
+      "faeroese",
+      "cetain",
+      "vib",
+      "salar",
+      "ioe",
+      "mile",
+      "alfonsinos",
+      "scabbardfish",
+      "atlanto",
+      "scandian",
+      "salmo",
+      "etablishing",
+      "resales",
+      "mfn"
+    ],
+    "prompt_length": 1626,
+    "category": "7236 political geography"
+  }
+}

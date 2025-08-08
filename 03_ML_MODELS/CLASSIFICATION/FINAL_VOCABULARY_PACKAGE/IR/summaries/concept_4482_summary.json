@@ -1,0 +1,63 @@
+{
+  "concept_id": "4482",
+  "concept_data": {
+    "title": "Euratom Treaty",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EAEC Treaty",
+    "relation_type": "USE"
+  },
+  "summary": "The Euratom Treaty, also known as the EAEC Treaty, constitutes a foundational legal framework for the European Atomic Energy Community. It regulates the peaceful use of nuclear energy, emphasizing safety and non-proliferation. The Treaty establishes procedures for the development of nuclear power, including the construction of kernkraftwerke and the management of combustibles like uranium and thorium. It mandates cooperation among member states, facilitating technical demonstrations and the training of ingenieros in specialized fields. The Treaty also addresses the handling of irradiated elements and the dismantling of outdated facilities, ensuring that nuclear activities are conducted in a regulated and secure manner.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:34:44.909338",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 945,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 163,
+      "selected_avg_freq": 61.72666666666667
+    },
+    "related_words": [
+      "kernkraftwerke",
+      "lippe",
+      "kle",
+      "bnfl",
+      "contrating",
+      "procede",
+      "bnl",
+      "escuela",
+      "técnica",
+      "ingenieros",
+      "industriales",
+      "politécnica",
+      "etsii",
+      "subcritical",
+      "enusa",
+      "juzbado",
+      "uranio",
+      "fรกbrica",
+      "elementos",
+      "procedurally",
+      "thorium",
+      "ulterior",
+      "combustibles",
+      "outgoing",
+      "reiterating",
+      "carolina",
+      "lattice",
+      "habitually",
+      "tiny",
+      "unnoticed"
+    ],
+    "prompt_length": 1737,
+    "category": "1011 European Union law"
+  }
+}

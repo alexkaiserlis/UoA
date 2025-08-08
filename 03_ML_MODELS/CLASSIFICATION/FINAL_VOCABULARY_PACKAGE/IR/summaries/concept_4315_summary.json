@@ -1,0 +1,63 @@
+{
+  "concept_id": "4315",
+  "concept_data": {
+    "title": "white sugar",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"White sugar\" refers to refined sugar derived from sugar beet or sugar cane, classified under the EU regulatory framework concerning beverages and sugar (Category 6021). The production and marketing of white sugar are governed by various provvedimenti aimed at ensuring quality and fair pricing (prezzi). Regulatory bodies, such as the comitato, oversee the compliance of producers with EU standards, preventing frauds and contravening practices. The intervention of agricultural policies can disrupt market dynamics, affecting supply and demand. Additionally, the placement of white sugar in the market must adhere to specific guidelines to allow for favorable conditions, ensuring that surplus is managed effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:14:22.303987",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1709,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 89,
+      "selected_avg_freq": 40.06666666666667
+    },
+    "related_words": [
+      "ission",
+      "waggons",
+      "refiner",
+      "merketing",
+      "invitiation",
+      "haying",
+      "provvedimenti",
+      "prezzi",
+      "improvment",
+      "polysaccharide",
+      "delibera",
+      "provvedimento",
+      "sovraprezzo",
+      "agrcultural",
+      "wfp",
+      "lined",
+      "polythene",
+      "disrupts",
+      "constrain",
+      "toallow",
+      "suplus",
+      "ofregulation",
+      "provenances",
+      "throws",
+      "comm",
+      "livigno",
+      "campione",
+      "heligoland",
+      "belated",
+      "interministeriale"
+    ],
+    "prompt_length": 1701,
+    "category": "6021 beverages and sugar"
+  }
+}

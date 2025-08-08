@@ -1,0 +1,63 @@
+{
+  "concept_id": "2676",
+  "concept_data": {
+    "title": "target price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU agricultural policy, the \"target price\" serves as a pivotal regulatory mechanism designed to stabilize market prices for various commodities, including milkfat and sugarcane. By establishing a unitary price point, the EU aims to alleviate precarious market conditions that may arise from fluctuations in availabilities. This concept is integral to intervention strategies, where the Council may exert influence to readjust prices in response to inequitable market dynamics. The target price framework allows for the rescinded imposition of unwarranted decrements in producer income, thereby lightening the burden on farmers. It encompasses diverse products, such as parmigiano, reggiano, and colza, ensuring that producers can navigate the cumbersome realities of agricultural markets while maintaining fluidity in trade.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:43:08.501858",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 825,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 333,
+      "selected_avg_freq": 164.47333333333333
+    },
+    "related_words": [
+      "husking",
+      "marktet",
+      "agrcultural",
+      "decrement",
+      "extents",
+      "desires",
+      "milkfat",
+      "sugarcane",
+      "exerting",
+      "invervention",
+      "redirect",
+      "readjustment",
+      "inequitable",
+      "rescinded",
+      "aggravates",
+      "unitary",
+      "duisburg",
+      "concil",
+      "communautaire",
+      "lighten",
+      "fluidity",
+      "indica",
+      "abolishes",
+      "parmigiano",
+      "reggiano",
+      "cumbersome",
+      "stabilizers",
+      "padano",
+      "grana",
+      "kilogrammes"
+    ],
+    "prompt_length": 1689,
+    "category": "2451 prices"
+  }
+}

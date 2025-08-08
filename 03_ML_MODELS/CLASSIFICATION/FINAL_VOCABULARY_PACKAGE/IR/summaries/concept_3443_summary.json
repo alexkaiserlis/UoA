@@ -1,0 +1,63 @@
+{
+  "concept_id": "3443",
+  "concept_data": {
+    "title": "technical reserves",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "reserves",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"technical reserves,\" redirected to the preferred term \"reserves,\" refer to the accumulated balances that insurers collect to cover outstanding liabilities. These reserves are crucial for ensuring fairness and equality among policyholders, as they address potential inequalities in risk exposure. Insurers must adhere to guidelines set by supervisory bodies, such as the ECB and the Eurosystem, to maintain adequate reserves. This involves managing deposits, bonds, and equity efficiently, while also considering the weightings of various risk factors. The regulation of reserves facilitates the stability of the insurance sector, thereby safeguarding against misuse and ensuring the financial health of branches across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:24:00.559572",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 390,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 857,
+      "selected_avg_freq": 437.76666666666665
+    },
+    "related_words": [
+      "insurer",
+      "collects",
+      "inequality",
+      "insurers",
+      "winding",
+      "credited",
+      "uncovered",
+      "ncb",
+      "subscription",
+      "refinancing",
+      "cent",
+      "ncbs",
+      "accumulated",
+      "governors",
+      "collateral",
+      "weightings",
+      "eurosystem",
+      "abrogated",
+      "deposits",
+      "merged",
+      "bonds",
+      "equity",
+      "subscribed",
+      "fairness",
+      "escb",
+      "misuse",
+      "nationality",
+      "guideline",
+      "automated",
+      "branches"
+    ],
+    "prompt_length": 1710,
+    "category": "4021 management"
+  }
+}

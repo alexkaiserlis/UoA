@@ -1,0 +1,26 @@
+{
+  "concept_id": "1257",
+  "concept_data": {
+    "title": "working hours",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "work schedule",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"working hours,\" categorized under the organization of work and working conditions, is redirected to the preferred term \"work schedule.\" In EU legal and regulatory frameworks, work schedules are critical for establishing the parameters of employment, including the duration and distribution of working time. These regulations aim to ensure fair labor practices, promote employee well-being, and enhance productivity. The EU directives on working time, such as the Working Time Directive, set minimum standards for rest periods and maximum weekly working hours, thereby safeguarding workers' rights and contributing to a balanced work-life integration.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:34:02.851571",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1229,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

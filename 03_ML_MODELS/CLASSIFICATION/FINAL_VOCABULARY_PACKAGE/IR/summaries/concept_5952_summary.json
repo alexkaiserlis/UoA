@@ -1,0 +1,26 @@
+{
+  "concept_id": "5952",
+  "concept_data": {
+    "title": "tank",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "combat vehicle",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"tank,\" categorized under defence, is a redirect to the preferred term \"combat vehicle.\" In the context of EU legal and regulatory frameworks, combat vehicles are pivotal in military operations and strategic defence initiatives. These vehicles are designed for combat situations, enhancing the operational capabilities of armed forces. The EU's regulatory documents may address aspects such as procurement, standardization, and interoperability of combat vehicles among member states. Understanding the legal implications surrounding combat vehicles is essential for compliance with EU defence policies and for fostering collaborative security efforts within the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:09:50.409507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1185,
+    "category": "0821 defence"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7861",
+  "concept_data": {
+    "title": "regions of Latvia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions of Latvia\" pertains to the administrative and geographical divisions within Latvia, which are significant in the context of EU legal and regulatory frameworks. These regions demarcate areas for various purposes, including the management of agricultural practices, such as the handling of pig populations and the regulation of slaughterhouses. The evolving nature of regionalisation in Latvia is influenced by factors like epidemiological outbreaks of infectious diseases, including viral infections affecting pigs. This necessitates transparent policies for vaccination and eradication efforts, particularly concerning wild boar populations. Additionally, Latvia's geographical proximity to Belarus and Russia poses unique challenges in managing cross-border transport and dispatch of agricultural products, ensuring that regulations are differentiated and justified to maintain profitability and public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:35.885794",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 315,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1135,
+      "selected_avg_freq": 566.8333333333334
+    },
+    "related_words": [
+      "trasparency",
+      "kupiškis",
+      "kaunas",
+      "demarcates",
+      "backyard",
+      "boar",
+      "kilometres",
+      "confused",
+      "feral",
+      "eliminates",
+      "uncertain",
+      "evolving",
+      "slaughterhouses",
+      "regionalisation",
+      "ova",
+      "handled",
+      "embryos",
+      "belarus",
+      "semen",
+      "viral",
+      "poses",
+      "populations",
+      "marks",
+      "estonian",
+      "infected",
+      "classical",
+      "infectious",
+      "vaccination",
+      "dispatch",
+      "latvian"
+    ],
+    "prompt_length": 1704,
+    "category": "7211 regions of EU Member States"
+  }
+}

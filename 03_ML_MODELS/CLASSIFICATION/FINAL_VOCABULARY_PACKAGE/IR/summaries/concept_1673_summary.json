@@ -1,0 +1,26 @@
+{
+  "concept_id": "1673",
+  "concept_data": {
+    "title": "tax amortisation",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": true,
+    "preferred_term": "amortisation",
+    "relation_type": "USE"
+  },
+  "summary": "Tax amortisation, often redirected to the preferred term \"amortisation,\" refers to the systematic allocation of the cost of an intangible asset over its useful life within the framework of accounting regulations. In the context of EU legal and regulatory documents, tax amortisation plays a critical role in determining the taxable income of entities, influencing corporate tax liabilities. The amortisation process ensures compliance with the EU’s accounting directives, promoting transparency and consistency in financial reporting. By allowing businesses to recover costs associated with intangible assets, tax amortisation contributes to fiscal stability and encourages investment in innovation across the EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:58.686239",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1198,
+    "category": "4026 accounting"
+  }
+}

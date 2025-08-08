@@ -1,0 +1,63 @@
+{
+  "concept_id": "4635",
+  "concept_data": {
+    "title": "vaccine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the concept of \"vaccine\" encompasses a range of biological preparations, specifically designed to enhance immunity against diseases. The European Council emphasizes the importance of maintaining high standards of security (securité) in vaccine production, including compliance with Good Manufacturing Practices (GMP). Vaccines may be polyvalent or trivalent, targeting multiple pathogens, such as influenzua or pseudorabies. Regulatory processes involve rigorous evaluation, including reapproval and diagnostics, to ensure efficacy and safety. The EU also addresses veterinary vaccines, with specific attention to zoonotic diseases and the need for revaccination strategies. Airfreight logistics for vaccine distribution must adhere to strict guidelines, ensuring that products are restocked and relocated efficiently to meet public health demands.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:52.163329",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 1414,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 56,
+      "selected_avg_freq": 24.566666666666666
+    },
+    "related_words": [
+      "ondersteport",
+      "counicl",
+      "meril",
+      "relinquished",
+      "assa",
+      "veterinry",
+      "securite",
+      "revaccination",
+      "booster",
+      "tekirdag",
+      "wrl",
+      "trivalent",
+      "spf",
+      "speficically",
+      "influenzua",
+      "zooprofilatico",
+      "airfreight",
+      "mérieux",
+      "shamir",
+      "vetcom",
+      "fort",
+      "diagnóstico",
+      "lyons",
+      "reapproval",
+      "nobi",
+      "porvac",
+      "vemie",
+      "veterinaer",
+      "diluvac",
+      "forte"
+    ],
+    "prompt_length": 1647,
+    "category": "2841 health"
+  }
+}

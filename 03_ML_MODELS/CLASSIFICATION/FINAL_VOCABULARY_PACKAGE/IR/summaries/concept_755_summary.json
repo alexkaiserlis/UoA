@@ -1,0 +1,63 @@
+{
+  "concept_id": "755",
+  "concept_data": {
+    "title": "per hectare aid",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "aid per hectare",
+    "relation_type": "USE"
+  },
+  "summary": "\"Per hectare aid,\" also referred to as \"aid per hectare,\" is a crucial component of EU agricultural policy, aimed at supporting farmers in various contexts, including the reclamation of fallowed land and the preparation of fields for maincrop cultivation. This aid can be legislated to incentivize the sowing of diverse varietes, such as sunflowers, chickpeas, and vetches, thereby enhancing agricultural productivity. The concept encompasses measures for afforested areas and regadio systems, ensuring that farmers are not disqualified from receiving support due to administrative complexities. By stabilizing income through financial assistance, the aid per hectare ultimately contributes to sustainable agricultural practices across the EU, fostering resilience against unpredictable rains and market fluctuations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:37.702794",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 2206,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 19.773333333333333
+    },
+    "related_words": [
+      "rows",
+      "deseeding",
+      "prepartion",
+      "reclaiming",
+      "μmol",
+      "fictional",
+      "dactilis",
+      "glomerata",
+      "octobre",
+      "pommerania",
+      "equivalentes",
+      "hamp",
+      "waister",
+      "blazers",
+      "legislated",
+      "regadio",
+      "sunflowers",
+      "huds",
+      "destabilize",
+      "setaside",
+      "souces",
+      "rains",
+      "secano",
+      "maincrop",
+      "pannonia",
+      "fallowed",
+      "fallowing",
+      "recultivation",
+      "disqualified",
+      "guianese"
+    ],
+    "prompt_length": 1714,
+    "category": "5606 agricultural policy"
+  }
+}

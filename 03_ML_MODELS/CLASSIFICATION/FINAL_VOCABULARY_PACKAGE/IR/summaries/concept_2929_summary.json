@@ -1,0 +1,63 @@
+{
+  "concept_id": "2929",
+  "concept_data": {
+    "title": "mutual organisation",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "mutual assistance scheme",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mutual organisation,\" redirected to \"mutual assistance scheme,\" pertains to social protection within the EU framework. Established under various articles of the Treaty, this system is designed to provide financial assistance to member states in need. The machinery of these schemes is regularly renewed, ensuring that obligations remain valid over an extended period. Initial proposals concerning the economic communities have been submitted to the Commission for consultation, with decisions made by the Council. This definitive framework aims to support member states until the last stage of implementation, with extensions possible based on appropriate assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:35.328813",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 48,
+      "requested_words": 150,
+      "min_frequency_found": 321,
+      "max_frequency_found": 4108,
+      "selected_words": 48,
+      "selected_min_freq": 321,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2366.8333333333335
+    },
+    "related_words": [
+      "machinery",
+      "occasion",
+      "renewed",
+      "regularly",
+      "definitive",
+      "monetary",
+      "medium",
+      "valid",
+      "initial",
+      "remain",
+      "four",
+      "stage",
+      "consultation",
+      "extension",
+      "assistance",
+      "obligations",
+      "term",
+      "extended",
+      "until",
+      "years",
+      "submitted",
+      "financial",
+      "force",
+      "system",
+      "last",
+      "articles",
+      "january",
+      "established",
+      "period",
+      "appropriate"
+    ],
+    "prompt_length": 1685,
+    "category": "2836 social protection"
+  }
+}

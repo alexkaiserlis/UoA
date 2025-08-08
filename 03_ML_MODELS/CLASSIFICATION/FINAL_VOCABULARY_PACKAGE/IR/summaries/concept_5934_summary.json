@@ -1,0 +1,26 @@
+{
+  "concept_id": "5934",
+  "concept_data": {
+    "title": "tranquilizer",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "tranquiliser",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"tranquilizer,\" which redirects to the preferred term \"tranquiliser,\" refers to a class of pharmacological agents utilized primarily for their sedative effects in medical practice. Within the EU legal and regulatory framework, tranquilizers are subject to stringent regulations under health legislation to ensure their safe use and distribution. This includes compliance with directives governing medicinal products, which mandate rigorous testing and monitoring to mitigate risks associated with their consumption. The regulatory oversight aims to protect public health while facilitating access to necessary therapeutic agents, underscoring the balance between efficacy and safety in the pharmaceutical sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:59.687635",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1190,
+    "category": "2841 health"
+  }
+}

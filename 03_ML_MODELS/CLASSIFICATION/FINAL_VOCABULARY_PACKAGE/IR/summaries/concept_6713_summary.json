@@ -1,0 +1,63 @@
+{
+  "concept_id": "6713",
+  "concept_data": {
+    "title": "microloan",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"microloan\" within EU legal and regulatory frameworks refers to small-scale financial instruments aimed at fostering entrepreneurship and economic reintegration, particularly for disadvantaged groups. Microcredits serve as a proactive approach to mitigate indebtedness and enhance financial literacy among unemployed individuals. Initiatives like the European Investment Fund (EIF) and the Jeremie program leverage microfinancing to provide capital for local startups, reinforcing trust in corporate structures. By employing innovative outreach strategies, these interventions aim to support the launch of new businesses, thus capitalising on lessons learned from past initiatives. The European Social Fund (ESF) and the European Agricultural Fund for Rural Development (EAFRD) also contribute to these efforts, ensuring equitable access to financial resources and promoting decent work opportunities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:10.262221",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 376,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 763,
+      "selected_avg_freq": 330.9266666666667
+    },
+    "related_words": [
+      "microcredit",
+      "jasmine",
+      "mentoring",
+      "microcredits",
+      "microfinancing",
+      "jeremie",
+      "microfinance",
+      "literacy",
+      "pittsburgh",
+      "eif",
+      "cip",
+      "proactive",
+      "capitalise",
+      "leaders",
+      "quasi",
+      "outreach",
+      "indebtedness",
+      "window",
+      "responds",
+      "dispersed",
+      "leverage",
+      "decent",
+      "lessons",
+      "chance",
+      "gaining",
+      "want",
+      "entrepreneurship",
+      "learned",
+      "unemployed",
+      "elaborate"
+    ],
+    "prompt_length": 1702,
+    "category": "2416 financial institutions and credit"
+  }
+}

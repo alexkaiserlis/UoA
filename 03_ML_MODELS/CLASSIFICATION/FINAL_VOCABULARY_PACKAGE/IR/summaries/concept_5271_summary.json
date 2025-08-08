@@ -1,0 +1,63 @@
+{
+  "concept_id": "5271",
+  "concept_data": {
+    "title": "criminal record",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"criminal record\" pertains to the documentation of convictions and offences committed by individuals, particularly within the EU framework. It facilitates the transmission of judicial information across member states, ensuring that nationals residing in different jurisdictions are adequately informed about their legal background. The Schengen acquis stresses the importance of coordinated efforts in managing criminal records, which may include disqualifications from certain activities or professions. Rehabilitation presupposes the possibility of restoring rights after convictions are pronounced. The EU Charter of Fundamental Rights observes the necessity of respecting citizens' rights while balancing security goals, especially concerning terrorism and related offences.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:03.597911",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1806,
+      "selected_avg_freq": 831.2333333333333
+    },
+    "related_words": [
+      "disqualifications",
+      "convictions",
+      "convicted",
+      "chances",
+      "restated",
+      "translated",
+      "reside",
+      "rulings",
+      "tampere",
+      "pronounced",
+      "obliging",
+      "offences",
+      "rehabilitation",
+      "presupposes",
+      "terrorist",
+      "extracted",
+      "enacted",
+      "terrorism",
+      "instructed",
+      "slow",
+      "facilitates",
+      "transmitting",
+      "transferring",
+      "observes",
+      "compromise",
+      "unilaterally",
+      "copies",
+      "demands",
+      "goals",
+      "crime"
+    ],
+    "prompt_length": 1705,
+    "category": "1216 criminal law"
+  }
+}

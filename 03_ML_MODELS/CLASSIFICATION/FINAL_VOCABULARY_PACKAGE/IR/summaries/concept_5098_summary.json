@@ -1,0 +1,63 @@
+{
+  "concept_id": "5098",
+  "concept_data": {
+    "title": "Campania",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Campania, a region of Italy, is recognized within EU legal and regulatory frameworks for its unique agricultural products, such as the carciofo and nocciola. The region has legislated various protections, including PGI status for certain cultivated items, which promotes local cooperatives and supports incomes. Campania's agricultural landscape is characterized by diverse phases of production, from the cultivation of apricots to the processing of farina. However, challenges persist, as stagnating markets and rising expenses can infringe on the viability of these products. The EU intervenes by advocating for rationalizing policies that favour the region's interests, henceforth ensuring that Campania's heritage is preserved and recognized.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:08:50.805818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 431,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 853,
+      "selected_avg_freq": 390.36
+    },
+    "related_words": [
+      "legislated",
+      "giffoni",
+      "paestum",
+      "neccio",
+      "garfagnana",
+      "nocciola",
+      "farina",
+      "advocate",
+      "carciofo",
+      "legislate",
+      "stagnating",
+      "infringes",
+      "inferred",
+      "apricot",
+      "complained",
+      "della",
+      "imp",
+      "keen",
+      "invoking",
+      "rationalizing",
+      "campania",
+      "apricots",
+      "inapplicable",
+      "cooperatives",
+      "recognize",
+      "promotes",
+      "envisage",
+      "intervene",
+      "foundation",
+      "phases"
+    ],
+    "prompt_length": 1677,
+    "category": "7211 regions of EU Member States"
+  }
+}

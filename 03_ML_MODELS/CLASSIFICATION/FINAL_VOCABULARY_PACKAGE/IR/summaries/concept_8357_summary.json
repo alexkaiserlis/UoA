@@ -1,0 +1,63 @@
+{
+  "concept_id": "8357",
+  "concept_data": {
+    "title": "war in Kosovo",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "Kosovo question",
+    "relation_type": "USE"
+  },
+  "summary": "The \"war in Kosovo,\" redirected to the preferred term \"Kosovo question,\" pertains to the EU's strategic approach to stability and reconciliation in the Balkans. The EU's Common Foreign and Security Policy (CFSP) has unequivocally reaffirmed its commitment to dialogue and coordination among regional actors. The European Union Rule of Law (EUSR) mission, headed by appointed representatives, envisages a comprehensive framework for political and external affairs, aiming to impede the deterioration of relations. The mandate of these efforts includes extending partnerships and achieving stability in the region, with a vested interest in the long-term political perspective of Kosovo and its integration into European structures.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:31:46.788520",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 104,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 104,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1516.1826923076924
+    },
+    "related_words": [
+      "samuel",
+      "žbogar",
+      "pristina",
+      "gentilini",
+      "fernando",
+      "unequivocal",
+      "eusr",
+      "balkan",
+      "vested",
+      "reconciliation",
+      "balkans",
+      "kosovo",
+      "reaffirmed",
+      "deteriorate",
+      "recalled",
+      "envisages",
+      "impede",
+      "dialogue",
+      "stabilisation",
+      "appointing",
+      "perspective",
+      "head",
+      "strategic",
+      "western",
+      "eight",
+      "cfsp",
+      "mandate",
+      "affairs",
+      "competence",
+      "expire"
+    ],
+    "prompt_length": 1734,
+    "category": "0816 international security"
+  }
+}

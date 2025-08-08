@@ -1,0 +1,63 @@
+{
+  "concept_id": "434843",
+  "concept_data": {
+    "title": "international emissions trading",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "emission trading",
+    "relation_type": "USE"
+  },
+  "summary": "International emissions trading, often redirected to \"emission trading,\" is a pivotal mechanism within EU environmental policy aimed at mitigating greenhouse gas emissions. This system facilitates the auctioning of allowances and the trading of emission credits, such as ERUs and CERs, among installations and aircraft operators. It operates under overarching frameworks established by the UNFCCC and the Kyoto Protocol, ensuring compliance through registries that track entitlements and cancellations. The interaction between different market-based measures (MBMs) allows for the optimal allocation of resources, addressing dependencies and enhancing the integrity of emissions reductions. This approach swiftly formulates realistic strategies for safeguarding the environment while accommodating new entrants in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:50:51.951450",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1085,
+      "selected_avg_freq": 512.5466666666666
+    },
+    "related_words": [
+      "hgcc",
+      "mbms",
+      "erus",
+      "cers",
+      "dependencies",
+      "aerodromes",
+      "momentum",
+      "auctioned",
+      "mbm",
+      "surrender",
+      "overarching",
+      "unfccc",
+      "stationary",
+      "registry",
+      "entrants",
+      "kyoto",
+      "interaction",
+      "preferred",
+      "formulate",
+      "icao",
+      "flights",
+      "herein",
+      "clean",
+      "linking",
+      "cancellation",
+      "entitlements",
+      "facilitates",
+      "swiftly",
+      "defer",
+      "arriving"
+    ],
+    "prompt_length": 1743,
+    "category": "5206 environmental policy"
+  }
+}

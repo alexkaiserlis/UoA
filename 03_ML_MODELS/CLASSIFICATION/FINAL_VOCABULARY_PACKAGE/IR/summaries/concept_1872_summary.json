@@ -1,0 +1,63 @@
+{
+  "concept_id": "1872",
+  "concept_data": {
+    "title": "Irish Sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Irish Sea\" is a vital marine ecosystem within the EU's natural environment framework, subject to various legal and regulatory measures aimed at preserving its biodiversity. The area supports numerous species, including otters and juvenile bream, while also being a habitat for demersal species like plaice and ling. Regulatory bodies, such as STECF, prescribe Total Allowable Catches (TACs) to prevent overfishing of mature adults and ensure sustainable capture methods, including selective netting and trawls. The use of appropriate mesh thickness and gear panels is essential to minimize the capture of juvenile fish and protect spawning grounds, thereby avoiding the collapse of fish stocks and jeopardizing the ecosystem's health.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:27:58.492954",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 461,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 542,
+      "selected_avg_freq": 215.03333333333333
+    },
+    "related_words": [
+      "otter",
+      "separator",
+      "johannesburg",
+      "viif",
+      "forkbeards",
+      "concurs",
+      "viig",
+      "captured",
+      "diamond",
+      "bream",
+      "queen",
+      "flaws",
+      "selectivity",
+      "anglerfish",
+      "twine",
+      "mature",
+      "netting",
+      "viia",
+      "spawning",
+      "ling",
+      "scallops",
+      "prescribing",
+      "juvenile",
+      "depleted",
+      "plaice",
+      "capture",
+      "seines",
+      "concert",
+      "kattegat",
+      "demersal"
+    ],
+    "prompt_length": 1621,
+    "category": "5211 natural environment"
+  }
+}

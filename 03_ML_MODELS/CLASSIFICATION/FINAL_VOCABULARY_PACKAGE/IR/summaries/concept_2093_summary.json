@@ -1,0 +1,63 @@
+{
+  "concept_id": "2093",
+  "concept_data": {
+    "title": "International Civil Aviation Organization",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "International Civil Aviation Organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The International Civil Aviation Organization (ICAO) is a specialized agency of the United Nations, mandated to promote the safe and orderly development of international civil aviation. In the context of EU legal and regulatory frameworks, ICAO's role is pivotal for ensuring interoperability and coherence in aviation processes. The EU collaborates with ICAO to enhance connectivity and traffic management, as evidenced by agreements such as the Chicago Convention. This collaboration includes the signing of memoranda that facilitate the automatic exchange of flight data and notifications. Additionally, ICAO's audits and inspections help maintain high standards, ensuring that aviation operations across member states are retroactively compliant with established regulations. The EU's commitment to ICAO's principles reflects its dedication to procedural integrity and the continuous updating of aviation legislation, thereby enhancing the overall safety and efficiency of air transport.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:21:17.821927",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 263,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1794,
+      "selected_avg_freq": 939.2466666666667
+    },
+    "related_words": [
+      "logon",
+      "moc",
+      "referenced",
+      "connectivity",
+      "eurocontrol",
+      "sky",
+      "chicago",
+      "mandated",
+      "icao",
+      "flights",
+      "exchanging",
+      "flight",
+      "automated",
+      "succeeded",
+      "navigation",
+      "interoperability",
+      "disputes",
+      "audits",
+      "aviation",
+      "aircraft",
+      "hoc",
+      "memorandum",
+      "coherence",
+      "traffic",
+      "president",
+      "lisbon",
+      "centres",
+      "transposition",
+      "termination",
+      "enhanced"
+    ],
+    "prompt_length": 1754,
+    "category": "7606 United Nations"
+  }
+}

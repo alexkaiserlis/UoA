@@ -1,0 +1,63 @@
+{
+  "concept_id": "2887",
+  "concept_data": {
+    "title": "sugar refining",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sugar refining, categorized under food technology, involves the processing of raw sugar into refined sugar, a critical component in the EU food supply chain. The regulatory framework governing this sector includes provisions that address the equalization of sugar prices among member states, ensuring that refiners do not engage in practices that could be deemed prejudicial or disproportionately burdensome to sellers in less developed regions, such as Burkina Faso or Myanmar. Article VIIIA of the EU regulations outlines the scheduling of sugar quotas, which can lead to overcompensation or reduced market access for certain countries. This framework aims to neutralize trade imbalances while benefitting all parties involved. Additionally, the lading of sugar products must comply with specific weights and measures, ensuring that all transactions are transparent and equitable. The ongoing discussions within the EU, particularly during reunions of trade representatives, often focus on how to avoid unnecessary restrictions that could jeopardize the market dynamics of sugar refineries across the Balkans and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:20.792985",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 161,
+    "vocabulary_stats": {
+      "total_related_words": 777,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 421,
+      "selected_avg_freq": 210.67333333333335
+    },
+    "related_words": [
+      "subpararaph",
+      "limitted",
+      "reducd",
+      "prohibitive",
+      "escudos",
+      "lading",
+      "cyclone",
+      "attributing",
+      "răšunion",
+      "grated",
+      "likened",
+      "elapses",
+      "refered",
+      "equalization",
+      "reunion",
+      "benefitting",
+      "scheduling",
+      "turns",
+      "cuba",
+      "burkina",
+      "faso",
+      "neutralize",
+      "aricle",
+      "epa",
+      "transpires",
+      "viiia",
+      "loaded",
+      "kilogrammes",
+      "refiners",
+      "burma"
+    ],
+    "prompt_length": 1686,
+    "category": "6036 food technology"
+  }
+}

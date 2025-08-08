@@ -1,0 +1,63 @@
+{
+  "concept_id": "5140",
+  "concept_data": {
+    "title": "storage capacity",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"storage capacity\" within EU legal and regulatory frameworks pertains to the adequate provision and management of storage facilities for agricultural products, including alcohol and oils. Agencies involved in distributive trades, such as distillers and agricultural organizations, must ensure that their storage capacity can sustain the quantities of goods purchased and held. This capacity is crucial for mitigating losses during periods of market fluctuation and for facilitating the timely delivery of products. Regulatory guidelines often define the extent of storage capacity required, permitting derogating measures when difficulties are encountered, thus ensuring that organizations can effectively manage their stocks over months.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:57:07.213529",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 102,
+      "requested_words": 150,
+      "min_frequency_found": 37,
+      "max_frequency_found": 4108,
+      "selected_words": 102,
+      "selected_min_freq": 37,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1857.0980392156862
+    },
+    "related_words": [
+      "distiller",
+      "distillers",
+      "rectify",
+      "sustained",
+      "alcohol",
+      "purchased",
+      "postponed",
+      "encountered",
+      "depend",
+      "seeds",
+      "fats",
+      "finding",
+      "oils",
+      "deal",
+      "wine",
+      "losses",
+      "defining",
+      "delivery",
+      "net",
+      "greek",
+      "agencies",
+      "offered",
+      "derogating",
+      "oil",
+      "great",
+      "supplemented",
+      "guidance",
+      "storage",
+      "intervention",
+      "agency"
+    ],
+    "prompt_length": 1649,
+    "category": "2036 distributive trades"
+  }
+}

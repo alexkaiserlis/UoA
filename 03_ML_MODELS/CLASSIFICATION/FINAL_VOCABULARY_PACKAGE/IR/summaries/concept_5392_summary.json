@@ -1,0 +1,63 @@
+{
+  "concept_id": "5392",
+  "concept_data": {
+    "title": "load",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"load\" pertains to the organization of transport, particularly concerning the efficient carriage of cargo, passengers, and mail. This concept necessitated the establishment of regulations for weighing and recording loads, ensuring compliance with safety standards. For instance, vessels, such as tankers, must accurately logbook their cargo, including seasonal catches like herring and mackerel, to facilitate conservation efforts. The urgency of synchronised transit operations, especially at airports and quayside locations, empowers ministers to impose limitations on loading practices. Consequently, proper management of loads is crucial to mitigate undue interruptions and uncertainty in transport logistics across modes, including aviation and maritime routes.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:19.970771",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 269,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1627,
+      "selected_avg_freq": 770.04
+    },
+    "related_words": [
+      "quayside",
+      "consecutively",
+      "synchronised",
+      "logbook",
+      "gibraltar",
+      "weighed",
+      "loads",
+      "faeroe",
+      "tanker",
+      "icao",
+      "necessitated",
+      "appendices",
+      "herring",
+      "mackerel",
+      "airport",
+      "horse",
+      "modes",
+      "landing",
+      "load",
+      "returns",
+      "cargo",
+      "mail",
+      "catch",
+      "passengers",
+      "discharge",
+      "frame",
+      "freight",
+      "weighing",
+      "london",
+      "aviation"
+    ],
+    "prompt_length": 1659,
+    "category": "4811 organisation of transport"
+  }
+}

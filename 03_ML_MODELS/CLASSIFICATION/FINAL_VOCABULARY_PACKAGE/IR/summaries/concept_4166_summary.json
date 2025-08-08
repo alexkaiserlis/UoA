@@ -1,0 +1,63 @@
+{
+  "concept_id": "4166",
+  "concept_data": {
+    "title": "insurance claim",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"insurance claim\" in the EU legal context refers to a formal request made by an insured party to an insurer, seeking compensation for losses incurred. This process often involves intricate regulatory frameworks, particularly in sectors like mining and steel, where companies such as Preussag and Saarbergwerke may face closures and restructuring. Claims may arise from incidents leading to depreciation of assets or welfare deficits among workers. The ruling on such claims must comply with established contracts and authorizing regulations, ensuring that all parties, including Gewerkschaft representatives, are entitled to fair compensation. The complexities of these claims often involve backfilling disused pits and addressing the intrinsic challenges of modernization and rationalization within the industry.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:44.231692",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 155,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3643,
+      "selected_avg_freq": 1365.86
+    },
+    "related_words": [
+      "viktoria",
+      "restucturing",
+      "backfilling",
+      "disused",
+      "gewerkshaft",
+      "auguste",
+      "jacoba",
+      "gewerkschaft",
+      "preussag",
+      "sophia",
+      "saarbergwerke",
+      "ruhrkohle",
+      "pumping",
+      "uncompetitive",
+      "pits",
+      "workings",
+      "intrinsic",
+      "closures",
+      "totalling",
+      "retirement",
+      "lose",
+      "mining",
+      "depreciation",
+      "finds",
+      "rationalization",
+      "ruling",
+      "modernization",
+      "deficit",
+      "jobs",
+      "gmbh"
+    ],
+    "prompt_length": 1664,
+    "category": "2431 insurance"
+  }
+}

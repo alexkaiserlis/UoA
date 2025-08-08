@@ -1,0 +1,63 @@
+{
+  "concept_id": "4612",
+  "concept_data": {
+    "title": "livestock unit",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"livestock unit\" is pivotal in EU agricultural regulations, serving as a standardized measure to assess the headage of animals, including cows and other livestock, within various establishments. This unit facilitates the calculation of payments and aids linked to livestock production, ensuring a smooth operation of the agricultural chain. It reflects geographical considerations, particularly in remote areas like Finland, where specific conditions may affect output. The regime governing livestock units authorises modifications to account for transformed products, such as meat and milk, while also addressing constraints related to distances and population dynamics. The legal framework ensures that all related notifications and approvals are systematically managed.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:34:46.508271",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 156,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 3643,
+      "selected_avg_freq": 1680.4933333333333
+    },
+    "related_words": [
+      "headage",
+      "handle",
+      "transformed",
+      "unrelated",
+      "cow",
+      "slaughterhouses",
+      "distances",
+      "starch",
+      "mountain",
+      "remote",
+      "yields",
+      "suffering",
+      "potatoes",
+      "inclusive",
+      "slaughter",
+      "livestock",
+      "finnish",
+      "situated",
+      "output",
+      "establishments",
+      "constraints",
+      "aids",
+      "meat",
+      "normally",
+      "smooth",
+      "milk",
+      "population",
+      "fresh",
+      "authorise",
+      "regime"
+    ],
+    "prompt_length": 1676,
+    "category": "5626 means of agricultural production"
+  }
+}

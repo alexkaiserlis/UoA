@@ -1,0 +1,63 @@
+{
+  "concept_id": "1878",
+  "concept_data": {
+    "title": "sulphur dioxide",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "anhydride",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"sulphur dioxide,\" often redirected to \"anhydride,\" is a significant chemical compound, particularly in winemaking and food preservation. Its role as a preservative is crucial, as it stabilizes products by binding with particulates and preventing oxidation. Regulations acknowledge the desirability of controlling sulphur dioxide levels in residential and commercial settings, especially in relation to boilers and insulation materials. The compound's presence in beverages, such as sparkling liqueur from the Mosel and Saar regions, is regulated to ensure safety. Additionally, the legislation surrounding its use involves monitoring milligrams per liter to mitigate risks associated with particulates and oxides, thereby protecting occupiers and occupants alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:08.142449",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 530,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 482,
+      "selected_avg_freq": 178.9
+    },
+    "related_words": [
+      "auricularia",
+      "polytricha",
+      "tricarboxylic",
+      "billing",
+      "occupiers",
+      "billed",
+      "saarländischer",
+      "rotten",
+      "pyruvate",
+      "acetaldehyde",
+      "ketoglutaric",
+      "ruwer",
+      "xiia",
+      "rhin",
+      "polyvinylpyrrolidone",
+      "legislate",
+      "milligrams",
+      "haut",
+      "chrome",
+      "mosel",
+      "particulates",
+      "molybdenum",
+      "landwein",
+      "occupants",
+      "saar",
+      "anhydride",
+      "vinification",
+      "benzene",
+      "bas",
+      "conditioning"
+    ],
+    "prompt_length": 1736,
+    "category": "6811 chemistry"
+  }
+}

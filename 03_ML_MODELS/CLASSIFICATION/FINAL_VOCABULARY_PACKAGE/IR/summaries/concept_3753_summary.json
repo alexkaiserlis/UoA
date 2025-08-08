@@ -1,0 +1,63 @@
+{
+  "concept_id": "3753",
+  "concept_data": {
+    "title": "mining of ore",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"mining of ore\" encompasses the extractive processes involved in the extraction of minerals, particularly within coalfields. In the EU regulatory framework, mining operations must adhere to stringent environmental standards to ensure the integrity of unpolluted soil and mitigate hazardous waste. The iterative phases of mining, from exploration to closure, require comprehensive characterisation of geochemical properties to assess environmental impacts. Miners are tasked with gathering data on the significance of mining activities, ensuring that any redundant or unprofitable operations are rationalized. Furthermore, the admissibility of mining permits hinges on demonstrating compliance with environmental regulations, thereby minimizing risks posed to surrounding communities and ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:55:31.604770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 351,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1050,
+      "selected_avg_freq": 524.48
+    },
+    "related_words": [
+      "unpolluted",
+      "iterative",
+      "campine",
+      "geochemical",
+      "betweeen",
+      "coalfield",
+      "inert",
+      "extractive",
+      "pit",
+      "miners",
+      "steam",
+      "coalfields",
+      "pits",
+      "unprofitable",
+      "coking",
+      "characterisation",
+      "representativity",
+      "bfrs",
+      "apportioned",
+      "wastes",
+      "gathering",
+      "phases",
+      "mines",
+      "complementing",
+      "totalling",
+      "admissibility",
+      "mining",
+      "approves",
+      "mitigation",
+      "returns"
+    ],
+    "prompt_length": 1723,
+    "category": "6611 coal and mining industries"
+  }
+}

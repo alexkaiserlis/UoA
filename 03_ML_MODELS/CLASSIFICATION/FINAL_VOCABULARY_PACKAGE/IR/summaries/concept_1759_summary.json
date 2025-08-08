@@ -1,0 +1,63 @@
+{
+  "concept_id": "1759",
+  "concept_data": {
+    "title": "yellow fever",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "infectious disease",
+    "relation_type": "USE"
+  },
+  "summary": "Yellow fever, an infectious disease, is classified under the EU health category due to its preventable nature and significant public health implications. Notoriously transmitted by mosquito bites, it can lead to severe outbreaks, similar to smallpox and diphtheria. The EU regulatory framework coordinates responses to such diseases, emphasizing genomic surveillance and the development of vaccines through initiatives like EDCTP. Sporadically, cases arise, necessitating robust monitoring systems like EWRS. Legal instruments mandate reporting and management protocols, ensuring that transfusion practices and microbial safety are maintained. The interconnectedness of diseases like yellow fever with other pathogens, such as salmonella and tularaemia, underscores the importance of comprehensive health strategies across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:21:27.575481",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1834,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 18.42
+    },
+    "related_words": [
+      "tbe",
+      "ewrs",
+      "dsn",
+      "bites",
+      "notoriously",
+      "inbreeding",
+      "okinawa",
+      "vicious",
+      "pledge",
+      "congruent",
+      "smallpox",
+      "tetanus",
+      "sporadically",
+      "diphtheria",
+      "tularaemia",
+      "preventable",
+      "kardzhali",
+      "sungurlare",
+      "dobrichka",
+      "kubrat",
+      "lately",
+      "euphin",
+      "hsscd",
+      "tula",
+      "brids",
+      "siberia",
+      "edctp",
+      "genomics",
+      "fluoroquinolone",
+      "breakpoints"
+    ],
+    "prompt_length": 1690,
+    "category": "2841 health"
+  }
+}

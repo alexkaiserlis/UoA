@@ -1,0 +1,63 @@
+{
+  "concept_id": "4330",
+  "concept_data": {
+    "title": "information medium",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information medium\" within EU legal and regulatory frameworks refers to the various modes through which information is transmitted and recorded, particularly in the context of securities and financial disclosures. It encompasses formats such as prospectuses and other documents that must adhere to strict guidelines for clarity and accuracy. The declarant is responsible for ensuring that particulars are communicated unaltered and simultaneously across different media. This discipline is crucial for maintaining transparency in exchanges and satisfying regulatory scrutiny. By coordinating the dissemination of information, the EU aims to facilitate reciprocal understanding and informed decision-making among stakeholders, thereby enhancing the integrity of financial markets.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:02.678379",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 308,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 1405,
+      "selected_avg_freq": 745.8466666666667
+    },
+    "related_words": [
+      "prospectuses",
+      "declarant",
+      "prospectus",
+      "afterwards",
+      "circulate",
+      "adhere",
+      "unaltered",
+      "magnetic",
+      "printing",
+      "transmitting",
+      "compensating",
+      "inward",
+      "endeavour",
+      "modes",
+      "unacceptable",
+      "simultaneous",
+      "media",
+      "coordinating",
+      "consignment",
+      "coordinate",
+      "intermediate",
+      "admitted",
+      "satisfying",
+      "perspective",
+      "accorded",
+      "confer",
+      "extra",
+      "listing",
+      "agree",
+      "reciprocal"
+    ],
+    "prompt_length": 1760,
+    "category": "3231 information and information processing"
+  }
+}

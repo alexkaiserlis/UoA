@@ -1,0 +1,63 @@
+{
+  "concept_id": "1069",
+  "concept_data": {
+    "title": "customs formalities",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs formalities encompass the legal procedures and regulations governing the import and export of goods within the EU, ensuring compliance with tariff policies. These formalities are centralizing processes that mitigate deception and facilitate the efficient movement of containerised goods across borders. They involve the immobilization of products until customs duties are settled, echoing the need for synchronization among member states. The AEO (Authorized Economic Operator) status enhances security and quality, while the EORI (Economic Operators Registration and Identification) number streamlines administrative tasks. Compliance with these formalities is crucial for agroalimentaria sectors, particularly in hinterland regions, where the incurrence of delays can quash trade benefits. Legalised documentation, such as notas and instruccions from aduanas, plays a vital role in this regulatory framework, ensuring that all agricultural products, including cereales, meet quality standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:26.347606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 2038,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 26.76
+    },
+    "related_words": [
+      "deception",
+      "procession",
+      "benenfits",
+      "opinons",
+      "immobilization",
+      "echoing",
+      "fatf",
+      "quashed",
+      "extinguished",
+      "centralizing",
+      "canarian",
+      "agroalimentaria",
+      "agriculturel",
+      "synchronizing",
+      "destiantion",
+      "archieve",
+      "oranization",
+      "fntdef",
+      "modality",
+      "hinterland",
+      "containerised",
+      "revocable",
+      "duluth",
+      "wintertime",
+      "restabilize",
+      "tare",
+      "diagnoses",
+      "instruccion",
+      "direccion",
+      "aduanas"
+    ],
+    "prompt_length": 1726,
+    "category": "2011 tariff policy"
+  }
+}

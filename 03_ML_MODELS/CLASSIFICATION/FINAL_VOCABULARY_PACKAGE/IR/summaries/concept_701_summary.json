@@ -1,0 +1,63 @@
+{
+  "concept_id": "701",
+  "concept_data": {
+    "title": "senatorial election",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "parliamentary election",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"senatorial election,\" categorized under electoral procedure and voting, is a redirect to the preferred term \"parliamentary election.\" In the context of EU legal and regulatory frameworks, parliamentary elections are crucial milestones for consolidating democracy and ensuring credible governance. They provide a roadmap for reengagement in fragile states, such as Burkina Faso and Madagascar, where electoral processes have historically faced violations. The EU emphasizes the need for peaceful dialogue and consensus among signatories to restore constitutional order and engage in necessary reforms. This framework aims to stabilize regions like Southern Africa and Guinea, fostering a democratically elected leadership that reflects the will of the people.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:28:06.410425",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 263,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1535,
+      "selected_avg_freq": 638.5533333333333
+    },
+    "related_words": [
+      "reengagement",
+      "regressive",
+      "malagasy",
+      "milestones",
+      "sadc",
+      "democratically",
+      "emerge",
+      "burkina",
+      "faso",
+      "reconcile",
+      "ouagadougou",
+      "fragile",
+      "outlines",
+      "presidential",
+      "bissau",
+      "peaceful",
+      "fiji",
+      "map",
+      "thanks",
+      "elected",
+      "mediation",
+      "restored",
+      "credible",
+      "prospective",
+      "roadmap",
+      "violated",
+      "cotonou",
+      "elections",
+      "madagascar",
+      "consensus"
+    ],
+    "prompt_length": 1740,
+    "category": "0416 electoral procedure and voting"
+  }
+}

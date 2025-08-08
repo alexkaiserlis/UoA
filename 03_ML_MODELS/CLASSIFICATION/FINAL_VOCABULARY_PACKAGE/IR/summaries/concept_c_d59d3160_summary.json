@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_d59d3160",
+  "concept_data": {
+    "title": "coral reef",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "coral",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"coral reef,\" categorized under the natural environment, is redirected to the preferred term \"coral.\" In EU legal and regulatory frameworks, coral reefs are recognized for their ecological significance and biodiversity. They serve as critical habitats for numerous marine species and are essential for maintaining marine ecosystems. The EU has implemented various directives, such as the Habitats Directive, to protect these vital environments from degradation and threats, including climate change and pollution. Effective conservation measures are necessary to ensure the sustainability of coral ecosystems, which are pivotal for both environmental health and economic activities, such as fisheries and tourism.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:40:34.399232",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "5211 natural environment"
+  }
+}

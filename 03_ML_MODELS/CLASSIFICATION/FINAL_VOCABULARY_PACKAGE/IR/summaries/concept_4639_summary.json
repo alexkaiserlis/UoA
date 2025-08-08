@@ -1,0 +1,63 @@
+{
+  "concept_id": "4639",
+  "concept_data": {
+    "title": "milk cow",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "dairy cow",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"milk cow,\" a redirect to \"dairy cow,\" pertains to the EU's regulatory framework on agricultural production, specifically within the category of means of agricultural production. Dairy cows are subject to various legal standards aimed at ensuring animal welfare and product quality. Regulations address issues such as mastitis and other disorders that can induce morbidity and stress in herds. Prophylactic measures, including therapeutic injections, are often mandated to dissuade painful conditions and verify the health of the animals. Scientists formulate guidelines to manage herd health, ensuring fewer reactions to treatments and maintaining higher productivity. The EU's approach retains a focus on ethical practices while addressing allegations of poorer animal treatment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:21.320170",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 417,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 822,
+      "selected_avg_freq": 339.9533333333333
+    },
+    "related_words": [
+      "mastitis",
+      "scawah",
+      "debilitating",
+      "scahaw",
+      "trouw",
+      "biozyme",
+      "amaferm",
+      "painful",
+      "somatotrophin",
+      "bst",
+      "nrrl",
+      "lesions",
+      "leg",
+      "morbidity",
+      "oryzae",
+      "disorders",
+      "retains",
+      "dissuade",
+      "poorer",
+      "keeps",
+      "prophylactic",
+      "aspergillus",
+      "card",
+      "relax",
+      "verifies",
+      "owns",
+      "scientists",
+      "formulating",
+      "cards",
+      "fewer"
+    ],
+    "prompt_length": 1697,
+    "category": "5626 means of agricultural production"
+  }
+}

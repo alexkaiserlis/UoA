@@ -1,0 +1,63 @@
+{
+  "concept_id": "1737",
+  "concept_data": {
+    "title": "worker",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "labour force",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"worker\" is redirected to the preferred term \"labour force,\" encompassing individuals engaged in remunerated activities. This concept is crucial for understanding the dynamics of the labour market, particularly in projects like the Eurotunnel, where various contractors such as Bouygues and Costain employ a diverse workforce. The labour force is affected by inflationary trends and seasonal employment patterns, influencing the commissioning of infrastructure projects. Subcontracts and consultancy roles, often involving firms like Atkins and Halcrow, illustrate the complexity of labour relations. Understanding these elements is essential for comprehensible regulatory frameworks that promote economic stability and protect workers' rights.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:24:12.031955",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 619,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 290,
+      "selected_avg_freq": 101.15333333333334
+    },
+    "related_words": [
+      "eurotunnel",
+      "maître",
+      "oeuvre",
+      "ctg",
+      "transmanche",
+      "beatty",
+      "costain",
+      "tarmac",
+      "wimpey",
+      "bouygues",
+      "dumez",
+      "auxiliaire",
+      "spie",
+      "batignolles",
+      "tml",
+      "invitees",
+      "invitee",
+      "shuttles",
+      "atkins",
+      "économiques",
+      "halcrow",
+      "tractionel",
+      "electrobel",
+      "wordl",
+      "intereset",
+      "balfour",
+      "glasfiber",
+      "william",
+      "woodrow",
+      "boring"
+    ],
+    "prompt_length": 1695,
+    "category": "4411 labour market"
+  }
+}

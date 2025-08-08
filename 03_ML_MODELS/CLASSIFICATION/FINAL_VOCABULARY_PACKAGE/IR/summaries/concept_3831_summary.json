@@ -1,0 +1,63 @@
+{
+  "concept_id": "3831",
+  "concept_data": {
+    "title": "wire-rod mill",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "iron and steel-working machinery",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"wire-rod mill,\" categorized under iron, steel, and other metal industries, is a redirect to \"iron and steel-working machinery.\" This machinery plays a crucial role in the production of steel, particularly in the context of EU regulatory frameworks governing installations and operations. The European Coal and Steel Community (ECSC) has historically authorized the restructuring of these facilities to ensure compatibility with modern standards. The planned rationalization of production processes aims to bridge the gap between supply and demand, addressing issues such as insufficient deliveries and budgetary constraints. The ruling on emissions and coking processes serves to satisfy environmental requirements while maintaining production volumes. Thus, the wire-rod mill is integral to the EU's strategy for sustainable steel production, ensuring that installations are efficient and capable of producing the required tonnes of steel.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:34:37.368626",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 140,
+      "requested_words": 150,
+      "min_frequency_found": 43,
+      "max_frequency_found": 4108,
+      "selected_words": 140,
+      "selected_min_freq": 43,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1602.307142857143
+    },
+    "related_words": [
+      "blast",
+      "furnaces",
+      "coking",
+      "dollar",
+      "coke",
+      "injection",
+      "solving",
+      "bridge",
+      "brings",
+      "rationalization",
+      "indents",
+      "drop",
+      "ruling",
+      "serves",
+      "phasing",
+      "installations",
+      "deliveries",
+      "closure",
+      "wider",
+      "gap",
+      "figure",
+      "mark",
+      "satisfies",
+      "retroactively",
+      "intends",
+      "originally",
+      "communicate",
+      "coal",
+      "proved",
+      "restructuring"
+    ],
+    "prompt_length": 1720,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

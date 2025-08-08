@@ -1,0 +1,63 @@
+{
+  "concept_id": "5847",
+  "concept_data": {
+    "title": "eligible region",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, an \"eligible region\" refers to areas that qualify for specific funding and support under various policies, such as the European Agricultural Fund for Rural Development (EAFRD). These regions, including places like Baden, Bavaria, and Saarland, are classed based on socio-economic indicators and their attractiveness for investment. The concept promotes concertation among municipalities, enhancing regional development and addressing breakdowns in economic activity. Eligible regions often face challenges, such as population decline in areas like Schleswig-Holstein and the need for additionality in funding. By boosting transnational cooperation, these regions can genuinely enhance their inhabitants' quality of life and economic prospects.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:42.693685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 642,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 525,
+      "selected_avg_freq": 256.96666666666664
+    },
+    "related_words": [
+      "landeck",
+      "habitants",
+      "azf",
+      "toulouse",
+      "pfatz",
+      "norfolk",
+      "intervenes",
+      "receivable",
+      "explosion",
+      "abruzzi",
+      "strands",
+      "breakdowns",
+      "attractiveness",
+      "hessen",
+      "concertation",
+      "parities",
+      "saarland",
+      "bremen",
+      "ewe",
+      "rhineland",
+      "slovakian",
+      "carcass",
+      "lambs",
+      "inhabitants",
+      "hamburg",
+      "schleswig",
+      "holstein",
+      "classed",
+      "württemberg",
+      "bavaria"
+    ],
+    "prompt_length": 1691,
+    "category": "1616 regions and regional policy"
+  }
+}

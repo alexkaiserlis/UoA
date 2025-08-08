@@ -1,0 +1,63 @@
+{
+  "concept_id": "2345",
+  "concept_data": {
+    "title": "groundnut",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"groundnut,\" categorized under plant products (6006), primarily refers to peanuts, which are significant commodities in the EU market. Regulatory frameworks address concerns regarding aflatoxins, potent carcinogens that can contaminate groundnuts, particularly from regions like Egypt. The EU employs systems such as RASFF to monitor and alert on emerging contaminants, ensuring that levels remain below the unacceptably high threshold of 4 ppb. Regular inspections and documentary checks reinforce compliance, minimizing risks to human health, including liver cancer. The FVO conducts assessments to evaluate deficiencies in safety protocols, ensuring that sorted and consigned products meet stringent EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:37:40.331789",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 436,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 828,
+      "selected_avg_freq": 412.44
+    },
+    "related_words": [
+      "peanut",
+      "ppb",
+      "usda",
+      "unacceptably",
+      "pistachios",
+      "peanuts",
+      "aflatoxins",
+      "potent",
+      "aflatoxin",
+      "sorted",
+      "recurring",
+      "materially",
+      "egyptian",
+      "carcinogen",
+      "apparently",
+      "hazelnuts",
+      "rasff",
+      "figs",
+      "genotoxic",
+      "minimising",
+      "rev",
+      "periodical",
+      "reinforcement",
+      "contaminants",
+      "fvo",
+      "liver",
+      "cancer",
+      "carcinogenic",
+      "linguistic",
+      "doses"
+    ],
+    "prompt_length": 1662,
+    "category": "6006 plant product"
+  }
+}

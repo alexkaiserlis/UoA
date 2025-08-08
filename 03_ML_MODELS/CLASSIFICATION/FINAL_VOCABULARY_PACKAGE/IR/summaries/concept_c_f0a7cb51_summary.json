@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_f0a7cb51",
+  "concept_data": {
+    "title": "computational biology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "bioinformatics",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"computational biology,\" redirected to the preferred term \"bioinformatics,\" encompasses the application of computational techniques to analyze biological data. In the context of EU legal and regulatory frameworks, bioinformatics plays a crucial role in advancing research in genomics and proteomics, facilitating compliance with regulations on data protection and ethical standards in biotechnology. The integration of bioinformatics into EU policies supports innovation while ensuring adherence to the European General Data Protection Regulation (GDPR) and the Biotech Directive. This intersection of natural sciences and regulatory oversight underscores the importance of bioinformatics in fostering responsible scientific advancement within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:07.825864",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1223,
+    "category": "3606 natural and applied sciences"
+  }
+}

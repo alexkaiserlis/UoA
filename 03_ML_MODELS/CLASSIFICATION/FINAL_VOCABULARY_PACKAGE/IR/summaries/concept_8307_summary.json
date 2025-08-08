@@ -1,0 +1,63 @@
+{
+  "concept_id": "8307",
+  "concept_data": {
+    "title": "Pazardzhik region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Pazardzhik region\" is a designated area in Bulgaria, recognized within the EU framework for its agricultural products, particularly the българско розово масло (bulgarsko rozovo maslo). This region is significant for its geographical indications and protected designations of origin (PDO), which are crucial for maintaining the quality of foodstuffs. Pursuant to EU regulations, applications for such designations are published in the official journal, ensuring transparency in the functioning of the regulatory schemes. The European Commission and Council oversee the implementation of these regulations, which enhance the marketability of regional products and support local economies. The recognition of these designations is vital for the protection of cultural heritage and agricultural diversity within the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:53:29.679712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 41,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 41,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1721.2926829268292
+    },
+    "related_words": [
+      "българско",
+      "розово",
+      "масло",
+      "bulgarsko",
+      "rozovo",
+      "maslo",
+      "pgi",
+      "opposition",
+      "designations",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "bulgaria",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "september",
+      "implementing",
+      "functioning",
+      "pursuant"
+    ],
+    "prompt_length": 1608,
+    "category": "7211 regions of EU Member States"
+  }
+}

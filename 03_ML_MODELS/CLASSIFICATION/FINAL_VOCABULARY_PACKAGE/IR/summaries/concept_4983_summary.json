@@ -1,0 +1,63 @@
+{
+  "concept_id": "4983",
+  "concept_data": {
+    "title": "purchase",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"purchase\" refers to the act of acquiring goods or services, often subject to specific regulations that ensure effective market practices. This includes considerations for stocktaking and the transshipment of goods, particularly in sectors like smallholdings and brokerage. The Netherlands, known for its innovative practices, exemplifies effective purchasing strategies that support market stability. Regulatory measures may involve prereduction of tariffs or the amortisation of costs associated with reconditioned goods. Additionally, the concept encompasses the implications of transshipments and the need for compliance with EU directives, ensuring that purchases are both elastic and remunerated fairly, reflecting market tendencies and consumer protection standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:07.642226",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1663,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 79,
+      "selected_avg_freq": 35.94
+    },
+    "related_words": [
+      "nethderlands",
+      "efective",
+      "ondersteport",
+      "prereduced",
+      "préréduits",
+      "sfmp",
+      "brokerage",
+      "prereduction",
+      "maybe",
+      "undivided",
+      "forint",
+      "abspp",
+      "reconditioned",
+      "transshipment",
+      "gliders",
+      "stocktaking",
+      "damen",
+      "gorinchem",
+      "scheepsbouw",
+      "minerais",
+      "vnsi",
+      "crowns",
+      "popularity",
+      "smallholdings",
+      "restock",
+      "hearth",
+      "tendencies",
+      "amortisation",
+      "mended",
+      "nederlandse"
+    ],
+    "prompt_length": 1692,
+    "category": "2031 marketing"
+  }
+}

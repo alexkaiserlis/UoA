@@ -1,0 +1,63 @@
+{
+  "concept_id": "3412",
+  "concept_data": {
+    "title": "invalidity insurance",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "disability insurance",
+    "relation_type": "USE"
+  },
+  "summary": "Invalidity insurance, commonly referred to as disability insurance within EU legal and regulatory frameworks, serves as a crucial component of social protection schemes. It provides financial benefits to employed individuals who suffer from occupational diseases or accidents, thereby ensuring their families are protected against loss of salary. Actuaries and auditors play vital roles in calculating mortality tables and assessing risks associated with these insurance schemes. The alignment of responsibilities among various organs, including councils and officials, is essential for simplifying the process of obtaining benefits. This insurance aims to enhance the certainty of support for those unable to work, reflecting the EU's commitment to social justice and protection of its citizens.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:10.395538",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 152,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4073,
+      "selected_avg_freq": 1757.3333333333333
+    },
+    "related_words": [
+      "actuaries",
+      "actuarial",
+      "salary",
+      "disability",
+      "eaec",
+      "organs",
+      "sickness",
+      "immunities",
+      "families",
+      "privileges",
+      "councils",
+      "servants",
+      "mortality",
+      "occupational",
+      "stay",
+      "alignment",
+      "accidents",
+      "expectations",
+      "auditors",
+      "moving",
+      "assumed",
+      "tables",
+      "officials",
+      "legitimate",
+      "responsibilities",
+      "modifying",
+      "retroactively",
+      "self",
+      "diseases",
+      "staff"
+    ],
+    "prompt_length": 1735,
+    "category": "2836 social protection"
+  }
+}

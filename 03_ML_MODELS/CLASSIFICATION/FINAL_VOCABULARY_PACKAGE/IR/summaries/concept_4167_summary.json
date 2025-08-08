@@ -1,0 +1,63 @@
+{
+  "concept_id": "4167",
+  "concept_data": {
+    "title": "town-planning profession",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"town-planning profession\" encompasses the regulatory framework governing urban development within the EU, emphasizing the roles of appointed professionals in architecture and planning. Individuals such as Ian, Marie, and Andrew are often designated to ensure compliance with local laws, reflecting a blend of Belgian, Irish, and Italian practices. Training programs, like those led by experts such as Henk and Carole, are crucial for preparing future planners. The profession also involves the appointment of alternates, ensuring continuity in decision-making. As urban environments evolve, the need for smart, sustainable solutions becomes paramount, with professionals like David and Richard advocating for innovative approaches to town planning.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:08:47.517461",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 76,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 76,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 950.6447368421053
+    },
+    "related_words": [
+      "zandvoort",
+      "fennema",
+      "lillis",
+      "keating",
+      "sheridan",
+      "béatrice",
+      "bellynck",
+      "doisy",
+      "raphaël",
+      "hacquin",
+      "finch",
+      "ruelle",
+      "trippa",
+      "connell",
+      "carole",
+      "veyrat",
+      "henk",
+      "tom",
+      "michelin",
+      "ian",
+      "graziano",
+      "sarda",
+      "david",
+      "anne",
+      "richard",
+      "bruno",
+      "andrew",
+      "michael",
+      "james",
+      "rebut"
+    ],
+    "prompt_length": 1630,
+    "category": "2846 construction and town planning"
+  }
+}

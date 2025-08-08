@@ -1,0 +1,63 @@
+{
+  "concept_id": "3153",
+  "concept_data": {
+    "title": "plant resources",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"plant resources\" within EU legal and regulatory frameworks encompasses the preservation and sustainable management of biodiversity, particularly concerning genetic organisms. It involves the treatment and conservation of various kinds of plant species, including those susceptible to harmful nematodes like Bursaphelenchus xylophilus. Under the auspices of the FAO, EU regulations facilitate the dissemination of knowledge regarding phytosanitary measures to ensure the unity and diversity of plant resources. This legal framework mandates the deposition of genetic material in demarcated repositories, thereby enabling simultaneous breeding efforts and compliance with conservation standards, which are crucial for mitigating disproportionate disruptions to ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:38:04.282010",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 234,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 1996,
+      "selected_avg_freq": 895.3333333333334
+    },
+    "related_words": [
+      "deposition",
+      "steiner",
+      "buhrer",
+      "nickle",
+      "pine",
+      "undergoes",
+      "nematode",
+      "bursaphelenchus",
+      "xylophilus",
+      "favours",
+      "demarcated",
+      "biodiversity",
+      "buffer",
+      "unity",
+      "rome",
+      "endeavour",
+      "phytosanitary",
+      "director",
+      "deposited",
+      "treat",
+      "generalised",
+      "genetic",
+      "treatments",
+      "fao",
+      "wood",
+      "kinds",
+      "mixed",
+      "simultaneous",
+      "moved",
+      "auspices"
+    ],
+    "prompt_length": 1707,
+    "category": "5211 natural environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2213",
+  "concept_data": {
+    "title": "titanium dioxide",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "oxide",
+    "relation_type": "USE"
+  },
+  "summary": "Titanium dioxide, classified under the category of \"oxide,\" is a significant compound in EU regulatory frameworks, particularly concerning its applications in whitening and bleaching agents. Its use in products such as cosmetics, including eyelashes and eyebrows, has raised ecotoxicological and genotoxicological concerns, necessitating rigorous assessments by bodies like the SCCS. The compound's interactions with substances like methylenedioxy and hydroquinone in formulations are scrutinized for safety. Additionally, titanium dioxide's role in hardening agents and localized applications in industries, including those involving dichloroethane and antimony, requires prioritising safety measures. As a redirect to \"oxide,\" it emphasizes the broader category of chemical compounds regulated under EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:36.315937",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1007,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 199,
+      "selected_avg_freq": 81.22
+    },
+    "related_words": [
+      "thiourea",
+      "preferenres",
+      "methylenedioxy",
+      "nitrophenanthrene",
+      "carboxyl",
+      "veratrum",
+      "hardening",
+      "localized",
+      "nicomethanol",
+      "hydrofluoride",
+      "hydroxymethylpyridinium",
+      "eyelashes",
+      "eyebrows",
+      "dichlorroethane",
+      "fumigate",
+      "whitening",
+      "bleaching",
+      "kazzinc",
+      "ust",
+      "kamenogorsk",
+      "aristolochic",
+      "methoxy",
+      "prioritise",
+      "zno",
+      "dibromoethane",
+      "genotoxicological",
+      "antimony",
+      "kazakh",
+      "nitrofen",
+      "silica"
+    ],
+    "prompt_length": 1761,
+    "category": "6811 chemistry"
+  }
+}

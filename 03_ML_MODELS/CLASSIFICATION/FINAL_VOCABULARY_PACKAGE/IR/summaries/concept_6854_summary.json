@@ -1,0 +1,63 @@
+{
+  "concept_id": "6854",
+  "concept_data": {
+    "title": "pedestrian",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pedestrian\" within EU legal and regulatory frameworks pertains to vulnerable road users, including pedestrians, cyclists, and motorcyclists. Regulatory measures aim to enhance safety through various prescriptions, such as traffic calming initiatives and the implementation of standardised signalling systems. The European Union actively engages in assessments of vehicle designs, ensuring that features like passive safety measures and advanced collision avoidance systems are fitted to mitigate accidents. The UNECE and ECE frameworks guide the approval processes for vehicles, promoting broader consensus on safety standards. Urgently addressing pedestrian casualties, the EU seeks to advance regulations that protect these individuals from aggressiveness and collisions, thereby enhancing overall road safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:32:35.085974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 335,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1143,
+      "selected_avg_freq": 541.76
+    },
+    "related_words": [
+      "calming",
+      "eevc",
+      "frontal",
+      "pedestrians",
+      "cyclists",
+      "motorcyclists",
+      "crash",
+      "aggressiveness",
+      "diode",
+      "casualties",
+      "pedestrian",
+      "emitting",
+      "collision",
+      "advancing",
+      "prescriptions",
+      "lamp",
+      "signalling",
+      "front",
+      "wheeled",
+      "unece",
+      "passive",
+      "korean",
+      "ece",
+      "boundaries",
+      "approvals",
+      "broader",
+      "consensus",
+      "trailers",
+      "driven",
+      "vote"
+    ],
+    "prompt_length": 1669,
+    "category": "4816 land transport"
+  }
+}

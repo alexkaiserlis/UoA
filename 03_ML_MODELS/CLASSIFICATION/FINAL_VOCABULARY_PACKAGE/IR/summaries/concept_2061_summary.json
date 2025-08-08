@@ -1,0 +1,63 @@
+{
+  "concept_id": "2061",
+  "concept_data": {
+    "title": "Province of Antwerp",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Province of Antwerp, located in Flanders, Belgium, is a significant region within the EU, particularly in the context of economic and regulatory frameworks. It specializes in various industries, including the refining of crudes and distillates, where naphtha and lighter fractions are processed in catalytic refineries. The region's economic activities are informed by EU regulations that notify stakeholders of changes affecting trade and investment. Antwerp's strategic juncture, bordering other regions, facilitates the recruitment of skilled labor and the accrual of economic benefits. The provincial administration engages in programming initiatives that ensure additionality and support local businesses, thereby contributing to the overall economic dynamism of the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:15.535409",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 705,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 438,
+      "selected_avg_freq": 220.23333333333332
+    },
+    "related_words": [
+      "naphtha",
+      "crudes",
+      "cracking",
+      "knock",
+      "unmodified",
+      "distillates",
+      "argon",
+      "moniteur",
+      "specializing",
+      "turnhout",
+      "flanders",
+      "hundred",
+      "programmation",
+      "flemish",
+      "rechar",
+      "fold",
+      "belge",
+      "juncture",
+      "concurrently",
+      "antwerp",
+      "catalytic",
+      "lighter",
+      "fractions",
+      "immovable",
+      "inevitable",
+      "informs",
+      "accrue",
+      "refinery",
+      "tantamount",
+      "notifies"
+    ],
+    "prompt_length": 1689,
+    "category": "7211 regions of EU Member States"
+  }
+}

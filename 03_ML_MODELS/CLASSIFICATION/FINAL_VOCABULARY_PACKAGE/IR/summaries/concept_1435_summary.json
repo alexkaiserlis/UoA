@@ -1,0 +1,63 @@
+{
+  "concept_id": "1435",
+  "concept_data": {
+    "title": "engineer",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"engineer\" within EU legal and regulatory frameworks encompasses professionals engaged in the architectural and structural design of industrial projects. Engineers play a crucial role in the construction and testing of infrastructures, contributing to the mobilisation of resources across various sectors, including the midlands and southern regions. In the context of globalisation, their expertise is essential for addressing redundancies and facilitating the reintegration of workers affected by economic crises. The NACE classification system aids in the categorisation of engineering enterprises, while the European Globalisation Fund (EGF) supports adjustment measures. This discipline is vital for compliance with budgetary ceilings and for assisting in the structural analysis of projects, ensuring sound contributions to the EU's operational goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:49:08.881308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1656.39
+    },
+    "related_words": [
+      "architectural",
+      "midlands",
+      "egf",
+      "redundancies",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "engineering",
+      "mobilise",
+      "nuts",
+      "mobilisation",
+      "redundant",
+      "southern",
+      "proposes",
+      "western",
+      "division",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "eastern",
+      "labour",
+      "construction",
+      "testing",
+      "contributions",
+      "workers",
+      "crisis",
+      "complies",
+      "enterprises"
+    ],
+    "prompt_length": 1698,
+    "category": "6806 industrial structures and policy"
+  }
+}

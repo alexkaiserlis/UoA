@@ -1,0 +1,63 @@
+{
+  "concept_id": "4366",
+  "concept_data": {
+    "title": "information service",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"information service\" concept within EU legal and regulatory frameworks entails a systematic approach to documentation, critical for the integration and harmonization of data across member nations. This service is designed to provide users with a constant flow of updated information, ensuring that records are kept in a logical and organized manner. It involves the preparation and checking of documentation, which may include guidelines for various sectors such as veterinary and fishery. Independent experts and specialist laboratories contribute to this network, proposing models for effective identification and inventory management, thereby facilitating the coordination of projects and ensuring compliance with established standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:46.869861",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 179,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3074,
+      "selected_avg_freq": 1491.1466666666668
+    },
+    "related_words": [
+      "irs",
+      "referral",
+      "logical",
+      "specialist",
+      "integrate",
+      "inventory",
+      "meant",
+      "constant",
+      "critical",
+      "scheduled",
+      "laboratories",
+      "centres",
+      "record",
+      "design",
+      "differ",
+      "checking",
+      "documentation",
+      "propose",
+      "entail",
+      "keeping",
+      "harmonized",
+      "harmonization",
+      "updating",
+      "seems",
+      "written",
+      "network",
+      "life",
+      "supervision",
+      "fishery",
+      "atomic"
+    ],
+    "prompt_length": 1681,
+    "category": "3221 documentation"
+  }
+}

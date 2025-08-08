@@ -1,0 +1,63 @@
+{
+  "concept_id": "1106",
+  "concept_data": {
+    "title": "soft cheese",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Soft cheese\" refers to a category of processed agricultural produce within the EU, encompassing various types such as gorgonzola, époisses, and munster. These cheeses, often characterized by their creamy textures and unique qualities, are subject to specific legal frameworks, including Protected Designation of Origin (PDO) and Protected Geographical Indication (PGI) regulations. The coexistence of unregistered varieties, such as mozzarella and chaource, must be managed equitably to protect the reputation of traditional cheeses like valençay and kopanisti. Regulatory stipulations ensure that additives and treatments do not mislead consumers regarding the origin and qualities of these cheeses, thereby maintaining their integrity in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:58:41.110651",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 211,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2030,
+      "selected_avg_freq": 764.84
+    },
+    "related_words": [
+      "κοπανιστή",
+      "kopanisti",
+      "gorgonzola",
+      "époisses",
+      "rigotte",
+      "condrieu",
+      "mohant",
+      "camerano",
+      "munster",
+      "géromé",
+      "münster",
+      "guía",
+      "bufala",
+      "chaource",
+      "mozzarella",
+      "toma",
+      "piemontese",
+      "neufchâtel",
+      "wielkopolski",
+      "smażony",
+      "budapesti",
+      "campana",
+      "unregistered",
+      "est",
+      "flor",
+      "käse",
+      "valençay",
+      "français",
+      "ser",
+      "téliszalámi"
+    ],
+    "prompt_length": 1665,
+    "category": "6016 processed agricultural produce"
+  }
+}

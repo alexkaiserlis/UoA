@@ -1,0 +1,63 @@
+{
+  "concept_id": "4186",
+  "concept_data": {
+    "title": "self-supply",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU trade regulations, \"self-supply\" refers to the practice where establishments, particularly in remote or coastal regions, produce and distribute goods, such as processed fishery products, primarily for local consumption. This concept plays a vital role in ensuring that small producers can meet stringent health and safety standards while avoiding market distortions. By identifying and reserving specific areas for self-supply, the EU aims to support local economies, especially in islands and less accessible regions. Such measures help maintain a minimum volume of production, ensuring that local markets are supplied without excessive constraints, thus enhancing competition and sustainability in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:38:29.002016",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 22,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1744.378048780488
+    },
+    "related_words": [
+      "salting",
+      "disappearing",
+      "smoking",
+      "disappear",
+      "remoteness",
+      "isolation",
+      "coastal",
+      "vital",
+      "stringent",
+      "mark",
+      "reserved",
+      "supplying",
+      "bear",
+      "situated",
+      "distortions",
+      "play",
+      "establishments",
+      "constraints",
+      "islands",
+      "fishery",
+      "identification",
+      "placing",
+      "local",
+      "volume",
+      "role",
+      "equipment",
+      "processed",
+      "distribution",
+      "greece",
+      "structural"
+    ],
+    "prompt_length": 1631,
+    "category": "2016 trade"
+  }
+}

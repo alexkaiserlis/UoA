@@ -1,0 +1,63 @@
+{
+  "concept_id": "2184",
+  "concept_data": {
+    "title": "organization of work",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "organisation of work",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"organisation of work\" encompasses the regulatory frameworks governing working conditions within the EU, particularly in sectors such as maritime and seafaring. It embodies the principles of decent work, ensuring that seafarers, shipowners, and unions collaborate to rectify substandard conditions. The EU's commitment to modernising these frameworks is reflected in its ratifications of International Labour Organization (ILO) conventions, which urge member states to enforce standards that protect crew welfare. This includes addressing issues like fatigue, manning, and the ageing workforce. By implementing modules for adaptability and reconciliation, the EU aims to create a safer, more efficient working environment for all domains involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:23:56.896248",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 405,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 885,
+      "selected_avg_freq": 370.9533333333333
+    },
+    "related_words": [
+      "eighty",
+      "fst",
+      "fatigued",
+      "desiring",
+      "ratifications",
+      "fatigue",
+      "ecsa",
+      "privately",
+      "substandard",
+      "flies",
+      "rested",
+      "etf",
+      "shipboard",
+      "inspector",
+      "ordinarily",
+      "seagoing",
+      "embodies",
+      "manifestly",
+      "decent",
+      "pillars",
+      "belief",
+      "manning",
+      "seafarers",
+      "merchant",
+      "adaptability",
+      "ilo",
+      "domains",
+      "pillar",
+      "crew",
+      "governs"
+    ],
+    "prompt_length": 1723,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

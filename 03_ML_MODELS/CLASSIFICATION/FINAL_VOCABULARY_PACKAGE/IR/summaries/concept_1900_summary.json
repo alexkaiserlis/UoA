@@ -1,0 +1,63 @@
+{
+  "concept_id": "1900",
+  "concept_data": {
+    "title": "Mezzogiorno",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Mezzogiorno\" concept refers to the southern regions of Italy, characterized by their economic and infrastructural challenges. In EU legal and regulatory contexts, it is vital to address the inadequately developed areas, where predominant issues include inefficient agricultural practices and inadequate irrigation systems. The EU has stimulated regional policy initiatives to rationalize resource allocation, facilitating collective efforts to overcome obstacles in these regions. Programs often encounter peculiar challenges, necessitating scheduled visits and verifications to ascertain progress. The focus on hydraulic projects and the encouragement of vineyards in departments like Ardèche, Drôme, and Vaucluse exemplifies the EU's commitment to accelerating development in the Mezzogiorno, ultimately aiming to replace outdated practices with more effective, intensive strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:41:16.263091",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 291,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1382,
+      "selected_avg_freq": 676.6333333333333
+    },
+    "related_words": [
+      "inadequately",
+      "ardèche",
+      "drôme",
+      "vaucluse",
+      "bouches",
+      "connexion",
+      "stimulated",
+      "directing",
+      "languedoc",
+      "roussillon",
+      "var",
+      "predominant",
+      "inefficient",
+      "rhône",
+      "mezzogiorno",
+      "hydraulic",
+      "acceleration",
+      "encounter",
+      "intermediary",
+      "irrigation",
+      "vineyards",
+      "encouragement",
+      "rationalize",
+      "slow",
+      "peculiar",
+      "hectares",
+      "necessitate",
+      "visits",
+      "verifications",
+      "overcome"
+    ],
+    "prompt_length": 1724,
+    "category": "1616 regions and regional policy"
+  }
+}

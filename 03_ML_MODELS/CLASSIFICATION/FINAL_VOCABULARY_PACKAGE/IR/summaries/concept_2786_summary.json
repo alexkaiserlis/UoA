@@ -1,0 +1,63 @@
+{
+  "concept_id": "2786",
+  "concept_data": {
+    "title": "trade occupation",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": true,
+    "preferred_term": "sales occupation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"trade occupation,\" redirected to \"sales occupation,\" pertains to roles within the distributive trades sector, essential for the effective importation and exportation of goods across EU territories. This occupation encompasses various activities, including negotiating and concluding commercial agreements under the auspices of international conventions, such as the Geneva Convention on Customs. Sales occupations must comply with regional regulations and customs requirements, ensuring acceptance of goods and services across contracting nations. Effective integration of these roles facilitates the passage of vehicles and goods, helping organizations navigate the complexities of trade and customs, thereby promoting economic growth and cooperation among EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:30:43.908756",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 79,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 79,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1759.139240506329
+    },
+    "related_words": [
+      "douane",
+      "cpd",
+      "carnets",
+      "passage",
+      "reservations",
+      "bis",
+      "geneva",
+      "expand",
+      "deposit",
+      "auspices",
+      "secretary",
+      "applicability",
+      "road",
+      "vehicles",
+      "accept",
+      "negotiated",
+      "approve",
+      "organizations",
+      "acceptance",
+      "integration",
+      "nations",
+      "contracting",
+      "covers",
+      "instrument",
+      "effectively",
+      "importation",
+      "territories",
+      "party",
+      "help",
+      "convention"
+    ],
+    "prompt_length": 1714,
+    "category": "2036 distributive trades"
+  }
+}

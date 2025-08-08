@@ -1,0 +1,63 @@
+{
+  "concept_id": "2689",
+  "concept_data": {
+    "title": "representative market price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"representative market price\" is a crucial concept within EU regulatory frameworks, particularly in the context of agricultural pricing and trade. This price reflects a weighted average derived from various market transactions, ensuring equitable valuation across regions such as Brugge, Bielefeld, and Krefeld. It serves as a benchmark for assessing the economic viability of smaller slachterijen in areas like Lurgan and Donemana, where local variations can affect pricing. The adjustment of these prices may involve decrements based on supply fluctuations, ensuring that producers, including those in regions like Forli and Harlingen, receive fair compensation for products like lammfleisch and agneaux. The representative market price thus plays a pivotal role in maintaining market stability and fairness across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:19.495173",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 943,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 236,
+      "selected_avg_freq": 81.94666666666667
+    },
+    "related_words": [
+      "brugge",
+      "bielefeld",
+      "măźnster",
+      "carlow",
+      "norther",
+      "abbatoir",
+      "lurgan",
+      "donemana",
+      "pice",
+      "allams",
+      "weigting",
+      "boucherie",
+      "slachtlammeren",
+      "nenagh",
+      "camolin",
+      "camolins",
+      "harlingen",
+      "sluis",
+      "bodegraven",
+      "nieuwekerk",
+      "ijssel",
+      "kleinere",
+      "slachterijen",
+      "êïæüíç",
+      "óýññåò",
+      "ciney",
+      "noci",
+      "forli",
+      "mastlammfleisch",
+      "lammfleisch"
+    ],
+    "prompt_length": 1690,
+    "category": "2451 prices"
+  }
+}

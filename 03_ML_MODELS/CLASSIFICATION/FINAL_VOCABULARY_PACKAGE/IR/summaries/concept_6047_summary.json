@@ -1,0 +1,63 @@
+{
+  "concept_id": "6047",
+  "concept_data": {
+    "title": "nuclear product",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear fuel",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"nuclear product\" is redirected to \"nuclear fuel,\" which encompasses various combustible elements such as uranium and thorium. These materials are crucial for the operation of reactors, where they undergo processes that produce ionizing radiations. Regulatory frameworks, such as the CPPNM and WENRA guidelines, condition the handling and fabrication of these fuels to prevent unauthorized diversions and ensure safety. The legal competencies of member states include ensuring compliance with standards for outgoing and incoming shipments of nuclear products. Any violations, including the handling of undeclared plutonium, are punishable under EU law, highlighting the importance of rigorous oversight in the nuclear industry.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:15:05.167953",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 896,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 230,
+      "selected_avg_freq": 96.83333333333333
+    },
+    "related_words": [
+      "enusa",
+      "juzbado",
+      "uranio",
+      "fรกbrica",
+      "elementos",
+      "procedurally",
+      "thorium",
+      "ulterior",
+      "cppnm",
+      "wenra",
+      "ensreg",
+      "peers",
+      "combustibles",
+      "outgoing",
+      "carolina",
+      "radiations",
+      "habitually",
+      "tiny",
+      "characterize",
+      "unnoticed",
+      "thereinafter",
+      "wilmington",
+      "conditioned",
+      "motive",
+      "punishable",
+      "subjective",
+      "salamanca",
+      "competencies",
+      "extradition",
+      "thereupon"
+    ],
+    "prompt_length": 1736,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

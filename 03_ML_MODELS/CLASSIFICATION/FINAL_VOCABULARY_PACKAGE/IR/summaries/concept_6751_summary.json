@@ -1,0 +1,63 @@
+{
+  "concept_id": "6751",
+  "concept_data": {
+    "title": "corporate governance",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Corporate governance in the EU context refers to the framework of rules, practices, and processes by which businesses are directed and controlled. It encompasses the prerogatives of shareholders and the responsibilities of management, fostering a transparent and accountable environment. The EU has endorsed various initiatives aimed at modernising corporate governance, recognising its integral role in enhancing competitiveness and societal trust. Ongoing debates and discussions within governmental forums reflect the need for renewal and simplification of statutes governing businesses. The appointment of qualified experts to provide input on these matters is crucial for successful governance, ensuring that failures are addressed and valuable advice is integrated into future frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:40:56.085507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 222,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 34,
+      "selected_max_freq": 2015,
+      "selected_avg_freq": 890.66
+    },
+    "related_words": [
+      "prerogatives",
+      "academic",
+      "resigned",
+      "failures",
+      "modernising",
+      "modernise",
+      "debate",
+      "shareholders",
+      "valuable",
+      "corporate",
+      "governmental",
+      "enlarged",
+      "input",
+      "reflection",
+      "welcomed",
+      "foster",
+      "recognises",
+      "modern",
+      "appoint",
+      "governance",
+      "forum",
+      "enhancing",
+      "discussion",
+      "going",
+      "appointment",
+      "businesses",
+      "integral",
+      "convergence",
+      "bringing",
+      "successful"
+    ],
+    "prompt_length": 1707,
+    "category": "4006 business organisation"
+  }
+}

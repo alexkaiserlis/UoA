@@ -1,0 +1,63 @@
+{
+  "concept_id": "6200",
+  "concept_data": {
+    "title": "Tyrol",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Tyrol\" refers to a region within Austria, categorized under the EU's classification of regions of Member States. In the context of EU legal and regulatory frameworks, Tyrol is significant for its eligibility in receiving structural funds, including allocations from the European Regional Development Fund (ERDF) and the European Investment Bank (EIB). The region's programming priorities are indexed to reflect local needs, ensuring that additionality is satisfied. Tyrol's performance is reviewed through a breakdown of expenditure patterns, with partners coordinating efforts to fulfill the entire scope of approved projects. The documentation submitted must adhere to acceptable standards, adapting to inflation and other economic indicators, thereby ensuring that Tyrol remains a qualifying region for future funding opportunities.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:16:15.460766",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 148,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 148,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1801.5743243243244
+    },
+    "related_words": [
+      "tyrol",
+      "additionality",
+      "indexed",
+      "seq",
+      "erdf",
+      "eib",
+      "inflation",
+      "austrian",
+      "perspective",
+      "allocations",
+      "programming",
+      "pattern",
+      "preparing",
+      "breakdown",
+      "ground",
+      "fulfilling",
+      "qualifying",
+      "partners",
+      "priorities",
+      "reserve",
+      "reflected",
+      "indication",
+      "selected",
+      "eligibility",
+      "partnership",
+      "euro",
+      "acceptable",
+      "satisfied",
+      "treated",
+      "entire"
+    ],
+    "prompt_length": 1695,
+    "category": "7211 regions of EU Member States"
+  }
+}

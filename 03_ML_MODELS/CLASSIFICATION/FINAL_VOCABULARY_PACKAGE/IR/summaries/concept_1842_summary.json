@@ -1,0 +1,63 @@
+{
+  "concept_id": "1842",
+  "concept_data": {
+    "title": "Mauritania",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Mauritania, situated in North-West Africa, plays a significant role in political geography, particularly concerning EU legal and regulatory frameworks. The country is pivotal for oceanographic research and sustainable fisheries management, especially regarding cephalopods and demersal species. The EU's engagement with Mauritania includes agreements on the valorisation of marine resources within its Exclusive Economic Zone (EEZ), which involves longliners and trawlers. Recent reforms have aimed at redefining fishing quotas, ensuring that shipowners adhere to sustainable practices. However, issues such as unconstitutional governance and violations of rights have necessitated the reauthorization of certain agreements. The Cotonou Agreement highlights the importance of consensual mobilization in fostering economic cooperation while addressing defects in regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:28:09.971203",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 530,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 585,
+      "selected_avg_freq": 250.48
+    },
+    "related_words": [
+      "artiucle",
+      "océanographiques",
+      "mpem",
+      "cnrop",
+      "dvis",
+      "économie",
+      "oceanographic",
+      "pêches",
+      "unconstitutional",
+      "recherches",
+      "imrop",
+      "reauthorize",
+      "junta",
+      "valorisation",
+      "département",
+      "eez",
+      "allot",
+      "restart",
+      "consensual",
+      "longliners",
+      "mauritanian",
+      "pole",
+      "ministère",
+      "redefining",
+      "seiners",
+      "reforming",
+      "cephalopods",
+      "moroccan",
+      "sanitaire",
+      "demersal"
+    ],
+    "prompt_length": 1694,
+    "category": "7236 political geography"
+  }
+}

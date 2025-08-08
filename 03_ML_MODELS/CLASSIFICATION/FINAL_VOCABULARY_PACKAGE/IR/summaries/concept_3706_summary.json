@@ -1,0 +1,63 @@
+{
+  "concept_id": "3706",
+  "concept_data": {
+    "title": "transport insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Transport insurance is a critical component of EU regulatory frameworks, particularly concerning the carriage of cargo and passengers. It provides coverage for various risks associated with transportation, including liability for loss or damage to baggage and cargo. The Montreal Convention plays a significant role in unifying liability limits for air carriers, ensuring that insured parties are adequately compensated. Recent adjustments have been made to reflect inflation and operational factors, with minimum thresholds for coverage being reviewed and revised. Operators must comply with these regulations to ensure timely and sufficient protection for persons and goods during transport, thereby enhancing the overall safety of aviation services.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:16.218032",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 51,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 51,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1851.5168539325844
+    },
+    "related_words": [
+      "baggage",
+      "insured",
+      "icao",
+      "cent",
+      "accumulated",
+      "triggering",
+      "montreal",
+      "unification",
+      "cargo",
+      "carriers",
+      "passengers",
+      "aviation",
+      "inflation",
+      "aircraft",
+      "carriage",
+      "insurance",
+      "liability",
+      "adequately",
+      "corresponds",
+      "timely",
+      "factor",
+      "air",
+      "threshold",
+      "exceeded",
+      "recently",
+      "exceeding",
+      "significantly",
+      "reviewed",
+      "revised",
+      "adjusted"
+    ],
+    "prompt_length": 1663,
+    "category": "2431 insurance"
+  }
+}

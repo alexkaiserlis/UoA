@@ -1,0 +1,63 @@
+{
+  "concept_id": "8428",
+  "concept_data": {
+    "title": "organized civil society",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "civil society",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"organized civil society,\" redirected to the preferred term \"civil society,\" encompasses a rich tapestry of voluntary associations, foundations, and informal groups that engage citizens across various ages and backgrounds. In the EU legal and regulatory context, civil society plays a pivotal role in fostering democracy and addressing inequalities through intergovernmental cooperation and transnational initiatives. By assuming leadership in community engagement, these organizations mobilize volunteers, particularly youth, to enhance skills and promote solidarity. They complement governmental efforts by facilitating lifelong learning and fostering intergenerational dialogue, thereby enriching the democratic fabric of society and recognising the diverse dimensions of citizenship.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:07:49.331130",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 848,
+      "selected_avg_freq": 376.12666666666667
+    },
+    "related_words": [
+      "tsd",
+      "volunteering",
+      "volunteers",
+      "volunteer",
+      "founding",
+      "intergenerational",
+      "announce",
+      "motivation",
+      "cariforum",
+      "citizenship",
+      "ages",
+      "anniversary",
+      "leadership",
+      "inequalities",
+      "lifelong",
+      "particularities",
+      "foundations",
+      "rich",
+      "informal",
+      "youth",
+      "peer",
+      "convened",
+      "organising",
+      "realised",
+      "complements",
+      "gender",
+      "societies",
+      "assuming",
+      "intergovernmental",
+      "tenth"
+    ],
+    "prompt_length": 1750,
+    "category": "0431 politics and public safety"
+  }
+}

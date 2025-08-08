@@ -1,0 +1,63 @@
+{
+  "concept_id": "1748",
+  "concept_data": {
+    "title": "majority voting",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Majority voting is a fundamental electoral procedure within the EU framework, particularly in the context of decision-making processes. It defines the means by which actions are adopted, requiring a specified majority to ensure effective governance. This method is operational in various areas, including the allocation of resources and the creation of policies, such as those related to energy and nuclear research under the Euratom framework. The composition of voting rights often includes weighted votes, reflecting member states' contributions. In consultative contexts, majority voting facilitates the delivery of opinions and recommendations, thereby supporting the EU's objectives and priorities while allowing for the amendment of existing acts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:38:41.946337",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 88,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 88,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1955.4318181818182
+    },
+    "related_words": [
+      "ato",
+      "cce",
+      "fusion",
+      "voting",
+      "consultative",
+      "unanimously",
+      "dealing",
+      "nuclear",
+      "weighted",
+      "deliver",
+      "assisted",
+      "contributing",
+      "sixth",
+      "composition",
+      "preferential",
+      "opinions",
+      "recommended",
+      "defines",
+      "atomic",
+      "update",
+      "operational",
+      "training",
+      "priority",
+      "creation",
+      "allocation",
+      "research",
+      "adopting",
+      "fourth",
+      "actions",
+      "aspects"
+    ],
+    "prompt_length": 1665,
+    "category": "0416 electoral procedure and voting"
+  }
+}

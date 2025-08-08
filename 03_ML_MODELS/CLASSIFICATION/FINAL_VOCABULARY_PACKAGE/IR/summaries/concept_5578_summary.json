@@ -1,0 +1,63 @@
+{
+  "concept_id": "5578",
+  "concept_data": {
+    "title": "research expenditure (EU)",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Research expenditure (EU) refers to financial investments allocated for scientific and technological advancements within the European Union framework. These expenditures are crucial for intensification and specialization in various fields, including molecular sciences and diagnostics for diseases such as bluetongue and rabies. The EU emphasizes collaboration among member states to standardise methodologies and characterisation of reagents and isotopes, which are essential for studying effluents and their impacts on health. Additionally, research funding addresses impediments in addressing epizootics and supports workshops aimed at enhancing knowledge on viruses and their flux in animal populations. Incremented funding is vital for developing innovative solutions, ensuring that the arsenal of scientific tools remains rich and effective in confronting emerging challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:15.541288",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 467,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 605,
+      "selected_avg_freq": 271.3466666666667
+    },
+    "related_words": [
+      "leucoses",
+      "effluents",
+      "incremented",
+      "petten",
+      "arsenal",
+      "pasturage",
+      "hfr",
+      "marek",
+      "harder",
+      "flux",
+      "happens",
+      "irreplaceable",
+      "isotopes",
+      "reagents",
+      "impediment",
+      "slower",
+      "reactors",
+      "epizootics",
+      "leucosis",
+      "teschen",
+      "reactor",
+      "intensification",
+      "specialization",
+      "characterisation",
+      "workshop",
+      "collaborating",
+      "standardising",
+      "sciences",
+      "molecular",
+      "confronted"
+    ],
+    "prompt_length": 1710,
+    "category": "1021 EU finance"
+  }
+}

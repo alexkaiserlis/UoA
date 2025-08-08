@@ -1,0 +1,63 @@
+{
+  "concept_id": "5472",
+  "concept_data": {
+    "title": "Community support framework",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Community support framework\" (CSF) is a pivotal EU regulatory mechanism aimed at fostering regional development and cohesion across less prosperous areas, such as Apulia, Basilicata, and Sicily. It is designed to address the severity of unemployment and economic decline in regions like Calabria and Campania through targeted initiatives. The CSF outlines the programming of financial allocations from the European Regional Development Fund (ERDF) and the European Social Fund (ESF), ensuring additionality and transparency in the use of resources. By indexing yearly allocations and employing a weighted breakdown of funds, the framework supports sustainable growth and development, aligning with the EU's intent for prosperity and cohesion across all member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:14.279849",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 348,
+      "requested_words": 150,
+      "min_frequency_found": 36,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 36,
+      "selected_max_freq": 1176,
+      "selected_avg_freq": 681.4733333333334
+    },
+    "related_words": [
+      "apulia",
+      "basilicata",
+      "prosperity",
+      "molise",
+      "campania",
+      "fifg",
+      "calabria",
+      "sicily",
+      "devoted",
+      "sardinia",
+      "severity",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "subparagraphs",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "unemployment",
+      "eib",
+      "declining",
+      "appropriately",
+      "inflation",
+      "mention",
+      "perspective",
+      "unused",
+      "contents"
+    ],
+    "prompt_length": 1700,
+    "category": "1616 regions and regional policy"
+  }
+}

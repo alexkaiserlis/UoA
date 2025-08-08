@@ -1,0 +1,63 @@
+{
+  "concept_id": "5247",
+  "concept_data": {
+    "title": "Autonomous Province of Trento",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Autonomous Province of Trento\" is a significant regional entity within the EU, recognized for its unique provincial status and regulatory frameworks. It plays a pivotal role in the programming of agricultural policies, particularly concerning the cultivation of peaches, pears, and apples, which are protected under PDO and PGI designations. The province benefits from allocations through various EU funds, including the ERDF and ESF, aimed at fostering economic development and addressing inflation. Trento's committees are tasked with preparing detailed specifications for projects, ensuring compliance with EU directives. The province's commitment to additionality and encouragement of sustainable practices reflects its strategic perspective in regional development and opposition to non-compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:51:40.893936",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 337,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1229,
+      "selected_avg_freq": 694.9733333333334
+    },
+    "related_words": [
+      "equest",
+      "trote",
+      "garda",
+      "notfied",
+      "provincial",
+      "trentino",
+      "trento",
+      "commitee",
+      "plantations",
+      "encouragement",
+      "peaches",
+      "additionality",
+      "indexed",
+      "pears",
+      "pdo",
+      "esf",
+      "apples",
+      "male",
+      "pgi",
+      "del",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "additions",
+      "favoured",
+      "eib",
+      "inflation",
+      "opposition",
+      "province"
+    ],
+    "prompt_length": 1688,
+    "category": "7211 regions of EU Member States"
+  }
+}

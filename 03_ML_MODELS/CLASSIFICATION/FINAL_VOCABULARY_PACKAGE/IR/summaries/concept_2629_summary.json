@@ -1,0 +1,63 @@
+{
+  "concept_id": "2629",
+  "concept_data": {
+    "title": "decision-making process",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "decision-making",
+    "relation_type": "USE"
+  },
+  "summary": "The \"decision-making process\" in the context of EU legal and regulatory frameworks refers to the structured approach through which institutions collectively devise and ratify policies. This process is crucial for ensuring the legitimacy of decisions that impact member states, particularly in areas like CFSP (Common Foreign and Security Policy) and environmental regulations concerning hazardous chemicals and pesticides. It involves negotiations where contributors, such as member states, participate in voting, often requiring qualified majority or consensus. The implications of these decisions can be strategic, affecting military and peace efforts, as seen in forums addressing issues like Bosnia and Herzegovina. Thus, the decision-making process is essential for effective governance and the elaboration of policies that protect citizens and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:28.162961",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 232,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 1847,
+      "selected_avg_freq": 862.9066666666666
+    },
+    "related_words": [
+      "legitimacy",
+      "devote",
+      "bih",
+      "votes",
+      "nato",
+      "psc",
+      "contributors",
+      "rotterdam",
+      "voting",
+      "nice",
+      "collectively",
+      "copenhagen",
+      "weighting",
+      "pesticides",
+      "elaboration",
+      "berlin",
+      "participated",
+      "peace",
+      "environmentally",
+      "exercises",
+      "hazardous",
+      "harm",
+      "declare",
+      "recalled",
+      "chemicals",
+      "negotiating",
+      "negotiation",
+      "forum",
+      "bosnia",
+      "herzegovina"
+    ],
+    "prompt_length": 1718,
+    "category": "4021 management"
+  }
+}

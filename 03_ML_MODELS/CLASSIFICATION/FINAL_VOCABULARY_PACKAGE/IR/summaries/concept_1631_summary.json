@@ -1,0 +1,63 @@
+{
+  "concept_id": "1631",
+  "concept_data": {
+    "title": "free trade",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "free movement of goods",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"free trade,\" redirected to \"free movement of goods,\" underpins EU legal frameworks governing international trade. This principle facilitates the accession of member states to a unified market, promoting deregulation and reducing bureaucratic barriers. It uniquely addresses peculiarities in trade agreements, ensuring that goods, including prepacked items and agricultural products like hydroponics and monogastric feeds, can circulate freely. The EU's regulatory approach includes monitoring biodegradation and the use of chelating agents in fertilizers, which are vital for sustainable agriculture. By finalizing agreements that enhance access to markets, the EU aims to prevent misidentification of products and promote commercial integrity across borders.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:24:06.634410",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1828,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 55,
+      "selected_avg_freq": 23.38
+    },
+    "related_words": [
+      "ruanda",
+      "inlcuded",
+      "retrograde",
+      "agreeement",
+      "accesssion",
+      "lpt",
+      "morality",
+      "bureaucracy",
+      "cidrerie",
+      "ruwet",
+      "prepackage",
+      "chelates",
+      "generalise",
+      "misidentification",
+      "skal",
+      "foliar",
+      "iminodisuccinic",
+      "idha",
+      "sprays",
+      "hydroponics",
+      "fertigation",
+      "biokultura",
+      "monogastric",
+      "finalizing",
+      "reissue",
+      "gweendore",
+      "ballinakill",
+      "orgaization",
+      "prepacking",
+      "chelating"
+    ],
+    "prompt_length": 1768,
+    "category": "2021 international trade"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1815",
+  "concept_data": {
+    "title": "trading margin",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"trading margin\" in EU legal and regulatory contexts refers to the difference between the cost of acquiring goods and their selling price, serving as a critical metric for financial assessment. This margin is often scrutinized during consultaion processes to ensure compliance with accounting standards. In the context of international trade, entities like bico and ntn may face challenges regarding warranted margins, particularly in markets such as Singaporean and Osaka. The regulation of trading margins can lead to controversy, especially when unchallenged practices are identified. As firms like Seiko and Koyo navigate these regulations, they must ensure that their accounting practices are levelled and transparent, avoiding pitfalls associated with non-compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:54.620421",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 897,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 157,
+      "selected_avg_freq": 56.92666666666667
+    },
+    "related_words": [
+      "consultaion",
+      "bico",
+      "warrented",
+      "wai",
+      "initio",
+      "barreggio",
+      "inoue",
+      "jikuuke",
+      "smt",
+      "nankai",
+      "isc",
+      "kitanihon",
+      "ashihetsu",
+      "matsuo",
+      "izumoto",
+      "wtw",
+      "wada",
+      "tottori",
+      "yamakei",
+      "seisakusho",
+      "tok",
+      "fiedler",
+      "seevetal",
+      "findling",
+      "unchallenged",
+      "ferroboron",
+      "yahagi",
+      "ntn",
+      "toyo",
+      "waelzlager"
+    ],
+    "prompt_length": 1604,
+    "category": "4026 accounting"
+  }
+}

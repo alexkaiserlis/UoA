@@ -1,0 +1,63 @@
+{
+  "concept_id": "921",
+  "concept_data": {
+    "title": "radioactive risk",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear accident",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"radioactive risk,\" redirected to \"nuclear accident,\" encompasses the potential hazards associated with nuclear facilities and the release of radionuclides. In EU regulatory frameworks, the focus is on radioprotection measures to mitigate risks to consumers and the environment. Following incidents like Fukushima, the EU has emphasized the importance of decommissioning practices and monitoring of isotopes, such as radiocaesium, to ensure safety. Regulatory bodies, including the IAEA, set maxima for permissible contamination levels, while member states, including prefectures like Niigata and Yamagata, have pledged to enhance safety protocols. The EU's approach aims to reassure the public by utilising comprehensive risk assessments and promoting transparency in nuclear operations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:05.994215",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1103,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 205,
+      "selected_avg_freq": 91.20666666666666
+    },
+    "related_words": [
+      "cunsumers",
+      "radioprotection",
+      "vailable",
+      "shizuoka",
+      "niigata",
+      "yamagata",
+      "mitigates",
+      "radiocaesium",
+      "ced",
+      "impots",
+      "contaminating",
+      "iwate",
+      "becquerel",
+      "ecurie",
+      "precedence",
+      "kozloduy",
+      "pledging",
+      "maxima",
+      "wooded",
+      "style",
+      "utilising",
+      "shiitake",
+      "reassuring",
+      "fern",
+      "cved",
+      "fukushima",
+      "ebrd",
+      "administrator",
+      "speeded",
+      "lignite"
+    ],
+    "prompt_length": 1741,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

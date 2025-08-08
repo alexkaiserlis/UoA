@@ -1,0 +1,63 @@
+{
+  "concept_id": "5643",
+  "concept_data": {
+    "title": "cohesion financial instrument",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "Cohesion Fund",
+    "relation_type": "USE"
+  },
+  "summary": "The \"cohesion financial instrument,\" commonly referred to as the \"Cohesion Fund,\" plays a pivotal role in the EU's financial framework, aimed at bolstering cohesiveness among member states. This fund intervenes to counterbalance regional disparities, particularly in areas facing backwardness or marginalisation. It simplifies access to financing for intermodal projects, thereby enhancing attractiveness and facilitating desegregation. The fund's enduring purpose is to leverage resources effectively, addressing impediments to development. By outlining thematic priorities, it modifies funding allocations to ensure maximal impact. Decommitment of funds is managed to prevent bankruptcies and breakdowns in project execution, while capping financial exposure mitigates risks associated with windfall gains.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:14:08.984359",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1160,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 196,
+      "selected_avg_freq": 93.87333333333333
+    },
+    "related_words": [
+      "reflow",
+      "elasticities",
+      "enduring",
+      "esm",
+      "wants",
+      "intervenes",
+      "desegregation",
+      "financier",
+      "cohesiveness",
+      "decommitment",
+      "hitting",
+      "outlying",
+      "eif",
+      "intercreditor",
+      "bankruptcies",
+      "refocusing",
+      "backwardness",
+      "capping",
+      "manageable",
+      "intermodal",
+      "linkage",
+      "ispa",
+      "windfall",
+      "restrain",
+      "outlining",
+      "caps",
+      "marginalised",
+      "fault",
+      "impediment",
+      "gni"
+    ],
+    "prompt_length": 1740,
+    "category": "1021 EU finance"
+  }
+}

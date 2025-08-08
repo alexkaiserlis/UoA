@@ -1,0 +1,63 @@
+{
+  "concept_id": "1444",
+  "concept_data": {
+    "title": "school inspection",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"school inspection\" within the EU regulatory framework pertains to the administrative oversight of educational institutions, ensuring conformity with established standards. School inspections are vital for assessing the quality of education and the effectiveness of teaching units. In Italy, for instance, the province of Napoli has implemented specific guidelines to enhance the inspection process, which includes the evaluation of educational results and the relevance of curricula. These inspections are carried out in relation to directives that protect the rights of students and ensure their health and safety in educational environments. Consequently, authorities are notified of any non-compliance, leading to necessary actions for improvement.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:32:27.086300",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 84,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 84,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2065.3809523809523
+    },
+    "related_words": [
+      "napoli",
+      "bluetongue",
+      "deletion",
+      "epidemiological",
+      "province",
+      "virus",
+      "eradication",
+      "survey",
+      "movements",
+      "evolution",
+      "zones",
+      "disease",
+      "circulation",
+      "deleted",
+      "units",
+      "days",
+      "surveillance",
+      "chain",
+      "italian",
+      "animals",
+      "clear",
+      "italy",
+      "animal",
+      "conformity",
+      "consequence",
+      "food",
+      "four",
+      "relation",
+      "standing",
+      "health"
+    ],
+    "prompt_length": 1668,
+    "category": "3216 organisation of teaching"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2732",
+  "concept_data": {
+    "title": "surimi",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "fish product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"surimi\" is classified under the broader category of \"fish product,\" serving as a significant foodstuff derived from various fish species, including those from the istiophoridae and carcharhinidae families. This product undergoes biotransformation processes to enhance its texture and flavor, often incorporating additives like carminic and curcumin for color and appeal. Surimi can be enriched with bioressources such as riboflavins and anthocyanins, contributing to its nutritional profile. Its anatomy is crucial for ensuring quality and safety, with regulations addressing potential contaminants, including uninfected roe and polyphosphates. As a redirect, \"surimi\" aligns cohesively with the preferred term \"fish product,\" emphasizing its role in the EU food market.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:56:14.235172",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1557,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 52,
+      "selected_avg_freq": 21.613333333333333
+    },
+    "related_words": [
+      "anatomy",
+      "sailfish",
+      "spearfish",
+      "istiophoridae",
+      "hexanchus",
+      "griseus",
+      "cetorhinus",
+      "alopiidae",
+      "rhincodon",
+      "typus",
+      "carcharhinidae",
+      "sphyrnidae",
+      "isuridae",
+      "phú",
+      "quốc",
+      "astico",
+      "uninfected",
+      "presumably",
+      "particuluar",
+      "virute",
+      "paratyphi",
+      "cohesively",
+      "bitterness",
+      "garniture",
+      "ornamentation",
+      "curcumin",
+      "carotenal",
+      "betanin",
+      "anthocyanins",
+      "maximus"
+    ],
+    "prompt_length": 1733,
+    "category": "6026 foodstuff"
+  }
+}

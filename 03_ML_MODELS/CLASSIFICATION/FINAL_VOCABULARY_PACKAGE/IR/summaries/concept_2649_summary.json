@@ -1,0 +1,63 @@
+{
+  "concept_id": "2649",
+  "concept_data": {
+    "title": "guide price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"guide price\" within EU legal and regulatory frameworks pertains to a harmonised pricing mechanism aimed at ensuring fair market conditions for various supplies, including seafood like anchovies, monkfish, and sardines. This pricing structure is crucial for effecting realignments in the market, particularly during periods of accession or reforming policies. Guide prices help maintain freshness and quality standards for landed products such as mackerel and hake, while also addressing unwarranted fluctuations. By providing a baseline, they assist in the presentations of prices across genera, including crabs and squid, thus facilitating transparent trading practices in slaughterhouses and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:39:43.082571",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 591,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 469,
+      "selected_avg_freq": 216.84666666666666
+    },
+    "related_words": [
+      "harmonoius",
+      "accesion",
+      "suupplies",
+      "ist",
+      "engraulis",
+      "patagonica",
+      "monkfish",
+      "chariman",
+      "albacares",
+      "anchovies",
+      "megrim",
+      "quid",
+      "crabs",
+      "loligo",
+      "bream",
+      "pilchardus",
+      "vinification",
+      "effecting",
+      "euthynnus",
+      "sardina",
+      "reforming",
+      "lobsters",
+      "markedly",
+      "squid",
+      "freshness",
+      "ray",
+      "fin",
+      "hake",
+      "distant",
+      "thunnus"
+    ],
+    "prompt_length": 1647,
+    "category": "2451 prices"
+  }
+}

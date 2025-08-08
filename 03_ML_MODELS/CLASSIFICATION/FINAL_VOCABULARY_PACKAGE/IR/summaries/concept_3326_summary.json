@@ -1,0 +1,63 @@
+{
+  "concept_id": "3326",
+  "concept_data": {
+    "title": "geographical distribution",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"geographical distribution\" in EU economic analysis pertains to the allocation and assessment of resources across various regions. This includes detailing the distribution of income, gross national income (GNI), and gross national product (GNP) among member states. The harmonisation of data collection methods is crucial for accurate calculation and updating of economic indicators. For instance, the distribution of veterinary resources, such as vaccines for foot-and-mouth disease, requires checks on strains and subtypes to ensure efficacy. Furthermore, the compilation of accounts from diverse regions, including Asia and Africa, aids in clarifying economic disparities and forwarding equitable policies. This concept is essential for informed decision-making and resource management within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:40.509024",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 148,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 148,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1762.5405405405406
+    },
+    "related_words": [
+      "shamir",
+      "manisa",
+      "sat",
+      "gni",
+      "gnp",
+      "superseding",
+      "antigens",
+      "subtypes",
+      "antigen",
+      "detailing",
+      "iraq",
+      "contractor",
+      "iran",
+      "esa",
+      "forwarding",
+      "vaccines",
+      "strains",
+      "compilation",
+      "asia",
+      "resource",
+      "malaysia",
+      "southern",
+      "foot",
+      "mouth",
+      "virus",
+      "purchased",
+      "reserves",
+      "gross",
+      "banks",
+      "stored"
+    ],
+    "prompt_length": 1641,
+    "category": "1631 economic analysis"
+  }
+}

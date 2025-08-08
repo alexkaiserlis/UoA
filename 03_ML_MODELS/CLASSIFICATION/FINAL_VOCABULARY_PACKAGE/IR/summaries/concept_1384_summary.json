@@ -1,0 +1,63 @@
+{
+  "concept_id": "1384",
+  "concept_data": {
+    "title": "service industry",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"service industry\" encompasses a diverse array of sectors within the EU, characterized by its intensive labour requirements and significant contributions to national income. Regulatory frameworks, such as NACE classifications, enable systematic reporting and aggregation of data, facilitating accurate calculations of economic flows. Eurostat and the ECB provide periodicity in updates, ensuring that statistics reflect current conditions across member states, including Slovakia, Malta, Slovenia, and Bulgaria. Authorising institutions compile reports that break down service industry performance, with VAT implications and indicators of equality in access. This aggregation of data supports informed decision-making and policy revisions, enhancing the overall economic landscape of the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:39:32.435429",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 199,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 34,
+      "selected_max_freq": 2756,
+      "selected_avg_freq": 1332.5933333333332
+    },
+    "related_words": [
+      "aggregates",
+      "periodicity",
+      "portfolio",
+      "domains",
+      "aggregation",
+      "nace",
+      "compilation",
+      "acceding",
+      "avail",
+      "trial",
+      "equality",
+      "calculations",
+      "intensive",
+      "ecb",
+      "institutional",
+      "indicators",
+      "quarterly",
+      "eurostat",
+      "vat",
+      "accuracy",
+      "wishing",
+      "systematic",
+      "facility",
+      "enables",
+      "breakdown",
+      "flows",
+      "labour",
+      "slovakia",
+      "accounts",
+      "resulted"
+    ],
+    "prompt_length": 1670,
+    "category": "6846 miscellaneous industries"
+  }
+}

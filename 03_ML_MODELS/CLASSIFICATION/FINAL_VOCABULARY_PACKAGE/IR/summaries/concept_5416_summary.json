@@ -1,0 +1,26 @@
+{
+  "concept_id": "5416",
+  "concept_data": {
+    "title": "claim for damages",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "civil liability proceedings",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"claim for damages\" pertains to civil liability proceedings within the EU legal framework. It involves a party seeking compensation for harm or loss caused by another's wrongful act or negligence. In civil liability proceedings, the claimant must establish the defendant's fault, causation, and the extent of damages incurred. This concept is crucial for ensuring justice and accountability, as it provides a mechanism for victims to seek redress. The term \"claim for damages\" redirects to \"civil liability proceedings,\" highlighting the procedural context in which such claims are adjudicated, emphasizing the importance of legal remedies in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:33:50.212216",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1211,
+    "category": "1221 justice"
+  }
+}

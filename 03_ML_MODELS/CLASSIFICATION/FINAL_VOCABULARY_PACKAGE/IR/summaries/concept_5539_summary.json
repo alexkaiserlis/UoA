@@ -1,0 +1,63 @@
+{
+  "concept_id": "5539",
+  "concept_data": {
+    "title": "fourth resource",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "GNP contribution",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"fourth resource\" is a redirect to \"GNP contribution,\" which plays a crucial role in EU finance. This concept presupposes the aggregate calculation of Gross National Product (GNP) contributions from member states, which are essential for fiscal planning and budgetary allocations. The GNP contribution, often expressed in twelfths, serves as a tool for ensuring comparability and reliability in financial reporting. It requires member states to cooperate closely, adhering to definitions and constraints set by the European Statistical Authority (ESA). The unprecedented nature of these contributions can create unforeseen strains on economies, necessitating a formal schedule for transmission and compilation of data by auditors to reinforce representation and coverage.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:12:54.485035",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 200,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 2452,
+      "selected_avg_freq": 1071.5866666666666
+    },
+    "related_words": [
+      "twelfths",
+      "gnpmp",
+      "unreasonably",
+      "gni",
+      "representativity",
+      "unprecedented",
+      "presupposes",
+      "esa",
+      "postponement",
+      "unforeseen",
+      "strain",
+      "compilation",
+      "resource",
+      "bases",
+      "aggregate",
+      "cash",
+      "internationally",
+      "fiscal",
+      "decides",
+      "auditors",
+      "transmit",
+      "tool",
+      "economies",
+      "coverage",
+      "vat",
+      "comparability",
+      "reinforce",
+      "reliability",
+      "representation",
+      "wishing"
+    ],
+    "prompt_length": 1732,
+    "category": "1021 EU finance"
+  }
+}

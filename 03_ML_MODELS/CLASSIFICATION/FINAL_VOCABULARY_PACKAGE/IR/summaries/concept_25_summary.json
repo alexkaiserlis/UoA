@@ -1,0 +1,63 @@
+{
+  "concept_id": "25",
+  "concept_data": {
+    "title": "Commonwealth",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"Commonwealth\" refers to a political association of member states that share historical ties, often linked to the former British Empire. In the context of EU legal and regulatory documents, the Commonwealth's relationship with territories such as Dominica, Martinique, and Guadeloupe is significant, particularly concerning fishing rights and jurisdiction over coastal waters. The European Union's regulatory framework establishes agreements that negotiate reciprocal fishing rights, ensuring that fishermen from member states can operate within these zones. The Council and Parliament often deliberate on proposals that guarantee economic interests and sovereignty over these waters, culminating in official regulations that are published in the EU Journal.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:58:51.501110",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 47,
+      "requested_words": 150,
+      "min_frequency_found": 28,
+      "max_frequency_found": 4108,
+      "selected_words": 47,
+      "selected_min_freq": 28,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1723.0425531914893
+    },
+    "related_words": [
+      "dominica",
+      "commisison",
+      "commonwealth",
+      "martinique",
+      "guadeloupe",
+      "sovereignty",
+      "fishermen",
+      "exercises",
+      "coast",
+      "initialled",
+      "reciprocal",
+      "waters",
+      "jurisdiction",
+      "departments",
+      "fishing",
+      "zone",
+      "off",
+      "possibilities",
+      "negotiated",
+      "fisheries",
+      "approve",
+      "fishery",
+      "guarantees",
+      "french",
+      "conclusion",
+      "government",
+      "interest",
+      "over",
+      "well",
+      "agreement"
+    ],
+    "prompt_length": 1663,
+    "category": "7621 world organisations"
+  }
+}

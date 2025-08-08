@@ -1,0 +1,63 @@
+{
+  "concept_id": "822",
+  "concept_data": {
+    "title": "trust company",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"trust company\" within the EU legal framework refers to a fiduciaria societă that performs various financial services, including managing assets and executing trades on behalf of clients. These entities are subject to rigorous regulatory scrutiny, with officials empowered to conduct enquiries into their operations. Trust companies must maintain secrecy regarding their clients' affairs, yet they are obligated to disclose certain records and papers during investigations. Negligently omitting information can lead to fines and penalties. Headquarters often reside in financial hubs like Milan or Rome, where they organize their operations while adhering to the principles of fides and transparency, compelling compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:54.110456",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 181,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2748,
+      "selected_avg_freq": 950.68
+    },
+    "related_words": [
+      "vouel",
+      "corroborative",
+      "vittor",
+      "pisani",
+      "principals",
+      "unione",
+      "fiduciaria",
+      "societă",
+      "presuming",
+      "fides",
+      "negligently",
+      "performs",
+      "compel",
+      "secrets",
+      "papers",
+      "unfounded",
+      "enquiry",
+      "enquiries",
+      "intentionally",
+      "trades",
+      "fines",
+      "disclose",
+      "headquarters",
+      "secrecy",
+      "milan",
+      "investigating",
+      "books",
+      "empower",
+      "objected",
+      "rome"
+    ],
+    "prompt_length": 1666,
+    "category": "4011 business classification"
+  }
+}

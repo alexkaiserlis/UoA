@@ -1,0 +1,63 @@
+{
+  "concept_id": "97",
+  "concept_data": {
+    "title": "temporary import",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "temporary admission",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"temporary import,\" redirected to \"temporary admission,\" pertains to the EU's 2011 tariff policy, facilitating the entry of goods for specific events, such as the Olympic and Paralympic Games or international racecourses in locations like Kentucky and Sydney. Under stringent regulations, items may be admitted without full customs duties, provided they are re-exported post-event, thereby commemorating significant occasions like the Melbourne Cup or the Atlanta Olympics. This legal framework ensures responsible management of goods, promoting commercial activities while safeguarding EU interests. Temporary admission is crucial for sectors like horticulture and eventing, enhancing cultural and economic exchanges across borders.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:08:38.872985",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1381,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 48,
+      "selected_avg_freq": 20.80666666666667
+    },
+    "related_words": [
+      "memo",
+      "iers",
+      "reponsible",
+      "tringent",
+      "olympiad",
+      "eventing",
+      "retrograde",
+      "atlanta",
+      "racecourses",
+      "stomatis",
+      "cearรก",
+      "badu",
+      "mulgrave",
+      "strait",
+      "racetrack",
+      "arlington",
+      "churchill",
+      "kentucky",
+      "nebraska",
+      "apperance",
+      "douane",
+      "cpd",
+      "sergipe",
+      "monterrey",
+      "paralympics",
+      "tare",
+      "horticuluture",
+      "caen",
+      "orne",
+      "sartilly"
+    ],
+    "prompt_length": 1705,
+    "category": "2011 tariff policy"
+  }
+}

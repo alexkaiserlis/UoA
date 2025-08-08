@@ -1,0 +1,63 @@
+{
+  "concept_id": "3589",
+  "concept_data": {
+    "title": "statesman",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "political figure",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"statesman\" is redirected to \"political figure,\" emphasizing the role of individuals in leadership positions within governance. Political figures are pivotal in addressing issues such as repression and violations of democratic principles, particularly in regions like Belarus and Moldova. The EU's Common Foreign and Security Policy (CFSP) often involves restrictive measures against entities and officials linked to oppressive regimes, including freezing assets and travel restrictions. These actions aim to support opposition movements and restore democratic society. By encouraging dialogue and reaching settlements, the EU seeks to lift restrictions while maintaining oversight on political affairs and ensuring compliance with legal frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:05:37.023043",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 140,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 140,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1690.6571428571428
+    },
+    "related_words": [
+      "script",
+      "transnistrian",
+      "reapply",
+      "lukashenko",
+      "leadership",
+      "latin",
+      "schools",
+      "repression",
+      "restoring",
+      "lift",
+      "moldova",
+      "violations",
+      "belarus",
+      "addressing",
+      "freezing",
+      "opposition",
+      "travel",
+      "conflict",
+      "reaching",
+      "settlement",
+      "president",
+      "officials",
+      "assets",
+      "society",
+      "cfsp",
+      "renewed",
+      "keeping",
+      "benefiting",
+      "affairs",
+      "entities"
+    ],
+    "prompt_length": 1725,
+    "category": "0431 politics and public safety"
+  }
+}

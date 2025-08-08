@@ -1,0 +1,63 @@
+{
+  "concept_id": "5421",
+  "concept_data": {
+    "title": "administration of the Institutions",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"administration of the Institutions\" encompasses the structured management and operational frameworks of EU bodies, including the recruitment of personnel and the formalised processes for appointments and emoluments. This tripartite system underlines the specificity of roles within the European civil service, where probationers are integrated into diverse occupations. The administration also entails delegating responsibilities to coordinators and directors, ensuring that inequalities in salaries and pensions are addressed. Moreover, it involves interpreting regulations that entitle employees to privileges and immunities, while assisting in the design of career paths. The administration's foundation is crucial for coping with evolving challenges and reformed structures within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:44.601434",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 428,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 743,
+      "selected_avg_freq": 316.18666666666667
+    },
+    "related_words": [
+      "iaa",
+      "probationer",
+      "probationary",
+      "laissez",
+      "passer",
+      "alle",
+      "secretarial",
+      "formalised",
+      "recruited",
+      "careers",
+      "translating",
+      "characterise",
+      "delegating",
+      "underline",
+      "tripartite",
+      "entitle",
+      "appointments",
+      "inequalities",
+      "deputy",
+      "emoluments",
+      "interpreting",
+      "agreeing",
+      "reformed",
+      "occupations",
+      "anticipate",
+      "delegations",
+      "coordinator",
+      "organs",
+      "diplomas",
+      "salaries"
+    ],
+    "prompt_length": 1758,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

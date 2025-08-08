@@ -1,0 +1,63 @@
+{
+  "concept_id": "2766",
+  "concept_data": {
+    "title": "metallurgical product",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "metal product",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"metallurgical product,\" categorized under iron, steel, and other metal industries, is officially redirected to the preferred term \"metal product\" within EU legal and regulatory frameworks. This encompasses a wide range of items, including wearparts and warparts, essential in various applications such as kraftradteile and bicycle manufacturing. Notably, companies like Thyssen and Kobe produce specialized metallurgical products, which are crucial for industries in regions like Marietta and Pittsburg. The regulation of these products often involves standards set by fachverband organizations, ensuring compliance with economic and safety norms. The diverse applications of these products, from billet to lath, highlight their significance in the EU market, where they predominate in sectors requiring high-quality materials.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:39.579641",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1466,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 53,
+      "selected_avg_freq": 16.846666666666668
+    },
+    "related_words": [
+      "fachverband",
+      "fahrrad",
+      "kraftradteile",
+      "sils",
+      "loo",
+      "froendenberg",
+      "wippermann",
+      "hagen",
+      "roadster",
+      "transformados",
+      "siderúrgicos",
+      "siderurgicos",
+      "ptas",
+      "calcu",
+      "lated",
+      "económico",
+      "măštaux",
+      "ferreux",
+      "cezus",
+      "schmiedewerke",
+      "thyssen",
+      "kobe",
+      "marietta",
+      "angeles",
+      "rmi",
+      "niles",
+      "ohio",
+      "teledyne",
+      "allvac",
+      "monroe"
+    ],
+    "prompt_length": 1702,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

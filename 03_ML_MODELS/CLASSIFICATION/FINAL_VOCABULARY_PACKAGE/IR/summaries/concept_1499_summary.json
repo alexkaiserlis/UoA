@@ -1,0 +1,63 @@
+{
+  "concept_id": "1499",
+  "concept_data": {
+    "title": "iodine",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Iodine is a chemical element widely recognized for its role as a preservative and additive in various feedingstuffs. In the context of EU legal and regulatory frameworks, iodine is codified under specific directives that provide a basis for its authorized use. The measures concerning iodine are regularly amended to account for new scientific knowledge and advances in the field. These provisions aim to prevent unfavourable effects on certain species and ensure the safety and efficacy of iodine content in products. The last amendment, adopted in November, reflects the standing opinion of experts and emphasizes the importance of technical testing to support its use in the European Communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:48.512229",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2172.935483870968
+    },
+    "related_words": [
+      "methylpropionic",
+      "iodine",
+      "preservative",
+      "tested",
+      "additives",
+      "acid",
+      "unfavourable",
+      "feedingstuffs",
+      "advances",
+      "widely",
+      "codified",
+      "advisable",
+      "knowledge",
+      "species",
+      "gained",
+      "authorized",
+      "regular",
+      "content",
+      "appears",
+      "scientific",
+      "annexes",
+      "amendment",
+      "effects",
+      "experience",
+      "standing",
+      "prevent",
+      "addition",
+      "technical",
+      "directive",
+      "last"
+    ],
+    "prompt_length": 1645,
+    "category": "6811 chemistry"
+  }
+}

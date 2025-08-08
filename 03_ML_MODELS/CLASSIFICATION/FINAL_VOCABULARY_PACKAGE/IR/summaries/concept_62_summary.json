@@ -1,0 +1,63 @@
+{
+  "concept_id": "62",
+  "concept_data": {
+    "title": "consolidated account",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"consolidated account\" refers to a financial statement that aggregates the financial data of a parent company and its subsidiaries, ensuring compliance with IFRS standards. This practice is crucial for enhancing creditworthiness and solvency assessments, particularly in the context of EU regulatory frameworks. By consolidating accounts, practitioners can illustrate the overall financial health of a group, thus relieving concerns about conflicts of interest and enhancing oversight. This approach is modernised and obliging, fostering reciprocity among member states. It also aids in the auditing process, ensuring that immaterial discrepancies do not preclude accurate financial governance, thereby reinforcing trust in financial reporting.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:32:54.724721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 387,
+      "selected_avg_freq": 193.06666666666666
+    },
+    "related_words": [
+      "gab",
+      "reschedules",
+      "egaob",
+      "smus",
+      "abu",
+      "dhabi",
+      "outwith",
+      "disapply",
+      "cayman",
+      "basle",
+      "bermuda",
+      "ministries",
+      "relieving",
+      "borrow",
+      "modernised",
+      "creditworthiness",
+      "rarely",
+      "boosting",
+      "relieved",
+      "fertilizer",
+      "fluid",
+      "dubai",
+      "ifrs",
+      "solvency",
+      "guernsey",
+      "jersey",
+      "immaterial",
+      "precluded",
+      "ordination",
+      "extensively"
+    ],
+    "prompt_length": 1677,
+    "category": "4026 accounting"
+  }
+}

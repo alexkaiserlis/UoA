@@ -1,0 +1,63 @@
+{
+  "concept_id": "4286",
+  "concept_data": {
+    "title": "safety stock",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "minimum stock",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory frameworks, \"safety stock,\" redirected to \"minimum stock,\" refers to the essential stockpiles maintained to mitigate scarcety and ensure continuity in supply chains across various territories. This concept is particularly relevant in sectors like fossil fuels and coking, where interruptions can lead to unprofitable outcomes. Minimum stock arrangements are crucial for skilled departments managing resources, such as coalfields in the Ruhr region, to avoid shortages. The cyclic nature of demand necessitates adjustable replenishment strategies, ensuring that stock levels do not diminish unexpectedly. Effective management of these stocks helps bridge gaps during periods of scarcity, maintaining stability in markets reliant on commodities like sugarbeet and briquette.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:55:21.730335",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 822,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 272,
+      "selected_avg_freq": 126.76666666666667
+    },
+    "related_words": [
+      "scarcety",
+      "adjustable",
+      "territorites",
+      "appropriatiate",
+      "arrangments",
+      "departements",
+      "promise",
+      "briquette",
+      "ruhr",
+      "cyclic",
+      "rag",
+      "winning",
+      "baits",
+      "retraining",
+      "coalfield",
+      "ruhrkohle",
+      "await",
+      "interruptions",
+      "replenishment",
+      "pecuniary",
+      "unexpectedly",
+      "stockpiles",
+      "pit",
+      "bridging",
+      "steam",
+      "sugarbeet",
+      "coalfields",
+      "scarcity",
+      "keeps",
+      "attenuated"
+    ],
+    "prompt_length": 1703,
+    "category": "4021 management"
+  }
+}

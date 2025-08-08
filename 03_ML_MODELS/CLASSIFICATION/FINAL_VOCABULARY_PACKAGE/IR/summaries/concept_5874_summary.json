@@ -1,0 +1,63 @@
+{
+  "concept_id": "5874",
+  "concept_data": {
+    "title": "rodent",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"rodent\" encompasses various species, including endemic types like the Gambian rat, which can act as hosts for zoonotic diseases. In EU regulatory frameworks, rodents are significant in the context of biocidal products, particularly rodenticides, which are subject to stringent registrations and dossiers. These regulations aim to mitigate risks associated with accidental exposure to rodenticide residues in environments like forests and reservoirs. The use of difethialone, a common rodenticide, necessitates careful examinations of its bioaccumulation potential and impacts on non-target species, including squirrels and primates. Regulatory scenarios often involve assessing incidents where rodent populations inadvertently interact with agricultural products, such as corn. The rapporteur's role is crucial in forwarding findings that may lead to the cancellation of ineffective products or practices, ensuring that public health and environmental safety are upheld.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:28:38.887320",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 355,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1048,
+      "selected_avg_freq": 447.0466666666667
+    },
+    "related_words": [
+      "gambian",
+      "squirrels",
+      "monkeys",
+      "cob",
+      "prairie",
+      "primates",
+      "monkey",
+      "reservoirs",
+      "difethialone",
+      "rain",
+      "rodents",
+      "pox",
+      "reservoir",
+      "representatively",
+      "bioaccumulate",
+      "hosts",
+      "rodenticides",
+      "accidentally",
+      "rat",
+      "pellets",
+      "powdered",
+      "registrations",
+      "corn",
+      "scenarios",
+      "explaining",
+      "elapse",
+      "oppose",
+      "endemic",
+      "dogs",
+      "unlike"
+    ],
+    "prompt_length": 1671,
+    "category": "5211 natural environment"
+  }
+}

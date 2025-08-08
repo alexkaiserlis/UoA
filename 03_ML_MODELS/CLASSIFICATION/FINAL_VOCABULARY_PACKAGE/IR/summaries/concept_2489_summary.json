@@ -1,0 +1,63 @@
+{
+  "concept_id": "2489",
+  "concept_data": {
+    "title": "prices policy",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"prices policy\" within EU legal and regulatory frameworks encompasses the strategic management of pricing mechanisms across various sectors, including distillers and wineries. This policy aims to ensure fair competition and consumer protection while addressing differentials in market conditions. It involves the regulation of surcharges, rebates, and bonuses, which can affect the pricing of exportable goods like molasses and isoglucose. By revising pricing structures, the policy seeks to discourage practices that may lead to market distortions. Additionally, it compels processors to maintain transparency in receipts and yield calculations, thus safeguarding against erroneously valued transactions and ensuring that grower interests are proportionately represented.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:52:30.955988",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 615,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 551,
+      "selected_avg_freq": 261.6933333333333
+    },
+    "related_words": [
+      "distillatin",
+      "hectoliters",
+      "outsources",
+      "coindetti",
+      "differentials",
+      "loyalty",
+      "wineries",
+      "illex",
+      "surcharges",
+      "bonuses",
+      "pecuniary",
+      "exportable",
+      "ore",
+      "redefined",
+      "judging",
+      "commences",
+      "squid",
+      "yielding",
+      "distillers",
+      "infringing",
+      "inulin",
+      "availabilities",
+      "refiners",
+      "grower",
+      "molasses",
+      "erroneously",
+      "valued",
+      "extensively",
+      "compulsorily",
+      "receipts"
+    ],
+    "prompt_length": 1701,
+    "category": "2451 prices"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1231",
+  "concept_data": {
+    "title": "person with limited mobility",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "disabled person",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"person with limited mobility,\" redirected to \"disabled person,\" is inextricably linked to the EU's commitment to equalisation and the rights of marginalized individuals. This term encompasses those with handicapping conditions that impair their ability to navigate societal structures. EU regulations advocate for architectural and ergonomic adaptations to optimize accessibility, furthering aspirations for inclusivity. The principle of equal treatment is reaffirmed through various initiatives aimed at combating fragmented attitudes towards disabilities. By mobilising resources and pooling efforts, the EU seeks to lend momentum to the rights of disabled individuals, ensuring they are not left behind in educational and residential contexts, thus fostering a fuller, more integrated society.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:16.901195",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 707,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 307,
+      "selected_avg_freq": 131.03333333333333
+    },
+    "related_words": [
+      "inextricably",
+      "marginalized",
+      "handicapping",
+      "individends",
+      "prinicple",
+      "handynet",
+      "proclaims",
+      "reaffirm",
+      "convergent",
+      "attacking",
+      "helios",
+      "aspirations",
+      "equalisation",
+      "momentum",
+      "tide",
+      "optimize",
+      "amalgamated",
+      "architectural",
+      "illness",
+      "ergonomics",
+      "mainstream",
+      "gleaned",
+      "nursing",
+      "affirm",
+      "insecurity",
+      "students",
+      "furthering",
+      "commits",
+      "disability",
+      "catalyst"
+    ],
+    "prompt_length": 1773,
+    "category": "2826 social affairs"
+  }
+}

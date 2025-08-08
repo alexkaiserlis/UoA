@@ -1,0 +1,63 @@
+{
+  "concept_id": "483",
+  "concept_data": {
+    "title": "divorce",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"divorce\" refers to the legal dissolution of marriage, which involves various matters such as separation and maintenance obligations. EU member states, including Malta, Slovenia, and Latvia, have specific regulations that prescribe the jurisdiction for divorce proceedings. Enhanced cooperation among countries like Hungary, Bulgaria, and Romania aims to strengthen the recognition and enforcement of divorce decrees across borders. Positive participation from member states, such as Belgium, Italy, and Spain, is essential for the publication and notification of divorce-related documents. Protocols and transitional arrangements facilitate the acceptance of registered divorces, ensuring that individuals can exercise their rights effectively within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:20:33.714578",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1855.95
+    },
+    "related_words": [
+      "divorce",
+      "separation",
+      "prescribe",
+      "confirming",
+      "enhanced",
+      "jurisdiction",
+      "notes",
+      "enforcement",
+      "accept",
+      "gave",
+      "strengthen",
+      "malta",
+      "authorise",
+      "maintenance",
+      "slovenia",
+      "latvia",
+      "positive",
+      "participate",
+      "lithuania",
+      "luxembourg",
+      "recognition",
+      "hungary",
+      "bulgaria",
+      "authorising",
+      "romania",
+      "intention",
+      "benefits",
+      "registered",
+      "belgium",
+      "dated"
+    ],
+    "prompt_length": 1666,
+    "category": "2806 family"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6194",
+  "concept_data": {
+    "title": "Lower Austria",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Lower Austria (Niederösterreich) is a province within Austria, categorized under the regions of EU Member States. It plays a significant role in the EU's regulatory framework, particularly in the context of regional development and economic programming. The province's diverse agricultural outputs, such as pöllauer and hirschbirne, contribute to its unique identity. Lower Austria is also involved in the mobilisation of EU funds through mechanisms like the ERDF, which supports projects aimed at eradication of redundancies and fostering additionality in local economies. The region's strategic position, contiguous to other provinces like Oberösterreich and Styria, enhances its role in globalisation and economic integration within the EU. Through various designations, including PDO and PGI, Lower Austria promotes its local products, while also addressing challenges such as inflation and opposition to certain agricultural practices, like swine farming. The province's programming patterns reflect a commitment to sustainable development, successfully aligning with EU objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:36:16.214314",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 148,
+    "vocabulary_stats": {
+      "total_related_words": 306,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1323,
+      "selected_avg_freq": 662.7
+    },
+    "related_words": [
+      "pöllauer",
+      "hirschbirne",
+      "marchfeldspargel",
+      "oberösterreich",
+      "steiermark",
+      "niederösterreich",
+      "styria",
+      "pipelines",
+      "contiguous",
+      "eradicated",
+      "suggesting",
+      "feral",
+      "egf",
+      "redundancies",
+      "nace",
+      "additionality",
+      "reintegration",
+      "indexed",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "pdo",
+      "pgi",
+      "mobilise",
+      "nuts",
+      "seq",
+      "erdf",
+      "metals",
+      "mobilisation",
+      "classical"
+    ],
+    "prompt_length": 1709,
+    "category": "7211 regions of EU Member States"
+  }
+}

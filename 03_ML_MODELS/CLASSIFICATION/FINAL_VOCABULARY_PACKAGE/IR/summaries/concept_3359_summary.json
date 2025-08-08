@@ -1,0 +1,63 @@
+{
+  "concept_id": "3359",
+  "concept_data": {
+    "title": "social security legislation",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social security legislation within the EU framework aims to provide an overview of the coordination of benefits for employed individuals and their families, ensuring fundamental rights are upheld across member states. This legislation addresses various aspects, including pensions, unemployment, and sickness insurance, reflecting the need for adaptations in response to demographic changes, such as an aging population. The proposals for reform seek to simplify the calculation of benefits and ensure certainty for survivors and those moving between countries, including Switzerland. By establishing bilateral agreements, the legislation aims to bring clarity and efficiency to reimbursement requests and benefit schemes, ensuring that all developments are correctly reflected in the annexes.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:48:17.823206",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1891.3812949640287
+    },
+    "related_words": [
+      "survivors",
+      "overview",
+      "sickness",
+      "families",
+      "pensions",
+      "unemployment",
+      "rata",
+      "pro",
+      "coordinating",
+      "moving",
+      "care",
+      "agree",
+      "insurance",
+      "age",
+      "old",
+      "correctly",
+      "retroactively",
+      "self",
+      "reimbursement",
+      "calendar",
+      "employed",
+      "bilateral",
+      "switzerland",
+      "adaptations",
+      "reflected",
+      "recital",
+      "reform",
+      "preceding",
+      "fundamental",
+      "simplify"
+    ],
+    "prompt_length": 1682,
+    "category": "2836 social protection"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1832",
+  "concept_data": {
+    "title": "travelling gantry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "hoisting equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"travelling gantry,\" which redirects to \"hoisting equipment,\" encompasses various mechanical engineering applications within the EU regulatory framework. This equipment includes devices such as elevators, stackers, and scissorlifts, essential for efficient material handling in sectors like construction and logistics. Regulatory standards often address safety features, including brakes and limiters, to mitigate setbacks during operation. Companies like Garaventa and Doppelmayr, headquartered in Europe, manufacture cableways and chairlifts, contributing to the internationalisation of the industry. The integration of advanced technologies, such as ERP systems, enhances operational efficiency, while affiliations with firms like Jungheinrich and Logitrans strengthen market footholds across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:45:37.143425",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1450,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 22.626666666666665
+    },
+    "related_words": [
+      "brakes",
+      "drawbar",
+      "limiter",
+      "liftgmbh",
+      "doppelmayr",
+      "seilbahnvertriebsgesellschaft",
+      "cableways",
+      "funicular",
+      "elevators",
+      "garaging",
+      "stacker",
+      "ropeways",
+      "sanhe",
+      "chairlifts",
+      "headquartered",
+      "wolfurth",
+      "garaventa",
+      "pomagalski",
+      "tubemeuse",
+      "queried",
+      "internationalise",
+      "setbacks",
+      "foothold",
+      "ropeway",
+      "rivals",
+      "logitrans",
+      "ruyi",
+      "jungheinrich",
+      "ninghai",
+      "affiliations"
+    ],
+    "prompt_length": 1733,
+    "category": "6821 mechanical engineering"
+  }
+}

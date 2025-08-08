@@ -1,0 +1,63 @@
+{
+  "concept_id": "1772",
+  "concept_data": {
+    "title": "unroasted malt",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "malt",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"unroasted malt,\" categorized under foodstuff in EU regulations, is a redirect to the preferred term \"malt.\" Unroasted malts, which are visually pale and pregelatinised, play a crucial role in the brewing and distilling industries, particularly in the production of beers and whisky. These malts, when processed, impart distinct flavours and characteristics to the final products, such as scotch and other niche beverages. Regulatory provisions address the quality and purity of malts, ensuring that impurities like ammonia and sulphite do not hinder their merchantable status. The malting process, which includes graduated stages, is essential for achieving the desired flavour profile, making malt a significant contributor to the beverage industry.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:39:03.761046",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 935,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 259,
+      "selected_avg_freq": 116.58666666666667
+    },
+    "related_words": [
+      "tetrahydroxy",
+      "butylimidazole",
+      "analytically",
+      "pale",
+      "malts",
+      "pregelatinised",
+      "tegument",
+      "beers",
+      "unroasted",
+      "visually",
+      "toddlers",
+      "insignificance",
+      "whiskey",
+      "sulphite",
+      "subcategory",
+      "caramel",
+      "brewery",
+      "impart",
+      "dark",
+      "malting",
+      "hinders",
+      "graduated",
+      "adis",
+      "whisky",
+      "impediment",
+      "provisons",
+      "niche",
+      "fod",
+      "scotch",
+      "distillery"
+    ],
+    "prompt_length": 1692,
+    "category": "6026 foodstuff"
+  }
+}

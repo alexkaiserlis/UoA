@@ -1,0 +1,63 @@
+{
+  "concept_id": "3428",
+  "concept_data": {
+    "title": "transport network",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transport network\" concept within EU legal and regulatory frameworks encompasses the intricate interconnections and subsystems that facilitate crossborder transits. It is pivotal for policymaking, aiming to maximise efficiency and sustainability in transport. The implementation of the European Rail Traffic Management System (ERTMS) and the European Traffic Control System (ETCS) exemplifies the incremental advancements in transport infrastructure. These networks often involve the relinquishing of territoriality in favor of enhanced intertransmission capabilities. Workshops and thematic brochures support stakeholders in understanding the complexities of transport grids, while consultants aid in the securitisation of investments. The concept also addresses the need for empowering local communities through infrastructural reunification and the management of outsourced services, ensuring that all parties can capitalise on the benefits of a cohesive transport system.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:34:11.913984",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 907,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 279,
+      "selected_avg_freq": 125.64666666666666
+    },
+    "related_words": [
+      "intertransmission",
+      "stories",
+      "cef",
+      "tende",
+      "uncapped",
+      "incremental",
+      "ertms",
+      "etcs",
+      "brochures",
+      "inauguration",
+      "perimeter",
+      "sympathetic",
+      "col",
+      "policymaking",
+      "securitisation",
+      "decommitted",
+      "relinquishing",
+      "subsystems",
+      "interconnections",
+      "territoriality",
+      "tunnel",
+      "grids",
+      "backwardness",
+      "rec",
+      "intermodal",
+      "linkage",
+      "capitalise",
+      "reunification",
+      "crossborder",
+      "transits"
+    ],
+    "prompt_length": 1725,
+    "category": "4811 organisation of transport"
+  }
+}

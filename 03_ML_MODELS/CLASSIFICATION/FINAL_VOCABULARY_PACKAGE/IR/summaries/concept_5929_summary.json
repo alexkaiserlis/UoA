@@ -1,0 +1,63 @@
+{
+  "concept_id": "5929",
+  "concept_data": {
+    "title": "computer terminal",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"computer terminal\" within EU legal and regulatory frameworks pertains to devices enabling data processing and communication, often linked to teleservices and information technology. These terminals, which may include cordless handsets and are integral to PSTN (Public Switched Telephone Network) systems, facilitate the implementation of algorithms for data management. The evolution of computer terminals has led to the integration of advanced features, such as DECT (Digital Enhanced Cordless Telecommunications) technology, enhancing user experience. Regulatory bodies must consider the obsolescent nature of certain technologies, ensuring that finalization of standards accommodates redeploying resources effectively while ignoring outdated models. The discernment of these technologies, alongside variances in performance metrics (e.g., kbit, khz), is crucial for maintaining competitiveness in the digital landscape, as emphasized by relevant economic associations like wirtschaftsvereinigung.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:21.306590",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 778,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 191,
+      "selected_avg_freq": 69.86
+    },
+    "related_words": [
+      "comsat",
+      "diano",
+      "lamifer",
+      "demafer",
+      "lavorazione",
+      "vari",
+      "sidercamuna",
+      "berzo",
+      "inferiore",
+      "redeploying",
+      "preferring",
+      "integrazione",
+      "guadagni",
+      "ignoring",
+      "pstns",
+      "dte",
+      "acta",
+      "dtmf",
+      "pstn",
+      "discernment",
+      "wil",
+      "uniscope",
+      "pspdns",
+      "ccitt",
+      "handset",
+      "teleservice",
+      "reorganized",
+      "unstructured",
+      "dcs",
+      "metalli"
+    ],
+    "prompt_length": 1677,
+    "category": "3236 information technology and data processing"
+  }
+}

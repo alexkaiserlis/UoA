@@ -1,0 +1,63 @@
+{
+  "concept_id": "3077",
+  "concept_data": {
+    "title": "development aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Development aid, as articulated within EU cooperation policy, refers to financial assistance aimed at fostering economic growth and social progress in developing countries. This aid is often delivered through Official Development Assistance (ODA) frameworks, which may include untargeted support for infrastructure projects or reintegration initiatives in regions like Västra Götaland or Ostrobothnia. The EU's commitment to development aid is reflected in various legal instruments, including the European Development Fund (EPRD) and strategic partnerships with nations such as Indonesia. Briefings and inquiries into aid effectiveness are crucial for ensuring that funds are deployed efficiently, particularly in inhabited areas like Gotland and the islands of the Mälaren region.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:18.503495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2398,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.86
+    },
+    "related_words": [
+      "deepened",
+      "oda",
+      "eprd",
+      "untargeted",
+      "västra",
+      "örebro",
+      "götaland",
+      "reintegrate",
+      "chec",
+      "ihc",
+      "kinderdijk",
+      "staatscourant",
+      "briefings",
+      "inquiring",
+      "öarna",
+      "gotland",
+      "inhabited",
+      "vänern",
+      "vättern",
+      "hjälmaren",
+      "mälaren",
+      "slorc",
+      "spdc",
+      "azf",
+      "toulouse",
+      "ostrobothnia",
+      "pirkanmaa",
+      "volkswerft",
+      "stralsund",
+      "pengerukan"
+    ],
+    "prompt_length": 1633,
+    "category": "0811 cooperation policy"
+  }
+}

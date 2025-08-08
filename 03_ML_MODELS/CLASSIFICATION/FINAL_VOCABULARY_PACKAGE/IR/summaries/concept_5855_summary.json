@@ -1,0 +1,63 @@
+{
+  "concept_id": "5855",
+  "concept_data": {
+    "title": "division of powers",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"division of powers\" is a fundamental principle in EU governance, conferring distinct competencies among institutions to ensure effective supervision and execution of policies. This framework involves the appointment of representatives to various bodies, such as the European Central Bank (ECB) and the European Fisheries Control Agency (GFCM), which undertake tasks relative to their autonomous mandates. The division implies a balance of authority, where powers are deposited with specific institutions, ensuring that each body, including the board of the ECB, operates within its defined volume of competence. This structure facilitates prudent planning and decision-making, essential for the democratic functioning of the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:08.716126",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 115,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 115,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1746.4347826086957
+    },
+    "related_words": [
+      "gfcm",
+      "hands",
+      "vice",
+      "prudential",
+      "voting",
+      "deposited",
+      "conferring",
+      "acceding",
+      "chair",
+      "appoint",
+      "ecb",
+      "supervisory",
+      "appointment",
+      "hearing",
+      "implies",
+      "relative",
+      "planning",
+      "mediterranean",
+      "always",
+      "credit",
+      "composed",
+      "execution",
+      "autonomous",
+      "competence",
+      "participating",
+      "supervision",
+      "fisheries",
+      "board",
+      "conferred",
+      "power"
+    ],
+    "prompt_length": 1689,
+    "category": "0431 politics and public safety"
+  }
+}

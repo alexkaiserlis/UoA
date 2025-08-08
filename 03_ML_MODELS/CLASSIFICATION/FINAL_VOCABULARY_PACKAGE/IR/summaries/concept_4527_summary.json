@@ -1,0 +1,63 @@
+{
+  "concept_id": "4527",
+  "concept_data": {
+    "title": "cable transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"cable transport\" pertains to a specific subdivision within the organization of transport, classified under EU regulations. This mode of transport, which includes systems like cable cars and aerial tramways, is described in various binding documents, including customs codes and tariff tables. Authorities invoke this classification to ensure uniform application across member states, facilitating trade in goods that are partly or wholly transported via cable systems. The nomenclature used in these regulations adds clarity, allowing for a statistical interpretation of transport data. Such classifications are essential for the adoption of additional regulations and for the continuous development of transport policies within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:11.524269",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2280.436170212766
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "nos",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "chairman",
+      "classified",
+      "nomenclature",
+      "table",
+      "codes",
+      "classification",
+      "combined",
+      "described",
+      "delivered",
+      "virtue",
+      "tariff",
+      "statistical",
+      "code",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "product"
+    ],
+    "prompt_length": 1640,
+    "category": "4811 organisation of transport"
+  }
+}

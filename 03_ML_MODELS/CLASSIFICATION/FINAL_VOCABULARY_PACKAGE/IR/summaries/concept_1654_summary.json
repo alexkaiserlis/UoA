@@ -1,0 +1,63 @@
+{
+  "concept_id": "1654",
+  "concept_data": {
+    "title": "tapioca",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "starch",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"tapioca,\" categorized under foodstuff, is a redirect to the preferred term \"starch.\" In the EU regulatory framework, starch encompasses various polysaccharides, including dextrins and amylopectin, which are critical in food applications. Starch can be modified through processes such as hydrolyzed, etherified, or phosphated treatments, resulting in products like pregelatinised starch. The regulatory landscape also addresses the use of enzymatic processes, such as those involving amyloglucosidase, to produce specific disaccharides or glucitol. Furthermore, the nomenclature surrounding starch derivatives, including distarch and hydrogenated variants, is essential for compliance in food labeling and safety assessments, ensuring unequivocal consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:02:44.537062",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1486,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 96,
+      "selected_avg_freq": 41.82666666666667
+    },
+    "related_words": [
+      "dextrins",
+      "potatostarch",
+      "bonnet",
+      "belle",
+      "patna",
+      "specfied",
+      "dextrin",
+      "spectrophotometry",
+      "amyloglucosidase",
+      "glucitol",
+      "disaccharides",
+      "penta",
+      "hexasaccharides",
+      "storehouse",
+      "phosphated",
+      "distarch",
+      "menclature",
+      "fgis",
+      "slip",
+      "etherified",
+      "negotations",
+      "pregelatinised",
+      "polysaccharides",
+      "disapprove",
+      "penalization",
+      "bps",
+      "amylopectin",
+      "mingling",
+      "underwater",
+      "unequivocally"
+    ],
+    "prompt_length": 1751,
+    "category": "6026 foodstuff"
+  }
+}

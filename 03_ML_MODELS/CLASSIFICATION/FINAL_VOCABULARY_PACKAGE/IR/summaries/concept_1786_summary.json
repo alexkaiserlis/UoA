@@ -1,0 +1,63 @@
+{
+  "concept_id": "1786",
+  "concept_data": {
+    "title": "market structure",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "market",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"market structure,\" as categorized under EU trade policy, is redirected to the preferred term \"market.\" This term encompasses the regulatory framework governing competition among competitors, including monopolies and their influences on pricing and service availability. The EU aims to formalize market regulations to prevent practices that obstruct fair competition, such as loyalty bonuses and surcharges. Over decades, the market has been redefined to ensure transparency and regularisation, particularly in sectors like telecommunication. Authorities, such as those in Kiel and Heiligenhafen, supervise compliance, ensuring that practices remain legitimate and do not infringe upon consumer rights. The dispersion of market participants, including those unaware of their rights, necessitates vigilant enforcement to connect regulations with market dynamics effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:59.694836",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 858,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 295,
+      "selected_avg_freq": 133.7
+    },
+    "related_words": [
+      "fehmarn",
+      "maasholm",
+      "heiligenhafen",
+      "typeapproval",
+      "formalize",
+      "kiel",
+      "differentials",
+      "havre",
+      "procured",
+      "renting",
+      "loyalty",
+      "ancona",
+      "supervises",
+      "striking",
+      "conjuction",
+      "surcharges",
+      "transparently",
+      "exerted",
+      "fortiori",
+      "bonuses",
+      "formalise",
+      "monopolies",
+      "regularisation",
+      "obstruct",
+      "scattered",
+      "suits",
+      "unaware",
+      "vorpommern",
+      "ore",
+      "dissociated"
+    ],
+    "prompt_length": 1726,
+    "category": "2006 trade policy"
+  }
+}

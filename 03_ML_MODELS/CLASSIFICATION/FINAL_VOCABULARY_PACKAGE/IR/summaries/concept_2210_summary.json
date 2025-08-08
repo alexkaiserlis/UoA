@@ -1,0 +1,63 @@
+{
+  "concept_id": "2210",
+  "concept_data": {
+    "title": "Overijssel",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Overijssel, a region in the Netherlands, plays a significant role within the framework of EU legal and regulatory documents, particularly concerning economic and social policies. It is part of the NUTS classification, which aids in the allocation of funds from the European Regional Development Fund (ERDF) and the European Social Fund (ESF). Overijssel, notably Twente, has faced challenges such as redundancies and the need for reintegration of workers, especially during crises influenced by globalization. The region's readiness to mobilise resources, including loans from the European Investment Bank (EIB), is indicative of its commitment to addressing these issues. The partnership between local enterprises and EU frameworks aims to broadened opportunities for sustainable development and discipline in labour markets, ensuring compliance with interinstitutional priorities.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:51:22.529757",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 217,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 2207,
+      "selected_avg_freq": 1028.8933333333334
+    },
+    "related_words": [
+      "overijssel",
+      "twente",
+      "rechar",
+      "egf",
+      "redundancies",
+      "printing",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "esf",
+      "readiness",
+      "com",
+      "mobilise",
+      "reproduction",
+      "intent",
+      "frameworks",
+      "nuts",
+      "erdf",
+      "mobilisation",
+      "lending",
+      "media",
+      "redundant",
+      "eib",
+      "proposes",
+      "loan",
+      "division",
+      "patterns",
+      "retain"
+    ],
+    "prompt_length": 1681,
+    "category": "7211 regions of EU Member States"
+  }
+}

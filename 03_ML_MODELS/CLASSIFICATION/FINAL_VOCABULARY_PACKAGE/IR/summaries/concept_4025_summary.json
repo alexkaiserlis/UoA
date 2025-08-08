@@ -1,0 +1,63 @@
+{
+  "concept_id": "4025",
+  "concept_data": {
+    "title": "supply difficulties",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": true,
+    "preferred_term": "security of supply",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supply difficulties,\" redirected to \"security of supply,\" pertains to the EU's regulatory framework addressing the uninterrupted provision of essential goods and services. It encompasses challenges such as interruptions in energy interconnections and the need for warehousekeepers to manage resources optimally. The EU's approach includes liberalizing markets and constructing robust infrastructures to mitigate risks associated with fragmenting supply chains. Insights from modelling scenarios help in rationally addressing potential inadequacies, particularly in the context of renewables and fossil fuels. The legal framework aims to formalise roles within the community, ensuring that supply remains stable and uncompetitive practices are annulled.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:19:47.720107",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1248,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 169,
+      "selected_avg_freq": 79.81333333333333
+    },
+    "related_words": [
+      "ucte",
+      "nordel",
+      "fragmenting",
+      "sited",
+      "oxygenated",
+      "isobutene",
+      "warehousekeepers",
+      "reverts",
+      "inadmissibility",
+      "pence",
+      "ulsd",
+      "eurocents",
+      "insights",
+      "jccc",
+      "renewables",
+      "entso",
+      "wroclaw",
+      "altener",
+      "rationally",
+      "thinking",
+      "etbe",
+      "fried",
+      "optimally",
+      "interconnections",
+      "liberalizing",
+      "doubling",
+      "modelling",
+      "interruptions",
+      "formalise",
+      "energies"
+    ],
+    "prompt_length": 1702,
+    "category": "2016 trade"
+  }
+}

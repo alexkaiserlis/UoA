@@ -1,0 +1,63 @@
+{
+  "concept_id": "795",
+  "concept_data": {
+    "title": "vocational school",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "vocational education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vocational school,\" redirected to \"vocational education,\" plays a crucial role in EU legal and regulatory frameworks concerning training and education. Vocational education programmes are designed to provide authorized training that complements higher education, enabling individuals to obtain skills beneficial for the labor market. The European Union negotiates bilateral agreements with member states and external partners, such as Canada and the United States, to enhance cooperation in vocational training. Such agreements aim to establish mutual recognition of qualifications and facilitate the mobility of students. The Council and Parliament often discuss proposals concerning vocational education, emphasizing its value in fostering community development and economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:35.534370",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 47,
+      "requested_words": 150,
+      "min_frequency_found": 122,
+      "max_frequency_found": 4108,
+      "selected_words": 47,
+      "selected_min_freq": 122,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2071.595744680851
+    },
+    "related_words": [
+      "expect",
+      "vocational",
+      "negotiate",
+      "education",
+      "canada",
+      "side",
+      "complementary",
+      "bilateral",
+      "america",
+      "mutual",
+      "training",
+      "sentence",
+      "obtain",
+      "authorized",
+      "higher",
+      "agreements",
+      "programmes",
+      "added",
+      "benefit",
+      "conjunction",
+      "value",
+      "conclusion",
+      "programme",
+      "approved",
+      "cooperation",
+      "subparagraph",
+      "united",
+      "agreement",
+      "provide",
+      "articles"
+    ],
+    "prompt_length": 1681,
+    "category": "3211 teaching"
+  }
+}

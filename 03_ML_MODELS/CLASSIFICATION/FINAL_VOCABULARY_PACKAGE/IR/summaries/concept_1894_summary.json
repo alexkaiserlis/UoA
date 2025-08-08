@@ -1,0 +1,63 @@
+{
+  "concept_id": "1894",
+  "concept_data": {
+    "title": "research method",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"research method\" within EU legal and regulatory frameworks encompasses systematic approaches employed to investigate various subjects, including the study of bioassays related to biotoxins such as ochratoxin and listeria monocytogenes. These methods, which may involve chromatography and spectrometry, are crucial for prevalidation processes in assessing the safety of food products. Research often targets specific genotypes of microorganisms, such as enterobacteriaceae and cronobacter sakazakii, to ensure compliance with health regulations. Additionally, the variability in metabolite densities and the readability of results are essential for regulatory bodies like AESAN and CRLMB. Effective research methods can provoke quicker responses to emerging threats, ensuring public safety across EU countries.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:31.299348",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 718,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 254,
+      "selected_avg_freq": 112.5
+    },
+    "related_words": [
+      "mrpls",
+      "leucomalachite",
+      "mrpl",
+      "enterobacteriaceae",
+      "enterobacter",
+      "sakazakii",
+      "cronobacter",
+      "mba",
+      "lipophilic",
+      "bioassays",
+      "prevalidation",
+      "aesan",
+      "msps",
+      "crlmb",
+      "shtml",
+      "taxonomy",
+      "bioassay",
+      "malachite",
+      "invert",
+      "contries",
+      "rba",
+      "genotypes",
+      "listeria",
+      "monocytogenes",
+      "prion",
+      "lod",
+      "formulas",
+      "www",
+      "arr",
+      "ochratoxin"
+    ],
+    "prompt_length": 1686,
+    "category": "6416 research and intellectual property"
+  }
+}

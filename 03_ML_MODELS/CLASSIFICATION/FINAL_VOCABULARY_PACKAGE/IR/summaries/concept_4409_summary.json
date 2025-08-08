@@ -1,0 +1,63 @@
+{
+  "concept_id": "4409",
+  "concept_data": {
+    "title": "vehicle tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vehicle tax\" within EU legal and regulatory frameworks governs the taxation of vehicles as assets owned by drivers. This taxation system is justifiable as it contributes to the maintenance of vital infrastructures, such as roads and parks, which facilitate travel and leisure activities, including amusement and circuses. Vehicle tax may be burdensome for some owners, leading to occasional evasion or incorrect reporting of taxable turnover. The EU encourages accurate appraisal and record-keeping to ensure that taxes are deducted appropriately. Additionally, the taxation framework allows for certain deductions, ensuring that the financial impact on vehicle owners is entirely accounted for during their journeys.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:28:05.017583",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 279,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1479,
+      "selected_avg_freq": 709.44
+    },
+    "related_words": [
+      "amusement",
+      "tolling",
+      "circus",
+      "circuses",
+      "parks",
+      "park",
+      "journeys",
+      "get",
+      "occasionally",
+      "town",
+      "drivers",
+      "roads",
+      "govern",
+      "occupation",
+      "burdensome",
+      "evasion",
+      "deduct",
+      "taxable",
+      "owner",
+      "infrastructures",
+      "justifiable",
+      "asset",
+      "installed",
+      "purchases",
+      "deduction",
+      "trans",
+      "appraisal",
+      "charging",
+      "summer",
+      "accounted"
+    ],
+    "prompt_length": 1633,
+    "category": "2446 taxation"
+  }
+}

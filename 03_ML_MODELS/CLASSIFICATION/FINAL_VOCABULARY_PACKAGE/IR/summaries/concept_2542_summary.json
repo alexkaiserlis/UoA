@@ -1,0 +1,63 @@
+{
+  "concept_id": "2542",
+  "concept_data": {
+    "title": "transfrontier pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Transfrontier pollution refers to the cross-border environmental impacts caused by anthropogenic activities, particularly the discharges of pollutants into shared watercourses and the atmosphere. In the EU context, this concept is crucial for cooperative efforts to stabilise and eliminate emissions of persistent organic pollutants, such as polychlorinated biphenyls (PCBs) and cadmium. The EU actively participates in international conventions, including those established in Geneva and Paris, aimed at controlling transboundary pollution. Through frameworks like the Aarhus Convention, the EU seeks to enhance transparency and public participation in environmental decision-making, ensuring that nations share competences in addressing these complex issues effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:17:50.210954",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 272,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1346,
+      "selected_avg_freq": 647.44
+    },
+    "related_words": [
+      "emep",
+      "pct",
+      "terphenyls",
+      "watercourses",
+      "anthropogenic",
+      "thirteen",
+      "culminated",
+      "aarhus",
+      "attended",
+      "pcb",
+      "polychlorinated",
+      "biphenyls",
+      "discharges",
+      "emitted",
+      "atmosphere",
+      "unece",
+      "lakes",
+      "cadmium",
+      "atmospheric",
+      "basin",
+      "transboundary",
+      "diplomatic",
+      "mercury",
+      "geneva",
+      "river",
+      "pollutants",
+      "approves",
+      "stabilise",
+      "cooperative",
+      "seeks"
+    ],
+    "prompt_length": 1719,
+    "category": "5216 deterioration of the environment"
+  }
+}

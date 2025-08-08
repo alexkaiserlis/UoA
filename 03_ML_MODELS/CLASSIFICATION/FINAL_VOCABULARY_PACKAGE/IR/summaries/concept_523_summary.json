@@ -1,0 +1,63 @@
+{
+  "concept_id": "523",
+  "concept_data": {
+    "title": "statutory law",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "civil law",
+    "relation_type": "USE"
+  },
+  "summary": "Statutory law, often synonymous with civil law, is a fundamental aspect of EU legal frameworks, where lawmakers create enforceable regulations that govern societal interactions. This body of law has deepened the adjudicatory process, allowing claimants and defendants to navigate legal disputes more swifter and efficiently. It prescribes the rights and liberties of individuals, ensuring that settlements are enforceable and that extrajudicial resolutions, such as arbitration, are available. In matrimonial cases, for instance, uncontested divorces can be settled amicably under statutory provisions. The Lugano Convention exemplifies parallelism in jurisdiction, while the glossary of civil law terms aids in understanding complex legal concepts, enhancing democratization and legal clarity across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:07:08.260908",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 923,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 256,
+      "selected_avg_freq": 114.95333333333333
+    },
+    "related_words": [
+      "lawmakers",
+      "deepened",
+      "swifter",
+      "backwards",
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "liberties",
+      "grotius",
+      "glossary",
+      "judgements",
+      "mediators",
+      "democratization",
+      "claimant",
+      "sued",
+      "defendant",
+      "mediator",
+      "domiciled",
+      "domicile",
+      "enumerates",
+      "belarusian",
+      "defendants",
+      "lugano",
+      "extrajudicial",
+      "poorer",
+      "consensual"
+    ],
+    "prompt_length": 1748,
+    "category": "1211 civil law"
+  }
+}

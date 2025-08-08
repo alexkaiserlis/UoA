@@ -1,0 +1,63 @@
+{
+  "concept_id": "5291",
+  "concept_data": {
+    "title": "terminally ill",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "death",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"terminally ill\" is redirected to \"death,\" reflecting a definitive status that involves precise legal implications. The determination of terminal illness often accrues significant burdens in terms of social affairs, particularly regarding the calculation of taxes and contributions. Member States may have varying laws that authorize exemptions or uniform regulations concerning the treatment of terminally ill individuals, particularly in relation to VAT and other financial transactions. The harmonization of these laws is essential for ensuring that resources are allocated effectively, allowing for the recording of turnover and the collection of taxes without unjustified discrepancies across categories. Thus, understanding the legal framework surrounding terminal illness is crucial for accurate estimates and authorizations in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:44:40.910479",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 99,
+      "requested_words": 150,
+      "min_frequency_found": 197,
+      "max_frequency_found": 4108,
+      "selected_words": 99,
+      "selected_min_freq": 197,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1786.5454545454545
+    },
+    "related_words": [
+      "approximate",
+      "accruing",
+      "authorizations",
+      "unjustified",
+      "vat",
+      "calculate",
+      "turnover",
+      "taxes",
+      "recording",
+      "ceased",
+      "renewed",
+      "estimates",
+      "sixth",
+      "harmonization",
+      "exempt",
+      "authorizing",
+      "replacement",
+      "precise",
+      "contributions",
+      "base",
+      "tax",
+      "opinions",
+      "transactions",
+      "atomic",
+      "definitive",
+      "involve",
+      "ecsc",
+      "burden",
+      "calculation",
+      "collection"
+    ],
+    "prompt_length": 1685,
+    "category": "2826 social affairs"
+  }
+}

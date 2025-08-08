@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_71f767f4",
+  "concept_data": {
+    "title": "web analytics",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Web analytics refers to the systematic collection, analysis, and reporting of internet data to understand and optimize web usage. In the context of EU legal and regulatory frameworks, web analytics plays a crucial role in compliance with data protection regulations, particularly the General Data Protection Regulation (GDPR). Organizations utilizing web analytics must ensure transparency and obtain informed consent from users regarding the processing of their personal data. This involves implementing appropriate technical measures to safeguard user privacy while leveraging analytics to enhance user experience and service delivery. The interplay between web analytics and data protection law underscores the need for responsible data processing practices within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:13.952995",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1195,
+    "category": "3236 information technology and data processing"
+  }
+}

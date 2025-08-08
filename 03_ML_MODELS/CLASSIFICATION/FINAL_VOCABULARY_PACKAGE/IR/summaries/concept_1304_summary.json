@@ -1,0 +1,26 @@
+{
+  "concept_id": "1304",
+  "concept_data": {
+    "title": "immunology",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Immunology, a vital branch of health sciences, focuses on the immune system's functions and disorders. In the context of EU legal and regulatory frameworks, immunology informs policies related to public health, vaccine development, and biomedicine. The European Medicines Agency (EMA) regulates immunological products, ensuring their safety and efficacy through rigorous assessment processes. Additionally, immunology research is pivotal in addressing emerging health threats, guiding legislative measures to enhance disease prevention and control. The EU's commitment to advancing immunological knowledge underpins its health strategies, fostering collaboration among member states to improve public health outcomes and respond effectively to immunological challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:53:58.260689",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1156,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3369",
+  "concept_data": {
+    "title": "home nursing",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "home care",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"home nursing,\" redirected to \"home care,\" encompasses services intended to provide health support within the home environment. In the EU regulatory framework, this concept enables member states to apply provisions that grant access to essential health services, thereby promoting equality in healthcare delivery. Countries such as Bulgaria and Romania, upon their accession, have submitted requests to authorise specific home care facilities, which are intended to meet the needs of their populations. The impact of these services is significant, as they reduce the burden on hospital systems and allow for intensive care at home, thus enhancing the overall value of healthcare resources. The VAT rates applicable to these services are also a critical consideration, as they can affect the affordability and accessibility of home care.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:47:15.503901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 180,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 180,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2069.677777777778
+    },
+    "related_words": [
+      "acceding",
+      "avail",
+      "trial",
+      "equality",
+      "intensive",
+      "vat",
+      "wishing",
+      "facility",
+      "enables",
+      "labour",
+      "derived",
+      "tax",
+      "past",
+      "authorise",
+      "bulgaria",
+      "authorising",
+      "romania",
+      "dated",
+      "themselves",
+      "rates",
+      "own",
+      "change",
+      "letter",
+      "reduced",
+      "thereto",
+      "impact",
+      "submit",
+      "added",
+      "grant",
+      "resources"
+    ],
+    "prompt_length": 1618,
+    "category": "2841 health"
+  }
+}

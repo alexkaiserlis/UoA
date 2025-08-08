@@ -1,0 +1,63 @@
+{
+  "concept_id": "6298",
+  "concept_data": {
+    "title": "production standard",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"production standard\" within EU legal and regulatory frameworks pertains to the guidelines governing the cultivation and harvesting of aquatic species, including salmonid and shellfish. These standards ensure sustainable husbandry practices, particularly in wetlands and coastal lagoons, to accommodate biodiversity and prevent overfished populations. They also address the implications of using fishmeal and other feed sources, such as seaweed and plankton, in aquaculture. Ecolabelling initiatives, like those for organically produced fry and juveniles, aim to reassure consumers regarding the credibility of seafood products. Compliance with these standards is essential for maintaining airworthiness in related transport sectors, such as helicopters and aeroplanes, and for ensuring effective disinfection and stocking practices in aquaculture systems.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:55.380785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 462,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 672,
+      "selected_avg_freq": 251.18666666666667
+    },
+    "related_words": [
+      "broodstock",
+      "wetlands",
+      "ponds",
+      "tidal",
+      "costal",
+      "levees",
+      "reassure",
+      "charr",
+      "brackish",
+      "ecolabelling",
+      "xiiia",
+      "antonov",
+      "helicopter",
+      "kamov",
+      "crayfish",
+      "salmonid",
+      "centuries",
+      "egtop",
+      "carnivorous",
+      "histidine",
+      "supplementation",
+      "arctic",
+      "organically",
+      "aeroplane",
+      "seaweed",
+      "lagoons",
+      "implication",
+      "plankton",
+      "fishmeal",
+      "densities"
+    ],
+    "prompt_length": 1719,
+    "category": "6411 technology and technical regulations"
+  }
+}

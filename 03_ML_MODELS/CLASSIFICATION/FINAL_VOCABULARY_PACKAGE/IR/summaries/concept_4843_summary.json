@@ -1,0 +1,63 @@
+{
+  "concept_id": "4843",
+  "concept_data": {
+    "title": "recipient country",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "aid recipient",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"recipient country,\" often redirected to \"aid recipient,\" pertains to nations that receive Official Development Assistance (ODA) under EU cooperation policy. These countries are integral to the EU's legislative framework, which aims to optimise resource allocation and bolster development efforts. The heterogeneity of recipient countries necessitates tailored measures that address their unique challenges. For instance, the EU often implements reforming strategies to ensure that aid is expeditiously allocated, avoiding overlapping initiatives that could lead to insufficiently addressed needs. By capping aid and reallocating resources, the EU seeks to maintain parities among diverse constituencies, ensuring that support is consonant with developmental goals and politically viable.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:57.794884",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1106,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 215,
+      "selected_avg_freq": 101.76
+    },
+    "related_words": [
+      "axes",
+      "oda",
+      "bounds",
+      "ginners",
+      "constituencies",
+      "dac",
+      "legislature",
+      "earn",
+      "decison",
+      "oft",
+      "schoolchildren",
+      "garantees",
+      "beset",
+      "fil",
+      "vouchers",
+      "capping",
+      "decoupled",
+      "mainstream",
+      "socrates",
+      "coupling",
+      "bolstered",
+      "reallocate",
+      "optimising",
+      "ginning",
+      "gni",
+      "heterogeneity",
+      "chilean",
+      "expeditiously",
+      "author",
+      "oman"
+    ],
+    "prompt_length": 1708,
+    "category": "0811 cooperation policy"
+  }
+}

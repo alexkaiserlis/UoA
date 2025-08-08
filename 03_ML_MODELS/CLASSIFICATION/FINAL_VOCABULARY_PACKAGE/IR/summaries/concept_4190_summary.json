@@ -1,0 +1,26 @@
+{
+  "concept_id": "4190",
+  "concept_data": {
+    "title": "public limited liability company",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "public limited company",
+    "relation_type": "USE"
+  },
+  "summary": "A \"public limited liability company,\" commonly referred to as a \"public limited company,\" is a legal form of organization recognized within the European Union. This entity allows for the issuance of shares to the public, thereby facilitating capital acquisition while limiting shareholders' liability to their contributions. Governed by specific regulations, such as the EU Company Law Directive, public limited companies must adhere to stringent transparency and governance standards. This structure is pivotal for fostering investment and economic growth across member states, as it balances the interests of shareholders and the public, ensuring accountability and financial stability in the corporate sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:38:49.816040",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1241,
+    "category": "4016 legal form of organisations"
+  }
+}

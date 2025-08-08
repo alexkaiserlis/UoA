@@ -1,0 +1,63 @@
+{
+  "concept_id": "3596",
+  "concept_data": {
+    "title": "pharmacist",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"pharmacist\" is a licensed professional responsible for the preparation, dispensing, and appropriate use of medications. This role is crucial in ensuring public health and safety, as emphasized by various EU directives and regulations. Pharmacists, such as those represented by figures like Karina, Leena, and Konstantinos, must adhere to stringent standards set forth in the EU's health policies. The profession encompasses diverse practices, from community pharmacies to hospital settings, where pharmacists like Claudia and Wolfgang engage in patient care and medication management. Regulatory bodies oversee their qualifications, ensuring compliance with laws that govern pharmacy practice, including the roles of professionals like Sirkka and Nunes. The pharmacist's expertise is vital in addressing public health challenges, as seen in initiatives led by figures like Bernhard and Miss, who advocate for responsible medication use and patient education.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:55.640971",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 131,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 131,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1050.6564885496184
+    },
+    "related_words": [
+      "carneiro",
+      "angenot",
+      "fontaine",
+      "kirsten",
+      "permin",
+      "karina",
+      "stavnsbjerg",
+      "sirkka",
+      "leena",
+      "hörkkö",
+      "niemi",
+      "panaghiota",
+      "karavarsami",
+      "olga",
+      "ikonomou",
+      "kanellopoulou",
+      "koukouras",
+      "melissaratou",
+      "plaza",
+      "pinol",
+      "nieves",
+      "sobrino",
+      "froemming",
+      "unterhalt",
+      "sousa",
+      "weedle",
+      "eugenie",
+      "canavan",
+      "glombitza",
+      "wiegrebe"
+    ],
+    "prompt_length": 1626,
+    "category": "2841 health"
+  }
+}

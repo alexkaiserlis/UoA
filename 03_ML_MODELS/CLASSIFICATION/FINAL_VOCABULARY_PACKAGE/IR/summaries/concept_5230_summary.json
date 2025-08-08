@@ -1,0 +1,63 @@
+{
+  "concept_id": "5230",
+  "concept_data": {
+    "title": "capital city",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"capital city\" within EU legal and regulatory frameworks plays a crucial role in fostering cultural and urban development. These cities are often symbolic, representing a kaleidoscope of cultures and histories, and are dynamic hubs for tourism and artistic expression. The EU explores various initiatives, such as the Europan prize, which rewards capitals for their constructive urban design and integration of diverse experiences. Panels judge nominations based on predefined criteria, amplifying the resonance of these cities in the European context. By designating capitals, the EU aims to oversee and support the development of urban environments that reflect the varied dimensions of European identity, creating a predictable yet innovative landscape for inhabitants and visitors alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:35.882149",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 853,
+      "selected_avg_freq": 416.29333333333335
+    },
+    "related_words": [
+      "prolific",
+      "explored",
+      "europan",
+      "kaleidoscope",
+      "predefined",
+      "prize",
+      "capitals",
+      "oversee",
+      "reward",
+      "cities",
+      "symbolic",
+      "pecuniary",
+      "redefining",
+      "cultures",
+      "constructive",
+      "artistic",
+      "rotational",
+      "resonance",
+      "makers",
+      "nominations",
+      "amplified",
+      "history",
+      "inhabitants",
+      "predictable",
+      "panels",
+      "fostering",
+      "tourism",
+      "nominated",
+      "urban",
+      "integrate"
+    ],
+    "prompt_length": 1698,
+    "category": "2846 construction and town planning"
+  }
+}

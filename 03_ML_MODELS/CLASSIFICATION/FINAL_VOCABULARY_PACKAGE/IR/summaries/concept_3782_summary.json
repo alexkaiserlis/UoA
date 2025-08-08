@@ -1,0 +1,63 @@
+{
+  "concept_id": "3782",
+  "concept_data": {
+    "title": "thermal power station",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "power plant",
+    "relation_type": "USE"
+  },
+  "summary": "A \"thermal power station,\" commonly referred to as a \"power plant,\" is a facility that generates electricity through the combustion of fossil fuels or biofuels. In the EU regulatory context, these plants are subject to stringent measures to limit pollutants, including dioxins and polychlorinated dibenzofurans (PCDDs) and dibenzofurans. The legal framework obliges operators to inspect emissions and manage wastes to prevent atmospheric contamination. In response to crises, such as energy shortages, the EU may necessitate transformations in energy generation, including the integration of high-temperature (hochtemperatur) boilers. Statutes clarify obligations regarding the firing processes and the management of hazardous materials, ensuring compliance with environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:19.452392",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 498,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 707,
+      "selected_avg_freq": 312.12666666666667
+    },
+    "related_words": [
+      "pcdds",
+      "pcdfs",
+      "dibenzofurans",
+      "firing",
+      "hochtemperatur",
+      "hkg",
+      "kernkraftwerk",
+      "meausres",
+      "metallurgical",
+      "interruptions",
+      "exhibited",
+      "teq",
+      "unexpectedly",
+      "dibenzo",
+      "stuttgart",
+      "keeps",
+      "fired",
+      "academic",
+      "boilers",
+      "subsection",
+      "basel",
+      "fossil",
+      "syrian",
+      "latitude",
+      "inspect",
+      "biofuel",
+      "polychlorinated",
+      "shortages",
+      "generators",
+      "dioxins"
+    ],
+    "prompt_length": 1758,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

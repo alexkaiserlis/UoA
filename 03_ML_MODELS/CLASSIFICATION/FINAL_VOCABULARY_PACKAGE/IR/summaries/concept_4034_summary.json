@@ -1,0 +1,63 @@
+{
+  "concept_id": "4034",
+  "concept_data": {
+    "title": "Single European Act",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Single European Act (SEA) is a pivotal instrument in European Union law, established to advance the cohesion and integration of member states. Adopted in March 1986, it enabled the creation of a single market by ensuring the continuity of regulatory frameworks across various fields, including transport and environmental protection. The SEA prepared the ground for significant improvements in infrastructure and networks, facilitating the submission of proposals that fulfil the objectives of the European Economic Community (EEC). By extending the scope of cooperation, the Act has had a profound impact on the financial and regulatory landscape, ensuring sufficient protection for beneficiaries and enhancing the effectiveness of EU projects.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:02:18.139362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 46,
+      "requested_words": 150,
+      "min_frequency_found": 96,
+      "max_frequency_found": 4108,
+      "selected_words": 46,
+      "selected_min_freq": 96,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1833.8695652173913
+    },
+    "related_words": [
+      "edinburgh",
+      "trans",
+      "enabled",
+      "networks",
+      "cohesion",
+      "infrastructure",
+      "beneficiary",
+      "prepare",
+      "fields",
+      "continuity",
+      "projects",
+      "instrument",
+      "environmental",
+      "ensured",
+      "scale",
+      "advance",
+      "fulfil",
+      "improvement",
+      "sufficiently",
+      "conclusions",
+      "extending",
+      "fund",
+      "transport",
+      "impact",
+      "significant",
+      "sufficient",
+      "objective",
+      "effective",
+      "protection",
+      "submitted"
+    ],
+    "prompt_length": 1658,
+    "category": "1011 European Union law"
+  }
+}

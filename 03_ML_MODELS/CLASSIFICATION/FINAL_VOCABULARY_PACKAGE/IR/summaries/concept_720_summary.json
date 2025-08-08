@@ -1,0 +1,63 @@
+{
+  "concept_id": "720",
+  "concept_data": {
+    "title": "packaging",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"packaging\" encompasses a range of materials and processes aimed at protecting products while minimizing wastage. Regulations emphasize the importance of compostable and childresistant packaging to mitigate environmental impact and enhance consumer safety. Packagers must navigate inflexibility in compliance, particularly regarding the use of oxo-degradable materials, which can contribute to littering. The role of packaging extends to various sectors, including food and pharmaceuticals, where prepacking and the use of specific substances like diethyleneglycol are regulated. Innovative approaches, such as anaerobic processes for waste management, are encouraged to amplify sustainability efforts, ensuring that packaging solutions are both functional and environmentally responsible.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:53.728761",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2046,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 27,
+      "selected_avg_freq": 13.62
+    },
+    "related_words": [
+      "amplifying",
+      "moist",
+      "hydroxethyl",
+      "paddock",
+      "littering",
+      "prone",
+      "wastage",
+      "compostable",
+      "oxo",
+      "packagers",
+      "plantseed",
+      "childresistant",
+      "inflexibility",
+      "ghs",
+      "notas",
+      "drowsiness",
+      "dizziness",
+      "tricks",
+      "incubator",
+      "cidrerie",
+      "ruwet",
+      "prepackage",
+      "methylococcus",
+      "capsulatus",
+      "alcaligenes",
+      "acidorovans",
+      "packer",
+      "dispatcher",
+      "indispendable",
+      "çöz"
+    ],
+    "prompt_length": 1671,
+    "category": "2031 marketing"
+  }
+}

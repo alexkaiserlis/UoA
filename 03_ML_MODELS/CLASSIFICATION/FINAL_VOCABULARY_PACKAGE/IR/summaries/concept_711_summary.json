@@ -1,0 +1,63 @@
+{
+  "concept_id": "711",
+  "concept_data": {
+    "title": "stockrearing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "livestock farming",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"stockrearing,\" redirected to \"livestock farming,\" encompasses various agricultural activities regulated within the EU framework. This includes the management of breeds such as charolaise, limousine, and salers, which are pivotal in enhancing genetic diversity and productivity. Legal provisions govern practices related to pasturage, ensuring animal welfare and addressing issues like hyperthyroidism and oestrus in livestock. Ethological considerations are crucial for maintaining animal health, while the EU's Eurobarometer surveys public perception of livestock farming's environmental impact. Regulatory measures also tackle inadequacies in land development and the management of diseases like piroplasmosis, ensuring sustainable practices in woodlands and massifs.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:18.428767",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1761,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 75,
+      "selected_avg_freq": 33.13333333333333
+    },
+    "related_words": [
+      "charolaise",
+      "limousine",
+      "salers",
+      "massif",
+      "tns",
+      "nelson",
+      "sofres",
+      "eos",
+      "gallup",
+      "piroplasmosis",
+      "equi",
+      "caballi",
+      "shortlasting",
+      "seronegativity",
+      "govering",
+      "arenas",
+      "giver",
+      "eurobarometer",
+      "stilbene",
+      "unattractive",
+      "scratch",
+      "maine",
+      "culicoides",
+      "ethological",
+      "roughage",
+      "omnibus",
+      "landdevelopment",
+      "anjou",
+      "aubrac",
+      "hyperthyroidism"
+    ],
+    "prompt_length": 1731,
+    "category": "5631 agricultural activity"
+  }
+}

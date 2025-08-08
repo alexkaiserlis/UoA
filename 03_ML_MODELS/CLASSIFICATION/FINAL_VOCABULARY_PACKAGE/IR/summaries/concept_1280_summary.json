@@ -1,0 +1,63 @@
+{
+  "concept_id": "1280",
+  "concept_data": {
+    "title": "occupational hygiene",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "occupational health",
+    "relation_type": "USE"
+  },
+  "summary": "Occupational hygiene, often redirected to \"occupational health,\" encompasses the preventative measures and regulations aimed at safeguarding workers from illnesses and hazards in various workstations. In the EU context, this includes addressing musculoskeletal disorders, vibration exposure, and harmful dusts, particularly in industries like quarrying and construction. The formalization of ergonomic standards is crucial for developing safe work environments, including the use of scaffolding and ladders. Regulatory frameworks anticipate the transmissibility of biologicals and the harmlessness of workplace atmospheres, ensuring that all workers, including immigrants and those engaged in breastfeeding, are protected. The EU promotes flexicurity to enhance job security while cofinancing initiatives that spur advancements in occupational health standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:03.634676",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1336,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 103,
+      "selected_avg_freq": 46.973333333333336
+    },
+    "related_words": [
+      "illnesses",
+      "musculoskeletal",
+      "reenact",
+      "descendent",
+      "daughter",
+      "beech",
+      "icnirp",
+      "scaffolding",
+      "workstations",
+      "heightening",
+      "formalization",
+      "developmet",
+      "oels",
+      "lelystad",
+      "biologicals",
+      "scoel",
+      "esaw",
+      "eods",
+      "immigrants",
+      "personally",
+      "phenotypic",
+      "workstation",
+      "breastfeeding",
+      "anticipating",
+      "provisonally",
+      "screens",
+      "cabs",
+      "spur",
+      "dusts",
+      "ergonomic"
+    ],
+    "prompt_length": 1798,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

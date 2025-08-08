@@ -1,0 +1,63 @@
+{
+  "concept_id": "2991",
+  "concept_data": {
+    "title": "political refugee",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"political refugee\" refers to individuals who seek protection within the territory of EU member states due to a well-founded fear of persecution based on political beliefs. The Common European Asylum System (CEAS) establishes a framework for the reception and evaluation of applications for asylum, ensuring that the validity of claims is assessed appropriately. Under the Council Decision, certain temporary permits may be issued, allowing refugees to stay for an extended period, typically up to several months. The European Union considers the position of political refugees in its Common Foreign and Security Policy (CFSP), adopting measures to support their rights and integration.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:41:07.849510",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 39,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 39,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2384.948717948718
+    },
+    "related_words": [
+      "palestinians",
+      "reception",
+      "stay",
+      "permits",
+      "cfsp",
+      "validity",
+      "considers",
+      "evaluation",
+      "temporary",
+      "extension",
+      "territory",
+      "months",
+      "position",
+      "extended",
+      "entry",
+      "further",
+      "national",
+      "basis",
+      "january",
+      "referred",
+      "adopted",
+      "period",
+      "common",
+      "november",
+      "application",
+      "appropriate",
+      "concerning",
+      "certain",
+      "provided",
+      "december"
+    ],
+    "prompt_length": 1561,
+    "category": "0431 politics and public safety"
+  }
+}

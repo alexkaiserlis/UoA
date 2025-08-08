@@ -1,0 +1,63 @@
+{
+  "concept_id": "5258",
+  "concept_data": {
+    "title": "European Union legal act",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU act",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"European Union legal act,\" redirected to \"EU act,\" encompasses various forms of lawmaking within the EU framework, including regulations, directives, and decisions. These acts govern a wide array of subjects, from migratory fish stocks, such as sardines and shellfish, to asylum policies and environmental protections against oil spills. The EU acts serve as a manual for member states, periodically instituting programs that address issues like inshore fishing and the preservation of marine biodiversity. They also provide a glossary of terms that aids in understanding complex legal concepts, ensuring that achievements in unification and cooperation are maintained. The depositary of these acts is responsible for transmitting amendments and extensions, ensuring that obsolete provisions are lapsed and replaced with more relevant legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:16:55.550589",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 436,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 842,
+      "selected_avg_freq": 426.64
+    },
+    "related_words": [
+      "dolphin",
+      "glossary",
+      "extrajudicial",
+      "lawmaking",
+      "indemnities",
+      "inshore",
+      "viia",
+      "spills",
+      "lessons",
+      "shellfish",
+      "prestige",
+      "bissau",
+      "achievements",
+      "comoros",
+      "amplified",
+      "asylum",
+      "sardines",
+      "belts",
+      "depositary",
+      "exempts",
+      "lapsed",
+      "islamic",
+      "accomplished",
+      "piece",
+      "ices",
+      "migratory",
+      "govern",
+      "extensions",
+      "cod",
+      "transmitting"
+    ],
+    "prompt_length": 1689,
+    "category": "1011 European Union law"
+  }
+}

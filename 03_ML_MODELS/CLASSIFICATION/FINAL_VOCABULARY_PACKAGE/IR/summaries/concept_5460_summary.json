@@ -1,0 +1,63 @@
+{
+  "concept_id": "5460",
+  "concept_data": {
+    "title": "European Bank for Reconstruction and Development",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "EBRD",
+    "relation_type": "USE"
+  },
+  "summary": "The European Bank for Reconstruction and Development (EBRD) plays a pivotal role in fostering economic prosperity and stability across its member countries. Established to address the fragility of post-communist economies, the EBRD embraces a pluralistic approach, engaging in multiparty discussions to tackle inequalities and promote entrepreneurial initiatives. Through quinquennial replenishment of resources, the EBRD signals its commitment to transforming economies, leveraging investments to shelter against corruption and turmoil. The bank's administrators and governors, including leaders from Sofia to Denver, pursue vigorous endeavours to evolve economic frameworks, ensuring disbursements are effectively utilized. The EBRD's Memorandum of Understanding (MOU) elaborates on its strategic objectives, pledging support for sustainable development and fostering ties among nations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:36:21.637617",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 564,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 382,
+      "selected_avg_freq": 150.44666666666666
+    },
+    "related_words": [
+      "shoreline",
+      "pluralistic",
+      "quinquennial",
+      "sip",
+      "denver",
+      "sarcophagus",
+      "multiparty",
+      "entrepreneurial",
+      "deauville",
+      "pledging",
+      "fragility",
+      "signified",
+      "pluralism",
+      "turmoil",
+      "tolerant",
+      "embrace",
+      "evolve",
+      "ebrd",
+      "administrator",
+      "hope",
+      "sofia",
+      "millennium",
+      "governor",
+      "leaders",
+      "pledged",
+      "duplicating",
+      "replenishment",
+      "transforming",
+      "mou",
+      "tacis"
+    ],
+    "prompt_length": 1767,
+    "category": "7611 European organisations"
+  }
+}

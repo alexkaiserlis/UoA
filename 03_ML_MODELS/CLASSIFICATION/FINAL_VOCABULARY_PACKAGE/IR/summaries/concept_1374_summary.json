@@ -1,0 +1,63 @@
+{
+  "concept_id": "1374",
+  "concept_data": {
+    "title": "slaughterhouse",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "meat processing industry",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"slaughterhouse,\" while commonly used, redirects to the preferred term \"meat processing industry\" within EU legal and regulatory frameworks. This industry consists of facilities where animals are dissected and processed, fulfilling strict obligations under various directives. Inspection protocols ensure that meat products, such as those from eupigclass species, are decontaminating and markedet for safety. Furthermore, slaughterhouses must adhere to standards that prevent deterioration of meat, with classifiers enumerating acceptable practices. In regions like Maldegem and Lerida, associations play a crucial role in guaranteeing compliance, addressing bottlenecks, and ensuring that deliverers meet the necessary regulations for refrigerating and distributing dehided products.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:55:02.503673",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2160,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 31,
+      "selected_avg_freq": 14.84
+    },
+    "related_words": [
+      "inespection",
+      "decicion",
+      "inscribe",
+      "maldegem",
+      "muscled",
+      "markedet",
+      "fullfilled",
+      "eupigclass",
+      "slaugterhouse",
+      "lmfel",
+      "assoiation",
+      "lbs",
+      "coinsists",
+      "obligaiton",
+      "dissected",
+      "enumerating",
+      "lerida",
+      "wre",
+      "adjoining",
+      "dehiding",
+      "futhermore",
+      "refrigerating",
+      "moscufo",
+      "atri",
+      "bon",
+      "carnes",
+      "vinhedo",
+      "sif",
+      "dirctive",
+      "wilde"
+    ],
+    "prompt_length": 1738,
+    "category": "6031 agri-foodstuffs"
+  }
+}

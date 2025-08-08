@@ -1,0 +1,63 @@
+{
+  "concept_id": "825",
+  "concept_data": {
+    "title": "work accident",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "occupational accident",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"work accident,\" a term redirected to \"occupational accident,\" refers to incidents occurring in the workplace that result in injuries or illnesses, including musculoskeletal disorders. Such accidents can arise from various phenomena, including unsafe scaffolding, improper use of ladders, or exposure to flammable materials. Employers are mandated to implement safety measures to protect workers, particularly migrants and immigrants, who may face unique challenges. The EU promotes adaptability and visibility in workplace safety through initiatives like leaflets and petitions. Understanding these accidents is crucial for developing quantifiable metrics and enhancing worker protection across domains, ultimately strengthening the workforce's resilience against fatal incidents.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:49.733201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 619,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 430,
+      "selected_avg_freq": 191.26666666666668
+    },
+    "related_words": [
+      "illnesses",
+      "musculoskeletal",
+      "scaffolding",
+      "leaflets",
+      "petitions",
+      "esaw",
+      "eods",
+      "immigrants",
+      "personally",
+      "oxidizing",
+      "spur",
+      "ladders",
+      "relaunched",
+      "flexicurity",
+      "revealing",
+      "descendants",
+      "quarrying",
+      "subordinated",
+      "quantifiable",
+      "obtainable",
+      "flammable",
+      "comittee",
+      "metadata",
+      "occuring",
+      "skill",
+      "explosive",
+      "employer",
+      "ropes",
+      "migrants",
+      "adaptability"
+    ],
+    "prompt_length": 1752,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

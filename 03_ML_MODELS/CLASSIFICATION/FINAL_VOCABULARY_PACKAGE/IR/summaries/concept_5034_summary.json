@@ -1,0 +1,63 @@
+{
+  "concept_id": "5034",
+  "concept_data": {
+    "title": "ruminant",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "cattle",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"ruminant\" is redirected to the preferred term \"cattle,\" encompassing various breeds such as Charolaise, Limousine, and Salers. Cattle are vital means of agricultural production, with operators required to adhere to stringent measures for documentation and identification. These include immunized populations and the management of diseases like brucellois and CBPP. Regulatory frameworks necessitate the monitoring of subclinical conditions and the proper handling of germinal materials. Additionally, slaughterhouses must comply with standards to ensure humane treatment and traceability. The complexities of breedings and the challenges posed by irregularities in animal health statistics are critical for maintaining livestock welfare across regions like łódzkie and małopolskie.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:17.272749",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 4335,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.933333333333334
+    },
+    "related_words": [
+      "visibly",
+      "acdp",
+      "brucellois",
+      "bais",
+      "repbulic",
+      "czecvh",
+      "skull",
+      "incisor",
+      "erupted",
+      "identifed",
+      "powiat",
+      "charolaise",
+      "limousine",
+      "salers",
+      "muscled",
+      "łódzkie",
+      "małopolskie",
+      "massif",
+      "docmentation",
+      "foetus",
+      "immunized",
+      "zootechnic",
+      "adopoted",
+      "dicalcium",
+      "subclinical",
+      "tuberculins",
+      "zachodniopomorskie",
+      "tsemm",
+      "trated",
+      "saame"
+    ],
+    "prompt_length": 1724,
+    "category": "5626 means of agricultural production"
+  }
+}

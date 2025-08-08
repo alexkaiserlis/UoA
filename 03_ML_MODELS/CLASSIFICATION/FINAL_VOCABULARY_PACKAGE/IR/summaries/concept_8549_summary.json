@@ -1,0 +1,63 @@
+{
+  "concept_id": "8549",
+  "concept_data": {
+    "title": "European Globalisation Adjustment Fund",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Globalisation Adjustment Fund (EGF) is a key EU mechanism designed to support workers affected by significant structural changes in global trade patterns. It provides financial assistance to regions, such as Midtjylland in Denmark, where companies like Flextronics and PSA Citroën face layoffs. The EGF aims to facilitate the reintegration of displaced workers into the labor market through agile and flexible measures, including training and job placement services. This fund is crucial for maintaining employment levels in sectors impacted by globalisation, such as automotive and manufacturing, exemplified by companies like Whirlpool and Vestas. The EGF underscores the EU's commitment to social services and economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:45:55.631883",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 385,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 191,
+      "selected_avg_freq": 41.89333333333333
+    },
+    "related_words": [
+      "snaigė",
+      "glasfiber",
+      "astrazeneca",
+      "arnsberg",
+      "flextronics",
+      "salo",
+      "midtjylland",
+      "denmarksubmitted",
+      "tomaso",
+      "automobili",
+      "psa",
+      "citroën",
+      "merloni",
+      "germanysubmitted",
+      "zalco",
+      "zeeland",
+      "ecl",
+      "manroland",
+      "aldi",
+      "epe",
+      "assoc",
+      "tabak",
+      "gad",
+      "simplifiée",
+      "agile",
+      "grupo",
+      "sprider",
+      "saab",
+      "mechel",
+      "campia"
+    ],
+    "prompt_length": 1651,
+    "category": "4406 employment"
+  }
+}

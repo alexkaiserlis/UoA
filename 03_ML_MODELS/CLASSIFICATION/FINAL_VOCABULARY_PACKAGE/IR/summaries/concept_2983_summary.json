@@ -1,0 +1,63 @@
+{
+  "concept_id": "2983",
+  "concept_data": {
+    "title": "grouping of farms",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"grouping of farms\" pertains to the strategic concentration of agricultural producers into associations or groups, aimed at enhancing their collective bargaining power and market presence. This regulatory framework facilitates the management of agricultural activities by allowing producers to achieve sufficient supply volumes and negotiate better terms for their produce. In the EU context, rules laid down in various regulations, including those amending previous EEC directives, set the minimum requirements for membership and participation in these group structures. The development of such associations is crucial for rural economic growth, as they cover diverse sectors, including potato production, and ensure detailed adjustments to agricultural practices over defined periods.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:38:28.052607",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 63,
+      "requested_words": 150,
+      "min_frequency_found": 147,
+      "max_frequency_found": 4108,
+      "selected_words": 63,
+      "selected_min_freq": 147,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2283.9523809523807
+    },
+    "related_words": [
+      "potato",
+      "membership",
+      "concentration",
+      "rural",
+      "associations",
+      "calculating",
+      "produce",
+      "producer",
+      "adjustments",
+      "structures",
+      "volume",
+      "periods",
+      "agriculture",
+      "covering",
+      "sectors",
+      "groups",
+      "finland",
+      "achieve",
+      "supply",
+      "minimum",
+      "setting",
+      "facilitate",
+      "sufficient",
+      "results",
+      "agricultural",
+      "lays",
+      "sector",
+      "production",
+      "detailed",
+      "activities"
+    ],
+    "prompt_length": 1651,
+    "category": "5616 farming systems"
+  }
+}

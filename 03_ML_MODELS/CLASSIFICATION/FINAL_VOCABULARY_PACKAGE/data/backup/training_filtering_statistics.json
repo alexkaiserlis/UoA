@@ -1,0 +1,40 @@
+{
+  "filtering_summary": {
+    "original_concepts": 7508,
+    "filtered_concepts": 4103,
+    "removed_concepts": 3405,
+    "retention_percentage": 54.65
+  },
+  "content_comparison": {
+    "original": {
+      "concepts_with_alt_labels": 4002,
+      "concepts_with_parents": 6612,
+      "concepts_with_eurlex_source": 7077,
+      "concepts_with_paths": 4103
+    },
+    "filtered": {
+      "concepts_with_alt_labels": 2556,
+      "concepts_with_parents": 3693,
+      "concepts_with_eurlex_source": 4074,
+      "concepts_with_paths": 4103
+    }
+  },
+  "training_data_coverage": {
+    "total_hierarchical_paths": 4103,
+    "unique_root_categories": 497,
+    "covered_source_documents": 2772,
+    "depth_distribution": {
+      "2": 2241,
+      "3": 1191,
+      "1": 410,
+      "4": 245,
+      "5": 16
+    },
+    "avg_paths_per_concept": 1.0
+  },
+  "data_quality": {
+    "concepts_with_complete_metadata": 2308,
+    "concepts_with_rich_paths": 4103,
+    "average_alt_labels_per_concept": 1.5
+  }
+}

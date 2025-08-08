@@ -1,0 +1,63 @@
+{
+  "concept_id": "4474",
+  "concept_data": {
+    "title": "toxicology",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Toxicology, a critical field within health regulations, focuses on the study of the effects of substances, including hallucinogens like LSD and dissociatives such as ketamine and phencyclidine. EU regulatory frameworks necessitate adequate toxicological assessments to evaluate the neurochemistry of psychoactive compounds, including opioids and their analgesic properties. Scientists conduct rigorous analyses to understand the psychopharmacological effects, such as euphoria, tremors, and mydriasis, associated with substances like methylenedioxypyrovalerone and methoxetamine. The implications of overdoses, including auditory hallucinations and paranoid outbursts, underscore the importance of effective medicating practices and the regulation of substances like doxylamine and pyrovalerone in public health policy.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:03.322262",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1022,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 53,
+      "selected_avg_freq": 17.893333333333334
+    },
+    "related_words": [
+      "quest",
+      "scientist",
+      "adquate",
+      "ikf",
+      "aminopropyl",
+      "fury",
+      "mydriasis",
+      "tremor",
+      "monoaminergic",
+      "nbome",
+      "benzamide",
+      "methylenedioxypyrovalerone",
+      "mdpv",
+      "methoxyphenyl",
+      "ethylamino",
+      "cyclohexanone",
+      "methoxetamine",
+      "neurochemistry",
+      "serotonergic",
+      "hallucinogen",
+      "auditory",
+      "hallucinations",
+      "trauma",
+      "lsd",
+      "opioid",
+      "analgesic",
+      "doxylam",
+      "doxylamine",
+      "antihistaminic",
+      "sedative"
+    ],
+    "prompt_length": 1756,
+    "category": "2841 health"
+  }
+}

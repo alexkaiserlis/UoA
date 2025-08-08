@@ -1,0 +1,63 @@
+{
+  "concept_id": "953",
+  "concept_data": {
+    "title": "extradition",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Extradition is a critical legal process in EU criminal law, facilitating the surrender of detained suspects to another jurisdiction for prosecution or punishment. This mechanism is essential for addressing transnational crimes, such as terrorism, piracy, and armed robbery, thereby enhancing deterrence against such offenses. The EU's legal framework, particularly through the Justice and Home Affairs (JHA) agenda, emphasizes cooperation among member states to ensure unambiguous procedures for extradition. Diplomatic relations, such as those with the USA and countries like Aruba and Somalia, play a vital role in these processes. By renewing commitments and carefully elaborating on legal precedents, the EU aims to suppress crime and enhance humanitarian efforts in regions affected by violence, including the Horn of Africa.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:00:35.223396",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 360,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 994,
+      "selected_avg_freq": 426.1333333333333
+    },
+    "related_words": [
+      "arrested",
+      "suspects",
+      "tfg",
+      "attorney",
+      "extradition",
+      "deterrence",
+      "aruba",
+      "atalanta",
+      "emanating",
+      "robbery",
+      "surrender",
+      "suppressing",
+      "rca",
+      "washington",
+      "somali",
+      "eufor",
+      "piracy",
+      "detained",
+      "unambiguous",
+      "horn",
+      "antilles",
+      "somalia",
+      "unsc",
+      "repression",
+      "imminent",
+      "associate",
+      "precedent",
+      "diplomatic",
+      "terrorism",
+      "complementing"
+    ],
+    "prompt_length": 1670,
+    "category": "1216 criminal law"
+  }
+}

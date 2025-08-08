@@ -1,0 +1,63 @@
+{
+  "concept_id": "7892",
+  "concept_data": {
+    "title": "Western Thrace",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Eastern Macedonia and Thrace",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"Western Thrace,\" categorized under regions of EU Member States, is redirected to \"Eastern Macedonia and Thrace.\" This region in Greece is significant for its role in veterinary health, particularly in combating exotic diseases such as foot and mouth disease, which pose a danger to livestock. The EU has established a buffer zone to prevent the spreading of viruses and epizootics, ensuring effective health measures are in place. Recent financing initiatives aim to protect animal health in this territory, representing a maximum contribution to the overall health of regions in Europe. The establishment of authorized veterinary protocols is crucial for maintaining the integrity of this frontier area.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:56:53.502650",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1830.9146341463415
+    },
+    "related_words": [
+      "averted",
+      "evros",
+      "epizootics",
+      "viruses",
+      "buffer",
+      "exotic",
+      "strains",
+      "spreading",
+      "foot",
+      "mouth",
+      "broken",
+      "livestock",
+      "turkey",
+      "frontier",
+      "danger",
+      "completely",
+      "combat",
+      "eastern",
+      "zone",
+      "emergency",
+      "disease",
+      "south",
+      "represent",
+      "greek",
+      "veterinary",
+      "caused",
+      "protect",
+      "authorized",
+      "greece",
+      "animal"
+    ],
+    "prompt_length": 1693,
+    "category": "7211 regions of EU Member States"
+  }
+}

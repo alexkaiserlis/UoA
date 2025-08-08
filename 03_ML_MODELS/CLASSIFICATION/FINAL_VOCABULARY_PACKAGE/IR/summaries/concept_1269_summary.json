@@ -1,0 +1,63 @@
+{
+  "concept_id": "1269",
+  "concept_data": {
+    "title": "used oil",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"used oil\" pertains to oils that have undergone consumption and are classified as waste due to their deteriorated state. In the EU regulatory framework, strict guidelines govern the handling, storage, and disposal of used oil to mitigate environmental impacts. These regulations promote recycling processes and the development of alternative uses for used oil, ensuring that it is managed in an environmentally sustainable manner. The nomenclature surrounding used oil includes provisions for collection and temporary storage, with specific exemptions for certain applications. Member States, such as Ireland, are tasked with maintaining compliance through regular revisions and findings that support the mission of reducing waste and promoting renewable resources.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:28.132439",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 166,
+      "requested_words": 150,
+      "min_frequency_found": 53,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 53,
+      "selected_max_freq": 3411,
+      "selected_avg_freq": 1735.18
+    },
+    "related_words": [
+      "catering",
+      "cooking",
+      "autonomously",
+      "classed",
+      "indefinite",
+      "recycling",
+      "renewable",
+      "visit",
+      "enjoy",
+      "connected",
+      "oils",
+      "waste",
+      "processes",
+      "mission",
+      "handling",
+      "strict",
+      "suspend",
+      "feed",
+      "uses",
+      "adjust",
+      "findings",
+      "authorise",
+      "revision",
+      "alternative",
+      "oil",
+      "english",
+      "suspended",
+      "disposal",
+      "storage",
+      "nomenclature"
+    ],
+    "prompt_length": 1672,
+    "category": "5216 deterioration of the environment"
+  }
+}

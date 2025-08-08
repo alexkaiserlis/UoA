@@ -1,0 +1,63 @@
+{
+  "concept_id": "871",
+  "concept_data": {
+    "title": "establishment",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"establishment\" refers to the site where business organizations sprout and operate, particularly in the food production chain. These establishments must adhere to stringent hygiene and safety regulations to mitigate risks posed by pathogenic bacteria, such as Escherichia coli and its associated toxins. The European Food Safety Authority (EFSA) conducts visits to assess compliance, focusing on microbiological safety and contamination prevention. Conditional approvals for establishments are based on scientific assessments of their practices, ensuring that foodstuffs produced are safe for consumption. Thus, the establishment serves as a primary source of food, multiplying the importance of regulatory oversight in maintaining public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:52:13.357974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 126,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 126,
+      "selected_min_freq": 22,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1709.5873015873017
+    },
+    "related_words": [
+      "sprout",
+      "sprouted",
+      "shiga",
+      "stec",
+      "multiply",
+      "sprouting",
+      "sprouts",
+      "escherichia",
+      "humidity",
+      "toxin",
+      "coli",
+      "bacteria",
+      "bacterial",
+      "approvals",
+      "microbiological",
+      "pathogens",
+      "pathogenic",
+      "temperature",
+      "dry",
+      "site",
+      "efsa",
+      "visit",
+      "posed",
+      "contamination",
+      "outbreaks",
+      "facility",
+      "seeds",
+      "hygiene",
+      "concludes",
+      "conditional"
+    ],
+    "prompt_length": 1668,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1505",
+  "concept_data": {
+    "title": "Northern Ireland",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Northern Ireland\" within EU legal and regulatory frameworks encompasses various aspects, including agricultural regulations affecting cattlefeed and weanlings. The region's unique political landscape, marked by nationalists and unionists, influences its regulatory environment, particularly concerning energy interconnectors like those at Ballylumford and Kilroot. Seasonalization and deseasonalization practices are critical in managing agricultural outputs, while issues of overrecovery and underrecovery in energy production, especially from coalpower and gas, are pertinent. Regulatory measures also address the environmental impacts of practices such as desulphurisation and the management of grasslands. The complexities of Northern Ireland's legal status necessitate careful consideration of EU directives and their implications for local governance and economic activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:47:49.866334",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 2066,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 57,
+      "selected_avg_freq": 25.64
+    },
+    "related_words": [
+      "cattlefeed",
+      "duplicated",
+      "sires",
+      "seasonalization",
+      "weanlings",
+      "ballylumford",
+      "coolkeeragh",
+      "kilroot",
+      "nie",
+      "interconnector",
+      "interruptible",
+      "twyholm",
+      "islandmagee",
+      "overrecovery",
+      "underrecovery",
+      "rib",
+      "transfered",
+      "habitual",
+      "gigha",
+      "disrutption",
+      "kindom",
+      "coalpower",
+      "departures",
+      "kwh",
+      "grasslands",
+      "sdrs",
+      "subjection",
+      "nationalists",
+      "unionists",
+      "enclosing"
+    ],
+    "prompt_length": 1715,
+    "category": "7206 Europe"
+  }
+}

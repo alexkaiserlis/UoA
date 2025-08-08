@@ -1,0 +1,63 @@
+{
+  "concept_id": "2570",
+  "concept_data": {
+    "title": "Apulia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Apulia, or Puglia, is a significant region within the EU Member States, known for its diverse agricultural practices, including the cultivation of ornamental plants and the farming of sheepmeat and goatmeat. The region's farmers often engage in modernization efforts, submitting applications for aids and investments to enhance their operations. Regulatory frameworks verify compliance with EU standards, ensuring that products like veal and beef are marketed effectively. Apulia also hosts centres dedicated to the installation of sustainable practices, satisfying the limitations set by EU directives. The creation of cooperative groupings among farmers fosters collaboration, ultimately contributing to the region's economic development and competitiveness.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:47:00.771558",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 2481,
+      "selected_avg_freq": 1123.2866666666666
+    },
+    "related_words": [
+      "nursery",
+      "puglia",
+      "apulia",
+      "verifies",
+      "practising",
+      "remarks",
+      "possessing",
+      "diplomas",
+      "grouping",
+      "flowers",
+      "occupation",
+      "ornamental",
+      "goatmeat",
+      "modernization",
+      "sheepmeat",
+      "reimbursed",
+      "summary",
+      "installation",
+      "satisfying",
+      "scheduled",
+      "limitations",
+      "centres",
+      "reserved",
+      "attained",
+      "submitting",
+      "young",
+      "eaggf",
+      "veal",
+      "premises",
+      "farming"
+    ],
+    "prompt_length": 1697,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2214",
+  "concept_data": {
+    "title": "oxygen",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"oxygen\" within EU legal and regulatory frameworks is critical for various applications, particularly in the analysis of products such as wines and water. Regulations often require the determination of oxygen isotopes to ensure authenticity and quality. Methods for checking the ratio of oxygen in these products are established by international organizations, providing criteria for validity. The management of oxygen levels is crucial for maintaining the quality of wines, with specific methods developed to analyze oxygen content. These regulations, adopted and amended through EEC measures, constitute a common framework for ensuring that products in the market meet established standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:38.106804",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 58,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 58,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2031.9827586206898
+    },
+    "related_words": [
+      "isotope",
+      "num",
+      "den",
+      "oxygen",
+      "analysing",
+      "authenticity",
+      "internationally",
+      "wines",
+      "ratio",
+      "checking",
+      "wine",
+      "recognized",
+      "water",
+      "description",
+      "office",
+      "validity",
+      "developed",
+      "method",
+      "analysis",
+      "constitute",
+      "methods",
+      "better",
+      "contains",
+      "determining",
+      "added",
+      "organization",
+      "way",
+      "criteria",
+      "international",
+      "management"
+    ],
+    "prompt_length": 1630,
+    "category": "6811 chemistry"
+  }
+}

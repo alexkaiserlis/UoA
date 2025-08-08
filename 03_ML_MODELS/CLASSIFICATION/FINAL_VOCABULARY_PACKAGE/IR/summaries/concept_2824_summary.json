@@ -1,0 +1,63 @@
+{
+  "concept_id": "2824",
+  "concept_data": {
+    "title": "noise protection",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Noise protection, a critical aspect of EU environmental policy, addresses the externality of noise pollution, which can adversely affect public health and well-being. The EU incentivises member states to implement measures mandatorily, such as retrofitting machinery and promoting the use of quieter technologies, including silent lawnmowers and quadricycles. Localised strategies, like the installation of noise barriers in urban areas such as polígono zones, enhance protection. Additionally, the use of earplugs and other protectors is encouraged in workplaces to ensure hygiene and safety. The integration of these measures aims to internalise the costs of noise, fostering a quieter and healthier environment for all.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:07:20.000637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 842,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 197,
+      "selected_avg_freq": 64.75333333333333
+    },
+    "related_words": [
+      "quietest",
+      "externality",
+      "incentivising",
+      "ndtac",
+      "quiet",
+      "internalisation",
+      "incentivise",
+      "sidecar",
+      "earplugs",
+      "climax",
+      "polígono",
+      "llobregat",
+      "parets",
+      "medios",
+      "higiene",
+      "trabajo",
+      "plugs",
+      "agència",
+      "catalana",
+      "consum",
+      "impounded",
+      "lawn",
+      "trimmers",
+      "retrofitted",
+      "machining",
+      "quadricycles",
+      "valles",
+      "mollet",
+      "cabs",
+      "hewlett"
+    ],
+    "prompt_length": 1673,
+    "category": "5206 environmental policy"
+  }
+}

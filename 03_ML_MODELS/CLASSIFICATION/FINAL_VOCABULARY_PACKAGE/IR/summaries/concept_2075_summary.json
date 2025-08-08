@@ -1,0 +1,63 @@
+{
+  "concept_id": "2075",
+  "concept_data": {
+    "title": "Nord-Pas-de-Calais",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nord-Pas-de-Calais, categorized under regions of EU Member States, encompasses key urban centers such as Douai, Valenciennes, and Avesnes. This region is significant in EU legal frameworks, particularly regarding the allocation of funding through the European Regional Development Fund (ERDF) and the European Social Fund (ESF). The programming of financial packages often foresees additionality in investments, indexed to inflation and economic readiness. Statutory frameworks dictate the distribution of loans, with the European Investment Bank (EIB) playing a crucial role in lending. The region's districts are subject to specific allocations, which are modified based on economic forecasts and recipient needs, ensuring that the intent of EU policies is precisely satisfied.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:45:36.179346",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 381,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1091,
+      "selected_avg_freq": 618.2066666666667
+    },
+    "related_words": [
+      "avesnes",
+      "douai",
+      "valenciennes",
+      "arrondissements",
+      "cor",
+      "rechar",
+      "calais",
+      "pas",
+      "nord",
+      "fifg",
+      "districts",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "packages",
+      "adopts"
+    ],
+    "prompt_length": 1654,
+    "category": "7211 regions of EU Member States"
+  }
+}

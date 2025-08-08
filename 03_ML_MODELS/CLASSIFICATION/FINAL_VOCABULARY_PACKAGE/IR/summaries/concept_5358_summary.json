@@ -1,0 +1,63 @@
+{
+  "concept_id": "5358",
+  "concept_data": {
+    "title": "on line data service",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"on line data service\" concept within EU legal and regulatory frameworks pertains to the architecture of computerized systems that facilitate the integration and tracing of data across networks. This service supports various sectors, including veterinary and zootechnical fields, by providing a smooth continuity of information flow. It enables firms to identify movements and adaptations of units in real-time, ensuring compliance with scheduled deadlines and charges. Through collaboration and preparatory studies, the service enhances the depth of data available for decision-making. In countries like Bulgaria and Romania, these services are crucial for adapting to evolving regulatory requirements, bringing options for live data management and effective contract execution.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:58:09.343034",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 193,
+      "requested_words": 150,
+      "min_frequency_found": 54,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 54,
+      "selected_max_freq": 2740,
+      "selected_avg_freq": 1344.82
+    },
+    "related_words": [
+      "animo",
+      "architecture",
+      "seminars",
+      "tracing",
+      "linking",
+      "computerized",
+      "traces",
+      "integrating",
+      "computerised",
+      "additions",
+      "computer",
+      "identifies",
+      "depth",
+      "zootechnical",
+      "host",
+      "scheduled",
+      "collaboration",
+      "firm",
+      "options",
+      "listing",
+      "preparatory",
+      "bringing",
+      "identifying",
+      "movements",
+      "works",
+      "centre",
+      "refer",
+      "charges",
+      "deadlines",
+      "studies"
+    ],
+    "prompt_length": 1704,
+    "category": "3236 information technology and data processing"
+  }
+}

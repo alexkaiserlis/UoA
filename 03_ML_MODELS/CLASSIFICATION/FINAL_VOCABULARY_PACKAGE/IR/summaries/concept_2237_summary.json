@@ -1,0 +1,63 @@
+{
+  "concept_id": "2237",
+  "concept_data": {
+    "title": "plot",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"plot\" refers to a defined parcel of land utilized within various farming systems. This concept is critical for farmers applying for support under the European Agricultural Fund for Rural Development (EAFRD), where eligibility is often determined by the characteristics of these plots, including altitude and seasonal weather conditions such as snowfalls. Farmers must reliably declare their plots, identifying deficiencies and ensuring compliance with regulations. The modulation of support payments may depend on the size and use of these parcels, particularly in alpine and mountain regions, where heavy winter conditions can impact agricultural productivity. Thus, understanding the legal implications of land plots is essential for applicants intending to finalize their claims and prevent potential reductions in support.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:27:04.569346",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 193,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2507,
+      "selected_avg_freq": 1145.3666666666666
+    },
+    "related_words": [
+      "snowfalls",
+      "lpis",
+      "constitutive",
+      "pastures",
+      "parcel",
+      "reliably",
+      "altitude",
+      "pasture",
+      "alpine",
+      "parcels",
+      "intending",
+      "finalise",
+      "eafrd",
+      "modulation",
+      "mountain",
+      "winter",
+      "mutatis",
+      "mutandis",
+      "launch",
+      "visits",
+      "experienced",
+      "delayed",
+      "deficiencies",
+      "weather",
+      "austrian",
+      "season",
+      "similarly",
+      "late",
+      "detected",
+      "ability"
+    ],
+    "prompt_length": 1651,
+    "category": "5616 farming systems"
+  }
+}

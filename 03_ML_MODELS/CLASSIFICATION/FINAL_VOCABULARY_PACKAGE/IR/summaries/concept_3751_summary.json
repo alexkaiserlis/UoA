@@ -1,0 +1,63 @@
+{
+  "concept_id": "3751",
+  "concept_data": {
+    "title": "retirement pension",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "pension scheme",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"retirement pension,\" categorized under social protection, is often redirected to the preferred term \"pension scheme.\" In the EU regulatory framework, pension schemes are essential for ensuring the financial security of the elderly and their dependants. These schemes involve actuarial assessments to manage liabilities and ensure solvency. Privatization trends have led to the emergence of concessionary schemes, where private entities manage pensioning processes. Regulatory bodies like EIOPA oversee these frameworks, ensuring that remuneration structures are fair and that trustees act in the best interest of beneficiaries. Challenges such as inherited arrears and the need for budgeted adjustments highlight the complexities of pension management in a diversifying economic landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:11:02.047803",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 999,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 245,
+      "selected_avg_freq": 113.50666666666666
+    },
+    "related_words": [
+      "liablilities",
+      "subsidence",
+      "concessionary",
+      "necesssary",
+      "dependants",
+      "privatize",
+      "bargaining",
+      "eiopa",
+      "unworked",
+      "venting",
+      "actuarial",
+      "survivors",
+      "wise",
+      "trustees",
+      "tips",
+      "inherited",
+      "pensioning",
+      "retired",
+      "privatized",
+      "methane",
+      "remunerations",
+      "gdr",
+      "smokeless",
+      "succeeding",
+      "accommodated",
+      "overpaid",
+      "varese",
+      "conglomerate",
+      "availed",
+      "pumping"
+    ],
+    "prompt_length": 1724,
+    "category": "2836 social protection"
+  }
+}

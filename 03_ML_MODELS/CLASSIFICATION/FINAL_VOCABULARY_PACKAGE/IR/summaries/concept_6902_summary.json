@@ -1,0 +1,63 @@
+{
+  "concept_id": "6902",
+  "concept_data": {
+    "title": "start-up capital",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": true,
+    "preferred_term": "early-stage capital",
+    "relation_type": "USE"
+  },
+  "summary": "\"Start-up capital,\" also referred to as \"early-stage capital,\" is a critical component in financing and investment within the EU, particularly for innovative SMEs and biotech ventures. This concept encompasses funds necessary for nascent enterprises to overcome initial barriers and scale their operations. Regulatory frameworks aim to enhance entrepreneurship by reforming access to capital through various intermediaries, ensuring observance of sectoral standards. The dialogue among actors in this space, including venture capitalists and micro-financers, is essential for fostering a transnational ecosystem that supports job creation and innovation. By addressing the necessity of phased funding, the EU seeks to respond to the expectations of emerging enterprises and mitigate failures in the start-up landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:17.674825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 318,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1020,
+      "selected_avg_freq": 518.18
+    },
+    "related_words": [
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "jev",
+      "jop",
+      "ceecs",
+      "ups",
+      "biotechnologies",
+      "nis",
+      "scaled",
+      "etf",
+      "performs",
+      "sme",
+      "reforming",
+      "entrepreneurship",
+      "sciences",
+      "venture",
+      "ventures",
+      "careful",
+      "latin",
+      "failures",
+      "intermediaries",
+      "losing",
+      "barcelona",
+      "transnational",
+      "money",
+      "craft",
+      "reality",
+      "actors",
+      "asia"
+    ],
+    "prompt_length": 1691,
+    "category": "2426 financing and investment"
+  }
+}

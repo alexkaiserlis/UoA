@@ -1,0 +1,63 @@
+{
+  "concept_id": "5105",
+  "concept_data": {
+    "title": "candidate",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU electoral procedures, the term \"candidate\" refers to individuals designated for a vacant seat within various institutions, such as the European Parliament or advisory agencies. Candidates are nominated through established statutes, which outline the process for filling vacancies arising from resignation or expired terms. Governments and organizations may submit lists of candidates, ensuring representation across sectors, including energy and steel. The nomination process often involves consultations and notifications to relevant parties, ensuring that all candidates are duly informed. Ultimately, the selection of candidates is crucial for maintaining effective governance and representation within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:45.376608",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1511.5064935064936
+    },
+    "related_words": [
+      "elaine",
+      "drage",
+      "dujardin",
+      "thierry",
+      "vacancy",
+      "allotted",
+      "resignation",
+      "vacant",
+      "filled",
+      "statutes",
+      "seat",
+      "seats",
+      "nomination",
+      "candidates",
+      "twice",
+      "designating",
+      "consultative",
+      "appointing",
+      "representation",
+      "renewed",
+      "paragraphs",
+      "notifications",
+      "coal",
+      "workers",
+      "attention",
+      "steel",
+      "governments",
+      "atomic",
+      "expired",
+      "ecsc"
+    ],
+    "prompt_length": 1671,
+    "category": "0416 electoral procedure and voting"
+  }
+}

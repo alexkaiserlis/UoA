@@ -1,0 +1,63 @@
+{
+  "concept_id": "6569",
+  "concept_data": {
+    "title": "safety of food",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "food safety",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"food safety,\" a redirect from \"safety of food,\" encompasses the regulatory framework ensuring that food products are free from harmful substances, including contaminants like naphthalenol and chlorohydrins. The EU's legal instruments address various aspects, such as the use of additives like advantame and the presence of substances like vinylpyridine in food packaging. Regulations also cover the safety of food additives, including curcumine and xylitol, while monitoring potential spoilage agents like lecanicillium and muscarium. The EU emphasizes the importance of preventing health issues, including encephalopathies, through stringent controls on food composition, labeling, and traceability, ensuring consumer protection and public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:52.751998",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 5400,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.586666666666667
+    },
+    "related_words": [
+      "naphthalenol",
+      "anatase",
+      "rutile",
+      "pearlescence",
+      "reassign",
+      "fumaric",
+      "casei",
+      "attc",
+      "advantame",
+      "tabletop",
+      "vinylpyridine",
+      "ethylcellulose",
+      "selenised",
+      "dicopper",
+      "trihydroxide",
+      "diglycidyl",
+      "chlorohydrins",
+      "rosins",
+      "celebratory",
+      "tricalcium",
+      "flowable",
+      "heptahydrate",
+      "niacin",
+      "nicotinic",
+      "nicotinamide",
+      "curcumine",
+      "citrates",
+      "geist",
+      "picolinate",
+      "panthenol"
+    ],
+    "prompt_length": 1722,
+    "category": "2841 health"
+  }
+}

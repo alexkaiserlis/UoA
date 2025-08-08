@@ -1,0 +1,63 @@
+{
+  "concept_id": "5898",
+  "concept_data": {
+    "title": "Slovenia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Slovenia, a member state of the European Union, is characterized by its rich political geography and diverse cultural heritage. The country, known for its unique culinary specialties like žlikrofi and teran, plays a significant role in EU regulatory frameworks. Legal documents often reference Slovenian regions such as the primorska and kočevski areas, highlighting their developmental initiatives. Key figures like Aleš and Jasmina contribute to Slovenia’s legislative processes, while entities like the Developmental Agency (razvojna) promote sustainable practices. Slovenia's commitment to European values is evident in its export strategies (izvozna) and environmental policies, particularly in the management of its gozdni resources and the preservation of cultural sites like Štanjel and the Idrijski region.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:58:49.598131",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 2565,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 8.706666666666667
+    },
+    "related_words": [
+      "aleš",
+      "čerin",
+      "majcen",
+      "jasmina",
+      "vidmar",
+      "franci",
+      "vovk",
+      "smolnikar",
+      "meglič",
+      "siniša",
+      "germovšek",
+      "darja",
+      "delač",
+      "felda",
+      "gregor",
+      "miklic",
+      "sovič",
+      "kovačič",
+      "pečan",
+      "štebe",
+      "halb",
+      "colarič",
+      "kovše",
+      "sid",
+      "izvozna",
+      "razvojna",
+      "slovenski",
+      "idrijski",
+      "žlikrofi",
+      "kočevski"
+    ],
+    "prompt_length": 1591,
+    "category": "7236 political geography"
+  }
+}

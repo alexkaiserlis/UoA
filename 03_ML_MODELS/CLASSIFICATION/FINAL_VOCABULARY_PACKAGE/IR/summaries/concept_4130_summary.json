@@ -1,0 +1,63 @@
+{
+  "concept_id": "4130",
+  "concept_data": {
+    "title": "most favoured nation treatment",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "most favoured nation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"most favoured nation treatment,\" often referred to as \"most favoured nation,\" is a fundamental principle in international trade agreements, particularly within the framework of the World Trade Organization (WTO). Instituted during the Marrakesh Agreement and further developed in the Uruguay Round, this principle obligates countries to extend preferential treatment to all members, ensuring that any trade advantage granted to one nation must be afforded to all. This multilateral approach aims to eliminate discriminatory practices and promote fair competition among suppliers. In the context of EU regulations, it enables member states to negotiate waivers and adopt joint positions during ministerial conferences, thereby enhancing their collective interests in global trade negotiations. The principle is crucial for concluding agreements that set the agenda for international trade, ensuring that developed and developing countries alike benefit from equitable treatment.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:37:19.968803",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 97,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 97,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1882.319587628866
+    },
+    "related_words": [
+      "doha",
+      "waivers",
+      "marrakesh",
+      "waiver",
+      "agenda",
+      "ministerial",
+      "instituted",
+      "wto",
+      "brazil",
+      "enabled",
+      "suppliers",
+      "uruguay",
+      "exceptionally",
+      "eastern",
+      "like",
+      "multilateral",
+      "preferential",
+      "conclude",
+      "conference",
+      "appointed",
+      "negotiated",
+      "derogating",
+      "whereby",
+      "service",
+      "federal",
+      "recommendation",
+      "negotiations",
+      "adopting",
+      "developed",
+      "representatives"
+    ],
+    "prompt_length": 1740,
+    "category": "2021 international trade"
+  }
+}

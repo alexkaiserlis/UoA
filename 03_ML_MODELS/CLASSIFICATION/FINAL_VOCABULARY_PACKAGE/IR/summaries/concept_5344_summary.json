@@ -1,0 +1,63 @@
+{
+  "concept_id": "5344",
+  "concept_data": {
+    "title": "European Atomic Energy Community",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EAEC",
+    "relation_type": "USE"
+  },
+  "summary": "The European Atomic Energy Community (EAEC), a pivotal entity in the European construction framework, aims to promote peaceful nuclear energy applications for mankind. It characterizes the legal and regulatory landscape surrounding nuclear fission and fusion technologies, ensuring compliance with criteria set by international bodies like the IAEA. The EAEC conducts oversight on crossborder nuclear activities, focusing on decommissioning reactors and managing fissile materials. Its regulatory framework includes provisions for extradition and prosecution of violations, with tribunals established for adjudicating disputes. The EAEC also engages in collaborations, such as ITER, to advance nuclear excellence, while addressing challenges like thermonuclear diversions and the configuration of nuclear archives.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:34:10.699082",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 899,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 273,
+      "selected_avg_freq": 127.66
+    },
+    "related_words": [
+      "mankind",
+      "autonomic",
+      "cppnm",
+      "linearity",
+      "critera",
+      "conceptual",
+      "characterize",
+      "kyrgyz",
+      "cce",
+      "eda",
+      "subcommittee",
+      "punishable",
+      "archives",
+      "extradition",
+      "fission",
+      "replacements",
+      "diversions",
+      "crossborder",
+      "emanating",
+      "fissile",
+      "decommissioning",
+      "iter",
+      "cabinet",
+      "corfu",
+      "center",
+      "effecting",
+      "tribunals",
+      "florence",
+      "conducts",
+      "ores"
+    ],
+    "prompt_length": 1739,
+    "category": "1016 European construction"
+  }
+}

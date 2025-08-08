@@ -1,0 +1,63 @@
+{
+  "concept_id": "3357",
+  "concept_data": {
+    "title": "social assistance",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social assistance, as defined within EU legal and regulatory frameworks, encompasses measures aimed at ensuring the well-being of civilians, particularly in contexts of humanitarian crises. This support is crucial for populations affected by violence, repression, and occupation, such as those in Libya and Tunisia. The EU resolutely administers social assistance programs to uphold the aspirations of refugees and displaced individuals, ensuring their rights are protected against grave violations. Through impartiality and neutrality, these initiatives seek to consume the impacts of brutal attacks and collectively support those in need. The elaboration of such policies is essential for the passage of humanitarian aid and the promotion of peace in regions like Egypt and Libya, where the repetition of conflict has hindered stability. The EU’s commitment to social assistance reflects its broader objectives under the TEU, reinforcing its role as a key actor in international humanitarian efforts.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:45:35.728988",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 144,
+    "vocabulary_stats": {
+      "total_related_words": 347,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1064,
+      "selected_avg_freq": 472.24
+    },
+    "related_words": [
+      "unimpeded",
+      "resolutely",
+      "ocha",
+      "aspirations",
+      "libyan",
+      "civilians",
+      "brutal",
+      "perpetrated",
+      "athena",
+      "realise",
+      "league",
+      "attack",
+      "violence",
+      "eufor",
+      "neutrality",
+      "populated",
+      "consume",
+      "condemned",
+      "impartiality",
+      "libya",
+      "repetition",
+      "unscr",
+      "nationally",
+      "passage",
+      "psc",
+      "refugees",
+      "repression",
+      "civilian",
+      "grave",
+      "collectively"
+    ],
+    "prompt_length": 1674,
+    "category": "2836 social protection"
+  }
+}

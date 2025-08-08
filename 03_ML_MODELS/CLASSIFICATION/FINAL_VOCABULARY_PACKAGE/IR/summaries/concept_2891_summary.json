@@ -1,0 +1,63 @@
+{
+  "concept_id": "2891",
+  "concept_data": {
+    "title": "report",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, a \"report\" serves as a crucial tool for lawmaking, providing a structured overview of findings and recommendations. Reports often involve the accrual of data from various investigators and interlocutors, refining the understanding of complex issues such as the virulence of mutagens in effluent or the impact of drilling on ecosystems. They may also address overarching themes like standardizing practices across member states. Reports can include drafts that are revises of previous versions, ensuring that all stakeholders, including affiliates and classifiers, are unhindered in their efforts to accomplish regulatory goals. Additionally, reports may cover specific topics, such as the environmental impact of oyster farming (Crassostrea gigas), emphasizing the need for sustainable practices while addressing the potential overlaps in legislation.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:14.257197",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 1434,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 122,
+      "selected_avg_freq": 56.82
+    },
+    "related_words": [
+      "schall",
+      "revises",
+      "eradicaction",
+      "classifiers",
+      "constitutions",
+      "hail",
+      "interlocutors",
+      "refinishing",
+      "breastfeeding",
+      "excercise",
+      "investigators",
+      "dressing",
+      "vibration",
+      "accrual",
+      "blame",
+      "spat",
+      "voc",
+      "actuarial",
+      "apportion",
+      "effluent",
+      "standardizing",
+      "oyster",
+      "crassostrea",
+      "gigas",
+      "drafts",
+      "μνar",
+      "bathing",
+      "ostreid",
+      "oshv",
+      "efc"
+    ],
+    "prompt_length": 1692,
+    "category": "3221 documentation"
+  }
+}

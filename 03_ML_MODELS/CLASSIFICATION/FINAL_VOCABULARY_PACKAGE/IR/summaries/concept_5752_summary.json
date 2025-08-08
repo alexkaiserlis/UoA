@@ -1,0 +1,63 @@
+{
+  "concept_id": "5752",
+  "concept_data": {
+    "title": "pharmaceutical classification",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "drugs classification",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"pharmaceutical classification,\" redirected to \"drugs classification,\" is pivotal in EU legal and regulatory frameworks governing healthcare. This classification system ensures that medicines, including proprietary and herbal alternatives, are categorized based on pharmacodynamic and pharmacokinetic profiles. It aids prescribers in understanding the efficacy and authenticity of drugs, facilitating informed prescribing practices. The classification also encompasses various routes and modes of administration, ensuring that patients receive clinically formulated prescriptions. By establishing exhaustive guidelines, the system prevents misuse and promotes comprehensibility in drug dispensing, ultimately enhancing patient safety and healthcare outcomes across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:08:54.728640",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 272,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1541,
+      "selected_avg_freq": 683.0066666666667
+    },
+    "related_words": [
+      "zygis",
+      "loefl",
+      "pharmacodynamic",
+      "prescriber",
+      "medically",
+      "enquire",
+      "thymus",
+      "pharmacokinetic",
+      "comprehensibility",
+      "vulgaris",
+      "dispensing",
+      "prescription",
+      "clinically",
+      "lengths",
+      "prescribing",
+      "dispensed",
+      "herbal",
+      "healthcare",
+      "derives",
+      "prescriptions",
+      "brand",
+      "pharmacologically",
+      "profiles",
+      "profession",
+      "understand",
+      "proprietary",
+      "combinations",
+      "patients",
+      "routes",
+      "modes"
+    ],
+    "prompt_length": 1776,
+    "category": "2841 health"
+  }
+}

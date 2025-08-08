@@ -1,0 +1,63 @@
+{
+  "concept_id": "251",
+  "concept_data": {
+    "title": "sugar levy",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"sugar levy\" is a regulatory measure within EU finance aimed at addressing the consumption of sugars, particularly in syrups and isoglucose products. This levy is designed to realign market dynamics by imposing financial obligations on sellers of certain sugar-containing products, thereby encouraging healthier consumption patterns. The regulation outlines the procedures for calculating the levy, including the arithmetic of proceeds from sugarbeet processors and refiners. Departments involved in enforcement must ensure compliance, with rulings on reimbursements for invalidated receipts. The sugar levy serves as a tool for public health policy, easing the burden of excessive sugar intake while promoting transparency in marketing practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:00.686775",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 697,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 442,
+      "selected_avg_freq": 229.53333333333333
+    },
+    "related_words": [
+      "levis",
+      "entively",
+      "exptected",
+      "merketing",
+      "regultiation",
+      "departements",
+      "koruna",
+      "acordance",
+      "eased",
+      "transpired",
+      "exportable",
+      "sugarbeet",
+      "certains",
+      "virtual",
+      "credited",
+      "uncovered",
+      "dividing",
+      "rulings",
+      "multiplication",
+      "reimbursements",
+      "inulin",
+      "invalidated",
+      "invalid",
+      "refiners",
+      "realignments",
+      "recalculated",
+      "realignment",
+      "sellers",
+      "hindered",
+      "syrups"
+    ],
+    "prompt_length": 1708,
+    "category": "1021 EU finance"
+  }
+}

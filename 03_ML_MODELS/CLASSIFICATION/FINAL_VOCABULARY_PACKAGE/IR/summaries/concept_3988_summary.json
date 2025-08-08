@@ -1,0 +1,63 @@
+{
+  "concept_id": "3988",
+  "concept_data": {
+    "title": "fight against drought",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "drought",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"fight against drought,\" which redirects to the preferred term \"drought,\" encompasses EU legal and regulatory efforts aimed at mitigating the impacts of prolonged periods of water scarcity. Droughts can provoke severe environmental degradation, leading to desertification and erosion of lands, drastically affecting agricultural productivity and pasture availability. The EU's regulatory framework includes measures for managing water resources, such as the construction of dams and the implementation of rationing strategies for stockfarmers. Legal instruments also address the interactions between climatic factors and vegetation, emphasizing the need for sustainable practices to alleviate shortages in rainfall and ensure the resilience of ecosystems against the hottest spells. By affirming the importance of pluviometric data and promoting efficient watering practices, the EU aims to prevent premature depletion of resources and support affected communities in restarting agricultural activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:16.799217",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 134,
+    "vocabulary_stats": {
+      "total_related_words": 776,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 125.96
+    },
+    "related_words": [
+      "vegetal",
+      "hottest",
+      "resells",
+      "delivereis",
+      "pluviometric",
+      "watering",
+      "droughts",
+      "ron",
+      "manifested",
+      "triticale",
+      "evaporation",
+      "punitive",
+      "accessed",
+      "restarting",
+      "desertification",
+      "dams",
+      "restart",
+      "drastically",
+      "stockfarmers",
+      "ration",
+      "affirm",
+      "longest",
+      "weaker",
+      "rainfalls",
+      "spell",
+      "prematurely",
+      "ware",
+      "depositing",
+      "houses",
+      "spheres"
+    ],
+    "prompt_length": 1727,
+    "category": "5216 deterioration of the environment"
+  }
+}

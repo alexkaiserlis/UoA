@@ -1,0 +1,63 @@
+{
+  "concept_id": "2502",
+  "concept_data": {
+    "title": "financial reform",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "financial policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"financial reform,\" redirected to \"financial policy,\" encompasses the EU's regulatory framework aimed at enhancing the sustainability of public finances and ensuring the free movement of capital. This involves addressing interconnected challenges such as inflation, deficits, and macroeconomic stability. Recent projections indicate a potential downturn in GDP, prompting the need for credible fiscal measures. The EU's commitment to a stability pact necessitates a careful balancing of spending and revenues, with a focus on avoiding excessive deficits. In this context, the loosening of fiscal constraints may lead to a contraction in financial stability, necessitating a thorough analysis of the underpinnings of current policies and their potential fallout on housing and banking sectors. As the EU endeavors to clarify its financial strategies, the autumn forecasts will play a crucial role in shaping future reforms, ensuring that they remain conducive to long-term economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:03.866619",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 313,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1042,
+      "selected_avg_freq": 490.50666666666666
+    },
+    "related_words": [
+      "pbr",
+      "unfolded",
+      "frontloading",
+      "fallout",
+      "eerp",
+      "loosening",
+      "foregone",
+      "unexpectedly",
+      "underpinnings",
+      "interconnected",
+      "weakening",
+      "contraction",
+      "moves",
+      "edp",
+      "stimulus",
+      "spending",
+      "fora",
+      "discretionary",
+      "projections",
+      "deficits",
+      "credible",
+      "macroeconomic",
+      "worse",
+      "downturn",
+      "speeding",
+      "postponement",
+      "pact",
+      "conducive",
+      "downward",
+      "endeavour"
+    ],
+    "prompt_length": 1720,
+    "category": "2421 free movement of capital"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2501",
+  "concept_data": {
+    "title": "family policy",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Family policy within the EU framework encompasses a range of intergovernmental directives aimed at improving the reconciliation of professional and family life. It seeks to incorporate measures that affect parents, particularly women, and men, ensuring equal responsibilities in family settings. The Amsterdam Treaty highlighted the importance of family policy, noting that it should extend opportunities for all working individuals. The European Trade Union Confederation (ETUC) and UNICEF have emphasized the need for policies that support parental leave and treatment of families. Conferences and protocols have been held to achieve these aims, with Britain and Ireland noted for their specific approaches.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:25.630375",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 99,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 99,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1696.0
+    },
+    "related_words": [
+      "ceep",
+      "parents",
+      "unice",
+      "etuc",
+      "parental",
+      "reconciliation",
+      "intergovernmental",
+      "men",
+      "seeks",
+      "women",
+      "construed",
+      "amsterdam",
+      "leave",
+      "incorporate",
+      "enters",
+      "affects",
+      "family",
+      "signature",
+      "responsibilities",
+      "britain",
+      "labour",
+      "opportunities",
+      "wish",
+      "professional",
+      "accept",
+      "life",
+      "conference",
+      "achieving",
+      "northern",
+      "great"
+    ],
+    "prompt_length": 1623,
+    "category": "2806 family"
+  }
+}

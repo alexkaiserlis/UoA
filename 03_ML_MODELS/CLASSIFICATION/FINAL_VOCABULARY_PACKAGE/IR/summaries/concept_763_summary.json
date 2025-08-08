@@ -1,0 +1,63 @@
+{
+  "concept_id": "763",
+  "concept_data": {
+    "title": "commitment of expenditure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"commitment of expenditure\" within the EU budgetary framework refers to the formal process by which funds are allocated for specific purposes, ensuring that resources are smartly directed towards enduring projects. This mechanism is crucial for managing soaring costs associated with initiatives like the European Union Solidarity Fund (EUSF) and the European Development Fund (EDGDF). Legal obligations arise when commitments diverged from initial projections, necessitating agile responses from entities like COREPER. For instance, companies such as PSA, Citroën, and Vestas may rely on these commitments to empower their operations. The commitment process is vital in preventing disastrous financial outcomes, ensuring that funds are utilized effectively across member states, including Denmark and Germany, while addressing challenges posed by external factors like the Sudanese crisis or economic fluctuations impacting sectors like automotive and manufacturing.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:02.596760",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 1513,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 19.926666666666666
+    },
+    "related_words": [
+      "disastrous",
+      "eusf",
+      "cns",
+      "edggf",
+      "soaring",
+      "smartly",
+      "astrazeneca",
+      "nip",
+      "sudanese",
+      "flextronics",
+      "salo",
+      "felling",
+      "denmarksubmitted",
+      "tomaso",
+      "automobili",
+      "psa",
+      "citroën",
+      "merloni",
+      "germanysubmitted",
+      "zalco",
+      "zeeland",
+      "ecl",
+      "enduring",
+      "diverged",
+      "manroland",
+      "aldi",
+      "epe",
+      "assoc",
+      "tabak",
+      "gad"
+    ],
+    "prompt_length": 1619,
+    "category": "2441 budget"
+  }
+}

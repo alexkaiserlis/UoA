@@ -1,0 +1,63 @@
+{
+  "concept_id": "7937",
+  "concept_data": {
+    "title": "European Aviation Safety Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Aviation Safety Agency (EASA) is a pivotal institution within the EU framework, responsible for the oversight and harmonising of aviation safety regulations across member states. Established to maximise airworthiness and ensure compliance with aeronautical standards, EASA conducts periodic validations and classifications of aircraft and aviation appliances. It operates under a regulatory framework that includes various appendices and annexe documents, which detail the necessary fees and resource allocations for its operations. EASA's mandate includes addressing deficiencies and prioritisation of safety measures, ensuring that all enterprises involved in aviation are compliant with the Chicago Convention. Through its fine-tuned oversight, EASA aims to enhance the safety of air travel while managing the workload associated with regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:35:55.506704",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 348,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1301,
+      "selected_avg_freq": 584.4666666666667
+    },
+    "related_words": [
+      "circa",
+      "tune",
+      "ramp",
+      "travels",
+      "wise",
+      "prioritisation",
+      "aeronautical",
+      "airworthiness",
+      "surrendered",
+      "easa",
+      "annexe",
+      "maximise",
+      "chicago",
+      "interrupted",
+      "refunded",
+      "appendices",
+      "classifications",
+      "workload",
+      "oversight",
+      "appliances",
+      "slow",
+      "harmonising",
+      "fine",
+      "airports",
+      "invoice",
+      "landing",
+      "conducting",
+      "resource",
+      "fee",
+      "refined"
+    ],
+    "prompt_length": 1713,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5031",
+  "concept_data": {
+    "title": "industrial bakery",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "bakery",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"industrial bakery,\" categorized under agri-foodstuffs, redirects to the preferred term \"bakery.\" In the EU regulatory framework, bakeries produce a variety of goods, including specialty items like karjalanpiirakka and sourdough. These products often involve complex processes, such as enzymatic hydrolysis and the use of ingredients like malted grains and dextran. Regulatory authorities oversee the safety and durability of bakery wares, ensuring they are digestible and free from harmful substances. Compliance with standards regarding triacylglycerides and gluten is essential, as these can impact consumer health, particularly for those with intestinal intolerance. The industry also faces challenges related to inverted sugars and the use of additives like phosphated starch.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:03.440871",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 462,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 545,
+      "selected_avg_freq": 187.14
+    },
+    "related_words": [
+      "karjalanpiirakka",
+      "luff",
+      "schoorl",
+      "dextran",
+      "leuconostoc",
+      "mesenteroides",
+      "puracor",
+      "malted",
+      "sourdough",
+      "dash",
+      "cooks",
+      "bennekom",
+      "morellato",
+      "atral",
+      "phosphated",
+      "distarch",
+      "andruty",
+      "kaliskie",
+      "cultor",
+      "triacylglycerides",
+      "abstaining",
+      "inverted",
+      "inversion",
+      "inconveniences",
+      "authorites",
+      "salatrims",
+      "bacterium",
+      "digestible",
+      "ciudad",
+      "calorie"
+    ],
+    "prompt_length": 1721,
+    "category": "6031 agri-foodstuffs"
+  }
+}

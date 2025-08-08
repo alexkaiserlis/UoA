@@ -1,0 +1,63 @@
+{
+  "concept_id": "1264",
+  "concept_data": {
+    "title": "olive oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"olive oil\" within EU legal and regulatory frameworks pertains to processed agricultural produce, specifically focusing on its classification, quality standards, and market regulations. The EU has established stringent criteria for olive oil, including the determination of categories such as εξαιρετικό (extra virgin) and παρθένο (virgin) ελαιόλαδο. These regulations aim to protect beneficiaries, including producers and packagers, from monopolizing practices and ensure the authenticity of products like αγουρέλαιο (agoureleo) from regions such as Κρήτης (Crete) and Χαλκιδικής (Chalkidiki). Additionally, the application of quality assessments by trained tasters is crucial for maintaining the integrity of olive oil, particularly in markets like the Balearics and Riviera. The EU's commitment to effective regulation fosters transparency and supports organizations involved in the olive oil sector, enhancing consumer trust and market stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:20:07.625275",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 2588,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 16,
+      "selected_avg_freq": 7.04
+    },
+    "related_words": [
+      "afected",
+      "ártas",
+      "europuean",
+      "appliation",
+      "proposition",
+      "monopolizing",
+      "tasters",
+      "stigmastadiene",
+      "outiets",
+      "proivded",
+      "beneficiaires",
+      "recieved",
+      "packagers",
+      "riviera",
+      "βόρειος",
+      "μυλοπόταμος",
+      "ρεθύμνης",
+      "κρήτης",
+      "vorios",
+      "mylopotamos",
+      "rethymnis",
+      "kritis",
+      "oganisations",
+      "aslo",
+      "tats",
+      "determintion",
+      "seggiano",
+      "balearics",
+      "estimatesd",
+      "vulture"
+    ],
+    "prompt_length": 1710,
+    "category": "6016 processed agricultural produce"
+  }
+}

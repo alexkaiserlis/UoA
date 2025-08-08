@@ -1,0 +1,63 @@
+{
+  "concept_id": "580",
+  "concept_data": {
+    "title": "social legislation",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social legislation within the EU framework encompasses a range of legal measures designed to safeguard the rights and benefits of workers and families, particularly those who are employed or reside in member states. It addresses issues such as maternity and sickness entitlements, ensuring that all nationals and migrants can derive immediate benefits from coordinated systems. Recent developments in this area have focused on adapting legislative frameworks to maintain transparency and certainty for stakeholders. Bilateral agreements, such as those with Switzerland and Greenland, have also been proposed to enhance the rights of workers moving across territories. The EU treaties mandate consulting stakeholders to ensure that adaptations are desirable and agreed upon, thereby fostering a comprehensive social safety net for all persons involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:47:10.232187",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1933.611510791367
+    },
+    "related_words": [
+      "maternity",
+      "belonged",
+      "reside",
+      "migrant",
+      "safeguarded",
+      "sickness",
+      "families",
+      "unanimous",
+      "greenland",
+      "worked",
+      "derive",
+      "residence",
+      "designating",
+      "moving",
+      "nationals",
+      "entitlement",
+      "stakeholders",
+      "self",
+      "treaties",
+      "employed",
+      "acquired",
+      "bilateral",
+      "switzerland",
+      "adaptations",
+      "workers",
+      "calls",
+      "immediate",
+      "certainty",
+      "benefits",
+      "legislative"
+    ],
+    "prompt_length": 1698,
+    "category": "2826 social affairs"
+  }
+}

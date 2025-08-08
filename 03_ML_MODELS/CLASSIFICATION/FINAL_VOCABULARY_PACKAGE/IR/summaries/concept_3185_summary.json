@@ -1,0 +1,63 @@
+{
+  "concept_id": "3185",
+  "concept_data": {
+    "title": "trade relations",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Trade relations within the EU framework encompass a complex array of legal and regulatory mechanisms aimed at facilitating international commerce. These relations are conditionally governed by agreements such as the Marrakesh Agreement and the TRIPS Agreement, which embody principles of fair trade and intellectual property protection. The EU's approach often involves countermeasures against disruptive practices that hinder market access, particularly concerning trademarks and generic goods. Furthermore, the extraterritorial application of certain regulations can lead to litigation in various jurisdictions, including those of the Commonwealth nations like Canada and Singapore. The EU also engages in grandfathering provisions to protect established trade practices, while ensuring compliance with international standards set by bodies like the DSB. This multifaceted legal landscape is crucial for maintaining robust trade relations with countries such as Pakistan, India, and the Seychelles, while addressing challenges posed by non-compliance and incompatibility in trade practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:15:13.738215",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 144,
+    "vocabulary_stats": {
+      "total_related_words": 481,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 556,
+      "selected_avg_freq": 255.38666666666666
+    },
+    "related_words": [
+      "conditionally",
+      "eti",
+      "ceylon",
+      "countermeasures",
+      "fsc",
+      "extraterritorial",
+      "grandfathering",
+      "interprofessionnel",
+      "subsections",
+      "civb",
+      "médoc",
+      "medoc",
+      "malagasy",
+      "disruptive",
+      "congress",
+      "pledged",
+      "conseil",
+      "litigation",
+      "dsb",
+      "appellate",
+      "bordeaux",
+      "vin",
+      "commonwealth",
+      "aromatised",
+      "trademarks",
+      "trips",
+      "faeroe",
+      "lomé",
+      "marrakesh",
+      "hindered"
+    ],
+    "prompt_length": 1695,
+    "category": "2021 international trade"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4493",
+  "concept_data": {
+    "title": "financial transfer",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "capital transfer",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"financial transfer,\" also referred to as \"capital transfer,\" encompasses the movement of funds across borders, facilitating the free movement of capital. This concept is critical for corporates and lenders, ensuring that inflow and outflow of capital are managed prudently. Regulatory frameworks, such as SEPA (Single Euro Payments Area), utilize systems like SCT (SEPA Credit Transfer) and SDD (SEPA Direct Debit) to streamline these transactions. However, bottlenecks may arise due to interferences from national ordinances or judiciary actions. The concept also addresses issues like grandfathering and the need for relaxations in austere financial environments, ensuring that transferors and payers can navigate the complexities of capital movement effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:51:36.495937",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1089,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 126,
+      "selected_avg_freq": 52.84
+    },
+    "related_words": [
+      "presente",
+      "sepa",
+      "sct",
+      "sdd",
+      "iban",
+      "scts",
+      "sdds",
+      "corporates",
+      "sips",
+      "lenders",
+      "austere",
+      "wallis",
+      "futuna",
+      "migrated",
+      "tenfold",
+      "intraday",
+      "sark",
+      "alderney",
+      "debits",
+      "interferences",
+      "outflow",
+      "grandfathering",
+      "vendors",
+      "sdrs",
+      "subscribers",
+      "attentively",
+      "kfw",
+      "debit",
+      "pooled",
+      "relaxations"
+    ],
+    "prompt_length": 1702,
+    "category": "2421 free movement of capital"
+  }
+}

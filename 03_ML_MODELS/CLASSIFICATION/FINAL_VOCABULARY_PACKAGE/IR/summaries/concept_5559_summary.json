@@ -1,0 +1,63 @@
+{
+  "concept_id": "5559",
+  "concept_data": {
+    "title": "creditor",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "claim",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"creditor,\" which redirects to the preferred term \"claim,\" refers to entities or individuals owed a financial obligation. Creditors play a crucial role in insolvency proceedings, where liquidators may be tasked with reestablishing order amidst financial distress. They collectively engage in settlements to recover owed amounts, often hampered by substandard market conditions. In cases of expulsion or detention, creditors may urge responsible actions from debtors, ensuring compliance with guidelines. The Eurosystem's interventions can affect liquidity and refinancing options for creditors, particularly in segments like shipowners or merchant markets, where tensions may arise.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:58:10.228193",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 724,
+      "selected_avg_freq": 331.5466666666667
+    },
+    "related_words": [
+      "reestablish",
+      "expelling",
+      "plaintiffs",
+      "expulsion",
+      "responsibly",
+      "liquidators",
+      "lukashenko",
+      "urge",
+      "malfunctioning",
+      "defendants",
+      "substandard",
+      "outright",
+      "atlas",
+      "uncontested",
+      "tensions",
+      "winding",
+      "hampering",
+      "settlements",
+      "merchant",
+      "detention",
+      "executing",
+      "subscription",
+      "insured",
+      "counterparties",
+      "owed",
+      "refinancing",
+      "widened",
+      "recovering",
+      "insolvency",
+      "fill"
+    ],
+    "prompt_length": 1730,
+    "category": "1211 civil law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4445",
+  "concept_data": {
+    "title": "farmland",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "agricultural land",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farmland,\" redirected to \"agricultural land,\" encompasses the cultivation of agricultural land within EU legal and regulatory frameworks. This term is pivotal amid discussions on the predominance of smallholdings and estates, as well as the management of woodland and orchards. The liberalising policies aim to address fragmented lands, facilitating leasing and mortgage arrangements that enhance livelihoods. However, challenges persist, such as the tightening regulations on pollutants and the halting of privatisation efforts. The inflow of foreign investments can lead to a glut of agricultural stockpiles, while the need for decontamination of underdeveloped areas remains noticeable. Thus, the sustainable management of agricultural land is crucial for ensuring prosperity and mitigating the impacts of violent storms and unwanted leakage of pollutants.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:18.843374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 762,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 245,
+      "selected_avg_freq": 112.3
+    },
+    "related_words": [
+      "glut",
+      "undivided",
+      "forint",
+      "predominance",
+      "crowns",
+      "estates",
+      "smallholdings",
+      "woodland",
+      "imdg",
+      "incinerators",
+      "underdeveloped",
+      "amid",
+      "privatised",
+      "loosening",
+      "unsettled",
+      "huf",
+      "liberalising",
+      "inflow",
+      "unfinished",
+      "reprocessing",
+      "orchard",
+      "rented",
+      "hinders",
+      "tightening",
+      "irreversibly",
+      "administrated",
+      "stockpiles",
+      "fold",
+      "decontamination",
+      "mortgage"
+    ],
+    "prompt_length": 1740,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

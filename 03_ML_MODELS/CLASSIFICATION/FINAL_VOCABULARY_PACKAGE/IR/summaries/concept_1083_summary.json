@@ -1,0 +1,63 @@
+{
+  "concept_id": "1083",
+  "concept_data": {
+    "title": "running costs",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": true,
+    "preferred_term": "overheads",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"running costs,\" redirected to the preferred term \"overheads,\" encompass the essential expenditures necessary for the continuous operation of governmental and institutional bodies. These costs include salaries, fees for consultants, and emoluments for judges and advocates, which are critical for maintaining synergies among various intermediaries. The interaction between these costs and ambitious projects, such as those stemming from the JHA (Justice and Home Affairs) framework, underscores the advisability of integrating comprehensive financial planning. Workshops and dossiers on these topics are vital for registering input from specialists, ensuring that the burdens of migration and cooperation are managed effectively across member states like Liechtenstein and in regions such as Benelux. The goal is to create an exhaustive system that fits the needs of all stakeholders involved, continuously adapting to the evolving landscape of EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:37:50.699141",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 138,
+    "vocabulary_stats": {
+      "total_related_words": 430,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 841,
+      "selected_avg_freq": 398.4266666666667
+    },
+    "related_words": [
+      "encryption",
+      "sisnet",
+      "sees",
+      "topic",
+      "installing",
+      "consultants",
+      "registrar",
+      "advocates",
+      "deputy",
+      "emoluments",
+      "strasbourg",
+      "judges",
+      "workshops",
+      "sis",
+      "wage",
+      "interaction",
+      "ambitious",
+      "salaries",
+      "connecting",
+      "intermediaries",
+      "synergies",
+      "registering",
+      "specialists",
+      "advisability",
+      "dossiers",
+      "eco",
+      "unanimous",
+      "latters",
+      "saving",
+      "advise"
+    ],
+    "prompt_length": 1708,
+    "category": "4026 accounting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "312",
+  "concept_data": {
+    "title": "Red Cross",
+    "category_code": "7626",
+    "category_name": "non-governmental organisations",
+    "category_full": "7626 non-governmental organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Red Cross\" is a prominent non-governmental organization (NGO) recognized for its humanitarian efforts, particularly in conflict zones such as Iraq and Yugoslavia. The International Committee of the Red Cross (ICRC) plays a crucial role in mobilization efforts, addressing urgent needs of victims affected by landmines and other crises. Within the EU regulatory framework, the Red Cross is often a beneficiary of funding through tenders and grants, facilitating logistical support in humanitarian crises. The organization contributes to the Common Foreign and Security Policy (CFSP) by specifying operational guidelines for aid distribution. Its involvement in conferences and appeals underscores its commitment to addressing humanitarian challenges across southern Africa and Europe, particularly in sectors like cereals and vegetable aid.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:22:01.067845",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 189,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2748,
+      "selected_avg_freq": 1226.16
+    },
+    "related_words": [
+      "lrcs",
+      "espressing",
+      "icrc",
+      "landmines",
+      "sadc",
+      "league",
+      "republication",
+      "rapeseed",
+      "appeals",
+      "iraq",
+      "societies",
+      "quick",
+      "victims",
+      "logistical",
+      "mobilization",
+      "fob",
+      "sphere",
+      "landing",
+      "durum",
+      "refined",
+      "expressing",
+      "red",
+      "resultant",
+      "southern",
+      "personnel",
+      "tenders",
+      "wheat",
+      "port",
+      "yugoslavia",
+      "coefficient"
+    ],
+    "prompt_length": 1658,
+    "category": "7626 non-governmental organisations"
+  }
+}

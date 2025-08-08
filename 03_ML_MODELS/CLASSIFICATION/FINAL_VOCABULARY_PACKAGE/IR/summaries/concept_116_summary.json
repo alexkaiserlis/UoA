@@ -1,0 +1,63 @@
+{
+  "concept_id": "116",
+  "concept_data": {
+    "title": "cooperation council",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "Association Council (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"cooperation council,\" also referred to as the \"Association Council (EU),\" is a consultative body established to strengthen links between the European Union and partner countries, such as Turkey and Armenia. Governed by legal frameworks, it plays an integral role in overseeing the implementation of agreements, particularly regarding economic cooperation and regulatory alignment. The council is empowered to undertake tasks that affect taxation, trade, and the movement of assets, shares, and subsidiaries. It operates within a phase of ongoing dialogue, ensuring that positions are represented and that proceedings align with EU objectives. This concept is crucial for fostering competitive behaviour and facilitating mergers and exchanges within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:49:25.078742",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 234,
+      "requested_words": 150,
+      "min_frequency_found": 24,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 24,
+      "selected_max_freq": 2052,
+      "selected_avg_freq": 1014.1466666666666
+    },
+    "related_words": [
+      "ankara",
+      "andorra",
+      "mergers",
+      "resort",
+      "armenia",
+      "divisions",
+      "soviet",
+      "socialist",
+      "republics",
+      "principality",
+      "parent",
+      "subsidiaries",
+      "frame",
+      "consultative",
+      "assent",
+      "imposes",
+      "insofar",
+      "integral",
+      "attributed",
+      "behaviour",
+      "affects",
+      "taxation",
+      "vis",
+      "links",
+      "assets",
+      "positions",
+      "transfers",
+      "consequent",
+      "turkey",
+      "movements"
+    ],
+    "prompt_length": 1715,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "214",
+  "concept_data": {
+    "title": "interinstitutional cooperation",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "institutional cooperation",
+    "relation_type": "USE"
+  },
+  "summary": "Interinstitutional cooperation, also referred to as institutional cooperation, is a pivotal concept within EU legal and regulatory frameworks. It encompasses collaborative efforts among various EU institutions to address multifaceted challenges, such as the emergence of epidemics or threats like racism and xenophobia. This cooperation is essential for preparedness against infectious diseases, including avian influenza and foot-and-mouth disease (FMD), particularly in regions like the Balkans and Transcaucasia. By fostering trust and enhancing awareness, these institutions can effectively manage simultaneous campaigns to combat exotic strains and replenish resources. Such cooperation is vital for ensuring a coordinated response to accidents and other public safety threats, thereby safeguarding the health of adjacent communities and the broader EU populace.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:11.114969",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 285,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1401,
+      "selected_avg_freq": 623.4266666666666
+    },
+    "related_words": [
+      "investigative",
+      "topotypes",
+      "mul",
+      "transcaucasia",
+      "endemically",
+      "exacerbated",
+      "mtf",
+      "entrance",
+      "eufmd",
+      "racism",
+      "xenophobia",
+      "replenished",
+      "epidemics",
+      "prophylactic",
+      "reconfirmed",
+      "fmd",
+      "int",
+      "usd",
+      "epidemic",
+      "preparedness",
+      "balkans",
+      "exotic",
+      "threats",
+      "director",
+      "strains",
+      "emergence",
+      "funded",
+      "trust",
+      "renew",
+      "seas"
+    ],
+    "prompt_length": 1733,
+    "category": "0431 politics and public safety"
+  }
+}

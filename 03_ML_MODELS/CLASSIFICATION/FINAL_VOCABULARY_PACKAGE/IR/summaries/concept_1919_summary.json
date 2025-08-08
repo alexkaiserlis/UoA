@@ -1,0 +1,63 @@
+{
+  "concept_id": "1919",
+  "concept_data": {
+    "title": "pet",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "domestic animal",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"pet\" redirects to the preferred term \"domestic animal,\" encompassing various species, including those that may be subject to legalisation and regulation within the EU. This includes the management of stray populations and the welfare of animals like ferrets and psittacidae. Regulatory frameworks address issues such as painless euthanasia, revaccination protocols, and the monitoring of zoonotic diseases like Nipah and Hendra, which can arise from interactions with domestic animals. Legal provisions also cover diagnostics, including microscopy and MALDI-TOF for identifying pathogens. The EU emphasizes humane treatment, requiring reapproval of practices deemed inhumanely conducted, while also addressing the implications of hyperthyroidism and oestrus in breeding.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:22:15.298350",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1649,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 48,
+      "selected_avg_freq": 21.846666666666668
+    },
+    "related_words": [
+      "stray",
+      "ferret",
+      "travelers",
+      "painless",
+      "revaccination",
+      "booster",
+      "epizootie",
+      "felis",
+      "silvestris",
+      "faux",
+      "inhumanely",
+      "microscopy",
+      "maldi",
+      "tof",
+      "titrations",
+      "vetcom",
+      "fort",
+      "diagnóstico",
+      "reapproval",
+      "stilbene",
+      "unattractive",
+      "dlr",
+      "changchun",
+      "foulbrood",
+      "differentiations",
+      "iga",
+      "devoting",
+      "beforementioned",
+      "pteropus",
+      "incriminated"
+    ],
+    "prompt_length": 1713,
+    "category": "5631 agricultural activity"
+  }
+}

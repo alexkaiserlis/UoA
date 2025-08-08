@@ -1,0 +1,63 @@
+{
+  "concept_id": "5043",
+  "concept_data": {
+    "title": "unitary patent",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "European patent",
+    "relation_type": "USE"
+  },
+  "summary": "The \"unitary patent\" concept, often redirected to the preferred term \"European patent,\" represents a significant advancement in the EU's intellectual property framework. It aims to simplify the patent system by allowing a single filing to provide protection across multiple member states, thus reinforcing the rights of proprietors while reducing the costs associated with translations and filings. This centralised approach furthers the efficiency of the European Patent Office (EPO) and addresses the challenges faced by small and medium-sized enterprises (SMEs) in navigating complex patent landscapes. By ensuring that patents are unaffected by linguistic barriers, the unitary patent fosters innovation and encourages the dissemination of knowledge, while also providing a mechanism for addressing infringing activities through unified legal recourse. The system is designed to act with unanimity among member states, enhancing legal certainty and protecting the interests of patent holders against potential damages.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:21:12.504389",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 563,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 564,
+      "selected_avg_freq": 287.22
+    },
+    "related_words": [
+      "epo",
+      "infringer",
+      "epc",
+      "translating",
+      "domiciled",
+      "furthers",
+      "proprietor",
+      "unitary",
+      "patents",
+      "insurmountable",
+      "customarily",
+      "translations",
+      "reinforces",
+      "masters",
+      "sme",
+      "filing",
+      "disseminate",
+      "infringing",
+      "reimbursements",
+      "unanimity",
+      "protects",
+      "publications",
+      "patent",
+      "unaffected",
+      "damages",
+      "centralised",
+      "filed",
+      "resort",
+      "faith",
+      "distributing"
+    ],
+    "prompt_length": 1731,
+    "category": "6416 research and intellectual property"
+  }
+}

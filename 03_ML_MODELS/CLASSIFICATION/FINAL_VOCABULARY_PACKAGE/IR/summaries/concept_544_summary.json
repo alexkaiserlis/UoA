@@ -1,0 +1,63 @@
+{
+  "concept_id": "544",
+  "concept_data": {
+    "title": "fishing rights",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Fishing rights within the EU framework refer to the legal entitlements granted to member states and fishing entities to harvest specific fish species, including taxa such as Patagonotothen, Notothenia, and Dissostichus. These rights are crucial for sustainable fisheries management, particularly concerning species like the shortfin mako (Isurus oxyrinchus) and various elasmobranchii. The EU regulates fishing rights through quotas and licensing, ensuring compliance with IUCN guidelines and addressing issues like finning and overfishing. Partnerships among states are vital for managing resources in areas like seamounts and hydrothermal vents, where species such as Chaenocephalus and Glauca thrive, necessitating a quantitative approach to assess unassessed stocks.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:56.101649",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2169,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 10.833333333333334
+    },
+    "related_words": [
+      "patagonotothen",
+      "brevicauda",
+      "guntheri",
+      "notothenia",
+      "gibberifrons",
+      "chaenocephalus",
+      "aceratus",
+      "pseudochaenichthys",
+      "georgianus",
+      "squamifrons",
+      "rossii",
+      "dissostichus",
+      "eleginoides",
+      "dissotichus",
+      "finning",
+      "taxon",
+      "elasmobranchii",
+      "iucn",
+      "priconace",
+      "glauca",
+      "shortfin",
+      "mako",
+      "isurus",
+      "oxyrinchus",
+      "hammerhead",
+      "silky",
+      "wings",
+      "sandeels",
+      "deerned",
+      "relationg"
+    ],
+    "prompt_length": 1711,
+    "category": "5641 fisheries"
+  }
+}

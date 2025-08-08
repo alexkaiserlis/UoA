@@ -1,0 +1,63 @@
+{
+  "concept_id": "8435",
+  "concept_data": {
+    "title": "fireworks display",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "fireworks",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"fireworks display,\" a redirect to the preferred term \"fireworks,\" encompasses the legal and regulatory frameworks governing pyrotechnic events within the EU. These displays, often held in exterior spaces such as terraces and balconies, necessitate careful planning to ensure the safety of bystanders and to minimize injuries. Regulations stipulate that fireworks must be fired from upright positions, with specific distances assigned to protect buildings and individuals in the vicinity. Compliance with mechanical and climatic conditions is essential, and specialists often embed safety measures to prevent damaging incidents. Proper labeling and numbering of fireworks batteries enhance visibility and reduce confusion during transportation and display.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:12:07.170727",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 276,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1248,
+      "selected_avg_freq": 515.2
+    },
+    "related_words": [
+      "pavement",
+      "fireworks",
+      "firer",
+      "terraces",
+      "balconies",
+      "evening",
+      "upright",
+      "insisting",
+      "embed",
+      "confuse",
+      "pyrotechnic",
+      "asphalt",
+      "tall",
+      "injure",
+      "distinctions",
+      "night",
+      "bystanders",
+      "conditioning",
+      "fired",
+      "exterior",
+      "embedded",
+      "spaces",
+      "injuries",
+      "vicinity",
+      "batteries",
+      "numbering",
+      "surfaces",
+      "visibility",
+      "specialist",
+      "vertical"
+    ],
+    "prompt_length": 1691,
+    "category": "6811 chemistry"
+  }
+}

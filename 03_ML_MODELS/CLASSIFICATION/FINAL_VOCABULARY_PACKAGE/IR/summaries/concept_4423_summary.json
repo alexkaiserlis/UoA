@@ -1,0 +1,63 @@
+{
+  "concept_id": "4423",
+  "concept_data": {
+    "title": "processing of hydrocarbons",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "oil technology",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"processing of hydrocarbons,\" redirected to \"oil technology,\" encompasses various legal and regulatory frameworks within the EU oil industry. This includes the desulphurization of fuels to lower sulphur content, thereby mitigating pollution and its consequences on the environment. Refineries are required to adopt precautionary measures to ensure that the processing of crude oils does not jeopardize public health or the economy. The EU laws mandate that traditional and liquid fuels meet requisite standards, with increasing scrutiny on their atmospheric emissions. Consultative channels facilitate dialogue among member states, ensuring that deliveries of oil and gas comply with regulations, ultimately benefiting consumers and the economy.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:46.185476",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1494.1475409836066
+    },
+    "related_words": [
+      "desulphurization",
+      "noticeably",
+      "jeopardized",
+      "refineries",
+      "atmospheric",
+      "break",
+      "channels",
+      "sulphur",
+      "replies",
+      "crude",
+      "kinds",
+      "fuels",
+      "compound",
+      "consultative",
+      "spring",
+      "duchy",
+      "deliveries",
+      "totally",
+      "liquid",
+      "grand",
+      "fuel",
+      "requisite",
+      "precautionary",
+      "belgian",
+      "dependent",
+      "pollution",
+      "decrease",
+      "gas",
+      "oils",
+      "observed"
+    ],
+    "prompt_length": 1700,
+    "category": "6616 oil industry"
+  }
+}

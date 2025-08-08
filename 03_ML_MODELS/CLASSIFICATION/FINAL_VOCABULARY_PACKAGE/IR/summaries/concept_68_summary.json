@@ -1,0 +1,63 @@
+{
+  "concept_id": "68",
+  "concept_data": {
+    "title": "town council",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "local government",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"town council,\" a redirect to \"local government,\" pertains to the executive power and public service at the municipal level within the EU framework. Local governments are entrusted with various tasks, including the administration of city resources and the implementation of guidelines that require efficient operation. They undertake responsibilities such as the appraisal of local needs and the gradual consolidation of capacities to fulfill prerequisites for development. The presence of local councils is essential for achieving interdependence among communities, as they assess local achievements and facilitate the completion of contracts. Their role is vital in the context of CFSP, ensuring that local governance aligns with broader EU objectives while managing expenditure and resources effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:04.617006",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 119,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 119,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1813.90756302521
+    },
+    "related_words": [
+      "mostar",
+      "euam",
+      "consultant",
+      "envoy",
+      "corfu",
+      "prerequisites",
+      "achievements",
+      "interdependence",
+      "nomination",
+      "city",
+      "fee",
+      "appraisal",
+      "consolidate",
+      "capacities",
+      "requisite",
+      "stressed",
+      "entrusted",
+      "efficiently",
+      "gradual",
+      "cfsp",
+      "entail",
+      "function",
+      "undertake",
+      "conclude",
+      "study",
+      "expired",
+      "contract",
+      "presence",
+      "interim",
+      "veterinary"
+    ],
+    "prompt_length": 1748,
+    "category": "0436 executive power and public service"
+  }
+}

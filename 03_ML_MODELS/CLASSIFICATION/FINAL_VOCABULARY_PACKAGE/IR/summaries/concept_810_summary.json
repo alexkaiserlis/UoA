@@ -1,0 +1,63 @@
+{
+  "concept_id": "810",
+  "concept_data": {
+    "title": "tariff restriction",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "tariff barrier",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"tariff restriction,\" also known as a \"tariff barrier,\" refers to obstacles that impede international trade, particularly affecting enterprises and industries such as wines and spirits. These barriers can manifest through unilateral measures invoked by member states, leading to disputes that amount to significant economic impacts, often in the billions. For instance, the EU has faced complaints from Indian authorities regarding inconsistent tariff practices, which have resulted in attempts to resolve disputes through memoranda of understanding (MOU) and committees. Such barriers can hinder the free flow of goods, affecting the likelihood of mutually beneficial trade agreements and causing suffering on both sides of the trade forum.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:04:15.832595",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 368,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 943,
+      "selected_avg_freq": 452.68
+    },
+    "related_words": [
+      "ceev",
+      "ceps",
+      "tamil",
+      "nadu",
+      "européen",
+      "vins",
+      "ministries",
+      "comité",
+      "mou",
+      "entreprises",
+      "tbr",
+      "hormones",
+      "gaining",
+      "invoking",
+      "attempts",
+      "pasta",
+      "cent",
+      "magnitude",
+      "utmost",
+      "decade",
+      "litre",
+      "spirits",
+      "revoke",
+      "indian",
+      "inconsistent",
+      "complainants",
+      "incompatibility",
+      "likelihood",
+      "mutually",
+      "sides"
+    ],
+    "prompt_length": 1679,
+    "category": "2021 international trade"
+  }
+}

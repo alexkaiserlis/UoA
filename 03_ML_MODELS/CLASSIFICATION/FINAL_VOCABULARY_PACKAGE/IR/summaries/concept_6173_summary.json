@@ -1,0 +1,63 @@
+{
+  "concept_id": "6173",
+  "concept_data": {
+    "title": "trade dispute",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"trade dispute\" within the context of EU legal and regulatory frameworks refers to conflicts arising from international trade agreements, often seised by adjudicatory bodies such as the Dispute Settlement Body (DSB). These disputes can involve issues like nullification of trade benefits, enforceability of agreements, and retaliatory measures. Mediators and arbitrators play crucial roles in facilitating amicable resolutions, while extrajudicial methods may also be employed. The principles of enforceability and impairment are critical, especially concerning trademarks and intellectual property under TRIPS. Ministries and entreprises must navigate these disputes carefully, as delays in settling can lead to poorer trade relations and decreased economic gains.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:14:41.454610",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 811,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 130.4
+    },
+    "related_words": [
+      "ceev",
+      "ceps",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "interprofessionnel",
+      "subsections",
+      "tamil",
+      "nadu",
+      "mediators",
+      "civb",
+      "médoc",
+      "medoc",
+      "cdsoa",
+      "nullification",
+      "arbitrator",
+      "mediator",
+      "retaliation",
+      "européen",
+      "extrajudicial",
+      "vins",
+      "ministries",
+      "comité",
+      "poorer",
+      "consensual",
+      "matrimonial",
+      "conseil",
+      "delaying",
+      "entreprises",
+      "dsb"
+    ],
+    "prompt_length": 1697,
+    "category": "2021 international trade"
+  }
+}

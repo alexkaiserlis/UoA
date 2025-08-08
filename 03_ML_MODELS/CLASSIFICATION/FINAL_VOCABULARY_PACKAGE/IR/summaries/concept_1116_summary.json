@@ -1,0 +1,63 @@
+{
+  "concept_id": "1116",
+  "concept_data": {
+    "title": "walnut",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "nut",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"walnut\" is categorized under the broader concept of \"nut,\" which serves as its preferred term. This redirect signifies that \"walnut\" is a specific type of nut, typified by its unique characteristics and culinary uses, such as in desserts or as a component in dishes like caprese. The walnut, alongside other nuts like pistachio and noisette, plays a significant role in the agricultural market (mercato agricolo) and is subject to various regulatory interventions (interventi) to ensure quality and safety. Additionally, the walnut's desiccated forms and related products, such as those from the Giffoni region, are often encumbering in trade discussions, correlating with broader EU policies on plant products. The diverse varieties, including the marroni and the less common kenari, illustrate the complexity of nut classifications within EU legislation, which aims to facilitate equitable trade and consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:29.813276",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 144,
+    "vocabulary_stats": {
+      "total_related_words": 1905,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 32,
+      "selected_avg_freq": 13.58
+    },
+    "related_words": [
+      "păšrigord",
+      "walnut",
+      "areca",
+      "significicantly",
+      "correspondimg",
+      "arican",
+      "egual",
+      "typified",
+      "encumbering",
+      "noisette",
+      "cervione",
+      "nuciola",
+      "cervioni",
+      "desiccated",
+      "caprese",
+      "michelangelo",
+      "marroni",
+      "monfenera",
+      "pistacchio",
+      "bronte",
+      "mls",
+      "nangai",
+      "indicum",
+      "jobert",
+      "synonymously",
+      "kenari",
+      "desserts",
+      "dianhydrides",
+      "burdening",
+      "κουφέτα"
+    ],
+    "prompt_length": 1685,
+    "category": "6006 plant product"
+  }
+}

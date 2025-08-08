@@ -1,0 +1,63 @@
+{
+  "concept_id": "1801",
+  "concept_data": {
+    "title": "commodities market",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"commodities market\" within the EU trade policy framework is crucial for enhancing interconnections among stakeholders, particularly in the context of electricity and renewable generation. Regulators monitor and formalise market operations to ensure reliability and adequacy, reacting to crises and preserving the spirit of solidarity. The market's liberalised nature allows for valuable insights and discussions on integrating diverse energy sources. Initiatives launched by the European Network of Transmission System Operators (ENTSO) focus on coordinating efforts to secure a robust grid. By intensifying collaboration and utilizing proven tools, the EU aims to address challenges and enhance the outlook for sustainable energy solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:24.809970",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 226,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1732,
+      "selected_avg_freq": 763.1933333333334
+    },
+    "related_words": [
+      "insights",
+      "entso",
+      "wroclaw",
+      "thinking",
+      "interconnections",
+      "formalise",
+      "entrusts",
+      "monitors",
+      "idea",
+      "informal",
+      "liberalised",
+      "discuss",
+      "crises",
+      "grid",
+      "intensify",
+      "interconnection",
+      "saving",
+      "regulators",
+      "react",
+      "valuable",
+      "outlook",
+      "adequacy",
+      "integrating",
+      "preserving",
+      "challenges",
+      "electric",
+      "discussed",
+      "solidarity",
+      "highlighted",
+      "spirit"
+    ],
+    "prompt_length": 1712,
+    "category": "2006 trade policy"
+  }
+}

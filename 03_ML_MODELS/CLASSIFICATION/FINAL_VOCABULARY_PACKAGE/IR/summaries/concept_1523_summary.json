@@ -1,0 +1,63 @@
+{
+  "concept_id": "1523",
+  "concept_data": {
+    "title": "pumping station",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "hydraulic works",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"pumping station,\" categorized under \"building and public works,\" is effectively a redirect to the preferred term \"hydraulic works.\" These facilities are essential for the management of water resources, including irrigation and drainage, ensuring that entities such as traders and consumers have access to necessary water supplies. Pumping stations consume electricity to lift and distribute water, thus playing a crucial role in the maintenance of hydraulic systems. In the EU regulatory context, these works are subject to specific rules and taxation, including VAT considerations. Their planned operation must fulfill the intentions of various stakeholders, including commercial entities and professional consortia, while addressing potential distortions in water distribution.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:51:35.132790",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1690.3524590163934
+    },
+    "related_words": [
+      "consumes",
+      "consortium",
+      "consortia",
+      "drainage",
+      "taxed",
+      "auxiliary",
+      "irrigation",
+      "distributors",
+      "lifting",
+      "customer",
+      "wishes",
+      "entity",
+      "electricity",
+      "vat",
+      "traders",
+      "waters",
+      "complementary",
+      "distortion",
+      "ensures",
+      "entities",
+      "professional",
+      "charge",
+      "tax",
+      "uses",
+      "maintenance",
+      "supplies",
+      "facilities",
+      "planned",
+      "covers",
+      "followed"
+    ],
+    "prompt_length": 1716,
+    "category": "6831 building and public works"
+  }
+}

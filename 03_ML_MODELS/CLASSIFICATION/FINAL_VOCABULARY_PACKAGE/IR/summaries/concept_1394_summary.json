@@ -1,0 +1,63 @@
+{
+  "concept_id": "1394",
+  "concept_data": {
+    "title": "sugar refinery",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "sugar industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sugar refinery,\" redirected to the preferred term \"sugar industry,\" encompasses the regulatory framework governing sugar production and processing within the EU. This sector, integral to agri-foodstuffs, involves various interventions aimed at equalising market conditions and tolerating fluctuations in supply territories. The sugar industry is subject to specific penalities for non-compliance with EU directives, which may include provisions for outsourcing production to enhance efficiency. Regulatory bodies, such as COMAGRI, deliberate on measures that impact sugarraffinaderij operations, ensuring they adhere to standards that prevent undue market rupture. Additionally, the industry must navigate complex legal landscapes involving imports, such as cacao and menthol, while maintaining compliance with overarching EU policies.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:02.021994",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1861,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 59,
+      "selected_avg_freq": 22.82
+    },
+    "related_words": [
+      "cough",
+      "eucalyptol",
+      "tolu",
+      "particuilar",
+      "equalling",
+      "underta",
+      "kings",
+      "tolerating",
+      "territorites",
+      "suiker",
+      "maastschappij",
+      "eminating",
+      "tiense",
+      "suikerraffinaderij",
+      "orkem",
+      "minuted",
+      "ugal",
+      "bnic",
+      "celano",
+      "nusam",
+      "sadam",
+      "castiglion",
+      "fiorentino",
+      "castiglionese",
+      "inteventions",
+      "ponteco",
+      "comagri",
+      "coprob",
+      "seci",
+      "spai"
+    ],
+    "prompt_length": 1720,
+    "category": "6031 agri-foodstuffs"
+  }
+}

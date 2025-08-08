@@ -1,0 +1,63 @@
+{
+  "concept_id": "4602",
+  "concept_data": {
+    "title": "Werner report",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "Economic and Monetary Union",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Werner report,\" a pivotal document in the context of the Economic and Monetary Union (EMU), addresses the interrelationship between member states' monetary policies and the eurozone's stability. It acknowledges the need for a cohesive framework to enhance convertibility and financial intermediation across diverse economies, including those of the Comorian and UEMOA regions. The report's recommendations, which include the gradual adoption of the euro and the establishment of a central bank, aim to narrow disparities among currencies such as the tolar and koruna. By restating the importance of prudence in fiscal policies, the Werner report lays the groundwork for a more integrated and economically stable Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:48:03.107612",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1133,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 132,
+      "selected_avg_freq": 58.62
+    },
+    "related_words": [
+      "skk",
+      "perceptions",
+      "kroon",
+      "mtl",
+      "cyp",
+      "sit",
+      "jubilee",
+      "ecumenical",
+      "eurozone",
+      "interrelationship",
+      "comorian",
+      "uemoa",
+      "africaine",
+      "cemac",
+      "afrique",
+      "comores",
+      "announcements",
+      "intraday",
+      "tolar",
+      "mutilated",
+      "ouest",
+      "koruna",
+      "lengthen",
+      "lats",
+      "économique",
+      "monétaire",
+      "cfa",
+      "fisim",
+      "grd",
+      "designers"
+    ],
+    "prompt_length": 1708,
+    "category": "2411 monetary economics"
+  }
+}

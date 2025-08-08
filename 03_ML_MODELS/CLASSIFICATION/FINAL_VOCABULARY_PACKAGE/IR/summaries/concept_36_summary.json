@@ -1,0 +1,63 @@
+{
+  "concept_id": "36",
+  "concept_data": {
+    "title": "competence of the Community",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU competence",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU competence\" refers to the legal foundation that delineates the authority of the European Union to act within specific domains. This competence is derived from treaties, embodying principles of conferral and complementarity, where powers not explicitly granted to the EU remain with member states. The EU’s remit includes areas such as trade, environmental protection, and human rights, where it can legislate bilaterally or plurilateral agreements. Courts interpret these competencies, ensuring that actions align with substantive legal frameworks. The EU also addresses issues like racism and xenophobia, promoting orientations that uphold gender equality and social justice, while ensuring hazardous practices are regulated.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:46.684720",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 394,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 846,
+      "selected_avg_freq": 379.5733333333333
+    },
+    "related_words": [
+      "hns",
+      "plurilateral",
+      "punta",
+      "gfcm",
+      "fills",
+      "este",
+      "noxious",
+      "victim",
+      "bilaterally",
+      "orientations",
+      "ombudsman",
+      "reopen",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "dissociated",
+      "spills",
+      "embodying",
+      "thematic",
+      "conferral",
+      "marrakesh",
+      "embodied",
+      "mergers",
+      "sovereign",
+      "gender",
+      "remit",
+      "complementarity",
+      "ratify",
+      "inasmuch",
+      "supervisor"
+    ],
+    "prompt_length": 1714,
+    "category": "1011 European Union law"
+  }
+}

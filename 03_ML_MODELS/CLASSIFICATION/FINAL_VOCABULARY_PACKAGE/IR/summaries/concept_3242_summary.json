@@ -1,0 +1,26 @@
+{
+  "concept_id": "3242",
+  "concept_data": {
+    "title": "property insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Property insurance is a critical component of the insurance sector within the EU, providing coverage for risks associated with physical assets. It encompasses various policies designed to protect property owners against losses resulting from events such as fire, theft, or natural disasters. In the context of EU legal and regulatory frameworks, property insurance is governed by directives that ensure consumer protection, promote transparency, and foster competition among insurers. The regulatory landscape mandates that insurers adhere to solvency requirements and maintain adequate reserves, thereby safeguarding policyholders' interests. This concept is essential for facilitating economic stability and encouraging investment in real estate across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:00:21.060381",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1167,
+    "category": "2431 insurance"
+  }
+}

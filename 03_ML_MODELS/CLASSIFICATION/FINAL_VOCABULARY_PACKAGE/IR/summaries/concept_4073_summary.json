@@ -1,0 +1,63 @@
+{
+  "concept_id": "4073",
+  "concept_data": {
+    "title": "supplementary trade mechanism",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"supplementary trade mechanism\" within the EU's 2006 trade policy framework is designed to facilitate the adjustment of trade measures for specific products, ensuring that access to markets remains undisturbed. This mechanism allows for detailed localization of trade rules, particularly for items such as roquefort, cheddar, and other conserved goods. By implementing cellings on certain imports, the EU aims to prevent monopolizing practices and ensure fair competition among community organizations. The application of this mechanism includes provisions for consignments of particular products, such as artichokes and juiced fruits, while maintaining valid marketing practices. Overall, it harmoniously supports the accession of new member states into the EU trade landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:02:56.447469",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1306,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 117,
+      "selected_avg_freq": 48.833333333333336
+    },
+    "related_words": [
+      "bushes",
+      "plumosus",
+      "adjustements",
+      "appllication",
+      "monopolizing",
+      "accesion",
+      "subtotal",
+      "abricots",
+      "poroducts",
+      "valild",
+      "localization",
+      "veined",
+      "roquefort",
+      "partricular",
+      "juiced",
+      "artichockes",
+      "maketing",
+      "excepted",
+      "accesssion",
+      "lpt",
+      "extil",
+      "ont",
+      "undisturbed",
+      "suppelementary",
+      "subect",
+      "inthe",
+      "cellings",
+      "celling",
+      "orgaization",
+      "dtailed"
+    ],
+    "prompt_length": 1697,
+    "category": "2006 trade policy"
+  }
+}

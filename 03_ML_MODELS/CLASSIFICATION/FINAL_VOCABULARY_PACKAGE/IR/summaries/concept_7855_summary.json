@@ -1,0 +1,63 @@
+{
+  "concept_id": "7855",
+  "concept_data": {
+    "title": "regions of Estonia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Estonia\" pertains to the administrative divisions within Estonia, which are significant in the context of EU legal and regulatory frameworks. These regions demarcate boundaries that facilitate the management of various issues, including epidemiological concerns such as the outbreaks of African swine fever affecting wild boar and domestic pigs. The presence of such diseases necessitates differentiated restrictions on the movement of live pigs and fresh meat across borders, particularly with neighbouring Latvia. Regulatory preparations are crucial to prevent the spread of viruses and ensure the safety of zootechnical practices. Findings from various reports highlight the need for focused measures to address unjustified barriers and disturbances in trade related to these occurrences.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:53.890952",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 3304,
+      "selected_avg_freq": 1425.7666666666667
+    },
+    "related_words": [
+      "kupiškis",
+      "kaunas",
+      "demarcates",
+      "boar",
+      "kilometres",
+      "feral",
+      "estonian",
+      "dispatch",
+      "latvian",
+      "zootechnical",
+      "fever",
+      "epidemiological",
+      "unjustified",
+      "neighbouring",
+      "differentiated",
+      "focus",
+      "virus",
+      "pig",
+      "outbreak",
+      "wild",
+      "occurrence",
+      "pigs",
+      "outbreaks",
+      "swine",
+      "near",
+      "few",
+      "unnecessary",
+      "preparations",
+      "barriers",
+      "african"
+    ],
+    "prompt_length": 1670,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5772",
+  "concept_data": {
+    "title": "European Union sponsorship",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EU sponsorship",
+    "relation_type": "USE"
+  },
+  "summary": "\"EU sponsorship\" refers to the financial support provided by the European Union to promote various initiatives, including competitions and projects that enhance productivity and harmonization across member states. This sponsorship presupposes a structured allocation of funds, which may include prizes for successful participants in fields such as zootechnics and equidae rearing. By introducing safeguards and barriers to ensure fair access, the EU aims to mitigate disparities in income and improve the overall standing of farming populations. Authorized reserves and fixed ceilings are established to maintain rational participation, thereby constituting a vital source of support for planned improvements in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:51.547868",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1820.3714285714286
+    },
+    "related_words": [
+      "prize",
+      "competitions",
+      "zootechnics",
+      "jeopardized",
+      "presupposes",
+      "cee",
+      "rearing",
+      "money",
+      "horses",
+      "equidae",
+      "barrier",
+      "profits",
+      "disparities",
+      "rational",
+      "breeding",
+      "productivity",
+      "farming",
+      "harmonization",
+      "reserve",
+      "safeguard",
+      "income",
+      "advisable",
+      "live",
+      "source",
+      "population",
+      "ceiling",
+      "generally",
+      "planned",
+      "intra",
+      "therein"
+    ],
+    "prompt_length": 1738,
+    "category": "1016 European construction"
+  }
+}

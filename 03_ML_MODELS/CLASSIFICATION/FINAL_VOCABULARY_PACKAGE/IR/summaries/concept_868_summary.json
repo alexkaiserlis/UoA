@@ -1,0 +1,63 @@
+{
+  "concept_id": "868",
+  "concept_data": {
+    "title": "nuclear test",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"nuclear test\" pertains to activities involving the detonation of nuclear weapons, which are subject to stringent EU legal and regulatory frameworks aimed at proliferation prevention. The Comprehensive Nuclear-Test-Ban Treaty (CTBT) is pivotal, with the EU advocating for its ratification and promoting the role of the Preparatory Commission for the CTBT Organization (CTBTO). The EU's Common Foreign and Security Policy (CFSP) emphasizes the need for effective mitigation strategies against atmospheric tests, enhancing capabilities for monitoring through the International Monitoring System (IMS). The successful implementation of these measures aims to strengthen global security and prevent the mass destruction associated with nuclear weapons proliferation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:04.970837",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 146,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 146,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1556.7671232876712
+    },
+    "related_words": [
+      "ctbto",
+      "radioxenon",
+      "sustainment",
+      "ctbt",
+      "ims",
+      "atm",
+      "accelerating",
+      "characterisation",
+      "generations",
+      "auxiliary",
+      "ratify",
+      "atmospheric",
+      "weapons",
+      "proliferation",
+      "capabilities",
+      "york",
+      "quoted",
+      "vienna",
+      "mitigation",
+      "resource",
+      "stations",
+      "sign",
+      "destruction",
+      "enhancing",
+      "mass",
+      "ratification",
+      "aiming",
+      "nuclear",
+      "secretariat",
+      "undertook"
+    ],
+    "prompt_length": 1694,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

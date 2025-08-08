@@ -1,0 +1,63 @@
+{
+  "concept_id": "2426",
+  "concept_data": {
+    "title": "oak",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": true,
+    "preferred_term": "deciduous tree",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"oak,\" categorized under forestry, is redirected to the preferred term \"deciduous tree,\" specifically referring to the genus Quercus. Oaks are significant in EU legal and regulatory frameworks due to their ecological value and role in biodiversity. They support various species, including pests like the kuriphilus and phytophthora, which pose threats to forests. The degradation of oak habitats can lead to marginal ecosystems, impacting the production of logs and casks for winemaking. Regulatory measures often address the epidemiology of oak-related diseases, ensuring the protection of ornamental species such as rhododendron and viburnum. Effective management is crucial to halt the spread of invasive insects that threaten these vital woody resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:24.462538",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 971,
+      "selected_avg_freq": 379.94666666666666
+    },
+    "related_words": [
+      "rhododendron",
+      "viburnum",
+      "simsii",
+      "inwards",
+      "outwards",
+      "casks",
+      "yasumatsu",
+      "chestnuts",
+      "hills",
+      "gall",
+      "wasp",
+      "castanea",
+      "planch",
+      "bretz",
+      "fagacearum",
+      "ramorum",
+      "werres",
+      "cock",
+      "veld",
+      "oriental",
+      "wilt",
+      "ceratocystis",
+      "dryocosmus",
+      "kuriphilus",
+      "nov",
+      "woody",
+      "hunt",
+      "logs",
+      "phytophthora",
+      "chestnut"
+    ],
+    "prompt_length": 1649,
+    "category": "5636 forestry"
+  }
+}

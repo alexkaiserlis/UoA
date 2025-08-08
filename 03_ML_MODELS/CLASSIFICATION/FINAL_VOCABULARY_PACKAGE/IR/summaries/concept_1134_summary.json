@@ -1,0 +1,63 @@
+{
+  "concept_id": "1134",
+  "concept_data": {
+    "title": "alcohol",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"alcohol\" within EU legal and regulatory frameworks encompasses a diverse range of beverages characterized by their alcoholometry and densimetry. Regulatory measures often focus on the characteristics of alcohol, including its vinified forms, such as cuvee and teran, which may be enriched with terpenoids or aromatized with substances like verbena and lippia. The EU also addresses the patenting of alcohol-related innovations, including deodorisers and perfumes derived from alcohol. Additionally, regulations may involve the use of alcoholometers and hydrometers to ensure compliance with standards, while also considering the implications of impure or slighter alcohol products in trade.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:48.782412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1547,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 77,
+      "selected_avg_freq": 32.093333333333334
+    },
+    "related_words": [
+      "alcoholometry",
+      "sekab",
+      "altia",
+      "weakens",
+      "mek",
+      "denatonium",
+      "patenting",
+      "verbena",
+      "lippia",
+      "citriodora",
+      "kunth",
+      "phenethyl",
+      "terpene",
+      "terpenoids",
+      "sinpine",
+      "densimetry",
+      "expedition",
+      "primorska",
+      "teran",
+      "ptp",
+      "kras",
+      "slighter",
+      "alchohol",
+      "carcateristics",
+      "charecteristics",
+      "obteined",
+      "collate",
+      "impure",
+      "colognes",
+      "vinus"
+    ],
+    "prompt_length": 1683,
+    "category": "6021 beverages and sugar"
+  }
+}

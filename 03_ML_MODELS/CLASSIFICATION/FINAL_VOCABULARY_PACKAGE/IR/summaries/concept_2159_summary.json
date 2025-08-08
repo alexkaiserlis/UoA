@@ -1,0 +1,63 @@
+{
+  "concept_id": "2159",
+  "concept_data": {
+    "title": "meter",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "measuring equipment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"meter\" is redirected to \"measuring equipment,\" encompassing a wide range of devices utilized for precise measurements. This includes instruments such as anemometers, fluorometers, and chromatographs, which are essential for monitoring parameters like flowrate and concentration in various sectors. Regulatory standards, often guided by OIML (International Organization of Legal Metrology), ensure that devices like inductive sensors and interferometers meet exigent performance characteristics. The integration of advanced technologies, such as amplifiers and microcal systems, enhances the accuracy of readings. Compliance with these standards is crucial for maintaining quality in applications ranging from environmental monitoring to industrial processes, ensuring reliable data for decision-making.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:29.397469",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2539,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.14
+    },
+    "related_words": [
+      "sms",
+      "pmr",
+      "waveform",
+      "cgpm",
+      "amplifiers",
+      "simplec",
+      "televiewer",
+      "chh",
+      "penetrated",
+      "alcoholometry",
+      "flowrate",
+      "exigent",
+      "oiml",
+      "microcal",
+      "susceptometer",
+      "vts",
+      "characteristiscs",
+      "integrators",
+      "chromatographs",
+      "spectrometers",
+      "logarithmic",
+      "cardinal",
+      "metastable",
+      "conentration",
+      "radiosonde",
+      "burleigh",
+      "fabry",
+      "perot",
+      "interferometer",
+      "brillouin"
+    ],
+    "prompt_length": 1736,
+    "category": "6821 mechanical engineering"
+  }
+}

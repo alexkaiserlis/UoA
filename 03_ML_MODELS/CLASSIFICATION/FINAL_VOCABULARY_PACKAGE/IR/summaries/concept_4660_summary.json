@@ -1,0 +1,63 @@
+{
+  "concept_id": "4660",
+  "concept_data": {
+    "title": "Veneto",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Veneto\" refers to a significant region within the EU Member States, specifically located in northeastern Italy, encompassing cities like Venice and Verona. This region is notable for its rich cultural heritage and oenological traditions, particularly in vinification processes that produce renowned wines such as Bianco and Asparago. Legal frameworks often address issues like acidification and the redistribution of resources, especially in the context of environmental challenges like flooding and earthquakes that have materially impacted the region. The concept of goodwill is also relevant, as it pertains to the intangible assets of local businesses. Veneto's regulatory landscape is continually evolving, reaffirming its commitment to sustainable development while addressing the challenges of climate change and economic restructuring.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:22:42.492751",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 763,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 392,
+      "selected_avg_freq": 184.88666666666666
+    },
+    "related_words": [
+      "cimadolmo",
+      "acidify",
+      "intangibles",
+      "polesano",
+      "aglio",
+      "garda",
+      "piacenza",
+      "assert",
+      "venice",
+      "asparago",
+      "narrowing",
+      "overshooting",
+      "bianco",
+      "burr",
+      "winsl",
+      "verona",
+      "reaffirming",
+      "goodwill",
+      "transferee",
+      "erwinia",
+      "amylovora",
+      "intangible",
+      "looked",
+      "vinification",
+      "assertion",
+      "believed",
+      "acidification",
+      "friuli",
+      "venezia",
+      "giulia"
+    ],
+    "prompt_length": 1697,
+    "category": "7211 regions of EU Member States"
+  }
+}

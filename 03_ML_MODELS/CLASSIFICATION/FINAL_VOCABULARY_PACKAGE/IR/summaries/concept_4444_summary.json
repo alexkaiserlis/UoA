@@ -1,0 +1,63 @@
+{
+  "concept_id": "4444",
+  "concept_data": {
+    "title": "abandoned land",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"abandoned land\" within EU legal and regulatory frameworks pertains to uncultivated agricultural holdings that have been left fallow, often constituting a significant challenge in achieving sustainable land use. The abandonment of land can lead to fragmentation and a distorted agricultural landscape, limiting the attainment of cultivation goals. The EU encourages the reformed use of such land through various aids and premiums, aimed at preventing further abandonment and promoting the cultivation of hectares previously neglected. The crisis in agricultural sectors necessitates advanced measures to ensure that abandoned land is correctly certified and utilized, thus enhancing the overall achievement of agricultural freedom and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:27:49.663256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2334,
+      "selected_avg_freq": 1115.5466666666666
+    },
+    "related_words": [
+      "ares",
+      "uncultivated",
+      "cognac",
+      "charentes",
+      "reformed",
+      "grubbing",
+      "fragmentation",
+      "abandoned",
+      "abandonment",
+      "encouragement",
+      "hectares",
+      "departure",
+      "distorted",
+      "cultivated",
+      "excludes",
+      "certifying",
+      "meant",
+      "feature",
+      "premiums",
+      "host",
+      "presenting",
+      "frequently",
+      "enjoy",
+      "timetable",
+      "advanced",
+      "correctly",
+      "premium",
+      "consequent",
+      "left",
+      "constituting"
+    ],
+    "prompt_length": 1693,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

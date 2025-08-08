@@ -1,0 +1,63 @@
+{
+  "concept_id": "2986",
+  "concept_data": {
+    "title": "refugee",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"refugee\" within EU legal and regulatory frameworks is primarily governed by the Geneva Convention and the Common European Asylum System (CEAS). A refugee is defined as a foreigner who, owing to well-founded fear of persecution based on nationality, religion, or political opinion, is unable to return to their home country. The EU engages with international bodies such as UNHCR and UNRWA to facilitate resettlement and support for refugees, particularly from conflict zones like Yemen, Libya, and Palestine. The EU aims to maximize humanitarian efforts, ensuring that the experiences of refugees are acknowledged and addressed through comprehensive migration policies and resettlement pacts, while also targeting the needs of inhabitants in regions like the Horn of Africa and the Balkans.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:14:38.282108",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 508,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 761,
+      "selected_avg_freq": 352.82
+    },
+    "related_words": [
+      "unhcr",
+      "ceas",
+      "persecuted",
+      "foreigner",
+      "nationalities",
+      "resettled",
+      "resettle",
+      "curriculum",
+      "unrwa",
+      "refugee",
+      "solemnly",
+      "resettlement",
+      "djibouti",
+      "tradition",
+      "palestine",
+      "horn",
+      "lump",
+      "maximising",
+      "yemen",
+      "commissioner",
+      "libya",
+      "inhabitants",
+      "asylum",
+      "thanks",
+      "refugees",
+      "immigration",
+      "tanzania",
+      "hague",
+      "distribute",
+      "envelope"
+    ],
+    "prompt_length": 1650,
+    "category": "0816 international security"
+  }
+}

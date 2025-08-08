@@ -1,0 +1,63 @@
+{
+  "concept_id": "3300",
+  "concept_data": {
+    "title": "geographical distribution of the population",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"geographical distribution of the population\" is a critical concept in EU demography and population studies, focusing on how populations are concentrated across various regions. This distribution is assessed through statistics that highlight disparities in urban and rural areas, facing challenges such as unemployment and socio-economic difficulties. EU regulations stipulate that investments in structural funds aim to reduce these disparities, requiring maximum effectiveness in operations. The coordination of these efforts is essential for meeting objectives outlined in relevant instruments, ensuring that regions undergoing change receive adequate support. Overall, the concept contributes to understanding the long-term dynamics of population distribution and its impact on policy-making.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:45.259319",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 104,
+      "requested_words": 150,
+      "min_frequency_found": 131,
+      "max_frequency_found": 4108,
+      "selected_words": 104,
+      "selected_min_freq": 131,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1956.6538461538462
+    },
+    "related_words": [
+      "undergoing",
+      "severity",
+      "berlin",
+      "nuts",
+      "unemployment",
+      "socio",
+      "facing",
+      "concentration",
+      "rural",
+      "ceilings",
+      "effort",
+      "population",
+      "fair",
+      "ceiling",
+      "statistics",
+      "compared",
+      "conversion",
+      "assessed",
+      "bank",
+      "aims",
+      "tasks",
+      "stipulates",
+      "makes",
+      "coordination",
+      "investment",
+      "industrial",
+      "funds",
+      "structural",
+      "effectiveness",
+      "exceed"
+    ],
+    "prompt_length": 1705,
+    "category": "2816 demography and population"
+  }
+}

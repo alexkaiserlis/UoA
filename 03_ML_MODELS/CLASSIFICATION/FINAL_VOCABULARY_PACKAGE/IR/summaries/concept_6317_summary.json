@@ -1,0 +1,26 @@
+{
+  "concept_id": "6317",
+  "concept_data": {
+    "title": "rain-fed agriculture",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "irrigated agriculture",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rain-fed agriculture,\" categorized under the cultivation of agricultural land, is redirected to the preferred term \"irrigated agriculture\" within EU legal and regulatory frameworks. This relationship underscores the importance of water management in agricultural practices, particularly in the context of sustainability and resource efficiency. While rain-fed agriculture relies on natural precipitation, irrigated agriculture incorporates artificial water supply systems, enhancing crop yield and resilience against climate variability. EU regulations increasingly emphasize the need for sustainable agricultural practices, promoting efficient water usage and adaptation strategies to ensure food security and environmental protection across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:19:32.878008",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1233,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

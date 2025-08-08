@@ -1,0 +1,63 @@
+{
+  "concept_id": "1426",
+  "concept_data": {
+    "title": "informatics",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer systems",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"informatics,\" as categorized under information technology and data processing, is redirected to the preferred term \"computer systems.\" In the context of EU legal and regulatory frameworks, informatics encompasses the systematic coordination of teleinformatics and microelectronics to enhance the accessibility and portability of software tools. This field raises challenges related to standardization and the ecological impact of computerized systems. The EU's concerted efforts aim to authorize the development of programs that facilitate the accurate copying and processing of data across languages and borders. Such initiatives are crucial for improving lives and ensuring the effective management of organs, tissues, and other biological data.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:15.222449",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 430,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 871,
+      "selected_avg_freq": 440.76
+    },
+    "related_words": [
+      "enlisting",
+      "coordinatin",
+      "teleinformatics",
+      "informatic",
+      "microelectronics",
+      "informatics",
+      "portability",
+      "copying",
+      "televisions",
+      "mattresses",
+      "graphic",
+      "concertation",
+      "programs",
+      "computers",
+      "exploratory",
+      "dublin",
+      "lives",
+      "bed",
+      "organs",
+      "existent",
+      "portable",
+      "orientation",
+      "electronics",
+      "tissue",
+      "raises",
+      "aided",
+      "software",
+      "eco",
+      "computerized",
+      "transnational"
+    ],
+    "prompt_length": 1782,
+    "category": "3236 information technology and data processing"
+  }
+}

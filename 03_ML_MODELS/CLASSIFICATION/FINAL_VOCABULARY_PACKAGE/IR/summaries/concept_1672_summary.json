@@ -1,0 +1,63 @@
+{
+  "concept_id": "1672",
+  "concept_data": {
+    "title": "winding-up of company",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "liquidation",
+    "relation_type": "USE"
+  },
+  "summary": "The \"winding-up of company,\" commonly referred to as \"liquidation,\" is a legal process codifying the dissolution of a business entity, often due to insolvency. This procedure involves liquidators who manage the proceedings, ensuring that all parties are notified and bound by the legal framework established by EU legislation. Member States, including Malta, Latvia, and Hungary, have adopted specific protocols and amendments to facilitate this process, providing certainty in the consequences of liquidation. Notifications and lists of involved parties are essential, as they ensure compliance with the abovementioned regulations. The act applies uniformly across the United Kingdom, Belgium, Italy, Denmark, Ireland, Austria, Poland, Portugal, Spain, and Lithuania, reflecting a unified approach to business organization within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:18:04.781874",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2076.7444444444445
+    },
+    "related_words": [
+      "codifying",
+      "liquidators",
+      "winding",
+      "insolvency",
+      "designations",
+      "codified",
+      "notifications",
+      "proceedings",
+      "wish",
+      "participating",
+      "bound",
+      "malta",
+      "certainty",
+      "latvia",
+      "lithuania",
+      "hungary",
+      "poland",
+      "notice",
+      "belgium",
+      "lists",
+      "italy",
+      "denmark",
+      "ireland",
+      "austria",
+      "consequence",
+      "portugal",
+      "virtue",
+      "annexes",
+      "involved",
+      "spain"
+    ],
+    "prompt_length": 1699,
+    "category": "4006 business organisation"
+  }
+}

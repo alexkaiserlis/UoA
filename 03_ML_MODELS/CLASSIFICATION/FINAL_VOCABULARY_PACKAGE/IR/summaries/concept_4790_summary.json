@@ -1,0 +1,63 @@
+{
+  "concept_id": "4790",
+  "concept_data": {
+    "title": "fishing limits",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "fishing area",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, \"fishing limits\" are often redirected to the preferred term \"fishing area,\" which encompasses designated zones for fishing activities. These areas are crucial for the sustainable management of fish stocks, including anadromous species that inhabit both freshwater and marine environments. Regulatory measures aim to establish fishing limits that prevent overfishing and imperil marine biodiversity. For instance, the management of sandeels and other significant species is governed by Community regulations that define specific quotas and fishing techniques, such as trammel nets and seine fishing. Consequently, these regulations help maintain ecological balance and ensure opportunities for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:10.489768",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2375,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 11.213333333333333
+    },
+    "related_words": [
+      "tananarivo",
+      "seawards",
+      "copace",
+      "oeresund",
+      "imperil",
+      "nasco",
+      "sandeels",
+      "karpu",
+      "fiskbæk",
+      "gudenåen",
+      "halkær",
+      "storåen",
+      "flay",
+      "plateau",
+      "bcd",
+      "consequentially",
+      "færoese",
+      "managament",
+      "commuunity",
+      "fmcs",
+      "viiiabde",
+      "compostela",
+      "statlant",
+      "gdynia",
+      "spitsbergen",
+      "poposal",
+      "reykjavik",
+      "anadromous",
+      "significants",
+      "estalishing"
+    ],
+    "prompt_length": 1688,
+    "category": "5641 fisheries"
+  }
+}

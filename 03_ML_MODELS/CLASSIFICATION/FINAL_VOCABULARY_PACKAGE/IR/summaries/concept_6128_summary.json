@@ -1,0 +1,63 @@
+{
+  "concept_id": "6128",
+  "concept_data": {
+    "title": "Office for Harmonization in the Internal Market (Trade Marks and Designs)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Union Intellectual Property Office",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Office for Harmonization in the Internal Market (Trade Marks and Designs)\" is a pivotal EU institution, now more commonly referred to as the \"European Union Intellectual Property Office\" (EUIPO). It plays a crucial role in the centralisation of trademark and design registrations across the EU, ensuring harmonization in the registrability of intellectual property. Under the leadership of figures like António Campinos, the office manages appeals and invalidation motions, while also overseeing the publication of registrations. The EUIPO collaborates with WIPO and engages in diplomatic efforts to streamline processes, enhancing the readability of legal frameworks for trademarks and designs. Its responsibilities include examining candidatures, addressing invalidity and revocation cases, and maintaining a comprehensive registry.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:16:40.068726",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 412,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 760,
+      "selected_avg_freq": 284.5933333333333
+    },
+    "related_words": [
+      "pinho",
+      "campinos",
+      "humphreys",
+      "archambeau",
+      "tomás",
+      "heras",
+      "schennen",
+      "harmonizaiton",
+      "antónio",
+      "serge",
+      "gordon",
+      "registrability",
+      "cheques",
+      "examiners",
+      "candidatures",
+      "payables",
+      "david",
+      "detlef",
+      "chairpersons",
+      "wipo",
+      "invalidation",
+      "christian",
+      "presidents",
+      "centralisation",
+      "thomas",
+      "suppressing",
+      "motion",
+      "invalidity",
+      "revocation",
+      "las"
+    ],
+    "prompt_length": 1826,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

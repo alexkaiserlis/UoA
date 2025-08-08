@@ -1,0 +1,63 @@
+{
+  "concept_id": "143",
+  "concept_data": {
+    "title": "household spending",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "household consumption",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"household spending,\" redirected to \"household consumption,\" pertains to the expenditure patterns of households within the EU, influencing various economic indices such as the HICP (Harmonised Index of Consumer Prices) and its counterparts. This concept is crucial for understanding inflation and its impact on household budgets, particularly in the context of VAT (Value Added Tax) and other taxation measures. Accurate compilation of household consumption data, including geographic and demographic weights, is essential for policymakers to assess economic cohesion and provide incentives for sustainable consumption. Moreover, the regulation of energy costs, such as electricity and heating, directly affects household spending, necessitating careful consideration of indices and their implications for traders and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:18.937818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 305,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1315,
+      "selected_avg_freq": 667.1533333333333
+    },
+    "related_words": [
+      "cpis",
+      "muicp",
+      "eicp",
+      "hicp",
+      "counterparts",
+      "hicps",
+      "spc",
+      "puts",
+      "taxed",
+      "existent",
+      "households",
+      "footing",
+      "indices",
+      "weights",
+      "induced",
+      "heating",
+      "deduct",
+      "taxable",
+      "distributors",
+      "district",
+      "compilation",
+      "household",
+      "index",
+      "customer",
+      "geographic",
+      "substitute",
+      "latvian",
+      "southern",
+      "elsewhere",
+      "inflation"
+    ],
+    "prompt_length": 1679,
+    "category": "2026 consumption"
+  }
+}

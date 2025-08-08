@@ -1,0 +1,63 @@
+{
+  "concept_id": "4613",
+  "concept_data": {
+    "title": "farm lease",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"farm lease\" within EU legal and regulatory frameworks entails agreements whereby farmers, often nationals or foreign individuals, acquire the rights to operate agricultural holdings. These leases can include uncultivated or abandoned lands, allowing for the enjoyment of agricultural activities. The legal treatment of farm leases is governed by laws that prevent restrictions on the freedom of farmers to utilize the land effectively. The establishment of such leases is detailed in various programmes aimed at the attainment of sustainable agricultural practices. Farmers benefit from a series of rights and obligations, which may evolve over time, ensuring continuous engagement in agricultural operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:24.259104",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1956.8061224489795
+    },
+    "related_words": [
+      "uncultivated",
+      "enjoyment",
+      "leases",
+      "abandoned",
+      "rendered",
+      "nationals",
+      "entails",
+      "enjoy",
+      "timetable",
+      "left",
+      "abolished",
+      "attainment",
+      "abolition",
+      "farmers",
+      "holdings",
+      "employed",
+      "like",
+      "beneficiaries",
+      "series",
+      "workers",
+      "continuous",
+      "freedom",
+      "beginning",
+      "foreign",
+      "takes",
+      "operating",
+      "agriculture",
+      "title",
+      "restrictions",
+      "practices"
+    ],
+    "prompt_length": 1658,
+    "category": "5616 farming systems"
+  }
+}

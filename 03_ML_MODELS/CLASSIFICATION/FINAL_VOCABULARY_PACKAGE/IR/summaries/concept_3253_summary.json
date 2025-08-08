@@ -1,0 +1,63 @@
+{
+  "concept_id": "3253",
+  "concept_data": {
+    "title": "budget appropriation",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Budget appropriation\" refers to the allocation of financial resources within the EU budgetary framework, essential for defining the distribution of funds across various programmes and interventions. It encompasses the examination and adoption of draft budgets by committees, ensuring that appropriations are consistent with multiannual plans. The principle of budget appropriations allows for the efficient conversion of resources to benefit designated sectors, such as agricultural and energy supplies. Each unit of expenditure is charged to specific revenue streams, thereby optimizing the use of funds. This process is crucial for organizations and persons involved in the implementation of EU policies, including those related to Euratom and food safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:40:52.525693",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 107,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 107,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2042.9065420560748
+    },
+    "related_words": [
+      "benenfit",
+      "deprived",
+      "optimum",
+      "contents",
+      "revenue",
+      "allocating",
+      "side",
+      "appropriations",
+      "committees",
+      "multiannual",
+      "defining",
+      "opinions",
+      "organizations",
+      "atomic",
+      "stocks",
+      "charged",
+      "designated",
+      "intervention",
+      "unit",
+      "conversion",
+      "budgetary",
+      "allocated",
+      "distribution",
+      "containing",
+      "budget",
+      "examined",
+      "adopting",
+      "reached",
+      "actual",
+      "consistent"
+    ],
+    "prompt_length": 1674,
+    "category": "2441 budget"
+  }
+}

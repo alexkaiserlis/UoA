@@ -1,0 +1,63 @@
+{
+  "concept_id": "5130",
+  "concept_data": {
+    "title": "European civil service",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European civil service\" encompasses the decentralized administrative framework of the EU, which is crucial for managing a diverse caseload of legal and regulatory matters. Civil servants, including judges and lawyers, are required to take an oath to uphold EU values. This body is distinguished by its formations, including panels and tribunals, that handle appeals and ensure amicable resolutions. As vacancies arise due to retirement or resignation, the process of nominating and electing new members is governed by established precedents. The civil service empowers institutions like Europol, facilitating cooperation across member states, while ensuring publicity and transparency in its operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:31.721601",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 347,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 926,
+      "selected_avg_freq": 381.1666666666667
+    },
+    "related_words": [
+      "caseload",
+      "oath",
+      "horstpeter",
+      "kreppel",
+      "sean",
+      "raepenbusch",
+      "retiring",
+      "alleweldt",
+      "amelie",
+      "buntenbach",
+      "boruta",
+      "irena",
+      "formations",
+      "karin",
+      "answers",
+      "decentralized",
+      "lawyers",
+      "distinguishes",
+      "elect",
+      "fifty",
+      "try",
+      "nominate",
+      "amicable",
+      "judges",
+      "tribunal",
+      "appeals",
+      "resignation",
+      "matching",
+      "eaec",
+      "vacant"
+    ],
+    "prompt_length": 1660,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

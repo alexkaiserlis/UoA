@@ -1,0 +1,63 @@
+{
+  "concept_id": "780",
+  "concept_data": {
+    "title": "agricultural training",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "agricultural education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"agricultural training,\" redirected to \"agricultural education,\" encompasses the systematic improvement of skills and knowledge among farmers and agricultural workers within the EU. This educational framework aims to address deficiencies in productivity and occupational capabilities, thereby enhancing the competitive advantage of cooperatives and individual farmers. Coordinated courses are designed to satisfy the varied needs of the sector, ensuring that training is aligned with optimum utilization of resources. By engaging leaders and managers in planning efforts, the EU seeks to remedy isolation among agricultural communities, fostering a balanced approach to skills acquisition. This initiative is crucial for correcting constraints and proving compatibility with broader socio-economic objectives, ultimately leading to improved farm productivity across regions, including the Rhine and North Laender.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:46:23.638939",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1754,
+      "selected_avg_freq": 922.6733333333333
+    },
+    "related_words": [
+      "imnproving",
+      "leaders",
+      "markedly",
+      "courses",
+      "westphalia",
+      "cooperatives",
+      "managers",
+      "laender",
+      "farmer",
+      "rhine",
+      "isolation",
+      "occupational",
+      "skills",
+      "vocational",
+      "socio",
+      "deficiencies",
+      "experimental",
+      "optimum",
+      "acquisition",
+      "inadequate",
+      "productivity",
+      "farm",
+      "satisfies",
+      "planning",
+      "coordinated",
+      "utilization",
+      "mind",
+      "eaggf",
+      "attain",
+      "error"
+    ],
+    "prompt_length": 1724,
+    "category": "3211 teaching"
+  }
+}

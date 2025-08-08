@@ -1,0 +1,63 @@
+{
+  "concept_id": "1927",
+  "concept_data": {
+    "title": "university environment",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": true,
+    "preferred_term": "school environment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"university environment,\" redirected to \"school environment,\" encompasses the organizational framework of educational institutions within the EU. This environment is designed to facilitate teaching and learning, constituting a complex interplay of indoor and outdoor spaces. EU legal and regulatory documents often earmark funding for programs aimed at improving these environments, with appropriations allocated for experimental projects and pilot schemes. Such initiatives may include feasibility studies on climate impact and air quality, ensuring that schools are sufficiently equipped for educational purposes. The commitment to enhancing the school environment reflects a broader strategy of financing research and actions that support educational improvement, thereby fostering a conducive learning atmosphere across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:32:22.025999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 112,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 112,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1686.8660714285713
+    },
+    "related_words": [
+      "hetc",
+      "indoor",
+      "outdoor",
+      "schools",
+      "earmarked",
+      "usefulness",
+      "program",
+      "preceded",
+      "procurement",
+      "experimental",
+      "feasibility",
+      "climate",
+      "pilot",
+      "institution",
+      "complex",
+      "preparatory",
+      "grants",
+      "constituting",
+      "appropriations",
+      "funding",
+      "air",
+      "test",
+      "prepare",
+      "delegated",
+      "fields",
+      "project",
+      "finance",
+      "commitment",
+      "contracts",
+      "proposals"
+    ],
+    "prompt_length": 1732,
+    "category": "3216 organisation of teaching"
+  }
+}

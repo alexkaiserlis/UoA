@@ -1,0 +1,63 @@
+{
+  "concept_id": "5470",
+  "concept_data": {
+    "title": "Brandenburg (Land)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Brandenburg",
+    "relation_type": "USE"
+  },
+  "summary": "Brandenburg, a prominent Land in Germany, is categorized under the regions of EU Member States. This area, which includes cities like Greifswald and Berlin, plays a crucial role in EU legal and regulatory frameworks, particularly concerning regionalisation and the management of infectious diseases such as avian influenza and rhinotracheitis. The Land's boundaries are significant for delineating jurisdictions related to agricultural practices, including the fattening of captive livestock and the cultivation of arable crops like rye. Brandenburg's regulatory perspectives are influenced by its historical context, including its relationship with neighboring regions like Thuringia and Mecklenburg, which enriches its legal landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:57:52.047558",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 487,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 798,
+      "selected_avg_freq": 367.84
+    },
+    "related_words": [
+      "heinrichswalde",
+      "greifswald",
+      "sheltering",
+      "graze",
+      "virulence",
+      "thuringia",
+      "rhinotracheitis",
+      "prominent",
+      "herpesvirus",
+      "vorpommern",
+      "pomerania",
+      "lucrative",
+      "commune",
+      "anhalt",
+      "brandenburg",
+      "enlarge",
+      "mecklenburg",
+      "symptoms",
+      "floods",
+      "subtype",
+      "bavaria",
+      "captive",
+      "viruses",
+      "relieve",
+      "boundaries",
+      "saxony",
+      "contagious",
+      "infections",
+      "regionalisation",
+      "distinguished"
+    ],
+    "prompt_length": 1742,
+    "category": "7211 regions of EU Member States"
+  }
+}

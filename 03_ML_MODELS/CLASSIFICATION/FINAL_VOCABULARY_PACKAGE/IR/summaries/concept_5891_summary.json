@@ -1,0 +1,63 @@
+{
+  "concept_id": "5891",
+  "concept_data": {
+    "title": "world year",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "public awareness campaign",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"world year,\" as a redirect to \"public awareness campaign,\" encompasses initiatives aimed at enhancing citizenship and public engagement within the EU. These campaigns often harnessed the creativity of volunteers and interprofessional teams to address issues like unhealthy diets and environmental sustainability. Notable examples include Eurobarometer surveys, which explore public opinion and motivation, revealing a dearth of awareness among certain demographics. Protagonists in these campaigns, such as Frontex, erect posters and utilize various media to announce their objectives. By fostering intergenerational dialogue and encouraging volunteering, these campaigns durably impact societal behaviours, ultimately boosting civic participation across diverse backgrounds.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:03:46.262861",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1216,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 151,
+      "selected_avg_freq": 65.86666666666666
+    },
+    "related_words": [
+      "tns",
+      "nelson",
+      "sofres",
+      "eos",
+      "gallup",
+      "dearth",
+      "protagonists",
+      "erected",
+      "tasked",
+      "eurobarometer",
+      "unhealthy",
+      "eafg",
+      "volunteering",
+      "volunteers",
+      "volunteer",
+      "omnibus",
+      "abided",
+      "harnessed",
+      "triangle",
+      "entrepreneurial",
+      "creativity",
+      "poster",
+      "founding",
+      "intergenerational",
+      "frontex",
+      "olds",
+      "interprofessional",
+      "explores",
+      "announce",
+      "creative"
+    ],
+    "prompt_length": 1751,
+    "category": "0431 politics and public safety"
+  }
+}

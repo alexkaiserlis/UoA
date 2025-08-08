@@ -1,0 +1,63 @@
+{
+  "concept_id": "524",
+  "concept_data": {
+    "title": "commercial legislation",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "commercial law",
+    "relation_type": "USE"
+  },
+  "summary": "\"Commercial legislation,\" a term redirected to \"commercial law,\" encompasses the body of laws governing trade and business practices within the EU. It aims to create a predictable and enforceable legal framework for practitioners, ensuring that disputes can be adjudicated effectively. This includes mechanisms for amicable settlements and arbitration, where mediators facilitate consensual resolutions. The Lugano Convention exemplifies parallelism in jurisdictional matters, addressing cases where parties are domiciled in different states. The legislation prescribes enforceability of judgements and provides redress for claimants against defendants. Modernised approaches amplify the efficiency of extrajudicial processes, promoting swifter resolutions in commercial disputes, thereby enhancing the overall legal landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:13.175573",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 716,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 374,
+      "selected_avg_freq": 174.2
+    },
+    "related_words": [
+      "swifter",
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "glossary",
+      "judgements",
+      "mediators",
+      "claimant",
+      "sued",
+      "defendant",
+      "mediator",
+      "domiciled",
+      "domicile",
+      "enumerates",
+      "defendants",
+      "lugano",
+      "extrajudicial",
+      "poorer",
+      "consensual",
+      "parallelism",
+      "modernised",
+      "matrimonial",
+      "uncontested",
+      "displaying",
+      "prescription",
+      "amicable"
+    ],
+    "prompt_length": 1763,
+    "category": "2006 trade policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "12",
+  "concept_data": {
+    "title": "request for accession",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "accession to the European Union",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"request for accession\" pertains to the formal process through which a state seeks to join the European Union, redirecting to the preferred term \"accession to the European Union.\" This process involves a series of measures referred to in EU legal frameworks, requiring a quorum of member states for approval. The applicant must demonstrate compliance with acquis communautaire, evidencing their readiness through quantitatives assessments and adherence to nonagricultural standards. Linguists and translators play a crucial role in ensuring homogeneously understood documentation. The accession process inspires nations like Hrvatska, which navigated similar pathways, while the responsibilities of the EU institutions, including the European Parliament, are pivotal in evaluating such requests. The checklist for accession includes considerations of cultural symmetry and economic viability, reflecting the diverse heritage of states like Magyar and Eesti.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:52:01.105081",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 3524,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 9.5
+    },
+    "related_words": [
+      "quorum",
+      "physentzides",
+      "mtoe",
+      "indicatives",
+      "eugenio",
+      "ceccotti",
+      "maryland",
+      "inspiration",
+      "homogeneously",
+      "emperor",
+      "potassic",
+      "ies",
+      "nonagricultural",
+      "measuresreferred",
+      "linguists",
+      "liament",
+      "innitiations",
+      "quantitatives",
+      "afas",
+      "persona",
+      "responsabilities",
+      "enroled",
+      "checklist",
+      "hrvatska",
+      "narodna",
+      "symmetry",
+      "erected",
+      "karlovac",
+      "moslavina",
+      "slavonski"
+    ],
+    "prompt_length": 1744,
+    "category": "1016 European construction"
+  }
+}

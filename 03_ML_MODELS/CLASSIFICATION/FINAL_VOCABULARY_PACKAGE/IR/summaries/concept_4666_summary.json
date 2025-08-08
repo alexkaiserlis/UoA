@@ -1,0 +1,63 @@
+{
+  "concept_id": "4666",
+  "concept_data": {
+    "title": "retail selling",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"retail selling\" within EU legal and regulatory frameworks encompasses the establishment of rules governing the sale of goods, including food products such as fish and meat, originating from various member states, including Denmark and the Faroe Islands. The European Commission has implemented regulations that provide a basis for operational standards, including quotas and tariffs, aimed at reducing barriers to trade. These provisions are often formalized through agreements approved by the Council, ensuring compliance with the EEC code. The annual review of these regulations is crucial for maintaining a competitive market, facilitating the opening of local retail outlets, and ensuring consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:25:21.146326",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 52,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 52,
+      "selected_min_freq": 26,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1879.6346153846155
+    },
+    "related_words": [
+      "etablishing",
+      "dog",
+      "cat",
+      "faroe",
+      "retail",
+      "zero",
+      "levy",
+      "fish",
+      "islands",
+      "coming",
+      "quotas",
+      "opened",
+      "quota",
+      "permanent",
+      "operational",
+      "sale",
+      "tonnes",
+      "local",
+      "opening",
+      "denmark",
+      "originating",
+      "falling",
+      "tariff",
+      "food",
+      "code",
+      "put",
+      "reduction",
+      "annual",
+      "government",
+      "approved"
+    ],
+    "prompt_length": 1607,
+    "category": "2031 marketing"
+  }
+}

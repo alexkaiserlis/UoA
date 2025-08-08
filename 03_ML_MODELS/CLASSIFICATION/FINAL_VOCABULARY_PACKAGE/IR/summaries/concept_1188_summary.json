@@ -1,0 +1,63 @@
+{
+  "concept_id": "1188",
+  "concept_data": {
+    "title": "Greenland",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Greenland, categorized under political geography, plays a significant role in EU legal and regulatory frameworks, particularly concerning environmental and resource management. The region, known for its underutilisation of hydrocarbon resources, is also home to diverse marine life, including halibut, saithe, and prawns, which are vital for local livelihoods. Regulatory measures address the sustainable management of these resources, mitigating impacts on species like the redfish and capelin. The Kangerlussuaq airport serves as a strategic hub for transhipped goods, while the EU's engagement with Greenlandic authorities includes discussions on quotas and fisheries management. Additionally, the region's unique biodiversity, including arthropods and deepwater species, necessitates careful attribution in environmental assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:15:56.389722",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1072,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 218,
+      "selected_avg_freq": 98.2
+    },
+    "related_words": [
+      "vagar",
+      "kangerlussuaq",
+      "montagui",
+      "dvfa",
+      "fodevareregionen",
+      "maternity",
+      "qutoas",
+      "greenlandic",
+      "underutilisation",
+      "pandalus",
+      "snow",
+      "reproduces",
+      "tusk",
+      "mile",
+      "adns",
+      "alfonsinos",
+      "hydrocarbon",
+      "simbu",
+      "akabane",
+      "aino",
+      "bunyaviridae",
+      "deepwater",
+      "borealis",
+      "capelin",
+      "diamond",
+      "nordjylland",
+      "mined",
+      "arthropod",
+      "modifies",
+      "solipeds"
+    ],
+    "prompt_length": 1672,
+    "category": "7236 political geography"
+  }
+}

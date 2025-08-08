@@ -1,0 +1,63 @@
+{
+  "concept_id": "889",
+  "concept_data": {
+    "title": "public aid",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "State aid",
+    "relation_type": "USE"
+  },
+  "summary": "\"Public aid,\" commonly referred to as \"State aid,\" is a crucial concept within EU economic policy, specifically concerning the regulation of financial assistance provided by member states to enterprises. This aid can lead to distortions in competition and trade, necessitating scrutiny under EU law. The European Commission assesses compatibility with internal market principles, focusing on restructuring efforts in industries like siderurgica and briquetting. Exceptions may apply, particularly for regions facing economic challenges, such as Letterkenny in Donegal or Tournai in Wallonie. Mismanagement of these funds can result in distrust and outbidding among firms, impacting employment and economic stability. Thus, maintaining a balance between support and competition is vital for sustainable growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:10:11.148125",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 7906,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 3.6266666666666665
+    },
+    "related_words": [
+      "borsele",
+      "hydrocracker",
+      "hullasa",
+      "tiel",
+      "coling",
+      "doura",
+      "bagnoli",
+      "sesto",
+      "lovere",
+      "letterkenny",
+      "donegal",
+      "foerderung",
+      "baeuerlichen",
+      "recapitulatory",
+      "villablino",
+      "narcea",
+      "aragรณn",
+      "spoil",
+      "heaps",
+      "poy",
+      "insecure",
+      "outbidding",
+      "affair",
+      "distrust",
+      "qustion",
+      "employement",
+      "crade",
+      "duoro",
+      "mechanizing",
+      "amoutns"
+    ],
+    "prompt_length": 1716,
+    "category": "1606 economic policy"
+  }
+}

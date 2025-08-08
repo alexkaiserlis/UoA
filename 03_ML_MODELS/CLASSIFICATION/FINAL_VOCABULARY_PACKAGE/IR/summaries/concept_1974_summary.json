@@ -1,0 +1,63 @@
+{
+  "concept_id": "1974",
+  "concept_data": {
+    "title": "national currency",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"national currency\" pertains to the legal and regulatory framework governing monetary systems within EU member states. Each nation, such as those in the UEMOA or CEMAC regions, utilizes its own currency, like the franc or tolar, which serves as a medium of exchange and a unit of account. The EU contemplates the implications of currency convertibility and the potential for revaluations, particularly in the context of economic stability. National currencies are often collateralised against assets, influencing monetary policy and salary structures. The legal frameworks ensure that these currencies are justifiably protected, while also addressing issues related to outflows and currency introductions, thereby maintaining economic integrity across the community.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:04:25.450349",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 951,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 221,
+      "selected_avg_freq": 94.16
+    },
+    "related_words": [
+      "communiquăšs",
+      "coverning",
+      "tolars",
+      "lev",
+      "collateralised",
+      "decembr",
+      "contemplates",
+      "nationl",
+      "comorian",
+      "uemoa",
+      "africaine",
+      "cemac",
+      "afrique",
+      "comores",
+      "tolar",
+      "ouest",
+      "lats",
+      "économique",
+      "monétaire",
+      "cfa",
+      "communauté",
+      "revalued",
+      "depriving",
+      "inverse",
+      "revaluations",
+      "krona",
+      "francs",
+      "digressive",
+      "outflows",
+      "contemplate"
+    ],
+    "prompt_length": 1666,
+    "category": "2411 monetary economics"
+  }
+}

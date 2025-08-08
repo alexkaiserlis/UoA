@@ -1,0 +1,63 @@
+{
+  "concept_id": "488",
+  "concept_data": {
+    "title": "identity document",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"identity document\" in the context of EU law serves as a universally recognizable tool for verifying the identity of individuals. These documents, such as passports and national ID cards, are critical in combating issues like counterfeiting and falsification. The EU has established standards, including the ICAO guidelines, to ensure that identity documents are readable and secure against forgery. Inspectors utilize advanced techniques to detect falsified documents, which may include alarming features like hidden tags or stickers. The multiplicity of identity documents necessitates stringent archiving and searches to prevent smuggling and maintain security. Effective regulation ensures that these documents remain a reliable means of identification for all beings traversing EU borders.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:52:54.621902",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 551,
+      "selected_avg_freq": 226.83333333333334
+    },
+    "related_words": [
+      "archiving",
+      "fado",
+      "painless",
+      "falsified",
+      "photograph",
+      "laissez",
+      "passer",
+      "forged",
+      "alarming",
+      "sticker",
+      "stickers",
+      "searches",
+      "smuggling",
+      "multiplicity",
+      "shipboard",
+      "recognizable",
+      "naked",
+      "inspector",
+      "sailing",
+      "tags",
+      "masters",
+      "dog",
+      "universally",
+      "keepers",
+      "falsification",
+      "counterfeit",
+      "cat",
+      "card",
+      "secret",
+      "eleven"
+    ],
+    "prompt_length": 1638,
+    "category": "1231 international law"
+  }
+}

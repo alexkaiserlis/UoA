@@ -1,0 +1,63 @@
+{
+  "concept_id": "3584",
+  "concept_data": {
+    "title": "trade restriction",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"trade restriction\" refers to measures that limit or control the exchange of goods and services across borders. Such restrictions may include embargoes, tariffs, and quotas, which can be influenced by geopolitical factors, such as the actions of militants in regions like Donetsk or the ideology of specific regimes. The EU employs these restrictions to ensure compliance with international standards, such as those related to synthetic materials like elastan and lyocell, as well as to protect public health against epidemiological threats. Trade restrictions can impact various sectors, including textiles, where products like bedspreads and mattresses are subject to scrutiny. Furthermore, the EU's bureaucracy manages these regulations through integrated systems, ensuring neutrality and adherence to established statutes.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:47.504656",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 3332,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.546666666666667
+    },
+    "related_words": [
+      "unscrs",
+      "infrastucture",
+      "herafter",
+      "ilp",
+      "sistema",
+      "integrado",
+      "secex",
+      "comunicados",
+      "mattress",
+      "ticking",
+      "webbing",
+      "bedspreads",
+      "synthethic",
+      "lyocell",
+      "elastan",
+      "jacquard",
+      "couple",
+      "lithuaniashould",
+      "downing",
+      "donetsk",
+      "militants",
+      "troops",
+      "swa",
+      "imesi",
+      "unmil",
+      "ecomil",
+      "estatuto",
+      "tributario",
+      "imitations",
+      "neturality"
+    ],
+    "prompt_length": 1720,
+    "category": "2021 international trade"
+  }
+}

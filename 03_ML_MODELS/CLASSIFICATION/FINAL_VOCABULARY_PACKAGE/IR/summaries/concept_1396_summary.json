@@ -1,0 +1,63 @@
+{
+  "concept_id": "1396",
+  "concept_data": {
+    "title": "glassworks",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "glass industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"glassworks,\" as a redirect to the preferred term \"glass industry,\" encompasses the complex regulatory landscape governing the production and sale of glass products within the EU. This industry involves sophisticated processes, including pyrolysis and tempering, to create toughened and tinted glass. Regulatory authorities emphasize the need for innovation and sustainability, addressing issues like underutilization of resources and the vulnerability of certain sectors. The glass industry is bolstered by federations that advocate for the interests of glassmakers, ensuring compliance with standards while promoting saleable products. Efforts to divert stagnant production towards renovation and repairing initiatives are crucial for enhancing competitiveness and addressing market fluctuations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:34:17.001731",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 766,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 310,
+      "selected_avg_freq": 130.14
+    },
+    "related_words": [
+      "toughened",
+      "justificaiton",
+      "spiralling",
+      "moustier",
+      "namur",
+      "tinted",
+      "pyrolytically",
+      "instigation",
+      "authroities",
+      "sitc",
+      "underutilization",
+      "plat",
+      "gepvp",
+      "pyrolysis",
+      "glassmaker",
+      "floats",
+      "undoubted",
+      "bascharage",
+      "saleable",
+      "underestimating",
+      "tempering",
+      "lfrs",
+      "charleroi",
+      "verre",
+      "ducal",
+      "tempered",
+      "float",
+      "europăšen",
+      "waterford",
+      "groupement"
+    ],
+    "prompt_length": 1727,
+    "category": "6811 chemistry"
+  }
+}

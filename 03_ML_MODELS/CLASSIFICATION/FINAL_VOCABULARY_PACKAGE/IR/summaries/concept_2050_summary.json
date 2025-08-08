@@ -1,0 +1,63 @@
+{
+  "concept_id": "2050",
+  "concept_data": {
+    "title": "tariff negotiations",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tariff negotiations within the EU's 2011 tariff policy framework are essential for establishing arrangements that govern the levying of duties on imports and exports. These negotiations commence with a reflection on existing tariffs, characterized by variable rates that may necessitate reassessment based on economic conditions. For instance, the EU may adopt concessions on specific products, such as olive oil or poultrymeat, to facilitate trade with countries like Tunisia or in the Caribbean. The process involves obtaining assent from member states and may lead to the abolishment of inoperative tariffs. Ultimately, these negotiations aim to convert trade barriers into usable opportunities, enhancing exportation of goods like agaricus mushrooms and cucumbers, while ensuring compliance with legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:37:56.860243",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 484,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 800,
+      "selected_avg_freq": 445.5733333333333
+    },
+    "related_words": [
+      "essentials",
+      "valletta",
+      "inoperative",
+      "arangements",
+      "reassess",
+      "agaricus",
+      "commences",
+      "albumin",
+      "obtains",
+      "usable",
+      "cucumbers",
+      "hectolitre",
+      "mushrooms",
+      "oct",
+      "commence",
+      "characterized",
+      "anticipation",
+      "shortly",
+      "convert",
+      "concession",
+      "valorem",
+      "spp",
+      "reflection",
+      "abolish",
+      "tunisia",
+      "egg",
+      "substitute",
+      "deriving",
+      "necessitates",
+      "assent"
+    ],
+    "prompt_length": 1668,
+    "category": "2011 tariff policy"
+  }
+}

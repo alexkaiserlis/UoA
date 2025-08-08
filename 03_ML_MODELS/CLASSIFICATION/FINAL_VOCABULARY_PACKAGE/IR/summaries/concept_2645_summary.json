@@ -1,0 +1,63 @@
+{
+  "concept_id": "2645",
+  "concept_data": {
+    "title": "norm price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"norm price\" within EU legal and regulatory frameworks pertains to a standard pricing mechanism that is applicable to various commodities. Pursuant to regulations, norm prices are established to facilitate fair dealings among communities, particularly in agricultural sectors. These prices are often redefined based on market fluctuations, revealing the dynamic nature of trade interactions. For instance, the norm price for linseed may fluctuate due to humidity levels or carryover stocks, impacting merchantable quality. The committee responsible for these assessments desires to activate a more vigorous approach to ensure that unsold goods do not impair market stability. Consequently, norm prices play a crucial role in realignments and transformations within the EU market, addressing failings and promoting equitable trade practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:13:42.391571",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 924,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 259,
+      "selected_avg_freq": 124.98666666666666
+    },
+    "related_words": [
+      "prusuant",
+      "whereasthat",
+      "percetange",
+      "gorup",
+      "indreasing",
+      "applciable",
+      "badischer",
+      "widens",
+      "gnq",
+      "desires",
+      "burley",
+      "eurpean",
+      "bright",
+      "iacs",
+      "failings",
+      "reckoned",
+      "revalued",
+      "ginned",
+      "piraeus",
+      "revealing",
+      "overshot",
+      "activating",
+      "communites",
+      "baled",
+      "ginning",
+      "dealings",
+      "unsold",
+      "redefined",
+      "vigorous",
+      "fluctuate"
+    ],
+    "prompt_length": 1659,
+    "category": "2451 prices"
+  }
+}

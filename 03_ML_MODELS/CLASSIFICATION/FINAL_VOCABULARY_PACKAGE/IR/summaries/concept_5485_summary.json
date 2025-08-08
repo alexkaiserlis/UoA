@@ -1,0 +1,63 @@
+{
+  "concept_id": "5485",
+  "concept_data": {
+    "title": "European charter",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European charter\" serves as a foundational document in international affairs, particularly within the EU's legal framework. It encompasses understandings among signatories regarding the conduct of multilateral relations, aiming to finalize agreements that address disputes and discrimination. The charter's ratification process involves depositing signatures with a designated depositary, ensuring that all parties formally approve its terms. This document incorporates principles from the GATT and WTO frameworks, emphasizing the importance of freedom in trade and transit. Delays in ratification can lead to unreasonable charges, while the charter's provisions aim to attain a definitive resolution to conflicts, serving as a vital tool for conciliation among contracting states.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:21.180444",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 170,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3127,
+      "selected_avg_freq": 1321.6533333333334
+    },
+    "related_words": [
+      "conciliators",
+      "understandings",
+      "distinctions",
+      "finalized",
+      "depositary",
+      "unreasonable",
+      "ratify",
+      "signatories",
+      "deposited",
+      "ratified",
+      "ownership",
+      "conciliation",
+      "disputes",
+      "pricing",
+      "discussed",
+      "dispute",
+      "ratification",
+      "wto",
+      "meantime",
+      "charter",
+      "delays",
+      "signature",
+      "gatt",
+      "uruguay",
+      "distinction",
+      "formally",
+      "attain",
+      "transit",
+      "exclusive",
+      "round"
+    ],
+    "prompt_length": 1720,
+    "category": "0806 international affairs"
+  }
+}

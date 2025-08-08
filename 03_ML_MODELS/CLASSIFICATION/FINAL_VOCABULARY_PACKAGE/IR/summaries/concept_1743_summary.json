@@ -1,0 +1,63 @@
+{
+  "concept_id": "1743",
+  "concept_data": {
+    "title": "safeguarding peace",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "peacekeeping",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"safeguarding peace,\" redirected to \"peacekeeping,\" encompasses the EU's legal and regulatory frameworks aimed at maintaining international security. This includes operations like MONUC in Kinshasa and UNAMID in Darfur, which reflect the EU's commitment to stabilizing regions such as Banja Luka and Brčko. The EU's Common Security and Defence Policy (CSDP) facilitates missions, often involving COPS and AMM, to address conflicts in areas like Ossetia and Aceh. Legal instruments support the deployment of peacekeeping forces, ensuring compliance with international law and protecting civilians from fugitive indictees. The EU's role in these operations underscores its dedication to fostering independence and stability in conflict zones.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:02.972885",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1132,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 66,
+      "selected_avg_freq": 20.333333333333332
+    },
+    "related_words": [
+      "ifor",
+      "cops",
+      "kernaghan",
+      "albrecht",
+      "conze",
+      "antóin",
+      "vincenzo",
+      "coppola",
+      "roumeliotis",
+      "afg",
+      "verástegui",
+      "nigel",
+      "acc",
+      "acmc",
+      "maryse",
+      "daviet",
+      "antรณin",
+      "unfraidh",
+      "saps",
+      "caches",
+      "fugitive",
+      "indictees",
+      "uniao",
+      "banja",
+      "luka",
+      "brcko",
+      "slorc",
+      "spdc",
+      "indepêndencia",
+      "amelineau"
+    ],
+    "prompt_length": 1643,
+    "category": "0816 international security"
+  }
+}

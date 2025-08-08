@@ -1,0 +1,26 @@
+{
+  "concept_id": "6568",
+  "concept_data": {
+    "title": "generic medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "generic drug",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"generic medicine,\" also referred to as \"generic drug,\" represents pharmaceutical products that are equivalent to branded medications in dosage, strength, and administration but are marketed without brand names. The European Medicines Agency (EMA) oversees the authorization of generic drugs, ensuring they meet stringent safety and efficacy standards. This regulatory approach facilitates market competition, ultimately leading to reduced healthcare costs and improved patient access to essential medications. The term \"generic medicine\" redirects to \"generic drug,\" emphasizing its role in promoting public health while adhering to EU directives on pharmaceutical regulation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:09.336601",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "2841 health"
+  }
+}

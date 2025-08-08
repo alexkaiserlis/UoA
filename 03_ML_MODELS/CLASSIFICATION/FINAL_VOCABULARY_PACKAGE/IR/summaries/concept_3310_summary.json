@@ -1,0 +1,63 @@
+{
+  "concept_id": "3310",
+  "concept_data": {
+    "title": "distribution of wealth",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"distribution of wealth\" concept within the context of EU national accounts pertains to how income and capital are allocated among various economic agents. It encompasses the remuneration of labor and capital, where wealth accrues and is distributed through mechanisms such as banknotes and securities. The Eurosystem plays a crucial role in this process, as it holds and settles balances, ensuring that profits are appropriately allocated among participating banks. The European Central Bank (ECB) oversees the monetary policy that influences the circulation of currency, including the euro, and manages claims on reserves. This distribution is essential for estimating economic stability and addressing disparities in wealth, thereby aligning with the EU's statutes aimed at fostering equitable economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:42.220821",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1328.4083333333333
+    },
+    "related_words": [
+      "smp",
+      "remunerated",
+      "accrues",
+      "gold",
+      "ncbs",
+      "banknotes",
+      "allocates",
+      "eurosystem",
+      "distributing",
+      "subscribed",
+      "escb",
+      "settled",
+      "recast",
+      "holds",
+      "remuneration",
+      "accruing",
+      "ecb",
+      "balances",
+      "anticipated",
+      "purchased",
+      "expenses",
+      "allocate",
+      "allowance",
+      "estimate",
+      "distributed",
+      "statute",
+      "banks",
+      "profit",
+      "offset",
+      "shares"
+    ],
+    "prompt_length": 1666,
+    "category": "1626 national accounts"
+  }
+}

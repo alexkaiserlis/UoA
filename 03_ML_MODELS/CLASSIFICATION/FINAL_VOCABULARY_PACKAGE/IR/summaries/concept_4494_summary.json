@@ -1,0 +1,63 @@
+{
+  "concept_id": "4494",
+  "concept_data": {
+    "title": "transfer of pension rights",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transfer of pension rights\" concept is enshrined in EU regulations to facilitate the mobility of workers across member states. This legal framework aims to safeguard vested pension entitlements, allowing individuals to move freely between professions without impeding their retirement benefits. Employers and trustees are required to ensure that pension rights are preserved, enabling the aggregation of benefits from successive employments. The statutory parameters for transferring rights are designed to eliminate obstacles related to nationality and employment types, thus rendering the process attractive for posted workers. This convergence of pension systems supports the exercise of freedoms within the EU, ultimately benefiting families and enhancing social protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:17:24.897671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 264,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 1547,
+      "selected_avg_freq": 751.1333333333333
+    },
+    "related_words": [
+      "actuarial",
+      "trustees",
+      "defend",
+      "posted",
+      "moves",
+      "vested",
+      "professions",
+      "aggregation",
+      "enshrined",
+      "choices",
+      "trades",
+      "pension",
+      "families",
+      "nationality",
+      "discretion",
+      "employers",
+      "servants",
+      "attractive",
+      "attaining",
+      "freedoms",
+      "mobility",
+      "complemented",
+      "judgments",
+      "exercising",
+      "alternatives",
+      "impede",
+      "deriving",
+      "safeguarding",
+      "preservation",
+      "unanimously"
+    ],
+    "prompt_length": 1725,
+    "category": "2836 social protection"
+  }
+}

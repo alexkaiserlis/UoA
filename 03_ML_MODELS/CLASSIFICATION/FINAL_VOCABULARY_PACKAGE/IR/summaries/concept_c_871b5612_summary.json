@@ -1,0 +1,63 @@
+{
+  "concept_id": "c_871b5612",
+  "concept_data": {
+    "title": "staff regulations for officials of the European Union",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "staff regulations (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"staff regulations for officials of the European Union,\" commonly referred to as \"staff regulations (EU),\" govern the employment conditions of EU civil servants. These regulations outline key aspects such as remuneration, including salaries and emoluments, allowances, and pensions, while ensuring privileges and immunities for officials. They also address deployment, secondment, and severance arrangements. The regulations aim to maintain alignment with the Treaty on European Union (TEU) and ensure consistency across EU institutions. Additionally, they facilitate the operational effectiveness of organs like Europol and CSDP missions in regions such as Mali and Niger, while addressing issues like resettlement and the deteriorating situation in the Sahel.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:34:49.705925",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 347,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1056,
+      "selected_avg_freq": 469.0466666666667
+    },
+    "related_words": [
+      "aceh",
+      "amm",
+      "eums",
+      "ast",
+      "severance",
+      "copps",
+      "sahel",
+      "eumm",
+      "secondment",
+      "eucap",
+      "resettlement",
+      "csdp",
+      "mali",
+      "niger",
+      "eupol",
+      "deputy",
+      "emoluments",
+      "agreeing",
+      "organs",
+      "palestinian",
+      "salaries",
+      "weightings",
+      "headquarters",
+      "immunities",
+      "child",
+      "privileges",
+      "directors",
+      "europol",
+      "inconsistencies",
+      "teu"
+    ],
+    "prompt_length": 1763,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

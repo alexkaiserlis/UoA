@@ -1,0 +1,63 @@
+{
+  "concept_id": "3342",
+  "concept_data": {
+    "title": "directory",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, a \"directory\" serves as a consultable resource that organizes information on various substances, including dialcohols, diketones, and hydroxyketones. This structured compilation aids in the codifying of regulations surrounding chemical safety and environmental impact, particularly in sectors like pisciculture. The directory may include entries on compounds such as methylnon, estragole, and dimethoxybenzene, providing succinct definitions and applications. Additionally, it may feature rare substances like methyleugenol and capsaicin, ensuring compliance with prohibitive measures. Such directories are essential for legal clarity and facilitate the understanding of complex terms, including aliphatic and hydroxybenzoates, within EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:05.204886",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1299,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 81,
+      "selected_avg_freq": 32.28666666666667
+    },
+    "related_words": [
+      "dialcohols",
+      "diketones",
+      "hydroxyketones",
+      "pentane",
+      "methylnon",
+      "enamide",
+      "cayenne",
+      "chillies",
+      "methylbuta",
+      "diene",
+      "tade",
+      "tecnazene",
+      "hickson",
+      "welch",
+      "confidentially",
+      "dimethoxybenzene",
+      "methoxybenzene",
+      "estragole",
+      "aliphatic",
+      "haermorrhagic",
+      "hattop",
+      "consultable",
+      "acetamide",
+      "ptt",
+      "itstc",
+      "hydroxybenzoates",
+      "pisciculture",
+      "sangheen",
+      "artois",
+      "succinct"
+    ],
+    "prompt_length": 1717,
+    "category": "3221 documentation"
+  }
+}

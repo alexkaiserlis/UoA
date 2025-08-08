@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_8ce6dcec",
+  "concept_data": {
+    "title": "mobile application",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"mobile application\" refers to software designed to run on mobile devices, facilitating various functions and services. In the context of EU legal and regulatory frameworks, mobile applications are subject to regulations concerning data protection, consumer rights, and digital market competition. The General Data Protection Regulation (GDPR) imposes strict requirements on how personal data is processed within these applications, ensuring user privacy and security. Furthermore, the Digital Services Act aims to create a safer digital space, holding mobile application providers accountable for content moderation and user safety. Compliance with these regulations is essential for the lawful operation of mobile applications within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:56:53.749610",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "3236 information technology and data processing"
+  }
+}

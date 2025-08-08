@@ -1,0 +1,63 @@
+{
+  "concept_id": "486",
+  "concept_data": {
+    "title": "document",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the concept of \"document\" encompasses a wide array of papers that serve various purposes, including the compilation of credible records and the certification of nationalities. Documents are essential for organizations to fulfill legal requirements, such as immigration processes and inquiries into discrepancies. They are often stamped to ensure authenticity and facilitate openness in deliberations. The process of classifying and archiving these documents strengthens governance, while updates to documentation practices can help in relaxing stringent regulations. Notably, the presumption of validity in stamped documents is crucial for residents navigating crossings and legal parameters across member states, such as during the liquidation of entities or when addressing divergent legal precedents.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:20:55.571579",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 551,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 595,
+      "selected_avg_freq": 264.4
+    },
+    "related_words": [
+      "oragnization",
+      "overturn",
+      "nsas",
+      "nationalities",
+      "presuming",
+      "referencing",
+      "archives",
+      "relaxing",
+      "răšunion",
+      "stamps",
+      "lanes",
+      "birmingham",
+      "stays",
+      "ombudsman",
+      "affix",
+      "crossings",
+      "emi",
+      "deliberations",
+      "seville",
+      "stamp",
+      "divergent",
+      "emphasises",
+      "stamped",
+      "papers",
+      "maximising",
+      "stamping",
+      "fulfill",
+      "openness",
+      "strengthens",
+      "compiling"
+    ],
+    "prompt_length": 1685,
+    "category": "3221 documentation"
+  }
+}

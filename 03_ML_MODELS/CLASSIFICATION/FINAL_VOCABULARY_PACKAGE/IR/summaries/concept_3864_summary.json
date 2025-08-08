@@ -1,0 +1,63 @@
+{
+  "concept_id": "3864",
+  "concept_data": {
+    "title": "turbo-alternator",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "electric machinery",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"turbo-alternator,\" a redirect to \"electric machinery,\" encompasses various components crucial in electronics and electrical engineering. In EU regulatory frameworks, these devices, including synchronous and rotary alternators, are subject to prescriptive standards ensuring safety and efficiency. Key elements such as rectifiers, inductors, and diodes play vital roles in optimizing performance. The integration of advanced technologies, like MOSFETs and accumulators, enhances functionality in applications ranging from automotive systems, including wipers and defrosters, to standalone electric machinery. Compliance with regulations, including TÜV certifications, is mandatory, ensuring that products like fans and circulators meet safety and environmental standards, ultimately influencing the market dynamics of energomachexport.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:56:37.428240",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 995,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 144,
+      "selected_avg_freq": 56.72666666666667
+    },
+    "related_words": [
+      "coolant",
+      "consequece",
+      "energomachexport",
+      "defrosters",
+      "wiperblade",
+      "rectifiers",
+      "inductors",
+      "accumulator",
+      "hed",
+      "lamination",
+      "rotor",
+      "melco",
+      "gxi",
+      "utac",
+      "ceram",
+      "oscillating",
+      "alternators",
+      "alternator",
+      "stator",
+      "mosfet",
+      "lawn",
+      "trimmers",
+      "fans",
+      "vda",
+      "wiper",
+      "claw",
+      "süd",
+      "wipers",
+      "axial",
+      "glandless"
+    ],
+    "prompt_length": 1708,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

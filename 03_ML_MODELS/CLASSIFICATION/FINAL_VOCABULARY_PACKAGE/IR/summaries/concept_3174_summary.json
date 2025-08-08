@@ -1,0 +1,63 @@
+{
+  "concept_id": "3174",
+  "concept_data": {
+    "title": "customs procedure suspending duties",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"customs procedure suspending duties\" pertains to a regulatory framework established under the EU's 2011 tariff policy. This procedure allows for the temporary postponement of customs duties on goods, providing financial relief to importers and exporters. It applies to products that are inward processed, enabling the importation of goods without incurring immediate debts. The relevant provisions are laid out in the EU Customs Code, which establishes rules for the treatment of goods in relation to their processing and exportation. This mechanism aims to prevent unjustified financial burdens on businesses, ensuring that duties are only incurred upon the final release of goods into the territory.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:21.920843",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 63,
+      "requested_words": 150,
+      "min_frequency_found": 102,
+      "max_frequency_found": 4108,
+      "selected_words": 63,
+      "selected_min_freq": 102,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2140.4285714285716
+    },
+    "related_words": [
+      "unaltered",
+      "debts",
+      "postponement",
+      "compensating",
+      "inward",
+      "relief",
+      "unjustified",
+      "exportation",
+      "debt",
+      "publish",
+      "compensatory",
+      "advantage",
+      "half",
+      "incurred",
+      "importation",
+      "arising",
+      "temporary",
+      "rates",
+      "code",
+      "customs",
+      "territory",
+      "processing",
+      "goods",
+      "relation",
+      "interest",
+      "non",
+      "arrangements",
+      "make",
+      "financial",
+      "case"
+    ],
+    "prompt_length": 1660,
+    "category": "2011 tariff policy"
+  }
+}

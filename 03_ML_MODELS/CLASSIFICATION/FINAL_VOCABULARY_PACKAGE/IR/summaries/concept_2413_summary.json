@@ -1,0 +1,63 @@
+{
+  "concept_id": "2413",
+  "concept_data": {
+    "title": "industrial plant",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"industrial plant\" within EU legal and regulatory frameworks predominantly refers to cultivated varieties of plants that are utilized for commercial purposes. This sector emphasizes the importance of various substances, including aromatic hops, which are crucial for agricultural practices. The EU engages in multilateral negotiations to fix standards and agreements that govern the marketing of these plants, ensuring that they meet the necessary content requirements. Consequently, adjustments may be made depending on the accession of new member states, such as Finland and Sweden, which may have different practices. The implementation of these regulations is essential for maintaining competitive markets and supporting the agricultural industry across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:00:56.062897",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 86,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 86,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1851.8255813953488
+    },
+    "related_words": [
+      "tade",
+      "divides",
+      "bitter",
+      "predominantly",
+      "hop",
+      "emphasis",
+      "aromatic",
+      "hops",
+      "cultivated",
+      "experimental",
+      "incomplete",
+      "varieties",
+      "uruguay",
+      "round",
+      "multilateral",
+      "depending",
+      "marketed",
+      "others",
+      "substances",
+      "deleted",
+      "supplemented",
+      "adjustments",
+      "drawing",
+      "agriculture",
+      "practice",
+      "groups",
+      "negotiations",
+      "reached",
+      "finland",
+      "content"
+    ],
+    "prompt_length": 1674,
+    "category": "6006 plant product"
+  }
+}

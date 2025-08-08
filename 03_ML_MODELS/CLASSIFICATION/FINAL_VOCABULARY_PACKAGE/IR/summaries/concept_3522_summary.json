@@ -1,0 +1,63 @@
+{
+  "concept_id": "3522",
+  "concept_data": {
+    "title": "termination of employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"termination of employment\" within EU legal and regulatory frameworks encompasses various scenarios where an employment contract is ended, affecting both employed individuals and institutions. This process can arise from qualitative imbalances in sectors such as agriculture and textiles, where young people may find themselves unemployed. The termination may be influenced by privileges and immunities granted to officials or auditors, as well as interventions by justice courts. In countries like Finland, Sweden, Austria, and Portugal, reforms are introduced to simplify the termination process, ensuring that affected staff can pursue new opportunities while maintaining fair employment practices across industries.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:09:18.104101",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 134,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 134,
+      "selected_min_freq": 1,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1882.3208955223881
+    },
+    "related_words": [
+      "occason",
+      "unemployed",
+      "immunities",
+      "occupied",
+      "imbalances",
+      "privileges",
+      "clothing",
+      "servants",
+      "qualitative",
+      "seeking",
+      "auditors",
+      "leaving",
+      "terminate",
+      "extends",
+      "institution",
+      "textile",
+      "pursue",
+      "officials",
+      "termination",
+      "self",
+      "young",
+      "terminated",
+      "arise",
+      "staff",
+      "employed",
+      "simplification",
+      "possibilities",
+      "quantitative",
+      "reform",
+      "industries"
+    ],
+    "prompt_length": 1691,
+    "category": "4406 employment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4646",
+  "concept_data": {
+    "title": "transferable security",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "securities",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, \"transferable security,\" commonly referred to as \"securities,\" represents financial instruments that can be exchanged or traded. This concept inspires a contemporary understanding of capital markets, where stockbrokers facilitate transactions, ensuring liquidity in otherwise illiquid assets. The regulatory landscape, governed by frameworks such as UCITS and AIFMs, emphasizes the importance of clear prospectuses and advertisements for potential investors. Mechanistically, securities are often convertible or exchangeable, providing flexibility in capitalisation strategies. The role of insider information and the need for unreserved compliance with GAAP and IASB standards are critical in maintaining market integrity. As securities accrue value, their distribution must be framed within a narrative that addresses potential indebtedness and suspicious activities, ensuring transparency across venues.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:36:58.650871",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 1291,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 119,
+      "selected_avg_freq": 52.89333333333333
+    },
+    "related_words": [
+      "inspires",
+      "contrepartie",
+      "stockbrokers",
+      "contemporary",
+      "illiquid",
+      "hostile",
+      "acsb",
+      "solo",
+      "gaaps",
+      "restating",
+      "iorps",
+      "mechanistically",
+      "forma",
+      "abspp",
+      "restatement",
+      "exchangeable",
+      "restate",
+      "offeror",
+      "asbj",
+      "venue",
+      "unreserved",
+      "setters",
+      "narrative",
+      "aifs",
+      "suspicious",
+      "capitalisation",
+      "smp",
+      "curve",
+      "aifms",
+      "wise"
+    ],
+    "prompt_length": 1716,
+    "category": "2421 free movement of capital"
+  }
+}

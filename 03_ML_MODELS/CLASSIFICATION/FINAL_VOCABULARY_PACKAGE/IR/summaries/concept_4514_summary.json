@@ -1,0 +1,63 @@
+{
+  "concept_id": "4514",
+  "concept_data": {
+    "title": "transport by railway",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "rail transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"transport by railway,\" redirected to \"rail transport,\" encompasses the legal and regulatory frameworks governing intermodality within the EU's land transport sector. This includes the optimization of rail networks through initiatives such as the European Rail Traffic Management System (ERTMS) and the European Train Control System (ETCS), which enhance safety and efficiency. Key regulations address the marshalling of freight and the normalisation of practices across member states, ensuring compliance with recommendations from bodies like the European Railway Agency (ERA). The integration of technologies, such as eurobalise and telepowering, supports the seamless operation of rail services, while ensuring that possessors of rail assets are aware of their rights and obligations under EU law. The framework aims to mitigate illegality and promote dignified transport solutions, referencing guides for best practices and encouraging the use of intermodal transport systems, thereby enhancing connectivity across regions like Domodossola and České Budějovice.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:10.884273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 148,
+    "vocabulary_stats": {
+      "total_related_words": 1837,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 62,
+      "selected_avg_freq": 28.793333333333333
+    },
+    "related_words": [
+      "intermodality",
+      "exent",
+      "ftd",
+      "frtd",
+      "strančice",
+      "české",
+      "budějovice",
+      "domodossola",
+      "domodossolla",
+      "taf",
+      "sedp",
+      "córas",
+      "iompair",
+      "éireann",
+      "possessors",
+      "aeif",
+      "errac",
+      "eurobalise",
+      "ecpt",
+      "telepowering",
+      "tallinn",
+      "illegality",
+      "divulged",
+      "tap",
+      "cer",
+      "dignified",
+      "nsas",
+      "rid",
+      "ertms",
+      "etcs"
+    ],
+    "prompt_length": 1654,
+    "category": "4816 land transport"
+  }
+}

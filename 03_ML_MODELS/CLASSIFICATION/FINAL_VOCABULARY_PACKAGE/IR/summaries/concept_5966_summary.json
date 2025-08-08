@@ -1,0 +1,63 @@
+{
+  "concept_id": "5966",
+  "concept_data": {
+    "title": "chemistry",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"chemistry\" within EU legal and regulatory frameworks encompasses the study and application of substances, including those used in cosmetics and industrial processes. It involves the analysis of compounds such as aminobenzoic acid (PABA) and hydroxybenzoyl derivatives, which are crucial in formulating effective sunscreen filters. Regulatory bodies, like the SCCP, assess the safety and efficacy of these chemical agents, ensuring compliance with metrology standards. Chemistry also plays a vital role in the development of innovative materials, such as foaming agents and optical filters, which are essential in modern applications ranging from biomechanical devices to cosmetic products. The integration of these components is fundamental in creating functional and safe products for consumers.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:40.699766",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1729,
+      "selected_avg_freq": 665.9666666666667
+    },
+    "related_words": [
+      "aminobenzoic",
+      "paba",
+      "hexyl",
+      "bcr",
+      "amk",
+      "biomechanical",
+      "sportive",
+      "molten",
+      "incrustation",
+      "anaylzer",
+      "microcinematographic",
+      "projectors",
+      "sunscreen",
+      "hydroxybenzoyl",
+      "cavitation",
+      "inci",
+      "diethylamino",
+      "foaming",
+      "shutter",
+      "metrology",
+      "slot",
+      "sccp",
+      "analyzer",
+      "benzoate",
+      "friction",
+      "photo",
+      "filters",
+      "photographs",
+      "bearings",
+      "cosmetics"
+    ],
+    "prompt_length": 1684,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4268",
+  "concept_data": {
+    "title": "regional statistics",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Regional statistics are a cornerstone of EU regional policy, providing a hierarchical framework for compiling and disseminating data on localities and their characteristics. These statistics are crucial for ascertaining variations across regions, enabling the unification of data for effective decision-making. The EU's statistical institutes compile information on various modes of transport, including rail and waterways, to enhance navigability and freight efficiency. By proposing classifications and standards, regional statistics facilitate the understanding of resident populations and economic loads. This comprehensive approach ensures impartiality in data collection, supporting the goal of informed policy-making across diverse localities and historical contexts.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:01.972897",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 407,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 892,
+      "selected_avg_freq": 444.79333333333335
+    },
+    "related_words": [
+      "hierarchical",
+      "extraregio",
+      "navigability",
+      "embassies",
+      "enclaves",
+      "consulates",
+      "locality",
+      "localities",
+      "synchronized",
+      "cornerstone",
+      "loads",
+      "train",
+      "impartiality",
+      "ascertaining",
+      "compiling",
+      "disseminated",
+      "waterways",
+      "deposits",
+      "classifications",
+      "envisage",
+      "waterway",
+      "shelf",
+      "resident",
+      "compiled",
+      "modes",
+      "homogeneous",
+      "continental",
+      "railway",
+      "worked",
+      "locations"
+    ],
+    "prompt_length": 1723,
+    "category": "1616 regions and regional policy"
+  }
+}

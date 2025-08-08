@@ -1,0 +1,63 @@
+{
+  "concept_id": "2141",
+  "concept_data": {
+    "title": "International Maritime Organisation",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The International Maritime Organisation (IMO) is a specialized agency of the United Nations responsible for regulating shipping. It plays a pivotal role in implementing international conventions such as SOLAS and MARPOL, which govern safety and pollution prevention. The IMO's work includes ratifying measures for shipboard safety, ensuring compliance with ISM and STCW codes, and promoting cleaner technologies to reduce exhaust emissions from ferries and cargo vessels. By centralising regulations, the IMO facilitates harmonized pilotage and watchkeeping standards, while addressing issues like collisions and ballast water management. The EU, as a member, actively participates in the IMO's decision-making processes, expressing its commitment to maritime safety and environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:23:31.712294",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 688,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 319,
+      "selected_avg_freq": 139.42666666666668
+    },
+    "related_words": [
+      "igc",
+      "hving",
+      "implementaion",
+      "caculated",
+      "isps",
+      "dissent",
+      "manned",
+      "circ",
+      "centralise",
+      "surveyor",
+      "ibc",
+      "hydrostatic",
+      "togehter",
+      "pilotage",
+      "reluctant",
+      "collisions",
+      "unclos",
+      "promulgating",
+      "segregated",
+      "ballast",
+      "ratifying",
+      "ism",
+      "dues",
+      "exhaustively",
+      "organotin",
+      "tacitly",
+      "shipboard",
+      "cleaner",
+      "ferries",
+      "watchkeeping"
+    ],
+    "prompt_length": 1653,
+    "category": "7606 United Nations"
+  }
+}

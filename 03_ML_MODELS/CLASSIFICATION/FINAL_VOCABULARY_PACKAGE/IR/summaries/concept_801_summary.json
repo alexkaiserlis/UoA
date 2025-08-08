@@ -1,0 +1,63 @@
+{
+  "concept_id": "801",
+  "concept_data": {
+    "title": "technical training",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "technical education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"technical training,\" redirected to \"technical education,\" encompasses the structured instruction necessary for seafarers and maritime professionals. This training is regulated under various international conventions, including SOLAS and STCW, which mandate specific competencies for watchkeeping and ship operations. The European Union, through its parliamentary resolutions, ensures that member states uniformly implement these standards, addressing discrepancies in training quality. The responsibilities of administrations include ratifying conventions and rendering audits to ensure compliance with MARPOL and MEPC regulations on pollution. Thus, technical education is incumbent for maintaining safety and environmental standards in maritime operations, aligning with the broader EU regulatory framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:03:10.674838",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 229,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 1946,
+      "selected_avg_freq": 890.1666666666666
+    },
+    "related_words": [
+      "collisions",
+      "ratifying",
+      "exhaustively",
+      "tacitly",
+      "watchkeeping",
+      "stcw",
+      "mepc",
+      "marpol",
+      "msc",
+      "seafarers",
+      "solas",
+      "discrepancy",
+      "parliamentary",
+      "imo",
+      "reservations",
+      "discrepancies",
+      "alike",
+      "rendering",
+      "incumbent",
+      "tonnage",
+      "load",
+      "formulation",
+      "ship",
+      "clauses",
+      "uniformly",
+      "meant",
+      "flag",
+      "conventions",
+      "ships",
+      "turn"
+    ],
+    "prompt_length": 1717,
+    "category": "3211 teaching"
+  }
+}

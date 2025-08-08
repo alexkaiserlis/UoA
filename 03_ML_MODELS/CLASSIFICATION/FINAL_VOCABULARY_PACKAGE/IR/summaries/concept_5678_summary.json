@@ -1,0 +1,63 @@
+{
+  "concept_id": "5678",
+  "concept_data": {
+    "title": "wash basin",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "plumbing equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wash basin,\" categorized under building and public works, is redirected to the preferred term \"plumbing equipment\" within EU legal and regulatory frameworks. This encompasses various components, including cisterns and basins, which may utilize materials such as polymethyl and methacrylate. Regulatory standards often address the use of fillers and coatings, ensuring that materials like gypsum and stone are compliant with safety measures. Additionally, plumbing systems may include heaters and thermostats for temperature control, while ensuring efficient circulation and cooling. The integration of electrically driven pumps and gauges is essential for maintaining optimal functionality in plumbing installations, thereby supporting public health and safety regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:12.385024",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 420,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 575,
+      "selected_avg_freq": 221.74666666666667
+    },
+    "related_words": [
+      "styrenated",
+      "filler",
+      "polymethyl",
+      "thermostat",
+      "agitator",
+      "sterilising",
+      "evaporating",
+      "vaporising",
+      "condensing",
+      "thermostats",
+      "hung",
+      "cisterns",
+      "immersed",
+      "marble",
+      "silicates",
+      "oven",
+      "mertola",
+      "pasteurising",
+      "steaming",
+      "instantaneous",
+      "heater",
+      "concelho",
+      "methacrylate",
+      "wash",
+      "draught",
+      "roasting",
+      "gypsum",
+      "heaters",
+      "resin",
+      "granulated"
+    ],
+    "prompt_length": 1719,
+    "category": "6831 building and public works"
+  }
+}

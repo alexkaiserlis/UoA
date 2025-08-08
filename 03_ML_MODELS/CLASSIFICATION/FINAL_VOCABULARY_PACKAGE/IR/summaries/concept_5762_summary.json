@@ -1,0 +1,63 @@
+{
+  "concept_id": "5762",
+  "concept_data": {
+    "title": "management committee (UE)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "decision-making body (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"management committee (UE)\" serves as a decision-making body (EU) pivotal in the governance of various EU institutions. This committee, often involved in the interoperation of regulatory frameworks, plays a crucial role in the nominations and accreditations of key positions, ensuring ethical standards are upheld. Notable figures such as Draghi and Mersch have influenced its operations, while teleconferencing has facilitated broader participation. The committee's decisions can impact reputational aspects for entities like BusinessEurope and affect rankings within the EU framework. Its functions align with the SSM and are essential for maintaining a cohesive regulatory environment, addressing issues from ethics to efficiency in governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:54.600371",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 464,
+      "selected_avg_freq": 178.59333333333333
+    },
+    "related_words": [
+      "asmussen",
+      "lautenschläger",
+      "páramo",
+      "mersch",
+      "teleconferencing",
+      "bini",
+      "smaghi",
+      "benoît",
+      "coeuré",
+      "romualdas",
+      "pusvaškis",
+      "huart",
+      "scarpitti",
+      "jeanelle",
+      "draghi",
+      "sabine",
+      "jörg",
+      "joachim",
+      "reputational",
+      "interoperation",
+      "lorenzo",
+      "sklara",
+      "calleja",
+      "marina",
+      "mario",
+      "gonzález",
+      "yves",
+      "businesseurope",
+      "resign",
+      "marilyn"
+    ],
+    "prompt_length": 1715,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

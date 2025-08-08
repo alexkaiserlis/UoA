@@ -1,0 +1,63 @@
+{
+  "concept_id": "3219",
+  "concept_data": {
+    "title": "financial relations",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "economic relations",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"financial relations,\" redirected to \"economic relations,\" encompasses the EU's regulatory framework governing interactions with various entities, including nations like Serbia, Bosnia, and Montenegro. These relations often involve the imposition of sanctions or embargoes, particularly in response to violations of democracy or human rights, as seen in the EU's dealings with Iraq and Haiti. The EU obliges member states to foster cooperation while addressing persistent issues such as poverty and terrorism. Resolutions may lead to the discontinuation of fees or military support, reflecting a commitment to lift superfluous barriers and promote extraordinary economic engagement in the region.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:08.127914",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 348,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 978,
+      "selected_avg_freq": 525.8266666666667
+    },
+    "related_words": [
+      "ropealing",
+      "serbs",
+      "serb",
+      "haitian",
+      "bosnian",
+      "embracing",
+      "haiti",
+      "federative",
+      "superfluous",
+      "governors",
+      "iraq",
+      "discontinue",
+      "merged",
+      "encompass",
+      "repression",
+      "embargo",
+      "discontinuation",
+      "terrorism",
+      "democracy",
+      "lift",
+      "extraordinary",
+      "sphere",
+      "arms",
+      "poverty",
+      "obliges",
+      "lifted",
+      "persistent",
+      "montenegro",
+      "refusal",
+      "fees"
+    ],
+    "prompt_length": 1727,
+    "category": "0806 international affairs"
+  }
+}

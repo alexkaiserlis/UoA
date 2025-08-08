@@ -1,0 +1,63 @@
+{
+  "concept_id": "1509",
+  "concept_data": {
+    "title": "Iceland",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Iceland, a Nordic island nation, plays a significant role in EU political geography, particularly in the context of community agreements and regulatory frameworks. Its unique position enriches discussions on extradition treaties and the enforceability of international law. The country has signed on to various agreements, including those related to climate change, which enumerate commitments to mitigate environmental impacts. Icelandic universities participate in the Erasmus program, enhancing educational exchanges. Additionally, the nation’s unregulated fishing practices, particularly concerning lobsters and redfish, have raised concerns about sustainability and compliance with EU standards. Overall, Iceland's legal landscape reflects a blend of native traditions and modern regulatory challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:25:30.684525",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1283,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 166,
+      "selected_avg_freq": 86.41333333333333
+    },
+    "related_words": [
+      "coggins",
+      "commuunity",
+      "signedon",
+      "alled",
+      "elaborates",
+      "kindom",
+      "epoch",
+      "erasmus",
+      "oppinion",
+      "inscribed",
+      "enriches",
+      "supended",
+      "tedis",
+      "climatology",
+      "gmes",
+      "comett",
+      "extradition",
+      "enumerates",
+      "alfonsinos",
+      "simbu",
+      "akabane",
+      "aino",
+      "bunyaviridae",
+      "scabbardfish",
+      "icelandic",
+      "sausages",
+      "surrender",
+      "doha",
+      "students",
+      "arthropod"
+    ],
+    "prompt_length": 1676,
+    "category": "7236 political geography"
+  }
+}

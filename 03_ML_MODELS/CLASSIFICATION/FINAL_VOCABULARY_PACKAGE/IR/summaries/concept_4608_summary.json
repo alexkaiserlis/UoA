@@ -1,0 +1,63 @@
+{
+  "concept_id": "4608",
+  "concept_data": {
+    "title": "monetary union",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"monetary union\" within the EU framework refers to a system where member states irrevocably commit to a shared currency and coordinated monetary policy, exemplified by the euro. This arrangement shapes national economies, requiring adherence to specific algorithms for economic computations, such as inflation targets and fiscal discipline. Tensions may arise during renegotiations, particularly when outliers deviate from agreed standards. The European Monetary Union (EMU) aims for unanimity in decision-making, ensuring meaningful fulfillment of economic goals. Counterfeiting and inaccuracies in currency minting, such as with the lira or franc, are addressed through stringent regulations to maintain public trust and stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:59:08.226697",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 701,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 384,
+      "selected_avg_freq": 154.88
+    },
+    "related_words": [
+      "alphabets",
+      "rebuttable",
+      "algorithm",
+      "computations",
+      "vending",
+      "outliers",
+      "commited",
+      "litas",
+      "nationl",
+      "coarse",
+      "negotiates",
+      "inverse",
+      "inaccuracies",
+      "shaped",
+      "rounding",
+      "renegotiations",
+      "performers",
+      "hundred",
+      "blind",
+      "edge",
+      "basket",
+      "erm",
+      "devalued",
+      "fulfillment",
+      "mint",
+      "coin",
+      "drachma",
+      "complained",
+      "lira",
+      "irrevocably"
+    ],
+    "prompt_length": 1675,
+    "category": "2406 monetary relations"
+  }
+}

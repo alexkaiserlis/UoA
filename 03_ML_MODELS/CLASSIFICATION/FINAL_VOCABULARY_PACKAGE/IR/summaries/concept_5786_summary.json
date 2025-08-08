@@ -1,0 +1,63 @@
+{
+  "concept_id": "5786",
+  "concept_data": {
+    "title": "military personnel",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"military personnel\" within EU legal and regulatory frameworks encompasses individuals engaged in defense operations, as highlighted by commanders such as Bradshaw and Gerhard. These personnel, including figures like Aherne and Marani, play crucial roles in missions directed by high-ranking officials like Rudkiewicz and Vaquero. The legal status of military personnel is often addressed in documents that reference their rights and obligations, as seen in the works of authors like Blejean and Zamarripa. Regulatory frameworks aim to ensure compliance with international standards, guided by principles articulated by experts like Maggi and Mingiardi. The integration of military personnel into EU defense strategies reflects a commitment to collective security, as emphasized by leaders such as Guibert and Rainer.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:53:25.949611",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 430,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 158,
+      "selected_avg_freq": 30.033333333333335
+    },
+    "related_words": [
+      "adrian",
+      "bradshaw",
+      "bacquet",
+      "gerald",
+      "aherne",
+      "marani",
+      "mccoll",
+      "commanders",
+      "rudkiewicz",
+      "vaquero",
+      "pradal",
+      "blejean",
+      "zamarripa",
+      "jugel",
+      "guibert",
+      "mingiardi",
+      "maggi",
+      "leandro",
+      "vicenti",
+      "lenselink",
+      "rainer",
+      "feist",
+      "garcĺa",
+      "paredes",
+      "novo",
+      "credendino",
+      "mühlen",
+      "massimo",
+      "syrén",
+      "jonas"
+    ],
+    "prompt_length": 1612,
+    "category": "0821 defence"
+  }
+}

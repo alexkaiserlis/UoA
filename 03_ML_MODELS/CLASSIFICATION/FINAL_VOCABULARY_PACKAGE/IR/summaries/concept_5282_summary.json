@@ -1,0 +1,63 @@
+{
+  "concept_id": "5282",
+  "concept_data": {
+    "title": "Centre for the Development of Industry",
+    "category_code": "7626",
+    "category_name": "non-governmental organisations",
+    "category_full": "7626 non-governmental organisations",
+    "is_redirect": true,
+    "preferred_term": "Centre for the Development of Enterprise",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Centre for the Development of Industry,\" now redirected to the \"Centre for the Development of Enterprise,\" plays a pivotal role in fostering entrepreneurship and innovation within the EU. This non-governmental organisation engages with various actors, including SMEs and private sector stakeholders, to mobilise resources and develop mechanisms that advance economic growth. By promoting capacity building and facilitating partnerships, the Centre aims to create jobs and enhance income levels across regions such as Africa, the Caribbean, and the Pacific. Through its mandate, the Centre supports the evolution of domestic enterprises, ensuring an orderly process for adopting innovative modalities that enhance effectiveness and expertise in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:03:28.733652",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1552.1967213114754
+    },
+    "related_words": [
+      "cde",
+      "busan",
+      "ambassadors",
+      "nairobi",
+      "entrepreneurship",
+      "engagement",
+      "cotonou",
+      "delegation",
+      "actors",
+      "orderly",
+      "mobilise",
+      "innovative",
+      "smes",
+      "modalities",
+      "enterprise",
+      "forum",
+      "executive",
+      "jobs",
+      "session",
+      "closing",
+      "caribbean",
+      "proceed",
+      "pacific",
+      "ministers",
+      "innovation",
+      "expertise",
+      "acp",
+      "centre",
+      "african",
+      "mandate"
+    ],
+    "prompt_length": 1769,
+    "category": "7626 non-governmental organisations"
+  }
+}

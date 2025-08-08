@@ -1,0 +1,63 @@
+{
+  "concept_id": "5742",
+  "concept_data": {
+    "title": "marine environment",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"marine environment\" concept encompasses the ecological landscapes of oceans and seas, crucial for biodiversity and habitats. Within EU legal frameworks, it is governed by various regulations, including MARPOL and SOLAS, which aim to prevent degradation and promote sustainable practices. The OSPAR Convention and the Barcelona Convention further encourage cooperation among member states to protect marine ecosystems. The EU’s Integrated Coastal Zone Management (ICZM) strategy facilitates the observation of marine flora and fauna, addressing discrepancies in environmental protection. Additionally, the International Maritime Organization (IMO) and the Marine Environment Protection Committee (MEPC) play pivotal roles in ratifying agreements that ensure the safety of seafarers and ship operations, thus rendering a uniform approach to marine conservation.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:40:44.977344",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 461,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 803,
+      "selected_avg_freq": 347.8333333333333
+    },
+    "related_words": [
+      "iczm",
+      "collisions",
+      "ratifying",
+      "exhaustively",
+      "tacitly",
+      "watchkeeping",
+      "ospar",
+      "stcw",
+      "mepc",
+      "marpol",
+      "msc",
+      "biotoxins",
+      "seafarers",
+      "solas",
+      "renamed",
+      "habitats",
+      "speedy",
+      "discrepancy",
+      "commit",
+      "degradation",
+      "biodiversity",
+      "landscape",
+      "stems",
+      "parliamentary",
+      "appendices",
+      "imo",
+      "ecosystems",
+      "encourages",
+      "reservations",
+      "fauna"
+    ],
+    "prompt_length": 1679,
+    "category": "5211 natural environment"
+  }
+}

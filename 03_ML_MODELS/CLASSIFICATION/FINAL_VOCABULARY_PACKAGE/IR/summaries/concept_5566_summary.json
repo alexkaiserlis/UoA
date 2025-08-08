@@ -1,0 +1,63 @@
+{
+  "concept_id": "5566",
+  "concept_data": {
+    "title": "tax return",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"tax return\" is a formal declaration submitted by individuals or firms to the treasury, detailing their taxable income and applicable deductions. This process facilitates the collection of revenue and ensures compliance with taxation laws. Tax returns govern the relationship between taxpayers and tax authorities, providing an unequivocal account of financial activities. They may include corrections for previous submissions and are essential for determining tax liability. By simplifying the interface between taxpayers and regulatory bodies, tax returns help prevent burdens associated with non-compliance, thereby supporting the fight against tax evasion and ensuring a fair retail environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:00.087581",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 302,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1238,
+      "selected_avg_freq": 616.5866666666667
+    },
+    "related_words": [
+      "interposed",
+      "facilitaties",
+      "reseller",
+      "doorstep",
+      "deviates",
+      "unequivocal",
+      "resellers",
+      "shop",
+      "functionalities",
+      "governs",
+      "taxed",
+      "message",
+      "broadcasting",
+      "treasury",
+      "derogates",
+      "deduct",
+      "exchanged",
+      "transferring",
+      "taxable",
+      "declaring",
+      "returns",
+      "interface",
+      "functional",
+      "factual",
+      "accruing",
+      "deduction",
+      "burdens",
+      "helping",
+      "cessation",
+      "unique"
+    ],
+    "prompt_length": 1683,
+    "category": "2446 taxation"
+  }
+}

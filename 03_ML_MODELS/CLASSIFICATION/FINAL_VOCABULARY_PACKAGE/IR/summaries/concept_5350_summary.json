@@ -1,0 +1,63 @@
+{
+  "concept_id": "5350",
+  "concept_data": {
+    "title": "nuclear power station",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"nuclear power station\" (kernkraftwerk) is a facility that utilizes nuclear reactions to generate electricity, characterized by its complex regulatory framework within the EU. The operation and decommission of such stations are governed by stringent criteria to mitigate risks to mankind and the environment. Notable types include RBMK and VVER reactors, with facilities like those in Lingen and Kozloduy exemplifying varied designs. The EU mandates compliance with the CPPNM and promotes advancements in subcritical technologies. Additionally, the dismantling process must adhere to regulations ensuring safety and environmental protection, while the financial aspects involve kapitalverkehrsteuer and gesellschaftsteuer considerations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:31.449026",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 990,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 171,
+      "selected_avg_freq": 56.06666666666667
+    },
+    "related_words": [
+      "decommission",
+      "kernkraftwerklingen",
+      "nersa",
+      "mankind",
+      "mwe",
+      "uentrop",
+      "unna",
+      "lingen",
+      "phénix",
+      "kapitalverkehrsteuer",
+      "gesellschaftsteuer",
+      "rbmk",
+      "vver",
+      "escuela",
+      "técnica",
+      "ingenieros",
+      "industriales",
+      "politécnica",
+      "etsii",
+      "subcritical",
+      "cppnm",
+      "schnell",
+      "brüter",
+      "kernkraftwerksgesellschaft",
+      "sbk",
+      "bohunice",
+      "mitigates",
+      "bayernwerk",
+      "krb",
+      "critera"
+    ],
+    "prompt_length": 1746,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

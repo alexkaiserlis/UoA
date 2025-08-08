@@ -1,0 +1,63 @@
+{
+  "concept_id": "5923",
+  "concept_data": {
+    "title": "legal system",
+    "category_code": "1226",
+    "category_name": "organisation of the legal system",
+    "category_full": "1226 organisation of the legal system",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"legal system\" within the EU framework encompasses a complex infrastructure designed to uphold justice and reinforce the rule of law. It is composed of various judicial bodies, including courts and tribunals, where judges and prosecutors engage in prosecutions of organized crime. Initiatives like Eurojust facilitate closer cooperation among member states, enhancing investigations and the exchange of information. The Tampere milestones emphasize the need for a user-friendly electronic network that supports the authentication and confidentiality of legal processes. This system aims to ensure the integrity of judicial proceedings and the effective fight against crime through procedural efficiency and timely lodging of cases.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:22:05.295903",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 127,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 127,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1536.3543307086613
+    },
+    "related_words": [
+      "curia",
+      "password",
+      "prosecutors",
+      "prosecutions",
+      "eurojust",
+      "authentication",
+      "judges",
+      "tampere",
+      "tribunal",
+      "officers",
+      "plenary",
+      "exchanged",
+      "authenticity",
+      "crime",
+      "jha",
+      "police",
+      "integrity",
+      "fight",
+      "judicial",
+      "confidentiality",
+      "reinforce",
+      "closer",
+      "lodging",
+      "procedural",
+      "user",
+      "combination",
+      "organised",
+      "investigations",
+      "meetings",
+      "infrastructure"
+    ],
+    "prompt_length": 1702,
+    "category": "1226 organisation of the legal system"
+  }
+}

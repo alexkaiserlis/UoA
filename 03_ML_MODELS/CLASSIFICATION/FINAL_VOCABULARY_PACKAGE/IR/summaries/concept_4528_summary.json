@@ -1,0 +1,63 @@
+{
+  "concept_id": "4528",
+  "concept_data": {
+    "title": "pipeline transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pipeline transport refers to the systematized movement of goods, primarily liquids and gases, via pipelines, which is a crucial aspect of the organisation of transport within the EU. This mode of transport is governed by various legal frameworks that ensure compliance with safety and environmental standards. The EU's regulatory documents propose revisions to enhance the efficiency of pipeline networks, mobilising contributions from member states like Austria, particularly in regions such as Oberösterreich and Niederösterreich. These frameworks also address redundancies in the labour market, facilitating the reintegration of workers affected by structural changes. The NACE classification system aids in determining the economic impact of pipeline transport, allowing for sound budgetary adjustments and global competitiveness.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:39.801118",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1712.178947368421
+    },
+    "related_words": [
+      "oberösterreich",
+      "niederösterreich",
+      "pipelines",
+      "egf",
+      "redundancies",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "nuts",
+      "mobilisation",
+      "redundant",
+      "proposes",
+      "division",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "labour",
+      "contributions",
+      "workers",
+      "crisis",
+      "complies",
+      "via",
+      "land",
+      "enterprises",
+      "revision",
+      "ceiling",
+      "assist"
+    ],
+    "prompt_length": 1709,
+    "category": "4811 organisation of transport"
+  }
+}

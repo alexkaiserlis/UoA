@@ -1,0 +1,63 @@
+{
+  "concept_id": "5879",
+  "concept_data": {
+    "title": "Saxony (Free State of)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Saxony",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Saxony (Free State of)\" is a significant region within the EU, recognized for its industrial and cultural contributions. It encompasses cities like Leipzig and is situated along the Elbe River, influencing its economic activities, including steel forging and smelting. The region's legal framework supports modernizing industries, such as the production of billets and slabs, while ensuring compliance with EU regulations on environmental impacts, including descaling processes and hydraulic systems. Saxony's legal landscape also addresses issues like gesamtvollstreckung and sequestration, reflecting its complex regulatory ambit. This concept redirects to \"Saxony,\" highlighting its prominent role in EU governance and regional cooperation, particularly with neighboring areas like Thuringia and Brandenburg.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:04:15.649066",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 631,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 334,
+      "selected_avg_freq": 123.48666666666666
+    },
+    "related_words": [
+      "werkstoff",
+      "lippendorf",
+      "chambered",
+      "resmelting",
+      "electroslag",
+      "descaling",
+      "contending",
+      "ambit",
+      "gesamtvollstreckung",
+      "betriebsmittel",
+      "tempering",
+      "polishing",
+      "billets",
+      "sac",
+      "authorizable",
+      "leipzig",
+      "saale",
+      "sequestration",
+      "hopfen",
+      "forging",
+      "ingots",
+      "unwilling",
+      "slabs",
+      "smelting",
+      "brochure",
+      "nder",
+      "shaping",
+      "elbe",
+      "dominate",
+      "implicitly"
+    ],
+    "prompt_length": 1741,
+    "category": "7211 regions of EU Member States"
+  }
+}

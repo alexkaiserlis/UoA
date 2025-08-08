@@ -1,0 +1,63 @@
+{
+  "concept_id": "1741",
+  "concept_data": {
+    "title": "water analysis",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Water analysis is a critical component of EU environmental policy, focusing on the assessment of water quality through various methodologies. This process involves the itemised examination of matrices such as sediments and particulate matter to identify pollutants, including nitrates, phosphates, and antibiotics like erythromycin and diclofenac. Advanced techniques, including the use of spectrophotometers and analyzers, enable the detection of substances like neonicotinoids and estradiol, which are rarely monitored. The prioritisation of these contaminants is essential for addressing eutrophication and ensuring rapidity in regulatory responses. Consequently, water analysis underpins effective environmental management and contributes to the ranking of water quality standards across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:29.783342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 505,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 414,
+      "selected_avg_freq": 157.89333333333335
+    },
+    "related_words": [
+      "objec",
+      "recearch",
+      "itemised",
+      "estradiol",
+      "ethinylestradiol",
+      "estrone",
+      "ditert",
+      "methylphenol",
+      "neonicotinoid",
+      "macrolide",
+      "neonicotinoids",
+      "tive",
+      "abstraction",
+      "abstracts",
+      "methoxycinnamate",
+      "spectrophotometer",
+      "diclofenac",
+      "allate",
+      "methiocarb",
+      "perkin",
+      "elmer",
+      "parametric",
+      "oxadiazon",
+      "erythromycin",
+      "spectral",
+      "prioritised",
+      "rapidity",
+      "nitrites",
+      "eutrophication",
+      "analyzer"
+    ],
+    "prompt_length": 1740,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2350",
+  "concept_data": {
+    "title": "transport staff",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transport staff\" pertains to the organization of transport within the EU, emphasizing the legality and safety of operations across various domains, including railways and freight. It illustrates the need for a dignified workforce, ensuring that staff are trained to handle traffic and accidents, particularly in tunnels and at railway crossings. The EU aims for interoperable systems that quantitatively reduce fatalities and enhance the efficiency of transport actors. Licensing and regulatory frameworks, such as the ETS (European Transport Safety), promote a healthy dialogue among signatories to achieve feasible targets. Regular assessments, including Eurostat tables, facilitate the transposition of directives, ensuring that transport staff receive adequate holidays and are not subjected to unauthorized practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:58.916514",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 361,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1165,
+      "selected_avg_freq": 590.8
+    },
+    "related_words": [
+      "cer",
+      "dignified",
+      "csts",
+      "nrvs",
+      "nrv",
+      "cst",
+      "etf",
+      "tunnels",
+      "trains",
+      "quantitatively",
+      "illustrate",
+      "interoperable",
+      "fatalities",
+      "tolerable",
+      "railways",
+      "legality",
+      "healthy",
+      "unauthorised",
+      "holidays",
+      "domain",
+      "signatories",
+      "railway",
+      "sending",
+      "weekly",
+      "desire",
+      "actors",
+      "mobile",
+      "leaves",
+      "freight",
+      "gain"
+    ],
+    "prompt_length": 1657,
+    "category": "4811 organisation of transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1439",
+  "concept_data": {
+    "title": "technological innovation",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "innovation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"technological innovation,\" redirected to \"innovation,\" encompasses advancements that enhance marketability and affordability across sectors. This concept is crucial for fostering transnationally competitive industries, particularly in nascent fields like powertrain technologies and encapsulation methods. Regulatory frameworks, such as the European Innovation Partnership (EIP) and the Bio-Based Industries (BBI) initiative, aim to support the monetisation of innovative solutions while ensuring compliance with standards like WLTP and NEDC. The promise of innovation lies in its ability to erode traditional barriers, driving strides in efficiency and sustainability, as seen in developments by companies like Valeo and Webasto, which enhance vehicle performance through advanced alternators and stators.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:02.182632",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1805,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 17.653333333333332
+    },
+    "related_words": [
+      "erab",
+      "honorary",
+      "transnationally",
+      "reutlingen",
+      "refraction",
+      "fakt",
+      "stride",
+      "monetisation",
+      "errac",
+      "affordability",
+      "esta",
+      "denso",
+      "valeo",
+      "vca",
+      "clepa",
+      "hed",
+      "lamination",
+      "rotor",
+      "ieea",
+      "melco",
+      "gxi",
+      "utac",
+      "ceram",
+      "encapsulation",
+      "grille",
+      "radiator",
+      "powertrain",
+      "hsb",
+      "alternators",
+      "alternator"
+    ],
+    "prompt_length": 1669,
+    "category": "6416 research and intellectual property"
+  }
+}

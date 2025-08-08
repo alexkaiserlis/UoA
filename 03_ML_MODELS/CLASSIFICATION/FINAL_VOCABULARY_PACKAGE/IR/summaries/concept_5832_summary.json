@@ -1,0 +1,63 @@
+{
+  "concept_id": "5832",
+  "concept_data": {
+    "title": "preliminary question",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "preliminary issue",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal proceedings, a \"preliminary question,\" also referred to as a \"preliminary issue,\" is a crucial judicial inquiry that a tribunal submits to the Court of Justice of the European Union (CJEU). This process permits courts to seek clarification on the interpretation of treaties or the validity of acts, ensuring justice is upheld. The ruling on such questions can significantly influence ongoing cases, as it reproduces essential legal principles and provisions. Courts are entitled to request observations and written statements from involved parties, which may include amendments to existing statutes or protocols. This mechanism enhances the coherence of EU law across member states, fostering participation in the legal framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:49:41.717898",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 75,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 75,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1990.3066666666666
+    },
+    "related_words": [
+      "reproduces",
+      "tribunal",
+      "nice",
+      "repeals",
+      "ruling",
+      "statements",
+      "replaces",
+      "statute",
+      "observations",
+      "permits",
+      "preliminary",
+      "treaties",
+      "proceedings",
+      "written",
+      "refers",
+      "atomic",
+      "participate",
+      "entitled",
+      "justice",
+      "court",
+      "acts",
+      "participation",
+      "event",
+      "energy",
+      "euratom",
+      "matter",
+      "falling",
+      "signed",
+      "submit",
+      "amendment"
+    ],
+    "prompt_length": 1671,
+    "category": "1221 justice"
+  }
+}

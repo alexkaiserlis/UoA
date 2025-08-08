@@ -1,0 +1,63 @@
+{
+  "concept_id": "5608",
+  "concept_data": {
+    "title": "embryo and foetus",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"embryo and foetus\" encompasses the developmental stages of organisms post-fertilisation, particularly within the context of EU regulations on biotechnology and animal welfare. In vitro fertilisation techniques often involve oocytes and embryos, which may be immunized against diseases such as bluetongue or rinderpest. Regulatory frameworks address the sourcing of embryos and the implications of culling offspring diagnosed with conditions like pleuropneumonia or scrapie. The zona pellucida, a protective layer, is crucial during implantation. Additionally, genotypes of embryos can influence breeding decisions, impacting livestock health and productivity. Understanding these elements is vital for compliance with EU legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:43:32.906062",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 507,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 519,
+      "selected_avg_freq": 200.92666666666668
+    },
+    "related_words": [
+      "foetus",
+      "immunized",
+      "fertilise",
+      "embyros",
+      "rift",
+      "pellucida",
+      "oocytes",
+      "sire",
+      "implanted",
+      "genotypes",
+      "prion",
+      "genotype",
+      "sterile",
+      "iets",
+      "conceived",
+      "culled",
+      "arr",
+      "zona",
+      "discouraging",
+      "offspring",
+      "fertilisation",
+      "pleuropneumonia",
+      "diagnosed",
+      "calf",
+      "stomatitis",
+      "serum",
+      "lie",
+      "culling",
+      "valley",
+      "embryo"
+    ],
+    "prompt_length": 1650,
+    "category": "3606 natural and applied sciences"
+  }
+}

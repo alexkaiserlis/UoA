@@ -1,0 +1,63 @@
+{
+  "concept_id": "3424",
+  "concept_data": {
+    "title": "farm accountancy data network",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"farm accountancy data network\" (FADN) is a vital EU framework designed to stratify and analyze agricultural data across member states. It enables the collection of gainful insights into farming systems by surveying diverse regions, such as közép, dunántúl, and alföld in Hungary, as well as the litoral and interior areas of Portugal like Minho and Beira. This network rationally delimits data typology, facilitating the forecasting of agricultural trends and the assessment of economic viability. By merging various censuses, FADN responds to uncontrollable market dynamics, ensuring legibility in financial reporting and supporting sustainable practices like afforestation in woodlands and nurseries.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:07:42.332587",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 789,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 376,
+      "selected_avg_freq": 156.08666666666667
+    },
+    "related_words": [
+      "stratified",
+      "uncontrollable",
+      "stratify",
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél",
+      "magyarország",
+      "észak",
+      "alföld",
+      "gainful",
+      "caves",
+      "stratification",
+      "efics",
+      "fadn",
+      "minho",
+      "litoral",
+      "delimits",
+      "oga",
+      "esu",
+      "rationally",
+      "beira",
+      "woodlands",
+      "entre",
+      "determing",
+      "trás",
+      "happens",
+      "delimit",
+      "montes",
+      "douro"
+    ],
+    "prompt_length": 1654,
+    "category": "5616 farming systems"
+  }
+}

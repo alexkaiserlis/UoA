@@ -1,0 +1,26 @@
+{
+  "concept_id": "2716",
+  "concept_data": {
+    "title": "liquid hydrogen",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "hydrogen production",
+    "relation_type": "USE"
+  },
+  "summary": "Liquid hydrogen, while a significant concept in the field of chemistry, serves as a redirect to the preferred term \"hydrogen production\" within EU legal and regulatory frameworks. Hydrogen production is pivotal in the EU's transition to sustainable energy, particularly in the context of decarbonization strategies outlined in various directives and regulations. The production and utilization of hydrogen, especially in its liquid form, are governed by stringent safety and environmental standards to mitigate risks associated with its storage and transport. The EU aims to promote hydrogen as a clean energy carrier, aligning with its broader climate objectives and energy policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:52:08.179301",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "6811 chemistry"
+  }
+}

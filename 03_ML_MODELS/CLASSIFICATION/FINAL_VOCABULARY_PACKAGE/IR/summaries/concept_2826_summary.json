@@ -1,0 +1,63 @@
+{
+  "concept_id": "2826",
+  "concept_data": {
+    "title": "protection of birds",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "protection of animal life",
+    "relation_type": "USE"
+  },
+  "summary": "The \"protection of birds\" concept within EU environmental policy is intricately linked to the broader framework of \"protection of animal life.\" This regulatory focus transcends mere conservation, addressing biogeographical diversity and the preservation of critical habitats, such as Ramsar sites. Legal measures aim to defend various species, including the hooded crow (Corvus cornix) and the common dolphin (Delphinus delphis), while recognizing the ecological roles of biotopes like wetlands and forests. The EU's commitment to responsible stewardship includes safeguarding apiaries and ensuring the survival of species such as Trachemys scripta elegans and Rana catesbeiana. This comprehensive approach evolves to address inadequacies in existing protections, fostering a harmonious coexistence with nature.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:01:01.349781",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1022,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 112,
+      "selected_avg_freq": 41.32666666666667
+    },
+    "related_words": [
+      "acnat",
+      "transcend",
+      "ramsar",
+      "phalacrocorax",
+      "trachemys",
+      "scripta",
+      "elegans",
+      "rana",
+      "catesbeiana",
+      "inuits",
+      "aroused",
+      "øresund",
+      "gaborone",
+      "belongings",
+      "chattels",
+      "gigiri",
+      "mustela",
+      "altaica",
+      "kathiah",
+      "varanus",
+      "nebulosus",
+      "guaiacum",
+      "macaronesian",
+      "lama",
+      "guanicoe",
+      "honeybee",
+      "evolves",
+      "biogeograpical",
+      "steppic",
+      "dolphin"
+    ],
+    "prompt_length": 1707,
+    "category": "5206 environmental policy"
+  }
+}

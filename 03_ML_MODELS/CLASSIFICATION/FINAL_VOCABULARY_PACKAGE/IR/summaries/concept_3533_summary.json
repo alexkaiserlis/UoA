@@ -1,0 +1,63 @@
+{
+  "concept_id": "3533",
+  "concept_data": {
+    "title": "economic resources",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic resources\" within EU legal and regulatory frameworks encompasses assets that can be utilized to support economic activities, including financial instruments, commodities, and property. In contexts such as the Marcoussis Agreement, economic resources are crucial for rebuilding post-conflict regions like Liberia, where misappropriated resources have incited violence and hostilities. The EU employs measures to prevent the sponsoring of terrorist activities, particularly in regions like Darfur and Lebanon, where economic resources may be used for perpetrating violence. Regulatory frameworks, including UNSCR resolutions, aim to autonomously manage the depletion of resources linked to guilt and innocence in international tribunals, such as the ICTY, ensuring accountability for those organizing and facilitating such acts.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:13.930131",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 345,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 892,
+      "selected_avg_freq": 280.46666666666664
+    },
+    "related_words": [
+      "linas",
+      "marcoussis",
+      "accra",
+      "incites",
+      "hatred",
+      "rafiq",
+      "hariri",
+      "beirut",
+      "dozens",
+      "guilt",
+      "innocence",
+      "sponsoring",
+      "perpetrating",
+      "jewell",
+      "howard",
+      "allies",
+      "secreting",
+      "liens",
+      "bombing",
+      "assassination",
+      "deploring",
+      "liberian",
+      "misappropriated",
+      "icty",
+      "taylor",
+      "ceasefire",
+      "charles",
+      "hostilities",
+      "darfur",
+      "associates"
+    ],
+    "prompt_length": 1680,
+    "category": "1611 economic conditions"
+  }
+}

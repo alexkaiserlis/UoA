@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_abfaf2ea",
+  "concept_data": {
+    "title": "disease surveillance",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Disease surveillance refers to the systematic collection, analysis, and interpretation of health data to monitor and control diseases within populations. In the context of EU legal and regulatory frameworks, disease surveillance is crucial for public health protection and response to health threats. The European Centre for Disease Prevention and Control (ECDC) plays a pivotal role in coordinating surveillance efforts across member states, ensuring compliance with regulations such as the Communicable Diseases Directive. Effective disease surveillance enables timely interventions, informs policy-making, and enhances preparedness for potential outbreaks, thereby safeguarding public health across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:35.831937",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1166,
+    "category": "2841 health"
+  }
+}

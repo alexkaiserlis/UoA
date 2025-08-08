@@ -1,0 +1,63 @@
+{
+  "concept_id": "3718",
+  "concept_data": {
+    "title": "European University Institute of Florence",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "European University Institute",
+    "relation_type": "USE"
+  },
+  "summary": "The European University Institute (EUI), located in Florence, is a renowned academic institution that plays a pivotal role in the development of European integration and governance. As a centre for advanced learning, the EUI focuses on historical and contemporary issues within the EU framework. It manages a comprehensive repository of digitised archives, preserving the history and art of European integration. The EUI's responsibilities include depositing and preserving digital materials, ensuring their accessibility for future research. This institution, in partnership with various entities, adheres to strict guidelines for ownership and consent regarding the materials it holds, justifying its reputation as a key player in EU legal and regulatory contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:54:40.248211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 196,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2639,
+      "selected_avg_freq": 1016.6466666666666
+    },
+    "related_words": [
+      "eui",
+      "cjeu",
+      "archives",
+      "digitised",
+      "repository",
+      "renowned",
+      "depositing",
+      "roles",
+      "florence",
+      "academic",
+      "history",
+      "reputation",
+      "university",
+      "adhere",
+      "deposits",
+      "supervisor",
+      "learning",
+      "wherever",
+      "partner",
+      "deposited",
+      "art",
+      "ownership",
+      "digital",
+      "thereon",
+      "built",
+      "deposit",
+      "stimulate",
+      "internet",
+      "ecb",
+      "preservation"
+    ],
+    "prompt_length": 1742,
+    "category": "7611 European organisations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5953",
+  "concept_data": {
+    "title": "infringement of the EC Treaty",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "infringement of EU law",
+    "relation_type": "USE"
+  },
+  "summary": "The \"infringement of EU law\" refers to violations of the principles established in the EC Treaty, which govern member states' obligations. Such infringements can outstrip national regulations and lead to significant consequences, including the cessation of activities by enterprises that fail to comply. The European Commission may initiate proceedings, requiring member states to present their defenses within specified tempi. This process often involves the submission of domande concerning the criteria for compliance and the erogazione of benefits. Additionally, the ristrutturazione of legal frameworks may be necessary to address systemic issues, ensuring that transporto and autotrasporto regulations are uniformly applied. Ultimately, the enforcement of EU law aims to prevent blockades in the internal market and facilitate the free movement of merci among member states, thereby enhancing overall economic stability and cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:03.643855",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 2183,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.28
+    },
+    "related_words": [
+      "outstrip",
+      "guri",
+      "generale",
+      "ristrutturazione",
+      "autotrasporto",
+      "cose",
+      "conto",
+      "terzi",
+      "rilascio",
+      "autorizzazioni",
+      "transporto",
+      "merci",
+      "concernenti",
+      "criteri",
+      "concessione",
+      "erogazione",
+      "benefici",
+      "nonché",
+      "tempi",
+      "modalità",
+      "presentazione",
+      "domande",
+      "cui",
+      "febbraio",
+      "versamento",
+      "contributivo",
+      "autotrasportatori",
+      "che",
+      "cessino",
+      "attività"
+    ],
+    "prompt_length": 1746,
+    "category": "1011 European Union law"
+  }
+}

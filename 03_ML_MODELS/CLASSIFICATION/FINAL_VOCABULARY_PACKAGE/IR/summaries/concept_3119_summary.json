@@ -1,0 +1,63 @@
+{
+  "concept_id": "3119",
+  "concept_data": {
+    "title": "financial regulation",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial regulation within the EU framework encompasses a comprehensive set of stipulations aimed at ensuring economic stability and protecting public finance. It involves the oversight of capitalisation practices, where intermediaries and counterparties must adhere to stringent guidelines to mitigate defaults and enhance transparency. The regulation also addresses the heterogeneity of financial instruments, including bonds and swaps, and promotes the use of encryption for secure transactions. By tightening control over portfolios and implementing robust auditing processes, the EU aims to refine financial practices and channel resources effectively. This regulatory landscape is crucial for maintaining the integrity of the financial system and fostering trust among stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:13.206651",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 797,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 356,
+      "selected_avg_freq": 152.64666666666668
+    },
+    "related_words": [
+      "ecpi",
+      "ecomonic",
+      "tighten",
+      "agendas",
+      "encryption",
+      "vanilla",
+      "capitalisation",
+      "sdr",
+      "sisnet",
+      "sirene",
+      "remunerated",
+      "server",
+      "accrues",
+      "defaults",
+      "desk",
+      "collects",
+      "athena",
+      "shifting",
+      "controller",
+      "counterparty",
+      "reclassified",
+      "intangible",
+      "installing",
+      "stipulation",
+      "heterogeneity",
+      "bond",
+      "smoother",
+      "swaps",
+      "migrate",
+      "refine"
+    ],
+    "prompt_length": 1689,
+    "category": "2436 public finance and budget policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7970",
+  "concept_data": {
+    "title": "Western Pomerania province",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Western Pomerania province,\" or zachodniopomorskie, is a voivodship in Poland, classified under the category of regions of EU Member States. This region comprises various powiaty and is subject to EU directives concerning animal health and food safety. Specifically, it has been evaluated for compliance with regulations affecting bovine and swine herds, including the documentation required for intra-EU trade. The province's status is officially declared, demonstrating its relevance in the context of health problems like enzootic leukosis. The administrative unit must adhere to lists of notified issues, ensuring that all submitted documents align with EU standards and directives, thereby facilitating free movement of animals and food within the EEA.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:26:08.227723",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2004.525
+    },
+    "related_words": [
+      "zachodniopomorskie",
+      "voivodship",
+      "powiaty",
+      "leukosis",
+      "enzootic",
+      "superior",
+      "herds",
+      "twelve",
+      "demonstrating",
+      "swine",
+      "documentation",
+      "officially",
+      "bovine",
+      "feed",
+      "plants",
+      "intra",
+      "whereby",
+      "poland",
+      "unit",
+      "declared",
+      "affecting",
+      "animals",
+      "status",
+      "evaluation",
+      "lists",
+      "animal",
+      "region",
+      "declaration",
+      "food",
+      "problems"
+    ],
+    "prompt_length": 1671,
+    "category": "7211 regions of EU Member States"
+  }
+}

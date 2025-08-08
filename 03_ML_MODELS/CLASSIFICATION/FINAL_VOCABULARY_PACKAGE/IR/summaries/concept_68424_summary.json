@@ -1,0 +1,26 @@
+{
+  "concept_id": "68424",
+  "concept_data": {
+    "title": "game theory",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Game theory is a mathematical framework for analyzing strategic interactions among rational decision-makers, applicable in various fields, including economics, political science, and law. In the context of EU legal and regulatory documents, game theory can elucidate the behavior of member states in negotiations, competition law, and regulatory compliance. It provides insights into how entities may strategize to achieve optimal outcomes, considering the actions of others. By employing game-theoretic models, EU regulators can better understand market dynamics, anticipate anti-competitive behaviors, and design effective policies that promote fair competition and cooperation among member states, ultimately enhancing the regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:00.242728",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1179,
+    "category": "3606 natural and applied sciences"
+  }
+}

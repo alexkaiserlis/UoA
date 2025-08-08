@@ -1,0 +1,63 @@
+{
+  "concept_id": "6316",
+  "concept_data": {
+    "title": "livestock census",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "agricultural census",
+    "relation_type": "USE"
+  },
+  "summary": "The \"livestock census,\" redirected to the preferred term \"agricultural census,\" is a crucial regulatory framework within the EU aimed at collecting data on various livestock breeds, including broilers, bulls, and goats. This census facilitates the monitoring of births and deaths, ensuring the plausibility of herd management practices. It mandates the use of eartags and numbered tags for livestock identification, enhancing traceability in case of zoonotic disease outbreaks, such as salmonella. Furthermore, it supports methodological assessments of livestock populations, enabling owners to furnish accurate records for exhibitions and fairs. Compliance with these regulations is essential to avoid violations and ensure the welfare of livestock.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:45:19.281570",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 583,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 562,
+      "selected_avg_freq": 273.82666666666665
+    },
+    "related_words": [
+      "sanitel",
+      "tag",
+      "plausibility",
+      "broiler",
+      "keeper",
+      "births",
+      "alarm",
+      "eartags",
+      "numbered",
+      "tags",
+      "surrendered",
+      "broilers",
+      "exhibitions",
+      "floating",
+      "gallus",
+      "sporting",
+      "ear",
+      "fairs",
+      "bulls",
+      "slovakian",
+      "carcass",
+      "turkeys",
+      "omissions",
+      "cypriot",
+      "deaths",
+      "passports",
+      "methodological",
+      "hens",
+      "passport",
+      "flocks"
+    ],
+    "prompt_length": 1683,
+    "category": "5616 farming systems"
+  }
+}

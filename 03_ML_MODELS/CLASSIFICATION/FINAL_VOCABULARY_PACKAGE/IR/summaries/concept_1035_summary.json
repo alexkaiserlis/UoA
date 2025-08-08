@@ -1,0 +1,63 @@
+{
+  "concept_id": "1035",
+  "concept_data": {
+    "title": "fishing fleet",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fishing fleet\" within the EU regulatory framework signifies a collection of vessels, including dredgers and harpoon-equipped ships, that are utilized for the exploitation of marine resources, such as sardinella and mussels. The Commissione oversees the regularisations of these fleets to ensure compliance with sustainability standards, addressing the disquieting trends of unsustainably harvested stocks. This involves remeasuring hulls and maximizing onboard efficiency to fulfill immediate necesidades. The breadth of regulations aims to rationalise fishing practices, ensuring that vessels are not dangerously overexploiting resources. Consequently, the EU seeks to reorientating its fisheries policies to cope with emerging situations, ensuring a cohesive approach to marine conservation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:20.604503",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1770,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 78,
+      "selected_avg_freq": 33.733333333333334
+    },
+    "related_words": [
+      "uniformiy",
+      "tenor",
+      "stade",
+      "reorientating",
+      "outperform",
+      "breadth",
+      "propulsive",
+      "commissione",
+      "priod",
+      "consequentially",
+      "guadaloupe",
+      "perpendiculars",
+      "remeasuring",
+      "victuals",
+      "regretted",
+      "urgence",
+      "necesidades",
+      "imediatas",
+      "situación",
+      "emergencia",
+      "coped",
+      "dangerously",
+      "sardinella",
+      "replaceable",
+      "salty",
+      "signifies",
+      "harpoon",
+      "regularisations",
+      "aux",
+      "hulls"
+    ],
+    "prompt_length": 1708,
+    "category": "5641 fisheries"
+  }
+}

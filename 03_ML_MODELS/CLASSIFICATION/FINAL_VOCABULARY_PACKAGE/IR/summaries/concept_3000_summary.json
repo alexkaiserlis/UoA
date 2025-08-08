@@ -1,0 +1,63 @@
+{
+  "concept_id": "3000",
+  "concept_data": {
+    "title": "fishery produce",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fishery produce\" encompasses a range of products derived from fisheries, crucial for the EU's économie and sustainable management of marine resources. Legal frameworks regulate the contrôle and valorisation of these produits, ensuring compliance with health standards, particularly regarding diseases like bonamiosis and marteiliosis affecting species such as ostreae. The EU's commitment to sustainable fisheries is reflected in initiatives by the ministère and relevant agencies like bfar and sernapesca, which oversee the élevage and harvesting practices. Research (recherches) in oceanographie and halieutiques informs policies, while monitoring bodies like dsv and nfpis ensure the integrity of fishery produce in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:13:41.134535",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 751,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 244,
+      "selected_avg_freq": 88.68
+    },
+    "related_words": [
+      "fiqcd",
+      "passively",
+      "océanographiques",
+      "mpem",
+      "cnrop",
+      "dvis",
+      "bfar",
+      "manr",
+      "sernapesca",
+      "gastropodos",
+      "veterinaires",
+      "ministere",
+      "elevage",
+      "reconsigned",
+      "inape",
+      "animales",
+      "mara",
+      "dgra",
+      "économie",
+      "océanographie",
+      "mptm",
+      "dopm",
+      "bcph",
+      "nfpqis",
+      "dsv",
+      "halieutiques",
+      "sabs",
+      "sterilized",
+      "ganadería",
+      "nfpis"
+    ],
+    "prompt_length": 1650,
+    "category": "5641 fisheries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4849",
+  "concept_data": {
+    "title": "nutritional needs",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"nutritional needs\" within EU legal and regulatory frameworks addresses the diverse dietary requirements of individuals, particularly those with specific intolerances such as gluten intolerance or coeliac disease. Regulations underpinned by the Codex Alimentarius and JECFA emphasize the importance of nutrients, including vitamins and minerals, in fostering health. The unavailability of certain food items, such as kamut or spelt, can lead to dietary insecurity, prompting regulatory cutbacks on harmful colourings and flavourings. The EU's pharmacopoeia guides the safe use of these substances, ensuring that products marketed to infants and babies possess the necessary organoleptic qualities. In retrospectively reviewing decades of dietary guidelines, the EU aims to provide a diversified approach to nutrition that positively impacts public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:06.797051",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 756,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 333,
+      "selected_avg_freq": 163.62
+    },
+    "related_words": [
+      "colourings",
+      "intolerant",
+      "coeliac",
+      "cutback",
+      "kamut",
+      "eup",
+      "tolerate",
+      "finishes",
+      "charity",
+      "insecurity",
+      "depots",
+      "fostered",
+      "triticum",
+      "intolerance",
+      "underpinned",
+      "spelt",
+      "pharmacopoeia",
+      "retrospectively",
+      "jecfa",
+      "nutrients",
+      "renounce",
+      "unavailability",
+      "decades",
+      "stabilising",
+      "vitamin",
+      "booked",
+      "confusing",
+      "approaching",
+      "gluten",
+      "widest"
+    ],
+    "prompt_length": 1685,
+    "category": "2841 health"
+  }
+}

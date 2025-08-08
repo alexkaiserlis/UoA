@@ -1,0 +1,63 @@
+{
+  "concept_id": "704",
+  "concept_data": {
+    "title": "presidential election",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"presidential election\" pertains to the electoral procedure and voting processes within the EU framework, emphasizing the necessity for credible and democratically conducted elections. Inaugurated leaders must adhere to constitutional benchmarks, ensuring the resumption of civilian governance. The EU monitors elections globally, citing violations in countries like Belarus and Zimbabwe, where electoral integrity has been compromised. The Cotonou Agreement outlines the EU's response to infringements, including sanctions and targeted measures against regimes like that of Lukashenko. The gravity of these elections is underscored by the need for transparent timetables and the formation of opposition coalitions, fostering democratic stability in regions such as Madagascar and Nigeria.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:50:19.627506",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 271,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1540,
+      "selected_avg_freq": 698.86
+    },
+    "related_words": [
+      "inaugurated",
+      "inauguration",
+      "crackdown",
+      "lukashenko",
+      "proclamation",
+      "supreme",
+      "democratically",
+      "nigeria",
+      "republished",
+      "ouagadougou",
+      "electoral",
+      "presidential",
+      "resumed",
+      "elected",
+      "resumption",
+      "benchmarks",
+      "parliamentary",
+      "credible",
+      "civilian",
+      "violated",
+      "cotonou",
+      "elections",
+      "madagascar",
+      "gravity",
+      "constitutional",
+      "zimbabwe",
+      "violations",
+      "belarus",
+      "guinea",
+      "lifting"
+    ],
+    "prompt_length": 1741,
+    "category": "0416 electoral procedure and voting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2783",
+  "concept_data": {
+    "title": "textile product",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"textile product\" encompasses a wide range of materials and goods within the EU's leather and textile industries, including unique items such as ramie and macramé. Regulatory frameworks address the customs and tariffs applicable to these products, ensuring compliance with protocols that limit the use of certain materials, such as polylactide and chenille. Member states must adhere to specific standards, which can include motifs and designs inspired by regional fashions, like kashmiri and orient styles. The EU's focus on sustainable practices encourages the use of eco-friendly textiles while promoting innovation in workwear and linens.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:01:16.659882",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 3135,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.26
+    },
+    "related_words": [
+      "çukurova",
+      "antalya",
+      "ramie",
+      "athentic",
+      "mfs",
+      "articel",
+      "disuse",
+      "membert",
+      "crcoheted",
+      "preferental",
+      "chenille",
+      "tulle",
+      "drawsheets",
+      "bedridden",
+      "secreted",
+      "amouns",
+      "apperas",
+      "protocoles",
+      "rapily",
+      "koreo",
+      "routed",
+      "phnom",
+      "penh",
+      "excluiding",
+      "limites",
+      "celings",
+      "custome",
+      "knotted",
+      "macramé",
+      "lace"
+    ],
+    "prompt_length": 1634,
+    "category": "6841 leather and textile industries"
+  }
+}

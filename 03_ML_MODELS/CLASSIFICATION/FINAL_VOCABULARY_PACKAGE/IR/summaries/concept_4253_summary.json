@@ -1,0 +1,63 @@
+{
+  "concept_id": "4253",
+  "concept_data": {
+    "title": "process control",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "automation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"process control,\" which redirects to \"automation,\" is integral to EU legal and regulatory frameworks concerning technology and technical regulations. Automation broadens the scope of computerization, enhancing efficiency in various sectors. It involves the design and execution of systems that handle complex tasks, facilitating interconnection between machines and interfaces. In contrastive applications, automation acknowledges the implications of linguistic diversity, ensuring that documentation and translation processes are harmonized across multiple languages. The utilization of advanced technologies creates a coordinated environment where traders can proceed with modifications swiftly, increasing productivity. This phase of automation is crucial for the dissemination of information and the management of appropriations within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:18:38.312462",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 215,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 2237,
+      "selected_avg_freq": 980.66
+    },
+    "related_words": [
+      "broadens",
+      "computerizing",
+      "contrastive",
+      "acpm",
+      "eurotra",
+      "cgc",
+      "caddia",
+      "harmony",
+      "computerization",
+      "orientations",
+      "pairs",
+      "lag",
+      "automation",
+      "crest",
+      "interfaces",
+      "interchange",
+      "trader",
+      "interconnection",
+      "linguistic",
+      "translation",
+      "computerized",
+      "coincide",
+      "machine",
+      "handled",
+      "computer",
+      "acknowledged",
+      "languages",
+      "dissemination",
+      "proceed",
+      "integral"
+    ],
+    "prompt_length": 1763,
+    "category": "6411 technology and technical regulations"
+  }
+}

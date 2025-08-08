@@ -1,0 +1,63 @@
+{
+  "concept_id": "4770",
+  "concept_data": {
+    "title": "vulcanology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "volcanology",
+    "relation_type": "USE"
+  },
+  "summary": "Volcanology, the preferred term for \"vulcanology,\" pertains to the scientific study of volcanoes, their structures, and the materials they emit. In the context of EU legal and regulatory frameworks, volcanological research is crucial for understanding the oceanic depths and sedimentary processes that affect benthos and marine ecosystems. Regulatory duties may involve the importation of specialized apparatus for educational purposes, ensuring that representatives and experts are suited to examine volcanic activity. Such studies confer a requisite understanding of the characteristics and impacts of volcanic eruptions, which are essential for developing standards and justifying responses to natural disasters. The EU's commitment to scientific research in this field is reflected in its regulatory documents, which invoke a duty to monitor and manage volcanic risks effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:28:51.579454",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1705.4952380952382
+    },
+    "related_words": [
+      "benthos",
+      "volcanological",
+      "edgerton",
+      "oceanic",
+      "sedimentary",
+      "depths",
+      "camera",
+      "affirmative",
+      "deep",
+      "invoke",
+      "educational",
+      "apparatus",
+      "principally",
+      "confer",
+      "suited",
+      "requisite",
+      "admission",
+      "cultural",
+      "alone",
+      "showed",
+      "composed",
+      "character",
+      "reply",
+      "sea",
+      "studies",
+      "manufactured",
+      "kind",
+      "model",
+      "specifically",
+      "experts"
+    ],
+    "prompt_length": 1711,
+    "category": "3606 natural and applied sciences"
+  }
+}

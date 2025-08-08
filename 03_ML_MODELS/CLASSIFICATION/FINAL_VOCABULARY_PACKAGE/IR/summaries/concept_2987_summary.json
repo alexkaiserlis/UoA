@@ -1,0 +1,63 @@
+{
+  "concept_id": "2987",
+  "concept_data": {
+    "title": "weedkiller",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "herbicide",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, the term \"weedkiller\" redirects to the preferred term \"herbicide,\" which encompasses a range of chemical agents used in agricultural production to control unwanted plants. Herbicides, such as terbuthylazine and fluazifop, are subject to rigorous assessments to ensure safety and efficacy. Regulatory bodies evaluate mechanistic pathways, including the impact of substances like bromoxynil and orthosulfamuron on ecosystems, particularly in glasshouses. The use of herbicides must align with rationales for sustainable agriculture, considering alternatives like hoeing or basal applications. Moreover, substances such as daminozide and thiosulfate are scrutinized for their environmental impact, ensuring responsible usage in regions like Hainan and Fujian.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:45:04.114671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1771,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 6.98
+    },
+    "related_words": [
+      "terbuthylazine",
+      "thiosulfate",
+      "mechanistic",
+      "hoe",
+      "basal",
+      "clethodim",
+      "arysta",
+      "lifescience",
+      "norchloro",
+      "norchloracetochlor",
+      "hydroxyacetochlor",
+      "dca",
+      "fluazifop",
+      "citronella",
+      "jalan",
+      "haji",
+      "sirat",
+      "kapar",
+      "darul",
+      "ehsan",
+      "audace",
+      "glasshouses",
+      "immobility",
+      "cyclopropene",
+      "daminozide",
+      "ptu",
+      "rationales",
+      "bromoxynil",
+      "orthosulfamuron",
+      "chuan"
+    ],
+    "prompt_length": 1706,
+    "category": "5626 means of agricultural production"
+  }
+}

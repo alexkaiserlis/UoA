@@ -1,0 +1,63 @@
+{
+  "concept_id": "1227",
+  "concept_data": {
+    "title": "Province of Hainault",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Province of Hainault\" is a significant region within Belgium, categorized under the EU's framework of 7211 regions of EU Member States. Governed by statutory frameworks, Hainault plays a crucial role in the allocation of EU funds, particularly through the European Regional Development Fund (ERDF) and the European Social Fund (ESF). Its programming reflects priorities in rural development, fisheries, and aquaculture, ensuring compatibility with EU objectives. The province's readiness to engage in partnerships is indicative of its intent to enhance economic growth through additionality in financing. Commitments from the European Investment Bank (EIB) further support Hainault's development patterns, addressing inflation and lending needs while providing a breakdown of eligibility criteria for various projects.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:27.014274",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 254,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1673,
+      "selected_avg_freq": 947.4933333333333
+    },
+    "related_words": [
+      "comitments",
+      "hainaut",
+      "fifg",
+      "additionality",
+      "indexed",
+      "esf",
+      "readiness",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "inflation",
+      "province",
+      "perspective",
+      "statutory",
+      "loan",
+      "allocations",
+      "belgian",
+      "programming",
+      "pattern",
+      "statute",
+      "indicative",
+      "preparing",
+      "breakdown",
+      "eaggf",
+      "ground",
+      "qualifying",
+      "partners"
+    ],
+    "prompt_length": 1689,
+    "category": "7211 regions of EU Member States"
+  }
+}

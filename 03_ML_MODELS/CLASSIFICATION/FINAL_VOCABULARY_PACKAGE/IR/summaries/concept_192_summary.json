@@ -1,0 +1,44 @@
+{
+  "concept_id": "192",
+  "concept_data": {
+    "title": "health watch",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "health control",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"health watch,\" classified under health in EU regulatory frameworks, is redirected to \"health control.\" This term encompasses measures related to the inspection and certification of health standards, particularly in the context of epidemiosurveillance. For instance, the monitoring of brucellois and other zoonotic diseases requires rigorous health control protocols, including vaccination and the classification of affected populations. The EU's health control strategies also address the management of toxins, such as amnesic and domoic acid, which can affect public health. The committee responsible for these regulations ensures that all health measures are inscribed in legal texts to facilitate compliance and effective monitoring.",
+  "metadata": {
+    "generation_date": "2025-07-29T14:52:22.399189",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "related_words_count": 150,
+    "related_words": [
+      "inespection",
+      "namibian",
+      "brucellois",
+      "consumtion",
+      "mounth",
+      "epizootiologically",
+      "decicion",
+      "tbe",
+      "inscribe",
+      "vaccinaton",
+      "masures",
+      "epidemiosurveillance",
+      "larnaca",
+      "classicl",
+      "toxine",
+      "classifal",
+      "classifcal",
+      "platelets",
+      "daltons",
+      "ørum"
+    ],
+    "prompt_length": 1483,
+    "category": "2841 health"
+  }
+}

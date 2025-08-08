@@ -1,0 +1,63 @@
+{
+  "concept_id": "58",
+  "concept_data": {
+    "title": "public service accounting",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": true,
+    "preferred_term": "public accounting",
+    "relation_type": "USE"
+  },
+  "summary": "Public service accounting, often referred to as public accounting, is a critical component of EU public finance and budget policy. It encompasses the compilation of financial statements and the reporting of revenue, taxes, and transfers, ensuring reliability and transparency in public finances. The methodology employed in public accounting is designed to detect irregularities and fraud, thereby enhancing the reliability of financial data. Key indicators and classifications endorsed by bodies such as the ECOFIN and SPC facilitate the monitoring of trends and improvements in financial management. This comprehensive approach supports the effective recovery of entitlements and the accurate representation of accounts, ultimately contributing to sound fiscal governance within participating member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:03:20.087001",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 199,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 22,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1213.8533333333332
+    },
+    "related_words": [
+      "cmfb",
+      "spc",
+      "ecofin",
+      "makers",
+      "classifications",
+      "esa",
+      "entitlements",
+      "compilation",
+      "finances",
+      "recover",
+      "irregularities",
+      "underlined",
+      "indicators",
+      "quarterly",
+      "dealt",
+      "statements",
+      "reliability",
+      "revenue",
+      "detected",
+      "transfers",
+      "monthly",
+      "taxes",
+      "endorsed",
+      "constituting",
+      "methodology",
+      "length",
+      "fraud",
+      "accounting",
+      "excess",
+      "definitions"
+    ],
+    "prompt_length": 1762,
+    "category": "2436 public finance and budget policy"
+  }
+}

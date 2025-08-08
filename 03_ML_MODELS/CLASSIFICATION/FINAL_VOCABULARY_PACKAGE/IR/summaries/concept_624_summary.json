@@ -1,0 +1,63 @@
+{
+  "concept_id": "624",
+  "concept_data": {
+    "title": "extensive farming",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Extensive farming, categorized under the cultivation of agricultural land, involves practices that prioritize the utilization of autochthonous breeds, such as the Mertolenga and Alentejana sheep, alongside traditional methods of pasturing. This approach is characterized by extensification, where land is utilized with lower input intensity, promoting biodiversity and viability in rural areas. In the EU regulatory framework, extensive farming is often coupled with agri-environmental schemes aimed at preserving the countryside and supporting the elderly farmers through retirement incentives. The practice also addresses issues of depopulation in rural laender, ensuring that breeds like the Churra and Serrana thrive while reviewing the sustainability of forage and livestock management. Ultimately, extensive farming embodies a commitment to environmental stewardship and the preservation of traditional agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:33.972767",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1070,
+      "selected_avg_freq": 485.29333333333335
+    },
+    "related_words": [
+      "extensified",
+      "brava",
+      "lide",
+      "autochthonous",
+      "alentejana",
+      "churra",
+      "quente",
+      "pasturing",
+      "mertolenga",
+      "serrana",
+      "treuhandanstalt",
+      "constrained",
+      "freed",
+      "estrela",
+      "serra",
+      "terra",
+      "females",
+      "delimiting",
+      "extensification",
+      "depopulation",
+      "elderly",
+      "lease",
+      "ewe",
+      "trento",
+      "breed",
+      "forage",
+      "penalized",
+      "suckler",
+      "countryside",
+      "laender"
+    ],
+    "prompt_length": 1701,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

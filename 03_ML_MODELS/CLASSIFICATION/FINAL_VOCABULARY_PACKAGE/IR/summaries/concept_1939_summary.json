@@ -1,0 +1,63 @@
+{
+  "concept_id": "1939",
+  "concept_data": {
+    "title": "minister",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"minister\" refers to an elected official who holds a significant position within the executive power and public service framework. Ministers are sworn to uphold democratic principles and are often involved in the consolidation of governance, addressing violations of law and ensuring compliance with stipulations set forth by the EU. They may direct policies related to foreign affairs, including sanctions against entities in countries like Serbia or Syria, aimed at lifting humanitarian threats or freezing assets of individuals linked to violations. The role encompasses calling for elections, aligning positions with EU standards, and avoiding distortions in governance, thereby reinforcing democracy and jurisdictional integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:05:45.802158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 229,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2052,
+      "selected_avg_freq": 985.9533333333334
+    },
+    "related_words": [
+      "kostunica",
+      "slobodan",
+      "sworn",
+      "milosevic",
+      "democratically",
+      "stipulation",
+      "fry",
+      "elected",
+      "encompass",
+      "syria",
+      "abroad",
+      "freeze",
+      "elections",
+      "simplicity",
+      "democracy",
+      "violations",
+      "humanitarian",
+      "lifting",
+      "consolidation",
+      "violation",
+      "calling",
+      "serbia",
+      "freezing",
+      "directed",
+      "entity",
+      "president",
+      "sanctions",
+      "yugoslavia",
+      "align",
+      "positions"
+    ],
+    "prompt_length": 1683,
+    "category": "0436 executive power and public service"
+  }
+}

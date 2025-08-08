@@ -1,0 +1,63 @@
+{
+  "concept_id": "3377",
+  "concept_data": {
+    "title": "urban infrastructure",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"urban infrastructure\" encompasses critical frameworks and facilities essential for the functioning of urban areas within the EU. It includes various infrastructures, such as transportation, utilities, and public spaces, which are vital for economic activities and the protection of freedoms. EU directives and agreements often contain provisions that extend the scope of urban infrastructure projects, allowing for improved cooperation among parties. Specific articles in regulatory documents may propose amendments to enhance the identification and designation of these infrastructures. The assessment of urban infrastructure is crucial for ensuring appropriate arrangements that address the needs of communities, ensuring sustainable development and joint efforts across fields.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:02.207639",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 183,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 183,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2292.677966101695
+    },
+    "related_words": [
+      "infrastructures",
+      "freedoms",
+      "critical",
+      "designation",
+      "fields",
+      "attached",
+      "identification",
+      "contracting",
+      "four",
+      "contains",
+      "draft",
+      "amendment",
+      "extend",
+      "improve",
+      "protocol",
+      "joint",
+      "assessment",
+      "position",
+      "parties",
+      "extended",
+      "scope",
+      "area",
+      "allow",
+      "activities",
+      "cooperation",
+      "eea",
+      "protection",
+      "arrangements",
+      "need",
+      "including"
+    ],
+    "prompt_length": 1693,
+    "category": "2846 construction and town planning"
+  }
+}

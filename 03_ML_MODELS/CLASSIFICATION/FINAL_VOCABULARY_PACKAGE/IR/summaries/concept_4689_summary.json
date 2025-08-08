@@ -1,0 +1,63 @@
+{
+  "concept_id": "4689",
+  "concept_data": {
+    "title": "fresh meat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fresh meat\" within EU legal and regulatory frameworks pertains to animal products, specifically focusing on the certification and checks required for safe consumption. This includes various types of meat such as poulet and slachtlammeren, which must undergo stringent controls at facilities like abbatoirs. The EU emphasizes the importance of vaccination protocols and proper handling to ensure quality, as seen in regions like Oberösterreich and Karnten. Regulatory bodies monitor the entire supply chain, from smaller slachterijen to larger producers, ensuring compliance with standards. Additionally, terms like masseter and boucherie reflect the diverse culinary practices across member states, including unique regional varieties such as marinhoa and katsikaki.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:00.799022",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 3094,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.626666666666667
+    },
+    "related_words": [
+      "vadehavsstude",
+      "poulet",
+      "chapon",
+      "vaccinaton",
+      "classicl",
+      "oberoesterreich",
+      "promotors",
+      "certfication",
+      "chekcs",
+      "norther",
+      "abbatoir",
+      "lurgan",
+      "donemana",
+      "pice",
+      "allams",
+      "weigting",
+      "masseter",
+      "custailing",
+      "boucherie",
+      "slachtlammeren",
+      "nenagh",
+      "camolin",
+      "camolins",
+      "harlingen",
+      "sluis",
+      "bodegraven",
+      "nieuwekerk",
+      "ijssel",
+      "kleinere",
+      "slachterijen"
+    ],
+    "prompt_length": 1677,
+    "category": "6011 animal product"
+  }
+}

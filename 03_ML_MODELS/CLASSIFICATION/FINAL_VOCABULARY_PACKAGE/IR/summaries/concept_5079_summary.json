@@ -1,0 +1,63 @@
+{
+  "concept_id": "5079",
+  "concept_data": {
+    "title": "register of land",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "land register",
+    "relation_type": "USE"
+  },
+  "summary": "The \"register of land,\" commonly referred to as the \"land register,\" is a crucial instrument in civil law, particularly within the EU framework. It serves as an authentic document repository that records ownership and rights concerning land, including vineyards and agricultural properties. This register is essential for financing arrangements, as it guarantees that contributions and reimbursements related to land transactions are properly documented. Inspections and procedures initiated by government bodies ensure compliance with established policies. The land register facilitates the transmission of information and decisions regarding financial expenditures, thereby contributing to the transparency and efficiency of land management across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:17.514697",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 65,
+      "requested_words": 150,
+      "min_frequency_found": 59,
+      "max_frequency_found": 4108,
+      "selected_words": 65,
+      "selected_min_freq": 59,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2262.7846153846153
+    },
+    "related_words": [
+      "reimbursements",
+      "vineyard",
+      "inspections",
+      "transmitted",
+      "initiated",
+      "register",
+      "english",
+      "guidance",
+      "advance",
+      "payments",
+      "actual",
+      "expenditure",
+      "documents",
+      "cost",
+      "decide",
+      "fund",
+      "financing",
+      "consulting",
+      "guarantee",
+      "contribute",
+      "contribution",
+      "able",
+      "authentic",
+      "decided",
+      "agricultural",
+      "government",
+      "kingdom",
+      "establishment",
+      "amount",
+      "form"
+    ],
+    "prompt_length": 1683,
+    "category": "1211 civil law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "730",
+  "concept_data": {
+    "title": "transport accident",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU transport policy, a \"transport accident\" refers to incidents involving vehicles that result in casualties, wounding, or damage. These accidents can involve various participants, including pedestrians, cyclists, motorcyclists, and passengers. Regulatory frameworks aim to enhance safety measures, deploying technologies like eCall systems to alert PSAPs (Public Safety Answering Points) in emergencies. Investigators analyze accidents to apportion blame and improve safety protocols, while insurers assess claims related to damages. The concept also encompasses legal responsibilities, where crews may be exonerated from liability under specific conditions. Effective accident management is crucial for unhindered voyages and minimizing casualties.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:26.380368",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1078,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 140,
+      "selected_avg_freq": 60.81333333333333
+    },
+    "related_words": [
+      "calming",
+      "eevc",
+      "frontal",
+      "passangers",
+      "guadalajara",
+      "overdue",
+      "wounding",
+      "bodily",
+      "exonerated",
+      "vdr",
+      "vdrs",
+      "towage",
+      "dilatory",
+      "resides",
+      "sparked",
+      "safest",
+      "requestor",
+      "pedestrians",
+      "cyclists",
+      "motorcyclists",
+      "crash",
+      "ecall",
+      "psap",
+      "ecalls",
+      "psaps",
+      "investigative",
+      "aggressiveness",
+      "investigators",
+      "insurer",
+      "alarms"
+    ],
+    "prompt_length": 1680,
+    "category": "4806 transport policy"
+  }
+}

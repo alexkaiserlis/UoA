@@ -1,0 +1,63 @@
+{
+  "concept_id": "318",
+  "concept_data": {
+    "title": "cereal-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cereal-growing, classified under agricultural activity, encompasses the cultivation of various cereal crops such as maize, barley, and rye. This practice is subject to EU regulations aimed at ensuring genetic purity and resistance to climatic challenges. The breeding techniques employed often involve hybridization, where parent plants are crossed to produce varietal hybrids with desirable traits. Regulatory frameworks catalogues these hybrids, addressing issues of sterility and cytoplasmic male sterility (cms) to enhance yields. Surveys conducted by the FAO and other bodies assess the diversity and maturity of cereal crops, resolving obstacles to cultivation and promoting extensive horticulture practices across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:49.614952",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 288,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1433,
+      "selected_avg_freq": 677.5066666666667
+    },
+    "related_words": [
+      "cytoplasmic",
+      "sterility",
+      "cytoplasm",
+      "strigosa",
+      "schreb",
+      "cms",
+      "cultivating",
+      "encompasses",
+      "avena",
+      "blend",
+      "catalogues",
+      "flowering",
+      "varietal",
+      "similarities",
+      "indefinite",
+      "hybrid",
+      "hybrids",
+      "maturity",
+      "genetically",
+      "catalogue",
+      "technique",
+      "rye",
+      "naturally",
+      "purity",
+      "genetic",
+      "unification",
+      "male",
+      "resistance",
+      "fao",
+      "refused"
+    ],
+    "prompt_length": 1671,
+    "category": "5631 agricultural activity"
+  }
+}

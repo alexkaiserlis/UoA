@@ -1,0 +1,63 @@
+{
+  "concept_id": "3804",
+  "concept_data": {
+    "title": "Sahel countries",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": true,
+    "preferred_term": "Sahel",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"Sahel countries,\" redirected to the preferred term \"Sahel,\" encompasses a strategic region in Africa, notably including Mali and Niger. The EU, through the European External Action Service (EEAS) and the Common Security and Defence Policy (CSDP), has launched missions to enhance stability in this area. The activation of civilian and military capabilities is critical, reflecting the EU's commitment to resource allocation and strategic planning. Institutional functions, such as appointing a commander and expanding missions, are vital to address the deteriorating security situation. The EU's approach aims to assume a proactive direction in regional affairs, ensuring effective staffing and operational effectiveness.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:03:19.736990",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 185,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2465,
+      "selected_avg_freq": 1058.2266666666667
+    },
+    "related_words": [
+      "albrecht",
+      "conze",
+      "nigerien",
+      "foresaw",
+      "eeas",
+      "sahel",
+      "eucap",
+      "csdp",
+      "staffing",
+      "mali",
+      "niger",
+      "horn",
+      "commander",
+      "psc",
+      "activation",
+      "civilian",
+      "launching",
+      "capability",
+      "expand",
+      "deteriorate",
+      "resource",
+      "assume",
+      "exercising",
+      "twelve",
+      "impede",
+      "missions",
+      "appoint",
+      "institutional",
+      "appointing",
+      "direction"
+    ],
+    "prompt_length": 1655,
+    "category": "7221 Africa"
+  }
+}

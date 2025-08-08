@@ -1,0 +1,63 @@
+{
+  "concept_id": "549",
+  "concept_data": {
+    "title": "insurance law",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Insurance law within the EU encompasses a framework of regulations and directives that govern the assurance and reinsurance sectors. This legal domain is characterized by evolving definitions and terminologies that adapt to market needs, ensuring solvency and the protection of policyholders. Regulatory instruments empower member states to implement adaptations, such as the relaxation of certain maxima on premiums and claims. The scrutiny of insurance contracts requires a clear statement of terms, facilitating the matching of assets and liabilities. Furthermore, the evolution of insurance law reflects political priorities, inviting adjustments that enhance consumer freedom while maintaining valid protections across different classes of insurance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:05.069568",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 187,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 2885,
+      "selected_avg_freq": 1415.72
+    },
+    "related_words": [
+      "relaxations",
+      "maxima",
+      "reinsurance",
+      "solvency",
+      "matching",
+      "terminology",
+      "drew",
+      "transposed",
+      "deleting",
+      "assurance",
+      "spreading",
+      "premiums",
+      "classes",
+      "assets",
+      "insurance",
+      "items",
+      "alter",
+      "constituting",
+      "margin",
+      "scrutiny",
+      "claims",
+      "evolution",
+      "definitions",
+      "investments",
+      "adaptations",
+      "empowered",
+      "life",
+      "conference",
+      "original",
+      "supplementing"
+    ],
+    "prompt_length": 1691,
+    "category": "2431 insurance"
+  }
+}

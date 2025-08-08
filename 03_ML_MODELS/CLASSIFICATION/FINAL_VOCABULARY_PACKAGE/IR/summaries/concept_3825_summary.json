@@ -1,0 +1,63 @@
+{
+  "concept_id": "3825",
+  "concept_data": {
+    "title": "screw",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "bolt and screw industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"screw,\" categorized under the \"bolt and screw industry,\" encompasses a range of fasteners, including bolts, screws, and washers, which are integral to various applications in the iron, steel, and other metal industries. This redirect to \"bolt and screw industry\" highlights the industry's significance in manufacturing threaded components, such as rods and bars, which are essential for construction and engineering. Regulatory frameworks within the EU address aspects like the thickness of materials, transhipment practices, and compliance with standards to prevent misleading practices. Industry players, including those in Malaysia and Singapore, cooperate to tackle challenges, ensuring that invoices and product profiles adhere to EU regulations. The industry is also subject to hearings and mediation processes to resolve disputes, with authorities actively tracking compliance and addressing any allegations of circumvention.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:36:17.944370",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 493,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 601,
+      "selected_avg_freq": 271.6933333333333
+    },
+    "related_words": [
+      "andfast",
+      "blanks",
+      "tapping",
+      "washers",
+      "tapped",
+      "shank",
+      "bolts",
+      "screws",
+      "plated",
+      "sdn",
+      "bhd",
+      "fasteners",
+      "threaded",
+      "tranship",
+      "resell",
+      "alleges",
+      "coach",
+      "malaysian",
+      "dramatically",
+      "rods",
+      "tackling",
+      "continuance",
+      "pages",
+      "profiles",
+      "stainless",
+      "bars",
+      "cooperates",
+      "mediation",
+      "thickness",
+      "http"
+    ],
+    "prompt_length": 1684,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

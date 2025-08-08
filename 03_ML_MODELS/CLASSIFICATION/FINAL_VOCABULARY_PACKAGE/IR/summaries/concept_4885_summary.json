@@ -1,0 +1,63 @@
+{
+  "concept_id": "4885",
+  "concept_data": {
+    "title": "supply balance sheet",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"supply balance sheet\" is a crucial regulatory tool within EU trade policy, establishing a framework for the management of agricultural products, particularly concerning maincrop commodities. It dictates the quantities of goods, such as oilcake and tinned products, required to meet market demands while addressing potential scarcity issues. The regulation outlines the responsibilities of member states in implementing detailed standards and bridging gaps in supply, especially in archipelagos like the Canaries and Aegean regions. This framework aims to enhance flexibility in response to unexpected storms or shortages, ensuring that the supply chain remains resilient and efficient, thereby preventing misunderstandings and ensuring replenishment of essential goods.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:01:40.362405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1335,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 135,
+      "selected_avg_freq": 65.43333333333334
+    },
+    "related_words": [
+      "aegan",
+      "aegen",
+      "reuqirements",
+      "canarey",
+      "relaced",
+      "estasblishes",
+      "rmsponsible",
+      "managemetn",
+      "outmost",
+      "maincrop",
+      "aticles",
+      "lfexibility",
+      "limnos",
+      "implemention",
+      "particual",
+      "amont",
+      "concering",
+      "debbie",
+      "grammes",
+      "grandparent",
+      "reguation",
+      "rgulation",
+      "commissin",
+      "marilyn",
+      "madeiran",
+      "standardizing",
+      "răšunion",
+      "cetain",
+      "parents",
+      "dictates"
+    ],
+    "prompt_length": 1683,
+    "category": "2016 trade"
+  }
+}

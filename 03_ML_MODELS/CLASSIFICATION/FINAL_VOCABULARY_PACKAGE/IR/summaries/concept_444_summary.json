@@ -1,0 +1,63 @@
+{
+  "concept_id": "444",
+  "concept_data": {
+    "title": "selective dissemination of information",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"selective dissemination of information\" pertains to the strategic distribution of documentation within the EU framework, aimed at enhancing the involvement of various actors, including researchers and providers. This process facilitates the sharing of studies and fiscal data, thereby combating illegal activities and harmful practices. By decentralisation, it encourages networking among stakeholders, fostering a safer environment for the exchange of knowledge. The Directorate may utilize online platforms to enhance opportunities for collaboration, forming networks that address evolving challenges. Workshops and multiannual studies in cities like Madrid exemplify this approach, constituting a prime example of effective information usage in EU affairs.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:35:03.864620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 212,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2257,
+      "selected_avg_freq": 1023.8533333333334
+    },
+    "related_words": [
+      "estudios",
+      "fiscales",
+      "ief",
+      "facilitator",
+      "exacerbate",
+      "wealth",
+      "instituto",
+      "ess",
+      "focal",
+      "decentralisation",
+      "contributor",
+      "workshop",
+      "online",
+      "researchers",
+      "networking",
+      "safer",
+      "dangers",
+      "usage",
+      "madrid",
+      "providers",
+      "actors",
+      "directorate",
+      "candidate",
+      "confidential",
+      "prime",
+      "formed",
+      "internet",
+      "fiscal",
+      "illegal",
+      "involvement"
+    ],
+    "prompt_length": 1715,
+    "category": "3221 documentation"
+  }
+}

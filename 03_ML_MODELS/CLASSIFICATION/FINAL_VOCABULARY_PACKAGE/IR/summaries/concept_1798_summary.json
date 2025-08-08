@@ -1,0 +1,63 @@
+{
+  "concept_id": "1798",
+  "concept_data": {
+    "title": "works contract",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"works contract\" in the context of EU legal and regulatory frameworks refers to agreements where contractors are tasked with executing specific installations or constructions, often involving governmental projects. These contracts are scrutinised to ensure alignment with EU procurement goals, conferring desired outcomes while avoiding superfluous complexities. The awarding process may involve subcontractors, necessitating clear notices and memorandums to outline responsibilities. The ISIC and NACE nomenclatures help classify these contracts, ensuring that the nationality of contractors does not prejudice the procurement process. By simplifying and recalculating requirements, the EU aims to enhance efficiency and reach its objectives, moving towards a more coordinated approach in public works.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:13.056933",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 432,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 813,
+      "selected_avg_freq": 417.02
+    },
+    "related_words": [
+      "säger",
+      "presided",
+      "surpass",
+      "afore",
+      "prejudicing",
+      "isic",
+      "subcontractors",
+      "scrutinise",
+      "nomenclatures",
+      "practise",
+      "rounded",
+      "clerical",
+      "thousand",
+      "nearest",
+      "contractors",
+      "repetition",
+      "awards",
+      "recalculated",
+      "renders",
+      "equivalents",
+      "upwards",
+      "superfluous",
+      "enjoying",
+      "notices",
+      "downwards",
+      "nice",
+      "nace",
+      "nationality",
+      "reaches",
+      "subsidised"
+    ],
+    "prompt_length": 1687,
+    "category": "2006 trade policy"
+  }
+}

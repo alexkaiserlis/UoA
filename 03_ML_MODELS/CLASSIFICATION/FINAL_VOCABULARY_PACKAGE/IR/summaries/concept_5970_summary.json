@@ -1,0 +1,63 @@
+{
+  "concept_id": "5970",
+  "concept_data": {
+    "title": "surgical operation",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "surgery",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"surgical operation,\" redirected to the preferred term \"surgery,\" encompasses a range of medical procedures involving the design and implementation of active medical devices, such as implants. In the EU regulatory framework, surgical operations are subject to stringent classification and safety laws, ensuring that implantable devices meet the highest quality assurance standards. The relevant directives require a thorough examination of the product dossier, determining the classification level based on established criteria. Consequently, bodies notified under this regime must carry out assessments to ensure compliance with applicable regulations. This process is vital for safeguarding patient health across the European Economic Area (EEA) and the United Kingdom.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:58:20.585597",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2078.41975308642
+    },
+    "related_words": [
+      "implants",
+      "breast",
+      "implantable",
+      "reclassification",
+      "iib",
+      "dossier",
+      "assurance",
+      "proceed",
+      "class",
+      "devices",
+      "medical",
+      "design",
+      "highest",
+      "principal",
+      "approximation",
+      "active",
+      "regime",
+      "placed",
+      "classification",
+      "laws",
+      "bodies",
+      "safety",
+      "derogation",
+      "france",
+      "carry",
+      "examination",
+      "product",
+      "full",
+      "determine",
+      "quality"
+    ],
+    "prompt_length": 1665,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "concept_id": "5109",
+  "concept_data": {
+    "title": "document acquisition",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"document acquisition\" pertains to the systematic process of obtaining official documents relevant to the functioning of the European Union (EU) and its external affairs. This includes accessing high-level decisions and policies established by the Council of the European Union, which governs the rules regarding documentation and security. Document acquisition is crucial for representatives of various organisations, ensuring transparency and accountability in EU actions. It encompasses various types of documents, including those published in the Official Journal, and is essential for understanding the legal framework and policy developments within the Union, particularly in July when significant decisions may be made.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:00.673997",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 23,
+      "requested_words": 150,
+      "min_frequency_found": 558,
+      "max_frequency_found": 4108,
+      "selected_words": 23,
+      "selected_min_freq": 558,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2313.5652173913045
+    },
+    "related_words": [
+      "affairs",
+      "foreign",
+      "external",
+      "service",
+      "representative",
+      "documents",
+      "security",
+      "access",
+      "organisation",
+      "regarding",
+      "high",
+      "action",
+      "policy",
+      "functioning",
+      "rules",
+      "july",
+      "journal",
+      "official",
+      "union",
+      "decision",
+      "establishing",
+      "council",
+      "european"
+    ],
+    "prompt_length": 1403,
+    "category": "3221 documentation"
+  }
+}

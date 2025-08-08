@@ -1,0 +1,63 @@
+{
+  "concept_id": "6044",
+  "concept_data": {
+    "title": "substitute motor fuel",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "substitute fuel",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"substitute motor fuel,\" redirected to \"substitute fuel,\" encompasses various alternative energies that propel vehicles, including bioethanol, biodiesel, and biogas. These fuels often involve blending with traditional hydrocarbons, such as isobutene and ulsd, to enhance performance. The use of oxygenated compounds, like ETBE, contributes to cleaner combustion, reducing emissions for motorists. Regulatory frameworks aim to promote renewables, facilitating stockpiling and blending practices that support energy diversification. However, the inadmissibility of certain blends may arise due to uncompetitive pricing or environmental concerns. The EU's energy policy dialogues emphasize the importance of fortifying these alternatives, ensuring compliance with sustainability goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:12.945130",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 939,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 228,
+      "selected_avg_freq": 103.11333333333333
+    },
+    "related_words": [
+      "oxygenated",
+      "isobutene",
+      "warehousekeepers",
+      "reverts",
+      "inadmissibility",
+      "pence",
+      "ulsd",
+      "eurocents",
+      "ecocarburantes",
+      "espaăąoles",
+      "ignited",
+      "motorists",
+      "petro",
+      "renewables",
+      "raft",
+      "altener",
+      "etbe",
+      "fried",
+      "lees",
+      "cite",
+      "boiler",
+      "hydrocarbon",
+      "everywhere",
+      "doubling",
+      "dialogues",
+      "hydrolysis",
+      "spark",
+      "tallow",
+      "energies",
+      "barroso"
+    ],
+    "prompt_length": 1712,
+    "category": "6606 energy policy"
+  }
+}

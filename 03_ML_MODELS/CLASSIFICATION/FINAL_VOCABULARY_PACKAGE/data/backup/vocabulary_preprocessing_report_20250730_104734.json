@@ -1,0 +1,22 @@
+{
+  "comparison_date": "2025-07-30T10:47:34.736874",
+  "old_vocabulary_size": 28641,
+  "new_vocabulary_size": 29318,
+  "common_words": 28623,
+  "added_words": 695,
+  "removed_words": 18,
+  "top_added_words": {
+    "having": 143400,
+    "down": 64329,
+    "which": 60673,
+    "not": 47752,
+    "its": 27415,
+    "other": 26788,
+    "out": 24265,
+    "their": 20952,
+    "such": 20275,
+    "all": 16134
+  },
+  "net_improvement": 677,
+  "quality_assessment": "Improved vocabulary with better preprocessing and full dataset coverage"
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "8454",
+  "concept_data": {
+    "title": "Research and Development Framework Programme",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "Framework Programme for Research and Development",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Framework Programme for Research and Development\" serves as a pivotal EU initiative, centralizing efforts to enhance innovation through strategic funding and collaboration across academia and industry. This programme encompasses various strands, including the ECSEL and BBI initiatives, leveraging resources to support nascent technologies and SMEs. By facilitating interrelated projects, it empowers scholars and engineers to demonstrate advancements in sectors such as airspace management (SESAR) and sustainable fisheries (EMFF). The programme also includes helpdesk services and portals like iporta, ensuring efficient communication and outsourcing of expertise. Its legacy is marked by a trajectory of successful projects, entrusting directorates with the responsibility to centralize and delegate resources effectively, while fostering a culture of specialisation and innovation across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:08:28.490471",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 706,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 262,
+      "selected_avg_freq": 100.37333333333333
+    },
+    "related_words": [
+      "ecsel",
+      "cosme",
+      "helpdesk",
+      "iporta",
+      "bbi",
+      "nascent",
+      "ses",
+      "scholars",
+      "iee",
+      "portfolios",
+      "esif",
+      "demonstrations",
+      "leveraging",
+      "directorates",
+      "relinquishing",
+      "outsourcing",
+      "cip",
+      "centralisation",
+      "strand",
+      "engineers",
+      "sesar",
+      "atm",
+      "emff",
+      "entrusting",
+      "fission",
+      "ipr",
+      "erc",
+      "succeeding",
+      "academia",
+      "repute"
+    ],
+    "prompt_length": 1755,
+    "category": "6416 research and intellectual property"
+  }
+}

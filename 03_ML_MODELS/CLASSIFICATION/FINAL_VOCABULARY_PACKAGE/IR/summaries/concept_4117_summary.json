@@ -1,0 +1,63 @@
+{
+  "concept_id": "4117",
+  "concept_data": {
+    "title": "farming crisis",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "agricultural situation",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"farming crisis,\" a redirect to \"agricultural situation,\" encompasses the cyclical challenges faced by the EU agricultural sector. These crises are often triggered by extreme weather conditions, such as droughts and flooding, which can dramatically affect crop yields, including cauliflowers. The failings of infrastructural support systems can exacerbate these issues, leading to unpredictable fluctuations in market liquidity and pricing. Villages reliant on agriculture confront harsh realities, including abandonment of land and a collapse in local amenities. As temperatures rise and rainfalls become erratic, the situation worsens, generating a need for reconversion strategies to mitigate damages and ensure sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:45:44.089532",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 602,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 550,
+      "selected_avg_freq": 254.78666666666666
+    },
+    "related_words": [
+      "inversely",
+      "ensued",
+      "failings",
+      "peaks",
+      "irrespectively",
+      "fluctuates",
+      "cauliflower",
+      "villages",
+      "infrastructural",
+      "aggravation",
+      "amenities",
+      "harsh",
+      "rainfalls",
+      "dramatic",
+      "unpredictable",
+      "slowing",
+      "tally",
+      "worsened",
+      "reconversion",
+      "cauliflowers",
+      "posteriori",
+      "coli",
+      "occasional",
+      "confronted",
+      "compounded",
+      "bacteria",
+      "organizing",
+      "renders",
+      "quotation",
+      "crises"
+    ],
+    "prompt_length": 1775,
+    "category": "5606 agricultural policy"
+  }
+}

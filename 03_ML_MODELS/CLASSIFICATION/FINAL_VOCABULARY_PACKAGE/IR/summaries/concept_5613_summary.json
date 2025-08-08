@@ -1,0 +1,63 @@
+{
+  "concept_id": "5613",
+  "concept_data": {
+    "title": "hardware",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer equipment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"hardware\" redirects to \"computer equipment,\" encompassing a wide array of electrotechnical components such as microcircuits, microprocessors, and memories. This classification is crucial for interpreting regulations related to ecodesign and ecolabeling, ensuring that computer equipment meets environmental standards. The EU scrutinizes the lifecycle of these assemblies, from the static substrate to the interactive exterior, to avoidable waste. Regulations may also address issues like photocopying and reproducing data, as well as the management of bits and bytes in everyday devices. By mapping these components, the EU aims to promote sustainable attitudes towards technology, ensuring compliance with standards set by CENELEC and other regulatory bodies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:27:09.198588",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 736,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 332,
+      "selected_avg_freq": 127.92666666666666
+    },
+    "related_words": [
+      "fps",
+      "voids",
+      "rams",
+      "cinema",
+      "monolithic",
+      "everyday",
+      "photocopying",
+      "pins",
+      "array",
+      "bindings",
+      "microcircuit",
+      "inconsistently",
+      "bits",
+      "ita",
+      "microprocessor",
+      "stacked",
+      "scrutinize",
+      "mapping",
+      "modem",
+      "microcircuits",
+      "mos",
+      "memories",
+      "memory",
+      "complaining",
+      "copying",
+      "substrate",
+      "substrates",
+      "phones",
+      "interpretative",
+      "insulating"
+    ],
+    "prompt_length": 1736,
+    "category": "3236 information technology and data processing"
+  }
+}

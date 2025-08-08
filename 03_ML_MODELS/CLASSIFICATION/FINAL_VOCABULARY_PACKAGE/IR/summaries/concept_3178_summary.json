@@ -1,0 +1,63 @@
+{
+  "concept_id": "3178",
+  "concept_data": {
+    "title": "customs territory of the EEC",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "customs territory (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"customs territory of the EEC,\" now referred to as the \"customs territory (EU),\" encompasses regions where EU customs regulations apply. This territory includes various seaports and islands, such as Melila and Heligoland, where importaciones and exportations are regulated under a unified tariff policy. The legal framework ensures validly arranged customs procedures, facilitating the flow of mercancías across borders. Notably, the EORI system aids in tracking these transactions, while special provisions exist for unique cases, such as the handling of volcanic products or specific entregas. The customs territory's scope can sometimes lead to unanticipated challenges, requiring adaptive regulatory measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:39:10.874367",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1491,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 107,
+      "selected_avg_freq": 49.53333333333333
+    },
+    "related_words": [
+      "foreshores",
+      "unpropitious",
+      "producciรณn",
+      "roms",
+      "quashed",
+      "epivir",
+      "combivir",
+      "melila",
+      "producción",
+      "unanticipated",
+      "tabling",
+      "filmscreens",
+      "reconsigned",
+      "apim",
+      "tarifa",
+      "staatsvertrag",
+      "livigno",
+      "campione",
+      "heligoland",
+      "validly",
+      "especial",
+      "eori",
+      "entregas",
+      "mercancías",
+      "islas",
+      "aiem",
+      "disk",
+      "ata",
+      "sant",
+      "exportations"
+    ],
+    "prompt_length": 1715,
+    "category": "2011 tariff policy"
+  }
+}

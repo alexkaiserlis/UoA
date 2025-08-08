@@ -1,0 +1,63 @@
+{
+  "concept_id": "2537",
+  "concept_data": {
+    "title": "organic pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Organic pollution refers to the introduction of harmful organic substances into the environment, significantly impacting ecosystems and human health. In the EU regulatory framework, substances such as hexachlorobutadiene, naphthalenes, and various persistent organic pollutants (POPs) like toxaphene and chlordecone are closely monitored. The EU's commitment to reducing the risks associated with these pollutants is evident in directives addressing hexabromobiphenyl and pentachlorobenzene, particularly concerning their use in incinerators and stockpiles. Legal measures also focus on the decontamination of sites affected by hexachlorocyclohexane and the management of perfluorooctane. The Aarhus Convention emphasizes public access to information regarding organic pollutants, ensuring transparency and accountability in environmental governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:23:12.765874",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 622,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 308,
+      "selected_avg_freq": 118.94666666666667
+    },
+    "related_words": [
+      "hexachlorobutadiene",
+      "naphthalenes",
+      "pcdds",
+      "pcdfs",
+      "pops",
+      "toxaphene",
+      "brominated",
+      "dibenzofurans",
+      "chlordecone",
+      "hexabromobiphenyl",
+      "pentachlorobenzene",
+      "imdg",
+      "octabromodiphenyl",
+      "pct",
+      "incinerators",
+      "pfos",
+      "sulfonic",
+      "hexachlorocyclohexane",
+      "pop",
+      "terphenyls",
+      "heptabromodiphenyl",
+      "tetrabromodiphenyl",
+      "hexabromodiphenyl",
+      "hexachlorocyclohexanes",
+      "hch",
+      "perfluorooctane",
+      "reprocessing",
+      "paraffins",
+      "lifespan",
+      "polybrominated"
+    ],
+    "prompt_length": 1805,
+    "category": "5216 deterioration of the environment"
+  }
+}

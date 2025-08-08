@@ -1,0 +1,63 @@
+{
+  "concept_id": "2549",
+  "concept_data": {
+    "title": "heat pump",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"heat pump\" refers to a system driven by electricity that transfers heat from one medium to another, such as air, water, or brine. These devices are crucial for eco-friendly heating solutions and are subject to stringent ecolabel criteria to ensure their ecological appropriateness. The EU has established a verification process to assess the performance and efficiency of heat pumps, which includes stages of evaluation and documentation. The validity of these systems is monitored through a revision process, ensuring compliance with current requirements. Heat pumps significantly contribute to the EU's sustainability goals by reducing reliance on gas and promoting renewable energy sources.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:56.587970",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 83,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 83,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1973.4578313253012
+    },
+    "related_words": [
+      "heaters",
+      "ecolabel",
+      "electrically",
+      "brine",
+      "pumps",
+      "eco",
+      "heating",
+      "driven",
+      "absorption",
+      "ecological",
+      "appropriateness",
+      "label",
+      "heat",
+      "prolong",
+      "prolonged",
+      "award",
+      "gas",
+      "evaluate",
+      "air",
+      "labelling",
+      "stages",
+      "expires",
+      "water",
+      "revision",
+      "board",
+      "verification",
+      "validity",
+      "central",
+      "sets",
+      "stage"
+    ],
+    "prompt_length": 1624,
+    "category": "6821 mechanical engineering"
+  }
+}

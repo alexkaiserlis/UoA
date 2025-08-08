@@ -1,0 +1,26 @@
+{
+  "concept_id": "1312",
+  "concept_data": {
+    "title": "personal income tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Personal income tax refers to the taxation imposed on the income earned by individuals, which is a critical component of national tax systems within EU member states. This tax is governed by both national legislation and EU regulations, ensuring compliance with broader economic policies and fiscal frameworks. The harmonization of personal income tax is essential for maintaining fair competition and preventing tax evasion across the single market. Member states retain the authority to set their own rates and exemptions, but they must adhere to EU principles, including non-discrimination and transparency, to foster economic cohesion and protect citizens' rights.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:34:29.579930",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1167,
+    "category": "2446 taxation"
+  }
+}

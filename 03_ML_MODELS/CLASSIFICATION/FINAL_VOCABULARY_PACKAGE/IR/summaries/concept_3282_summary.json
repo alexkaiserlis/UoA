@@ -1,0 +1,63 @@
+{
+  "concept_id": "3282",
+  "concept_data": {
+    "title": "neuroscience",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Neuroscience, a pivotal field within natural and applied sciences, encompasses the study of neurones and their interactions, particularly in relation to sensory and cognitive functions. In the context of EU legal and regulatory frameworks, neuroscience informs the development of medical apparatus and techniques, such as neurophore systems and electron spectrometers, which are crucial for measuring brain activity and chemical transmitters. Regulatory bodies may invoke neuroscience principles to assess the safety and efficacy of anaesthetic agents and other chemicals used in medical applications. Furthermore, educational initiatives may utilize neurophysiological findings to enhance cultural sensitivity and precision in health-related policies, ensuring that these innovations are suited for diverse populations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:09:14.500877",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 136,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 136,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1464.5882352941176
+    },
+    "related_words": [
+      "aptec",
+      "phyge",
+      "neurophore",
+      "neurones",
+      "putative",
+      "mediatively",
+      "synoptic",
+      "planar",
+      "anaesthetic",
+      "pps",
+      "transmitters",
+      "spectrometer",
+      "transmitter",
+      "electron",
+      "sensory",
+      "physics",
+      "detector",
+      "mini",
+      "brain",
+      "injection",
+      "activation",
+      "spectrum",
+      "induced",
+      "specially",
+      "reaction",
+      "sensitivity",
+      "frame",
+      "precision",
+      "chemicals",
+      "affirmative"
+    ],
+    "prompt_length": 1686,
+    "category": "3606 natural and applied sciences"
+  }
+}

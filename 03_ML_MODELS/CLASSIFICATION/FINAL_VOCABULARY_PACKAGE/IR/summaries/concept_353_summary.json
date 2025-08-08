@@ -1,0 +1,63 @@
+{
+  "concept_id": "353",
+  "concept_data": {
+    "title": "ECSC individual Decision",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"ECSC individual Decision\" refers to a regulatory measure established under the European Coal and Steel Community (ECSC) framework, aimed at addressing specific issues related to imports and exports of certain goods, particularly in the context of member countries. This decision is oriented towards protecting the interests of the European Union by regulating dumped imports from non-member countries, including Russia. It involves advisory roles from committees and the Commission, which consult on the implications of such decisions. The official articles of the decision are published in the Journal, establishing a legal basis for community actions and repealing outdated regulations to ensure compliance with the Treaty provisions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:42:27.502398",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 36,
+      "requested_words": 150,
+      "min_frequency_found": 136,
+      "max_frequency_found": 4108,
+      "selected_words": 36,
+      "selected_min_freq": 136,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2141.1388888888887
+    },
+    "related_words": [
+      "sheets",
+      "oriented",
+      "grain",
+      "electrical",
+      "russia",
+      "accepting",
+      "dumped",
+      "offered",
+      "ecsc",
+      "undertaking",
+      "advisory",
+      "connection",
+      "originating",
+      "basic",
+      "consulting",
+      "imports",
+      "members",
+      "repealing",
+      "protection",
+      "countries",
+      "articles",
+      "certain",
+      "communities",
+      "december",
+      "journal",
+      "official",
+      "regulation",
+      "committee",
+      "union",
+      "decision"
+    ],
+    "prompt_length": 1554,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3389",
+  "concept_data": {
+    "title": "repression",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"repression\" encompasses measures aimed at controlling crowds and gatherings, particularly in scenarios involving protests or potential hostilities. The EU regulates such actions under the aegis of public safety, often responding speedily to incidents of terrorism or attacks that may involve groups like Hezbollah or the IRGC. Repression can also relate to the interception of communications during tragic events, such as hostage situations or hijacking. The EU's approach includes brokering ceasefires and envisaging long-term solutions to mitigate violence, as seen in the Tampere and Prüm initiatives. Furthermore, the EU deplores actions by regimes like Lukashenka's, which employ repressive tactics against dissent.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:30.866252",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 482,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 532,
+      "selected_avg_freq": 208.78
+    },
+    "related_words": [
+      "nedal",
+      "alchaar",
+      "nidal",
+      "shaar",
+      "aiman",
+      "jaber",
+      "khaled",
+      "kaddour",
+      "hamcho",
+      "fpa",
+      "tragic",
+      "crowds",
+      "gatherings",
+      "hostage",
+      "hijacking",
+      "trainings",
+      "basij",
+      "ansar",
+      "hezbollah",
+      "mohamad",
+      "mohammad",
+      "irgc",
+      "mohammed",
+      "protesting",
+      "lukashenka",
+      "deploring",
+      "chiefs",
+      "oisin",
+      "brokering",
+      "revolutionary"
+    ],
+    "prompt_length": 1638,
+    "category": "0431 politics and public safety"
+  }
+}

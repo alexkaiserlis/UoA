@@ -1,0 +1,63 @@
+{
+  "concept_id": "53",
+  "concept_data": {
+    "title": "composition of parliament",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"composition of parliament\" refers to the structure and arrangement of elected representatives within the European Parliament, which is foundational to EU democracy. It is democratically organised to ensure that citizens are represented proportionally, with seats allocated based on population size and degressively multiplied for larger states. This composition is established through treaties and requires the consent of member governments. Adjustments may occur following elections, ensuring that the number of representatives corresponds to demographic changes, such as Croatia's recent integration. The parliamentary president plays a crucial role in overseeing this institutional framework, which is vital for enacting legislation and maintaining accountability to the electorate.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:19.892119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1751.854700854701
+    },
+    "related_words": [
+      "degressively",
+      "democratically",
+      "enact",
+      "accountable",
+      "organising",
+      "elected",
+      "parliamentary",
+      "elections",
+      "democracy",
+      "signatories",
+      "begins",
+      "proportional",
+      "multiplied",
+      "seats",
+      "institutional",
+      "founded",
+      "wider",
+      "representation",
+      "president",
+      "plus",
+      "citizens",
+      "quarter",
+      "consent",
+      "treaties",
+      "croatia",
+      "numbers",
+      "composition",
+      "represented",
+      "delegated",
+      "parliaments"
+    ],
+    "prompt_length": 1712,
+    "category": "0421 parliament"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "2940",
+  "concept_data": {
+    "title": "action for annulment",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"action for annulment\" is a legal remedy available under EU law, allowing individuals and Member States to challenge the validity of acts adopted by EU institutions. This action is governed by Article 263 of the Treaty on the Functioning of the European Union (TFEU). It serves to ensure that EU legislation complies with fundamental rights and principles, thereby safeguarding the rule of law within the Union. The action can be initiated on grounds such as lack of competence, infringement of essential procedural requirements, or violation of the Treaties. Ultimately, it aims to uphold judicial oversight over EU regulatory actions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:33:40.716812",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1167,
+    "category": "1221 justice"
+  }
+}

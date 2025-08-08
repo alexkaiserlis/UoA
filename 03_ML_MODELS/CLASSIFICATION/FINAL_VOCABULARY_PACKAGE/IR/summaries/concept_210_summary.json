@@ -1,0 +1,63 @@
+{
+  "concept_id": "210",
+  "concept_data": {
+    "title": "European cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "European cooperation, as established within EU legal frameworks, proclaims a commitment to harmonising policies across member states. This cooperation often specializes in areas such as accessibility for disabled individuals, ensuring that housing, education, and rehabilitation services are tangible and equitable. The EU's decision-making processes, often ordinated through conferences in Strasbourg, bolster efforts to address the needs of handicapped and disabled populations. By investigating linguistic and cultural diversity, the EU affirms its dedication to inclusivity. Moreover, the EUTM (European Union Training Mission) exemplifies cooperative strategies that support youth and societal integration, constantly enhancing the inventory of best practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:59.725660",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 580,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 529,
+      "selected_avg_freq": 249.05333333333334
+    },
+    "related_words": [
+      "proclaims",
+      "specialize",
+      "helios",
+      "etablished",
+      "decison",
+      "oft",
+      "conserved",
+      "ordinate",
+      "ordinated",
+      "drafts",
+      "eutm",
+      "ergonomics",
+      "socrates",
+      "ordinating",
+      "affirm",
+      "eumc",
+      "bolstered",
+      "basing",
+      "disability",
+      "somali",
+      "affords",
+      "manning",
+      "disabilities",
+      "handicapped",
+      "disabled",
+      "commander",
+      "strasbourg",
+      "teaching",
+      "everything",
+      "prosecution"
+    ],
+    "prompt_length": 1708,
+    "category": "0811 cooperation policy"
+  }
+}

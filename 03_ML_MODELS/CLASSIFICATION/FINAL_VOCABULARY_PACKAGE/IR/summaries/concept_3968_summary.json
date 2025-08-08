@@ -1,0 +1,63 @@
+{
+  "concept_id": "3968",
+  "concept_data": {
+    "title": "schooling",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"schooling\" within EU legal and regulatory frameworks encompasses various actions and programmes designed to facilitate the education of children, particularly those from migrant backgrounds. It prioritizes the integration of these children into the host country's educational system, ensuring they receive suitable tuition in their mother tongue and other languages. The EU promotes educational actions that improve the social environment for children, enabling their reintegration and cultural integration. Directives related to schooling outline conditions for access and support, aiming to enhance freedom of movement for workers and their families, thereby fostering an inclusive educational landscape across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:05.321250",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 72,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 72,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1933.5416666666667
+    },
+    "related_words": [
+      "tuition",
+      "tongue",
+      "mother",
+      "migrant",
+      "teaching",
+      "school",
+      "reception",
+      "reintegration",
+      "culture",
+      "educational",
+      "children",
+      "host",
+      "principally",
+      "education",
+      "language",
+      "facilitating",
+      "workers",
+      "freedom",
+      "integration",
+      "priority",
+      "receive",
+      "suitable",
+      "promote",
+      "actions",
+      "resolution",
+      "permit",
+      "movement",
+      "environment",
+      "designed",
+      "origin"
+    ],
+    "prompt_length": 1658,
+    "category": "3206 education"
+  }
+}

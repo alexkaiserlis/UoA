@@ -1,0 +1,63 @@
+{
+  "concept_id": "4686",
+  "concept_data": {
+    "title": "veal",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"veal\" refers to the meat derived from calves, specifically those younger than eight months. The production and management of veal are subject to rigid regulations to ensure authenticity and quality, including the proper administration of stables and the humane treatment of animals. The EU monitors the tonnage of veal entering the market, with specific guidelines for chilled and frozen carcasses. Countries like Serbia, Montenegro, and Kosovo are involved in the trade, with quarterly assessments of their contributions. Compliance with these regulations is crucial to avoid deterioration in quality and maintain optimum standards, regardless of the origin.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:16.269187",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 333,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1215,
+      "selected_avg_freq": 634.5333333333333
+    },
+    "related_words": [
+      "stables",
+      "heavier",
+      "administrated",
+      "productions",
+      "rigid",
+      "buffalo",
+      "baby",
+      "absorb",
+      "carcasses",
+      "exactly",
+      "kosovo",
+      "awaiting",
+      "carcase",
+      "calves",
+      "depreciation",
+      "attesting",
+      "authenticity",
+      "hereby",
+      "tonnage",
+      "montenegro",
+      "chilled",
+      "subheadings",
+      "serbia",
+      "freezing",
+      "spring",
+      "foot",
+      "stabilisation",
+      "quarterly",
+      "macedonia",
+      "bosnia"
+    ],
+    "prompt_length": 1651,
+    "category": "6011 animal product"
+  }
+}

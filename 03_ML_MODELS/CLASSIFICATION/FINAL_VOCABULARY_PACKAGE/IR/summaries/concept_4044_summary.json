@@ -1,0 +1,63 @@
+{
+  "concept_id": "4044",
+  "concept_data": {
+    "title": "member of the Commission",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Commissioner",
+    "relation_type": "USE"
+  },
+  "summary": "A \"member of the Commission,\" commonly referred to as a \"European Commissioner,\" is a key figure within the European Union's institutional framework. Each Commissioner is nominated by member states and must undergo a solemn approval process, ensuring they behave unambiguously in their roles. Historically, figures such as Jacques Santer and Romano Prodi have shaped the Commission's direction. The responsibilities include advocating for the interests of the EU, addressing issues like the unemployed and orphans, and managing regulatory frameworks. The role also involves engaging with lobbyists and various stakeholders, ensuring a sincere approach to governance. Vacancies can arise due to resigning Commissioners, necessitating a careful referral process for nominees. The Commission operates under the guidance of its President, currently Jean-Claude Juncker, and is supported by cabinets that facilitate its functions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:03:56.881412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 560,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 339,
+      "selected_avg_freq": 111.16666666666667
+    },
+    "related_words": [
+      "establishng",
+      "santer",
+      "emma",
+      "bonino",
+      "paavo",
+      "lipponen",
+      "prodi",
+      "mogherini",
+      "personemployed",
+      "theunemployed",
+      "nominee",
+      "federica",
+      "juncker",
+      "durão",
+      "orphans",
+      "steuerberatungsgesellschaft",
+      "schrรถder",
+      "telefonica",
+      "revizija",
+      "lobbyists",
+      "tha",
+      "churches",
+      "philosophical",
+      "confessional",
+      "resigning",
+      "behave",
+      "deloitte",
+      "wirtschaftsprüfungsgesellschaft",
+      "gerhard",
+      "slovenije"
+    ],
+    "prompt_length": 1784,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

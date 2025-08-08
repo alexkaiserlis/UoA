@@ -1,0 +1,63 @@
+{
+  "concept_id": "394",
+  "concept_data": {
+    "title": "budgetary expenditure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Budgetary expenditure\" refers to the allocation of financial resources within the EU's fiscal framework, crucial for maintaining economic stability and sustainability. It encompasses various items, including funds for the Common Security and Defence Policy (CSDP) and the Special Accession Programme for Agriculture and Rural Development (SAPARD). As Eurostat data validates, prudent management of these expenditures is essential to avoid deficits that could impede growth. The agenda for budgetary planning must consider projected GDP trends and the potential for downturns, ensuring that expenditures are conducive to long-term fiscal health. This requires a comprehensive understanding of the underlying assumptions and the veracity of financial projections, particularly in regions like the Sahel and Niger, where conditions may be unusual. As the EU approaches its budgetary deadlines, a clear strategy is needed to address any diminishing resources while promoting upward trends in economic performance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:42:24.825874",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 140,
+    "vocabulary_stats": {
+      "total_related_words": 384,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 839,
+      "selected_avg_freq": 426.36
+    },
+    "related_words": [
+      "mafas",
+      "slowed",
+      "sahel",
+      "eucap",
+      "underpinnings",
+      "csdp",
+      "sapard",
+      "contraction",
+      "niger",
+      "edp",
+      "headline",
+      "approaching",
+      "veracity",
+      "diminishing",
+      "horizon",
+      "upwards",
+      "worth",
+      "deficits",
+      "customary",
+      "shorten",
+      "cleared",
+      "pace",
+      "upward",
+      "unusual",
+      "downturn",
+      "speeding",
+      "completeness",
+      "stood",
+      "pact",
+      "conducive"
+    ],
+    "prompt_length": 1639,
+    "category": "2441 budget"
+  }
+}

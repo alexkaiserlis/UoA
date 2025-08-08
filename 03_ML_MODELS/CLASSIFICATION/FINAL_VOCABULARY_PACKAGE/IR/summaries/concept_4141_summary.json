@@ -1,0 +1,63 @@
+{
+  "concept_id": "4141",
+  "concept_data": {
+    "title": "used paper",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "domestic waste",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"used paper,\" categorized under \"deterioration of the environment,\" is redirected to the preferred term \"domestic waste\" within EU legal frameworks. This classification encompasses various waste streams, including household refuse and municipal waste, which are critical in strategies for recycling and reuse. The treatment of used paper involves methods such as composted processes and incineration, which must adhere to strict precautions to mitigate harmful pollutants like dioxins and furans. Effective management helps in attaining lower concentrations of atmospheric gases and reduces the environmental stress caused by waste. Regulatory measures also address transboundary waste transport, ensuring compliance with environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:13.071535",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 400,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 900,
+      "selected_avg_freq": 429.28
+    },
+    "related_words": [
+      "mehtods",
+      "wast",
+      "obtaines",
+      "composted",
+      "demolition",
+      "sludge",
+      "streams",
+      "furans",
+      "harming",
+      "sewage",
+      "municipal",
+      "lpg",
+      "stationary",
+      "precautions",
+      "fermented",
+      "materially",
+      "treating",
+      "powered",
+      "dioxins",
+      "endangering",
+      "incineration",
+      "recycled",
+      "reuse",
+      "atmospheric",
+      "combustion",
+      "advisability",
+      "clean",
+      "measurements",
+      "transboundary",
+      "copper"
+    ],
+    "prompt_length": 1721,
+    "category": "5216 deterioration of the environment"
+  }
+}

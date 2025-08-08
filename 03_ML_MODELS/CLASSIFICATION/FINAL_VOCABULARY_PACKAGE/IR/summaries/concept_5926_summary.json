@@ -1,0 +1,63 @@
+{
+  "concept_id": "5926",
+  "concept_data": {
+    "title": "rate of funding",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "financing level",
+    "relation_type": "USE"
+  },
+  "summary": "The \"rate of funding,\" redirected to the preferred term \"financing level,\" refers to the financial support allocated to various EU programs and initiatives, such as those under the Common Foreign and Security Policy (CFP) and the Instrument for Pre-accession Assistance (IPA). This financing level is crucial for interregional cooperation, enhancing youth participation, and addressing challenges like containment of pests such as bursaphelenchus xylophilus. The rationale behind these funding rates includes fostering stability in regions like Afghanistan and Iraq, while ensuring effective management of resources. Programs often incur costs related to articulated projects, necessitating a breakdown of funding levels to ensure transparency and accountability in EU financial regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:05.947734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 832,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 350,
+      "selected_avg_freq": 164.78
+    },
+    "related_words": [
+      "vygaudas",
+      "usackas",
+      "felling",
+      "eujust",
+      "ers",
+      "bills",
+      "patrol",
+      "lex",
+      "vms",
+      "copps",
+      "pinewood",
+      "interregional",
+      "steiner",
+      "buhrer",
+      "nickle",
+      "eulex",
+      "eni",
+      "sanco",
+      "pwn",
+      "ais",
+      "localisation",
+      "nematode",
+      "articulated",
+      "coniferous",
+      "dividends",
+      "bursaphelenchus",
+      "xylophilus",
+      "cfp",
+      "ipa",
+      "breakdowns"
+    ],
+    "prompt_length": 1663,
+    "category": "1021 EU finance"
+  }
+}

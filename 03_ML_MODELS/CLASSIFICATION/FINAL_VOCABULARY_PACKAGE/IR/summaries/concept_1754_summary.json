@@ -1,0 +1,63 @@
+{
+  "concept_id": "1754",
+  "concept_data": {
+    "title": "illness",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"illness\" encompasses a range of pathological conditions, including both malignant disorders like angiosarcoma and chronic conditions such as scleroderma. Regulatory frameworks aim to optimise health outcomes by addressing episodes of illness, particularly during pandemics like H1N1, where public health responses are critical. Researches into pharmacological interventions often focus on reversible conditions, while participatory health strategies aim to avert complications associated with obstructive sleep apnoea. The EU's commitment to health includes monitoring epidemics and ensuring that compositions of treatments are safe and effective. Additionally, the role of organisations like ECDC and Eufmd is vital in managing health crises and enhancing public health preparedness.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:14.532207",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 767,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 238,
+      "selected_avg_freq": 95.29333333333334
+    },
+    "related_words": [
+      "acro",
+      "osteolysis",
+      "scleroderma",
+      "angiosarcoma",
+      "averting",
+      "apnoea",
+      "finnigan",
+      "incos",
+      "haemoglobin",
+      "donate",
+      "flu",
+      "episode",
+      "polyvalent",
+      "reversible",
+      "researches",
+      "pandemic",
+      "sleep",
+      "arachidonic",
+      "malignant",
+      "prostaglandins",
+      "participatory",
+      "lessened",
+      "pathological",
+      "topotypes",
+      "mul",
+      "transcaucasia",
+      "h1n1",
+      "experimentation",
+      "endemically",
+      "disorders"
+    ],
+    "prompt_length": 1691,
+    "category": "2841 health"
+  }
+}

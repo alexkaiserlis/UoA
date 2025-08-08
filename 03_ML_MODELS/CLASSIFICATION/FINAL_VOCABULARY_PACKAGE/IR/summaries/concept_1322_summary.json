@@ -1,0 +1,63 @@
+{
+  "concept_id": "1322",
+  "concept_data": {
+    "title": "wealth tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Wealth tax, as a category of taxation within EU legal frameworks, refers to a mandatory levy imposed on an individual's net wealth, encompassing both income and capital. This tax operates under specific regulations that require compliance with existing laws and directives. The implementation of wealth tax necessitates detailed administrative procedures, including notifications and formats for reporting. Member States may adopt varying approaches, laying down rules that govern the functioning of this tax. Amendments to existing legislation may occur, reflecting spontaneous feedback from stakeholders. Cooperation among jurisdictions is essential to ensure a standardized approach regarding wealth tax, thus enhancing its effectiveness in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:31:25.511042",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 73,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 73,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2243.054794520548
+    },
+    "related_words": [
+      "spontaneous",
+      "feedback",
+      "formats",
+      "computerised",
+      "taxation",
+      "format",
+      "mandatory",
+      "automatic",
+      "notifications",
+      "income",
+      "capital",
+      "takes",
+      "forms",
+      "categories",
+      "laws",
+      "annexes",
+      "standard",
+      "using",
+      "line",
+      "exchange",
+      "amendments",
+      "comply",
+      "repealing",
+      "requires",
+      "administrative",
+      "field",
+      "entry",
+      "regarding",
+      "place",
+      "regulations"
+    ],
+    "prompt_length": 1653,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4059",
+  "concept_data": {
+    "title": "rye",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"rye\" (Secale cereale) is classified under the EU's regulatory framework as a plant product, specifically within the category of 6006. Rye encompasses various applications, including bakery products and bioethanol production. Its germination process is crucial for ensuring sterility and quality, particularly in breadmaking where stabilizers and phytosterols, such as phytostanols, are often utilized. The presence of Claviceps purpurea, a fungus affecting rye, raises concerns regarding food safety and regulatory compliance. Additionally, rye's role in the production of groats and pellets highlights its versatility. The EU regulations also address issues related to reimportation and anonymity in reselling practices, ensuring that standards are maintained throughout the supply chain.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:30:09.246350",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1187,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 182,
+      "selected_avg_freq": 89.06666666666666
+    },
+    "related_words": [
+      "claviceps",
+      "cytoplasmic",
+      "sterility",
+      "cytoplasm",
+      "fazer",
+      "raft",
+      "clipped",
+      "pharmaconsult",
+      "multibene",
+      "suffices",
+      "purpurea",
+      "cereale",
+      "cms",
+      "blank",
+      "minneapolis",
+      "lapses",
+      "secale",
+      "oat",
+      "vercelli",
+      "stanols",
+      "sterol",
+      "oldest",
+      "karl",
+      "reselling",
+      "carotene",
+      "lightly",
+      "phytosterol",
+      "encompasses",
+      "buoyant",
+      "phytostanols"
+    ],
+    "prompt_length": 1661,
+    "category": "6006 plant product"
+  }
+}

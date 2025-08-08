@@ -1,0 +1,63 @@
+{
+  "concept_id": "1301",
+  "concept_data": {
+    "title": "registration of a company",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"registration of a company\" is a critical process within EU legal frameworks, establishing the formal governance structures necessary for business enterprises. This process involves the transmission of essential data to registers maintained by national competent bodies (NCBs) and is governed by harmonised statutes. Companies, including multinational groups, must adhere to specific formats and confidentiality requirements to ensure the security of transmitted information. The registration contributes to statistical collections managed by Eurostat and the European Central Bank (ECB), facilitating the exchange of economic data. By participating in this process, businesses contribute to the quality and reliability of economic statistics, thereby supporting effective governance and policy-making in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:46:36.978739",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 99,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 99,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1912.7373737373737
+    },
+    "related_words": [
+      "ess",
+      "ncbs",
+      "multinational",
+      "escb",
+      "registers",
+      "institutes",
+      "confidential",
+      "enterprise",
+      "governance",
+      "ecb",
+      "eurostat",
+      "confidentiality",
+      "format",
+      "statute",
+      "banks",
+      "currency",
+      "exclusively",
+      "transmitted",
+      "euro",
+      "participate",
+      "statistics",
+      "harmonised",
+      "receive",
+      "structures",
+      "separate",
+      "business",
+      "collection",
+      "office",
+      "bank",
+      "define"
+    ],
+    "prompt_length": 1707,
+    "category": "4006 business organisation"
+  }
+}

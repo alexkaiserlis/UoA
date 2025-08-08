@@ -1,0 +1,63 @@
+{
+  "concept_id": "2258",
+  "concept_data": {
+    "title": "political party",
+    "category_code": "0411",
+    "category_name": "political party",
+    "category_full": "0411 political party",
+    "is_redirect": true,
+    "preferred_term": "political parties",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"political parties\" are essential entities formed to represent citizens' interests and agendas in democratic processes. They are guided by charters that establish their foundational principles and operational frameworks. Political parties participate in elections, forming alliances to enhance their capabilities and influence. Their funding is often derived from public budgets, which are subject to judicial oversight, ensuring transparency and accountability. The impacts of political parties on governance are significant, as they play a role in shaping policies and distributing resources. By identifying challenges and opportunities, parties can adapt to shifting political landscapes, thereby revealing their strategic priorities and enhancing citizen engagement.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:42:10.600802",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1738,
+      "selected_avg_freq": 893.7733333333333
+    },
+    "related_words": [
+      "agendas",
+      "shifting",
+      "alliance",
+      "predict",
+      "guided",
+      "elected",
+      "distributing",
+      "precedent",
+      "capabilities",
+      "nice",
+      "elections",
+      "impacts",
+      "budgets",
+      "funded",
+      "incentives",
+      "reveal",
+      "rely",
+      "challenges",
+      "expressing",
+      "afforded",
+      "formed",
+      "observe",
+      "gathered",
+      "auditors",
+      "awareness",
+      "founded",
+      "generated",
+      "judicial",
+      "forming",
+      "indirectly"
+    ],
+    "prompt_length": 1705,
+    "category": "0411 political party"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1405",
+  "concept_data": {
+    "title": "information technology industry",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"information technology industry\" encompasses a broad spectrum of sectors involved in the development and processing of microcircuits, including programmable memories such as DRAMs, SRAMs, and flash technologies. In the EU regulatory framework, this industry is subject to scrutiny during economic downturns, where the performance of companies like Fujitsu, NEC, and Toshiba may be overtaken by emerging competitors. Legal practitioners must navigate complex regulations regarding the use of EPROMs and CMOS technologies, ensuring compliance while addressing burdens such as reimposition of tariffs. The industry's evolution, marked by synchronous and asynchronous designs, inherently impacts data processing standards and practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:27:31.217290",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 722,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 276,
+      "selected_avg_freq": 103.44666666666667
+    },
+    "related_words": [
+      "downturns",
+      "outstripping",
+      "eproms",
+      "erasable",
+      "otps",
+      "eprom",
+      "fujitsu",
+      "eeca",
+      "cmos",
+      "bicmos",
+      "vrams",
+      "srams",
+      "mdrams",
+      "multibank",
+      "rambus",
+      "nec",
+      "microcircuit",
+      "practitioner",
+      "dram",
+      "wafer",
+      "dice",
+      "recurs",
+      "reinstatement",
+      "newest",
+      "toshiba",
+      "pseudo",
+      "synchronous",
+      "flash",
+      "overtaken",
+      "reimposition"
+    ],
+    "prompt_length": 1680,
+    "category": "3236 information technology and data processing"
+  }
+}

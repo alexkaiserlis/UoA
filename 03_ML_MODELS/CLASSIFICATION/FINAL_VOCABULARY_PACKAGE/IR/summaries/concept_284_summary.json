@@ -1,0 +1,63 @@
+{
+  "concept_id": "284",
+  "concept_data": {
+    "title": "promotion of employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "job creation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"promotion of employment,\" redirected to \"job creation,\" is pivotal in EU legal and regulatory frameworks aimed at addressing unemployment and underemployment. It encompasses initiatives designed to enhance workforce adaptability and respond to cyclical economic pressures. The EU emphasizes the importance of lifelong learning and skills training to ensure that the workforce is equipped to meet the demands of a modernizing economy. This includes addressing misalignments in job placement and ensuring that youth and migrants are not handicapped by unwarranted barriers. The EU's commitment to smart job creation is reflected in its policies that aim to reduce poverty and enhance mobility, thereby fostering a conducive environment for economic growth and social cohesion. Adherence to these principles is essential for achieving adequate employment levels and addressing divergences in GDP across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:45:27.702780",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 491,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 636,
+      "selected_avg_freq": 297.67333333333335
+    },
+    "related_words": [
+      "misalignments",
+      "slippage",
+      "fundamentals",
+      "regroup",
+      "placement",
+      "responsive",
+      "trainers",
+      "adaptable",
+      "adherence",
+      "judging",
+      "handicapped",
+      "deem",
+      "emu",
+      "migrants",
+      "tertiary",
+      "moves",
+      "modernizing",
+      "lifelong",
+      "skilled",
+      "headline",
+      "underemployment",
+      "divergences",
+      "joining",
+      "unemployed",
+      "divergence",
+      "youth",
+      "unwarranted",
+      "adhere",
+      "path",
+      "pressures"
+    ],
+    "prompt_length": 1709,
+    "category": "4406 employment"
+  }
+}

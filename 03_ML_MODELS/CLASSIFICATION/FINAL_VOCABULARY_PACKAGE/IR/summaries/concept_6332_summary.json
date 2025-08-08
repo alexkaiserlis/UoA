@@ -1,0 +1,63 @@
+{
+  "concept_id": "6332",
+  "concept_data": {
+    "title": "unit of account",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "European currency",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"unit of account\" in EU legal and regulatory contexts is synonymous with \"European currency,\" specifically the euro. This concept is indispensable for maintaining monetary stability and is governed by the Treaty on the Functioning of the European Union (TFEU). The euro serves as a tool for economic integration, allowing member states to undertake conditionality measures during crises. The European Central Bank plays a central role in safeguarding the currency's stability, while heads of state consult on revisions to treaties that affect monetary policy. Unanimity among member states is often required for significant changes, ensuring that all concerns are addressed. The mechanism allows for the preservation of economic competences and facilitates ongoing consultations to enhance the euro's effectiveness.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:54:34.142670",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 118,
+      "requested_words": 150,
+      "min_frequency_found": 32,
+      "max_frequency_found": 4108,
+      "selected_words": 118,
+      "selected_min_freq": 32,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1691.949152542373
+    },
+    "related_words": [
+      "conditionality",
+      "unanimity",
+      "activated",
+      "revising",
+      "teu",
+      "constitutional",
+      "experienced",
+      "competences",
+      "heads",
+      "tool",
+      "preserve",
+      "consult",
+      "indispensable",
+      "stating",
+      "dealing",
+      "president",
+      "tfeu",
+      "belgian",
+      "conditional",
+      "adding",
+      "paragraphs",
+      "treaties",
+      "strict",
+      "hence",
+      "currency",
+      "obtaining",
+      "undertake",
+      "safeguard",
+      "opinions",
+      "crisis"
+    ],
+    "prompt_length": 1713,
+    "category": "2406 monetary relations"
+  }
+}

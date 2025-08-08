@@ -1,0 +1,63 @@
+{
+  "concept_id": "2386",
+  "concept_data": {
+    "title": "investment transaction",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"investment transaction\" within the EU legal framework pertains to the free movement of capital, crucial for the attainment of a unified financial market. This concept encompasses various instruments, notably those under the UCITS directive, which facilitates the collective investment of transferable securities. Regulatory acts aim at aligning definitions and clarifying responsibilities of banks and other entities entrusted with administering these transactions. The gradual convergence of policies ensures smooth settlement processes and effective utilization of reserves. Initially framed in Brussels, the regulatory scrutiny of these transactions is vital for maintaining monetary stability and fostering an environment conducive to investment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:30.517947",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 178,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1568.26
+    },
+    "related_words": [
+      "framing",
+      "ucits",
+      "aligning",
+      "merged",
+      "terminology",
+      "transferable",
+      "clarifying",
+      "transposed",
+      "deleting",
+      "begin",
+      "administering",
+      "collective",
+      "holders",
+      "meantime",
+      "convergence",
+      "reserves",
+      "settlement",
+      "banks",
+      "entrusted",
+      "utilization",
+      "scrutiny",
+      "securities",
+      "attainment",
+      "gradual",
+      "initially",
+      "definitions",
+      "acquired",
+      "pursued",
+      "empowered",
+      "brussels"
+    ],
+    "prompt_length": 1710,
+    "category": "2421 free movement of capital"
+  }
+}

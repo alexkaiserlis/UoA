@@ -1,0 +1,63 @@
+{
+  "concept_id": "2430",
+  "concept_data": {
+    "title": "tyre",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "pneumatic tyre",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tyre,\" specifically referring to the \"pneumatic tyre,\" is critical in EU legal and regulatory frameworks concerning road safety and environmental protection. Pneumatic tyres, essential for motorists, feature sophisticated treads designed for superior grip on various surfaces, including wet conditions. Regulatory documents often address the ecotoxicity of materials used in tyre production, such as polycyclic aromatic hydrocarbons (PAHs) and mutagens, to ensure public safety. The EU prescribes standards for retreaded tyres and their fitting on vehicles, including trucks and motorcycles. Compliance with metrological gauges and the use of interchangeable tubes are vital for maintaining performance and safety standards, thereby reducing potential carcinogens in the environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:49.596856",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 593,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 490,
+      "selected_avg_freq": 209.81333333333333
+    },
+    "related_words": [
+      "treads",
+      "motorists",
+      "tread",
+      "extender",
+      "bap",
+      "grip",
+      "commom",
+      "flaps",
+      "retreaded",
+      "motorcycle",
+      "pneumatic",
+      "gauges",
+      "pahs",
+      "tyre",
+      "mutagens",
+      "pyrene",
+      "cstee",
+      "benzo",
+      "pah",
+      "inner",
+      "disagreement",
+      "metrological",
+      "truck",
+      "wheels",
+      "sophisticated",
+      "matrix",
+      "ecc",
+      "polycyclic",
+      "carcinogens",
+      "prescriptions"
+    ],
+    "prompt_length": 1645,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "612",
+  "concept_data": {
+    "title": "wastewater",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"wastewater\" pertains to the management of discharges from urban agglomerations and industrial factories, which can significantly impact the environment. Effective sanitation practices are crucial to prevent eutrophication in estuaries and coastal areas, such as the beaches of Algarve and the Tagus estuary. Regulations aim to ensure that wastewater treatment processes maximize oxygen levels and minimize bacteriological and microbiological contamination. Structured approaches to recycling and the streamlined management of solids and swill are essential for maintaining water quality. Predictable hydrodynamic currents and tides must be considered to ensure proper dilution and dispersion of treated effluents, safeguarding aquatic ecosystems and public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:55:59.612608",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 396,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 346.22
+    },
+    "related_words": [
+      "estoril",
+      "beaches",
+      "carcavelos",
+      "parede",
+      "rainha",
+      "cresmina",
+      "tamariz",
+      "torre",
+      "hydrodynamic",
+      "agglomeration",
+      "tagus",
+      "swill",
+      "trophic",
+      "currents",
+      "tides",
+      "agglomerations",
+      "estuary",
+      "algarve",
+      "bathing",
+      "sanitation",
+      "eutrophication",
+      "supermarkets",
+      "benthic",
+      "streamlined",
+      "pedro",
+      "bacteriological",
+      "solids",
+      "dilution",
+      "disseminate",
+      "catering"
+    ],
+    "prompt_length": 1712,
+    "category": "5216 deterioration of the environment"
+  }
+}

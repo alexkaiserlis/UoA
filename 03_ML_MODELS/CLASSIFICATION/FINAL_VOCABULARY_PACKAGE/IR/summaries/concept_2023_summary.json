@@ -1,0 +1,63 @@
+{
+  "concept_id": "2023",
+  "concept_data": {
+    "title": "music",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"music\" within EU legal and regulatory frameworks encompasses a diverse array of genres, including jazz and classical, and involves various stakeholders such as composers, lyricists, and arrangers. Music is often subject to copyright laws, with organizations like IMRO and GESAC advocating for the rights of authors and performers. The regulation of music also addresses issues related to the distribution of copyrighted works, ensuring that revenues are recouped and that rights are unwaivable and unencumbered. Additionally, the cultural significance of music is highlighted in events like the Prix and the Fenice, which celebrate artistic passion. The EU's legal landscape aims to rebalance interests between creators and listeners, while addressing disincentives that may curtail artistic expression.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:02:44.688312",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 1059,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 61,
+      "selected_avg_freq": 23.52
+    },
+    "related_words": [
+      "motogp",
+      "prix",
+      "riders",
+      "basketball",
+      "internazionali",
+      "tennis",
+      "italians",
+      "passion",
+      "cycling",
+      "fenice",
+      "imro",
+      "sociétés",
+      "auteurs",
+      "compositeurs",
+      "gesac",
+      "copyrighted",
+      "retransmitted",
+      "frequented",
+      "homestyle",
+      "composers",
+      "arrangers",
+      "lyricists",
+      "curtails",
+      "disincentive",
+      "dramatical",
+      "lobbies",
+      "resisted",
+      "senate",
+      "blurred",
+      "borderline"
+    ],
+    "prompt_length": 1698,
+    "category": "2831 culture and religion"
+  }
+}

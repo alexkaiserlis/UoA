@@ -1,0 +1,63 @@
+{
+  "concept_id": "8478",
+  "concept_data": {
+    "title": "Political and Security Committee",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Political and Security Committee (PSC) plays a crucial role in the European Union's Common Foreign and Security Policy (CFSP). It serves as a forum for discussing strategic issues and guiding the EU's civilian missions and operations, such as EUPOL, which focuses on police contributions in crisis territories. The PSC is responsible for the establishment of modalities for joint operations and exercises, ensuring that contributions are aligned with approved principles. It facilitates consultations among member states, providing direction and management for actions addressing key political and security problems. The PSC's conclusions are essential for the EU's overall security framework and its response to emerging crises.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:52:22.549316",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 70,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 70,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1569.5142857142857
+    },
+    "related_words": [
+      "copps",
+      "göteborg",
+      "eupol",
+      "discussing",
+      "guiding",
+      "psc",
+      "palestinian",
+      "contributors",
+      "civilian",
+      "exercises",
+      "police",
+      "modalities",
+      "missions",
+      "forum",
+      "direction",
+      "strategic",
+      "play",
+      "mission",
+      "cfsp",
+      "contributions",
+      "key",
+      "views",
+      "crisis",
+      "political",
+      "consultations",
+      "entitled",
+      "role",
+      "territories",
+      "participation",
+      "developed"
+    ],
+    "prompt_length": 1696,
+    "category": "1016 European construction"
+  }
+}

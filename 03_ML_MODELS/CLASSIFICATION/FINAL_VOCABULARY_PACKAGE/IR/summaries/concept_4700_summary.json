@@ -1,0 +1,63 @@
+{
+  "concept_id": "4700",
+  "concept_data": {
+    "title": "integration into employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"integration into employment\" within EU legal and regulatory frameworks emphasizes the importance of engaging disadvantaged groups, including ethnic minorities and individuals with disabilities, in the workforce. Programs such as Eurotecnet, BRITE, and SPRINT highlight the need for adaptability and lifelong learning, focusing on attracting and upgrading skills among unemployed individuals. The European Social Fund (ESF) plays a crucial role in investing in initiatives that support racial and gender equality, ensuring that all orientations and beliefs are respected. Taskforces and platforms are established to stress the usefulness of managerial excellence in fostering an inclusive environment, thereby enhancing the overall effectiveness of the workforce.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:40.160770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 338,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 822,
+      "selected_avg_freq": 352.99333333333334
+    },
+    "related_words": [
+      "forceful",
+      "eurotecnet",
+      "brite",
+      "euram",
+      "sprint",
+      "esprit",
+      "taskforce",
+      "ethnic",
+      "comett",
+      "religion",
+      "minorities",
+      "racial",
+      "delta",
+      "managerial",
+      "disability",
+      "sexual",
+      "belief",
+      "universities",
+      "adaptability",
+      "lifelong",
+      "convincing",
+      "sex",
+      "highlights",
+      "excellence",
+      "investing",
+      "unemployed",
+      "peer",
+      "engaging",
+      "attracting",
+      "stressing"
+    ],
+    "prompt_length": 1677,
+    "category": "4406 employment"
+  }
+}

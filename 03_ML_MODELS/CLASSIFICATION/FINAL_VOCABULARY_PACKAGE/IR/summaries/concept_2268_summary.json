@@ -1,0 +1,26 @@
+{
+  "concept_id": "2268",
+  "concept_data": {
+    "title": "voters",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "turnout of voters",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"voters\" within the EU legal and regulatory framework primarily refers to the \"turnout of voters\" during electoral procedures. This term encapsulates the participation rate of eligible citizens in elections, which is crucial for ensuring democratic legitimacy and accountability. High turnout is often indicative of public engagement in the electoral process, while low turnout may raise concerns about the efficacy of electoral systems. The EU emphasizes the importance of voter turnout in various directives and regulations aimed at enhancing electoral integrity and promoting civic participation across member states. As such, understanding voter turnout is essential for evaluating the health of democratic processes in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:21:52.298156",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1213,
+    "category": "0416 electoral procedure and voting"
+  }
+}

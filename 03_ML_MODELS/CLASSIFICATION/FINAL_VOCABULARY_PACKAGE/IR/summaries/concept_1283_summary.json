@@ -1,0 +1,63 @@
+{
+  "concept_id": "1283",
+  "concept_data": {
+    "title": "European road transport agreement",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "AETR agreement",
+    "relation_type": "USE"
+  },
+  "summary": "The \"AETR agreement,\" or European road transport agreement, is a pivotal legal framework governing the carriage of goods by road across Europe. It necessitates the uniform application of regulations concerning tachograph recordings, ensuring that driver crews adhere to prescribed working hours and rest periods. The agreement enhances road safety by mandating the insertion of attestation and manual records, which are crucial for checking compliance at roadside inspections. Ratification of the AETR by member states demonstrates a concerted effort to harmonize transport regulations, thereby facilitating transit across frontiers. This agreement is technically significant, as it warrants the creation of a cohesive legal zone for road transport, fostering cooperation and respect for regulatory supremacy among nations.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:29:31.190366",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 220,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2216,
+      "selected_avg_freq": 997.2733333333333
+    },
+    "related_words": [
+      "aetr",
+      "lain",
+      "supremacy",
+      "tachograph",
+      "crews",
+      "depositing",
+      "roadside",
+      "recordings",
+      "insertion",
+      "reservation",
+      "geneva",
+      "driver",
+      "favouring",
+      "attestation",
+      "eighth",
+      "nonetheless",
+      "uniformly",
+      "warrant",
+      "manual",
+      "deposit",
+      "necessitates",
+      "concerted",
+      "confirming",
+      "carriage",
+      "technically",
+      "ratification",
+      "negotiate",
+      "individually",
+      "entries",
+      "records"
+    ],
+    "prompt_length": 1738,
+    "category": "4816 land transport"
+  }
+}

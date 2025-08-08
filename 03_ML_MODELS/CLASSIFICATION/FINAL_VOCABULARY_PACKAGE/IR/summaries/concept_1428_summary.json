@@ -1,0 +1,63 @@
+{
+  "concept_id": "1428",
+  "concept_data": {
+    "title": "information storage and retrieval",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information storage and retrieval\" within EU legal and regulatory frameworks pertains to the systematic management of data, particularly concerning the identification and tracking of animals, such as bovine. This involves the use of tagged systems, including eartags and DNA verification, to ensure the authenticity of identity and age for livestock. Such databases are essential for conservation efforts and the movement of animals, as they provide extensive guidance on registration and holdings. The EU regulations mandate that information must be kept strictly and communicated effectively, allowing for derogation in specific circumstances. This ensures that the management of animal reserves is justified and that any difficulties in compliance are addressed, thereby guaranteeing the integrity of the system.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:37.326445",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 115,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 115,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1808.8
+    },
+    "related_words": [
+      "tagged",
+      "tagging",
+      "eartags",
+      "mother",
+      "dna",
+      "landscape",
+      "calves",
+      "stay",
+      "database",
+      "identity",
+      "extensive",
+      "reserves",
+      "conservation",
+      "age",
+      "separately",
+      "primarily",
+      "always",
+      "holdings",
+      "strictly",
+      "verified",
+      "beef",
+      "labelling",
+      "test",
+      "bovine",
+      "undertake",
+      "registration",
+      "kept",
+      "identification",
+      "dutch",
+      "holding"
+    ],
+    "prompt_length": 1705,
+    "category": "3236 information technology and data processing"
+  }
+}

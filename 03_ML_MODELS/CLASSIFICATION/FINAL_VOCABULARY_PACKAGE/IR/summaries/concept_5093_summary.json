@@ -1,0 +1,63 @@
+{
+  "concept_id": "5093",
+  "concept_data": {
+    "title": "right of accession",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "acquisition of property",
+    "relation_type": "USE"
+  },
+  "summary": "The \"right of accession,\" redirecting to the preferred term \"acquisition of property,\" pertains to civil law within the EU framework, focusing on the predominance of property rights. This concept addresses the complexities of estates, particularly in underdeveloped regions where privatisation has led to fragmented ownership. Amid ongoing liberalising efforts, the inflow of investments often hinders the restitution of unsettled lands, complicating the lives of residents. The vacuum created by unfinished legal frameworks has aggravated issues of leasing and ownership, weakening the prosperity of communities. As such, the right of accession plays a crucial role in addressing these compounded challenges, ensuring that property rights are effectively administrated and protected.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:12.516392",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 449,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 636,
+      "selected_avg_freq": 265.31333333333333
+    },
+    "related_words": [
+      "predominance",
+      "estates",
+      "underdeveloped",
+      "amid",
+      "privatised",
+      "loosening",
+      "unsettled",
+      "liberalising",
+      "inflow",
+      "unfinished",
+      "rented",
+      "hinders",
+      "administrated",
+      "fold",
+      "restitution",
+      "noticeable",
+      "prosperity",
+      "hands",
+      "lands",
+      "heart",
+      "privatisation",
+      "exert",
+      "fragmented",
+      "weaken",
+      "leasing",
+      "estate",
+      "compounded",
+      "solved",
+      "hampered",
+      "lives"
+    ],
+    "prompt_length": 1711,
+    "category": "1211 civil law"
+  }
+}

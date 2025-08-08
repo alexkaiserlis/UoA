@@ -1,0 +1,63 @@
+{
+  "concept_id": "1653",
+  "concept_data": {
+    "title": "workplace",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"workplace\" within EU legal and regulatory frameworks encompasses the organization of work and working conditions, reflecting profound societal traditions and the need for safeguarding employee rights. It involves a hierarchy of roles, from supervisors to assistants, and addresses issues such as salary, emoluments, and pensions. The International Labour Organization (ILO) plays a significant role in codification efforts, ensuring that workplace regulations are streamlined and commensurate with evolving domains of employment. Additionally, the concept includes the protection of privacy and the dangers associated with ionising and extractive industries. Unions advocate for workers' rights, while ombudsmen oversee compliance, ensuring that all sessions and censuses reflect accurate workplace conditions. This framework aims to create a simpler, more inclusive environment that mirrors the diverse occupations within the EU, promoting a constructive dialogue between employers and employees.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:34:38.798509",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 582,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 517,
+      "selected_avg_freq": 227.36
+    },
+    "related_words": [
+      "heightening",
+      "isco",
+      "assistant",
+      "cofinance",
+      "overpaid",
+      "sees",
+      "ombudsman",
+      "extractive",
+      "hierarchy",
+      "profound",
+      "salary",
+      "ionising",
+      "censuses",
+      "sessions",
+      "registrar",
+      "constructive",
+      "lieu",
+      "radical",
+      "merging",
+      "predominant",
+      "par",
+      "streamline",
+      "emoluments",
+      "census",
+      "ilo",
+      "mirror",
+      "jrc",
+      "domains",
+      "occupations",
+      "traditions"
+    ],
+    "prompt_length": 1691,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

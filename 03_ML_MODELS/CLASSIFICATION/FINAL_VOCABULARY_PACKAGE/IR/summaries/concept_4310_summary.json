@@ -1,0 +1,63 @@
+{
+  "concept_id": "4310",
+  "concept_data": {
+    "title": "export subsidy",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"export subsidy\" in the context of EU trade policy refers to financial assistance provided by governments to domestic producers for the purpose of promoting exports. This practice can distort international trade, leading to competitive disadvantages for foreign industries. In regulatory frameworks, such as those governing the fishing industry in regions like Austevoll and Måløy, export subsidies can impact entities like fiskeindustri and normarine. The EU employs stringent rules to monitor and regulate these subsidies, ensuring compliance with international agreements. For instance, companies involved in the production of terephthalic and paraxylene must navigate these regulations carefully to avoid penalties. The implications of export subsidies extend to various sectors, including the chemical industry, where firms like Cepsa and Alchim operate.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:08.893141",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1223,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 94,
+      "selected_avg_freq": 33.486666666666665
+    },
+    "related_words": [
+      "xantoflor",
+      "monteagudo",
+      "alchim",
+      "sofral",
+      "illkirch",
+      "norlaks",
+      "filtfabrikk",
+      "eurolaks",
+      "namdal",
+      "măľlă",
+      "austevoll",
+      "fiskeindustri",
+      "ryfisk",
+      "eiendom",
+      "nsec",
+      "cuisine",
+      "normarine",
+      "aromatics",
+      "cepsa",
+      "química",
+      "lotte",
+      "artenius",
+      "wilton",
+      "redcar",
+      "patrica",
+      "barbastro",
+      "huesca",
+      "klaipeda",
+      "smpc",
+      "paraxylene"
+    ],
+    "prompt_length": 1618,
+    "category": "2006 trade policy"
+  }
+}

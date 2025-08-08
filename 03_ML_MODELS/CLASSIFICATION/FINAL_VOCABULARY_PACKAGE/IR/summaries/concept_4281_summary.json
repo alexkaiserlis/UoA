@@ -1,0 +1,63 @@
+{
+  "concept_id": "4281",
+  "concept_data": {
+    "title": "European Union stock",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "EU stock",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU stock,\" a redirect from \"European Union stock,\" pertains to the regulatory framework governing the production and management of biological materials within the EU. This includes the handling of attenuated and inactivated antigens, vital for biosecurity in veterinary studies. Institutions like the Istituto zooprofilattico and laboratories in Lyon and Brescia conduct epidemiologically relevant research on various serotypes and subtypes of pathogens. The EU stock also encompasses the relocation of resources, such as airfreight supplies and bioethanol, ensuring compliance with GMP standards. Regulatory bodies, including the council, oversee the potency and safety of these compositions, facilitating effective restocking and detailing of materials across geographically diverse regions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:08.720115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 650,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 349,
+      "selected_avg_freq": 157.11333333333334
+    },
+    "related_words": [
+      "counicl",
+      "meril",
+      "relinquished",
+      "airfreight",
+      "mérieux",
+      "shamir",
+      "lyons",
+      "polyvalent",
+      "relocate",
+      "gmp",
+      "merial",
+      "manisa",
+      "thrace",
+      "sat",
+      "epidemiologically",
+      "zooprofilattico",
+      "relocated",
+      "eufmd",
+      "potency",
+      "alimentaires",
+      "pathologie",
+      "cologne",
+      "sperimentale",
+      "lyon",
+      "études",
+      "vétérinaires",
+      "compositions",
+      "istituto",
+      "attenuated",
+      "pirbright"
+    ],
+    "prompt_length": 1716,
+    "category": "6406 production"
+  }
+}

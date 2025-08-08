@@ -1,0 +1,63 @@
+{
+  "concept_id": "3929",
+  "concept_data": {
+    "title": "system of property",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "ownership",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"system of property,\" a redirect to \"ownership,\" encompasses the legal framework governing the rights and obligations associated with property. In EU civil law, ownership entitles individuals to acquire and manage property, including buildings and vehicles, while adhering to standards of taxation and avoiding disputes. Legal presumptions may arise regarding ownership, and parties can adduce evidence to prove their claims. The system facilitates the passage of property rights across frontiers, ensuring that taxes, such as VAT, are proportionate and fair. Moreover, it addresses issues like evasion and the charging of subsidies, thereby standardizing property-related regulations within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:27:54.251931",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1583,
+      "selected_avg_freq": 793.5933333333334
+    },
+    "related_words": [
+      "rem",
+      "freehold",
+      "attracts",
+      "presumptions",
+      "adduce",
+      "availing",
+      "entitle",
+      "tank",
+      "acquiring",
+      "everything",
+      "mere",
+      "passage",
+      "opt",
+      "travelling",
+      "derogates",
+      "tanks",
+      "evasion",
+      "deduct",
+      "taxable",
+      "avoidance",
+      "purchaser",
+      "buildings",
+      "passengers",
+      "abnormally",
+      "accruing",
+      "charging",
+      "standardization",
+      "dispute",
+      "stand",
+      "crossing"
+    ],
+    "prompt_length": 1689,
+    "category": "1211 civil law"
+  }
+}

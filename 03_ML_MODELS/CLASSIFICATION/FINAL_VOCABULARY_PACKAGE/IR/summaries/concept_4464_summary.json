@@ -1,0 +1,26 @@
+{
+  "concept_id": "4464",
+  "concept_data": {
+    "title": "travel ticket",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "ticket",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU transport policy, the concept of \"travel ticket\" is redirected to the preferred term \"ticket.\" A travel ticket serves as a crucial legal instrument that facilitates the provision of transport services across member states. It embodies the contractual agreement between the passenger and the transport provider, delineating rights and obligations. The regulatory framework governing tickets is essential for ensuring consumer protection, interoperability, and fair competition within the transport sector. By standardizing ticketing practices, the EU aims to enhance mobility and accessibility, thereby fostering a more integrated European transport network.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:59:23.017204",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1195,
+    "category": "4806 transport policy"
+  }
+}

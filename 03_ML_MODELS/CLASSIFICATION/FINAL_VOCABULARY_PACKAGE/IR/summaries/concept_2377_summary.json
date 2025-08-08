@@ -1,0 +1,63 @@
+{
+  "concept_id": "2377",
+  "concept_data": {
+    "title": "Picardy",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Picardy, a region in France, is categorized under the EU's framework of regions of Member States. It is recognized for its unique agricultural products, such as Neufchâtel cheese, which is protected under the PDO (Protected Designation of Origin) status. The region's development is supported by various EU funding mechanisms, including the ERDF (European Regional Development Fund) and ESF (European Social Fund), which allocate resources for regional programming and infrastructure. The EU's regulatory frameworks foresee additionality in funding, ensuring that allocated resources are used effectively. In this context, Picardy's readiness to adapt to economic challenges, such as inflation and declining investments, is crucial for its sustainable development. The region's statutory designations and indexed allocations are designed to satisfy both local and EU objectives, while also addressing opposition to proposed modifications in funding patterns.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:54:07.291644",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 411,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1064,
+      "selected_avg_freq": 625.02
+    },
+    "related_words": [
+      "neufchâtel",
+      "notfied",
+      "picardie",
+      "picardy",
+      "rechar",
+      "storms",
+      "additionality",
+      "indexed",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "opposition",
+      "adopts",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees"
+    ],
+    "prompt_length": 1662,
+    "category": "7211 regions of EU Member States"
+  }
+}

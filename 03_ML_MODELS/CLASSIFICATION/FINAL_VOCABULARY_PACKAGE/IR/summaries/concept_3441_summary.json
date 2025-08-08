@@ -1,0 +1,63 @@
+{
+  "concept_id": "3441",
+  "concept_data": {
+    "title": "military adviser",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "forces abroad",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"military adviser,\" categorized under defence, redirects to the preferred term \"forces abroad.\" In EU legal and regulatory contexts, military advisers play a crucial role in operations such as those in Chad and Darfur, where figures like Colonel Mendez and Lieutenant Carty have contributed to missions. The European Union Force (EUF) in regions like Ituri and Addis Ababa often relies on experienced advisers, including Admiral Rainer and advisor Philippe, to ensure effective strategic implementation. Their expertise is vital for maintaining discipline and operational success, as seen in the efforts led by commanders like Jochen and François in various missions across Europe and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:53.325001",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 356,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 560,
+      "selected_avg_freq": 175.72666666666666
+    },
+    "related_words": [
+      "mendez",
+      "bunia",
+      "kevin",
+      "carty",
+      "marani",
+      "rainer",
+      "feist",
+      "acc",
+      "acmc",
+      "villalaín",
+      "stefano",
+      "castagnotto",
+      "amelineau",
+      "billard",
+      "witthauer",
+      "villalain",
+      "reith",
+      "bartholomew",
+      "lieutenant",
+      "jochen",
+      "dsaceur",
+      "torben",
+      "brylle",
+      "ignacio",
+      "amis",
+      "ituri",
+      "douglas",
+      "advisor",
+      "euf",
+      "tchad"
+    ],
+    "prompt_length": 1616,
+    "category": "0821 defence"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5689",
+  "concept_data": {
+    "title": "food poisoning",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Food poisoning, a significant public health concern within the EU, arises from the consumption of unsafe food contaminated with bacteria such as Escherichia coli and botulinum toxins. Regulatory frameworks, including the Codex Alimentarius, aim to mitigate risks associated with foodborne illnesses like botulism and shiga toxin-producing E. coli (STEC). The EU enforces strict bans on certain food products, particularly those that may foster the multiplication of harmful bacteria. Vulnerable populations, including infants and individuals with gluten intolerance, such as coeliac disease, are particularly at risk. Effective tracing of contaminated batches and proper canning practices are essential to prevent outbreaks and protect public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:26.717512",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 464,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 584,
+      "selected_avg_freq": 226.98
+    },
+    "related_words": [
+      "c么te",
+      "botulinus",
+      "poisoned",
+      "botulinum",
+      "tins",
+      "intolerant",
+      "coeliac",
+      "botulism",
+      "kamut",
+      "tolerate",
+      "sprout",
+      "sprouted",
+      "shiga",
+      "stec",
+      "multiply",
+      "fostered",
+      "triticum",
+      "intolerance",
+      "cans",
+      "sprouting",
+      "spelt",
+      "traced",
+      "sprouts",
+      "poisoning",
+      "escherichia",
+      "unsafe",
+      "humidity",
+      "toxin",
+      "multiplication",
+      "canning"
+    ],
+    "prompt_length": 1620,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4115",
+  "concept_data": {
+    "title": "capital reduction",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "capital increase",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"capital reduction\" is often associated with \"capital increase,\" as both concepts pertain to the financial restructuring of an entreprise. Capital reduction can facilitate recapitalization, allowing companies to reorganise their financial structures through mechanisms such as suspensory injections or bridging financing. This process may involve the winding down of outbuildings or the reprocessing of assets, particularly in sectors like télécom or mining. Regulatory frameworks, including those governing kapitalverkehrsteuer and gesellschaftsteuer, ensure compliance during such transitions. Ultimately, capital reduction aims to enhance corporate stability, enabling firms to adapt and thrive in competitive markets, including the kernkraftwerksgesellschaft sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:51:09.154236",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 768,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 104.34
+    },
+    "related_words": [
+      "recapitalization",
+      "télécom",
+      "kapitalverkehrsteuer",
+      "gesellschaftsteuer",
+      "potasse",
+      "entreprise",
+      "mdpa",
+      "sylvinite",
+      "directoire",
+      "mpda",
+      "domaniales",
+      "outbuildings",
+      "reconverting",
+      "schnell",
+      "brüter",
+      "kernkraftwerksgesellschaft",
+      "sbk",
+      "mulhouse",
+      "hochtemperatur",
+      "hkg",
+      "potasses",
+      "emc",
+      "suspensory",
+      "minière",
+      "kernkraftwerk",
+      "shutdown",
+      "severance",
+      "boussac",
+      "answers",
+      "folded"
+    ],
+    "prompt_length": 1768,
+    "category": "4006 business organisation"
+  }
+}

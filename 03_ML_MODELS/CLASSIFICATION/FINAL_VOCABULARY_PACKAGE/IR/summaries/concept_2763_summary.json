@@ -1,0 +1,63 @@
+{
+  "concept_id": "2763",
+  "concept_data": {
+    "title": "milk product",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"milk product\" within EU legal and regulatory frameworks pertains to processed agricultural produce derived from milk, including items like butterkă, curds, and milkpowder. These products undergo various processes such as ultrafiltration and recombined techniques to enhance their quality and shelf life. The responsibility for ensuring compliance with standards lies with meieriers and establishments involved in production and salgssentral operations. Regulatory measures often include licensing requirements and quality assessments to qualify products for market consumption. Additionally, the Parliament may amend regulations to address issues like nonmarketing practices and the rerouting of milk products, ensuring that the territory's dairy industry remains competitive and sustainable.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:37.257019",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 3601,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 14,
+      "selected_avg_freq": 7.84
+    },
+    "related_words": [
+      "grano",
+      "meieriers",
+      "salgssentral",
+      "meierier",
+      "enabing",
+      "consemption",
+      "souring",
+      "dornic",
+      "azorubin",
+      "eosin",
+      "butterkă",
+      "siad",
+      "fond",
+      "unapredjenje",
+      "proizvodnje",
+      "plasmana",
+      "stocnih",
+      "proizvoda",
+      "qualifiy",
+      "despacho",
+      "reponsibility",
+      "albumines",
+      "veined",
+      "roquefort",
+      "scas",
+      "anenex",
+      "disaggregate",
+      "transferrred",
+      "rerouting",
+      "ultrafiltration"
+    ],
+    "prompt_length": 1706,
+    "category": "6016 processed agricultural produce"
+  }
+}

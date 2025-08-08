@@ -1,0 +1,63 @@
+{
+  "concept_id": "1632",
+  "concept_data": {
+    "title": "Latin America",
+    "category_code": "7216",
+    "category_name": "America",
+    "category_full": "7216 America",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Latin America\" within EU legal and regulatory frameworks encompasses a diverse region characterized by complex socio-political dynamics, including issues of displacements and statelessness. The EU engages with Latin American countries through various treaties and understandings aimed at promoting peaceful coexistence and lawful governance. Initiatives like the DDA (Development and Democracy Agenda) seek to address destabilising factors such as drug trafficking, notably cocaine, and the reintegration of demobilized soldiers. The EU also collaborates with NGOs to support returnees and displaced populations, ensuring their subsistence and integration into society. Efforts to uphold human rights and disarmament are foundational to fostering stability in countries like Colombia and Bolivia, while addressing the impacts of uncontrolled violence and firearms stockpiling.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:33:50.272417",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 558,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 482,
+      "selected_avg_freq": 182.10666666666665
+    },
+    "related_words": [
+      "lac",
+      "reintegrate",
+      "proinvest",
+      "uprooted",
+      "integrates",
+      "displacements",
+      "demobilized",
+      "understandings",
+      "jev",
+      "jop",
+      "lirec",
+      "wars",
+      "impairs",
+      "returnees",
+      "soldiers",
+      "lima",
+      "repubic",
+      "stateless",
+      "med",
+      "cocaine",
+      "covenant",
+      "dda",
+      "refugee",
+      "firearms",
+      "colombian",
+      "org",
+      "ccf",
+      "stockpile",
+      "advisors",
+      "sufficiency"
+    ],
+    "prompt_length": 1660,
+    "category": "7216 America"
+  }
+}

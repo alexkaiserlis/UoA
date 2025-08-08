@@ -1,0 +1,63 @@
+{
+  "concept_id": "1400",
+  "concept_data": {
+    "title": "electronics industry",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"electronics industry\" encompasses a wide range of sectors within electronics and electrical engineering, significantly influenced by EU regulations. This industry faces scrutiny regarding hazardous substances, such as hexabromocyclododecane (HBCDD) and phthalates, including diisobutyl (DIBP) and dibutyl (DBP), which are subject to restrictions under REACH. The EU's regulatory framework aims to modernize practices, promoting the use of substitutes for harmful chemicals like cadmium and polybrominated diphenyl ethers (PBDEs). Additionally, recyclers are urged to divert electronic waste (EEE) from landfills, thereby enhancing sustainability. The desirability of eco-friendly materials, such as plasticised alternatives, is increasingly asserted in policy discussions, reflecting a cumulative effort to ensure a safer electronics market.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:17.011550",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 623,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 420,
+      "selected_avg_freq": 191.54666666666665
+    },
+    "related_words": [
+      "flextronics",
+      "staatsblad",
+      "investeringsrekening",
+      "wir",
+      "plasticised",
+      "selectively",
+      "svhc",
+      "hexabromocyclododecane",
+      "hbcdd",
+      "eee",
+      "dibp",
+      "pbde",
+      "recyclers",
+      "infer",
+      "pbb",
+      "phthalates",
+      "diisobutyl",
+      "spiral",
+      "polybrominated",
+      "dehp",
+      "bbp",
+      "dibutyl",
+      "dbp",
+      "diphenyl",
+      "cumulatively",
+      "phthalate",
+      "asserted",
+      "hexavalent",
+      "ethylhexyl",
+      "ethers"
+    ],
+    "prompt_length": 1696,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

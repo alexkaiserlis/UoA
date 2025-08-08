@@ -1,0 +1,63 @@
+{
+  "concept_id": "2357",
+  "concept_data": {
+    "title": "pesticide",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"pesticide\" refers to substances used for controlling pests, including pathogens like isaria and fumosorosea. The regulation of pesticides encompasses ecotoxicological assessments, ensuring that compounds such as bixafen, mandipropamid, and fluopyram do not adversely affect non-target organisms. The EU mandates rigorous evaluations of toxicants, including chlorophenoxy derivatives and phosgene, to mitigate risks associated with agricultural practices. Additionally, substances like hexaconazole and fluxapyroxad are scrutinized for their environmental impact, particularly concerning sewages and sewers. The legal framework aims to balance agricultural productivity with ecological safety, addressing concerns over palatability and the effects of rodenticidal agents like sorkil.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:19.116541",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 2938,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.4
+    },
+    "related_words": [
+      "isaria",
+      "fumosorosea",
+      "daphnid",
+      "pathogenes",
+      "sewages",
+      "bixafen",
+      "bue",
+      "chlorophenoxy",
+      "netherlandsreceived",
+      "aviglycine",
+      "mandipropamid",
+      "valifenalate",
+      "chipro",
+      "toxicant",
+      "penthiopyrad",
+      "lkc",
+      "heptamaloxyloglucan",
+      "elicityl",
+      "pyridalyl",
+      "porphyrins",
+      "porphyrin",
+      "nmol",
+      "ecotoxiclogical",
+      "pelgar",
+      "unichem",
+      "sewers",
+      "oedc",
+      "fluxapyroxad",
+      "dichloronitromethane",
+      "phosgene"
+    ],
+    "prompt_length": 1774,
+    "category": "5626 means of agricultural production"
+  }
+}

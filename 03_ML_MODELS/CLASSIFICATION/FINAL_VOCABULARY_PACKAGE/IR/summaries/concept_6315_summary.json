@@ -1,0 +1,63 @@
+{
+  "concept_id": "6315",
+  "concept_data": {
+    "title": "harvest losses",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "crop losses",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"harvest losses,\" redirected to \"crop losses,\" refer to the damages incurred by farmers due to unfavourable weather conditions, such as severe rainfalls and flooding. These events can compound the challenges faced by producers, leading to a crisis in liquidity and necessitating adjustments in farming systems. Farmers may encounter significant crop and fodder losses, impacting their ability to maintain cattle and beef production. To alleviate these challenges, EU schemes provide advance payments to eligible farmers, helping them adapt to ongoing adverse conditions. Verification processes ensure that losses are accurately accounted for, allowing for definitive support through budget allocations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:45.356987",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 128,
+      "requested_words": 150,
+      "min_frequency_found": 29,
+      "max_frequency_found": 4108,
+      "selected_words": 128,
+      "selected_min_freq": 29,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1837.90625
+    },
+    "related_words": [
+      "harsh",
+      "rainfalls",
+      "confronted",
+      "compounded",
+      "flooding",
+      "damages",
+      "liquidity",
+      "eventually",
+      "winter",
+      "accounted",
+      "alleviate",
+      "weather",
+      "fodder",
+      "crop",
+      "unfavourable",
+      "cattle",
+      "possession",
+      "advances",
+      "encountered",
+      "discipline",
+      "permits",
+      "veal",
+      "calendar",
+      "severe",
+      "farmers",
+      "ongoing",
+      "beef",
+      "crisis",
+      "definitive",
+      "eligibility"
+    ],
+    "prompt_length": 1683,
+    "category": "5616 farming systems"
+  }
+}

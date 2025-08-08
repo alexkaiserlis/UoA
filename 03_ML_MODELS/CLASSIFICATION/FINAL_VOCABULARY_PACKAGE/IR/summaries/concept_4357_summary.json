@@ -1,0 +1,63 @@
+{
+  "concept_id": "4357",
+  "concept_data": {
+    "title": "teaching system",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": true,
+    "preferred_term": "educational system",
+    "relation_type": "USE"
+  },
+  "summary": "The \"teaching system,\" redirected to the preferred term \"educational system,\" encompasses the formal architecture of education within the EU. It aims to ensure mutual recognition of qualifications and diplomas across member states, facilitating the achievement of high educational standards. The establishment of this system is guided by resolutions and decisions from the European Commission and Council, which advise on the context and objectives of training and education. Committees draft evidence-based recommendations to contribute to the continuous improvement of educational frameworks. This system plays an important role in the economic communities, promoting a cohesive approach to education and training across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:38:13.894387",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 49,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 49,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1996.2448979591836
+    },
+    "related_words": [
+      "comparably",
+      "architecture",
+      "diplomas",
+      "advise",
+      "qualifications",
+      "education",
+      "committees",
+      "formal",
+      "favour",
+      "achievement",
+      "mutual",
+      "training",
+      "certificates",
+      "recognition",
+      "declared",
+      "itself",
+      "resolution",
+      "advisory",
+      "evidence",
+      "standard",
+      "draft",
+      "contribute",
+      "important",
+      "setting",
+      "context",
+      "field",
+      "objective",
+      "establishment",
+      "high",
+      "submitted"
+    ],
+    "prompt_length": 1714,
+    "category": "3216 organisation of teaching"
+  }
+}

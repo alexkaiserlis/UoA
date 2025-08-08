@@ -1,0 +1,63 @@
+{
+  "concept_id": "2206",
+  "concept_data": {
+    "title": "sluice",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "engineering structure",
+    "relation_type": "USE"
+  },
+  "summary": "In EU transport policy, the term \"sluice\" is redirected to \"engineering structure,\" which encompasses various hydraulic constructions, including locks and bridges, essential for facilitating transfrontier transport. These structures, often located at junctions of major waterways like the Danube and Moselle, are crucial for the waterproofing and renovation of transport routes. They dictate the flow of traffic across motorways and highways, linking regions such as Saarbruecken and Aargau. The complexities of constructing these engineering structures involve contractors and entrepreneurs navigating onerous regulations. Additionally, the deepest locks, like those in Rheinfelden, are vital for maintaining efficient transport networks across boundaries, ensuring smooth operations for all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:07:47.302641",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 440,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 736,
+      "selected_avg_freq": 289.93333333333334
+    },
+    "related_words": [
+      "advoidance",
+      "perl",
+      "dudelange",
+      "rodebach",
+      "selfkant",
+      "millen",
+      "echt",
+      "susteren",
+      "sittard",
+      "laufenburg",
+      "wutach",
+      "stühlingen",
+      "oberwiesen",
+      "schaffhausen",
+      "trunk",
+      "deeming",
+      "deepest",
+      "rheinfelden",
+      "motorways",
+      "aargau",
+      "saarbruecken",
+      "junction",
+      "waterproofing",
+      "locks",
+      "highways",
+      "entrepreneurs",
+      "motorway",
+      "dictated",
+      "joints",
+      "boundary"
+    ],
+    "prompt_length": 1716,
+    "category": "4806 transport policy"
+  }
+}

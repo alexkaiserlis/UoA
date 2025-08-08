@@ -1,0 +1,63 @@
+{
+  "concept_id": "3204",
+  "concept_data": {
+    "title": "merchandising",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Merchandising, within the EU legal and regulatory framework, refers to the practices involved in promoting and selling goods, often subject to specific regulations depending on the product category. For instance, shipments of pet products, such as those requiring a rabies certificate, are classified under differentiated nomenclature to ensure compliance with health standards. The EU's binding regulations invoke a model that simplifies the movement of goods, ensuring that requests for confirmation of compliance are met in writing. Countries like Liberia and Andorra may have specific provisions regarding exported merchandise, while the EU's interactions with nations like India and China may involve unique recovery processes for waste management. Overall, merchandising practices are closely monitored to uphold consumer protection and facilitate trade within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:48:59.225260",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 190,
+      "requested_words": 150,
+      "min_frequency_found": 63,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 63,
+      "selected_max_freq": 2931,
+      "selected_avg_freq": 1457.66
+    },
+    "related_words": [
+      "liberia",
+      "andorra",
+      "passport",
+      "rabies",
+      "iiia",
+      "pet",
+      "shipments",
+      "oecd",
+      "moved",
+      "seeking",
+      "differentiated",
+      "india",
+      "subdivision",
+      "adds",
+      "delete",
+      "subjected",
+      "confirmation",
+      "writing",
+      "invoked",
+      "movements",
+      "differ",
+      "requesting",
+      "china",
+      "waste",
+      "holder",
+      "croatia",
+      "reply",
+      "column",
+      "wholly",
+      "instead"
+    ],
+    "prompt_length": 1643,
+    "category": "2031 marketing"
+  }
+}

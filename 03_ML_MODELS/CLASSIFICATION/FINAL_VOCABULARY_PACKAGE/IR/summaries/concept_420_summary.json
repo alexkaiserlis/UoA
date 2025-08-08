@@ -1,0 +1,63 @@
+{
+  "concept_id": "420",
+  "concept_data": {
+    "title": "destruction of crops",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"destruction of crops\" refers to the deliberate elimination of agricultural produce, often necessitated by pest infestations, such as those caused by diabrotica virgifera or other damaging insects like epitrix and cucumeris. In the EU, regulations aim to minimize reliance on chemical insecticides, promoting practices like crop rotation and the mixing of oilseeds and linseed to enhance biodiversity. The challenge of monoculture farming can lead to a trophic circle that favors pest proliferation, necessitating surveying and delimitation of affected areas. Provinces such as Friuli Venezia Giulia and Lombardia may implement specific measures to penalise non-compliance, ensuring sustainable agricultural practices and protecting crops like potato and tubers.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:59.889923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 326,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1152,
+      "selected_avg_freq": 441.48
+    },
+    "related_words": [
+      "monoculture",
+      "epitrix",
+      "cucumeris",
+      "similaris",
+      "gentner",
+      "subcrinita",
+      "lec",
+      "tuberis",
+      "harris",
+      "trophic",
+      "circle",
+      "surveying",
+      "conte",
+      "penalise",
+      "captured",
+      "minimizing",
+      "diabrotica",
+      "virgifera",
+      "tuberosum",
+      "piemonte",
+      "solanum",
+      "friuli",
+      "venezia",
+      "giulia",
+      "infested",
+      "destroy",
+      "lombardia",
+      "linseed",
+      "insecticides",
+      "flowering"
+    ],
+    "prompt_length": 1688,
+    "category": "5216 deterioration of the environment"
+  }
+}

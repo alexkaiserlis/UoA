@@ -1,0 +1,63 @@
+{
+  "concept_id": "4078",
+  "concept_data": {
+    "title": "customs duties",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs duties are a pivotal component of the EU's tariff policy, establishing a framework for the taxation of imported goods. These duties are itemized in regulations and serve as countermeasures against unaligned trade practices, ensuring orderly exchanges within European territories. By imposing tariffs on various items, including unmanufactured goods and desiccated products, the EU aims to protect its industries while lowering barriers for specific imports, such as shorghum and terephtalate. The regulatory landscape also encompasses extraterritorial measures and understandings that facilitate trade agreements, fostering a rhythm of economic interaction across member states, including regions like Rouen and Fribourg.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:51.669076",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 2559,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 45,
+      "selected_avg_freq": 22.66
+    },
+    "related_words": [
+      "exchages",
+      "improt",
+      "desiccated",
+      "europea",
+      "itemized",
+      "comusum",
+      "quarto",
+      "estblishing",
+      "countermeasure",
+      "unbinds",
+      "ordely",
+      "arrengements",
+      "retailed",
+      "territoires",
+      "rouen",
+      "unaligned",
+      "gent",
+      "schwyz",
+      "fribourg",
+      "shorghum",
+      "tarif",
+      "industrienorm",
+      "sebastes",
+      "muscari",
+      "lowers",
+      "assimilating",
+      "countermeasures",
+      "fsc",
+      "extraterritorial",
+      "spectacular"
+    ],
+    "prompt_length": 1677,
+    "category": "2011 tariff policy"
+  }
+}

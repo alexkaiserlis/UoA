@@ -1,0 +1,63 @@
+{
+  "concept_id": "371",
+  "concept_data": {
+    "title": "harm to the environment",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "degradation of the environment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"harm to the environment,\" redirected to \"degradation of the environment,\" encompasses various legal and regulatory frameworks within the EU aimed at addressing environmental deterioration. This includes the subsidence of land due to mining activities, which can lead to the abandonment of sites and the need for rehabilitation efforts. The privatization of resources often raises concerns about the liabilities inherited by future generations, particularly regarding methane emissions and acidic runoff from unworked mines. Regulatory measures may involve budgeted concessions for sustainable practices, ensuring that unions and dependants of retired miners are protected. The dissolution of harmful practices is essential for maintaining vegetation and preventing pollution, such as smokeless venting of gases. Ultimately, the EU's focus on environmental degradation necessitates a rationalization of mining operations and the careful management of underground resources to mitigate adverse effects on ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:52.623300",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 139,
+    "vocabulary_stats": {
+      "total_related_words": 398,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 361.5733333333333
+    },
+    "related_words": [
+      "subsidence",
+      "vegetation",
+      "dionex",
+      "concessionary",
+      "dependants",
+      "privatize",
+      "chromatograph",
+      "unworked",
+      "venting",
+      "rain",
+      "tips",
+      "inherited",
+      "pensioning",
+      "retired",
+      "privatized",
+      "methane",
+      "acidic",
+      "sensibility",
+      "smokeless",
+      "succeeding",
+      "pumping",
+      "miners",
+      "ion",
+      "leases",
+      "privatization",
+      "lieu",
+      "budgeted",
+      "workings",
+      "precipitation",
+      "underground"
+    ],
+    "prompt_length": 1763,
+    "category": "5216 deterioration of the environment"
+  }
+}

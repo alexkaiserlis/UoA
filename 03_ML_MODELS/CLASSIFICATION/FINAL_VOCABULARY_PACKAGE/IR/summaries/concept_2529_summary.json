@@ -1,0 +1,63 @@
+{
+  "concept_id": "2529",
+  "concept_data": {
+    "title": "pollution from land-based sources",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pollution from land-based sources\" pertains to the deterioration of the environment, particularly affecting aquatic and marine ecosystems. In the context of EU legal frameworks, it involves the commitment to combating harmful discharges into the atmosphere and waterways, as outlined in various conventions, including those signed in Geneva and Paris. The EU actively engages in diplomatic efforts, revising protocols to address transboundary pollution and ensuring the preservation of the Mediterranean and continental shelves. This pursuit aims to protect jurisdictions from dangerous exploitation and dumping practices, thereby fostering harmonious relations among member states and enhancing environmental preservation worldwide.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:44:18.896536",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 225,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1808,
+      "selected_avg_freq": 846.14
+    },
+    "related_words": [
+      "syracuse",
+      "plenipotentiaries",
+      "attended",
+      "alters",
+      "discharged",
+      "atmosphere",
+      "bed",
+      "commit",
+      "revisions",
+      "transboundary",
+      "diplomatic",
+      "conflicts",
+      "alongside",
+      "shelf",
+      "exploration",
+      "barcelona",
+      "stress",
+      "revising",
+      "geneva",
+      "continental",
+      "played",
+      "specially",
+      "preserving",
+      "invoke",
+      "aircraft",
+      "preservation",
+      "aquatic",
+      "conventions",
+      "paris",
+      "ships"
+    ],
+    "prompt_length": 1738,
+    "category": "5216 deterioration of the environment"
+  }
+}

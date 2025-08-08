@@ -1,0 +1,63 @@
+{
+  "concept_id": "1275",
+  "concept_data": {
+    "title": "hydrogen",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hydrogen, a gaseous element, plays a pivotal role in the EU's regulatory framework concerning energy transition and sustainability. Its applications span from polycrystalline and monocrystalline silicon in solar energy systems to the development of doped transistors and diodes for advanced electronic devices. The purification of hydrogen involves complex dynamics, utilizing spectrometers and spectrophotometers to analyze impurities and ensure high purity levels. Legal documents often invoke terms related to the transformation of hydrogen into energy carriers, emphasizing the importance of educational apparatus and affirmative regulations that promote its use. The ordered phases of hydrogen compounds are crucial for compliance with EU environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:52:03.406903",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 191,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2570,
+      "selected_avg_freq": 870.7466666666667
+    },
+    "related_words": [
+      "polycrystalline",
+      "monocrystalline",
+      "unmounted",
+      "elongation",
+      "bomem",
+      "polished",
+      "doped",
+      "fourier",
+      "infrared",
+      "transistors",
+      "spectrophotometer",
+      "cylinders",
+      "unworked",
+      "spectrometer",
+      "piezo",
+      "crystalline",
+      "diodes",
+      "crystals",
+      "conductor",
+      "wafers",
+      "bond",
+      "discs",
+      "hydrogen",
+      "rods",
+      "dynamics",
+      "transform",
+      "chemically",
+      "silicon",
+      "gaseous",
+      "bands"
+    ],
+    "prompt_length": 1677,
+    "category": "6811 chemistry"
+  }
+}

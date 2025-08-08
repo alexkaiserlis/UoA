@@ -1,0 +1,63 @@
+{
+  "concept_id": "3843",
+  "concept_data": {
+    "title": "wages",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "pay",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"wages,\" redirected to the preferred term \"pay,\" encompasses various forms of remuneration, including salaries and emoluments. The concept is crucial for personnel management, ensuring fair compensation across genders and job hierarchies. Regulatory frameworks necessitate the enumeration of wages, often influenced by factors such as disability, holiday entitlements, and actuarial assessments. Employers must adhere to established parities to avoid conflicts, particularly in cases of overpaid earners or those in arrears. Additionally, the ombudsman plays a role in addressing grievances related to wage discrepancies, thus promoting equity among colleagues and ensuring compliance with applicable laws.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:31:09.909735",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1076,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 188,
+      "selected_avg_freq": 87.64666666666666
+    },
+    "related_words": [
+      "eecc",
+      "preside",
+      "naka",
+      "applicaple",
+      "cents",
+      "colleagues",
+      "renumeration",
+      "weigthing",
+      "conflicted",
+      "earners",
+      "sexes",
+      "isco",
+      "omits",
+      "necesssary",
+      "assistant",
+      "midwifery",
+      "concomitantly",
+      "insignificance",
+      "actuarial",
+      "presidents",
+      "enumeration",
+      "enumerates",
+      "interdependent",
+      "remunerations",
+      "gdr",
+      "hundred",
+      "overpaid",
+      "munich",
+      "helpful",
+      "ombudsman"
+    ],
+    "prompt_length": 1708,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

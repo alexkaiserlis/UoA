@@ -1,0 +1,63 @@
+{
+  "concept_id": "4189",
+  "concept_data": {
+    "title": "organization",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "organisation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"organisation\" encompasses various legal forms, including those defined by statutes and societal contracts, such as gesellschaftsvertrag. Organisations may be registered in specific registries, including those for shipping and navigation, like the rejestr statków. They often have headquarters that manage operations across branches, ensuring compliance with regulations on decommissioning and dismantling, particularly in sectors like energy (e.g., kernkraftwerk). Audits and presentations are vital for maintaining transparency, while organisations must adapt to shifts in regulations, such as those affecting inland waterways. The relationship to the preferred term \"organisation\" underscores its broad applicability across diverse legal frameworks within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:31:15.665907",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 335,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1199,
+      "selected_avg_freq": 566.72
+    },
+    "related_words": [
+      "gesellschaftsvertrag",
+      "rejestr",
+      "statków",
+      "rina",
+      "bayernwerk",
+      "krb",
+      "prs",
+      "ccnr",
+      "rwe",
+      "polski",
+      "kernkraftwerk",
+      "decommissioning",
+      "budapest",
+      "masters",
+      "boat",
+      "recalculated",
+      "equivalents",
+      "headquarters",
+      "presentations",
+      "waterway",
+      "branch",
+      "statutes",
+      "substituted",
+      "rhine",
+      "revising",
+      "croatian",
+      "navigation",
+      "dismantling",
+      "shift",
+      "spa"
+    ],
+    "prompt_length": 1704,
+    "category": "4016 legal form of organisations"
+  }
+}

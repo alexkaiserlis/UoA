@@ -1,0 +1,63 @@
+{
+  "concept_id": "2026",
+  "concept_data": {
+    "title": "Northwest Atlantic Fisheries Organisation",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": true,
+    "preferred_term": "North-West Atlantic Fisheries Organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The North-West Atlantic Fisheries Organisation (NAFO) is a pivotal intergovernmental body focused on the sustainable management of fisheries in the Northwest Atlantic. It operates under principles aimed at rebuilding overfished stocks, such as yellowtail and halibut, while addressing issues like undersized catches and discards. NAFO collaborates with the North Atlantic Salmon Conservation Organisation (NASCO) to enhance multispecies management. Legal frameworks established by NAFO regulate transhipments and boarding procedures, ensuring compliance through logbook applications and monitoring sightings of stateless vessels. The organisation's efforts contribute to the conservation of vital species, including capelin and shrimp, within defined boundaries, thereby supporting the ecological integrity of the region.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:21:49.407001",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 771,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 268,
+      "selected_avg_freq": 92.85333333333334
+    },
+    "related_words": [
+      "partcular",
+      "sightings",
+      "prinicples",
+      "rthwest",
+      "nasco",
+      "spitsbergen",
+      "poposal",
+      "januar",
+      "sessional",
+      "spitzbergen",
+      "dartmouth",
+      "hail",
+      "multispecies",
+      "prosecutions",
+      "thence",
+      "witch",
+      "undersized",
+      "zons",
+      "sighted",
+      "analyzed",
+      "applicaton",
+      "yellowtail",
+      "boarding",
+      "rebuild",
+      "ladders",
+      "tail",
+      "illex",
+      "stateless",
+      "snow",
+      "coral"
+    ],
+    "prompt_length": 1763,
+    "category": "7621 world organisations"
+  }
+}

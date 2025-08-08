@@ -1,0 +1,63 @@
+{
+  "concept_id": "3457",
+  "concept_data": {
+    "title": "wildlife park",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "nature reserve",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU environmental policy, the term \"wildlife park\" is redirected to \"nature reserve,\" which serves as a critical framework for conservation efforts. Nature reserves are strictly designated areas that undertake the protection of biodiversity, ensuring that tagged animals, such as calves, are kept within their natural landscape. These reserves facilitate the registration and identification of species, often involving DNA testing and eartags for verified tracking. The EU provides guidance on the movement of animals, with restrictions justified by conservation needs. Derogations may apply under specific conditions, extending the practical application of conservation laws while guaranteeing the authenticity of holdings.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:33:06.066161",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 115,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 115,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1808.8
+    },
+    "related_words": [
+      "tagged",
+      "tagging",
+      "eartags",
+      "mother",
+      "dna",
+      "landscape",
+      "calves",
+      "stay",
+      "database",
+      "identity",
+      "extensive",
+      "reserves",
+      "conservation",
+      "age",
+      "separately",
+      "primarily",
+      "always",
+      "holdings",
+      "strictly",
+      "verified",
+      "beef",
+      "labelling",
+      "test",
+      "bovine",
+      "undertake",
+      "registration",
+      "kept",
+      "identification",
+      "dutch",
+      "holding"
+    ],
+    "prompt_length": 1697,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "837",
+  "concept_data": {
+    "title": "pandemic",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "epidemic",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"pandemic\" is redirected to \"epidemic,\" reflecting its broader implications on public health. Pandemics, such as those caused by H1N1 or flu viruses, can recur and significantly impact community health, necessitating robust prophylactic measures. Regulatory frameworks, including those from the ECDC and EUFMD, focus on optimising immunisation strategies and managing the susceptibility of populations to such germs. The legal discourse often addresses the need to discard outdated practices and appreciate the importance of timely interventions. Furthermore, the management of zoonotic diseases, which may involve the donation of resources or the disposal of infected materials, is critical in preventing outbreaks, especially in regions like Transcaucasia and Pomerania.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:25.333337",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 872,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 183,
+      "selected_avg_freq": 85.8
+    },
+    "related_words": [
+      "haemoglobin",
+      "donate",
+      "flu",
+      "episode",
+      "germs",
+      "accompanies",
+      "communit",
+      "pandemic",
+      "recurs",
+      "consigning",
+      "lessened",
+      "topotypes",
+      "mul",
+      "transcaucasia",
+      "h1n1",
+      "endemically",
+      "baits",
+      "discarded",
+      "circumstantial",
+      "mtf",
+      "entrance",
+      "eufmd",
+      "ecdc",
+      "appreciate",
+      "meurthe",
+      "prominent",
+      "optimisation",
+      "discard",
+      "captivity",
+      "immunisation"
+    ],
+    "prompt_length": 1691,
+    "category": "2841 health"
+  }
+}

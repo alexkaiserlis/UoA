@@ -1,0 +1,63 @@
+{
+  "concept_id": "6030",
+  "concept_data": {
+    "title": "data retrieval",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "data collection",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"data retrieval,\" redirected to \"data collection,\" encompasses the systematic gathering of information, crucial for statisticians and researchers. This process often involves archiving data from various sources, including epidemiologie studies on substances like estradiol and neonicotinoids. The functioning of data retrieval systems must ensure that dependents of the data, such as itemised requests from requestors, are accurately provisioned. Moreover, the rationalised approach to data collection addresses undercapacity issues in data processing frameworks like EURLEX and UOE. By leveraging untapped data, the EU can enhance its regulatory measures, ensuring the safest outcomes for public health and environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:24:39.382886",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2500,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 33,
+      "selected_avg_freq": 17.313333333333333
+    },
+    "related_words": [
+      "dependents",
+      "undercapacity",
+      "archiving",
+      "fado",
+      "muicp",
+      "eicp",
+      "fuses",
+      "primers",
+      "functionning",
+      "impinging",
+      "statisticians",
+      "untapped",
+      "eurlex",
+      "uis",
+      "uoe",
+      "bundesforschungsanstalt",
+      "tiere",
+      "epidemiologie",
+      "plausibility",
+      "safest",
+      "requestor",
+      "itemised",
+      "estradiol",
+      "ethinylestradiol",
+      "estrone",
+      "ditert",
+      "methylphenol",
+      "neonicotinoid",
+      "macrolide",
+      "neonicotinoids"
+    ],
+    "prompt_length": 1771,
+    "category": "3236 information technology and data processing"
+  }
+}

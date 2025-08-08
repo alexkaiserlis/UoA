@@ -1,0 +1,63 @@
+{
+  "concept_id": "3743",
+  "concept_data": {
+    "title": "coal industry",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"coal industry\" encompasses various aspects of coal and mining industries within the EU, including the mechanizing of extraction processes and the management of spoil heaps. Legal frameworks address issues such as employment for mineworkers and the unprofitability of certain operations, leading to restructuration efforts. Regions like Villablino and Narcea have experienced significant shrinkage, prompting the need for reemployment strategies. The EU's regulatory approach includes the ausgleichfonds to mitigate impacts on affected communities. Additionally, initiatives like Eurocoal aim to promote sustainable practices while addressing the rigidities of the sector. Heretofore, the industry has faced challenges related to electricity generation and market dynamics, necessitating a comprehensive legal response.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:02.823860",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2696,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.206666666666667
+    },
+    "related_words": [
+      "villablino",
+      "narcea",
+      "aragรณn",
+      "spoil",
+      "heaps",
+      "employement",
+      "duoro",
+      "mechanizing",
+      "amoutns",
+      "siderurgica",
+      "restructuration",
+      "restructurering",
+      "bezirksbăźros",
+      "remodelled",
+      "landabsatz",
+      "heretofore",
+      "loosely",
+      "shrinkage",
+      "ffynonau",
+      "eckington",
+      "moorside",
+      "accordingy",
+      "depreciations",
+      "unprofitability",
+      "electrictiy",
+      "ausgleichfonds",
+      "amoung",
+      "mineworker",
+      "eurocoal",
+      "etmofina"
+    ],
+    "prompt_length": 1776,
+    "category": "6611 coal and mining industries"
+  }
+}

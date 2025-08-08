@@ -1,0 +1,63 @@
+{
+  "concept_id": "2500",
+  "concept_data": {
+    "title": "foreign relations",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "foreign policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"foreign relations,\" which redirects to the preferred term \"foreign policy,\" encompasses the EU's strategic engagement with sovereign nations and international organizations. This includes partnerships with neighbours and continents, addressing macroeconomic challenges and terrorism. The EU's legal framework facilitates cooperation through summits, such as those in Valletta and Barcelona, while promoting synergy in areas like expropriation and provisioning. The EU's response to crises, such as earthquakes in Yemen or conflicts in Syria, reflects its commitment to modernise its approach. By recalling historical ties with nations like Armenia and Kazakhstan, the EU aims to intensify diplomatic relations and ensure regional stability amidst global challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:58.123511",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 482,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 599,
+      "selected_avg_freq": 268.34
+    },
+    "related_words": [
+      "asterisk",
+      "valletta",
+      "expropriation",
+      "blanket",
+      "provisioning",
+      "continents",
+      "neighbours",
+      "cardiff",
+      "denial",
+      "asean",
+      "lao",
+      "nepal",
+      "florence",
+      "laos",
+      "hashemite",
+      "yemen",
+      "turning",
+      "olaf",
+      "earthquake",
+      "excellent",
+      "relying",
+      "kyrgyzstan",
+      "turkmenistan",
+      "fewer",
+      "war",
+      "latin",
+      "recalling",
+      "uzbekistan",
+      "synergy",
+      "tajikistan"
+    ],
+    "prompt_length": 1710,
+    "category": "0816 international security"
+  }
+}

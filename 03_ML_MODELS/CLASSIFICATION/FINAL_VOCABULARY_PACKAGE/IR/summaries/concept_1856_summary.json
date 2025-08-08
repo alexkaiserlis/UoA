@@ -1,0 +1,63 @@
+{
+  "concept_id": "1856",
+  "concept_data": {
+    "title": "veterinary surgery",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "veterinary medicine",
+    "relation_type": "USE"
+  },
+  "summary": "Veterinary surgery, as a subset of veterinary medicine, encompasses a range of agricultural activities aimed at treating diseases in animals, including those affecting species like salmonides and foxes. In the EU regulatory framework, veterinary medicine is governed by stringent guidelines to ensure the safety and efficacy of pharmacodynamic products such as ivermectin and enrofloxacin. The legal provisions also address the hygiène alimentaire and health implications of veterinary practices, particularly in regions like Jalisco and Aguascalientes. Notably, the pharmacokinetic profiles of drugs like albendazole and closantel are crucial for managing sylvatic incursions and maintaining animal health. The relationship between veterinary surgery and veterinary medicine underscores the importance of comprehensive consumer protection (verbraucherschutz) and public health (gesundheitlichen) measures within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:42.033268",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1143,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 94,
+      "selected_avg_freq": 37.82666666666667
+    },
+    "related_words": [
+      "intracerebral",
+      "icpi",
+      "pharmacodynamic",
+      "pharmaceutically",
+      "prodcucts",
+      "etiproston",
+      "proposwal",
+      "salmonides",
+      "incremented",
+      "prp",
+      "creutzfeld",
+      "veterinære",
+      "veterinaere",
+      "deseases",
+      "fro",
+      "hygiène",
+      "alimentaire",
+      "jalisco",
+      "aguascalientes",
+      "guanajuato",
+      "tromethamine",
+      "polymorphisms",
+      "incursions",
+      "arsenal",
+      "jacob",
+      "veterinaermedizin",
+      "albendazole",
+      "gesundheitlichen",
+      "verbraucherschutz",
+      "sylvatic"
+    ],
+    "prompt_length": 1823,
+    "category": "5631 agricultural activity"
+  }
+}

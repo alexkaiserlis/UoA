@@ -1,0 +1,63 @@
+{
+  "concept_id": "8480",
+  "concept_data": {
+    "title": "judicial cooperation in civil matters in the EU",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Judicial cooperation in civil matters in the EU aims to enhance predictability and efficiency in cross-border disputes involving plaintiffs and defendants domiciled in different Member States. This framework, governed by the TFEU, facilitates the recognition and enforcement of judgments, ensuring that irreconcilable legal outcomes are minimized. Instruments such as the lis pendens rule help determine jurisdiction, while regulations address issues of succession and patent infringement. By incorporating unified procedures, the EU enables courts to hear cases more easily, regardless of the parties’ domicile. This cooperation fosters a cohesive legal environment, ultimately enhancing the rights of claimants and defendants alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:02:30.593856",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 364,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1112,
+      "selected_avg_freq": 571.18
+    },
+    "related_words": [
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "plaintiffs",
+      "claimant",
+      "sued",
+      "defendant",
+      "domiciled",
+      "domicile",
+      "defendants",
+      "extrajudicial",
+      "atlas",
+      "succession",
+      "patent",
+      "fill",
+      "predictability",
+      "unlike",
+      "unified",
+      "violated",
+      "cotonou",
+      "hear",
+      "enforced",
+      "teu",
+      "divisions",
+      "zimbabwe",
+      "insignificant",
+      "courts",
+      "enforce",
+      "disputes"
+    ],
+    "prompt_length": 1709,
+    "category": "1016 European construction"
+  }
+}

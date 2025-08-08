@@ -1,0 +1,63 @@
+{
+  "concept_id": "2308",
+  "concept_data": {
+    "title": "sea fishing",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sea fishing\" within EU legal and regulatory frameworks encompasses various activities aimed at the sustainable management of fishstocks. It involves the regulation of catches, including species such as solea and encrasicolus, to prevent misreporting and ensure compliance with quantitative limits. The EU's Common Fisheries Policy (CFP) establishes principles to manage fishing activities, addressing issues like crowding and the conservation of marine ecosystems. Member States, including the Netherlands and those bordering the Oeresund, are required to adhere to specific provisions that promote responsible fishing practices. Interlocutors in this domain must navigate agreements that balance economic opportunities with environmental sustainability, ensuring that fish populations, such as micromesistius and poutassou, are preserved for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:34:24.485330",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 2142,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 11.3
+    },
+    "related_words": [
+      "tananarivo",
+      "araticle",
+      "mourne",
+      "jorse",
+      "partcular",
+      "acivities",
+      "fishstocks",
+      "coun",
+      "quantitive",
+      "neterlands",
+      "seawards",
+      "ctches",
+      "ăş1",
+      "prinicples",
+      "copace",
+      "rthwest",
+      "registred",
+      "oeresund",
+      "misreporting",
+      "provisos",
+      "somewhere",
+      "solea",
+      "commiss",
+      "momentary",
+      "cosumption",
+      "etween",
+      "fină",
+      "actvities",
+      "nwwrac",
+      "agrement"
+    ],
+    "prompt_length": 1673,
+    "category": "5641 fisheries"
+  }
+}

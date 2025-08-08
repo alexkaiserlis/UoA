@@ -1,0 +1,63 @@
+{
+  "concept_id": "1475",
+  "concept_data": {
+    "title": "plant selection",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "plant breeding",
+    "relation_type": "USE"
+  },
+  "summary": "In EU agricultural policy, \"plant selection,\" redirected to \"plant breeding,\" encompasses techniques for developing new varieties of crops. This process involves the deliberate manipulation of genetic traits to enhance purity, yield, and resistance to herbicides like glyphosate. Plant breeding techniques may include the use of hybrids, clonal propagation, and cytoplasmic male sterility (cms) to produce desired traits in strains such as rye, soya, and hops. The genetic diversity revealed through breeding ensures homogeneity and maximizes production efficiency. Regulatory frameworks govern the catalogue of these varieties, ensuring that farmers can sow and harvest genetically distinct beans, hops, and other crops with specific qualities.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:50.084080",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 397,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 857,
+      "selected_avg_freq": 380.78
+    },
+    "related_words": [
+      "varieities",
+      "prdouction",
+      "provieded",
+      "chloroplast",
+      "cytoplasmic",
+      "sterility",
+      "cytoplasm",
+      "clonal",
+      "clones",
+      "cms",
+      "peptide",
+      "encompasses",
+      "glycine",
+      "blend",
+      "glyphosate",
+      "genes",
+      "max",
+      "bitter",
+      "herbicide",
+      "fractions",
+      "brewing",
+      "segregation",
+      "super",
+      "flowering",
+      "varietal",
+      "homogeneity",
+      "bean",
+      "similarities",
+      "mentions",
+      "deliberate"
+    ],
+    "prompt_length": 1683,
+    "category": "5606 agricultural policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5824",
+  "concept_data": {
+    "title": "project of common interest",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"project of common interest\" (PCI) is a regulatory concept within the EU framework aimed at enhancing cross-border connections in energy, transport, and digital infrastructure. By empowering governmental actors and investors, PCIs facilitate the development of strategically significant projects that address the demands of a rapidly evolving eEurope. The Connecting Europe Facility (CEF) plays a crucial role in financing these initiatives, thereby stressing the importance of partnerships and collaboration. By detailing measures that mitigate uncertainties, the PCI framework aims to attract investments while connecting regions and reducing dependence on unprofitable infrastructures. This initiative is vital for job creation and economic growth across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:33.215332",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 554,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 702,
+      "selected_avg_freq": 354.9066666666667
+    },
+    "related_words": [
+      "cef",
+      "smartly",
+      "miert",
+      "karel",
+      "empowerment",
+      "tens",
+      "meausres",
+      "eeurope",
+      "emphasising",
+      "discontinuing",
+      "denying",
+      "basing",
+      "stuttgart",
+      "slowing",
+      "capped",
+      "unprofitable",
+      "unemployed",
+      "detailing",
+      "chaired",
+      "connections",
+      "stressing",
+      "describing",
+      "connecting",
+      "dependence",
+      "van",
+      "partnerships",
+      "usefulness",
+      "envelope",
+      "empower",
+      "transmitting"
+    ],
+    "prompt_length": 1710,
+    "category": "1016 European construction"
+  }
+}

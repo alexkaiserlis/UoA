@@ -1,0 +1,63 @@
+{
+  "concept_id": "213",
+  "concept_data": {
+    "title": "industrial cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Industrial cooperation within the EU framework emphasizes collaborative efforts among various stakeholders, including konsortiums and syndicates, to enhance technological advancement and economic growth. This concept is particularly noteworthy in sectors such as telecommunications, where companies like Ericsson, Nokia, and Motorola engage in joint ventures to develop innovative solutions, including GSM technology. The regulatory landscape facilitates these partnerships through predefinition of roles and responsibilities, ensuring compliance with legal standards. Additionally, the amortization of investments in projects, such as those involving Daimler and Bosch, is crucial for financial viability. As globalization progresses, the need for effective cooperation becomes increasingly evident, channeling resources and expertise across borders, thereby fostering a competitive European market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:59:16.817839",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 706,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 327,
+      "selected_avg_freq": 114.75333333333333
+    },
+    "related_words": [
+      "konsortium",
+      "untertuerkheim",
+      "spécial",
+      "predefinition",
+      "detecon",
+      "channeled",
+      "matra",
+      "orbitel",
+      "ascom",
+      "hasler",
+      "sublicences",
+      "amortize",
+      "noteworthy",
+      "undeserved",
+      "intas",
+      "alochol",
+      "racal",
+      "alcatel",
+      "cge",
+      "plessey",
+      "sublicence",
+      "encoding",
+      "ericsson",
+      "amortization",
+      "syndicates",
+      "globalization",
+      "protuguese",
+      "aeg",
+      "tafia",
+      "arrack"
+    ],
+    "prompt_length": 1673,
+    "category": "0811 cooperation policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4217",
+  "concept_data": {
+    "title": "Sudan",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Sudan\" within EU legal and regulatory frameworks encompasses a range of geopolitical and humanitarian issues, particularly in relation to its fragility and the ongoing conflicts in regions like Darfur. The EU has engaged in various diplomatic efforts, including ceasefire initiatives and support for UNAMID, to address the immense challenges faced by the Sudanese population. Regulatory measures, such as embargoes on munitions and materiel, have been implemented to curb violence. The EU's involvement often includes collaboration with international partners, such as Ethiopia and Djibouti, and adherence to timeframes established in peace agreements. Notable figures, including advisors like Pekka Haavisto and Rosalind Mendez, have played crucial roles in these processes, emphasizing the importance of a coordinated response to Sudan's complex political landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:59:00.404832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 733,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 252,
+      "selected_avg_freq": 102.5
+    },
+    "related_words": [
+      "mendez",
+      "rosalind",
+      "marsden",
+      "pekka",
+      "haavisto",
+      "embargoes",
+      "acc",
+      "acmc",
+      "amelineau",
+      "billard",
+      "depositaries",
+      "nip",
+      "sudanese",
+      "euavsec",
+      "rosenkrands",
+      "unamid",
+      "immense",
+      "torben",
+      "brylle",
+      "amis",
+      "lasse",
+      "christensen",
+      "douglas",
+      "toa",
+      "timeframes",
+      "advisor",
+      "fragility",
+      "colonel",
+      "resign",
+      "adviser"
+    ],
+    "prompt_length": 1625,
+    "category": "7236 political geography"
+  }
+}

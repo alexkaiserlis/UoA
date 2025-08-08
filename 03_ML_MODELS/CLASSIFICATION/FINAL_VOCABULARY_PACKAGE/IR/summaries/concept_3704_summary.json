@@ -1,0 +1,63 @@
+{
+  "concept_id": "3704",
+  "concept_data": {
+    "title": "portable computer",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "micro-computer",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"portable computer,\" redirected to \"micro-computer,\" encompasses devices characterized by their compact design and functionality, crucial in the realm of information technology and data processing within EU legal frameworks. These microprocessors execute programs concurrently, featuring alphanumeric keyboards and screens that facilitate user interaction. Their applications range from executing mathematical calculations to serving as servers in complex computing environments. In regulatory contexts, considerations include the concealment of sensitive data and the potential for improvised uses, such as in baggage or by individuals with malicious intent. The evolution of these devices reflects a shift towards minimalising physical constraints while enhancing computational capabilities.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:07:59.723884",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 454,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 678,
+      "selected_avg_freq": 268.3333333333333
+    },
+    "related_words": [
+      "punctuation",
+      "exponent",
+      "executions",
+      "concealments",
+      "improvised",
+      "minimalising",
+      "keys",
+      "sequences",
+      "terrorists",
+      "microprocessor",
+      "keyboard",
+      "servers",
+      "consoles",
+      "brackets",
+      "alphanumeric",
+      "translating",
+      "programmable",
+      "dot",
+      "arithmetical",
+      "carousel",
+      "memories",
+      "pocket",
+      "phones",
+      "concealed",
+      "aggressive",
+      "touch",
+      "computing",
+      "refine",
+      "mathematical",
+      "explosive"
+    ],
+    "prompt_length": 1757,
+    "category": "3236 information technology and data processing"
+  }
+}

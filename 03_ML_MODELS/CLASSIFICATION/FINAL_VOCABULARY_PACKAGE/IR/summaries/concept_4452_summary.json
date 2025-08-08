@@ -1,0 +1,63 @@
+{
+  "concept_id": "4452",
+  "concept_data": {
+    "title": "terrorism",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"terrorism\" within EU legal and regulatory frameworks encompasses various acts that threaten public safety and liberties, including bombings and assaults. The EU actively addresses the radicalisation of individuals, often researching the profiles of perpetrators, such as those linked to groups like qaeda. Legal measures include unfreezing assets of individuals like Mahmoud Abdrabbah and instructing ombudspersons to ensure compliance with human rights. The EU also emphasizes the importance of guilt and innocence in prosecuting those sponsoring terrorism. Notable cases, such as the assassination of Rafiq Hariri in Beirut, highlight the complexities of international cooperation in combating terrorism.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:43:01.114658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1312,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 54,
+      "selected_avg_freq": 20.94
+    },
+    "related_words": [
+      "qaeda",
+      "unfreezing",
+      "ombudsperson",
+      "jose",
+      "sison",
+      "ghunia",
+      "abdrabbah",
+      "bashir",
+      "faqih",
+      "tahir",
+      "nasuf",
+      "sanabel",
+      "rafiq",
+      "hariri",
+      "beirut",
+      "dozens",
+      "guilt",
+      "innocence",
+      "sponsoring",
+      "perpetrating",
+      "radicalisation",
+      "researching",
+      "unfreeze",
+      "howe",
+      "uthman",
+      "omar",
+      "mahmoud",
+      "othman",
+      "nigerien",
+      "wallis"
+    ],
+    "prompt_length": 1616,
+    "category": "0431 politics and public safety"
+  }
+}

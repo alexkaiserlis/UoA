@@ -1,0 +1,63 @@
+{
+  "concept_id": "114",
+  "concept_data": {
+    "title": "European Union Council",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Council of the European Union",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Union Council,\" a redirect to the \"Council of the European Union,\" plays a pivotal role in EU governance, functioning as a confederation of member states' representatives. It convenes at summits to scrutinise legislative proposals and engage in codecision processes, thereby ensuring democratic legitimacy. The Council, often perceived through the lens of its historical evolution, reflects a detachment from traditional governance models, embodying a troika of interests: national, supranational, and civil service. Its coreper (Committee of Permanent Representatives) facilitates administrative tasks, while the Council's decisions impact diverse areas, including trade agreements and social policies, such as breastfeeding regulations. The Council's actions are often declassified for transparency, fostering a culture of cognisance among stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:05:14.886764",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1566,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 78,
+      "selected_avg_freq": 34.79333333333334
+    },
+    "related_words": [
+      "boissieu",
+      "ersboell",
+      "solana",
+      "madariaga",
+      "très",
+      "confidentiel",
+      "confident",
+      "cognisance",
+      "detachment",
+      "sultanate",
+      "trumpf",
+      "europan",
+      "consejo",
+      "telefónica",
+      "outturns",
+      "testa",
+      "conventionally",
+      "downsizing",
+      "troika",
+      "eve",
+      "summits",
+      "confederations",
+      "eurocadres",
+      "confédération",
+      "cadres",
+      "originator",
+      "relinquish",
+      "scrutinising",
+      "breastfeeding",
+      "administrativo"
+    ],
+    "prompt_length": 1772,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

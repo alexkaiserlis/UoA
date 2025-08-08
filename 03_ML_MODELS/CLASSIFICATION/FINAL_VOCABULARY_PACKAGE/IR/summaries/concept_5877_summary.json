@@ -1,0 +1,63 @@
+{
+  "concept_id": "5877",
+  "concept_data": {
+    "title": "animal health",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"animal health\" within EU legal and regulatory frameworks encompasses a wide range of activities aimed at ensuring the well-being of live animals, including provisions for biosecurity and disease management. This includes the regulation of cloning techniques, such as somatic cell nuclear transfer (SCNT), and the use of veterinary medicines like fenbendazole and oxfendazole. The EU also addresses dilemmas related to bee health, emphasizing the importance of honeybee populations in agricultural microclimates. Regulatory tools, such as the veterinary toolkit and guidelines on the use of chlorobenzenesulphonamide, are essential for maintaining animal health standards. Additionally, the Eurobarometer surveys public awareness regarding animal health issues, highlighting the necessity for education and informed practices among formulators and veterinære professionals.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:13.333093",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 2269,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 13.146666666666667
+    },
+    "related_words": [
+      "cloning",
+      "scnt",
+      "microclimate",
+      "edit",
+      "booklet",
+      "necessaary",
+      "febantel",
+      "liveanimals",
+      "bee_health_en",
+      "provsionally",
+      "ignorance",
+      "haw",
+      "toolkit",
+      "factorial",
+      "biocontainment",
+      "dilemmas",
+      "cahp",
+      "veevoeder",
+      "bett",
+      "calving",
+      "relapses",
+      "formulators",
+      "oxfendazole",
+      "dexamethasone",
+      "honeybee",
+      "chlorobenzenesulphonamide",
+      "chloramine",
+      "eurobarometer",
+      "antraquinone",
+      "antipolis"
+    ],
+    "prompt_length": 1704,
+    "category": "5631 agricultural activity"
+  }
+}

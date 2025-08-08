@@ -1,0 +1,63 @@
+{
+  "concept_id": "169",
+  "concept_data": {
+    "title": "plywood",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Plywood, a crucial product in the wood industry, encompasses various types such as laminated, veneered, and blockboard. In EU legal and regulatory contexts, plywood is defined by its construction from thin sheets of timber, typically coniferous, bonded together to form panels. These panels, often used in carpentry and joinery, must meet specific standards regarding thickness and durability. Regulatory frameworks may address aspects like the unfinished edges of plywood, ensuring compliance with safety and environmental regulations. Additionally, the eventuality of using plywood in builders' applications necessitates adherence to guidelines that govern its production and distribution across member states, including the Benelux region.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:39:14.071447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 280,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1215,
+      "selected_avg_freq": 579.4
+    },
+    "related_words": [
+      "plywoods",
+      "blockboard",
+      "veneered",
+      "lipping",
+      "laminboard",
+      "battenboard",
+      "carpentry",
+      "joinery",
+      "builders",
+      "ply",
+      "applicaton",
+      "unfinished",
+      "plywood",
+      "laminated",
+      "thick",
+      "rectangular",
+      "eventuality",
+      "coniferous",
+      "edges",
+      "door",
+      "drawings",
+      "cubic",
+      "onions",
+      "nil",
+      "thickness",
+      "panels",
+      "piece",
+      "timber",
+      "stands",
+      "sheets"
+    ],
+    "prompt_length": 1617,
+    "category": "6836 wood industry"
+  }
+}

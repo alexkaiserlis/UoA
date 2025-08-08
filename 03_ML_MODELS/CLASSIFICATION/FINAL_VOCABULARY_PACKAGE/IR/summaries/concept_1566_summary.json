@@ -1,0 +1,63 @@
+{
+  "concept_id": "1566",
+  "concept_data": {
+    "title": "drinking milk",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"drinking milk\" falls under the category of processed agricultural produce within EU regulations. It encompasses various formulations intended for human consumption, particularly infants and ruminants. Regulatory frameworks aim to harmonise standards for milk processors, ensuring that ingredients meet established maximum residue limits (MRLs) for medicinal substances, such as triclabendazole and closantel. These regulations address potential risks associated with biocidal residues in milk, which could jeopardise public health. The EU's commitment to steady improvement in food safety involves monitoring habits in husbandry practices and enforcing clearance protocols for expiring products. This changeover to stricter regulations reflects the EU's wishes to enhance consumer protection while supporting local communes and processors.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:31.335896",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 382,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1137,
+      "selected_avg_freq": 571.2
+    },
+    "related_words": [
+      "communal",
+      "triclabendazole",
+      "closantel",
+      "cvmp",
+      "extrapolation",
+      "mrl",
+      "accessions",
+      "muscle",
+      "pharmacologically",
+      "mrls",
+      "husbandry",
+      "kidney",
+      "communes",
+      "habits",
+      "enrichment",
+      "steady",
+      "permission",
+      "infants",
+      "liver",
+      "smoothly",
+      "biocidal",
+      "changeover",
+      "drinking",
+      "ruminants",
+      "solve",
+      "compromise",
+      "medicines",
+      "jeopardise",
+      "processors",
+      "skimmed"
+    ],
+    "prompt_length": 1677,
+    "category": "6016 processed agricultural produce"
+  }
+}

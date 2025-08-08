@@ -1,0 +1,63 @@
+{
+  "concept_id": "2556",
+  "concept_data": {
+    "title": "fishing agreement",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"fishing agreement\" refers to a legally binding arrangement between the European Union (EU) and third countries, aimed at regulating fishing activities within designated Exclusive Economic Zones (EEZ). These agreements, often initialled in locations like Malabo or Antananarivo, delineate the responsibilities of fishermen and skippers, ensuring sustainable practices. They address issues such as underutilisation of resources, providing opportunities for both EU and local fleets, including trawlers flagged in Gabonese and Mauritian waters. The agreements are crucial for oceanographic research and managing fish stocks, with notable examples including those involving the Faeroese and Portuguese fleets. Inactivity or non-compliance can lead to tragic consequences for marine biodiversity, prompting protests from environmental groups.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:05.651473",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1145,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 93,
+      "selected_avg_freq": 40.4
+    },
+    "related_words": [
+      "jurisdicition",
+      "apears",
+      "malabo",
+      "antananarivo",
+      "cummunity",
+      "fisherman",
+      "responsabilities",
+      "enroled",
+      "gdynia",
+      "intialled",
+      "fpa",
+      "tragic",
+      "crowds",
+      "mautitian",
+      "agrement",
+      "oceanographic",
+      "opportunitities",
+      "defintive",
+      "protesting",
+      "crawfish",
+      "luanda",
+      "inactivity",
+      "contrasting",
+      "mauritian",
+      "maputo",
+      "skagerrakfor",
+      "offical",
+      "midnight",
+      "shortening",
+      "rabat"
+    ],
+    "prompt_length": 1690,
+    "category": "5641 fisheries"
+  }
+}

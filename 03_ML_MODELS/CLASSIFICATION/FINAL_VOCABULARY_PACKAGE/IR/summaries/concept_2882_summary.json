@@ -1,0 +1,63 @@
+{
+  "concept_id": "2882",
+  "concept_data": {
+    "title": "radioactivity",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Radioactivity, a critical concept within the electrical and nuclear industries, pertains to the emission of ionizing radiations from unstable nuclides. In EU regulatory frameworks, radioactivity is closely monitored through arrangements established by the IAEA and EURDEP, ensuring public safety against the dangers of radioactive materials. The assessment of radiological risks involves sophisticated detectors and methodologies, including radiocarbon dating and scintillation techniques. Legal standards dictate the management of thermocurrents and cryogenic conditions in nuclear facilities, addressing environmental impacts on hydrogeology and atmospheric conditions. The legacy of incidents like Chernobyl underscores the importance of seamless regulatory oversight to protect lives and maintain excellent safety standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:35.326566",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 489,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 690,
+      "selected_avg_freq": 286.12666666666667
+    },
+    "related_words": [
+      "thermocurrents",
+      "radiocarbon",
+      "hydrogeology",
+      "eurdep",
+      "arranements",
+      "mergency",
+      "cryotronics",
+      "lts",
+      "scintillation",
+      "harshaw",
+      "strijkviertel",
+      "meern",
+      "montedel",
+      "carb",
+      "cryostat",
+      "geology",
+      "laben",
+      "bassini",
+      "maid",
+      "osney",
+      "nuclides",
+      "radiations",
+      "cryogenic",
+      "oxford",
+      "ionic",
+      "packard",
+      "canberra",
+      "ionizing",
+      "detector",
+      "dating"
+    ],
+    "prompt_length": 1693,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6920",
+  "concept_data": {
+    "title": "educational cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "cooperation in the field of education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"educational cooperation,\" redirected to \"cooperation in the field of education,\" encompasses a wide range of activities aimed at strengthening relations among EU member states and third nations, including Andorra. Governed by frameworks established by UNESCO and ISCED classifications, this cooperation involves ongoing efforts to enhance educational structures and training programs. The EU undertakes tasks to maintain compatibility across educational policies, ensuring comparability and transmission of best practices. Statistical developments and updated files facilitate the analysis of educational statistics, supporting negotiations and authorisation processes. This cooperation ultimately aims to foster cultural exchange and improve educational outcomes across sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:38.289336",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 127,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 127,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1865.5275590551182
+    },
+    "related_words": [
+      "isced",
+      "unesco",
+      "andorra",
+      "classifications",
+      "files",
+      "tourism",
+      "principality",
+      "educational",
+      "micro",
+      "hitherto",
+      "comparability",
+      "attributed",
+      "education",
+      "cultural",
+      "ongoing",
+      "delegated",
+      "undertake",
+      "governed",
+      "conference",
+      "strengthen",
+      "relations",
+      "nations",
+      "statistics",
+      "covers",
+      "luxembourg",
+      "training",
+      "version",
+      "wide",
+      "range",
+      "structures"
+    ],
+    "prompt_length": 1780,
+    "category": "0811 cooperation policy"
+  }
+}

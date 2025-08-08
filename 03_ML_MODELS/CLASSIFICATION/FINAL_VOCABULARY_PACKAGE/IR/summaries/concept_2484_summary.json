@@ -1,0 +1,63 @@
+{
+  "concept_id": "2484",
+  "concept_data": {
+    "title": "population policy",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Population policy within the EU framework encompasses a range of strategies aimed at addressing demographic challenges. It rigorously promotes reproductive health, including contraception and sterilization, to improve fertility rates and curb unwanted pregnancies. The policy stresses the importance of gender equity, particularly in addressing the needs of girls and adolescents, while denouncing practices such as infanticide and abandonment. By mainstreaming incentives for family planning and housing, the EU seeks to create a fairer environment conducive to demographic stability. Challenges remain, including unmet needs for clean sewerage and healthcare, which hamper overall livelihood and threaten sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:04:31.491306",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 327,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 920,
+      "selected_avg_freq": 415.16
+    },
+    "related_words": [
+      "enlist",
+      "denounces",
+      "infanticide",
+      "contraception",
+      "inflicted",
+      "sewerage",
+      "spacing",
+      "cairo",
+      "unmet",
+      "abortion",
+      "adolescents",
+      "upholds",
+      "sterilization",
+      "mainstreaming",
+      "fertility",
+      "curbing",
+      "rigorously",
+      "fairer",
+      "attitude",
+      "girls",
+      "unwanted",
+      "truly",
+      "improper",
+      "livelihood",
+      "demographic",
+      "diversified",
+      "hampered",
+      "encompassing",
+      "stressing",
+      "moderate"
+    ],
+    "prompt_length": 1709,
+    "category": "2816 demography and population"
+  }
+}

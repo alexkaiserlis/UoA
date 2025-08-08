@@ -1,0 +1,63 @@
+{
+  "concept_id": "4110",
+  "concept_data": {
+    "title": "laser physics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Laser physics, a pivotal field within natural and applied sciences, encompasses the study of energetic molecules and their interactions through techniques such as spectroscopy and holography. In the EU regulatory context, understanding laser physics is essential for developing standards that govern the use of lasers in various applications, including medical devices and telecommunications. The principles of excitation and fluorescence are crucial for the design of pulsed lasers, which utilize resonant frequencies to manipulate light at micropositionable altitudes. Regulatory frameworks must address safety measures for devices employing photomultipliers and attenuators, ensuring compliance with EU directives while fostering innovation in technologies like jodon and tropel lasers.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:26:51.494980",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 250,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1207,
+      "selected_avg_freq": 346.32666666666665
+    },
+    "related_words": [
+      "polyatomic",
+      "acoustically",
+      "resonant",
+      "opto",
+      "molectron",
+      "hyper",
+      "jodon",
+      "micropositionable",
+      "mph",
+      "attenuator",
+      "uba",
+      "parabolic",
+      "holography",
+      "tropel",
+      "altitudes",
+      "frre",
+      "lasers",
+      "energetic",
+      "fringe",
+      "splitter",
+      "holographic",
+      "quanta",
+      "pdl",
+      "yag",
+      "dcr",
+      "excited",
+      "quantel",
+      "orsay",
+      "photomultiplier",
+      "picosecond"
+    ],
+    "prompt_length": 1666,
+    "category": "3606 natural and applied sciences"
+  }
+}

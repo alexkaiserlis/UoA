@@ -1,0 +1,63 @@
+{
+  "concept_id": "5354",
+  "concept_data": {
+    "title": "Joint Research Centre",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Joint Research Centre (JRC) operates as a decentralized institution within the EU, contributing to the development of science and technology. Located in Petten, it employs staff equipped to execute complex analyses in various fields, including nuclear sciences and medical diagnostics. The JRC's role necessitates collaboration with governors and officials to solve pressing problems, such as combating fraud and enhancing safety in nuclear reactors. Its research encompasses isotopic flux and thermonuclear fusion, providing critical insights for regulatory frameworks. The JRC’s reorganization aims to adapt to evolving challenges, ensuring that it remains operable and effective in addressing societal needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:22:38.897793",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 240,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1908,
+      "selected_avg_freq": 903.6133333333333
+    },
+    "related_words": [
+      "petten",
+      "shiftwork",
+      "operable",
+      "hfr",
+      "isotopic",
+      "flux",
+      "decentralized",
+      "correspondingly",
+      "reactors",
+      "thermonuclear",
+      "reactor",
+      "sciences",
+      "jrc",
+      "fusion",
+      "governors",
+      "reorganization",
+      "therapeutic",
+      "solving",
+      "execute",
+      "delegate",
+      "directors",
+      "medicine",
+      "director",
+      "servants",
+      "diagnostic",
+      "acquire",
+      "telex",
+      "science",
+      "equipped",
+      "necessitates"
+    ],
+    "prompt_length": 1727,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

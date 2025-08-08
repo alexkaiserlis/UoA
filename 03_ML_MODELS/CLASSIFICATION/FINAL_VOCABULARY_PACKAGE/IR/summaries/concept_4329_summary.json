@@ -1,0 +1,63 @@
+{
+  "concept_id": "4329",
+  "concept_data": {
+    "title": "price supplement",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": true,
+    "preferred_term": "additional duty",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"price supplement\" is a redirect to \"additional duty,\" which refers to a form of countermeasure enacted to address market distortions. This additional duty may be applied to specific goods, such as molasses and syrups, to ensure market stability and compliance with WTO obligations. The imposition of such duties can trigger disputes, particularly when corporations disagree with the calculated values or the exclusions applied. The DSB (Dispute Settlement Body) may serve as a corrective mechanism, addressing inconsistencies in trade practices. In this framework, quotations and bindings are critical, as they establish the legal parameters for purchasing and pricing variations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:35:44.750826",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 375,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 943,
+      "selected_avg_freq": 504.67333333333335
+    },
+    "related_words": [
+      "countermeasure",
+      "disapprove",
+      "countermeasures",
+      "fsc",
+      "extraterritorial",
+      "bindings",
+      "proclamation",
+      "disturbs",
+      "dsb",
+      "disagreed",
+      "appellate",
+      "corporations",
+      "disregard",
+      "exclusions",
+      "meaningful",
+      "molasses",
+      "deviations",
+      "syrups",
+      "worth",
+      "usd",
+      "marketable",
+      "enacted",
+      "quoted",
+      "sudden",
+      "trigger",
+      "inconsistent",
+      "absolute",
+      "concession",
+      "valorem",
+      "lifted"
+    ],
+    "prompt_length": 1713,
+    "category": "2451 prices"
+  }
+}

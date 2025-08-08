@@ -1,0 +1,63 @@
+{
+  "concept_id": "6139",
+  "concept_data": {
+    "title": "regulation of telecommunications",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"regulation of telecommunications\" within the EU framework encompasses a complex topology of legal instruments governing various aspects of communication technologies. This includes the management of country code top-level domains (ccTLDs) and the role of registrars in the delegation process overseen by ICANN. The regulatory landscape is influenced by entities such as BEREC and the RSPG, which assess the impact of radiocommunication and radiolocation technologies. Additionally, the regulation addresses issues related to unsynchronised networks, nomadic services, and broadband wireless access (BWA). The integration of multicasting and the development of query systems are crucial for efficient data flow, ensuring compliance with EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:19:49.633351",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1324,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 29,
+      "selected_avg_freq": 11.946666666666667
+    },
+    "related_words": [
+      "tld",
+      "tlds",
+      "cctlds",
+      "topology",
+      "cctld",
+      "query",
+      "registrars",
+      "queries",
+      "icann",
+      "delegable",
+      "gac",
+      "vacantia",
+      "scorecard",
+      "lan",
+      "radiocommunication",
+      "wrc",
+      "isotropic",
+      "radiodetermination",
+      "dfs",
+      "radiolocation",
+      "pleven",
+      "gabrovo",
+      "veliko",
+      "russe",
+      "turgovishte",
+      "silistra",
+      "triavna",
+      "pazardjik",
+      "smolyan",
+      "kurdzhaly"
+    ],
+    "prompt_length": 1625,
+    "category": "3226 communications"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3660",
+  "concept_data": {
+    "title": "research undertaking",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "research body",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"research undertaking,\" also referred to as a \"research body,\" encompasses various entities engaged in scientific studies, including those focused on epidemiological surveillance and veterinary medicine. These bodies, such as the JRCs and institutions like Wageningen and Ifremer, are pivotal in advancing knowledge through investigations into antigenes, norovirus, and biocontainment strategies. They often collaborate with councils and ministries, including the Bundesgesundheitsamt and the Ministero, to ensure compliance with fiscal regulations and to maximize research outputs. Their work contributes to the development of toolkits and methodologies that address public health concerns, thereby enhancing the EU's research landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:23:08.469456",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2564,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 15,
+      "selected_avg_freq": 8.8
+    },
+    "related_words": [
+      "estudios",
+      "fiscales",
+      "ief",
+      "epidemiosurveillance",
+      "bbsrc",
+      "prenormative",
+      "jrcs",
+      "antigenes",
+      "wageningen",
+      "investigación",
+      "cisa",
+      "valdeolmos",
+      "metritis",
+      "norovirus",
+      "nvs",
+      "counicl",
+      "meril",
+      "israc",
+      "relinquished",
+      "haw",
+      "toolkit",
+      "factorial",
+      "biocontainment",
+      "volksgezonderheid",
+      "veterinry",
+      "wasted",
+      "guarentee",
+      "ostertag",
+      "milieuhygiăťne",
+      "ministero"
+    ],
+    "prompt_length": 1803,
+    "category": "6416 research and intellectual property"
+  }
+}

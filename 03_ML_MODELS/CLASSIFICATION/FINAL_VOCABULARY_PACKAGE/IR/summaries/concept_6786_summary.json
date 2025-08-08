@@ -1,0 +1,63 @@
+{
+  "concept_id": "6786",
+  "concept_data": {
+    "title": "economic value",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic value\" within EU legal and regulatory frameworks pertains to the valuation of financial instruments, including derivatives and sovereign debt. It is crucial for stakeholders, such as banks and issuers, to assess the economic value of traded securities, which can be illiquid or liquid, depending on market conditions. Regulatory bodies like ESMA and the ECB provide clarifications on thresholds and enforcement mechanisms to ensure certainty in valuation practices. The economic value is often reflected in yield curves and can be influenced by factors such as default risk and trading venues. Understanding this concept is essential for participants in the financial markets, as it defines the monetary implications of their activities and informs decision-making regarding swaps and corporate shares.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:35:35.774782",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 167,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3259,
+      "selected_avg_freq": 1344.3
+    },
+    "related_words": [
+      "illiquid",
+      "venue",
+      "curve",
+      "swaps",
+      "esma",
+      "issuer",
+      "default",
+      "issuers",
+      "usefully",
+      "sovereign",
+      "valuation",
+      "corporate",
+      "stakeholder",
+      "money",
+      "derivatives",
+      "clarifications",
+      "traded",
+      "underlying",
+      "ecb",
+      "supervisory",
+      "ways",
+      "liquid",
+      "debt",
+      "yield",
+      "thresholds",
+      "analysed",
+      "read",
+      "participants",
+      "specifying",
+      "statute"
+    ],
+    "prompt_length": 1662,
+    "category": "1631 economic analysis"
+  }
+}

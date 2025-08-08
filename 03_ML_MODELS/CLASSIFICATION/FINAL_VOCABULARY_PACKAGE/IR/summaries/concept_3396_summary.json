@@ -1,0 +1,63 @@
+{
+  "concept_id": "3396",
+  "concept_data": {
+    "title": "North East (England)",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"North East (England)\" pertains to a specific region within the EU's regulatory framework, particularly in the context of funding and development. It encompasses areas such as Furness and Cumbria, where the European Social Fund (ESF) and the European Regional Development Fund (ERDF) play crucial roles. The programming and indexation of appropriations are essential for evaluating the readiness of projects that satisfy statutory requirements. The EU's intent is to adopt progressive frameworks that simplify access to finance, including loans from the European Investment Bank (EIB). This region's indicative priorities contribute to a breakdown of funding sources, ensuring that the partnership between local authorities and the EU foresees a declining need for intervention through structured programming phases, thereby enhancing economic resilience annually.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:46:46.044534",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 279,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1545,
+      "selected_avg_freq": 879.8333333333334
+    },
+    "related_words": [
+      "furness",
+      "cumbria",
+      "programmation",
+      "rechar",
+      "england",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "declining",
+      "adopts",
+      "foresees",
+      "statutory",
+      "west",
+      "loan",
+      "ecus",
+      "satisfies",
+      "loans",
+      "programming",
+      "statute",
+      "precisely",
+      "recipient"
+    ],
+    "prompt_length": 1649,
+    "category": "7206 Europe"
+  }
+}

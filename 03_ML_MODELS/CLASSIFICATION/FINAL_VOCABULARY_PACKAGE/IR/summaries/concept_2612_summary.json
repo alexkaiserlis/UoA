@@ -1,0 +1,63 @@
+{
+  "concept_id": "2612",
+  "concept_data": {
+    "title": "short-term outlook",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": true,
+    "preferred_term": "short-term forecast",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"short-term outlook,\" also known as \"short-term forecast,\" plays a crucial role in EU economic analysis, particularly in evaluating market conditions and resource management. This forecast enables organizations to draw accurate estimates regarding stock levels and supply categories, thereby facilitating proper appraisal of items such as wines, including rosé and white varieties. By considering preceding circumstances and enabling reliable declarations, stakeholders can fix deadlines for harvests and manage resources effectively. The breakdown of data sources allows for a detailed understanding of quality and proportion, ensuring that estimates are deemed trustworthy and able to inform future decisions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:41:54.011773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 111,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 111,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1916.3963963963963
+    },
+    "related_words": [
+      "evaluing",
+      "rosé",
+      "indispensible",
+      "estimating",
+      "psr",
+      "appraisal",
+      "red",
+      "wines",
+      "harvest",
+      "manage",
+      "accurate",
+      "estimate",
+      "items",
+      "breakdown",
+      "white",
+      "recourse",
+      "wine",
+      "declarations",
+      "reliable",
+      "stock",
+      "preceding",
+      "properly",
+      "sources",
+      "knowledge",
+      "enabling",
+      "draw",
+      "table",
+      "proportion",
+      "fix",
+      "show"
+    ],
+    "prompt_length": 1693,
+    "category": "1631 economic analysis"
+  }
+}

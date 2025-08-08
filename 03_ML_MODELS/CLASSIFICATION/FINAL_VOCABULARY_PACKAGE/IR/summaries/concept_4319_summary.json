@@ -1,0 +1,63 @@
+{
+  "concept_id": "4319",
+  "concept_data": {
+    "title": "cane sugar",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cane sugar, a significant commodity within the EU's regulatory framework, is subject to various legal stipulations aimed at ensuring sustainable production and trade. The aforementioned regulations address issues such as the equalization of market conditions and the prevention of unfair practices. Producers are encouraged to reutilise by-products, such as bagasse, in a manner that aligns with environmental goals. The EU's commitment to denouncing practices that disturb fair competition is evident in its stringent penalties for violations. Additionally, cane sugar's role in beverages necessitates compliance with food safety standards, ensuring that products are free from contaminants like radionuclides. The community's efforts to promote fair trade practices are underscored by initiatives that support producers from regions like Surinam and Ceylon, fostering a coexistence of diverse agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:51.450980",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1428,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 114,
+      "selected_avg_freq": 56.34
+    },
+    "related_words": [
+      "aforemeentioned",
+      "reutilised",
+      "themselvews",
+      "penality",
+      "barbadors",
+      "rupture",
+      "lined",
+      "polythene",
+      "ceylon",
+      "denouncing",
+      "unforseeable",
+      "prohibitive",
+      "cacao",
+      "caseinate",
+      "denounce",
+      "lading",
+      "sustainably",
+      "epas",
+      "pectin",
+      "surinam",
+      "lining",
+      "coexist",
+      "ivory",
+      "malagasy",
+      "elapses",
+      "scaled",
+      "fairest",
+      "encoded",
+      "restart",
+      "substantiates"
+    ],
+    "prompt_length": 1679,
+    "category": "6021 beverages and sugar"
+  }
+}

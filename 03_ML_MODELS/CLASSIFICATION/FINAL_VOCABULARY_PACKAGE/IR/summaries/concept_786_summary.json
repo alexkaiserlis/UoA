@@ -1,0 +1,63 @@
+{
+  "concept_id": "786",
+  "concept_data": {
+    "title": "modernization aid",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "modernisation aid",
+    "relation_type": "USE"
+  },
+  "summary": "Modernization aid, also referred to as \"modernisation aid,\" is a critical component of EU economic policy aimed at supporting sectors that require significant investment to modernize and enhance competitiveness. This aid can alleviate the burdening costs associated with modernizing immovable assets, such as trucks and machinery, particularly in specialized industries like rubber and agriculture. For instance, farmers in regions like Umbria and Marche may receive aid for replanting orchards or adopting halogenated technologies for improved efficiency. The European Commission supervises these aids to ensure compliance with regulations, notifying stakeholders of any encumbering conditions. Overall, modernization aid is tantamount to fostering innovation and rationalizing production processes across various sectors.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:57:30.062447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 702,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 404,
+      "selected_avg_freq": 187.64666666666668
+    },
+    "related_words": [
+      "encumbering",
+      "burdening",
+      "zwijndrecht",
+      "chlorobutyl",
+      "bromobutyl",
+      "tubeless",
+      "modernized",
+      "specializes",
+      "zonal",
+      "moniteur",
+      "grafting",
+      "supervisions",
+      "mutton",
+      "orchard",
+      "locust",
+      "nut",
+      "belge",
+      "concentrating",
+      "orchards",
+      "umbria",
+      "mitigated",
+      "antwerp",
+      "cauliflowers",
+      "halogenated",
+      "immovable",
+      "tyres",
+      "trucks",
+      "informs",
+      "tuscany",
+      "marche"
+    ],
+    "prompt_length": 1709,
+    "category": "1606 economic policy"
+  }
+}

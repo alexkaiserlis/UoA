@@ -1,0 +1,63 @@
+{
+  "concept_id": "1594",
+  "concept_data": {
+    "title": "pharmaceutical regulations",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "pharmaceutical legislation",
+    "relation_type": "USE"
+  },
+  "summary": "Pharmaceutical regulations, also referred to as pharmaceutical legislation, encompass a comprehensive framework governing the development, approval, and monitoring of medicinal products within the EU. This legislation ensures that therapies, including those involving dicyclanil, beclomethasone dipropionate, and acetylsalicylic acid, meet stringent safety and efficacy standards. It addresses various pharmaceutical products, from anthelmintics to complex formulations like flunixin and cloprostenol. The regulations also guide pharmacists and clinicians in the appropriate use of substances such as mentha piperita and eleutherococcus senticosus. By establishing protocols for clinical trials and post-market surveillance, these regulations aim to protect public health while fostering innovation in pharmaceutical therapies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:21.262824",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1235,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 35,
+      "selected_avg_freq": 13.72
+    },
+    "related_words": [
+      "dicyclanil",
+      "anisi",
+      "stellati",
+      "cinchonae",
+      "cinnamoni",
+      "cassiae",
+      "ceylanici",
+      "condurango",
+      "frangulae",
+      "gentianae",
+      "radix",
+      "boroformiate",
+      "mentha",
+      "piperita",
+      "kbr",
+      "lantmă",
+      "nnen",
+      "flunixin",
+      "beclomethasone",
+      "dipropionate",
+      "sesquioleate",
+      "monostearate",
+      "monolaurate",
+      "eleutherococcus",
+      "senticosus",
+      "rupr",
+      "pirlimycin",
+      "acetylsalicylic",
+      "carbasalate",
+      "acetylsalicylate"
+    ],
+    "prompt_length": 1798,
+    "category": "2841 health"
+  }
+}

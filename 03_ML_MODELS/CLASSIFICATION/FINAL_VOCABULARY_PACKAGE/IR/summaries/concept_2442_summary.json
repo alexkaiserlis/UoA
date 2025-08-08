@@ -1,0 +1,63 @@
+{
+  "concept_id": "2442",
+  "concept_data": {
+    "title": "farming policy",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "agricultural policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farming policy,\" redirected to \"agricultural policy,\" encompasses a comprehensive framework governing the EU's approach to agricultural practices, including extensification and the management of vineyards and grazing lands. This policy aims to ensure the integrality of rural economies while addressing issues such as insolvency and debts among farmers. Regulatory measures may involve reimbursing costs for irrigation systems and penalising irregularities in subsidy claims. The policy also facilitates inquiries into the veracity of agricultural practices and promotes the recovery of recoverable debts. By fostering amenities in the countryside, the agricultural policy supports sustainable development across regions like Bayern and Wallonne, ensuring that older farming methods are preserved while encouraging innovation through reorganization and acceleration of practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:45:55.305431",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 630,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 507,
+      "selected_avg_freq": 243.35333333333332
+    },
+    "related_words": [
+      "triplicate",
+      "extensify",
+      "ama",
+      "pria",
+      "région",
+      "alv",
+      "trdi",
+      "wallonne",
+      "mrae",
+      "mavi",
+      "ifap",
+      "clears",
+      "opekepe",
+      "amenities",
+      "penalising",
+      "integrality",
+      "guilder",
+      "impairing",
+      "recoverable",
+      "extensification",
+      "reimbursing",
+      "revaluation",
+      "bayern",
+      "turning",
+      "mezzogiorno",
+      "inquiries",
+      "acceleration",
+      "veracity",
+      "dismantlement",
+      "penalised"
+    ],
+    "prompt_length": 1738,
+    "category": "5606 agricultural policy"
+  }
+}

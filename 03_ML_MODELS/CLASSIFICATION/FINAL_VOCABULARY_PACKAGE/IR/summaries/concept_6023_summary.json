@@ -1,0 +1,63 @@
+{
+  "concept_id": "6023",
+  "concept_data": {
+    "title": "legal codification",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": true,
+    "preferred_term": "legal code",
+    "relation_type": "USE"
+  },
+  "summary": "Legal codification, often referred to as a \"legal code,\" involves the systematic arrangement and simplification of laws into a coherent framework. This process is crucial in the EU context, where legal texts are regularly issued to ensure uniformity across member states. By rationalising legal provisions, codification facilitates the inward and outward flow of goods, such as textiles and PVC, while safeguarding rights and obligations. It addresses unanticipated legal challenges, necessitating the rectification of inconsistent regulations. Legal codes also provide a basis for the repayment of debts and the remission of charges, ensuring that declarants can lodge claims validly. In this way, legal codification supports infrastructures that enhance tourism and trade, while allowing for the postponement of compliance in specific cases.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:37.916131",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 551,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 672,
+      "selected_avg_freq": 343.56666666666666
+    },
+    "related_words": [
+      "issused",
+      "unanticipated",
+      "filmscreens",
+      "tafiff",
+      "validly",
+      "arranging",
+      "alphabetical",
+      "regularisation",
+      "suspensive",
+      "declarant",
+      "reimported",
+      "pvc",
+      "triangular",
+      "rationalise",
+      "invoking",
+      "simplifications",
+      "necessitating",
+      "remission",
+      "safeguarded",
+      "identifiable",
+      "perishable",
+      "outward",
+      "unaltered",
+      "box",
+      "debts",
+      "facilitation",
+      "postponement",
+      "arrive",
+      "alpha",
+      "computerized"
+    ],
+    "prompt_length": 1786,
+    "category": "1206 sources and branches of the law"
+  }
+}

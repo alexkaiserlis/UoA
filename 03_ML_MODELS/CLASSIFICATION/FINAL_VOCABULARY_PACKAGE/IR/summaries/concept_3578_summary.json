@@ -1,0 +1,63 @@
+{
+  "concept_id": "3578",
+  "concept_data": {
+    "title": "diplomatic staff",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "diplomatic profession",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"diplomatic staff,\" redirected to the preferred term \"diplomatic profession,\" encompasses officials engaged in international affairs, particularly within EU frameworks. These professionals enjoy specific immunities and privileges, such as visa facilitation and protection against legal violations, which are essential for their missions. The EU's regulatory environment, including the Schengen acquis, governs the appointment and coordination of diplomatic posts, ensuring neighbourliness among member states. In contexts like Kosovo and Belarus, the EU has established guidelines for the nomination and appointment of diplomats, while also addressing issues like asset freezing and repression against opposition. This comprehensive framework supports the effective functioning of diplomatic missions across various nations, including Saudi Arabia and Indonesia, while also considering the rights of nationals and holders of diplomatic passports.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:06.806716",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 276,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1359,
+      "selected_avg_freq": 634.6533333333333
+    },
+    "related_words": [
+      "neighbourliness",
+      "royaumont",
+      "ohr",
+      "lukashenko",
+      "pakistani",
+      "preselected",
+      "unmik",
+      "indonesian",
+      "saudi",
+      "arabia",
+      "consular",
+      "reserving",
+      "coordinator",
+      "passports",
+      "enjoying",
+      "repression",
+      "immunities",
+      "diplomatic",
+      "freeze",
+      "pact",
+      "latters",
+      "kosovo",
+      "visas",
+      "visa",
+      "violations",
+      "belarus",
+      "nomination",
+      "builds",
+      "asset",
+      "principality"
+    ],
+    "prompt_length": 1729,
+    "category": "0806 international affairs"
+  }
+}

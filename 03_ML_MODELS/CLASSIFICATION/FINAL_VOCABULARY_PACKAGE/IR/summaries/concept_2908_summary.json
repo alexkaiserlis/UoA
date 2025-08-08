@@ -1,0 +1,63 @@
+{
+  "concept_id": "2908",
+  "concept_data": {
+    "title": "population register",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "population census",
+    "relation_type": "USE"
+  },
+  "summary": "The \"population register,\" a concept within EU demography and population frameworks, is primarily redirected to the term \"population census.\" This relationship underscores the importance of systematic tabulations and methodologies for documenting demographic data. Population censuses provide exhaustive overviews of households, disaggregated by gender and age, fostering accountability and objectivity in demographic projections. The EU employs these censuses to enhance understanding of inequalities across metropolitan areas, utilizing scientifically sound methodologies. By disseminating metadata and logical classifications, the EU aims to synchronize demographic data across member states, ensuring comprehensive comparisons and addressing the challenges posed by an ageing population.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:45:05.348062",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 472,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 658,
+      "selected_avg_freq": 314.78
+    },
+    "related_words": [
+      "tabulations",
+      "judicious",
+      "demography",
+      "synchronization",
+      "coreper",
+      "overviews",
+      "gothenburg",
+      "denominator",
+      "disaggregated",
+      "fostered",
+      "metadata",
+      "censuses",
+      "exhibits",
+      "inequalities",
+      "disseminating",
+      "census",
+      "orally",
+      "sex",
+      "generations",
+      "objectivity",
+      "metropolitan",
+      "impartiality",
+      "beijing",
+      "demographic",
+      "logical",
+      "enhancement",
+      "disseminated",
+      "lengthy",
+      "methodological",
+      "accountability"
+    ],
+    "prompt_length": 1806,
+    "category": "2816 demography and population"
+  }
+}

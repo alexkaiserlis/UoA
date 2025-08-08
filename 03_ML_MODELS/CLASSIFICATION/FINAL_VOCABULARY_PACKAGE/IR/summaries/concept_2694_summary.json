@@ -1,0 +1,63 @@
+{
+  "concept_id": "2694",
+  "concept_data": {
+    "title": "vaporisation",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "physical process",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vaporisation,\" as a redirect to the preferred term \"physical process,\" pertains to the transformation of substances from a solid or liquid state into a gas. In EU legal and regulatory contexts, vaporisation is crucial for understanding processes such as liquefaction and gasification of fuels, which are essential for energy transition strategies. This physical process is particularly relevant in the development of cryogenic technologies, where cooled apparatus and thermal devices operate at low temperatures. Regulatory frameworks may prohibit hazardous substances and promote viable solutions for energy efficiency, ensuring reliability in applications ranging from medical to educational fields. The EU emphasizes the need for specially designed equipment and a willingness to innovate in thermal cycles, fostering advancements in superconductors and bonding technologies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:27.530648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 209,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2298,
+      "selected_avg_freq": 919.6466666666666
+    },
+    "related_words": [
+      "liquefaction",
+      "gasification",
+      "mead",
+      "cryotronics",
+      "lts",
+      "superconductor",
+      "cryo",
+      "cooler",
+      "equipotential",
+      "osney",
+      "cooled",
+      "cryogenic",
+      "probes",
+      "bonding",
+      "oxford",
+      "refrigerator",
+      "conductor",
+      "alloys",
+      "temperatures",
+      "thermal",
+      "renew",
+      "ordered",
+      "willingness",
+      "specially",
+      "hazardous",
+      "demonstration",
+      "substitution",
+      "fuels",
+      "affirmative",
+      "solid"
+    ],
+    "prompt_length": 1737,
+    "category": "6411 technology and technical regulations"
+  }
+}

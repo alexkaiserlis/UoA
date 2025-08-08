@@ -1,0 +1,63 @@
+{
+  "concept_id": "4994",
+  "concept_data": {
+    "title": "wheat",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wheat\" (triticum aestivum) encompasses various plant products regulated within the EU framework. This includes diverse varieties such as spelt and khorasan, which are propagated for their unique properties. Regulatory documents address issues like ochratoxin levels in wheat products, ensuring safety against intolerances and allergies. Dockers and malsters play crucial roles in the supply chain, while coordinators oversee compliance with standards. The legal framework also considers bioliquids derived from wheat, promoting sustainable practices. Additionally, trademarks related to specific wheat varieties, such as kamut, are protected. Overall, the EU's approach aims to balance agricultural productivity with consumer safety and environmental sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:31:49.265723",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1216,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 195,
+      "selected_avg_freq": 91.62666666666667
+    },
+    "related_words": [
+      "approprite",
+      "dockers",
+      "malsters",
+      "intolerances",
+      "khorasan",
+      "forego",
+      "clipped",
+      "sometime",
+      "kamut",
+      "combinable",
+      "annualised",
+      "coordinators",
+      "checker",
+      "blank",
+      "aestivum",
+      "strikes",
+      "bioliquids",
+      "ochratoxin",
+      "lightly",
+      "phytosterol",
+      "wihtin",
+      "buoyant",
+      "phytostanols",
+      "phytostanol",
+      "corps",
+      "phytosterols",
+      "triticum",
+      "trademark",
+      "relieved",
+      "cholesterol"
+    ],
+    "prompt_length": 1665,
+    "category": "6006 plant product"
+  }
+}

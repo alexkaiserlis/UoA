@@ -1,0 +1,63 @@
+{
+  "concept_id": "4127",
+  "concept_data": {
+    "title": "national service",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"national service\" within the EU legal framework pertains to the obligations and roles of qualified staff and officials in defense-related contexts. It is notably relevant to institutions such as the European Communities, including ECSC and EURATOM, which establish regulations concerning employment conditions for civil servants. The majority of proposals submitted to the European Parliament and Council aim to amend existing provisions related to national service, ensuring compliance with justice and operational efficiency. Articles within treaties outline the requirements and responsibilities of acting members, while committees often consult on amending regulations to reflect evolving needs in defense and security policy.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:53:45.994693",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 50,
+      "requested_words": 150,
+      "min_frequency_found": 159,
+      "max_frequency_found": 4108,
+      "selected_words": 50,
+      "selected_min_freq": 159,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2214.78
+    },
+    "related_words": [
+      "servants",
+      "officials",
+      "qualified",
+      "staff",
+      "majority",
+      "ecsc",
+      "employment",
+      "gained",
+      "justice",
+      "notably",
+      "court",
+      "research",
+      "euratom",
+      "institutions",
+      "consulting",
+      "lay",
+      "respectively",
+      "experience",
+      "amend",
+      "acting",
+      "applying",
+      "single",
+      "regulations",
+      "light",
+      "said",
+      "submitted",
+      "last",
+      "concerned",
+      "respect",
+      "articles"
+    ],
+    "prompt_length": 1647,
+    "category": "0821 defence"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5548",
+  "concept_data": {
+    "title": "interinstitutional cooperation (EU)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Interinstitutional cooperation (EU) refers to the collaborative framework established among EU institutions, aimed at enhancing interoperability and synergies in policy implementation. This cooperation is principally governed by treaties that dictate the roles of various actors, including secretaries, auditors, and the ombudsman. It is administratively reinforced through dedicated committees that facilitate the interchange of ideas and resources. Scholars and scientists contribute to this architecture by providing insights that anticipate future challenges. The cooperation is obligatory for signatory institutions, ensuring that personnel can succeed in their mandates while leaving extraneous barriers behind. This collaborative approach ultimately enhances the repute of EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:39:47.549026",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 293,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1240,
+      "selected_avg_freq": 584.4066666666666
+    },
+    "related_words": [
+      "scholars",
+      "secretaries",
+      "engineers",
+      "dictates",
+      "erc",
+      "repute",
+      "ombudsman",
+      "extraneous",
+      "comittee",
+      "ida",
+      "telematic",
+      "corfu",
+      "registrar",
+      "precondition",
+      "endowed",
+      "administratively",
+      "succeed",
+      "architecture",
+      "scientists",
+      "horizon",
+      "courses",
+      "attachment",
+      "interchange",
+      "synergies",
+      "school",
+      "transmitting",
+      "anticipation",
+      "dedicated",
+      "servants",
+      "interoperability"
+    ],
+    "prompt_length": 1781,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

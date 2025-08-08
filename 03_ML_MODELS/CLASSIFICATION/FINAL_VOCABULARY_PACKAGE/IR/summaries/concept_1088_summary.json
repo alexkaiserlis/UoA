@@ -1,0 +1,63 @@
+{
+  "concept_id": "1088",
+  "concept_data": {
+    "title": "regions of France",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions of France\" pertains to the administrative divisions within the French Republic, which are integral to the governance structure of the EU. These regions, such as Limousin and Aquitaine, play a crucial role in the implementation of EU policies, particularly in areas like economic development and territorial aménagement. The regions, including notable cities like Besançon and Dunkerque, are tasked with judiciously managing resources and instigating local initiatives that align with EU objectives. Furthermore, regions like Charleville-Mézières and Toulon are often involved in reconverted economic activities, addressing underdeveloped areas while ensuring the originality of local cultures. The EU's commitment to regional stability and development is reflected in its support for these territories, which are essential for fostering a cohesive European identity.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:03.730562",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 1114,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 84,
+      "selected_avg_freq": 31.366666666666667
+    },
+    "related_words": [
+      "covernment",
+      "autun",
+      "charleville",
+      "mézières",
+      "sedan",
+      "charolaise",
+      "limousine",
+      "salers",
+      "toulon",
+      "seyne",
+      "aubagne",
+      "ciotat",
+      "dunkerque",
+      "massif",
+      "loză",
+      "besançon",
+      "aménagement",
+      "reconverted",
+      "nominally",
+      "oust",
+      "objecitives",
+      "judiciously",
+      "ocotber",
+      "whih",
+      "provisin",
+      "statue",
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél"
+    ],
+    "prompt_length": 1691,
+    "category": "7211 regions of EU Member States"
+  }
+}

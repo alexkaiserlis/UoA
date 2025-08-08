@@ -1,0 +1,166 @@
+ EURLEX LEGAL VOCABULARY - DOCUMENTATION
+==========================================
+
+ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ
+==================
+Ημερομηνία δημιουργίας: 29 Ιουλίου 2025
+Dataset πηγή: EURLEX57K (archive.org)
+Γλώσσα: Αγγλικά
+Σκοπός: Δημιουργία καθαρού νομικού λεξιλογίου με Eurovoc concept mappings
+
+ΠΕΡΙΕΧΟΜΕΝΑ ΦΑΚΕΛΟΥ
+==================
+1. eurlex_legal_vocabulary.json - Τελικό καθαρισμένο vocabulary με Eurovoc concepts
+2. eurovoc_concepts_mapping.csv - Επίσημο Eurovoc ID→Title mapping
+3. DOCUMENTATION.txt - Αυτό το αρχείο τεκμηρίωσης
+
+ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΞΕΡΓΑΣΙΑΣ
+======================
+
+Βήμα 1: Λήψη και φόρτωση δεδομένων
+----------------------------------
+- Πηγή: EURLEX57K dataset από archive.org
+- Split: Train (45,000 νομικά έγγραφα)
+- Πεδία: celex_id, title, text, eurovoc_concepts
+- Eurovoc concepts: 4,108 μοναδικά IDs (εύρος: "3" - "452085")
+
+Βήμα 2: Εξαγωγή vocabulary από κείμενο
+-------------------------------------
+Script: eurlex_vocabulary_train.py
+- Επεξεργασία 45,000 εγγράφων train split
+- Καθάρισμα κειμένου με regex: [^a-zA-Z\s]
+- Μετατροπή σε πεζά γράμματα
+- Διαίρεση σε λέξεις
+- Δημιουργία mapping: λέξη → λίστα Eurovoc concept IDs
+- Αρχικό αποτέλεσμα: 49,727 λέξεις
+
+Βήμα 3: Πρώτο καθάρισμα - Stop words και μη-νομικοί όροι
+--------------------------------------------------------
+Script: clean_vocabulary.py
+- Αφαίρεση stop words (the, of, in, and, κ.α.)
+- Αφαίρεση λέξεων <= 2 χαρακτήρες
+- Αφαίρεση αμιγώς αριθμητικών λέξεων
+- Αφαίρεση λέξεων με >4000 concept associations (υπερ-γενικές)
+- Διατήρηση σημαντικών νομικών όρων
+- Αποτέλεσμα: 42,026 λέξεις (-7,701 λέξεις, -15.5%)
+
+Βήμα 4: Εμπλουτισμός με Eurovoc titles
+-----------------------------------------
+Script: enrich_vocabulary_with_eurovoc_titles.py
+- Φόρτωση επίσημου eurovoc_export_en.csv
+- Mapping 7,384 Eurovoc concepts ID→Title
+- Μετατροπή format από ['ID1', 'ID2'] σε [{'id': 'ID1', 'title': 'Title1'}]
+- Eurovoc concept coverage: 99.35% (3,235,076/3,256,079)
+- Αποτέλεσμα: 42,026 λέξεις με enriched format
+
+Βήμα 5: Τελικό καθάρισμα - Αριθμητικό περιεχόμενο
+--------------------------------------------------
+Script: clean_numbers_from_enriched_vocabulary.py
+- Αφαίρεση καθαρών αριθμών και χρονολογιών
+- Αφαίρεση αριθμητικών κωδικών (n105, 45w, 198a)
+- Αφαίρεση ρωμαϊκών αριθμών (iii, xxviii, xxiv)
+- Διατήρηση σημαντικών νομικών όρων με αριθμούς (h5n1, eu15, g20)
+- Αποτέλεσμα: 40,431 λέξεις (-1,595 λέξεις, -3.8%)
+
+ΤΕΛΙΚΑ ΣΤΑΤΙΣΤΙΚΑ
+================
+Συνολικές λέξεις: 40,431
+Συνολικά Eurovoc concepts: 3,233,099
+Μέσος όρος concepts ανά λέξη: 79.97
+Μοναδικά Eurovoc concepts: 4,108
+Coverage Eurovoc titles: 99.35%
+
+Κατανομή λέξεων με τα περισσότερα concepts:
+1. "european" - 4,108 concepts
+2. "treaty" - 4,090 concepts  
+3. "council" - 4,073 concepts
+4. "commission" - 4,003 concepts
+5. "establishing" - 3,824 concepts
+
+Πιο συχνά Eurovoc concepts:
+1. "1309" (import) - 10,477 λέξεις
+2. "2771" (rule of origin) - 9,770 λέξεις
+3. "192" (health watch) - 8,043 λέξεις
+4. "889" (public aid) - 7,980 λέξεις
+5. "1318" (West Germany) - 7,452 λέξεις
+
+Eurovoc CONCEPT MAPPING
+==========================
+Πηγή: eurovoc_export_en.csv (επίσημο Eurovoc export)
+Δομή CSV: ID;TERMS (PT-NPT);RELATIONS;PT;MT
+Παραδείγματα:
+- 594;AAMS countries;;;7231 economic geography
+- 2894;AAR;USE;activity report;3221 documentation
+- 1309;import;;;2016 trade
+
+Μέθοδος mapping:
+1. Χρήση πεδίου TERMS ως κύριος τίτλος
+2. Fallback στο πεδίο PT αν TERMS κενό
+3. Fallback σε "Concept {ID}" αν κανένα πεδίο διαθέσιμο
+
+ΣΥΝΟΛΙΚΗ ΜΕΙΩΣΗ ΚΑΙ ΒΕΛΤΙΩΣΕΙΣ
+=============================
+- Αρχικό vocabulary: 49,727 λέξεις (raw extraction)
+- Τελικό vocabulary: 40,431 λέξεις 
+- Συνολική μείωση: 9,296 λέξεις (-18.7%)
+- Ποιότητα: Διατήρηση μόνο νομικά σχετικών όρων
+- Χρηστικότητα: Human-readable Eurovoc titles
+- Ακρίβεια: 99.35% coverage των Eurovoc concepts
+
+FORMAT ΤΕΛΙΚΟΥ VOCABULARY
+=========================
+{
+  "λέξη": [
+    {
+      "id": "Eurovoc",
+      "title": "Human_Readable_Title"
+    },
+    ...
+  ]
+}
+
+Παράδειγμα:
+{
+  "regulation": [
+    {"id": "10", "title": "domestic trade"},
+    {"id": "1000", "title": "financing"},
+    {"id": "1004", "title": "welfare"}
+  ]
+}
+
+ΤΕΧΝΙΚΕΣ ΛΕΠΤΟΜΕΡΕΙΕΣ
+====================
+- Κωδικοποίηση: UTF-8
+- Format: JSON
+- Συνολικό μέγεθος: ~290MB (καθαρισμένο)
+- Γλώσσα scripts: Python 3
+- Εξαρτήσεις: json, csv, re, logging
+
+ΧΡΗΣΗ ΚΑΙ ΕΦΑΡΜΟΓΕΣ
+===================
+1. Σημασιολογική ανάλυση νομικών κειμένων
+2. Κατηγοριοποίηση εγγράφων βάσει Eurovoc concepts
+3. Αναζήτηση και indexing νομικού περιεχομένου
+4. Machine Learning για νομικά κείμενα
+5. Natural Language Processing εφαρμογές
+6. Νομικό information retrieval
+
+ΠΟΙΟΤΗΤΑ ΚΑΙ ΑΞΙΟΠΙΣΤΙΑ
+=======================
+- Πηγή δεδομένων: Επίσημα EU νομικά έγγραφα
+- Eurovoc mapping: Επίσημο EU vocabulary
+- Διαδικασία: Αυτοματοποιημένη με manual validation
+- Καθάρισμα: Πολλαπλές φάσεις φιλτραρίσματος
+- Coverage: 99.35% Eurovoc concept recognition
+
+ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΝΗΜΕΡΩΣΕΙΣ
+========================
+- Για ενημερώσεις Eurovoc concepts: Λήψη νέου eurovoc_export_en.csv
+- Για νέα νομικά κείμενα: Επεκτείναση με νέα EURLEX δεδομένα
+- Για βελτιώσεις καθαρισμού: Τροποποίηση filtering rules
+
+ΕΠΙΚΟΙΝΩΝΙΑ
+===========
+Δημιουργήθηκε από: Alex Kaiserlis
+Ημερομηνία: 29 Ιουλίου 2025
+Πλαίσιο: AEGEAN UNIVERSITY - LEGAL DOCUMENTS ARCHIVE PROJECT

@@ -1,0 +1,26 @@
+{
+  "concept_id": "5720",
+  "concept_data": {
+    "title": "endocrine disease",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Endocrine disease refers to a group of disorders affecting the endocrine system, which regulates hormones critical for various bodily functions. In the context of EU legal and regulatory frameworks, endocrine diseases are significant due to their implications for public health and environmental safety. The EU has established regulations, such as REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals), to assess and manage substances that may disrupt endocrine functions. These regulations aim to protect human health and the environment from the adverse effects of endocrine-disrupting chemicals (EDCs). Understanding endocrine disease is essential for effective policy-making and regulatory compliance within the EU health sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:46:24.507288",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1163,
+    "category": "2841 health"
+  }
+}

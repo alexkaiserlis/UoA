@@ -1,0 +1,63 @@
+{
+  "concept_id": "2799",
+  "concept_data": {
+    "title": "draft budget",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"draft budget\" is a crucial instrument in the EU's multiannual financial framework, specifying the anticipated revenue and expenditure for the upcoming fiscal period. It is prepared by the Commission and must undergo rigorous inspections and verifications by various agencies to ensure its efficacy and soundness. The draft budget is regularly monitored and may be adjusted based on the demand for resources and the accomplishment of defined tasks. It represents a discipline in budgetary governance, safeguarding the proper allocation of funds. The interinstitutional process involves cooperation among EU institutions to confer oversight and ensure that the budget aligns with strategic objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:24:15.232048",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 203,
+      "requested_words": 150,
+      "min_frequency_found": 92,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 92,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1342.2066666666667
+    },
+    "related_words": [
+      "supervise",
+      "accomplishment",
+      "inspectors",
+      "efficacy",
+      "possess",
+      "minimal",
+      "discharge",
+      "verifications",
+      "tobacco",
+      "confer",
+      "definitively",
+      "revenue",
+      "samples",
+      "side",
+      "schedule",
+      "stored",
+      "discipline",
+      "interinstitutional",
+      "inspections",
+      "multiannual",
+      "represented",
+      "defining",
+      "safeguard",
+      "supervision",
+      "advisable",
+      "correct",
+      "producing",
+      "regularly",
+      "atomic",
+      "raw"
+    ],
+    "prompt_length": 1676,
+    "category": "2441 budget"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6029",
+  "concept_data": {
+    "title": "tax revenue",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax collection",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"tax revenue,\" redirected to \"tax collection,\" encompasses the systematic gathering of revenues from taxable entities. This process is vital for ensuring equitable contributions to public finances, thereby reducing discrepancies in GNP and GDP calculations across member states. Streamlined tax collection mechanisms aim to prevent evasion and unreported income, ensuring that all residents contribute fairly. Theoretical frameworks, such as those discussed in G20 meetings, advocate for uniformity in tax practices, albeit with reservations regarding national privileges and immunities. Effective tax collection also involves retaining receipts and addressing instances of complicity or connivance in untaxed transactions, thereby enhancing the overall integrity of the tax system.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:04:37.895772",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 587,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 593,
+      "selected_avg_freq": 306.68
+    },
+    "related_words": [
+      "connivance",
+      "complicity",
+      "untaxed",
+      "exhaustiveness",
+      "g20",
+      "outweighed",
+      "streamlined",
+      "gnp",
+      "unreported",
+      "seamless",
+      "withholding",
+      "receipts",
+      "theoretical",
+      "smallest",
+      "hague",
+      "overlap",
+      "iia",
+      "immunities",
+      "opt",
+      "dual",
+      "reservations",
+      "child",
+      "privileges",
+      "albeit",
+      "broader",
+      "resident",
+      "derogates",
+      "discrepancies",
+      "slight",
+      "prevail"
+    ],
+    "prompt_length": 1698,
+    "category": "2446 taxation"
+  }
+}

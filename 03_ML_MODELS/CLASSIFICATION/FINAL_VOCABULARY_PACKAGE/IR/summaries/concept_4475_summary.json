@@ -1,0 +1,63 @@
+{
+  "concept_id": "4475",
+  "concept_data": {
+    "title": "fight against drugs",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "drug addiction",
+    "relation_type": "USE"
+  },
+  "summary": "The EU's \"fight against drugs\" primarily addresses issues surrounding \"drug addiction,\" focusing on the regulation of psychoactive substances, including stimulants like methylamphetamine and amphetamine. Legal frameworks aim to curb the production and distribution of precursors, such as bmk and methylated compounds, which are often synthesized in illicit shops. The regulation addresses the health impacts of drug consumption, including anxiety, depression, and hyperthermia, which can lead to severe conditions like insomnia and palpitations. Additionally, the EU combats drug-related crime, including money laundering linked to narcotic trafficking. The overarching goal is to mitigate the societal distress caused by addiction and its radical implications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:21.915960",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 507,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 525,
+      "selected_avg_freq": 200.90666666666667
+    },
+    "related_words": [
+      "methylamphetamine",
+      "methylated",
+      "methylbenzyl",
+      "bmk",
+      "anorexia",
+      "perspiration",
+      "coughing",
+      "headache",
+      "palpitations",
+      "insomnia",
+      "resemblance",
+      "phenethylamine",
+      "nausea",
+      "vomiting",
+      "paranoia",
+      "graduation",
+      "unknowingly",
+      "hyperthermia",
+      "amphetamine",
+      "stimulants",
+      "gastric",
+      "stimulant",
+      "psychoactive",
+      "anxiety",
+      "tablet",
+      "ketone",
+      "caffeine",
+      "distress",
+      "hypertension",
+      "precursor"
+    ],
+    "prompt_length": 1754,
+    "category": "2826 social affairs"
+  }
+}

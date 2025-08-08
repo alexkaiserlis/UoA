@@ -1,0 +1,63 @@
+{
+  "concept_id": "5024",
+  "concept_data": {
+    "title": "knitted and crocheted goods",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"knitted and crocheted goods\" encompasses a diverse range of garments produced from yarn, including shawls, slipovers, and nightshirts. In the context of EU legal and regulatory frameworks, these products are categorized under the leather and textile industries, specifically addressing the manufacturing and trade of items such as bibs, briefs, and bathrobes. The regulation of these goods involves establishing standards for quality and safety, ensuring that garments like trousers, dresses, and pyjamas meet consumer expectations. Additionally, the production of knitted items, such as mittens and anoraks, often utilizes various fabrics, including silk and filament, highlighting the importance of compliance in this staple sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:20.973771",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 331,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1036,
+      "selected_avg_freq": 350.5733333333333
+    },
+    "related_words": [
+      "shawls",
+      "cateogries",
+      "slipovers",
+      "singlets",
+      "nightshirts",
+      "bib",
+      "brace",
+      "briefs",
+      "indoniesa",
+      "overalls",
+      "underpants",
+      "bathrobes",
+      "knickers",
+      "boy",
+      "shorts",
+      "jerseys",
+      "estabishing",
+      "breeches",
+      "ensembles",
+      "dresses",
+      "pockets",
+      "pyjamas",
+      "anoraks",
+      "pullovers",
+      "mittens",
+      "mitts",
+      "illustrated",
+      "boys",
+      "trousers",
+      "garment"
+    ],
+    "prompt_length": 1656,
+    "category": "6841 leather and textile industries"
+  }
+}

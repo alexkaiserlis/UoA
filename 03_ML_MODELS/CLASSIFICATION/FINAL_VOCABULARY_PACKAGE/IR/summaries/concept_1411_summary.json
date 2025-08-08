@@ -1,0 +1,63 @@
+{
+  "concept_id": "1411",
+  "concept_data": {
+    "title": "mining industry",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"mining industry\" encompasses various undertakings involved in the extraction of minerals, including coal and potasse. In the EU, regulatory frameworks govern the management of mineral resources, ensuring sustainable practices and environmental protection. Key terms include sylvinite and pyrites, which are significant in mining operations. The industry faces challenges such as reconverting outdated facilities and addressing shutdowns of unpolluted sites. Regulatory bodies, such as the directoire overseeing mining activities, implement programmes for geochemical assessments and iterative reviews. Companies like Usinor and Voest engage in mining while adhering to strict environmental standards, promoting responsible gestion of resources.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:55:26.572270",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 978,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 130,
+      "selected_avg_freq": 47.06
+    },
+    "related_words": [
+      "potasse",
+      "entreprise",
+      "mdpa",
+      "sylvinite",
+      "directoire",
+      "mpda",
+      "domaniales",
+      "outbuildings",
+      "reconverting",
+      "erzberg",
+      "vaeg",
+      "öia",
+      "bergbauholding",
+      "industrieholding",
+      "donawitz",
+      "lkab",
+      "fer",
+      "compañia",
+      "andaluza",
+      "undertaings",
+      "pyrites",
+      "unpolluted",
+      "fluorite",
+      "silius",
+      "genna",
+      "tres",
+      "montis",
+      "intervento",
+      "fluorsid",
+      "hydrofluoric"
+    ],
+    "prompt_length": 1674,
+    "category": "6611 coal and mining industries"
+  }
+}

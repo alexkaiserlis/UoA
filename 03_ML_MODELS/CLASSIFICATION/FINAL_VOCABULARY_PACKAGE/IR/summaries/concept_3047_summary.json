@@ -1,0 +1,63 @@
+{
+  "concept_id": "3047",
+  "concept_data": {
+    "title": "development zone",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "development region",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"development zone\" redirects to \"development region,\" which refers to areas designated for specific economic and social restructuring. These regions, such as municipalities in the Basque Country or provinces like Oberpfalz, necessitate targeted aids to overcome constraints adversely affecting their growth. The stipulaters of EU policy aim to satisfy thresholds for funding, instituting programs that contribute to regional development. For instance, municipalities in regions like Bochum and Dortmund are often involved in initiatives that address labor market issues (arbeitsmarktregionen) and promote autonomous growth. The legal framework supports these efforts by instituting clear guidelines for compliance and restructuring, ensuring that errors in implementation are minimized.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:09:08.996938",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 149,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 149,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1525.6979865771812
+    },
+    "related_words": [
+      "stipulaters",
+      "etxebarria",
+      "arbeitsmarktregionen",
+      "oberhausen",
+      "osnabrueck",
+      "insituting",
+      "sebino",
+      "camonica",
+      "cavallina",
+      "bochum",
+      "braunschweig",
+      "dortmund",
+      "mittlere",
+      "hernani",
+      "spoleto",
+      "omits",
+      "spelling",
+      "oberpfalz",
+      "resider",
+      "terni",
+      "genoa",
+      "salzgitter",
+      "basque",
+      "duisburg",
+      "livorno",
+      "val",
+      "overcoming",
+      "typing",
+      "asturias",
+      "palatinate"
+    ],
+    "prompt_length": 1761,
+    "category": "1616 regions and regional policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5461",
+  "concept_data": {
+    "title": "dual-use good",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"dual-use good\" refers to items and technologies that can be utilized for both civilian and military applications, often encompassing sensitive materials such as enriched uranium, plutonium, and fissile isotopes. In the context of EU regulations, these goods are subject to stringent controls to prevent proliferation and misuse, particularly in regions experiencing aggression or terrorism, like Ukraine and Syria. The Wassenaar Arrangement and the Nuclear Suppliers Group (NSG) provide frameworks for managing these goods, aiming to mitigate destabilising inflows and hampering governmental repression. The EU's legal instruments impose prohibitions on the intentional transfer of dual-use goods to countries like Myanmar, where democracy is deteriorating.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:27:02.711914",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 399,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 953,
+      "selected_avg_freq": 422.2733333333333
+    },
+    "related_words": [
+      "fighters",
+      "aung",
+      "suu",
+      "kyi",
+      "nld",
+      "nsg",
+      "aggression",
+      "wassenaar",
+      "shale",
+      "materiel",
+      "plutonium",
+      "arctic",
+      "arrest",
+      "isotopes",
+      "uranium",
+      "fissile",
+      "league",
+      "intentional",
+      "inflows",
+      "hampering",
+      "destabilising",
+      "condemned",
+      "burma",
+      "dublin",
+      "enriched",
+      "ukrainian",
+      "myanmar",
+      "encompass",
+      "repression",
+      "weapons"
+    ],
+    "prompt_length": 1665,
+    "category": "6411 technology and technical regulations"
+  }
+}

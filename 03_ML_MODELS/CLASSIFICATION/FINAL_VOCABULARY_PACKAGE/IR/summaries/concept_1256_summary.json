@@ -1,0 +1,63 @@
+{
+  "concept_id": "1256",
+  "concept_data": {
+    "title": "psychiatric institution",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"psychiatric institution\" pertains to facilities that provide mental health services and support, crucial in the context of EU health regulations. In accordance with the decisions of the European Communities, particularly those dated December and March, these institutions are subject to specific conditions and regulations. The Hellenic Republic, for instance, has submitted applications for financial aid to enhance the quality of care within such institutions. The attached text outlines the particulars of the support granted, emphasizing the exceptional circumstances under which assistance applies. This regulatory framework aims to ensure that the economic and social needs of individuals are fulfilled, fostering an authentic commitment to mental health care across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:02:53.090180",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 345,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 345,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2365.5471698113206
+    },
+    "related_words": [
+      "hellenic",
+      "particulars",
+      "greek",
+      "favour",
+      "attached",
+      "fulfilled",
+      "exceptional",
+      "dated",
+      "greece",
+      "duration",
+      "previous",
+      "assistance",
+      "contained",
+      "granting",
+      "aid",
+      "applies",
+      "authentic",
+      "applications",
+      "extended",
+      "field",
+      "decisions",
+      "support",
+      "republic",
+      "social",
+      "submitted",
+      "financial",
+      "year",
+      "text",
+      "annex",
+      "referred"
+    ],
+    "prompt_length": 1668,
+    "category": "2841 health"
+  }
+}

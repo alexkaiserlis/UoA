@@ -1,0 +1,63 @@
+{
+  "concept_id": "1060",
+  "concept_data": {
+    "title": "well drilling",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "drilling",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"well drilling,\" categorized under coal and mining industries, is redirected to the preferred term \"drilling.\" This process is essential for geologists, geophysicists, and engineers engaged in the exploration and extraction of petroleum and gas deposits. In the EU regulatory framework, drilling activities are governed by specific nomenclatures and ISIC classifications, ensuring that professionals possess the necessary qualifications and diplomas. The liberalisation of the drilling sector tends to facilitate the search for resources, while formal licensing requirements ensure that site holders and employees adhere to safety and environmental standards. The attainment of these qualifications is crucial for conducting preparatory activities in mining and quarrying.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:10.000096",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 161,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3361,
+      "selected_avg_freq": 1308.5933333333332
+    },
+    "related_words": [
+      "geologist",
+      "geophysicist",
+      "engineer",
+      "prospecting",
+      "quarrying",
+      "decimal",
+      "drilling",
+      "isic",
+      "nomenclatures",
+      "tends",
+      "professions",
+      "occupations",
+      "engaging",
+      "diplomas",
+      "deposits",
+      "search",
+      "extraction",
+      "nice",
+      "exploration",
+      "mining",
+      "join",
+      "conducting",
+      "liberalisation",
+      "petroleum",
+      "pursuance",
+      "qualifications",
+      "site",
+      "holders",
+      "employees",
+      "comprise"
+    ],
+    "prompt_length": 1733,
+    "category": "6611 coal and mining industries"
+  }
+}

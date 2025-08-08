@@ -1,0 +1,63 @@
+{
+  "concept_id": "2205",
+  "concept_data": {
+    "title": "hand tool",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"hand tool\" within the EU regulatory framework encompasses a diverse range of implements utilized in various industries, including brosserie and pinceauterie. These tools, often crafted in regions like Stockport and Ravensburg, are subject to standards ensuring safety and quality. Distinctive items, such as brushes and varnish applicators, are integral to sectors like crafts and construction. Regulatory bodies may subsidize manufacturers, fostering innovation in tool design, as seen with brands like Chadwick and Fleetwood. The EU's commitment to harmonizing standards ensures that products, including those from Lohne and Attleborough, meet consumer safety expectations, ultimately enhancing market accessibility and competitiveness.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:30:53.975385",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 681,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 299,
+      "selected_avg_freq": 101.49333333333334
+    },
+    "related_words": [
+      "distemper",
+      "brosserie",
+      "pinceauterie",
+      "bechtloff",
+      "burk",
+      "briton",
+      "chadwick",
+      "attleborough",
+      "sullivan",
+      "fleetwood",
+      "bromsgrove",
+      "kronen",
+      "pinselfabrik",
+      "lohne",
+      "messerer",
+      "wieseth",
+      "mosley",
+      "stockport",
+      "sterkel",
+      "ravensburg",
+      "wistoba",
+      "lauterberg",
+      "bristle",
+      "bentey",
+      "loughborough",
+      "tobias",
+      "braude",
+      "delbanco",
+      "meegoda",
+      "brush"
+    ],
+    "prompt_length": 1673,
+    "category": "6846 miscellaneous industries"
+  }
+}

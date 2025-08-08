@@ -1,0 +1,63 @@
+{
+  "concept_id": "3057",
+  "concept_data": {
+    "title": "emergency services",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "civil defence",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"emergency services\" is synonymous with \"civil defence,\" reflecting an interdisciplinary approach to managing unplanned crises. These services are essential for coordinating responses to emergencies, including fires, attacks, and radiological incidents involving radionuclides. The EU prescribes organizational frameworks that facilitate the pooling of resources and knowledge, ensuring that teams can autonomously devise strategies for easing injuries and enhancing public safety. By fostering harmony among member states, the EU aims to learn from past lessons and improve preparedness through comprehensive training and stimulation exercises. This collaborative effort is vital for safeguarding liberties and ensuring effective responses to diverse terrains and emergencies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:06:53.370834",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 773,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 329,
+      "selected_avg_freq": 145.26666666666668
+    },
+    "related_words": [
+      "correspondents",
+      "unplanned",
+      "interdisciplinary",
+      "assad",
+      "liberties",
+      "euam",
+      "indiscriminate",
+      "lens",
+      "comprehension",
+      "krypton",
+      "geography",
+      "foresaw",
+      "homeland",
+      "transatlantic",
+      "devote",
+      "harmony",
+      "contacting",
+      "devise",
+      "organizational",
+      "ionizing",
+      "rtd",
+      "learnt",
+      "wave",
+      "radionuclides",
+      "terrain",
+      "fires",
+      "emergencies",
+      "lessons",
+      "stimulation",
+      "pooling"
+    ],
+    "prompt_length": 1748,
+    "category": "0431 politics and public safety"
+  }
+}

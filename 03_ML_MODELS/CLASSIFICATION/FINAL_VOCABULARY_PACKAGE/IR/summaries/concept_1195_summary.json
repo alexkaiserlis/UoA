@@ -1,0 +1,63 @@
+{
+  "concept_id": "1195",
+  "concept_data": {
+    "title": "European agreement concerning the international carriage of dangerous goods by road",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "ADR agreement",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European agreement concerning the international carriage of dangerous goods by road,\" commonly referred to as the \"ADR agreement,\" establishes a framework for the safe transport of hazardous materials across member states. This agreement, updated periodically, ensures conformity with technical standards and laws relevant to dangerous goods. It includes annexes that detail necessary measures and transitional provisions for member states within the EU and the EEA. The ADR agreement is essential for the approximation of national regulations, fostering progress in road transport safety. Consequently, it serves as a vital directive for establishing a unified approach to the carriage of dangerous goods in the community.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:29:25.653506",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2351.462962962963
+    },
+    "related_words": [
+      "adr",
+      "carriage",
+      "dangerous",
+      "road",
+      "sixth",
+      "refer",
+      "approximation",
+      "version",
+      "adapting",
+      "updated",
+      "conformity",
+      "laws",
+      "progress",
+      "annexes",
+      "transport",
+      "goods",
+      "transitional",
+      "amend",
+      "consequently",
+      "relevance",
+      "eea",
+      "international",
+      "years",
+      "technical",
+      "agreement",
+      "applicable",
+      "directive",
+      "apply",
+      "text",
+      "time"
+    ],
+    "prompt_length": 1746,
+    "category": "4816 land transport"
+  }
+}

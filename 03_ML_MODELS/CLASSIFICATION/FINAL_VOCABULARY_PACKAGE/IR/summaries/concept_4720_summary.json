@@ -1,0 +1,63 @@
+{
+  "concept_id": "4720",
+  "concept_data": {
+    "title": "wine fortified for distillation",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "fortified wine",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"wine fortified for distillation,\" commonly referred to as \"fortified wine,\" encompasses various renowned products like sherry, tokay, and setúbal. These wines, often bottled with specific capsules and foils, undergo a process that enhances their alcohol content, yielding unique flavors. The regulations set forth in annexes delineate standards for these beverages, ensuring exclusiveness and preventing falsification. Notable varieties include malaga, priorato, and rioja, each with distinct characteristics. The EU framework also addresses issues such as aerated wines and the proper labeling of musts. Compliance with these rules is crucial for makers and importers, including entities like WineAmerica, to maintain market integrity and consumer trust.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:38:20.257498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 793,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 336,
+      "selected_avg_freq": 152.15333333333334
+    },
+    "related_words": [
+      "maker",
+      "annnex",
+      "sherry",
+      "tokay",
+      "setúbal",
+      "acd",
+      "crystallised",
+      "malaga",
+      "priorato",
+      "valdepeñas",
+      "ruels",
+      "wineamerica",
+      "exclusiveness",
+      "tdt",
+      "bacchus",
+      "aszu",
+      "szamorodni",
+      "contingents",
+      "uncomplicated",
+      "renown",
+      "jumilla",
+      "muscatel",
+      "xva",
+      "setubal",
+      "bottled",
+      "jerez",
+      "capsule",
+      "xib",
+      "foil",
+      "drachma"
+    ],
+    "prompt_length": 1692,
+    "category": "6021 beverages and sugar"
+  }
+}

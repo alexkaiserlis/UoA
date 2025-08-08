@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_8a658bb0",
+  "concept_data": {
+    "title": "eu-LISA",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice",
+    "relation_type": "USE"
+  },
+  "summary": "eu-LISA, officially known as the European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice, plays a pivotal role in the EU's legal and regulatory framework. Established to enhance the operational management of significant IT systems, eu-LISA ensures the effective implementation of policies related to freedom, security, and justice. The agency is responsible for overseeing systems such as the Schengen Information System and the Visa Information System, facilitating cross-border cooperation among member states. By streamlining data management and enhancing interoperability, eu-LISA contributes to the EU's commitment to safeguarding citizens while upholding legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:51:19.264457",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1326,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

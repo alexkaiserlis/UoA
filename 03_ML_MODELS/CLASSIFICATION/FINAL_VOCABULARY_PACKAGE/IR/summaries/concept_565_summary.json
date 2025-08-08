@@ -1,0 +1,63 @@
+{
+  "concept_id": "565",
+  "concept_data": {
+    "title": "international law",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "International law encompasses a framework of rules and norms that govern relations between states and international entities, crucial for adjudicating disputes and promoting multilateralism. Within the EU context, it investigates issues such as disarmament and the proliferation of weapons, particularly small arms and light weapons (SALW). The EU actively collaborates with organizations like the OSCE to tackle destabilising activities and trafficking. By advancing parliamentary initiatives and codifying agreements, the EU acknowledges the importance of responsible governance. This legal structure underlines the necessity of addressing conflicts and terrorism, while also promoting a belief in cooperative security and the equitable distribution of resources.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:14:16.384898",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 415,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 525,
+      "selected_avg_freq": 224.79333333333332
+    },
+    "related_words": [
+      "investigates",
+      "adjudicate",
+      "unidir",
+      "codun",
+      "sitcen",
+      "sipri",
+      "plurilateral",
+      "devising",
+      "neglected",
+      "cit",
+      "gge",
+      "wassenaar",
+      "multilateralism",
+      "salw",
+      "topic",
+      "osce",
+      "irresponsible",
+      "brokers",
+      "sponsored",
+      "enactment",
+      "advancing",
+      "belief",
+      "disarmament",
+      "ammunition",
+      "appreciation",
+      "alleging",
+      "destabilising",
+      "broadening",
+      "equipping",
+      "collaborating"
+    ],
+    "prompt_length": 1717,
+    "category": "1231 international law"
+  }
+}

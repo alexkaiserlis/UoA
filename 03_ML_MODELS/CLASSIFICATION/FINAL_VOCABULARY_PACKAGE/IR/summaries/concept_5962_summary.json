@@ -1,0 +1,63 @@
+{
+  "concept_id": "5962",
+  "concept_data": {
+    "title": "livestock",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"livestock\" encompasses various domesticated animals essential for agricultural production. This concept is pivotal for ensuring the perpetuation of food security and addressing dilemmas related to disease management, such as salmonella and other bacteriologically significant pathogens. Regulations necessitate the labeling of livestock products, ensuring compliance with health standards. The agistment of animals, including bullocks and hogget, is subject to scrutiny, particularly in regions like Mazowieckie and Pavia. Additionally, the EU emphasizes the importance of sheltering livestock to mitigate risks associated with environmental factors. The interplay of these regulations aims to create a receptive and sustainable agricultural environment, while penalising non-compliance and promoting practices that extensify production efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:07.753507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 1579,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 68,
+      "selected_avg_freq": 29.633333333333333
+    },
+    "related_words": [
+      "chekcs",
+      "foggio",
+      "perpetuation",
+      "receptive",
+      "disesase",
+      "necesarry",
+      "graciosa",
+      "corvo",
+      "extensify",
+      "dilemmas",
+      "cahp",
+      "intitial",
+      "penalises",
+      "warminsko",
+      "originaing",
+      "hogget",
+      "agistment",
+      "collectivized",
+      "arezzo",
+      "grossetto",
+      "salvaged",
+      "microbials",
+      "salmonlla",
+      "consign",
+      "lecce",
+      "firenze",
+      "prenotification",
+      "aii",
+      "bullocks",
+      "cremona"
+    ],
+    "prompt_length": 1693,
+    "category": "5626 means of agricultural production"
+  }
+}

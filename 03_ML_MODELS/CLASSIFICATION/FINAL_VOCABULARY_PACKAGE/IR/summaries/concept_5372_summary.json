@@ -1,0 +1,63 @@
+{
+  "concept_id": "5372",
+  "concept_data": {
+    "title": "cessation of trading",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"cessation of trading\" within EU legal and regulatory frameworks refers to the formal discontinuation of business activities by a company, often due to obsolescent market conditions or strategic restructuring. This process may involve the earmarking of assets, such as those from an acciaieria or siderúrgica, for repurchasing or liquidation. Companies like Hunosa or Usinor may embark on such undertakings when facing inactivity or tapering demand. The cessation can affect various sectors, including carbonífera and electricidade, and may lead to the subdivision of operations, impacting local economies like that of Asturias or Ponferrada. Legal implications emanate from compliance with EU regulations, ensuring that affected stakeholders, including employees and suppliers, are equated in terms of rights and obligations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:45:13.742339",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1320,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 110,
+      "selected_avg_freq": 40.68
+    },
+    "related_words": [
+      "earmark",
+      "acciaieria",
+      "odolese",
+      "mao",
+      "divisible",
+      "ofico",
+      "tapering",
+      "minero",
+      "ponferrada",
+      "pejão",
+      "sharper",
+      "backward",
+      "aie",
+      "erzberg",
+      "vaeg",
+      "öia",
+      "bergbauholding",
+      "industrieholding",
+      "donawitz",
+      "lkab",
+      "fer",
+      "compañia",
+      "andaluza",
+      "undertaings",
+      "pyrites",
+      "equated",
+      "emanates",
+      "asturian",
+      "carbonífera",
+      "electricidade"
+    ],
+    "prompt_length": 1662,
+    "category": "4006 business organisation"
+  }
+}

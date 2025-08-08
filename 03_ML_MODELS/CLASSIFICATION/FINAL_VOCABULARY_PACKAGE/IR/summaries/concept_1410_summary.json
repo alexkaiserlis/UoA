@@ -1,0 +1,63 @@
+{
+  "concept_id": "1410",
+  "concept_data": {
+    "title": "mechanical engineering design",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "mechanical engineering",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mechanical engineering design,\" categorized under \"mechanical engineering,\" encompasses a range of practices vital for the development of structures and systems across various industries, including shipbuilding and tractor manufacturing. In EU regulatory frameworks, the design process is often scrutinized amid concerns over mismanagement and negligence, particularly when projects face unexpected challenges or become uneconomic. Interministerial efforts aim to bolster innovation, with exceptions made for unique circumstances that may hinder progress. The sector has seen attempts to diversify its offerings, yet stagnation remains a risk. Thus, the preferred term \"mechanical engineering\" embodies these complexities, reflecting the need for robust design standards to prevent insolvency and ensure sustainable growth.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:32.755785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 565,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 420,
+      "selected_avg_freq": 188.75333333333333
+    },
+    "related_words": [
+      "mismanagement",
+      "exeptions",
+      "struc",
+      "tures",
+      "sights",
+      "adoptimg",
+      "cipi",
+      "treviglio",
+      "fiercely",
+      "numerically",
+      "scarcely",
+      "dredging",
+      "uneconomic",
+      "blame",
+      "amid",
+      "occasioned",
+      "interministerial",
+      "seeing",
+      "transcending",
+      "stagnation",
+      "wound",
+      "insolvent",
+      "discover",
+      "liquidated",
+      "diversify",
+      "bidding",
+      "bolster",
+      "gone",
+      "narrowly",
+      "scrutinized"
+    ],
+    "prompt_length": 1738,
+    "category": "6821 mechanical engineering"
+  }
+}

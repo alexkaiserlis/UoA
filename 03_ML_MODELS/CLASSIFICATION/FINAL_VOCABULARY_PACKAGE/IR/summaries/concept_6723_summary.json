@@ -1,0 +1,63 @@
+{
+  "concept_id": "6723",
+  "concept_data": {
+    "title": "European Agency for the Enhancement of Judicial Cooperation",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "Eurojust",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Agency for the Enhancement of Judicial Cooperation,\" commonly referred to as Eurojust, operates under the aegis of the EU to facilitate the prosecution of serious cross-border offences, including terrorism. Eurojust plays a pivotal role in shaping strategies that combat complex criminal phenomena by fostering cooperation among national judicial authorities. It ensures that judicial orders are enforceable across member states, thereby enhancing the reciprocity of legal processes. Eurojust's intelligence-sharing capabilities afford a fuller understanding of ongoing investigations, while respecting confidentiality. The agency's success in addressing the persistent challenges posed by criminal networks is absolutely vital for the integrity of the EU's judicial framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:00:55.856483",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 222,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1759,
+      "selected_avg_freq": 744.0466666666666
+    },
+    "related_words": [
+      "convictions",
+      "convicted",
+      "prosecuted",
+      "coalition",
+      "aegis",
+      "intelligence",
+      "eurojust",
+      "fullest",
+      "enforceable",
+      "widest",
+      "offences",
+      "terrorist",
+      "phenomenon",
+      "absolutely",
+      "reciprocity",
+      "ever",
+      "terrorism",
+      "persistence",
+      "europol",
+      "shape",
+      "challenge",
+      "extraordinary",
+      "nothing",
+      "contemplated",
+      "observes",
+      "reaffirmed",
+      "exploit",
+      "strategies",
+      "afford",
+      "investigated"
+    ],
+    "prompt_length": 1789,
+    "category": "1016 European construction"
+  }
+}

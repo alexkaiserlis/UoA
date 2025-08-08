@@ -1,0 +1,63 @@
+{
+  "concept_id": "5176",
+  "concept_data": {
+    "title": "teacher exchange visits",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": true,
+    "preferred_term": "educational exchange",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"teacher exchange visits,\" redirected to \"educational exchange,\" is integral to EU educational policy, particularly under the Erasmus programme. This initiative aims to enhance academic mobility, enabling teachers to acquire new skills and broaden their pedagogical approaches. By facilitating interchange among educators across universities in member states, it enriches the learning environment for students and fosters intellectual collaboration. Such exchanges stimulate the sharing of best practices, complementing vocational courses and boosting graduates' achievements. The programme supports the negotiation of partnerships with EFTA countries, ensuring that educational standards are harmonized and that the benefits of this mobility are fully exploited for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:37:35.507426",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 342,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1020,
+      "selected_avg_freq": 492.4533333333333
+    },
+    "related_words": [
+      "acquaint",
+      "graduates",
+      "teacher",
+      "lingua",
+      "erasmus",
+      "harnessed",
+      "student",
+      "enriches",
+      "spes",
+      "comett",
+      "students",
+      "skill",
+      "academic",
+      "universities",
+      "stimulation",
+      "studying",
+      "broadening",
+      "intensification",
+      "scientists",
+      "teaching",
+      "achievements",
+      "mandated",
+      "convened",
+      "courses",
+      "university",
+      "complements",
+      "diplomas",
+      "interchange",
+      "boost",
+      "specialists"
+    ],
+    "prompt_length": 1745,
+    "category": "3206 education"
+  }
+}

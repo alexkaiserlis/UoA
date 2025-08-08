@@ -1,0 +1,63 @@
+{
+  "concept_id": "3",
+  "concept_data": {
+    "title": "glue",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "adhesive",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"glue\" redirects to \"adhesive,\" which encompasses a range of substances used in various applications, including pharmaceuticals and manufacturing. Adhesives can simulate properties of natural substances, such as resin or gum, and are often used in products like medicaments, inks, and varnishes. The regulation of adhesives involves detailed mandates governing their concentration and usage, particularly in therapeutic and prophylactic contexts. Manufacturers must ensure compliance with onerous regulations, attesting to the safety of their products, especially those related to tobacco, such as patches and chewing tablets. The exclusion of dangerous substances is crucial for consumer protection, emphasizing the responsibility of producers to present safe, effective adhesives.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:05.011361",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 277,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1498,
+      "selected_avg_freq": 710.1733333333333
+    },
+    "related_words": [
+      "simulate",
+      "patches",
+      "smokers",
+      "medicaments",
+      "inks",
+      "nicotine",
+      "phrases",
+      "resin",
+      "responsability",
+      "adhesives",
+      "chewing",
+      "ion",
+      "prophylactic",
+      "varnishes",
+      "tablets",
+      "gum",
+      "smoke",
+      "smoking",
+      "paints",
+      "taste",
+      "onerous",
+      "therapeutic",
+      "govern",
+      "printing",
+      "skin",
+      "mandates",
+      "attestation",
+      "attesting",
+      "select",
+      "pharmaceutical"
+    ],
+    "prompt_length": 1674,
+    "category": "6811 chemistry"
+  }
+}

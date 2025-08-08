@@ -1,0 +1,63 @@
+{
+  "concept_id": "3159",
+  "concept_data": {
+    "title": "motor vehicle pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"motor vehicle pollution\" encompasses the environmental deterioration caused by emissions from vehicles, particularly focusing on pollutants such as NOx and hydrocarbons. In the EU regulatory framework, stringent measures are established to mitigate these emissions, including the implementation of the Euro 6 standards and the Worldwide Harmonized Light Vehicles Test Procedure (WLTP). These regulations aim to enhance the accuracy of datasets related to vehicle emissions and improve the affordability of cleaner technologies. The role of powertrain innovations, including sparkignition and evaporative systems, is critical in reducing unburnt fuel emissions. Additionally, the integration of on-board diagnostics (OBD) systems ensures repeatable testing and compliance, while the encapsulation of pollutants through advanced converters is essential for minimizing the environmental footprint of the vehicles. The EU's European Climate and Clean Air Programme (ECCP) further supports efforts to combat pollution, emphasizing the need for continuous improvement and perfecting vehicle bodywork designs to enhance aerodynamics and reduce drag.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:00:22.306692",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 154,
+    "vocabulary_stats": {
+      "total_related_words": 1165,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 144,
+      "selected_avg_freq": 60.6
+    },
+    "related_words": [
+      "sparkignition",
+      "polynomial",
+      "affordability",
+      "thevehicles",
+      "eccp",
+      "bodywork",
+      "perfecting",
+      "encapsulation",
+      "grille",
+      "radiator",
+      "powertrain",
+      "hsb",
+      "datasets",
+      "evaporative",
+      "inertia",
+      "mobilität",
+      "footprint",
+      "erode",
+      "payload",
+      "nedc",
+      "wltp",
+      "unburnt",
+      "poster",
+      "tüv",
+      "stringency",
+      "refuelling",
+      "daimler",
+      "shutter",
+      "theft",
+      "alphanumeric"
+    ],
+    "prompt_length": 1694,
+    "category": "5216 deterioration of the environment"
+  }
+}

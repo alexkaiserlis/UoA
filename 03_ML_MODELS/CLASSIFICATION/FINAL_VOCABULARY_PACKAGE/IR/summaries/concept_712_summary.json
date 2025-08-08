@@ -1,0 +1,63 @@
+{
+  "concept_id": "712",
+  "concept_data": {
+    "title": "subvention",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "economic support",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"subvention\" refers to \"economic support,\" a term that encompasses various forms of financial assistance aimed at addressing imbalances in employment and promoting profitmaking activities. This economic support can visibly aid sectors facing unprofitability, such as the devastated mineworker communities in regions like Campine and Steenkolenmijnen. The regulation of such support often involves paperwork and compliance with compulsory requirements, ensuring the availability of funds for integrated projects. Furthermore, the practicality of these measures is crucial for fostering foreign direct investment (FDI) and curtailing economic disparities. Thus, subvention plays a vital role in the broader economic policy framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:02.332120",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2247,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 19.12
+    },
+    "related_words": [
+      "visibly",
+      "competenz",
+      "employement",
+      "policiy",
+      "cadenera",
+      "castellana",
+      "macetera",
+      "regulaon",
+      "imblance",
+      "unprofitability",
+      "ultrafiltration",
+      "calender",
+      "shamouti",
+      "mineworker",
+      "cumpulsory",
+      "tirreno",
+      "siderpotenza",
+      "paperwork",
+      "sutmit",
+      "unrecognized",
+      "fought",
+      "lavender",
+      "lavandin",
+      "sage",
+      "avaibility",
+      "kempense",
+      "steenkolenmijnen",
+      "availibility",
+      "devastated",
+      "intergrated"
+    ],
+    "prompt_length": 1732,
+    "category": "1606 economic policy"
+  }
+}

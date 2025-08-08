@@ -1,0 +1,63 @@
+{
+  "concept_id": "6318",
+  "concept_data": {
+    "title": "rotation cropping",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "crop rotation",
+    "relation_type": "USE"
+  },
+  "summary": "Crop rotation, a key practice in the cultivation of agricultural land, involves the systematic alternation of different crops on the same field over time. This methodology enhances soil sustainability and reliability, ensuring that crops such as oilseeds, cereals, and sugar beet are cultivated effectively. In the context of EU regulations, crop rotation is recognized for its role in promoting renewable biofuels and bioliquids, which rely on diverse feedstocks. This practice demonstrates the commitment to sustainability by improving soil health and reducing the need for chemical inputs. Furthermore, operators must ensure that their crop rotation practices meet auditing standards, providing proof of compliance through independent verification. The concept is crucial for the downstream processing of agricultural products, as it covers various stages from farm to market, ensuring that consignments remain viable and meet quality assurance requirements.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:10.881252",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 162,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 3440,
+      "selected_avg_freq": 1450.0133333333333
+    },
+    "related_words": [
+      "combinable",
+      "custody",
+      "bioliquids",
+      "feedstock",
+      "biofuels",
+      "biofuel",
+      "gate",
+      "relies",
+      "diesel",
+      "downstream",
+      "oilseeds",
+      "auditing",
+      "petrol",
+      "processor",
+      "platform",
+      "beet",
+      "fuels",
+      "assurance",
+      "recognise",
+      "sustainability",
+      "demonstrates",
+      "demonstrating",
+      "renewable",
+      "mass",
+      "operates",
+      "reliability",
+      "accurate",
+      "supplier",
+      "farm",
+      "crops"
+    ],
+    "prompt_length": 1728,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

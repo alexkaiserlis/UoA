@@ -1,0 +1,63 @@
+{
+  "concept_id": "897",
+  "concept_data": {
+    "title": "student",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"student\" refers to individuals engaged in vocational or academic training, often comprising nationals and foreign migrants. The EU promotes the right of students to enjoy freedom of movement across frontiers, ensuring they can exercise their educational rights without unreasonable obstacles. This includes the coordination of laws that prohibit discrimination based on nationality, allowing students and their families to maintain residence and access to resources. The concept implies that students are beneficiaries of justice and support, effectively engaged in their training while balancing finances and other burdens, thus fostering a genuinely inclusive educational environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:58:43.682583",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 147,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 147,
+      "selected_min_freq": 17,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1797.9795918367347
+    },
+    "related_words": [
+      "spouse",
+      "students",
+      "migrant",
+      "unreasonable",
+      "worker",
+      "families",
+      "genuinely",
+      "finances",
+      "residence",
+      "annulled",
+      "vocational",
+      "children",
+      "host",
+      "nationals",
+      "enjoy",
+      "exercised",
+      "frontiers",
+      "obstacles",
+      "implies",
+      "family",
+      "dependent",
+      "comprises",
+      "judgment",
+      "prohibit",
+      "abolition",
+      "engaged",
+      "discrimination",
+      "beneficiaries",
+      "workers",
+      "freedom"
+    ],
+    "prompt_length": 1677,
+    "category": "3216 organisation of teaching"
+  }
+}

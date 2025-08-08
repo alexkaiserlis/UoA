@@ -1,0 +1,26 @@
+{
+  "concept_id": "5432",
+  "concept_data": {
+    "title": "embassy",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"embassy\" refers to a diplomatic mission representing a sovereign state within another country, playing a crucial role in international affairs. In the context of EU legal and regulatory frameworks, embassies facilitate diplomatic relations, promote bilateral agreements, and ensure compliance with international law. They serve as essential channels for communication between the EU member states and third countries, aiding in the negotiation of treaties and the protection of citizens abroad. Embassies also engage in consular functions, providing assistance to nationals and fostering cooperation on various issues, including trade, security, and human rights, thereby reinforcing the EU's global presence.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:43:22.412894",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1168,
+    "category": "0806 international affairs"
+  }
+}

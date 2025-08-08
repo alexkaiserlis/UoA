@@ -1,0 +1,63 @@
+{
+  "concept_id": "3642",
+  "concept_data": {
+    "title": "product wear and tear",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "product life",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"product wear and tear,\" redirected to \"product life,\" pertains to the durability and stability of products within the EU regulatory framework. It encompasses the technical and social implications of product longevity, requiring manufacturers to submit proposals that justify the minimum lifespan of their goods. Established directives provide an appropriate basis for assessing product performance over time, ensuring that authorized substances meet safety standards. Amendments to existing laws may adapt to scientific research findings, leading to updated lists of permitted materials. The latest regulations aim to enhance consumer protection by ensuring that products remain functional for a specified period, typically three years, before expiry.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:27:32.586527",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 70,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 70,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2214.2428571428572
+    },
+    "related_words": [
+      "violet",
+      "filters",
+      "durability",
+      "ultra",
+      "cosmetic",
+      "indication",
+      "stability",
+      "approximation",
+      "substances",
+      "expiry",
+      "proposals",
+      "permitted",
+      "latest",
+      "authorized",
+      "lists",
+      "research",
+      "adapt",
+      "laws",
+      "scientific",
+      "progress",
+      "justified",
+      "submit",
+      "less",
+      "amendments",
+      "minimum",
+      "results",
+      "three",
+      "list",
+      "years",
+      "technical"
+    ],
+    "prompt_length": 1662,
+    "category": "2026 consumption"
+  }
+}

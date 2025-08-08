@@ -1,0 +1,63 @@
+{
+  "concept_id": "5502",
+  "concept_data": {
+    "title": "regional authority",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regional authority\" pertains to bodies established within EU member states that are involved in the formulation and implementation of local policies. These authorities play a consultative role, closely interacting with national governments and the European Commission to ensure that regional interests are represented in decision-making processes. Their responsibilities include making resolutions that align with the broader objectives of the European Economic Communities (EEC) and the European Union treaties. Regional authorities are essential for fostering relations between different levels of governance, ensuring that the implications of EU policies are effectively communicated and executed at the local level.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:15:47.987399",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 43,
+      "requested_words": 150,
+      "min_frequency_found": 193,
+      "max_frequency_found": 4108,
+      "selected_words": 43,
+      "selected_min_freq": 193,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2211.2093023255816
+    },
+    "related_words": [
+      "formulation",
+      "consultative",
+      "consult",
+      "implications",
+      "closely",
+      "relations",
+      "asked",
+      "local",
+      "policies",
+      "body",
+      "resolution",
+      "representatives",
+      "includes",
+      "open",
+      "regional",
+      "levels",
+      "involved",
+      "able",
+      "setting",
+      "government",
+      "end",
+      "make",
+      "policy",
+      "authorities",
+      "implementation",
+      "april",
+      "other",
+      "parliament",
+      "eec",
+      "june"
+    ],
+    "prompt_length": 1617,
+    "category": "0436 executive power and public service"
+  }
+}

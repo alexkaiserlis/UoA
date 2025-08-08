@@ -1,0 +1,63 @@
+{
+  "concept_id": "3885",
+  "concept_data": {
+    "title": "public health",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Public health within the EU legal and regulatory framework encompasses a broad spectrum of issues, including the management of cytology and psychosocial factors affecting community well-being. Regulatory measures address the risks posed by substances such as methylmethcathinone and benzylpiperazine, ensuring necessary safeguards against harmful accumulations. Research initiatives, like those from Fraunhofer, focus on the impact of environmental pollutants, including perfluorooctanoic (PFOA) compounds, on health outcomes. The EU promotes public health through guidelines on safe practices in various settings, including playgrounds, while addressing emerging threats like norovirus. Effective public health policies are crucial for mitigating risks associated with substances like flunixin and procaine, ultimately enhancing community resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:21.891728",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 4965,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.6066666666666665
+    },
+    "related_words": [
+      "cytology",
+      "moist",
+      "hydroxethyl",
+      "methylmethcathinone",
+      "mephedrone",
+      "necessaary",
+      "benzylpiperazine",
+      "bzp",
+      "overtime",
+      "healh",
+      "thrust",
+      "psychosocial",
+      "reserch",
+      "accumulations",
+      "magna",
+      "bkc",
+      "coumatetralyl",
+      "milchbakterien",
+      "milchsäurebakterien",
+      "sugary",
+      "byssochlamys",
+      "pmtdi",
+      "canisters",
+      "flunixin",
+      "phenols",
+      "exemple",
+      "playgrounds",
+      "fraunhofer",
+      "jetties",
+      "shaken"
+    ],
+    "prompt_length": 1728,
+    "category": "2841 health"
+  }
+}

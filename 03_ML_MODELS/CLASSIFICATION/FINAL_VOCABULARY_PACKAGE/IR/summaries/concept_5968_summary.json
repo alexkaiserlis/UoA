@@ -1,0 +1,63 @@
+{
+  "concept_id": "5968",
+  "concept_data": {
+    "title": "industrial chemistry",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Industrial chemistry encompasses the systematic study and application of chemical processes in industrial settings, focusing on the production and use of hazardous substances. In the EU regulatory context, it is crucial for ensuring safety and hygiene in installations that handle flammable, toxic, or explosive materials. Regulations mandate the appropriate labelling of packaged chemicals, highlighting their hazards and the need for risk mitigation. Committees are invited to revise safety standards, strengthening the framework for managing dangerous substances. The consequences of accidents involving these chemicals can be severe, necessitating a thorough understanding of their properties and the implementation of safety measures to limit risks.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:49.423668",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 158,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3430,
+      "selected_avg_freq": 1460.1466666666668
+    },
+    "related_words": [
+      "leaflets",
+      "oxidizing",
+      "flammable",
+      "comittee",
+      "occuring",
+      "explosive",
+      "strengthens",
+      "boards",
+      "packaged",
+      "hazards",
+      "isolated",
+      "toxic",
+      "accident",
+      "hazard",
+      "mitigate",
+      "media",
+      "accidents",
+      "bulk",
+      "appropriately",
+      "man",
+      "dangerous",
+      "installation",
+      "know",
+      "strengthened",
+      "extends",
+      "extremely",
+      "systematic",
+      "ones",
+      "hygiene",
+      "danger"
+    ],
+    "prompt_length": 1688,
+    "category": "3606 natural and applied sciences"
+  }
+}

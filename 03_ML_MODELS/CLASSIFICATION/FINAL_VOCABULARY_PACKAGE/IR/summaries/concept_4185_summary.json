@@ -1,0 +1,63 @@
+{
+  "concept_id": "4185",
+  "concept_data": {
+    "title": "space policy",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU's \"space policy\" governs the strategic framework for satellite navigation systems such as Galileo and EGNOS, focusing on positioning and navigation services. It aims to construct and validate a geostationary satellite network that serves various stakeholders, including governmental agencies and private users. The policy emphasizes the advisability of shared missions and the evolution of space technologies, ensuring that associations and unions of experts operate independently while representing diverse views. It specifies the timing for renewal and refinement of objectives, thereby enhancing the overall effectiveness of space initiatives. This legal framework is composed to support innovation and development in the space sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:51:28.935544",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 176,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3015,
+      "selected_avg_freq": 1358.0266666666666
+    },
+    "related_words": [
+      "geostationary",
+      "overlay",
+      "refinement",
+      "positioning",
+      "egnos",
+      "galileo",
+      "construct",
+      "validate",
+      "profiles",
+      "word",
+      "managers",
+      "unions",
+      "advisability",
+      "navigation",
+      "satellite",
+      "renew",
+      "governmental",
+      "art",
+      "timing",
+      "independently",
+      "understood",
+      "broad",
+      "employees",
+      "sense",
+      "disclosure",
+      "shared",
+      "user",
+      "stakeholders",
+      "renewal",
+      "referring"
+    ],
+    "prompt_length": 1687,
+    "category": "6416 research and intellectual property"
+  }
+}

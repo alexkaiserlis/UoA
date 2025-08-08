@@ -1,0 +1,63 @@
+{
+  "concept_id": "5270",
+  "concept_data": {
+    "title": "cash flow",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"cash flow\" refers to the movement of liquid assets within firms, crucial for maintaining solvency and liquidity. It comprises inflows and outflows of cash, which are analyzed to ensure banking stability and prudential management. The European Banking Authority (EBA) emphasizes the importance of cash flow in assessing the eligibility of collateralised assets and their maturity profiles. Stakeholders must recognize the benefits of effective cash flow management, particularly during extreme market conditions. Additionally, consultations on cash flow practices are conducted to enhance knowledge and best practices across member states, including Bulgaria, to support investment stability and currency resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:54:45.640906",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1631.3503649635036
+    },
+    "related_words": [
+      "lev",
+      "collateralised",
+      "outflows",
+      "eba",
+      "solvent",
+      "gold",
+      "narrow",
+      "collateral",
+      "prudential",
+      "denominated",
+      "liquidity",
+      "extreme",
+      "maturity",
+      "emergence",
+      "stakeholder",
+      "waived",
+      "asset",
+      "qualification",
+      "credits",
+      "banking",
+      "confined",
+      "bulgarian",
+      "places",
+      "liquid",
+      "comprise",
+      "currencies",
+      "debt",
+      "analysed",
+      "extremely",
+      "assets"
+    ],
+    "prompt_length": 1653,
+    "category": "4026 accounting"
+  }
+}

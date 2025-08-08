@@ -1,0 +1,63 @@
+{
+  "concept_id": "2025",
+  "concept_data": {
+    "title": "mushroom-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Mushroom-growing, classified under agricultural activity (5631), encompasses the cultivation of various fungi, including the temperate species Agaricus bisporus and Lentinula edodes. In the EU, this activity is subject to specific fitosanitarie measures to prevent the importazione of undesired pests, such as nematodes like Ditylenchus and Aphelenchoides. Regulatory frameworks, including ministeriale decreti, govern the cultivation of fresh funghi, ensuring compliance with health standards. The commonness of mushrooms like shiitake and borgotaro highlights their ubiquity in European markets. As cultivation techniques refine, mycelium substrates are optimized, while calendars for seasonal harvesting, particularly in ottobre and maggio, are established to enhance yield and mitigate the uselessness of receded crops.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:02:38.780095",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1259,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 172,
+      "selected_avg_freq": 62.07333333333333
+    },
+    "related_words": [
+      "receded",
+      "artice",
+      "maggio",
+      "divieto",
+      "importazione",
+      "funghi",
+      "coltivati",
+      "freschi",
+      "ottobre",
+      "misure",
+      "fitosanitarie",
+      "myceliophagus",
+      "aphelenchoides",
+      "composticola",
+      "commonness",
+      "simmered",
+      "uselessness",
+      "agraricus",
+      "temperate",
+      "mycelial",
+      "lentinula",
+      "edodes",
+      "glycanova",
+      "lentinus",
+      "ditylenchus",
+      "fungo",
+      "borgotaro",
+      "ministeriale",
+      "ubiquity",
+      "iwate"
+    ],
+    "prompt_length": 1708,
+    "category": "5631 agricultural activity"
+  }
+}

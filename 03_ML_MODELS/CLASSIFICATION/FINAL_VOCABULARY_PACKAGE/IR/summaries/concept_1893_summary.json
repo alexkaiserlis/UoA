@@ -1,0 +1,63 @@
+{
+  "concept_id": "1893",
+  "concept_data": {
+    "title": "methyl alcohol",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "methanol",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, \"methyl alcohol,\" commonly referred to as \"methanol,\" is a significant concern within energy policy, particularly regarding its origins and uses in distilleries. The regulation of methanol is crucial to safeguard public health, as adulterated spirits containing methanol can lead to detrimental effects. The EU has established regularizations to prevent the distribution of fraudulent alcoholic drinks, ensuring that products meet permissible standards. This includes monitoring the distillation process and levying penalties for non-compliance. The sudden disruption in supply chains, such as those faced by distilleries in Malaysia and Chile, demonstrates the need for a generalized approach to address imbalances in the market and protect incomes derived from legitimate alcohol production.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:25.733074",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 290,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1347,
+      "selected_avg_freq": 690.0533333333333
+    },
+    "related_words": [
+      "affair",
+      "distrust",
+      "qustion",
+      "adulterated",
+      "bottled",
+      "methanol",
+      "unsold",
+      "regularizations",
+      "distilleries",
+      "hectolitre",
+      "grams",
+      "disrupted",
+      "unusual",
+      "thereagainst",
+      "spirits",
+      "fraudulent",
+      "sudden",
+      "greatly",
+      "origins",
+      "nothing",
+      "methyl",
+      "chile",
+      "drinks",
+      "distillation",
+      "detrimental",
+      "malaysia",
+      "permissible",
+      "criminal",
+      "spirit",
+      "depth"
+    ],
+    "prompt_length": 1699,
+    "category": "6606 energy policy"
+  }
+}

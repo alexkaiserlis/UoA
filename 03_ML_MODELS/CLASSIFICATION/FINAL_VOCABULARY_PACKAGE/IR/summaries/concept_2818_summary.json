@@ -1,0 +1,63 @@
+{
+  "concept_id": "2818",
+  "concept_data": {
+    "title": "personal property",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU civil law, \"personal property\" refers to tangible and intangible assets that individuals or traders possess, distinct from real property. The legal framework governing personal property aims to facilitate the apportionment of rights and liabilities among consumers and producers, ensuring a fair and reasonable balance. This involves the harmonisation of regulations to address differences across member states, promoting confidence in transactions. The imperatives of modern legislation encourage innovation while guaranteeing protection against defective goods. In this context, issues such as compensation for damage and the proportionality of responses to risks are fundamental, helping to restore consumer awareness and rights in a rapidly evolving society.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:27:48.992942",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1649.2733333333333
+    },
+    "related_words": [
+      "technicality",
+      "imperatives",
+      "undistorted",
+      "fault",
+      "defective",
+      "monitors",
+      "apportionment",
+      "struck",
+      "responded",
+      "helped",
+      "unprocessed",
+      "modern",
+      "restore",
+      "inherent",
+      "awareness",
+      "confidence",
+      "guaranteeing",
+      "accorded",
+      "innovation",
+      "liability",
+      "traders",
+      "legitimate",
+      "encouraging",
+      "raise",
+      "damage",
+      "society",
+      "facilitating",
+      "primary",
+      "harmonisation",
+      "pursued"
+    ],
+    "prompt_length": 1714,
+    "category": "1211 civil law"
+  }
+}

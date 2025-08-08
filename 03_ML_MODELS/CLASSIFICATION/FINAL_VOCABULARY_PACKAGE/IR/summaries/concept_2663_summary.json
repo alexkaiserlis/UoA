@@ -1,0 +1,26 @@
+{
+  "concept_id": "2663",
+  "concept_data": {
+    "title": "parking meter",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "parking charge",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"parking meter\" is redirected to the preferred term \"parking charge\" within the context of EU transport policy. Parking charges are regulatory mechanisms implemented by local authorities to manage urban mobility and encourage efficient use of public spaces. These charges are integral to transport policy frameworks aimed at reducing congestion and promoting sustainable transport solutions. By establishing a structured approach to parking management, the EU aims to enhance urban planning and environmental objectives. The legal framework surrounding parking charges ensures compliance with broader EU regulations, facilitating harmonization across member states in transport governance and urban development strategies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:27:23.878192",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "4806 transport policy"
+  }
+}

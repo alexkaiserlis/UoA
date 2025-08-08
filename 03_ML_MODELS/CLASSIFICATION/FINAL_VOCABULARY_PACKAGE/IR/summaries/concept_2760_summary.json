@@ -1,0 +1,63 @@
+{
+  "concept_id": "2760",
+  "concept_data": {
+    "title": "instant tea",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "instant product",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"instant tea,\" categorized under foodstuff, is redirected to the preferred term \"instant product\" within EU legal frameworks. This classification encompasses a variety of soluble beverages, including chicory and coffee extracts, designed for efficient preparation. Regulatory documents emphasize optimal labelling and packaging to prevent misleading advertising, ensuring that consumers are accurately informed about the contents and weights of these products. The EU aims to create a diverse market by abolishing unfair barriers and facilitating the free movement of goods. Suppliers are encouraged to adhere to strict designations and declarations, thereby benefiting from a more streamlined regulatory environment, ultimately enhancing consumer trust.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:06:43.207917",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 272,
+      "requested_words": 150,
+      "min_frequency_found": 61,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 61,
+      "selected_max_freq": 1596,
+      "selected_avg_freq": 845.18
+    },
+    "related_words": [
+      "chicory",
+      "countering",
+      "coffee",
+      "soluble",
+      "vertical",
+      "edinburgh",
+      "mislead",
+      "extracts",
+      "weights",
+      "chronological",
+      "appreciably",
+      "refrain",
+      "abolishing",
+      "ultimate",
+      "nominal",
+      "conciliation",
+      "advertising",
+      "optimal",
+      "unfair",
+      "foods",
+      "diversity",
+      "subdivision",
+      "freely",
+      "administered",
+      "adds",
+      "move",
+      "brazil",
+      "allocate",
+      "supplier",
+      "decreased"
+    ],
+    "prompt_length": 1708,
+    "category": "6026 foodstuff"
+  }
+}

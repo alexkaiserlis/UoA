@@ -1,0 +1,63 @@
+{
+  "concept_id": "3008",
+  "concept_data": {
+    "title": "selective distribution agreement",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A selective distribution agreement is a legal framework within EU competition law that governs the relationship between suppliers and dealers, often aimed at equalizing market access while maintaining brand integrity. Such agreements can include unwritten terms that dictate the conditions under which dealerships operate, ensuring that only authorized dealers are permitted to sell specific products. This structure can enhance servicing quality and uphold warranties, but may also face scrutiny if perceived as a hindrance to competition. Legal counsel may advise on compliance to avoid lawsuits, while companies like Ford and Sperry have utilized these agreements to reward dealers with bonuses for adhering to strict standards. The rationale behind these agreements is to create a controlled distribution environment that benefits both parties, albeit with the risk of unauthorized sales if not properly managed.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:37:34.793546",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 561,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 139.93333333333334
+    },
+    "related_words": [
+      "basildon",
+      "equalize",
+      "superiors",
+      "counsel",
+      "lawsuit",
+      "jobber",
+      "rewards",
+      "unwritten",
+      "dealerships",
+      "geotech",
+      "repeating",
+      "manuals",
+      "warranties",
+      "condemn",
+      "tecnologie",
+      "sperry",
+      "conformed",
+      "ford",
+      "throw",
+      "technologie",
+      "hindrance",
+      "deny",
+      "told",
+      "honouring",
+      "bonuses",
+      "terra",
+      "reclaimed",
+      "fiat",
+      "attempted",
+      "dealer"
+    ],
+    "prompt_length": 1659,
+    "category": "4031 competition"
+  }
+}

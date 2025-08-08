@@ -1,0 +1,63 @@
+{
+  "concept_id": "709",
+  "concept_data": {
+    "title": "electronics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electronics\" encompasses a broad spectrum of natural and applied sciences, particularly relevant in EU legal and regulatory frameworks. It includes the development and application of electronic devices, which are scrutinized for their originality and compatibility with existing regulations. The EU's approach judiciously favours innovation while ensuring that the workforce is adequately prepared for the sector's demands. This involves assessing the demographic impacts and potential underemployment issues arising from technological advancements. The regulatory landscape must also address the causality between electronics and environmental concerns, ensuring that the sector's growth does not distort market dynamics or escalate incompatibility with sustainability objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:08.771482",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 470,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 542,
+      "selected_avg_freq": 244.1
+    },
+    "related_words": [
+      "besançon",
+      "aménagement",
+      "reconverted",
+      "nominally",
+      "oust",
+      "objecitives",
+      "judiciously",
+      "unreservedly",
+      "inconsiderable",
+      "originality",
+      "territoire",
+      "doubs",
+      "optics",
+      "photography",
+      "seeing",
+      "inducement",
+      "novelty",
+      "causality",
+      "escalation",
+      "dimensional",
+      "feel",
+      "photographic",
+      "assesses",
+      "costing",
+      "reconversion",
+      "narrowly",
+      "scrutinized",
+      "tertiary",
+      "conservative",
+      "favours"
+    ],
+    "prompt_length": 1741,
+    "category": "3606 natural and applied sciences"
+  }
+}

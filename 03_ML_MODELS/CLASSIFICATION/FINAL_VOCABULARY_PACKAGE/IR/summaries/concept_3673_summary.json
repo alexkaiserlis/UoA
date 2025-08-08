@@ -1,0 +1,63 @@
+{
+  "concept_id": "3673",
+  "concept_data": {
+    "title": "third-party insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Third-party insurance is a crucial regulatory concept within the EU insurance framework, primarily aimed at protecting victims against the negligence of insured parties. It necessitates that insurers provide indemnity to third parties, particularly in residential and travel contexts, thereby liberalizing access to coverage for uninsured individuals. This insurance type often involves intermediaries who facilitate the intermediation process, ensuring that addendums and stipulations are clearly outlined. The history of third-party insurance reveals its evolution in various jurisdictions, including Andorra, where specific bureaux manage claims. By filling gaps in coverage, third-party insurance serves as a unified mechanism to protect victims and mitigate detriment across diverse scenarios.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:51.673894",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 518,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 570,
+      "selected_avg_freq": 253.84
+    },
+    "related_words": [
+      "uninsured",
+      "supplemantary",
+      "appli",
+      "addendums",
+      "againsts",
+      "annulling",
+      "intemediaries",
+      "pii",
+      "intermediated",
+      "mortgages",
+      "cation",
+      "insurer",
+      "intermediation",
+      "addenda",
+      "victim",
+      "bureaux",
+      "unidentified",
+      "stipulation",
+      "liberalize",
+      "mortgage",
+      "correlated",
+      "insurers",
+      "card",
+      "residential",
+      "insure",
+      "indemnity",
+      "immovable",
+      "insured",
+      "exhibit",
+      "cards"
+    ],
+    "prompt_length": 1717,
+    "category": "2431 insurance"
+  }
+}

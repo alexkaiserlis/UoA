@@ -1,0 +1,63 @@
+{
+  "concept_id": "6004",
+  "concept_data": {
+    "title": "universal decimal classification",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "classification",
+    "relation_type": "USE"
+  },
+  "summary": "The \"universal decimal classification\" (UDC) serves as an indispensable framework for organizing documentation within EU legal and regulatory contexts. As a redirect to the preferred term \"classification,\" UDC aids in enumerating diverse subjects, from neurotoxicological assessments to the regulation of unsaleable goods. By calibrating information retrieval systems, it ensures that member communities can efficiently access relevant data, thereby fulfilling regulatory requirements. The iterative nature of UDC allows for the integration of new classifications, such as those related to slaughterhouses or environmental standards, ensuring that documents remain unpolluted and relevant. This system also supports the classification of complex topics, including drowsiness and dizziness in health regulations, while providing a structured approach to dissected legal texts.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:16:37.938429",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1416,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 22.313333333333333
+    },
+    "related_words": [
+      "ommissions",
+      "memberr",
+      "comunities",
+      "neurotoxicological",
+      "intrascope",
+      "giralda",
+      "choirometer",
+      "scions",
+      "muscled",
+      "dest",
+      "calibrate",
+      "fullfilled",
+      "wheread",
+      "eeec",
+      "eupigclass",
+      "slaugterhouse",
+      "notas",
+      "eota",
+      "drowsiness",
+      "dizziness",
+      "dissected",
+      "enumerating",
+      "virute",
+      "nightdresses",
+      "forefeet",
+      "classifiers",
+      "indispendable",
+      "lath",
+      "plastering",
+      "corners"
+    ],
+    "prompt_length": 1744,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5208",
+  "concept_data": {
+    "title": "work on screen",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "video display unit work",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"work on screen,\" redirected to \"video display unit work,\" pertains to the organization of work and working conditions within the EU. It emphasizes the importance of ergonomically designed workstations that accommodate the latest technologies and screen dimensions. Employers are obliged to create a safe working environment, imposing stringent safety and hygiene standards to protect workers. The EU directives encourage improvements in equipment design, ensuring that screens hold high resolution and are sized appropriately for practical use. Scientific findings note the significance of ergonomic aspects, drawing attention to the need for advisory proposals that enhance the overall working conditions for employees engaged in video display unit work.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:22:00.513093",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 126,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 126,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1707.063492063492
+    },
+    "related_words": [
+      "workstations",
+      "workstation",
+      "screens",
+      "ergonomic",
+      "screen",
+      "employers",
+      "display",
+      "dimension",
+      "stringent",
+      "advances",
+      "hygiene",
+      "sized",
+      "design",
+      "technologies",
+      "hold",
+      "creating",
+      "back",
+      "obliged",
+      "constraints",
+      "note",
+      "fifth",
+      "imposing",
+      "improvements",
+      "workers",
+      "technology",
+      "keep",
+      "findings",
+      "creation",
+      "proposals",
+      "medium"
+    ],
+    "prompt_length": 1752,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

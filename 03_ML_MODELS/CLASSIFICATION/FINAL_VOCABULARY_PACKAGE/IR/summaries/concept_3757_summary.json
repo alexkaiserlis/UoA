@@ -1,0 +1,63 @@
+{
+  "concept_id": "3757",
+  "concept_data": {
+    "title": "slate",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "earths and stones",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"slate,\" categorized under the coal and mining industries, is redirected to the preferred term \"earths and stones.\" In EU legal and regulatory contexts, this encompasses various materials, including mica, limestone, and granite, which are essential in construction and manufacturing. The regulatory framework addresses the extraction and processing of these materials, ensuring compliance with environmental standards. For instance, the use of chamottes and refractory stones in industrial applications is governed by specific directives. Additionally, the concept includes agglomerated and reconstituted materials, which may involve complex processes like isolier and cable production. This regulatory landscape aims to mitigate risks associated with dust and other byproducts, ensuring that notifiers adhere to safety protocols. Overall, the relationship between slate and earths and stones highlights the significance of these materials in the EU's industrial ecosystem.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:15.068573",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 557,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 434,
+      "selected_avg_freq": 183.24
+    },
+    "related_words": [
+      "mica",
+      "royale",
+      "asturienne",
+      "cogebi",
+      "rika",
+      "kogyosho",
+      "okabe",
+      "isolier",
+      "walden",
+      "anciliary",
+      "slices",
+      "retaliate",
+      "chamottes",
+      "monumental",
+      "granite",
+      "roc",
+      "kunststoff",
+      "ams",
+      "limestone",
+      "heater",
+      "aeg",
+      "cie",
+      "kassel",
+      "thicknesses",
+      "mat",
+      "telexes",
+      "stones",
+      "refractory",
+      "wherein",
+      "agglomerated"
+    ],
+    "prompt_length": 1657,
+    "category": "6611 coal and mining industries"
+  }
+}

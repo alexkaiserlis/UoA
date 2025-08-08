@@ -1,0 +1,63 @@
+{
+  "concept_id": "6031",
+  "concept_data": {
+    "title": "solar heat collector",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": true,
+    "preferred_term": "solar collector",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"solar heat collector,\" redirected to \"solar collector,\" refers to devices that harness solar energy for heating purposes, a key component in the EU's soft energy strategy. These collectors convert sunlight into thermal energy, enhancing comfort in residential and commercial buildings. The regulatory framework encompasses standards for efficiency and safety, often evaluated by organizations like TÜV and EPIA. As the market evolves, brands such as Webasto and ProSun are prominent, while polysilicon wafers play a crucial role in manufacturing. The EU's deliberation on solar technologies includes addressing impermissible practices like underselling and ensuring fair competition, as highlighted by Bloomberg reports. The adaptation of these technologies is vital for achieving sustainability goals, with ongoing reinvestment in research and development to improve performance and reduce costs.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:29.454564",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1069,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 186,
+      "selected_avg_freq": 88.00666666666666
+    },
+    "related_words": [
+      "pvxchange",
+      "chargers",
+      "polysilicon",
+      "extrusions",
+      "reinvestment",
+      "bloomberg",
+      "belatedly",
+      "impermissible",
+      "epia",
+      "webasto",
+      "prosun",
+      "fies",
+      "süd",
+      "underselling",
+      "tüv",
+      "famous",
+      "insurances",
+      "voiced",
+      "disconnected",
+      "spelled",
+      "guangdong",
+      "cccme",
+      "emanate",
+      "converter",
+      "spiral",
+      "repeatable",
+      "crystalline",
+      "spell",
+      "encompassed",
+      "photovoltaic"
+    ],
+    "prompt_length": 1719,
+    "category": "6626 soft energy"
+  }
+}

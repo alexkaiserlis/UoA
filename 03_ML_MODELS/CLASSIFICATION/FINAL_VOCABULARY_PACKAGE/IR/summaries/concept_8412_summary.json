@@ -1,0 +1,63 @@
+{
+  "concept_id": "8412",
+  "concept_data": {
+    "title": "green fuel",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "biofuel",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"green fuel\" is primarily synonymous with \"biofuel,\" a term that encompasses various bioliquids derived from feedstocks such as palm, soybean, and other combinable crops. The EU's energy policy promotes bioenergy as a means to reduce greenhouse gas (GHG) emissions, with frameworks like REDcert and ISCC ensuring sustainability and traceability. Biofuels can include hydrotreated vegetable oils (HVO) and ethanol (ETBE), which are blended into gasoline and gasoils. Regulatory bodies emphasize the importance of standards like Biograce and Bonsucro to prevent countervailable practices and ensure that biofuel production does not overcompensate for environmental impacts. The annualised lifecycle analysis of these fuels is crucial for compliance and sustainability assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:31:29.810129",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1104,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 156,
+      "selected_avg_freq": 74.52
+    },
+    "related_words": [
+      "biograce",
+      "ghg",
+      "hvo",
+      "famae",
+      "fame",
+      "incl",
+      "overcompensated",
+      "epure",
+      "kzr",
+      "inig",
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "ensus",
+      "greenergy",
+      "abengoa",
+      "rbsa",
+      "nta",
+      "redcert",
+      "ltl",
+      "roundtable",
+      "gasoils",
+      "bituminous",
+      "feedstocks",
+      "ebb",
+      "gafta",
+      "bioenergy",
+      "gasoil",
+      "combinable",
+      "annualised"
+    ],
+    "prompt_length": 1647,
+    "category": "6606 energy policy"
+  }
+}

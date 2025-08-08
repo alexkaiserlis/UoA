@@ -1,0 +1,63 @@
+{
+  "concept_id": "15",
+  "concept_data": {
+    "title": "committee of inquiry",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"committee of inquiry\" within the EU Parliament is a specialized body tasked with investigating complex issues, often involving accidents or incidents that require immediate attention. These committees are composed of independent experts who cooperate to ensure a homogeneous approach to the investigation. Their work involves examining operational standards and performance across various fields, such as aviation safety. By engaging in mutual assistance and facilitating the exchange of information, these committees aim to prevent future accidents and enhance safety protocols. Their findings contribute to the development of permissible regulations that ensure the highest standards in EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:08.205496",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 84,
+      "requested_words": 150,
+      "min_frequency_found": 90,
+      "max_frequency_found": 4108,
+      "selected_words": 84,
+      "selected_min_freq": 90,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1557.857142857143
+    },
+    "related_words": [
+      "specialist",
+      "investigating",
+      "homogeneous",
+      "constantly",
+      "incumbent",
+      "specialized",
+      "accident",
+      "investigated",
+      "permissible",
+      "modern",
+      "aviation",
+      "accidents",
+      "aircraft",
+      "permanently",
+      "complexity",
+      "cooperate",
+      "staff",
+      "air",
+      "off",
+      "fields",
+      "weight",
+      "advisable",
+      "keep",
+      "involve",
+      "prevention",
+      "investigation",
+      "facilities",
+      "contracting",
+      "operational",
+      "mutual"
+    ],
+    "prompt_length": 1685,
+    "category": "0421 parliament"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6563",
+  "concept_data": {
+    "title": "promotion of culture",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": true,
+    "preferred_term": "cultural promotion",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"cultural promotion,\" as categorized under the broader theme of \"culture and religion,\" encompasses various actions and arrangements aimed at enhancing cultural freedoms within the EU. This involves the establishment of panels and advisory bodies that ensure a fair and transparent selection process for nominated events and projects. Institutions are tasked with monitoring the implementation of cultural initiatives, which may include drafting amendments to extend cooperation agreements. Specific protocols allow for joint actions across member states, ensuring that cultural promotion is inclusive and non-discriminatory. Over the years, these efforts have aimed to provide a robust framework for cultural capital across diverse fields.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:51:48.347706",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 97,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 97,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2056.9
+    },
+    "related_words": [
+      "panels",
+      "nominated",
+      "culture",
+      "nomination",
+      "freedoms",
+      "discriminatory",
+      "panel",
+      "procedural",
+      "transparent",
+      "selection",
+      "seven",
+      "fields",
+      "capital",
+      "attached",
+      "fair",
+      "contracting",
+      "practical",
+      "indent",
+      "advisory",
+      "event",
+      "decide",
+      "institutions",
+      "four",
+      "behalf",
+      "contains",
+      "draft",
+      "amendment",
+      "extend",
+      "monitoring",
+      "protocol"
+    ],
+    "prompt_length": 1684,
+    "category": "2831 culture and religion"
+  }
+}

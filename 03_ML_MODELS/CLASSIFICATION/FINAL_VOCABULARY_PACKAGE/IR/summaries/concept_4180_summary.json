@@ -1,0 +1,63 @@
+{
+  "concept_id": "4180",
+  "concept_data": {
+    "title": "seat of institution",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"seat of institution\" refers to the designated location where EU institutions, such as Europol and CEPOL, operate. This concept is crucial in the context of the Treaty on the Functioning of the European Union (TFEU) and the Treaty on European Union (TEU), as it influences governance and policing across member states. The selection of a seat, whether in Brussels, Berlin, or Budapest, is often a matter of mutual accord among governments, ensuring that the site can effectively host operations without jeopardising the institution's functions. The decentralized nature of these seats allows for urgent responses to challenges, while also deriving solutions that respect borders and local contexts.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:35:32.302491",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 272,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1443,
+      "selected_avg_freq": 695.7333333333333
+    },
+    "related_words": [
+      "governements",
+      "bramshill",
+      "policing",
+      "sincere",
+      "cepol",
+      "decentralized",
+      "hosts",
+      "budapest",
+      "hosted",
+      "college",
+      "hosting",
+      "jeopardising",
+      "thessaloniki",
+      "headquarters",
+      "europol",
+      "seat",
+      "prejudge",
+      "teu",
+      "wished",
+      "acted",
+      "seats",
+      "unilaterally",
+      "mutually",
+      "accord",
+      "berlin",
+      "emerged",
+      "starts",
+      "leaves",
+      "jha",
+      "police"
+    ],
+    "prompt_length": 1651,
+    "category": "0431 politics and public safety"
+  }
+}

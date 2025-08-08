@@ -1,0 +1,63 @@
+{
+  "concept_id": "3049",
+  "concept_data": {
+    "title": "privilege",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"privilege\" refers to specific immunities and rights granted to officials and organs of the Union, ensuring their independence while performing functions related to their jurisdiction. These privileges operate to protect officials from interference during investigations, particularly in criminal matters, allowing them to participate fully without fear of legal repercussions. The concept is crucial for teams like Europol and JHA, which investigate offences and ensure compliance with regulations. Privileges clarify the responsibilities of agents and auditors, facilitating effective proceedings and enabling the institute to terminate or dispose of matters exclusively within its competence.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:28:35.512509",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 38,
+      "selected_max_freq": 3824,
+      "selected_avg_freq": 1598.3266666666666
+    },
+    "related_words": [
+      "headed",
+      "immunity",
+      "leader",
+      "teams",
+      "offences",
+      "organs",
+      "specificities",
+      "immunities",
+      "investigating",
+      "privileges",
+      "europol",
+      "servants",
+      "interference",
+      "team",
+      "functional",
+      "purely",
+      "jha",
+      "criminal",
+      "police",
+      "independence",
+      "auditors",
+      "terminate",
+      "enjoy",
+      "operates",
+      "institute",
+      "officials",
+      "jurisdiction",
+      "responsibilities",
+      "agents",
+      "grants"
+    ],
+    "prompt_length": 1702,
+    "category": "0421 parliament"
+  }
+}

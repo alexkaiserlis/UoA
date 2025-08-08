@@ -1,0 +1,63 @@
+{
+  "concept_id": "6174",
+  "concept_data": {
+    "title": "zombie firm",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "company in difficulties",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"zombie firm,\" redirected to \"company in difficulties,\" refers to businesses that, despite facing substantial losses and diminished equity, continue to operate primarily due to ongoing support from creditors. These firms often show signs of financial instability, with heavy debts and dwindling reserves, yet they remain formally committed to restructuring efforts. In the EU regulatory context, the initiation of measures to assist such companies is crucial, as their existence can absorb resources that might otherwise support healthier firms. The evolution of these firms raises concerns about their compatibility with usual market dynamics, prompting discussions on the need for reconsideration of support criteria amidst ongoing economic challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:48.923374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2886,
+      "selected_avg_freq": 1168.68
+    },
+    "related_words": [
+      "chupa",
+      "chups",
+      "minería",
+      "condemn",
+      "rescuing",
+      "certainly",
+      "diminished",
+      "disappeared",
+      "inventories",
+      "creditors",
+      "equity",
+      "debts",
+      "subscribed",
+      "absorb",
+      "shareholders",
+      "reconsider",
+      "stem",
+      "contested",
+      "owner",
+      "signs",
+      "deduction",
+      "appeal",
+      "usual",
+      "argued",
+      "difficulty",
+      "lost",
+      "going",
+      "firm",
+      "expenses",
+      "reserves"
+    ],
+    "prompt_length": 1692,
+    "category": "4006 business organisation"
+  }
+}

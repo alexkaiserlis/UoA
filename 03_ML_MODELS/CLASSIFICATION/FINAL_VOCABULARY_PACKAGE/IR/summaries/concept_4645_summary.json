@@ -1,0 +1,63 @@
+{
+  "concept_id": "4645",
+  "concept_data": {
+    "title": "customs valuation",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs valuation is a critical component of the EU's tariff policy, which musts ensure accurate assessment of goods entering the market. This process holds significant geopolitical implications, as it affects trade dynamics and societal welfare. The valuation must be furnished with precise data, accounting for factors such as inflation and the nature of goods, including perishable items like salmon and trout. As customs authorities compare values, they may encounter challenges with specimen goods that have sharply fluctuating prices. The observance of these regulations is essential to restabilize trade routes and prevent the deterioration of market integrity, particularly at airports and ports.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:48.750493",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 433,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 925,
+      "selected_avg_freq": 478.9
+    },
+    "related_words": [
+      "nearer",
+      "geopolitical",
+      "restabilize",
+      "crossed",
+      "crosses",
+      "societal",
+      "musts",
+      "trout",
+      "peripheral",
+      "precludes",
+      "steadily",
+      "perishable",
+      "continually",
+      "triggered",
+      "floor",
+      "compare",
+      "waiting",
+      "norwegian",
+      "airport",
+      "valuation",
+      "sudden",
+      "waive",
+      "specimen",
+      "airports",
+      "salmon",
+      "departure",
+      "insignificant",
+      "swift",
+      "furnished",
+      "holds"
+    ],
+    "prompt_length": 1655,
+    "category": "2011 tariff policy"
+  }
+}

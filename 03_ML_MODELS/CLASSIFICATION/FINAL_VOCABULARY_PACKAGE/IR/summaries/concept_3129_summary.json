@@ -1,0 +1,63 @@
+{
+  "concept_id": "3129",
+  "concept_data": {
+    "title": "shipping policy",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"shipping policy\" within the EU's maritime and inland waterway transport framework encompasses a range of strategic mandates aimed at enhancing logistical efficiency and fostering entrepreneurship. This policy is central to the European Maritime and Fisheries Fund (EMFF), which supports SMEs in the sector by providing financial portfolios and facilitating access to resources through platforms like iporta and helpdesk services. By centralizing efforts and delegating responsibilities among directorates, the policy promotes synergies that drive societal gains. It also addresses the outsourcing of services, ensuring that legacy systems are succeeded by intelligent, eco-friendly solutions. The thematic focus on separation and pooling of resources proves essential for achieving a homogenous transport network that meets the diverse choices of stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:41:27.359485",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 300,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 955,
+      "selected_avg_freq": 380.64666666666665
+    },
+    "related_words": [
+      "cosme",
+      "helpdesk",
+      "iporta",
+      "iee",
+      "portfolios",
+      "directorates",
+      "relinquishing",
+      "outsourcing",
+      "cip",
+      "centralisation",
+      "strand",
+      "emff",
+      "entrusting",
+      "ipr",
+      "succeeding",
+      "polo",
+      "marco",
+      "legacy",
+      "delegating",
+      "centralize",
+      "outsourced",
+      "predecessor",
+      "portal",
+      "sme",
+      "imp",
+      "assembling",
+      "pooling",
+      "thematic",
+      "entrepreneurship",
+      "leadership"
+    ],
+    "prompt_length": 1686,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

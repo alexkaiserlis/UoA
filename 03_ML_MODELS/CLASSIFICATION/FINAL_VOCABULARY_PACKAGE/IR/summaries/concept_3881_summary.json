@@ -1,0 +1,63 @@
+{
+  "concept_id": "3881",
+  "concept_data": {
+    "title": "building slab",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"building slab\" pertains to the category of building and public works within EU legal and regulatory frameworks. A building slab serves as a fundamental structural element, often characterized by its thickness and load-bearing capacity. It may incorporate various materials, including metal, wood, or insulating panels, and can be designed with specific attributes such as fire resistance and smoke reaction. Regulatory bodies may require approvals and attestations for slab construction, ensuring compliance with safety mandates. The use of shuttering, cladding, and panelling is common in slab design, while the integration of hollow blocks and solid components enhances structural integrity. Various kits and coverings are available to circumvent onerous construction challenges, thereby facilitating predictable outcomes in building projects.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:50.012147",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 388,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 910,
+      "selected_avg_freq": 421.44666666666666
+    },
+    "related_words": [
+      "shuttering",
+      "bolderâja",
+      "sandwich",
+      "panelling",
+      "roofs",
+      "hardboard",
+      "cladding",
+      "hollow",
+      "interpretative",
+      "insulating",
+      "partition",
+      "variously",
+      "interrelated",
+      "roof",
+      "coverings",
+      "smoke",
+      "kits",
+      "wall",
+      "predictable",
+      "onerous",
+      "thickness",
+      "panels",
+      "circumvent",
+      "lapse",
+      "blocks",
+      "classifying",
+      "approvals",
+      "regulators",
+      "skin",
+      "mandates"
+    ],
+    "prompt_length": 1674,
+    "category": "6831 building and public works"
+  }
+}

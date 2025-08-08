@@ -1,0 +1,63 @@
+{
+  "concept_id": "3225",
+  "concept_data": {
+    "title": "monetary crisis",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"monetary crisis\" refers to an unprecedented downturn in economic stability, often provoking heightened challenges within the EU's monetary relations framework. Such crises can interrupt financial systems, leading to a decommitment from previously agreed fiscal policies and necessitating swift regulatory responses. The Eurozone's intercreditor dynamics may require member states to explore absorption strategies to counterbalance economic pressures, ensuring manageable GDP growth. In this context, the ECOFIN Council plays a crucial role in optimising synergies among member states, capping potential losses, and facilitating the disbursement of funds to affected regions. The persistence of these crises can damage job markets and provoke migration, as individuals seek refuge from economic instability.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:52:43.189500",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 475,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 708,
+      "selected_avg_freq": 322.72
+    },
+    "related_words": [
+      "enduring",
+      "heightened",
+      "decommitment",
+      "disburse",
+      "intercreditor",
+      "refocusing",
+      "capping",
+      "manageable",
+      "refugee",
+      "caps",
+      "slower",
+      "provoking",
+      "maximal",
+      "counterbalance",
+      "provoked",
+      "intensities",
+      "axis",
+      "arrange",
+      "ecofin",
+      "proportionally",
+      "unprecedented",
+      "interrupted",
+      "provider",
+      "asylum",
+      "immigration",
+      "capita",
+      "overlap",
+      "optimise",
+      "synergies",
+      "anymore"
+    ],
+    "prompt_length": 1692,
+    "category": "2406 monetary relations"
+  }
+}

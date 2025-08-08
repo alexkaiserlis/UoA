@@ -1,0 +1,63 @@
+{
+  "concept_id": "1104",
+  "concept_data": {
+    "title": "long-keeping cheese",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": true,
+    "preferred_term": "hard cheese",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"long-keeping cheese,\" a redirect to \"hard cheese,\" encompasses various mature cheeses such as Parmigiano Reggiano, Gruyère, and Pecorino. In the EU regulatory framework, these cheeses are classified under processed agricultural produce, specifically category 6016. Their production often involves specific interventions to ensure quality and seasonality, with particular attention to traditional methods like those used for Vacherin and Asiago. The legal definitions aim to harmonize standards across member states, facilitating trade while preserving unique regional characteristics. This includes regulations on labeling and storage in depots, ensuring that products like Emmental and Cheddar maintain their integrity throughout distribution.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:46:54.896277",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 905,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 319,
+      "selected_avg_freq": 132.91333333333333
+    },
+    "related_words": [
+      "ilha",
+      "nanoški",
+      "sheeps",
+      "asiago",
+      "kefalo",
+      "tyri",
+      "unconsolidated",
+      "intergrated",
+      "chäs",
+      "käsehandel",
+      "inhaber",
+      "urs",
+      "reichen",
+      "grubenstr",
+      "zürich",
+      "dept",
+      "paricular",
+      "vacherin",
+      "sbrinz",
+      "tshe",
+      "needing",
+      "invervention",
+      "mont",
+      "provolone",
+      "jorge",
+      "kasseri",
+      "kefalotyri",
+      "emmentaler",
+      "mountainous",
+      "sir"
+    ],
+    "prompt_length": 1687,
+    "category": "6016 processed agricultural produce"
+  }
+}

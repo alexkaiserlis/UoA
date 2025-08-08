@@ -1,0 +1,63 @@
+{
+  "concept_id": "944",
+  "concept_data": {
+    "title": "milk collection",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "dairy farm",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"milk collection,\" redirected to \"dairy farm,\" encompasses the regulatory framework governing the upkeep and management of dairy farms within the EU. This framework aims to stabilize milk production and prevent surpluses, ensuring economic viability for farmers. Regulations specify hygiene standards for milking and untreated milk, while also addressing the cessation of operations for unutilized farms. Earmarked funds may support families affected by calamitous market conditions, facilitating the repurchasing of livestock. Periodic inspections ensure compliance, while explanations for discontinuation of practices are mandated. Ultimately, these measures benefit the dairy sector, promoting a socially responsible and economically sustainable farming system.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:26.941431",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 356,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 1221,
+      "selected_avg_freq": 632.0733333333334
+    },
+    "related_words": [
+      "unutilized",
+      "earmark",
+      "calamitous",
+      "milking",
+      "repurchasing",
+      "scarcely",
+      "repurchased",
+      "upkeep",
+      "discontinuing",
+      "leases",
+      "inspecting",
+      "stabilizing",
+      "socially",
+      "untreated",
+      "discontinue",
+      "explanations",
+      "discontinuation",
+      "earmarked",
+      "families",
+      "contemplated",
+      "prevents",
+      "solve",
+      "unification",
+      "surpluses",
+      "undergo",
+      "purchasers",
+      "cessation",
+      "overcome",
+      "restore",
+      "benefited"
+    ],
+    "prompt_length": 1742,
+    "category": "5616 farming systems"
+  }
+}

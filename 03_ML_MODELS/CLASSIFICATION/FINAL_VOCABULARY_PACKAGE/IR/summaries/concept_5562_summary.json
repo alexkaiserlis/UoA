@@ -1,0 +1,63 @@
+{
+  "concept_id": "5562",
+  "concept_data": {
+    "title": "convergence criteria",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"convergence criteria\" are essential benchmarks established by the EU to assess the readiness of member states for adopting the euro. These criteria include nominal measures such as inflation rates, government deficit ratios, and public debt levels, which must be credible and within specified margins. For example, the Maastricht Treaty outlines these criteria, ensuring that countries like Cyprus (CYP) and Malta (MTL) maintain stable economic conditions. The European Central Bank (ECB) monitors these indices, addressing fluctuations and tensions that may arise during the Economic and Monetary Union (EMU) process. Abrogation of non-compliance can lead to diminished credibility in the eurozone, impacting bonds and fiscal stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:51.561916",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 280,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1271,
+      "selected_avg_freq": 664.7733333333333
+    },
+    "related_words": [
+      "mtl",
+      "cyp",
+      "abrogate",
+      "erm",
+      "devalued",
+      "lira",
+      "tensions",
+      "hicps",
+      "emu",
+      "pound",
+      "diminishing",
+      "abrogation",
+      "cypriot",
+      "arithmetic",
+      "benchmark",
+      "edinburgh",
+      "abrogated",
+      "credible",
+      "bonds",
+      "indices",
+      "fluctuation",
+      "escb",
+      "stood",
+      "ahead",
+      "statutes",
+      "gdp",
+      "nominal",
+      "maltese",
+      "performing",
+      "inflation"
+    ],
+    "prompt_length": 1614,
+    "category": "1606 economic policy"
+  }
+}

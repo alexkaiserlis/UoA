@@ -1,0 +1,63 @@
+{
+  "concept_id": "2849",
+  "concept_data": {
+    "title": "vegetable protein",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vegetable protein\" within EU legal and regulatory frameworks pertains to processed agricultural produce, particularly focusing on its role in dietetic applications. This category encompasses various sources, such as lucerne (alfalfa) and rapeseed, which are agronomically significant for their nutritional value. The regulation of vegetable proteins is crucial, as it addresses potential allergens and sensitisation issues linked to alkaloids and leucoses. Furthermore, the intensification of production methods and the use of hydrolysates can impact the ripeness and quality of these proteins. The EU's approach aims to simplify regulations while ensuring consumer safety, particularly for infants and individuals with allergies.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:40.575734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 603,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 411,
+      "selected_avg_freq": 170.9
+    },
+    "related_words": [
+      "simpliefied",
+      "climatically",
+      "leucoses",
+      "effluents",
+      "coagulated",
+      "avebe",
+      "helm",
+      "siebte",
+      "pmi",
+      "verwaltungs",
+      "viridis",
+      "luzerne",
+      "alfalfa",
+      "pasturage",
+      "recherche",
+      "marek",
+      "harder",
+      "agronomically",
+      "ripeness",
+      "développement",
+      "sulphite",
+      "happens",
+      "reglation",
+      "sensitisation",
+      "alkaloids",
+      "hydrolysates",
+      "mustard",
+      "medicago",
+      "impediment",
+      "allergic"
+    ],
+    "prompt_length": 1713,
+    "category": "6016 processed agricultural produce"
+  }
+}

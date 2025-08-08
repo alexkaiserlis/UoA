@@ -1,0 +1,63 @@
+{
+  "concept_id": "5257",
+  "concept_data": {
+    "title": "total catch",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"total catch\" in EU fisheries regulation refers to the aggregate biomass of fish, including species such as cod, haddock, and mackerel, that is fished and landed. This total underlies the rationale for sustainable management practices, aimed at maximising recruitment and maintaining ecosystem health. Methodologies for calculating total catch include assessments by ICES and STECF, which examine discards and landings to avoid mismatches in reported data. Regulations also stipulate allowable catches, ensuring that fishing gear, such as seines and trawls, is utilised effectively while mitigating threats to demersal species like plaice and nephrops. Compliance with these measures is essential to uphold the integrity of fisheries management in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:12:49.401285",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 398,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 772,
+      "selected_avg_freq": 334.6666666666667
+    },
+    "related_words": [
+      "neterlands",
+      "crashes",
+      "underlies",
+      "nullified",
+      "mismatch",
+      "nephrops",
+      "discarding",
+      "abundance",
+      "saithe",
+      "spawning",
+      "discards",
+      "legitimately",
+      "cecaf",
+      "auctions",
+      "plaice",
+      "utilise",
+      "haddock",
+      "whiting",
+      "seines",
+      "maximising",
+      "weighed",
+      "rationale",
+      "yielded",
+      "demersal",
+      "stopping",
+      "hake",
+      "stecf",
+      "stronger",
+      "trawls",
+      "biomass"
+    ],
+    "prompt_length": 1646,
+    "category": "5641 fisheries"
+  }
+}

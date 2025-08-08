@@ -1,0 +1,63 @@
+{
+  "concept_id": "4705",
+  "concept_data": {
+    "title": "school life",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"school life\" encompasses the organization of teaching within educational institutions, focusing on the multifaceted environment that supports learning. In the context of EU legal and regulatory frameworks, it involves earmarked funding and appropriations for programs designed to improve educational outcomes. Initiatives may include pilot projects that test innovative teaching methods, addressing both indoor and outdoor learning environments. Research proposals often seek to enhance the feasibility of educational schemes, constituting actions that fall under broader climate and environmental commitments. The procurement of resources and contracts for educational projects is crucial for ensuring sufficient financing and long-term sustainability, thereby contributing to the overall improvement of school life across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:32:37.994086",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 112,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 112,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1686.8660714285713
+    },
+    "related_words": [
+      "hetc",
+      "indoor",
+      "outdoor",
+      "schools",
+      "earmarked",
+      "usefulness",
+      "program",
+      "preceded",
+      "procurement",
+      "experimental",
+      "feasibility",
+      "climate",
+      "pilot",
+      "institution",
+      "complex",
+      "preparatory",
+      "grants",
+      "constituting",
+      "appropriations",
+      "funding",
+      "air",
+      "test",
+      "prepare",
+      "delegated",
+      "fields",
+      "project",
+      "finance",
+      "commitment",
+      "contracts",
+      "proposals"
+    ],
+    "prompt_length": 1683,
+    "category": "3216 organisation of teaching"
+  }
+}

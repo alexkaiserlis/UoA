@@ -1,0 +1,63 @@
+{
+  "concept_id": "2932",
+  "concept_data": {
+    "title": "recognition of qualifications",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": true,
+    "preferred_term": "recognition of diplomas",
+    "relation_type": "USE"
+  },
+  "summary": "The \"recognition of qualifications,\" commonly referred to as the \"recognition of diplomas,\" is a critical EU regulatory framework aimed at facilitating the mobility of professionals across member states. This process ensures that specializations in fields such as gynaecology, obstetrics, and ophthalmology are acknowledged, allowing practitioners like nurses, physiotherapists, and chiropodists to work effectively in different territories. The framework also encompasses vocational qualifications (NVQs) and syllabi that align with EU standards, promoting mastery in diverse sectors, including diving and parachuting. By harmonizing standards, the EU enhances the employability of professionals, thereby supporting economic growth and addressing workforce shortages in critical areas like geriatrics and radiology.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:09.136217",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1328,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 57,
+      "selected_avg_freq": 20.18
+    },
+    "related_words": [
+      "territority",
+      "specializations",
+      "seafarer",
+      "gynaecology",
+      "obstetrics",
+      "ophthalmology",
+      "enterology",
+      "endocrinology",
+      "physiotherapy",
+      "radiology",
+      "geriatrics",
+      "radiotherpy",
+      "nvqs",
+      "psychiatric",
+      "syllabi",
+      "prosthetist",
+      "batumi",
+      "lifeboat",
+      "therapist",
+      "beschäftigungs",
+      "arbeitstherapeut",
+      "ergotherapist",
+      "ergotherapeut",
+      "arbeitstherapeutengesetz",
+      "chiropodist",
+      "podologo",
+      "chiropodists",
+      "bookkeeping",
+      "bookkeeper",
+      "gewerblicher"
+    ],
+    "prompt_length": 1852,
+    "category": "3206 education"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6343",
+  "concept_data": {
+    "title": "tax reform",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tax reform within the EU context refers to a comprehensive redesign of taxation measures aimed at addressing economic vulnerabilities and enhancing fiscal sustainability. Such reforms often hinge on the need to counterbalance budgetary pressures, particularly during cyclical downturns or recessions. The EU may announce tax hikes or reductions, depending on the trajectory of economic performance, which can affect households and wealth distribution. Acknowledging the impact on poorer residences, policymakers seek to reallocate resources effectively, ensuring durable economic growth. These measures are crucial for maintaining a stable fiscal stance and avoiding arrears, thus fostering an abundant and resilient economic horizon.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:54.736000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 599,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 134.32
+    },
+    "related_words": [
+      "hinged",
+      "hikes",
+      "measurres",
+      "translates",
+      "vulnerabilities",
+      "retrenchment",
+      "peaking",
+      "residences",
+      "announces",
+      "peaked",
+      "veto",
+      "announce",
+      "concurred",
+      "alerted",
+      "supplementation",
+      "pushed",
+      "regained",
+      "poorer",
+      "cyclically",
+      "trajectory",
+      "stance",
+      "redesign",
+      "arrears",
+      "slower",
+      "houses",
+      "committing",
+      "durable",
+      "counterbalance",
+      "budgeted",
+      "abrogating"
+    ],
+    "prompt_length": 1663,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3748",
+  "concept_data": {
+    "title": "social role",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"social role\" within EU legal and regulatory frameworks emphasizes the importance of shaping identity and fostering partnerships that improve societal cohesion. It acknowledges the psychological and pedagogical dimensions of social roles, particularly in the context of youth engagement in sports. Initiatives funded by the EU aim to heighten awareness of issues such as racism and xenophobia, promoting inclusivity among boys and girls, including sportswomen and sportsmen. The Amsterdam and Helsinki processes underline the significance of transnational cooperation in safeguarding the rights of disadvantaged groups. By disseminating educational materials, the EU strives to complement existing frameworks and devise strategies that enhance mobility and coverage of social issues, confirming the merits of a fuller understanding of social roles in a diverse society.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:48:12.554546",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 245,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1499,
+      "selected_avg_freq": 645.08
+    },
+    "related_words": [
+      "pedagogical",
+      "sportswomen",
+      "heighten",
+      "forges",
+      "sportsmen",
+      "shaping",
+      "psychological",
+      "boys",
+      "devise",
+      "ideal",
+      "something",
+      "conveyed",
+      "racism",
+      "xenophobia",
+      "underline",
+      "girls",
+      "olympic",
+      "sporting",
+      "fuller",
+      "youth",
+      "sport",
+      "sports",
+      "stressing",
+      "learning",
+      "partnerships",
+      "nice",
+      "helsinki",
+      "transnational",
+      "disadvantaged",
+      "improves"
+    ],
+    "prompt_length": 1678,
+    "category": "2826 social affairs"
+  }
+}

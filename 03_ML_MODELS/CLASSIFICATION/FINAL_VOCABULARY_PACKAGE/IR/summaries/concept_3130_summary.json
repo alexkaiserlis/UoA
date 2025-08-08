@@ -1,0 +1,63 @@
+{
+  "concept_id": "3130",
+  "concept_data": {
+    "title": "maritime conference",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"maritime conference\" concept pertains to cooperative arrangements among carriers within the EU maritime transport sector, aimed at enhancing efficiencies in freight transport. These conferences are enshrined in legal frameworks that regulate liner shipping, enabling carriers to form alliances and consortia. By grouping services, they can tailor offerings to meet fluctuating demand across ocean lanes, while addressing cabotage regulations. However, the abolishment of certain practices has led to anomalies, weakening the competitive landscape. The essence of these conferences lies in their ability to exchange information and coordinate surcharges, thereby ensuring that commercial interests are adequately compensated amidst varying jurisdictions and regulatory conflicts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:15.069756",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 373,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 835,
+      "selected_avg_freq": 401.38666666666666
+    },
+    "related_words": [
+      "tenuous",
+      "cumulating",
+      "tramp",
+      "abolishment",
+      "alliances",
+      "efficiencies",
+      "tailor",
+      "surcharges",
+      "lanes",
+      "anomaly",
+      "cabotage",
+      "weakening",
+      "liner",
+      "fluctuate",
+      "essence",
+      "convincing",
+      "tolerated",
+      "consortia",
+      "assumes",
+      "enshrined",
+      "jurisdictions",
+      "hardly",
+      "outset",
+      "predetermined",
+      "causal",
+      "exempts",
+      "conferences",
+      "exchanging",
+      "carrier",
+      "conflicts"
+    ],
+    "prompt_length": 1704,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

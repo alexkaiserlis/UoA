@@ -1,0 +1,63 @@
+{
+  "concept_id": "3531",
+  "concept_data": {
+    "title": "resources of the sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"resources of the sea\" encompasses various aspects of marine and coastal environments, crucial for EU legal and regulatory frameworks. It includes the sustainable management of fisheries under the Common Fisheries Policy (CFP), addressing industrialization and the impacts of climate change on oceanography and climatology. The EU empowers member states to develop strategies for the beneficial use of marine resources, ensuring safety against hazards like biotoxins. The JRC (Joint Research Centre) plays a pivotal role in predictive science, supporting shipowners and coastal communities in optimizing catches while maintaining environmental excellence. This harmonious approach promotes complementarity among stakeholders, including those in outermost regions like Mayotte and the Seychelles.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:03.361184",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 328,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1121,
+      "selected_avg_freq": 517.9933333333333
+    },
+    "related_words": [
+      "mast",
+      "ministero",
+      "oceanography",
+      "extention",
+      "climatology",
+      "predictive",
+      "consumo",
+      "vigo",
+      "flagged",
+      "laboratorio",
+      "industrialization",
+      "sanidad",
+      "biotoxins",
+      "cfp",
+      "topics",
+      "crest",
+      "jrc",
+      "excellence",
+      "mayotte",
+      "bed",
+      "seychelles",
+      "complementarity",
+      "shipowners",
+      "empower",
+      "hydrocarbons",
+      "nominated",
+      "expanding",
+      "hazards",
+      "strategies",
+      "fee"
+    ],
+    "prompt_length": 1671,
+    "category": "5211 natural environment"
+  }
+}

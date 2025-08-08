@@ -1,0 +1,63 @@
+{
+  "concept_id": "3667",
+  "concept_data": {
+    "title": "laboratory animals",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "animal experimentation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"laboratory animals,\" redirected to \"animal experimentation,\" encompasses the use of vertebrate species, including primates, in scientific research. EU regulations endorse the ethical treatment of these animals, ensuring that experiments, such as photoirritation and neuro assessments, are conducted under Good Laboratory Practice (GLP). The European Centre for the Validation of Alternative Methods (ECVAM) aims to validate non-animal testing methods, thereby reducing reliance on animal experimentation. This includes the development of formulations that minimize irritation and the use of sophisticated scanning technologies, like tomographs, for data collection. The regulatory framework emphasizes the importance of ethical considerations and the reassessment of existing practices to ensure compliance and unity across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:40.151734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 541,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 532,
+      "selected_avg_freq": 237.90666666666667
+    },
+    "related_words": [
+      "percutaneous",
+      "photoirritation",
+      "certrain",
+      "tomograph",
+      "ecat",
+      "ecvam",
+      "neuro",
+      "vertebrate",
+      "primates",
+      "cranium",
+      "uncomplicated",
+      "ortec",
+      "glp",
+      "experimentation",
+      "irritation",
+      "simulation",
+      "cosmetology",
+      "eyes",
+      "scanning",
+      "introductions",
+      "endorses",
+      "lagging",
+      "chief",
+      "endeavours",
+      "formulations",
+      "accommodation",
+      "everything",
+      "catching",
+      "validate",
+      "duplicate"
+    ],
+    "prompt_length": 1774,
+    "category": "6416 research and intellectual property"
+  }
+}

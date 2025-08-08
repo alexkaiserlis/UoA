@@ -1,0 +1,63 @@
+{
+  "concept_id": "1115",
+  "concept_data": {
+    "title": "fruit",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"fruit\" encompasses a diverse range of plant products, including mangos, papayas, and oranges, which are subject to specific regulations. The evaluation of these products often involves assessing potential discriminations in trade practices and fluctuations in market prices. Regulations may address the use of substances such as cypermetrin, dodine, and mevinphos, ensuring that residues do not exceed permissible limits. Additionally, the regularizing of imports from regions like Alcobaça and Pantelleria is crucial for maintaining quality standards. The EU's commitment to sustainable horticulture is reflected in its stringent controls over harmful chemicals like chlorbenzilate and dichlofluanid, ensuring that fruit production survives environmental challenges while meeting consumer safety expectations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:16.932604",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 3352,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 7.38
+    },
+    "related_words": [
+      "discriminations",
+      "fluctionations",
+      "exceeed",
+      "cypermetrin",
+      "fenbutatinoxyde",
+      "dougherty",
+      "esmolfe",
+      "casa",
+      "alcobaça",
+      "carapinheira",
+      "sizings",
+      "traty",
+      "río",
+      "sidinge",
+      "klintsø",
+      "svinninge",
+      "vejle",
+      "evalutation",
+      "regularizing",
+      "dodine",
+      "dibromide",
+      "mevinphos",
+      "cappero",
+      "pantelleria",
+      "nettarina",
+      "rapdily",
+      "egulation",
+      "survives",
+      "metsulfuron",
+      "omethoate"
+    ],
+    "prompt_length": 1692,
+    "category": "6006 plant product"
+  }
+}

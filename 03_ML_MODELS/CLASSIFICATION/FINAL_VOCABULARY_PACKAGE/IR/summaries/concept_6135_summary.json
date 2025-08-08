@@ -1,0 +1,63 @@
+{
+  "concept_id": "6135",
+  "concept_data": {
+    "title": "regions of Finland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Finland\" pertains to the administrative divisions within Finland, which are significant in the context of EU legal and regulatory frameworks. These regions, including municipalities such as Uusikaupunki and Pyhäranta, play a crucial role in implementing EU policies on health, particularly regarding the surveillance and control of infectious diseases in animals and aquatic environments. The EU establishes programmes for disease prevention and eradication, relevant to regions like Rauma, where specific health statuses are monitored. Documentation regarding these zones is essential for compliance with EEA regulations, ensuring that food and animal health standards are upheld, thereby maintaining a disease-free status across the regions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:58.530519",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 86,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 86,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1795.3023255813953
+    },
+    "related_words": [
+      "uusikaupunki",
+      "pyhäranta",
+      "rauma",
+      "shetland",
+      "isa",
+      "anaemia",
+      "vhs",
+      "septicaemia",
+      "haemorrhagic",
+      "exotic",
+      "compartments",
+      "municipalities",
+      "salmon",
+      "viral",
+      "infectious",
+      "aquatic",
+      "eradication",
+      "west",
+      "diseases",
+      "documentation",
+      "aquaculture",
+      "zones",
+      "disease",
+      "south",
+      "islands",
+      "prevention",
+      "surveillance",
+      "chain",
+      "declared",
+      "animals"
+    ],
+    "prompt_length": 1667,
+    "category": "7211 regions of EU Member States"
+  }
+}

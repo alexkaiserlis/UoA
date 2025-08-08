@@ -1,0 +1,63 @@
+{
+  "concept_id": "5241",
+  "concept_data": {
+    "title": "synthetic rubber",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Synthetic rubber, categorized under chemistry (6811), is a crucial elastomer produced through the polymerization of monomers, often derived from petrochemicals. In the EU regulatory context, synthetic rubber is subject to stringent regulations concerning its production and use, particularly regarding nitrosamines, which are known to be harmful. The EU framework mandates that manufacturers deliverable products must be registrable and compliant with safety tolerances. Key stakeholders, including dealers and brokers, negotiate futures and trades of synthetic rubber, ensuring that the supply chain, from plantations to warehouses, meets legal standards. The ongoing outcry over environmental impacts has led to realigning practices within the industry, prompting sellers to adopt more sustainable methods, such as sourcing from hevea brasiliensis plantations. Compliance with these regulations is essential for avoiding offending practices that could expel products from the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:03:51.442634",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 654,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 349,
+      "selected_avg_freq": 151.49333333333334
+    },
+    "related_words": [
+      "lrtma",
+      "hevea",
+      "braziliensis",
+      "rubbed",
+      "deliverable",
+      "factsthe",
+      "registrable",
+      "realigning",
+      "teats",
+      "soothers",
+      "polysulphide",
+      "akcros",
+      "broker",
+      "appellant",
+      "kuala",
+      "lumpur",
+      "deliverer",
+      "offending",
+      "expelled",
+      "cheapest",
+      "nitrosatable",
+      "merchandising",
+      "postpones",
+      "multiples",
+      "elastomer",
+      "expel",
+      "elastomers",
+      "transacted",
+      "icch",
+      "plantation"
+    ],
+    "prompt_length": 1679,
+    "category": "6811 chemistry"
+  }
+}

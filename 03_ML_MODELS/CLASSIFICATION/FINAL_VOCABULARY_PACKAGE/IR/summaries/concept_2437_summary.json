@@ -1,0 +1,63 @@
+{
+  "concept_id": "2437",
+  "concept_data": {
+    "title": "sea fish",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sea fish\" within EU fisheries regulation encompasses various species, including those that are bilinearis and theragra, which are crucial for sustainable fishing practices. The administration of these fisheries is governed by principles outlined in specific articles aimed at preventing misreporting and ensuring accurate catches. Regulations also address the need for registered vessels to accommodate the harvesting of both conspicuous and inconspicuous species, such as the patudo and boreogadus. Additionally, the management of these resources includes provisions for the protection of fryseriet and the monitoring of predation impacts. As such, the EU framework seeks to balance economic interests with ecological sustainability, ensuring that all stakeholders are informed and compliant with the established norms.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:34:18.882884",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 3835,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.673333333333333
+    },
+    "related_words": [
+      "bilinearis",
+      "engligible",
+      "abovementiond",
+      "merchandize",
+      "accomodate",
+      "indended",
+      "araticle",
+      "adminitration",
+      "wasconcluded",
+      "agriculturan",
+      "skaggerak",
+      "priciples",
+      "paragrph",
+      "orwards",
+      "drene",
+      "sightings",
+      "wheeas",
+      "patudo",
+      "atăşn",
+      "inconspicuous",
+      "ctches",
+      "uneviscerated",
+      "ørum",
+      "copace",
+      "conccerned",
+      "boreogadus",
+      "saida",
+      "ruanda",
+      "registred",
+      "auricularia"
+    ],
+    "prompt_length": 1699,
+    "category": "5641 fisheries"
+  }
+}

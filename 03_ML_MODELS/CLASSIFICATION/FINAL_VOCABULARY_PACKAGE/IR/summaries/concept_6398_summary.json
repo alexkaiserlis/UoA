@@ -1,0 +1,63 @@
+{
+  "concept_id": "6398",
+  "concept_data": {
+    "title": "water protection",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Water protection is a critical aspect of EU environmental policy, aimed at safeguarding aquatic ecosystems from pollutants and ensuring the health of phytoplankton, macrophytes, and phytobenthos. Regulatory frameworks address substances like estradiol, ethinylestradiol, and diclofenac, which contribute to eutrophication and affect invertebrates and other aquatic life. The prioritisation of pollutants, including neonicotinoids and methylphenol, is essential for effective management. Legal documents often itemise scoring systems for assessing water quality, incorporating bacteriological and chemical matrices. Collaborative efforts in interlaboratory studies enhance the understanding of deepwater habitats and sediment dynamics, ultimately fostering sustainable water resource management across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:37:50.103931",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 703,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 263,
+      "selected_avg_freq": 107.9
+    },
+    "related_words": [
+      "phytoplankton",
+      "macrophytes",
+      "phytobenthos",
+      "hydromorphological",
+      "sparked",
+      "itemised",
+      "estradiol",
+      "ethinylestradiol",
+      "estrone",
+      "ditert",
+      "methylphenol",
+      "neonicotinoid",
+      "macrolide",
+      "neonicotinoids",
+      "scoring",
+      "abstracts",
+      "interlaboratory",
+      "methoxycinnamate",
+      "diclofenac",
+      "allate",
+      "methiocarb",
+      "oxadiazon",
+      "erythromycin",
+      "deepwater",
+      "prioritised",
+      "iec",
+      "nitrites",
+      "eutrophication",
+      "partition",
+      "benthic"
+    ],
+    "prompt_length": 1783,
+    "category": "5206 environmental policy"
+  }
+}

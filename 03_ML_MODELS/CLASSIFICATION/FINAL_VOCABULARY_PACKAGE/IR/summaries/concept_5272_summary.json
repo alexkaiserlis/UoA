@@ -1,0 +1,63 @@
+{
+  "concept_id": "5272",
+  "concept_data": {
+    "title": "recording of documents",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "cataloguing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"recording of documents,\" redirected to \"cataloguing,\" is pivotal in the EU's legal and regulatory framework, particularly concerning the documentation of notifiable entities and their characteristics. This process emphasizes the systematic catalogues of genetic information, such as genotypes of various species, including hops (genus Humulus), which are essential in brewing traditions. The examination of these documents ensures the persistence of genetic diversity, addressing infections like isavirus within the orthomyxoviridae family. The cataloguing process also includes the classification of exotic varieties, such as the Hallertauer and Magnum hops, which are predominant in the brewing industry. This meticulous documentation aids in the management of genetic resources, ensuring compliance with regulations set forth by entities like CPVO and UPOV.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:37.681064",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 307,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 1246,
+      "selected_avg_freq": 499.44
+    },
+    "related_words": [
+      "examintion",
+      "leones",
+      "fino",
+      "alsacia",
+      "chinook",
+      "nugget",
+      "yeoman",
+      "hallertauer",
+      "magnum",
+      "hersbrucker",
+      "triploid",
+      "tutsham",
+      "hpr",
+      "polymorphic",
+      "isavirus",
+      "isav",
+      "orthomyxoviridae",
+      "spalter",
+      "galena",
+      "orion",
+      "cpvo",
+      "perenne",
+      "genotypes",
+      "genotype",
+      "lolium",
+      "upov",
+      "omega",
+      "isa",
+      "divides",
+      "bitter"
+    ],
+    "prompt_length": 1677,
+    "category": "3221 documentation"
+  }
+}

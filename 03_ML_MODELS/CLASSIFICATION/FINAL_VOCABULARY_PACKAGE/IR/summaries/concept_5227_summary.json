@@ -1,0 +1,63 @@
+{
+  "concept_id": "5227",
+  "concept_data": {
+    "title": "insecticide",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"insecticide\" refers to substances used in agricultural production to control insect pests, including species like Cydia pomonella. The regulation of insecticides encompasses their metabolisation, safety, and environmental impact, particularly regarding non-target organisms such as ants and beneficial insects. Notable compounds include cyproconazole, methoprene, and dinotefuran, which serve as attractants or larvicides. The EU assesses these substances for their efficacy and potential risks, including their effects on ecosystems, such as the impact on wagtails and other wildlife. Regulations also address formulations containing ingredients like bromoxynil and spinetoram, ensuring compliance with safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:06:14.763716",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1473,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 15,
+      "selected_avg_freq": 9.606666666666667
+    },
+    "related_words": [
+      "adress",
+      "cydia",
+      "pomonella",
+      "cpgv",
+      "margosa",
+      "azadirachta",
+      "metabolisation",
+      "cyproconazole",
+      "methoprene",
+      "attractant",
+      "tefluthrin",
+      "acrinathrin",
+      "fenpyrazamine",
+      "ants",
+      "kitchens",
+      "crack",
+      "crevice",
+      "dinotefuran",
+      "sphaericus",
+      "transfluthrin",
+      "decanoic",
+      "cyclopropene",
+      "daminozide",
+      "bromoxynil",
+      "octanoic",
+      "orthosulfamuron",
+      "brushing",
+      "foraging",
+      "wagtail",
+      "wagtails"
+    ],
+    "prompt_length": 1736,
+    "category": "5626 means of agricultural production"
+  }
+}

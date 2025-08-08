@@ -1,0 +1,63 @@
+{
+  "concept_id": "3170",
+  "concept_data": {
+    "title": "intervention agency",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"intervention agency\" within the EU trade policy framework plays a pivotal role in managing market imbalances, particularly in agriculture. These agencies are tasked with implementing measures that counteract adverse conditions, such as heatwaves or market fluctuations, which can affect producers like winegrowers and olivepomace manufacturers. They facilitate the storage and remarketing of surplus products, ensuring that offerings remain effective and resilient against market pressures. By stipulating regulations for tenderes and publicising guidelines, these agencies support large-scale operations while addressing particular needs, such as the preservation of quality in products like vitaminized cartons. Their actions are crucial in maintaining equilibrium in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:16:44.996021",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 3128,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.54
+    },
+    "related_words": [
+      "proposition",
+      "biodegrading",
+      "remarketed",
+      "counteracted",
+      "falt",
+      "heatwave",
+      "kaba",
+      "koulak",
+      "nostrano",
+      "brenta",
+      "resistente",
+      "gojano",
+      "storekeeper",
+      "constanta",
+      "oiks",
+      "winegrower",
+      "efective",
+      "karstaedt",
+      "riesa",
+      "imbalanced",
+      "olivepomace",
+      "tenderes",
+      "cartons",
+      "bamako",
+      "douala",
+      "djamena",
+      "largescale",
+      "resells",
+      "slighter",
+      "elassona"
+    ],
+    "prompt_length": 1690,
+    "category": "2006 trade policy"
+  }
+}

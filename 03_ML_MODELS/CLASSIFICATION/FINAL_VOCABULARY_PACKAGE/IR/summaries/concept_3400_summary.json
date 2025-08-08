@@ -1,0 +1,63 @@
+{
+  "concept_id": "3400",
+  "concept_data": {
+    "title": "economic recovery",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic recovery\" within EU legal and regulatory frameworks encompasses strategies aimed at reversing the negative impacts of economic downturns. This includes measures such as recapitalisation of impaired financial institutions, which stemmed from a looming crisis. The EU's approach often involves discretionary fiscal policies and projections that suggest a gradual recovery path. Recent initiatives have focused on the abrogation of restrictive measures, allowing for waivers that facilitate investment. As the economic horizon stabilizes, member states like the Netherlands and Scotland are expected to implement policies that address downside risks. The EU's commitment to a cohesive recovery strategy is underscored by ongoing dialogues, including those related to the UN Security Council (UNSC) and international partnerships, such as the Marrakesh agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:03.748350",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 505,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 471,
+      "selected_avg_freq": 185.16666666666666
+    },
+    "related_words": [
+      "cbera",
+      "netherland",
+      "finanz",
+      "looming",
+      "defeasance",
+      "abbaueinheit",
+      "hypo",
+      "alpe",
+      "adria",
+      "peaking",
+      "bombing",
+      "hemispheric",
+      "downside",
+      "peaked",
+      "sitting",
+      "phone",
+      "mto",
+      "stemmed",
+      "plausible",
+      "haitian",
+      "materialised",
+      "recapitalisation",
+      "advisors",
+      "waivers",
+      "stayed",
+      "projection",
+      "weakened",
+      "abrogating",
+      "caution",
+      "arm"
+    ],
+    "prompt_length": 1656,
+    "category": "1611 economic conditions"
+  }
+}

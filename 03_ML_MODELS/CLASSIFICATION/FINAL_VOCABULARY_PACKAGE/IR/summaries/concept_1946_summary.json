@@ -1,0 +1,63 @@
+{
+  "concept_id": "1946",
+  "concept_data": {
+    "title": "worker exchange",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "labour mobility",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"worker exchange,\" redirected to \"labour mobility,\" is pivotal in the EU's labour market framework. It aims to institutionalise the movement of professionals across member states, thereby maximising job opportunities and enhancing economic integration. This regulatory agenda encompasses various modalities, including secondment and posting, which allow workers to reside temporarily in different countries. By engaging in this exchange, job seekers can broaden their horizons, while employers can access a diverse talent pool. The usefulness of such mobility is reaffirmed by the need for competitive remuneration and equitable weightings in salaries and pensions. Ultimately, labour mobility serves to retain skilled individuals, fostering a dynamic and adaptable workforce across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:24:16.954129",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 595,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 628,
+      "selected_avg_freq": 320.00666666666666
+    },
+    "related_words": [
+      "institutionalise",
+      "inspectorates",
+      "culham",
+      "seekers",
+      "karolus",
+      "ceecs",
+      "remunerations",
+      "posting",
+      "secondment",
+      "pecuniary",
+      "modus",
+      "vivendi",
+      "posted",
+      "diverge",
+      "reside",
+      "catering",
+      "maximising",
+      "recommending",
+      "informal",
+      "broaden",
+      "youth",
+      "salaries",
+      "weightings",
+      "predominantly",
+      "professionals",
+      "exchanging",
+      "usefulness",
+      "observers",
+      "linguistic",
+      "alongside"
+    ],
+    "prompt_length": 1720,
+    "category": "4411 labour market"
+  }
+}

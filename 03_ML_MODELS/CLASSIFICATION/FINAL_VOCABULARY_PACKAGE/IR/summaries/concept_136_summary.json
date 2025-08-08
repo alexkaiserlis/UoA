@@ -1,0 +1,63 @@
+{
+  "concept_id": "136",
+  "concept_data": {
+    "title": "food-preserving industry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "cannery",
+    "relation_type": "USE"
+  },
+  "summary": "The \"food-preserving industry,\" commonly referred to as \"cannery,\" is integral to the EU's agri-foodstuffs sector, focusing on the processing and preservation of various food products. This industry classifies outputs such as tinned mushrooms (Agaricus) and fruits like pineapples, which are often cooked or preserved in syrup. Regulatory frameworks aim to minimize negligence in food safety, ensuring that products like yellowfin (Thunnus albacores) and skipjack (Katsuwonus pelamis) are graded and presented appropriately. Organizations within this sector are tasked with administrated compliance, allowing for realignments in production processes that enhance remunerative outcomes while addressing fragmentary challenges in supply chains.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:57.092926",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 531,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 652,
+      "selected_avg_freq": 288.75333333333333
+    },
+    "related_words": [
+      "paragrph",
+      "remunerative",
+      "allowarice",
+      "compaign",
+      "origanizations",
+      "dissociate",
+      "yellofin",
+      "kilgorams",
+      "fragmentary",
+      "progresses",
+      "limite",
+      "outputs",
+      "occasioned",
+      "stripe",
+      "bellied",
+      "katsuwonus",
+      "pelamis",
+      "williams",
+      "skipjack",
+      "pineapple",
+      "classifies",
+      "administrated",
+      "pineapples",
+      "agaricus",
+      "tinned",
+      "divides",
+      "bonito",
+      "albacore",
+      "euthynnus",
+      "yellowfin"
+    ],
+    "prompt_length": 1751,
+    "category": "6031 agri-foodstuffs"
+  }
+}

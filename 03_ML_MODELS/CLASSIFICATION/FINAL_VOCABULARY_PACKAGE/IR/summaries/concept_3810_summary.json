@@ -1,0 +1,63 @@
+{
+  "concept_id": "3810",
+  "concept_data": {
+    "title": "chemical compound",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"chemical compound\" refers to a substance formed from two or more elements, which can include complex structures like polycrystalline or monocrystalline forms. Regulatory frameworks often address compounds such as dimethylammonium or dichlorophenoxyacetate, emphasizing their safety and environmental impact. The assessment of chemical compounds involves evaluating their trustworthiness, potential nutriments, and effects on human health. For instance, compounds like asphaltene and furfuraldehyde are scrutinized for their interactions and benefits. Additionally, the use of cationic coagulants and hardeners in industrial applications must comply with EU regulations to ensure safe handling and transduction of chemical properties.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:00:46.126498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2305,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 16,
+      "selected_avg_freq": 8.926666666666666
+    },
+    "related_words": [
+      "manganous",
+      "mno",
+      "pyrolusite",
+      "recrushing",
+      "dimethylammonium",
+      "dichlorophenoxyacetate",
+      "aminsalz",
+      "carboxylic",
+      "nutriments",
+      "benefic",
+      "galactogluconate",
+      "hydrogencarbonate",
+      "hypochlorite",
+      "lecanicillium",
+      "muscarium",
+      "zvornik",
+      "kauno",
+      "tiekimas",
+      "filialas",
+      "trustworthiness",
+      "ametoctradin",
+      "polycrystalline",
+      "monocrystalline",
+      "unmounted",
+      "cationic",
+      "hardener",
+      "attractions",
+      "transduction",
+      "chlorofibre",
+      "elastanes"
+    ],
+    "prompt_length": 1778,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4769",
+  "concept_data": {
+    "title": "group travel",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"group travel\" within EU legal and regulatory frameworks pertains to the organized movement of passengers, typically involving services such as coach or bus transportation. Regulations aim to standardize the provision of accommodation and transport services, ensuring simplicity and control over the travel experience. Relevant documents, including waybills, are distributed to passengers to facilitate compliance with international standards. The latter is essential for establishing common rules among member states, particularly regarding the economic aspects of travel. Amendments to existing regulations, adopted in July and October, lay down necessary provisions to enhance the application of group travel regulations across the communities.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:38:17.688184",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2137.0925925925926
+    },
+    "related_words": [
+      "waybill",
+      "shuttle",
+      "coach",
+      "bus",
+      "standardize",
+      "accommodation",
+      "occasional",
+      "simplicity",
+      "printed",
+      "passengers",
+      "passenger",
+      "carriage",
+      "distributed",
+      "documents",
+      "latter",
+      "consulted",
+      "another",
+      "standard",
+      "services",
+      "abovementioned",
+      "reasons",
+      "control",
+      "detailed",
+      "international",
+      "provision",
+      "need",
+      "laying",
+      "new",
+      "time",
+      "regards"
+    ],
+    "prompt_length": 1655,
+    "category": "2826 social affairs"
+  }
+}

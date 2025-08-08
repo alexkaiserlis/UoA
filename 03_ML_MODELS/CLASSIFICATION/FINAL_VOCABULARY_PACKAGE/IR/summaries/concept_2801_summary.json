@@ -1,0 +1,63 @@
+{
+  "concept_id": "2801",
+  "concept_data": {
+    "title": "research project",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"research project\" within the EU legal and regulatory framework encompasses initiatives aimed at advancing scholarly knowledge and innovation. Enlisting scholars and researchers, these projects often receive funding from bodies like the ERC (European Research Council) and are benchmarked against excellence standards. Investigators engage in workshops and plenary sessions to capture groundbreaking ideas, fostering collaboration among engineers and scientists. Honoraria may be provided to chairpersons and recorders for their contributions. The ambition is to ensure seamless operability and autonomy in research, while also considering the monetisation of findings. Such projects are vital for enhancing the repute of European research institutions and addressing societal challenges, including immunization and geological studies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:23:31.960513",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 644,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 488,
+      "selected_avg_freq": 208.62
+    },
+    "related_words": [
+      "enlisting",
+      "investigator",
+      "scholarship",
+      "scholarly",
+      "ercea",
+      "honorarium",
+      "benchmarked",
+      "monetisation",
+      "aricles",
+      "honoraria",
+      "scholars",
+      "ambition",
+      "ccs",
+      "founding",
+      "chairpersons",
+      "immunization",
+      "foxes",
+      "engineers",
+      "hydrocarbon",
+      "erc",
+      "operability",
+      "repute",
+      "staged",
+      "res",
+      "rotating",
+      "geological",
+      "ideas",
+      "guarantor",
+      "chairperson",
+      "recorders"
+    ],
+    "prompt_length": 1708,
+    "category": "6416 research and intellectual property"
+  }
+}

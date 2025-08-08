@@ -1,0 +1,63 @@
+{
+  "concept_id": "3252",
+  "concept_data": {
+    "title": "bank charges",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Bank charges refer to the fees imposed by financial institutions for various services and transactions, which are subject to EU regulations. The European Commission has established rules to ensure transparency and fairness in the application of these charges, laying down measures that protect consumers. In accordance with the EEC Treaty, the Council and the Commission have amended regulations to provide a detailed framework for the management of bank charges. This includes the obligation for banks to offer clear quotations and to adjust charges appropriately, reflecting the economic situation. The aim is to foster a common market where consumers can make informed decisions based on specified criteria and experience.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:15.426975",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 46,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 46,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2457.0434782608695
+    },
+    "related_words": [
+      "regensburg",
+      "cif",
+      "quotations",
+      "fodder",
+      "dried",
+      "offers",
+      "withdrawn",
+      "adjustment",
+      "shown",
+      "organization",
+      "aid",
+      "experience",
+      "longer",
+      "specified",
+      "detailed",
+      "situation",
+      "management",
+      "third",
+      "system",
+      "last",
+      "laying",
+      "market",
+      "time",
+      "rules",
+      "common",
+      "november",
+      "application",
+      "appropriate",
+      "amending",
+      "eec"
+    ],
+    "prompt_length": 1630,
+    "category": "2416 financial institutions and credit"
+  }
+}

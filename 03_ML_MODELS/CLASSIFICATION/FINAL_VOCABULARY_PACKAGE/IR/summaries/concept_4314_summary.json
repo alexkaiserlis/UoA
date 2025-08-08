@@ -1,0 +1,63 @@
+{
+  "concept_id": "4314",
+  "concept_data": {
+    "title": "sugar",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"sugar\" encompasses a range of substances, including maltose and polysaccharides, which are subject to precise regulations concerning their production and trade. The EU's regulatory departments aim to eliminate scarcety in sugar supply by establishing arrangements that ensure appropriate quality standards. Notably, the Treaty provisions concerning sugar trade profoundly impact member states, particularly in territories with varying economic conditions. The regulation also addresses the use of alternative sweeteners, such as arrowroot and salep, which can be neutralized in formulations. Consequently, these regulations penalize uneconomical practices while promoting community health through appropriate labeling and refractometric standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:11.464465",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2970,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 27,
+      "selected_avg_freq": 12.753333333333334
+    },
+    "related_words": [
+      "levis",
+      "entively",
+      "prcise",
+      "repalce",
+      "resultiang",
+      "scarcety",
+      "enormously",
+      "crispbread",
+      "baken",
+      "treatyy",
+      "aegan",
+      "aegen",
+      "adjustable",
+      "neverthelses",
+      "georgetown",
+      "territorites",
+      "profoundly",
+      "maltose",
+      "regultiation",
+      "deparments",
+      "polysaccharide",
+      "neutralized",
+      "torritory",
+      "memberships",
+      "rinds",
+      "penalizes",
+      "appropriatiate",
+      "cooncerning",
+      "comminiy",
+      "elimininating"
+    ],
+    "prompt_length": 1714,
+    "category": "6021 beverages and sugar"
+  }
+}

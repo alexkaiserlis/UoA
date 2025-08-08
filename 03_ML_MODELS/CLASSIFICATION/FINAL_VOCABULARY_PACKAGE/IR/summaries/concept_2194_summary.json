@@ -1,0 +1,63 @@
+{
+  "concept_id": "2194",
+  "concept_data": {
+    "title": "production premium",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "agricultural guidance",
+    "relation_type": "USE"
+  },
+  "summary": "The \"production premium,\" redirected to \"agricultural guidance,\" refers to financial incentives aimed at augmenting agricultural productivity within the EU framework. This concept is crucial for planters and shepherds, particularly in regions like the Azorean archipelagoes, where misallocations of resources can complicate farming practices. By providing support for the collectivization of agricultural structures, the EU seeks to enhance the efficiency of operations, such as the use of dryers and storehouses for goatmeal and heifer fattening. The scheme aims to reduce the lengthier processes associated with traditional farming, ensuring that claimable quantities of produce outstrip demand. This regulatory approach also penalises inefficiencies, fostering a more sustainable agricultural environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:46:47.468127",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2360,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 38,
+      "selected_avg_freq": 18.433333333333334
+    },
+    "related_words": [
+      "planters",
+      "shepherd",
+      "disbanding",
+      "determinded",
+      "goatmeal",
+      "transhumanc",
+      "misallocations",
+      "assignments",
+      "augment",
+      "unfolding",
+      "fibrous",
+      "heifer",
+      "archipelagoes",
+      "seroiusly",
+      "dryers",
+      "beiras",
+      "artciles",
+      "statitics",
+      "caes",
+      "departs",
+      "agraria",
+      "collectivization",
+      "largerly",
+      "incerease",
+      "intitial",
+      "penalises",
+      "azorean",
+      "outstrip",
+      "sheme",
+      "storehouse"
+    ],
+    "prompt_length": 1767,
+    "category": "5611 agricultural structures and production"
+  }
+}

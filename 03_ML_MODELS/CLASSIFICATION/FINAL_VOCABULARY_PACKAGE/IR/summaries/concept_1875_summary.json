@@ -1,0 +1,63 @@
+{
+  "concept_id": "1875",
+  "concept_data": {
+    "title": "Norwegian Sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Norwegian Sea\" is a significant marine area within the EU's regulatory framework, categorized under natural environment (5211). It encompasses vital fisheries, including stocks of cod, haddock, and mackerel, which are subject to strict quotas and prohibitions to ensure sustainable fishing practices. The region's baselines extend to the Shetland and surrounding waters, where vessels engage in fishing for species such as sprat, saithe, and halibut. Regulatory measures aim to manage bycatches of rays and skates while excluding exhausted stocks from catches. The EU's fisheries policies promote fair opportunities for fishing, balancing ecological preservation with economic interests in this crucial maritime zone.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:48:15.572964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1457.2307692307693
+    },
+    "related_words": [
+      "bycatches",
+      "foula",
+      "tusk",
+      "sandeel",
+      "shetland",
+      "rays",
+      "baselines",
+      "skates",
+      "sprat",
+      "saithe",
+      "ling",
+      "halibut",
+      "prawn",
+      "iiib",
+      "haddock",
+      "kattegat",
+      "nautical",
+      "skagerrak",
+      "miles",
+      "isle",
+      "herring",
+      "mackerel",
+      "iia",
+      "iiia",
+      "cod",
+      "norwegian",
+      "blue",
+      "greenland",
+      "subdivisions",
+      "flying"
+    ],
+    "prompt_length": 1608,
+    "category": "5211 natural environment"
+  }
+}

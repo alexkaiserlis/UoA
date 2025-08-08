@@ -1,0 +1,63 @@
+{
+  "concept_id": "4879",
+  "concept_data": {
+    "title": "hard goods",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "durable goods",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"hard goods,\" redirected to \"durable goods,\" encompass a range of products designed for long-term use, impacting consumption patterns across various sectors. These goods are integral to economic stability, influencing income levels and poverty alleviation. The systematic exploration of durable goods includes their composition and justifications for exemptions under specific regulations. Regulatory frameworks often target variables such as market recovery and stock management, particularly in sectors like aquaculture. Additionally, the relationship between durable goods and environmental habitats, including estuaries and inland waters, necessitates timely communication of regulations to ensure compliance and sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:35:07.217412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 3440,
+      "selected_avg_freq": 1358.1733333333334
+    },
+    "related_words": [
+      "stefc",
+      "estuaries",
+      "deprivation",
+      "lagoons",
+      "silc",
+      "basins",
+      "longitudinal",
+      "rivers",
+      "sectional",
+      "lying",
+      "eel",
+      "encompassing",
+      "habitats",
+      "justifications",
+      "module",
+      "identifiers",
+      "ices",
+      "basin",
+      "exploration",
+      "communicating",
+      "river",
+      "variables",
+      "poverty",
+      "seas",
+      "inland",
+      "maltese",
+      "coastal",
+      "secondary",
+      "romanian",
+      "systematic"
+    ],
+    "prompt_length": 1698,
+    "category": "2026 consumption"
+  }
+}

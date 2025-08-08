@@ -1,0 +1,63 @@
+{
+  "concept_id": "3701",
+  "concept_data": {
+    "title": "peripheral",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"peripheral\" refers to devices that enhance the functionality of primary computing systems, such as printers, photocopiers, and typewriters. These peripherals, including offerings from brands like Epson, Brother, and Fujitsu, are essential for data processing and information technology. Regulatory authorities oversee the compliance of these products, ensuring they meet standards for interoperability and performance. The integration of unstructured data from peripherals like dot matrix printers and cassette devices into broader systems is crucial for efficient operations. Additionally, arrangements for the use of cordless and paging technologies, such as DECT, are regulated to maintain communication integrity across networks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:33:47.949001",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 781,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 96.99333333333334
+    },
+    "related_words": [
+      "europrint",
+      "sidm",
+      "epson",
+      "seikosha",
+      "micronics",
+      "telford",
+      "offerings",
+      "juki",
+      "espaăąa",
+      "brother",
+      "dte",
+      "mbit",
+      "vertain",
+      "authorithies",
+      "endiung",
+      "uniscope",
+      "oki",
+      "pspdns",
+      "ccitt",
+      "fujitsu",
+      "nec",
+      "arragements",
+      "etss",
+      "unstructured",
+      "typewriters",
+      "espadrilles",
+      "kbit",
+      "prodcuts",
+      "photocopiers",
+      "seiko"
+    ],
+    "prompt_length": 1636,
+    "category": "3236 information technology and data processing"
+  }
+}

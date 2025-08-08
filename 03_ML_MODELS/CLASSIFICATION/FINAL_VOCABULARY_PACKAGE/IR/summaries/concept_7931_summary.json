@@ -1,0 +1,63 @@
+{
+  "concept_id": "7931",
+  "concept_data": {
+    "title": "nanotechnology",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nanotechnology refers to the manipulation and engineering of materials at the nanoscale, typically involving particles sized between 1 and 100 nanometers. In the EU regulatory framework, nanomaterials are subject to specific mandates, particularly regarding their safety and efficacy in various applications, including food additives and cosmetics. The SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks) has emphasized the need for standardized quantification and characterization of engineered nanomaterials, such as titanium dioxide and silver. These regulations aim to prevent confusion over incidental versus intentionally added nanomaterials, ensuring that all constituents, including hydroxides and carbonates, are adequately assessed for their functional roles and potential risks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:24.777649",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 257,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1569,
+      "selected_avg_freq": 660.34
+    },
+    "related_words": [
+      "talc",
+      "mandatorily",
+      "nanomaterial",
+      "nano",
+      "brackets",
+      "confuse",
+      "engineered",
+      "hydroxides",
+      "nanomaterials",
+      "scenihr",
+      "titanium",
+      "silicate",
+      "decades",
+      "carbonate",
+      "incidental",
+      "magnesium",
+      "quantification",
+      "particle",
+      "silver",
+      "silicon",
+      "particles",
+      "oxides",
+      "intentionally",
+      "gold",
+      "colours",
+      "flavourings",
+      "piece",
+      "word",
+      "enzymes",
+      "responding"
+    ],
+    "prompt_length": 1698,
+    "category": "6411 technology and technical regulations"
+  }
+}

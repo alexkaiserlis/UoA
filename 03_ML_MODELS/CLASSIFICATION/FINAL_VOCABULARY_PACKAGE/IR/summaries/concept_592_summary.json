@@ -1,0 +1,63 @@
+{
+  "concept_id": "592",
+  "concept_data": {
+    "title": "working time",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"working time\" within EU legal and regulatory frameworks encompasses the organization of work and working conditions, emphasizing the dignity and well-being of workers. It addresses the need for adequate breaks and rest periods, particularly for seafarers and airline personnel, who often operate in demanding environments. The regulatory pillars, such as the ILO standards, aim to ensure that working hours are manageable and adaptable to various domains, including railways and maritime sectors. This era of evolving work practices necessitates interoperable solutions that coincide with the belief in worker rights, enhancing convenience and reducing fatigue among employees.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:12:09.102223",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 674,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 350,
+      "selected_avg_freq": 149.38666666666666
+    },
+    "related_words": [
+      "aea",
+      "iaca",
+      "eighty",
+      "fst",
+      "fatigued",
+      "downloading",
+      "downloads",
+      "downloaded",
+      "hansjörg",
+      "haber",
+      "cer",
+      "dignified",
+      "eca",
+      "cockpit",
+      "ecsa",
+      "privately",
+      "cmfb",
+      "regression",
+      "eumm",
+      "flies",
+      "rested",
+      "etf",
+      "shipboard",
+      "inspector",
+      "aggregates",
+      "airline",
+      "ordinarily",
+      "seagoing",
+      "trains",
+      "manifestly"
+    ],
+    "prompt_length": 1645,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

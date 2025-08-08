@@ -1,0 +1,63 @@
+{
+  "concept_id": "3430",
+  "concept_data": {
+    "title": "railway track",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "rail network",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"railway track,\" redirected to \"rail network,\" encompasses the infrastructure essential for land transport within the EU. This regulatory framework aims to maximise the efficiency of journeys by ensuring that tracks, junctions, and subsystems are optimally organised. Legal documents reference ticketing systems and telematics to enhance performance and facilitate seamless transiting of trains and wagons. The integration of innovative technologies, such as kinematic braking systems, is vital for safety and operational effectiveness. Moreover, the EU's regulatory approach addresses the saturation of railways, ensuring that entrants can compete without compromising service quality. This comprehensive regulation ultimately aims to enhance the overall journey experience for passengers and freight.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:15.850582",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 694,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 336,
+      "selected_avg_freq": 145.2
+    },
+    "related_words": [
+      "ticketing",
+      "mulhouse",
+      "nsas",
+      "lohr",
+      "jacking",
+      "kinematic",
+      "louder",
+      "contrasting",
+      "junction",
+      "referencing",
+      "silent",
+      "afa",
+      "ticket",
+      "substantiation",
+      "tsis",
+      "doubling",
+      "deny",
+      "brake",
+      "night",
+      "telematics",
+      "saturation",
+      "pick",
+      "tsi",
+      "parking",
+      "subsystem",
+      "stops",
+      "trains",
+      "braking",
+      "vigorous",
+      "transiting"
+    ],
+    "prompt_length": 1675,
+    "category": "4816 land transport"
+  }
+}

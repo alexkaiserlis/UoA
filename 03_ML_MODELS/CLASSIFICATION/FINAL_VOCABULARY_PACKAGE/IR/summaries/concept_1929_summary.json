@@ -1,0 +1,63 @@
+{
+  "concept_id": "1929",
+  "concept_data": {
+    "title": "breeding animal",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"breeding animal\" encompasses various species, including purebred livestock, whose genetic lineage is meticulously documented through genealogical records. Breeders are tasked with ensuring the health and vitality of these animals, which involves understanding peculiarities in mating and the implications of germ line transmission. Regulatory frameworks often stipulate arrangements for the authentication of embryos and the management of progeny, including the use of artificial insemination techniques. The breeding process must also consider the welfare of pregnant females and newborns, while veterinarians play a crucial role in monitoring immune responses and pathogenesis. This comprehensive approach aims to liberalize breeding practices while preserving genetic diversity and enhancing the overall quality of livestock, thereby minimizing unprofitable outcomes for breeders.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:47.082652",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 1045,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 235,
+      "selected_avg_freq": 103.18
+    },
+    "related_words": [
+      "trated",
+      "saame",
+      "infused",
+      "interbull",
+      "arrangemnts",
+      "arenas",
+      "hereditary",
+      "fods",
+      "embyros",
+      "mating",
+      "peculiarities",
+      "newborn",
+      "genealogical",
+      "inflexible",
+      "leeway",
+      "purebred",
+      "authenticated",
+      "alive",
+      "placental",
+      "males",
+      "offals",
+      "germ",
+      "consignee",
+      "pathogenesis",
+      "lineage",
+      "wrapped",
+      "females",
+      "orginating",
+      "collagen",
+      "progeny"
+    ],
+    "prompt_length": 1692,
+    "category": "5631 agricultural activity"
+  }
+}

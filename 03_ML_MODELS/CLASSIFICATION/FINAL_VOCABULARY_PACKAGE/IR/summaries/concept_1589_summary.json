@@ -1,0 +1,63 @@
+{
+  "concept_id": "1589",
+  "concept_data": {
+    "title": "legislative provision",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": true,
+    "preferred_term": "legislation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"legislative provision,\" which redirects to \"legislation,\" encompasses the formal rules and regulations established within EU legal frameworks. These provisions simplify the administrative processes related to various contexts, such as broadcasting and electronics, and ensure compliance across member states. Legislative provisions can address issues like asylum, the manipulation of data, and the redistribution of resources. They are crucial for the functioning of systems like the Schengen Information System (SIS) and the coordination of tachographs for transport regulations. By declassifying sensitive information multilaterally, these provisions enhance transparency and facilitate the eventual integration of diverse legal branches, promoting unified standards across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:31:34.901867",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 506,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 572,
+      "selected_avg_freq": 238.49333333333334
+    },
+    "related_words": [
+      "ebu",
+      "breoadcasting",
+      "declassify",
+      "restreint",
+      "aliens",
+      "ccir",
+      "declassifying",
+      "multilaterally",
+      "tachographs",
+      "defraud",
+      "perfected",
+      "adminsitrative",
+      "declassified",
+      "tachograph",
+      "satellites",
+      "mac",
+      "sirene",
+      "downgraded",
+      "bilaterally",
+      "multilingual",
+      "contexts",
+      "packet",
+      "simplifies",
+      "sch",
+      "roadside",
+      "lessons",
+      "truly",
+      "mirror",
+      "cable",
+      "strasbourg"
+    ],
+    "prompt_length": 1750,
+    "category": "1206 sources and branches of the law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5035",
+  "concept_data": {
+    "title": "acid",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"acid\" encompasses a broad range of chemical substances characterized by their acidic properties. Acids, such as benzoic and tartaric, play critical roles in various applications, including food preservation and industrial processes. Regulatory frameworks often address the use of specific acids and their derivatives, like hexylester and oleate, particularly in products like sunscreens, where hydroxybenzoyl compounds serve as absorbers. The deacidification processes, involving substances like butanediol and cyclohexanol, are essential for maintaining product stability. Additionally, regulatory assessments may consider the environmental impact of acids, including their weathering effects and interactions with substances like permanganate and polyphosphate.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:31.034478",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 914,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 174,
+      "selected_avg_freq": 75.81333333333333
+    },
+    "related_words": [
+      "hexylester",
+      "absorbers",
+      "heze",
+      "huayi",
+      "sunscreen",
+      "hydroxybenzoyl",
+      "cyclohexanol",
+      "butanediol",
+      "nonane",
+      "laurate",
+      "polyphosphate",
+      "tetramer",
+      "nonanol",
+      "octanol",
+      "trichloroisocyanuric",
+      "tcca",
+      "symclosene",
+      "menno",
+      "abp",
+      "diethylamino",
+      "montan",
+      "oleate",
+      "vertriebs",
+      "deacidification",
+      "butanol",
+      "weathering",
+      "cayman",
+      "valine",
+      "erucic",
+      "decanol"
+    ],
+    "prompt_length": 1653,
+    "category": "6811 chemistry"
+  }
+}

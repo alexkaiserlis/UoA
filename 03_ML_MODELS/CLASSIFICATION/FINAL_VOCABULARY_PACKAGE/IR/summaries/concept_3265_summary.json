@@ -1,0 +1,63 @@
+{
+  "concept_id": "3265",
+  "concept_data": {
+    "title": "reparcelling",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Reparcelling refers to the reallocation of agricultural land parcels to improve farming structures and enhance productivity within the EU. This process is utilized to facilitate the modernization of farms, enabling farmers to hold and manage land more efficiently. It involves the acquisition and disposal of land, ensuring compliance with specified directives and regulations. The socio-economic impact of reparcelling is significant, as it supports occupational skills development and encourages the improvement of agricultural practices. Payments and aids related to reparcelling are calculated based on verified particulars, with applications forwarded to relevant authorities for guidance and reimbursement. This structural adjustment is essential for sustainable agricultural development within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:24:56.176909",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 135,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 135,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1824.1758241758241
+    },
+    "related_words": [
+      "utilized",
+      "reallocation",
+      "occupational",
+      "skills",
+      "thereon",
+      "cessation",
+      "socio",
+      "modernization",
+      "acquisition",
+      "farms",
+      "particulars",
+      "hold",
+      "reimbursement",
+      "farming",
+      "engaged",
+      "aids",
+      "dates",
+      "check",
+      "forwarded",
+      "kept",
+      "supporting",
+      "disposal",
+      "guidance",
+      "encourage",
+      "structures",
+      "verification",
+      "power",
+      "calculated",
+      "payments",
+      "agriculture"
+    ],
+    "prompt_length": 1708,
+    "category": "5611 agricultural structures and production"
+  }
+}

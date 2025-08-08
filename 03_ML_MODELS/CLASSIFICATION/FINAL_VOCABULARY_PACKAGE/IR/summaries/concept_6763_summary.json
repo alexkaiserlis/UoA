@@ -1,0 +1,63 @@
+{
+  "concept_id": "6763",
+  "concept_data": {
+    "title": "teaching quality",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"teaching quality\" within EU legal and regulatory frameworks emphasizes the need for responsive and adaptable educational systems. It plays a crucial role in tertiary education, fostering skilled individuals capable of navigating a dynamic workforce. The EU's focus on lifelong learning reflects a commitment to combating unemployment and poverty through coordinated reforms. By establishing precise targets and priorities, the EU aims to enhance productivity and cohesion, ensuring that educational institutions are inclusive and broad in their approach. The Treaty on the Functioning of the European Union (TFEU) underscores the importance of updating educational standards annually, guiding member states in their efforts to create a stable and skilled labour market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:08:02.537019",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 162,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 26,
+      "selected_max_freq": 3322,
+      "selected_avg_freq": 1217.6333333333334
+    },
+    "related_words": [
+      "responsive",
+      "adaptable",
+      "tertiary",
+      "lifelong",
+      "skilled",
+      "headline",
+      "interdependence",
+      "smart",
+      "responding",
+      "learning",
+      "trained",
+      "explore",
+      "workforce",
+      "pact",
+      "teu",
+      "plays",
+      "poverty",
+      "job",
+      "reforms",
+      "unemployment",
+      "focus",
+      "intermediate",
+      "turn",
+      "targets",
+      "broad",
+      "inclusive",
+      "reflecting",
+      "guide",
+      "productivity",
+      "education"
+    ],
+    "prompt_length": 1653,
+    "category": "3206 education"
+  }
+}

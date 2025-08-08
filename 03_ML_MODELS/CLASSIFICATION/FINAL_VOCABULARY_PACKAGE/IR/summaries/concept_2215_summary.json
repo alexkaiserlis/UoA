@@ -1,0 +1,63 @@
+{
+  "concept_id": "2215",
+  "concept_data": {
+    "title": "ozone",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"ozone\" within EU legal and regulatory frameworks pertains to its role in the natural environment and the regulation of substances impacting its levels. The EU has established protocols to combat ozone-depleting substances, including chlorofluorocarbons (CFCs) and hydrobromofluorocarbons (HBCFs), which are critical in mitigating environmental degradation. Regulatory measures aim to suppress the escape of these harmful substances, ensuring compliance from applicants and industries. The EU's efforts include educating stakeholders about the essentiality of ozone protection, while also addressing related health issues, such as chronic obstructive pulmonary disease (COPD) linked to ozone levels. The ongoing endeavour to recapture and inert harmful emissions exemplifies the EU's commitment to preserving the ozone layer for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:43.600722",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 897,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 157,
+      "selected_avg_freq": 53.346666666666664
+    },
+    "related_words": [
+      "chlorofluorocarbones",
+      "stubstances",
+      "montral",
+      "chlorofluorocabons",
+      "applcants",
+      "perspectived",
+      "escapee",
+      "bcm",
+      "inerting",
+      "fighter",
+      "hydrobromoflurocarbons",
+      "hydrochloroflurocarbons",
+      "hydrochlorofluorcarbons",
+      "copds",
+      "nominates",
+      "medtronic",
+      "isomed",
+      "spasticity",
+      "chemotherapy",
+      "utilises",
+      "preshipment",
+      "enviroment",
+      "informantion",
+      "figuring",
+      "physicians",
+      "hemisphere",
+      "quantiative",
+      "chlorofluorcarbons",
+      "protcol",
+      "extinguish"
+    ],
+    "prompt_length": 1799,
+    "category": "5211 natural environment"
+  }
+}

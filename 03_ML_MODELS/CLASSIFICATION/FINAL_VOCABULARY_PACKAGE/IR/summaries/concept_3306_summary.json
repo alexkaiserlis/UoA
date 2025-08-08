@@ -1,0 +1,63 @@
+{
+  "concept_id": "3306",
+  "concept_data": {
+    "title": "market-sharing agreement",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A market-sharing agreement is a competition law concept within the EU regulatory framework, wherein operators agree to divide markets or customers to obviate competition. Such agreements can be detrimental, as they may lead to unduly high prices and reduced desirability for consumers. The European Commission assesses these agreements chronologically, ensuring they do not violate competition protocols. Importers and operators must certify their compliance through notifications and proof of adherence to legal stipulations. If a market-sharing agreement is deemed failing, it may be subject to penalties. The greatest concern lies in ensuring that competition remains flexible and that market flows are optimal for all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:43:12.899895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 236,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1871,
+      "selected_avg_freq": 898.32
+    },
+    "related_words": [
+      "millenium",
+      "bug",
+      "obviate",
+      "desirability",
+      "predetermined",
+      "envisage",
+      "tranches",
+      "chronological",
+      "backed",
+      "certify",
+      "begins",
+      "failing",
+      "textiles",
+      "beet",
+      "accounted",
+      "computer",
+      "unduly",
+      "greatest",
+      "served",
+      "utilisation",
+      "aside",
+      "optimum",
+      "stipulate",
+      "intend",
+      "textile",
+      "flexible",
+      "division",
+      "authorisations",
+      "differ",
+      "protocols"
+    ],
+    "prompt_length": 1669,
+    "category": "4031 competition"
+  }
+}

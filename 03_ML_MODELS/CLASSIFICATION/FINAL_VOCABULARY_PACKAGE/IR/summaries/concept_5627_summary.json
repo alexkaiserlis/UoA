@@ -1,0 +1,63 @@
+{
+  "concept_id": "5627",
+  "concept_data": {
+    "title": "comparative study",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"comparative study\" in the context of EU legal and regulatory documents refers to an examination that seeks to harmonize methods and standards across different territories. This involves the analysis of various plant species, such as ribes, pelargonium, and dianthus, which are propagated for ornamental purposes. The study typically includes trials and tests to check the adequacy of planting methods and the material used. By participating in these comparative examinations, stakeholders can draw conclusions about the origins and reproduction of crops. The results are essential for marketing and regulatory compliance, ensuring that selected plants meet the necessary standards for distribution within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:23:26.118584",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1728.9473684210527
+    },
+    "related_words": [
+      "ribes",
+      "pelargonium",
+      "dianthus",
+      "propagated",
+      "genera",
+      "reproduced",
+      "ornamental",
+      "origins",
+      "comparative",
+      "harmonize",
+      "planting",
+      "trials",
+      "spp",
+      "propagating",
+      "harmonise",
+      "usually",
+      "representation",
+      "samples",
+      "therefrom",
+      "crops",
+      "instance",
+      "tests",
+      "stages",
+      "fruit",
+      "check",
+      "participating",
+      "marketed",
+      "selected",
+      "early",
+      "plants"
+    ],
+    "prompt_length": 1660,
+    "category": "3221 documentation"
+  }
+}

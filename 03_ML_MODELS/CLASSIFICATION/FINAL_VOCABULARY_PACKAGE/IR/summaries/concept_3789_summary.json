@@ -1,0 +1,63 @@
+{
+  "concept_id": "3789",
+  "concept_data": {
+    "title": "radioisotopes",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear chemistry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"radioisotopes,\" redirected to \"nuclear chemistry,\" encompasses the study and application of radioactive isotopes within the electrical and nuclear industries. In EU legal and regulatory frameworks, radioisotopes play a critical role in various applications, including medical diagnostics and treatment, where their interaction with biological tissues is analyzed using advanced detectors like spectrometers and ionizers. The regulation of these substances involves stringent safety measures to manage radiation exposure and ensure the sensibility of reactions. Key technologies, such as HPGe detectors and coaxial systems, are utilized in research facilities across Europe, including locations like Eindhoven and Edinburgh, to explore the energies and spectra of isotopes. Compliance with EU directives ensures that the use of nuclear chemistry adheres to safety standards while fostering innovation in fields like bioélectronique and medical imaging.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:11.714567",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 178,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2817,
+      "selected_avg_freq": 858.8866666666667
+    },
+    "related_words": [
+      "hpge",
+      "bioélectronique",
+      "brétonneux",
+      "trappes",
+      "sighthill",
+      "atom",
+      "extranuclear",
+      "quadrupole",
+      "ionizer",
+      "isocap",
+      "searle",
+      "wiegerbruinlaan",
+      "kontron",
+      "manet",
+      "montigny",
+      "carb",
+      "laben",
+      "bassini",
+      "uithoorn",
+      "coaxial",
+      "ortec",
+      "roche",
+      "packard",
+      "molecule",
+      "boschdijk",
+      "avenue",
+      "cedex",
+      "sensibility",
+      "spectrometer",
+      "isotopes"
+    ],
+    "prompt_length": 1710,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

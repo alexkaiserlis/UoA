@@ -1,0 +1,63 @@
+{
+  "concept_id": "4783",
+  "concept_data": {
+    "title": "zinc",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Zinc, classified under the iron, steel, and other metal industries, plays a pivotal role in EU regulatory frameworks, particularly concerning its application in various sectors, including cosmetics. The EU's regulatory approach aims to establish standards that prevent the circumvention of safety protocols, ensuring that unwrought and wrought zinc products, such as flakes, sheets, and plates, meet stringent quality requirements. Allegations of non-compliance, particularly from countries like Kazakhstan and Vietnam, have led to investigations into transhipment practices that allegedly undermine EU market integrity. The use of zinc oxides and powders in cosmetic formulations is also scrutinized, with regulatory bodies seeking to reconcile industry practices with safety mandates, thus preventing any negligence that could impede consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:36:05.803739",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 604,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 464,
+      "selected_avg_freq": 232.55333333333334
+    },
+    "related_words": [
+      "negligibility",
+      "kazzinc",
+      "ust",
+      "kamenogorsk",
+      "zno",
+      "wrought",
+      "kazakh",
+      "unalloyed",
+      "silica",
+      "eurometaux",
+      "reconciled",
+      "etablishing",
+      "flakes",
+      "jsc",
+      "foil",
+      "coincided",
+      "unwrought",
+      "reimposed",
+      "cosmetics",
+      "circumventing",
+      "powders",
+      "continuance",
+      "oxides",
+      "plates",
+      "uzbekistan",
+      "prc",
+      "mixing",
+      "cct",
+      "cosmetic",
+      "zinc"
+    ],
+    "prompt_length": 1670,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

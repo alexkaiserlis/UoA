@@ -1,0 +1,63 @@
+{
+  "concept_id": "2860",
+  "concept_data": {
+    "title": "European Union publication",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "EU publication",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU publication,\" categorized under documentation, enshrines the principles of transparency and accountability within the European Union's legal framework. These publications, mandated by various regulations, serve to inform citizens about legislative processes, including the transposing of directives and the standardisation of policies. The EU publication process encourages openness by providing accessible copies of documents, which are essential for democratic engagement. This includes examining the legitimacy of regulatory measures and ensuring predictable outcomes. Furthermore, the EU promotes the recycling of information through digital platforms, optimizing the dissemination of knowledge while sorting through the complexities of legal texts, thus fostering a closer connection between the EU and its peoples.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:21:58.586583",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 238,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1821,
+      "selected_avg_freq": 829.4933333333333
+    },
+    "related_words": [
+      "enshrines",
+      "rotations",
+      "calorific",
+      "legitimacy",
+      "recyclable",
+      "optimisation",
+      "openly",
+      "aricle",
+      "citizen",
+      "trips",
+      "openness",
+      "mandated",
+      "recycled",
+      "enjoys",
+      "accountable",
+      "predictable",
+      "peoples",
+      "sorting",
+      "transposing",
+      "stipulating",
+      "ever",
+      "translation",
+      "recycling",
+      "democracy",
+      "cen",
+      "expense",
+      "copies",
+      "presumed",
+      "fee",
+      "warning"
+    ],
+    "prompt_length": 1708,
+    "category": "3221 documentation"
+  }
+}

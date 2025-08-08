@@ -1,0 +1,63 @@
+{
+  "concept_id": "3776",
+  "concept_data": {
+    "title": "kerosene",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "aviation fuel",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"kerosene\" is primarily associated with \"aviation fuel,\" which serves as a propellant for aircraft during various phases of flight, including taxiing, takeoff, and landing. This fuel, typically derived from refineries, is subject to stringent regulations aimed at counteracting greenhouse gas emissions. The EU's regulatory framework employs robust measures to ensure uniformity in aviation fuel standards, including sulphur content limits and excise duties. These regulations are critical for managing emissions from flights, which are significant emitters of pollutants. Additionally, the documentation of fuel origins and emissions is essential for counteracting fraudulent practices and ensuring compliance with Eurocontrol guidelines.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:20:25.499377",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 384,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 867,
+      "selected_avg_freq": 385.17333333333335
+    },
+    "related_words": [
+      "taxiing",
+      "isobutoxyethoxy",
+      "propellant",
+      "phenylazo",
+      "kerosene",
+      "aerodromes",
+      "cruise",
+      "emitters",
+      "counteracting",
+      "aniline",
+      "emitting",
+      "eurocontrol",
+      "employs",
+      "administratively",
+      "jet",
+      "counteract",
+      "solvent",
+      "emitted",
+      "originates",
+      "gate",
+      "statistically",
+      "flights",
+      "robust",
+      "marker",
+      "refineries",
+      "flight",
+      "estimation",
+      "yellow",
+      "relationships",
+      "typically"
+    ],
+    "prompt_length": 1723,
+    "category": "6616 oil industry"
+  }
+}

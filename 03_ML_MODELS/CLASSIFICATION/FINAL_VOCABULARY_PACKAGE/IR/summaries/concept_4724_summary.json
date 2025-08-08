@@ -1,0 +1,63 @@
+{
+  "concept_id": "4724",
+  "concept_data": {
+    "title": "red wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"red wine\" within EU legal and regulatory frameworks pertains to beverages derived from specific grape varieties, particularly those cultivated in designated zones. Red wines, characterized by their dark colour, are produced through processes such as coupage and blending, which may involve various harvested grapes. The EU sets strict standards for red wine production, authorizing specific regions, including Spain, Portugal, and Germany, to ensure quality and authenticity. Regulations determine the allowed varieties and limit the use of certain additives, ensuring that wines meet exceptional criteria. Compliance with these standards is crucial for maintaining the integrity of agricultural products in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:13:14.365596",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 96,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 96,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1813.5
+    },
+    "related_words": [
+      "pale",
+      "coupage",
+      "sunshine",
+      "dark",
+      "blended",
+      "vine",
+      "save",
+      "colour",
+      "grape",
+      "red",
+      "grapes",
+      "wines",
+      "postponed",
+      "harvested",
+      "varieties",
+      "white",
+      "zone",
+      "controlled",
+      "wine",
+      "strictly",
+      "authorizing",
+      "corrected",
+      "growing",
+      "derived",
+      "northern",
+      "insufficient",
+      "prohibited",
+      "coming",
+      "chairman",
+      "spanish"
+    ],
+    "prompt_length": 1641,
+    "category": "6021 beverages and sugar"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5205",
+  "concept_data": {
+    "title": "formation of a business",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "business start-up",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"formation of a business,\" redirected to the preferred term \"business start-up,\" encompasses the legal and regulatory frameworks essential for entrepreneurship within the EU. This process is increasingly vital as globalization drives multinationals to seek opportunities in diverse markets, including CEECs. The essence of business start-up involves navigating regulations that inform the establishment of SMEs, particularly in sectors like biotech and aerated beverages, such as cola and lemonade. As firms scale, they face challenges like shrinking market shares and powerful competitors. The EU's observatory on entrepreneurship analyzes these dynamics, providing insights and rebates to support new ventures, particularly in innovative regions like Turin and Delaware.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:46:46.938362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 787,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 329,
+      "selected_avg_freq": 131.18666666666667
+    },
+    "related_words": [
+      "framtek",
+      "springs",
+      "fram",
+      "lemonade",
+      "sevenfold",
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "ranks",
+      "multinationals",
+      "tripled",
+      "cola",
+      "globalization",
+      "jev",
+      "jop",
+      "ceecs",
+      "ups",
+      "shrinking",
+      "observatory",
+      "biotechnologies",
+      "delaware",
+      "nis",
+      "answering",
+      "scaled",
+      "hoped",
+      "lugano",
+      "distributes",
+      "brabant",
+      "firmly",
+      "etf"
+    ],
+    "prompt_length": 1686,
+    "category": "4006 business organisation"
+  }
+}

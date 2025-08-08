@@ -1,0 +1,63 @@
+{
+  "concept_id": "875",
+  "concept_data": {
+    "title": "drawing up of the budget",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"drawing up of the budget\" is a critical process within EU legal and regulatory frameworks, involving the preparation and publication of budgetary envelopes that outline funding entitlements for various schemes. This process decides the allocation of resources, including payments to farmers for coupled schemes, and sets ceilings for direct support in sectors like sugar, fruit, and vegetables. The budget reflects the maximum amounts available, ensuring clarity in financial planning. It incorporates transitional options and deductions, with specific limits on funding. Ultimately, the drawn budget corresponds to the EU's strategic objectives, facilitating the granting of financial support while adhering to established legal frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:24:48.613638",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 48,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 48,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1933.3471074380166
+    },
+    "related_words": [
+      "envelopes",
+      "entitlements",
+      "farmer",
+      "coupled",
+      "soft",
+      "deduction",
+      "decides",
+      "deducted",
+      "intend",
+      "options",
+      "publish",
+      "option",
+      "corresponds",
+      "farmers",
+      "vegetables",
+      "ceilings",
+      "sugar",
+      "fruit",
+      "finance",
+      "difference",
+      "sake",
+      "ceiling",
+      "excluded",
+      "separate",
+      "unit",
+      "calculated",
+      "budgetary",
+      "takes",
+      "payments",
+      "schemes"
+    ],
+    "prompt_length": 1641,
+    "category": "2441 budget"
+  }
+}

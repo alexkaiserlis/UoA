@@ -1,0 +1,63 @@
+{
+  "concept_id": "4394",
+  "concept_data": {
+    "title": "central rate",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"central rate\" is a pivotal concept within the framework of monetary relations in the EU, particularly concerning the establishment and management of exchange rates among various currencies. This rate serves as a coefficient for altering amounts in the context of economic measures and regulations. The central rate is applicable in the common market, where it influences the valuation of commodities, including colza, sunflower, and rape seed oils. Established by the Commission, it is subject to alteration based on market dynamics and is referred to in various regulations, including those amended in January and July. The last opinion from the committee emphasized its special effect on community monetary systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:00.597959",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 83,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 83,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2192.6603773584907
+    },
+    "related_words": [
+      "colza",
+      "sunflower",
+      "rape",
+      "differential",
+      "alteration",
+      "altering",
+      "currencies",
+      "forming",
+      "coefficient",
+      "fats",
+      "seed",
+      "altered",
+      "oils",
+      "monetary",
+      "central",
+      "rates",
+      "amounts",
+      "organization",
+      "various",
+      "establishment",
+      "special",
+      "effect",
+      "management",
+      "applicable",
+      "system",
+      "last",
+      "laying",
+      "relating",
+      "september",
+      "market"
+    ],
+    "prompt_length": 1657,
+    "category": "2406 monetary relations"
+  }
+}

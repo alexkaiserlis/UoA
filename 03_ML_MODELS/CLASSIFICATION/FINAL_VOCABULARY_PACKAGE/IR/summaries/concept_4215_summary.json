@@ -1,0 +1,63 @@
+{
+  "concept_id": "4215",
+  "concept_data": {
+    "title": "sorghum",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sorghum, classified under the EU category of plant products (6006), plays a significant role in agricultural regulation and marketing within the EU. This versatile crop, including subspecies such as bicolor and sudanense, is utilized for various purposes, including fodder and brewing. The regulation of sorghum encompasses aspects such as germination rates, hardseededness, and the management of its heterogeneity. EU policies may involve realignment of marketing strategies and preferential arrangements to enhance production efficiency. Additionally, the transcription of data related to sorghum must be meticulously administered, ensuring compliance with agricultural standards and facilitating fortnightly reporting on sowings and harvests.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:50.920108",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1141,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 210,
+      "selected_avg_freq": 102.26
+    },
+    "related_words": [
+      "markting",
+      "realigment",
+      "purpoes",
+      "hardseededness",
+      "thinner",
+      "platter",
+      "stapf",
+      "prferential",
+      "abatimento",
+      "dregs",
+      "shorghum",
+      "arrangemets",
+      "bicolor",
+      "sudanense",
+      "administrating",
+      "grasses",
+      "overheated",
+      "radish",
+      "moench",
+      "galega",
+      "agricultrual",
+      "lam",
+      "piper",
+      "orientalis",
+      "ista",
+      "blank",
+      "minneapolis",
+      "upset",
+      "implicitly",
+      "fortnightly"
+    ],
+    "prompt_length": 1676,
+    "category": "6006 plant product"
+  }
+}

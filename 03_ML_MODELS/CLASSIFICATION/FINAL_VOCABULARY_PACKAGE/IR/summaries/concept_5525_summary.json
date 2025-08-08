@@ -1,0 +1,63 @@
+{
+  "concept_id": "5525",
+  "concept_data": {
+    "title": "international conference",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"international conference\" serves as a pivotal platform for the discussion and formulation of understandings among signatories on various global issues. In the context of EU legal and regulatory frameworks, these seminars facilitate the active participation of delegates, including scientists and conciliators, in addressing disputes and disseminating information. For instance, conferences may focus on topics such as phytosanitary measures or epizootic diseases, where distinguished experts from countries like Chile and Nigeria collaborate. The outcomes often result in finalized agreements that are ratified and deposited with relevant authorities, ensuring that ownership and credits are appropriately allocated. Such gatherings are instrumental in communicating wishes and recommendations, enhancing cooperation among nations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:12:42.999273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1009,
+      "selected_avg_freq": 487.94
+    },
+    "related_words": [
+      "seminar",
+      "conciliators",
+      "organisers",
+      "understandings",
+      "stunning",
+      "rom",
+      "distinctions",
+      "santiago",
+      "helpful",
+      "chilean",
+      "dissociated",
+      "disseminate",
+      "nigeria",
+      "disseminating",
+      "disbursement",
+      "scientists",
+      "recommending",
+      "formulating",
+      "finalized",
+      "depositary",
+      "unreasonable",
+      "invoiced",
+      "ratify",
+      "communicating",
+      "phytosanitary",
+      "signatories",
+      "epizootic",
+      "delegation",
+      "deposited",
+      "ratified"
+    ],
+    "prompt_length": 1731,
+    "category": "0806 international affairs"
+  }
+}

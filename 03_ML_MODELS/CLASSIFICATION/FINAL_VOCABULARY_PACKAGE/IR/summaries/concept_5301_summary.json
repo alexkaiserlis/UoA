@@ -1,0 +1,63 @@
+{
+  "concept_id": "5301",
+  "concept_data": {
+    "title": "spectroscopic analysis",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "spectrometry",
+    "relation_type": "USE"
+  },
+  "summary": "Spectroscopic analysis, commonly referred to as spectrometry, is a critical technique within the EU's regulatory framework for assessing materials and substances. This method employs various advanced techniques, including gammaspectrometric and fluorescenceexcitation analyses, to investigate the properties of nucleic acids and organometallic compounds. It plays a vital role in catalysis and the study of heterogeneous materials, such as monocrystals and ferromagnetic substances. Regulatory bodies utilize spectrometry to ensure compliance with safety standards, particularly in the context of bioăšlectronique and photoreceptors. The precision of subnanosecond measurements and the application of methods like Raman and EDX enhance the reliability of data, crucial for informed decision-making across various sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:40.869663",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1359,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.62
+    },
+    "related_words": [
+      "nucleic",
+      "subnanosecond",
+      "ferromagnetic",
+      "asc",
+      "riber",
+      "pital",
+      "stell",
+      "rfa",
+      "cma",
+      "ramanor",
+      "silberstreifen",
+      "rheinstetten",
+      "ramalog",
+      "anaspec",
+      "berkshire",
+      "fluorescenceexcitation",
+      "photoelectric",
+      "photoelectron",
+      "organometallic",
+      "hetereogeneous",
+      "catalysis",
+      "brucker",
+      "spectrospin",
+      "wissembourg",
+      "sputter",
+      "clam",
+      "gammaspectrometric",
+      "radiative",
+      "monocrystals",
+      "raman"
+    ],
+    "prompt_length": 1769,
+    "category": "3606 natural and applied sciences"
+  }
+}

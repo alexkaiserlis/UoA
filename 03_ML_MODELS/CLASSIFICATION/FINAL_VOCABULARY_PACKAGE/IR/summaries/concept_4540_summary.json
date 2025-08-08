@@ -1,0 +1,63 @@
+{
+  "concept_id": "4540",
+  "concept_data": {
+    "title": "transfrontier transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "cross-border transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"transfrontier transport,\" also referred to as \"cross-border transport,\" encompasses the legal and regulatory frameworks governing the movement of goods and passengers across national borders within the EU. This framework aims to facilitate smoother interconnections and interoperability among various transport modes, including railways and multimodal systems. It addresses challenges faced by landlocked regions and peripheral areas, ensuring accessibility and reducing congestion. The EU's liberalized transport policies promote healthy competition while curtailing abuses and enhancing the legality of operations. By constructing efficient passage lanes and facilitating intertransmission of services, the EU illustrates its commitment to a cohesive transport network that supports sustainable and ecologically responsible practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:50.428929",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 715,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 414,
+      "selected_avg_freq": 196.04
+    },
+    "related_words": [
+      "intertransmission",
+      "preambular",
+      "cer",
+      "dignified",
+      "incremental",
+      "ecologically",
+      "multimodal",
+      "landlocked",
+      "inoperative",
+      "basle",
+      "interconnections",
+      "lanes",
+      "intermodal",
+      "etf",
+      "transits",
+      "centralize",
+      "smoother",
+      "curtail",
+      "trains",
+      "unep",
+      "transfrontier",
+      "basel",
+      "constructing",
+      "illustrate",
+      "tank",
+      "empty",
+      "interoperable",
+      "hosting",
+      "peripheral",
+      "railways"
+    ],
+    "prompt_length": 1784,
+    "category": "4811 organisation of transport"
+  }
+}

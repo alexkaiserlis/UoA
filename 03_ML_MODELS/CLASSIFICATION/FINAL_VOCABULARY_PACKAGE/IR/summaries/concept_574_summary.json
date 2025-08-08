@@ -1,0 +1,63 @@
+{
+  "concept_id": "574",
+  "concept_data": {
+    "title": "swindle",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "economic offence",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, \"swindle\" is categorized under \"economic offence,\" reflecting its nature as a criminal act that unlawfully manipulates financial systems. This concept encompasses a range of activities, including counterfeiting banknotes and coins, which circulate as counterfeit tokens, undermining monetary integrity. Criminals committing such acts may employ sophisticated instrumentalities, often involving conglomerates that operate across borders, such as casinos in Monaco or the Vatican. Vigilance is essential in detecting these offences, as they can involve the seizure and confiscation of assets. The suppression of swindling practices is vital for sustaining economic stability and protecting citizens from fraudulent schemes.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:55:18.861894",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 615,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 427,
+      "selected_avg_freq": 182.86
+    },
+    "related_words": [
+      "trails",
+      "criminals",
+      "instrumentalities",
+      "camden",
+      "casinos",
+      "carin",
+      "monegasque",
+      "serene",
+      "highness",
+      "teller",
+      "etsc",
+      "motive",
+      "pericles",
+      "seizure",
+      "tokens",
+      "confiscation",
+      "communicates",
+      "dispensers",
+      "vigilance",
+      "medals",
+      "conglomerate",
+      "intelligence",
+      "overlaps",
+      "prince",
+      "committing",
+      "vatican",
+      "counterfeit",
+      "monaco",
+      "symbol",
+      "sustain"
+    ],
+    "prompt_length": 1718,
+    "category": "1216 criminal law"
+  }
+}

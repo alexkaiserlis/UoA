@@ -1,0 +1,63 @@
+{
+  "concept_id": "4385",
+  "concept_data": {
+    "title": "tariff preference",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tariff preference\" within the EU's 2011 tariff policy framework refers to the preferential treatment granted to specific territories, allowing for reduced or eliminated tariffs on certain goods. This preferential regime is established through various articles that specify the conditions under which individual products, such as textiles, footwear, and certain chemicals like cortisones and diazo derivatives, may benefit from lower duties. The administration of these preferences is crucial for fostering trade relations and supporting economic development in partner countries. Tariff preferences can be reconsidered if they threaten the EU's market stability or if the underlying conditions change, thereby necessitating a reestablishment of the tariff structure.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:49:18.413811",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2989,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.086666666666667
+    },
+    "related_words": [
+      "inrespect",
+      "geneal",
+      "prefeential",
+      "territoies",
+      "territorie",
+      "cinchona",
+      "fraamework",
+      "aritcle",
+      "dichromate",
+      "scarves",
+      "mufflers",
+      "mantillas",
+      "veils",
+      "cortisones",
+      "tablewear",
+      "panty",
+      "whereeas",
+      "leving",
+      "fottwear",
+      "indivudual",
+      "cortisone",
+      "prednisone",
+      "acetates",
+      "restablish",
+      "nitrated",
+      "nitrosated",
+      "toluidines",
+      "establishish",
+      "flashed",
+      "waistcoats"
+    ],
+    "prompt_length": 1725,
+    "category": "2011 tariff policy"
+  }
+}

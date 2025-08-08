@@ -1,0 +1,63 @@
+{
+  "concept_id": "1531",
+  "concept_data": {
+    "title": "Next European Torus",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "Joint European Torus",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Next European Torus,\" redirecting to the \"Joint European Torus,\" represents a significant initiative within the EU's framework for nuclear energy research, particularly in thermonuclear fusion. This kernforschungsanlage, located in Jülich, serves as a hub for scientific and technological cooperation among member states, fostering investigación in plasma physics. The project engages various institutions, including ENEA and the Forschungszentrum Karlsruhe, to explore innovative technologies for energy production. By utilizing deuterium and tritium, the JET aims to advance our understanding of fusion processes, addressing environmental concerns and contributing to sustainable energy development. The collaborative efforts underscore the EU's commitment to cutting-edge research in nuclear energy.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:29:03.096990",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 263,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1359,
+      "selected_avg_freq": 511.1333333333333
+    },
+    "related_words": [
+      "kernforschunsanlage",
+      "juelich",
+      "ricerca",
+      "energia",
+      "nucleare",
+      "enea",
+      "ambiente",
+      "jülich",
+      "kfa",
+      "fzk",
+      "dcu",
+      "cooperação",
+      "científica",
+      "tecnológica",
+      "iccti",
+      "investigação",
+      "jnict",
+      "akademie",
+      "wissenschaften",
+      "öaw",
+      "divertor",
+      "tekes",
+      "forschungszentrum",
+      "sviluppo",
+      "tritium",
+      "nuove",
+      "energie",
+      "speak",
+      "deuterium",
+      "nazionale"
+    ],
+    "prompt_length": 1705,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "225",
+  "concept_data": {
+    "title": "technical cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Technical cooperation within the EU legal framework refers to collaborative efforts aimed at stabilizing regions through interdisciplinary approaches. This concept materializes in various contexts, such as preaccession assistance to candidate countries, where EU institutions negotiate terms that promote neutrality and human rights. Initiatives like the EUAM in Kyiv and the involvement of academies in Brussels exemplify this cooperation. The EU often engages with entities like ECOWAS to address daunting challenges, including militias in Ituri and the aftermath of apartheid in Ivorian contexts. Through mechanisms like TAIEX and clearinghouses, the EU reiterates its commitment to fostering stability, while communiqués from various summits emphasize the importance of punitive measures against exacerbating conflicts, such as those in Damascus and Kivu.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:54.710246",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 1770,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 28.446666666666665
+    },
+    "related_words": [
+      "kalman",
+      "negociate",
+      "unmil",
+      "ecomil",
+      "neturality",
+      "cnacs",
+      "stabilizes",
+      "brasilia",
+      "vetted",
+      "interdisciplinary",
+      "kivu",
+      "materialize",
+      "kyiv",
+      "chairs",
+      "outrage",
+      "rif",
+      "damascus",
+      "cwc",
+      "daunting",
+      "taiex",
+      "clearinghouse",
+      "mizsei",
+      "prohibtion",
+      "apartheid",
+      "cnac",
+      "academies",
+      "parliamentarians",
+      "ituri",
+      "euam",
+      "inception"
+    ],
+    "prompt_length": 1647,
+    "category": "0811 cooperation policy"
+  }
+}

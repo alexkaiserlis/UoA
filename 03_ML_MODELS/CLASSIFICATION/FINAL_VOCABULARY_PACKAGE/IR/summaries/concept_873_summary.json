@@ -1,0 +1,63 @@
+{
+  "concept_id": "873",
+  "concept_data": {
+    "title": "teaching institution",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "educational institution",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"teaching institution\" is a redirect to \"educational institution,\" encompassing a broad range of establishments such as schools, nurseries, and specialist academies. These institutions play a pivotal role in shaping the dietary habits of schoolchildren, promoting healthy eating through structured meal programs. Legislators have abided by regulations that address the onus of providing nutritious meals, often influenced by seasonal availability and demographic needs. The periodicity of educational reforms aims to diminish unhealthy eating practices among pupils. Networking among educational specialists ensures that achievements in teaching logistics are durably supported, fostering a conducive learning environment for all.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:37:50.350695",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 765,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 442,
+      "selected_avg_freq": 218.64666666666668
+    },
+    "related_words": [
+      "yoghourt",
+      "unhealthy",
+      "eafg",
+      "abided",
+      "yoghurts",
+      "olds",
+      "schoolchildren",
+      "onus",
+      "beset",
+      "fil",
+      "vouchers",
+      "legislators",
+      "interfered",
+      "seasonality",
+      "yoghurt",
+      "appreciate",
+      "durably",
+      "diets",
+      "fluoride",
+      "diminish",
+      "pupils",
+      "nurseries",
+      "logistics",
+      "periodicity",
+      "arrange",
+      "meals",
+      "networking",
+      "eating",
+      "reformed",
+      "reconstituted"
+    ],
+    "prompt_length": 1709,
+    "category": "3211 teaching"
+  }
+}

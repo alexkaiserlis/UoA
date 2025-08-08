@@ -1,0 +1,63 @@
+{
+  "concept_id": "4379",
+  "concept_data": {
+    "title": "transportation tariff",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transportation tariff\" within EU transport policy encompasses the systematic arrangement of charges levied by carriers for freight services, including railways and road haulage. These tariffs presuppose various factors, such as overheads and surcharges, which can intensify costs for hauliers and customers alike. The attractiveness of differing tariffs is often investigated in the context of crossfrontier journeys, where the economics of transport are influenced by theoretical assumptions about market independence. Disputes may arise as stakeholders object to quoted prices, forcing regulatory bodies to resolve conflicts and settle relationships between carriers and forwarding agents. Ultimately, the evolving landscape of transportation tariffs reflects the inevitable changes in market dynamics and the need for a coherent regulatory framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:20:21.012792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 423,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 816,
+      "selected_avg_freq": 379.9
+    },
+    "related_words": [
+      "crossfrontier",
+      "interventing",
+      "hauliers",
+      "surcharges",
+      "intensifying",
+      "argues",
+      "perfectly",
+      "bracket",
+      "remembered",
+      "arranged",
+      "construct",
+      "economics",
+      "attractiveness",
+      "journeys",
+      "settling",
+      "ignored",
+      "inevitable",
+      "depart",
+      "haulage",
+      "railways",
+      "presupposes",
+      "theoretical",
+      "overheads",
+      "azerbaijan",
+      "scales",
+      "objected",
+      "forwarding",
+      "forced",
+      "rising",
+      "relationships"
+    ],
+    "prompt_length": 1720,
+    "category": "4806 transport policy"
+  }
+}

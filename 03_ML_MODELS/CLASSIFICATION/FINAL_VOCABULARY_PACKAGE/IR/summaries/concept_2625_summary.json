@@ -1,0 +1,63 @@
+{
+  "concept_id": "2625",
+  "concept_data": {
+    "title": "early fruit and vegetables",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"early fruit and vegetables\" pertains to agricultural activities within the EU regulatory framework, specifically addressing the production and marketing of crops such as pimento, paprika, and grapes. These products, often symbolically tied to regional identities, undergo sorting and packaging processes to ensure they meet quality standards. The EU has established timetables for withdrawals and instalments to manage supply and demand, preserving the integrity of the market. Accurate invoices and statements are vital for recipients, ensuring compliance with PDO regulations. Forecasts indicate that the outlook for these crops remains largely positive, benefiting from genuine consumer interest and charitable initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:07.221434",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 482,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 776,
+      "selected_avg_freq": 458.62
+    },
+    "related_words": [
+      "herbón",
+      "pemento",
+      "symbolic",
+      "appropriated",
+      "paprika",
+      "capped",
+      "herbs",
+      "occasionally",
+      "timetables",
+      "charitable",
+      "sorting",
+      "transformed",
+      "aromatic",
+      "withdrawals",
+      "break",
+      "packaged",
+      "outlook",
+      "pdo",
+      "invoice",
+      "uninterrupted",
+      "ask",
+      "overrun",
+      "instalment",
+      "instalments",
+      "percentages",
+      "accurately",
+      "benelux",
+      "grapes",
+      "supplements",
+      "genuine"
+    ],
+    "prompt_length": 1681,
+    "category": "5631 agricultural activity"
+  }
+}

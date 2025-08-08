@@ -1,0 +1,63 @@
+{
+  "concept_id": "6559",
+  "concept_data": {
+    "title": "European identity",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European identity\" encompasses the legal and regulatory framework that confers citizenship rights and obligations to EU citizens. It stipulates the nature of citizenship, promoting active participation in the political process and ensuring that recipients of these rights are informed of their entitlements. The administration of citizenship involves procedural scrutiny, aimed at efficiently processing applications and minimizing delays. This process is sensitive to the diverse cultural regions within Europe, ensuring that the selection criteria for citizenship grants are equitable. The EU's commitment to fostering a shared European identity adds value to the collective rights of its citizens, enhancing their role in the Union's governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:05:34.193107",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 101,
+      "requested_words": 150,
+      "min_frequency_found": 37,
+      "max_frequency_found": 4108,
+      "selected_words": 101,
+      "selected_min_freq": 37,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1934.4851485148515
+    },
+    "related_words": [
+      "citizenship",
+      "politically",
+      "awarding",
+      "recipients",
+      "delays",
+      "disproportionate",
+      "awarded",
+      "procedural",
+      "citizens",
+      "wording",
+      "efficiently",
+      "grants",
+      "sensitive",
+      "scrutiny",
+      "selection",
+      "applicants",
+      "quickly",
+      "add",
+      "mainly",
+      "delay",
+      "active",
+      "involve",
+      "burden",
+      "conferred",
+      "replace",
+      "inform",
+      "cause",
+      "stipulates",
+      "concern",
+      "right"
+    ],
+    "prompt_length": 1670,
+    "category": "2831 culture and religion"
+  }
+}

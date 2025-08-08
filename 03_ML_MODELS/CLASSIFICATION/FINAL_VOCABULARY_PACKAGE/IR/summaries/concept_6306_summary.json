@@ -1,0 +1,63 @@
+{
+  "concept_id": "6306",
+  "concept_data": {
+    "title": "research results",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"research results\" encompass the outcomes of innovative studies aimed at addressing unmet societal challenges, particularly in the fields of pharmaceuticals and diagnostics. These results are crucial for fostering partnerships among universities, regulators, and industry affiliates to maximize the impact of translational research. The dissemination of findings, including the development of safer and faster medicines, is essential for clinical trials and the licensing of new drugs. By tackling undesirable substances like dioxins and PCBs, research results contribute to public health goals, ultimately feeding into the dynamic landscape of intellectual property and regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:23:40.972403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 275,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1325,
+      "selected_avg_freq": 617.0466666666666
+    },
+    "related_words": [
+      "translational",
+      "sideground",
+      "unmet",
+      "diagnostics",
+      "maximize",
+      "affiliates",
+      "universities",
+      "societal",
+      "pcbs",
+      "dioxin",
+      "dioxins",
+      "stuffs",
+      "horizon",
+      "faster",
+      "safer",
+      "drug",
+      "patients",
+      "tackle",
+      "partnerships",
+      "speeding",
+      "stimulating",
+      "regulators",
+      "differentiate",
+      "exploit",
+      "dynamic",
+      "medicines",
+      "undesirable",
+      "pharmaceutical",
+      "ultimate",
+      "trials"
+    ],
+    "prompt_length": 1727,
+    "category": "6416 research and intellectual property"
+  }
+}

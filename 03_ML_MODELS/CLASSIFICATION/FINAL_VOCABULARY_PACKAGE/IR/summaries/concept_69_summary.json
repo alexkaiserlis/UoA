@@ -1,0 +1,63 @@
+{
+  "concept_id": "69",
+  "concept_data": {
+    "title": "economic concentration",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic concentration refers to the process whereby companies, such as Bombardier and DaimlerChrysler, merge or acquire one another, potentially impacting competition within the EU market. This phenomenon can lead to a concentrative market structure, raising concerns about rivalry and monopolistic practices. Regulatory bodies, like the European Commission, assess such concentrations to ensure compliance with competition law, focusing on divestiture and maintaining market reliability. Notable cases involve entities like EBG and Technipol, which illustrate the complexities of mergers in sectors ranging from transport, including trams and railways, to energy, such as Électricité and Eurocoal. The overarching purpose is to prevent anti-competitive practices while fostering innovation and efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:29:10.615827",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1850,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 7.966666666666667
+    },
+    "related_words": [
+      "bombardier",
+      "adtranz",
+      "daimlerchrysler",
+      "ebg",
+      "etr",
+      "severing",
+      "trams",
+      "tram",
+      "cityrunner",
+      "magneti",
+      "marelli",
+      "ceac",
+      "sicind",
+      "électricité",
+      "accumulateurs",
+      "telettra",
+      "ferroviaria",
+      "reliabilitiy",
+      "banden",
+      "competiton",
+      "purose",
+      "électro",
+      "cfec",
+      "framtek",
+      "springs",
+      "fram",
+      "eurocoal",
+      "etmofina",
+      "petrofina",
+      "montecatini"
+    ],
+    "prompt_length": 1673,
+    "category": "4006 business organisation"
+  }
+}

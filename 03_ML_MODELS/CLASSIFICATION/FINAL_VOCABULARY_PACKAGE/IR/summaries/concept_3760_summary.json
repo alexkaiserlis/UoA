@@ -1,0 +1,63 @@
+{
+  "concept_id": "3760",
+  "concept_data": {
+    "title": "phosphate",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Phosphate, categorized under coal and mining industries, plays a crucial role in various EU regulatory frameworks. It is integral in the production of diphosphates and polyphosphates, which are utilized in food processing, particularly in the curing of sausages and cod. Regulatory measures ensure that phosphates are labelled correctly, maintaining tolerable acidity and enhancing flavour through mechanisms such as brine injection and enzyme action. The efficacy of these complexes is monitored to prevent oxidation and maintain a homogenous product. Additionally, the use of phosphates in meat products must adhere to standards that govern muscle stickiness and moisture levels, ensuring quality and safety for consumers.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:36:14.785618",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 267,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1266,
+      "selected_avg_freq": 505.6666666666667
+    },
+    "related_words": [
+      "soaking",
+      "stuffing",
+      "mtdi",
+      "diphosphates",
+      "burst",
+      "polyphosphates",
+      "triphosphates",
+      "bacalhau",
+      "sausage",
+      "stickiness",
+      "lipids",
+      "salting",
+      "ions",
+      "sliding",
+      "curing",
+      "sausages",
+      "complexes",
+      "cured",
+      "phosphates",
+      "oxidation",
+      "demanded",
+      "breaking",
+      "brine",
+      "get",
+      "horn",
+      "casings",
+      "flavour",
+      "taste",
+      "salted",
+      "tolerable"
+    ],
+    "prompt_length": 1643,
+    "category": "6611 coal and mining industries"
+  }
+}

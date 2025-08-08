@@ -1,0 +1,63 @@
+{
+  "concept_id": "2366",
+  "concept_data": {
+    "title": "petroleum",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"petroleum\" within the EU legal framework encompasses various regulations governing the oil industry, including the extraction and commercialization of mineralrohstoffe. The EU's approach is informed by directives such as the bundesgesetz on environmental protection and the berggesetz, which reasserted the importance of sustainable practices. Key players like OMV and Gazprom engage in complex interconnecting pipelines, while the market is influenced by indices like Brent and NYMEX. Regulatory measures also address restrictions on the use of propellants and kerosene, ensuring compliance with safety standards. Additionally, the reformulate of policies aims to enhance transparency in merchandising and trade agreements, such as acordos, while addressing criminally liable practices in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:30.901753",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1566,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 93,
+      "selected_avg_freq": 38.13333333333333
+    },
+    "related_words": [
+      "reasserted",
+      "berggesetz",
+      "mineralrohstoffgesetz",
+      "bundesvergabegesetz",
+      "omv",
+      "rohöl",
+      "aufsuchungs",
+      "bitumengesetz",
+      "sickle",
+      "gesmbh",
+      "restriciton",
+      "reformulate",
+      "gfsp",
+      "ipe",
+      "nymex",
+      "barge",
+      "brent",
+      "sullom",
+      "voe",
+      "interconnecting",
+      "sparked",
+      "allgemeine",
+      "isobutoxyethoxy",
+      "tenfold",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "propellant"
+    ],
+    "prompt_length": 1665,
+    "category": "6616 oil industry"
+  }
+}

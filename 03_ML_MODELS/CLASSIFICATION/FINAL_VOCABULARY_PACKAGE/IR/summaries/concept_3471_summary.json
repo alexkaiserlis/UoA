@@ -1,0 +1,63 @@
+{
+  "concept_id": "3471",
+  "concept_data": {
+    "title": "wood residue",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wood residue\" pertains to the wood industry and is classified under specific subdivisions of EU nomenclature. It encompasses various products derived from wood processing, which are partly or wholly utilized in trade. In EU legal and regulatory frameworks, wood residues are subject to binding regulations that govern their classification and customs treatment. These regulations are issued by relevant authorities and are detailed in annexed tables that indicate tariff codes and statistical data. The interpretation of wood residue is essential for ensuring compliance with trade agreements, as it affects the rights of holders and the application of additional regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:31:37.377246",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 97,
+      "requested_words": 150,
+      "min_frequency_found": 206,
+      "max_frequency_found": 4108,
+      "selected_words": 97,
+      "selected_min_freq": 206,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2268.2474226804125
+    },
+    "related_words": [
+      "subdivisions",
+      "adds",
+      "nos",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "contract",
+      "chairman",
+      "classified",
+      "nomenclature",
+      "table",
+      "codes",
+      "envisaged",
+      "classification",
+      "combined",
+      "described",
+      "delivered",
+      "virtue",
+      "tariff",
+      "statistical",
+      "rights",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued"
+    ],
+    "prompt_length": 1634,
+    "category": "6836 wood industry"
+  }
+}

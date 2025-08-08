@@ -1,0 +1,63 @@
+{
+  "concept_id": "2417",
+  "concept_data": {
+    "title": "textile plant",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"textile plant\" refers to various species cultivated for their fibers, including Gossypium (cotton) and Linum usitatissimum (flax). In EU legal and regulatory contexts, textile plants are significant for agricultural policies and trade regulations. The EU monitors the cultivation of autogamous species like Glycine max (soja) and their susceptibility to pathogens such as Phytophthora and Sclerotinia sclerotiorum. Regulations also address the impact of invasive species, including Miscanthus and Rumex repens, on native ecosystems. Coordinators in agricultural sectors must ensure compliance with directives concerning the sustainable production of textile plants, which may include provisions for managing pests like Diaporthe phaseolorum and Sclerotia.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:49.319962",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 789,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 198,
+      "selected_avg_freq": 70.96
+    },
+    "related_words": [
+      "hirsutum",
+      "barbadense",
+      "soia",
+      "hispida",
+      "acetosella",
+      "maritimus",
+      "diaporthe",
+      "phaseolorum",
+      "caulivora",
+      "sojae",
+      "glycinae",
+      "sclerotia",
+      "sclerotinia",
+      "sclerotiorum",
+      "groundnut",
+      "partiular",
+      "miscanthus",
+      "rumex",
+      "repens",
+      "bertolinii",
+      "autogamous",
+      "poa",
+      "opium",
+      "poppy",
+      "phialophora",
+      "gregata",
+      "megasperma",
+      "glycinea",
+      "koch",
+      "syringae"
+    ],
+    "prompt_length": 1681,
+    "category": "6006 plant product"
+  }
+}

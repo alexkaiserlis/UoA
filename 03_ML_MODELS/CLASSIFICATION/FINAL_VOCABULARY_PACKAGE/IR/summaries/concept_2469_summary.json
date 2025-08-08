@@ -1,0 +1,63 @@
+{
+  "concept_id": "2469",
+  "concept_data": {
+    "title": "business policy",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"business policy\" within EU legal and regulatory frameworks encompasses strategies aimed at enhancing the dynamism and competitiveness of enterprises. It primarily focuses on fostering entrepreneurship and innovation, particularly among SMEs and independent creators. By promoting internationalization and Europeanization, business policy seeks to unlock the potential of various sectors, including biotech and crafts. The appositeness of reforms in this area is crucial for overcoming challenges faced by businessmen and businesswomen, ensuring unhindered growth. Additionally, the stimulation of economic activities through effective subcontracting and relocation strategies is vital for achieving sustainable development and adaptability in a rapidly changing market environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:46:26.421991",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 736,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 338,
+      "selected_avg_freq": 134.5
+    },
+    "related_words": [
+      "epg",
+      "shes",
+      "indpendent",
+      "appositeness",
+      "appies",
+      "atteint",
+      "econmic",
+      "entrenching",
+      "businessmen",
+      "businesswomen",
+      "europeanization",
+      "internationalization",
+      "primarly",
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "eminent",
+      "creators",
+      "unlock",
+      "relaunch",
+      "jev",
+      "jop",
+      "endow",
+      "ceecs",
+      "ups",
+      "dynamism",
+      "innovatory",
+      "entrepreneurs",
+      "interesting",
+      "biotechnologies"
+    ],
+    "prompt_length": 1708,
+    "category": "4006 business organisation"
+  }
+}

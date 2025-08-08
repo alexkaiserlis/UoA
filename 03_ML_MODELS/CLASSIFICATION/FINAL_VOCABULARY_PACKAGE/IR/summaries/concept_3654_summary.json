@@ -1,0 +1,63 @@
+{
+  "concept_id": "3654",
+  "concept_data": {
+    "title": "European Research Coordination Agency",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "Eureka",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Research Coordination Agency,\" commonly referred to as \"Eureka,\" plays a pivotal role in fostering innovation across Europe. This initiative strategically promotes collaboration among industries, including broadcasting, electronics, and film, to enhance the capability of makers and providers. By supporting the origination of prototypes and facilitating urgent campaigns, Eureka ensures that users are kept aware of the latest advancements in HDTV and cinema technologies. The agency's operational framework encourages distributors and broadcasters to participate in initiatives that successfully launch new products, thereby achieving greater availability and success in the market. Ultimately, Eureka aims to bring industries closer together, demonstrating the importance of coordinated research efforts in achieving common goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:59:39.919993",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1437.5785123966941
+    },
+    "related_words": [
+      "eureka",
+      "brighton",
+      "cinema",
+      "hdtv",
+      "prototype",
+      "origination",
+      "viewing",
+      "broadcasters",
+      "films",
+      "cable",
+      "hardware",
+      "makers",
+      "broadcasting",
+      "electronics",
+      "film",
+      "television",
+      "capability",
+      "terrestrial",
+      "urgently",
+      "distributors",
+      "satellite",
+      "providers",
+      "launch",
+      "built",
+      "stations",
+      "campaign",
+      "success",
+      "closer",
+      "launched",
+      "strategic"
+    ],
+    "prompt_length": 1753,
+    "category": "6416 research and intellectual property"
+  }
+}

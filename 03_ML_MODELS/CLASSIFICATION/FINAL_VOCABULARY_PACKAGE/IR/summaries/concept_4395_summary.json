@@ -1,0 +1,63 @@
+{
+  "concept_id": "4395",
+  "concept_data": {
+    "title": "representative rate",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"representative rate\" in the context of EU agricultural policy serves as a precise benchmark for currency valuation, particularly relevant during turbulent economic periods. This rate diverges from standard rates by accounting for seasonalized variations in agricultural products, such as milkproducts and legumes. It is crucial for departments managing agricultural subsidies and compensatory payments, ensuring that devaluations do not adversely affect farmers. The representative rate may also involve adjustments, such as deseasonalisation, to reflect realigned market conditions. By collating data from various member states, including those using the peseta, markka, and koruna, the EU aims to impel equitable support for all agricultural sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:45:24.296481",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1966,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 55,
+      "selected_avg_freq": 25.36
+    },
+    "related_words": [
+      "bij",
+      "diverges",
+      "differntial",
+      "curreny",
+      "peseta",
+      "prcise",
+      "forestalled",
+      "markka",
+      "realigned",
+      "dismantlements",
+      "milkproducts",
+      "sepember",
+      "pursposes",
+      "deparments",
+      "growings",
+      "seasonalized",
+      "pardano",
+      "caseines",
+      "artricle",
+      "suh",
+      "lodges",
+      "worms",
+      "developement",
+      "impel",
+      "departements",
+      "mavra",
+      "tsebelia",
+      "compenstory",
+      "pursurant",
+      "turbulent"
+    ],
+    "prompt_length": 1697,
+    "category": "5606 agricultural policy"
+  }
+}

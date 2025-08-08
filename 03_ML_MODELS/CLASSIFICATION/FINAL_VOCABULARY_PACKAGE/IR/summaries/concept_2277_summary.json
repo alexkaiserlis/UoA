@@ -1,0 +1,63 @@
+{
+  "concept_id": "2277",
+  "concept_data": {
+    "title": "pastry-making",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pastry-making\" within the EU legal framework encompasses a diverse array of renowned specialities, including rogal, świętomarciński, and pierekaczewnik. These pastries often qualify for protection under designations such as PDO (Protected Designation of Origin) and PGI (Protected Geographical Indication), ensuring their lawful recognition and preservation. Notable examples include the ensaimada mallorquina and the dresdner stollen, both of which are integral to regional culinary heritage. Regulatory measures facilitate the registering of such delicacies, safeguarding their unique characteristics, like the use of concentrated cream or butter. The opposition to unauthorized use of these terms is crucial for maintaining the integrity of traditional recipes like brioche and tarta.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:00:46.031931",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2240,
+      "selected_avg_freq": 812.4133333333333
+    },
+    "related_words": [
+      "rogal",
+      "świętomarciński",
+      "pierekaczewnik",
+      "ensaimada",
+      "mallorquina",
+      "belokranjska",
+      "pogača",
+      "tarta",
+      "ricciarelli",
+      "bazas",
+      "kainuun",
+      "rönttönen",
+      "obwarzanek",
+      "krakowski",
+      "lomnické",
+      "suchary",
+      "dresdner",
+      "christstollen",
+      "stollen",
+      "weihnachtsstollen",
+      "brioche",
+      "vendéenne",
+      "mallorca",
+      "peras",
+      "rincón",
+      "pagnotta",
+      "dittaino",
+      "bœuf",
+      "soto",
+      "siena"
+    ],
+    "prompt_length": 1677,
+    "category": "6031 agri-foodstuffs"
+  }
+}

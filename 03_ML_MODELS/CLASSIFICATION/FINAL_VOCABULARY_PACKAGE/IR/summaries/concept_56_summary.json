@@ -1,0 +1,63 @@
+{
+  "concept_id": "56",
+  "concept_data": {
+    "title": "national accounts",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "National accounts refer to a systematic compilation of macroeconomic aggregates, such as Gross Domestic Product (GDP) and Gross National Product (GNP), essential for understanding the economic interrelationship within the eurozone. The compilation process emphasises exhaustiveness and accuracy, utilizing templates and metadata to ensure compliance with the European System of Accounts (ESA). Regulatory frameworks, such as those established by ECOFIN and the Committee on Monetary, Financial and Balance of Payments Statistics (CMFB), guide the disaggregation of data to address discrepancies and enhance the theoretical underpinnings of economic analysis. These accounts are crucial for policymakers, enabling informed decisions regarding borrowing, settlements, and resource allocation in the context of Economic and Monetary Union (EMU) dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:58.812721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 485,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 760,
+      "selected_avg_freq": 363.2866666666667
+    },
+    "related_words": [
+      "connivance",
+      "complicity",
+      "eurozone",
+      "interrelationship",
+      "sdmx",
+      "syntax",
+      "markup",
+      "exhaustiveness",
+      "disaggregation",
+      "cmfb",
+      "aggregates",
+      "gnp",
+      "metadata",
+      "templates",
+      "settlements",
+      "spc",
+      "emu",
+      "emphasises",
+      "totals",
+      "ecofin",
+      "makers",
+      "borrowing",
+      "aggregation",
+      "compile",
+      "receipts",
+      "theoretical",
+      "interchange",
+      "abrogated",
+      "classifications",
+      "macroeconomic"
+    ],
+    "prompt_length": 1692,
+    "category": "1626 national accounts"
+  }
+}

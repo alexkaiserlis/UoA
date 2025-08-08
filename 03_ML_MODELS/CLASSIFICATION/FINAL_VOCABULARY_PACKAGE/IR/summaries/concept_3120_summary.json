@@ -1,0 +1,63 @@
+{
+  "concept_id": "3120",
+  "concept_data": {
+    "title": "haulage contract",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "contract of carriage",
+    "relation_type": "USE"
+  },
+  "summary": "The \"haulage contract,\" redirected to the preferred term \"contract of carriage,\" is a fundamental legal framework governing the transportation of goods within the EU. It establishes obligations for carriers and shippers, ensuring that services are organized efficiently, particularly on specific days like mondays and saturdays. The contract outlines the itinerary, including stops in locations such as Audun and Tressange, and addresses irregularities that may arise during transit. Disputed terms can lead to litigation, affecting the workforce involved. Additionally, companies like société Frisch and sàrl Boulange may seek to subsidize transport costs, enhancing service quality. This legal instrument is crucial for ensuring unreserved compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:34.061671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 312,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 930,
+      "selected_avg_freq": 326.36
+    },
+    "related_words": [
+      "anciens",
+      "établissements",
+      "frisch",
+      "rollingergrund",
+      "fridays",
+      "saturdays",
+      "schiocchet",
+      "ludelange",
+      "boulange",
+      "overlapped",
+      "audun",
+      "itinerary",
+      "aumetz",
+      "tressange",
+      "bure",
+      "nondkeil",
+      "mildness",
+      "villeroy",
+      "jules",
+      "emile",
+      "autocars",
+      "boch",
+      "catered",
+      "subsidize",
+      "unreserved",
+      "mondays",
+      "sàrl",
+      "knew",
+      "expecting",
+      "fischer"
+    ],
+    "prompt_length": 1711,
+    "category": "4811 organisation of transport"
+  }
+}

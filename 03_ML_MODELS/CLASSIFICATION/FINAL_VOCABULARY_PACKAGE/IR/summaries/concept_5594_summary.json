@@ -1,0 +1,26 @@
+{
+  "concept_id": "5594",
+  "concept_data": {
+    "title": "medical records",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "medical data",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"medical records\" is a redirect term for \"medical data,\" which encompasses all information pertaining to an individual's health status, treatments, and medical history. The protection and management of medical data are governed by stringent regulations, notably the General Data Protection Regulation (GDPR), which ensures the confidentiality and integrity of personal health information. Accurate handling of medical data is crucial for effective healthcare delivery and patient rights. The EU emphasizes the importance of safeguarding this sensitive information while facilitating its use for research and public health purposes, balancing privacy with health advancements.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:04.946413",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1193,
+    "category": "2841 health"
+  }
+}

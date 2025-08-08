@@ -1,0 +1,63 @@
+{
+  "concept_id": "7879",
+  "concept_data": {
+    "title": "regions of Hungary",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Hungary\" pertains to the administrative divisions within Hungary, which are crucial for EU legal and regulatory frameworks. Hungary is divided into several regions, including Közép, Dunántúl, Nyugat, Dél, and Alföld, each distinguished by unique socio-economic characteristics. These regions play a significant role in regionalisation efforts aimed at enhancing collaboration among EU Member States. In the context of agricultural regulation, particularly in poultry farming, regional divisions are essential for managing outbreaks of avian influenza and other infectious diseases. Effective detection and preventive measures are vital to mitigate the virulence of pathogens affecting both birds and humans, ensuring the profitability and sustainability of regional economies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:19.790857",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2257,
+      "selected_avg_freq": 880.1866666666666
+    },
+    "related_words": [
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél",
+      "magyarország",
+      "észak",
+      "alföld",
+      "békés",
+      "virulence",
+      "duck",
+      "merging",
+      "symptoms",
+      "subtype",
+      "réunion",
+      "captive",
+      "county",
+      "viruses",
+      "martinique",
+      "accountancy",
+      "guadeloupe",
+      "infections",
+      "divisions",
+      "regionalisation",
+      "distinguished",
+      "fattening",
+      "influenza",
+      "pathogenic",
+      "viral",
+      "mortality",
+      "avian"
+    ],
+    "prompt_length": 1692,
+    "category": "7211 regions of EU Member States"
+  }
+}

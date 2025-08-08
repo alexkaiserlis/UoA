@@ -1,0 +1,63 @@
+{
+  "concept_id": "4709",
+  "concept_data": {
+    "title": "town",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"town\" within the EU legal framework encompasses urban areas characterized by diverse cultures and citizens. Towns serve as capitals of wealth and achievements, contributing to the socio-economic fabric of the EU. In the context of construction and town planning, regulations highlight the importance of sustainable development, ensuring that urban environments are geared towards enhancing quality of life. Initiatives, such as those in Mostar and Corfu, showcase the integration of historical and contemporary elements, fostering cultural diversity. The EU's enlargement policies consider town planning as vital for consolidating regional identities, while organizations play a crucial role in sorting and selecting projects that align with these objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:06:03.145898",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 205,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1185.5533333333333
+    },
+    "related_words": [
+      "mostar",
+      "euam",
+      "capitals",
+      "wealth",
+      "envoy",
+      "petersburg",
+      "defrayed",
+      "corfu",
+      "cultures",
+      "highlighting",
+      "abundant",
+      "achievements",
+      "nominations",
+      "apple",
+      "charitable",
+      "sorting",
+      "geared",
+      "chronological",
+      "culture",
+      "nomination",
+      "packing",
+      "city",
+      "apples",
+      "saint",
+      "citrus",
+      "consolidate",
+      "russia",
+      "diversity",
+      "likewise",
+      "changing"
+    ],
+    "prompt_length": 1673,
+    "category": "2846 construction and town planning"
+  }
+}

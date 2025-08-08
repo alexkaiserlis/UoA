@@ -1,0 +1,63 @@
+{
+  "concept_id": "2150",
+  "concept_data": {
+    "title": "stock-exchange transaction",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"stock-exchange transaction\" refers to the buying and selling of securities on regulated markets, governed by EU legal frameworks that ensure neutrality and accessibility for all stakeholders. These transactions typically involve unique identifiers, such as ISINs and CFIs, which facilitate the aggregation of trades and enhance transparency. The European Securities and Markets Authority (ESMA) plays a crucial role in establishing standards that mitigate inconsistencies and ensure scalability in trading practices. Additionally, the Financial Stability Board (FSB) and the International Organization of Securities Commissions (IOSCO) contribute to the taxonomy of financial instruments, thereby reconstructing the landscape of derivatives and OTC trades. This regulatory environment aims to maintain equilibrium in capital inflows and prevent disequilibrium, ultimately supporting economic stability and reducing unemployment.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:56:39.691044",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 300,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1165,
+      "selected_avg_freq": 508.88
+    },
+    "related_words": [
+      "erects",
+      "isin",
+      "describable",
+      "scalability",
+      "fsb",
+      "reconstructing",
+      "isins",
+      "taxonomy",
+      "uniquely",
+      "uniqueness",
+      "cfi",
+      "cpss",
+      "basket",
+      "iosco",
+      "repositories",
+      "otc",
+      "brokers",
+      "disequilibrium",
+      "inflows",
+      "ties",
+      "get",
+      "neutrality",
+      "counterparties",
+      "esma",
+      "identifier",
+      "derivative",
+      "aggregation",
+      "continuance",
+      "identifiable",
+      "trades"
+    ],
+    "prompt_length": 1727,
+    "category": "2421 free movement of capital"
+  }
+}

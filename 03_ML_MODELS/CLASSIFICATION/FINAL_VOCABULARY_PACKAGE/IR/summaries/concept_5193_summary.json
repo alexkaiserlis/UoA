@@ -1,0 +1,63 @@
+{
+  "concept_id": "5193",
+  "concept_data": {
+    "title": "European audiovisual area",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European audiovisual area\" encompasses a regulatory framework aimed at harmonizing audiovisual services across EU member states. This area addresses the allocation and refarming of the radio spectrum, ensuring that telecommunications and audiovisual content can coexist without interference. Regulators, including the European Telecommunications Standards Institute (ETSI) and CEPT, are tasked with overseeing this domain. The framework invites governmental bodies and stakeholders to attend consultations, fostering collaboration among observers and affiliates. As the EU evolves, the forthcoming mandates will focus on addressing conflicting interests and enhancing the valuation of audiovisual content, thereby promoting a cohesive and inclusive European audiovisual landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:15.646251",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 254,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1471,
+      "selected_avg_freq": 609.66
+    },
+    "related_words": [
+      "refarming",
+      "scholz",
+      "affiliate",
+      "proxima",
+      "jürgen",
+      "attending",
+      "focal",
+      "conflicting",
+      "relocation",
+      "etsi",
+      "eupol",
+      "looking",
+      "cept",
+      "attend",
+      "extensively",
+      "recalls",
+      "observer",
+      "audiovisual",
+      "spectrum",
+      "associate",
+      "observers",
+      "gather",
+      "invite",
+      "regulators",
+      "interfere",
+      "valuation",
+      "teu",
+      "advise",
+      "postal",
+      "mandates"
+    ],
+    "prompt_length": 1682,
+    "category": "3226 communications"
+  }
+}

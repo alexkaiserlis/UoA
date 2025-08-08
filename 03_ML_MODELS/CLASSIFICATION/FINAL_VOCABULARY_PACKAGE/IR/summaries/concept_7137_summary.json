@@ -1,0 +1,63 @@
+{
+  "concept_id": "7137",
+  "concept_data": {
+    "title": "International Criminal Tribunal for the former Yugoslavia",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "International Criminal Tribunal",
+    "relation_type": "USE"
+  },
+  "summary": "The International Criminal Tribunal for the former Yugoslavia (ICTY) serves as a pivotal judicial body established to prosecute individuals indicted for war crimes, including high-profile fugitives like Radovan Karadžić and Ratko Mladić. This tribunal, often referred to simply as the International Criminal Tribunal, has addressed flagrant violations of humanitarian law, encompassing crimes committed during the Yugoslav Wars. The ICTY's proceedings have intensified scrutiny on the prosecution of indictees, such as Milan Lukic and Goran Hadžić, while ensuring that justice is served through proper custody and detention protocols. The tribunal's efforts aim to restore peace and facilitate the legal dealings necessary for post-conflict recovery, thereby reinforcing the EU's commitment to human rights and the rule of law.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:22:17.636824",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 317,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1137,
+      "selected_avg_freq": 448.79333333333335
+    },
+    "related_words": [
+      "hadzic",
+      "indictee",
+      "radovan",
+      "karadžić",
+      "mladić",
+      "fugitive",
+      "indictees",
+      "lukic",
+      "zdravko",
+      "tolimir",
+      "mladic",
+      "stojan",
+      "zupljanin",
+      "vlastimir",
+      "djordjevic",
+      "vujadin",
+      "popovic",
+      "nebojsa",
+      "pavkovic",
+      "indictment",
+      "borovnica",
+      "ratko",
+      "gotovina",
+      "goran",
+      "prosecute",
+      "flagrant",
+      "indicted",
+      "icty",
+      "custody",
+      "obstruct"
+    ],
+    "prompt_length": 1740,
+    "category": "7606 United Nations"
+  }
+}

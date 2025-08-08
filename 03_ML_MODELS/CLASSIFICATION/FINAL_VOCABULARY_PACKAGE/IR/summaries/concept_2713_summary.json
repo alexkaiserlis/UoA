@@ -1,0 +1,63 @@
+{
+  "concept_id": "2713",
+  "concept_data": {
+    "title": "European Union production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "EU production",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU production,\" a preferred term for \"European Union production,\" encompasses the cultivation and manufacturing processes within the EU's territory. It involves various organizations and stakeholders responsible for ensuring that products meet acceptable standards, effectively reducing discrepancies in quality. The production landscape includes cultivable resources and advanced technologies, such as motoren and motores from companies like Fincantieri and Wärtsilä. Regulatory frameworks aim to reactivate and support sustainable practices, addressing issues like the disappearance of traditional methods. By dissociating from outdated practices, the EU promotes innovative approaches, ensuring that staples remain resilient in a competitive market, ultimately enhancing the region's economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:21:45.950422",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2220,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 40,
+      "selected_avg_freq": 16.846666666666668
+    },
+    "related_words": [
+      "cultivable",
+      "reponsibility",
+      "kaba",
+      "koulak",
+      "nostrano",
+      "brenta",
+      "resistente",
+      "gojano",
+      "oiks",
+      "elassona",
+      "canarey",
+      "allowarice",
+      "compaign",
+      "euromot",
+      "perliminary",
+      "mak",
+      "motoren",
+      "stork",
+      "werkspoor",
+      "fincantieri",
+      "divisione",
+      "motori",
+      "pielstick",
+      "sulzer",
+      "ruston",
+      "mirrlees",
+      "blackstone",
+      "compaăąia",
+      "motores",
+      "mwm"
+    ],
+    "prompt_length": 1717,
+    "category": "6406 production"
+  }
+}

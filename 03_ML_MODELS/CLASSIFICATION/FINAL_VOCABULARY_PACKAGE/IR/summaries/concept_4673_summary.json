@@ -1,0 +1,26 @@
+{
+  "concept_id": "4673",
+  "concept_data": {
+    "title": "teleshopping",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "distance selling",
+    "relation_type": "USE"
+  },
+  "summary": "Teleshopping, often redirected to the preferred term \"distance selling,\" refers to the marketing practice where goods or services are offered to consumers via remote means, primarily through television broadcasts. In the context of EU legal and regulatory frameworks, distance selling is governed by directives aimed at consumer protection, ensuring transparency and fairness in transactions. The EU has established regulations that mandate clear information disclosure, cancellation rights, and secure payment methods, thereby enhancing consumer confidence. This regulatory oversight is crucial in addressing the unique challenges posed by remote marketing, ensuring that consumers are adequately informed and protected in their purchasing decisions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:18:26.088738",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1197,
+    "category": "2031 marketing"
+  }
+}

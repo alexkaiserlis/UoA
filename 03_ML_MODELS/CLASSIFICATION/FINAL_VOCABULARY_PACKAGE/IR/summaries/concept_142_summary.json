@@ -1,0 +1,63 @@
+{
+  "concept_id": "142",
+  "concept_data": {
+    "title": "use of energy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy consumption",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"use of energy,\" redirected to \"energy consumption,\" encompasses the regulatory framework governing energy utilization within the EU. This framework is a cornerstone of energy policy, addressing the efficiency of appliances such as refrigerators, dishwashers, and conditioners. It promotes the adoption of technologies like glandless circulators and energy-efficient drives, aiming to reduce emissions from various sectors, including aerodromes and residential occupiers. The EU's legislation encourages the billing of energy in comprehensible units like mwh and twh, facilitating better consumer understanding. By legislating standards for energy consumption, the EU narrows possibilities for backwardness in energy efficiency, ideally prompting a transition towards sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:46:45.808074",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1429,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 128,
+      "selected_avg_freq": 54.96666666666667
+    },
+    "related_words": [
+      "taxiing",
+      "mtoe",
+      "fiches",
+      "tumble",
+      "washer",
+      "circulator",
+      "billing",
+      "occupiers",
+      "billed",
+      "driers",
+      "ecesb",
+      "prompting",
+      "fans",
+      "sstbs",
+      "narrows",
+      "possibilites",
+      "glandless",
+      "standalone",
+      "circulators",
+      "ballasts",
+      "acpi",
+      "watt",
+      "poster",
+      "eup",
+      "drives",
+      "disassembly",
+      "aerodromes",
+      "mwh",
+      "legislate",
+      "ballast"
+    ],
+    "prompt_length": 1680,
+    "category": "6606 energy policy"
+  }
+}

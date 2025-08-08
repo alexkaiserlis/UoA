@@ -1,0 +1,63 @@
+{
+  "concept_id": "2288",
+  "concept_data": {
+    "title": "regions of the Netherlands",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions of the Netherlands\" pertains to the administrative and geographical subdivisions recognized within EU legal and regulatory frameworks. These regions, such as Groningen, Drenthe, and Limburg, fulfill distinct roles in regionalisation efforts, addressing issues like salinity and drainage in the countryside. Moreover, they are vital for determining indices related to tourism and amenities, as well as for managing viral infections, including avian influenza. The EU frameworks, including the European Regional Development Fund (ERDF) and the European Social Fund (ESF), support these regions by recognizing their unique landscapes and socio-economic challenges. This aggregate approach enhances regional readiness and addresses additionality in policy implementation.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:19:19.191057",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 559,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 678,
+      "selected_avg_freq": 322.4266666666667
+    },
+    "related_words": [
+      "moroever",
+      "salinity",
+      "zuidoost",
+      "fulfills",
+      "twente",
+      "membe",
+      "groningen",
+      "determing",
+      "drenthe",
+      "landscapes",
+      "adns",
+      "virulence",
+      "amenities",
+      "winds",
+      "zuid",
+      "limburg",
+      "drainage",
+      "symptoms",
+      "tourist",
+      "hill",
+      "subtype",
+      "handicaps",
+      "captive",
+      "viruses",
+      "countryside",
+      "indices",
+      "boundaries",
+      "recognizing",
+      "infections",
+      "compartments"
+    ],
+    "prompt_length": 1701,
+    "category": "7211 regions of EU Member States"
+  }
+}

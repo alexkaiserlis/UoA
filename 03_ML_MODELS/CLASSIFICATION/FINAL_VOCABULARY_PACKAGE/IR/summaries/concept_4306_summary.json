@@ -1,0 +1,63 @@
+{
+  "concept_id": "4306",
+  "concept_data": {
+    "title": "narcotic",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"narcotic\" encompasses a range of substances regulated under EU law, including various psychoactive drugs such as methylmethcathinone, mephedrone, and methylenedioxymethamphetamine (MDMA). These substances, often associated with recreational use in nightclubs and festivals, can lead to severe health issues, including overdosage, agitation, and tachycardia. The EU regulatory framework addresses the risks posed by narcotics, particularly those derived from plants like coca and the Bolivian coca leaf. Legal classifications involve monitoring compounds such as piperonal and isosafrole, while addressing the challenges of emerging drugs like ethylthiophenethylamine and trimethoxyamphetamine. The EU collaborates internationally, with organizations like UNODC, to combat narcotic trafficking and ensure public health safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:03:37.002513",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 957,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 103,
+      "selected_avg_freq": 37.513333333333335
+    },
+    "related_words": [
+      "methylmethcathinone",
+      "mephedrone",
+      "benzylpiperazine",
+      "bzp",
+      "tma",
+      "ethylthiophenethylamine",
+      "propylthiophenethylamine",
+      "trimethoxyamphetamine",
+      "phenethylamines",
+      "dob",
+      "celad",
+      "norephedrine",
+      "methylthioamphetamine",
+      "methylenedioxymethamphetamine",
+      "overdosage",
+      "hospitalisation",
+      "serval",
+      "sagfrole",
+      "piperonal",
+      "isosafrole",
+      "nationsl",
+      "internation",
+      "bolivian",
+      "unodc",
+      "aminopropyl",
+      "fury",
+      "mydriasis",
+      "tremor",
+      "monoaminergic",
+      "reitox"
+    ],
+    "prompt_length": 1768,
+    "category": "2841 health"
+  }
+}

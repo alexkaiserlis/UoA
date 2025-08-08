@@ -1,0 +1,63 @@
+{
+  "concept_id": "2541",
+  "concept_data": {
+    "title": "thermal pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Thermal pollution refers to the degradation of the environment caused by the release of heated water or air, often from industrial facilities, which can lead to irreversible damage to ecosystems. In EU regulatory frameworks, such as the Basel Convention, the emission of thermal pollutants is closely monitored. The transformation of organic wastes during incineration processes can result in the release of toxic compounds, including polychlorinated dioxins (PCDDs), dibenzofurans, and metals. The EU recommends stringent guidelines to calculate and limit the concentration of these pollutants, ensuring that facilities operate within environmentally safe values. The chairman of relevant conferences emphasizes the need for updated regulations to address these issues effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:10:53.305925",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1580.0133333333333
+    },
+    "related_words": [
+      "pcdds",
+      "pcdfs",
+      "dibenzofurans",
+      "metallurgical",
+      "exhibited",
+      "teq",
+      "dibenzo",
+      "subsection",
+      "basel",
+      "polychlorinated",
+      "dioxins",
+      "incineration",
+      "clarifies",
+      "irreversible",
+      "wastes",
+      "atmospheric",
+      "thermal",
+      "pollutants",
+      "transformation",
+      "toxic",
+      "environmentally",
+      "persistent",
+      "contaminated",
+      "metals",
+      "eighth",
+      "recommend",
+      "opposition",
+      "destruction",
+      "emission",
+      "organic"
+    ],
+    "prompt_length": 1720,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2060",
+  "concept_data": {
+    "title": "pollution level",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "degree of pollution",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"pollution level,\" redirected to the preferred term \"degree of pollution,\" pertains to the quantification of pollutants in various ecosystems, including terrestrial and aquatic environments. In EU regulatory frameworks, methodologies for calculating pollution levels focus on indicators such as nitrites, nitrates, phosphates, and ammonium, which contribute to issues like eutrophication. Regulatory measures address emissions from stationary sources, including cars and industrial activities, to mitigate leakage of harmful gases into groundwater and adjacent basins. Effective management of pollution levels requires careful monitoring and repair of defective systems, ensuring that emerging pollutants are tracked and controlled to protect public health and ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:01:59.025476",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 301,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 22,
+      "selected_max_freq": 1097,
+      "selected_avg_freq": 482.3666666666667
+    },
+    "related_words": [
+      "leak",
+      "receivable",
+      "nitrites",
+      "eutrophication",
+      "phosphates",
+      "fluorinated",
+      "interconnected",
+      "defective",
+      "contributor",
+      "stationary",
+      "leakage",
+      "phosphorus",
+      "booked",
+      "posing",
+      "nitrates",
+      "watch",
+      "pool",
+      "groundwater",
+      "ecosystems",
+      "manager",
+      "cars",
+      "basin",
+      "unknown",
+      "besides",
+      "gases",
+      "methodologies",
+      "presumption",
+      "ammonium",
+      "river",
+      "terrestrial"
+    ],
+    "prompt_length": 1741,
+    "category": "5206 environmental policy"
+  }
+}

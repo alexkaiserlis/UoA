@@ -1,0 +1,63 @@
+{
+  "concept_id": "3717",
+  "concept_data": {
+    "title": "European Foundation for the Improvement of Living and Working Conditions",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Eurofound",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Foundation for the Improvement of Living and Working Conditions,\" commonly referred to as \"Eurofound,\" plays a pivotal role within the EU institutions. Established to address inequalities in the workplace, Eurofound conducts research and provides insights that inform policy-making. Its tripartite structure, involving employers, employees, and governments, ensures that diverse perspectives are represented. The foundation's board consists of nominated candidates who are formally appointed to oversee its operations. Eurofound's work underlines the importance of addressing the needs of unemployed individuals and promoting career development. As it runs various initiatives, it creates opportunities for reformed approaches to labor conditions, ensuring that both men and women are equally entitled to benefits, including pensions. The foundation's specificity in addressing these issues is crucial for fostering a more equitable labor market in Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:33:32.606158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 360,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 926,
+      "selected_avg_freq": 439.56666666666666
+    },
+    "related_words": [
+      "boisnel",
+      "emmanuel",
+      "gerat",
+      "businesseurope",
+      "formalised",
+      "careers",
+      "nominees",
+      "marc",
+      "characterise",
+      "resignations",
+      "tripartite",
+      "entitle",
+      "etuc",
+      "inequalities",
+      "alternates",
+      "reformed",
+      "nominations",
+      "unemployed",
+      "anticipate",
+      "coordinator",
+      "vacant",
+      "pension",
+      "alternate",
+      "bureau",
+      "filled",
+      "specificity",
+      "underlines",
+      "foundation",
+      "substituted",
+      "seat"
+    ],
+    "prompt_length": 1799,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1290",
+  "concept_data": {
+    "title": "Channel Islands",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Channel Islands,\" comprising Jersey, Guernsey, Sark, and Alderney, are British Crown dependencies with distinct legal jurisdictions. These islands operate under their own ordinances, reflecting a liberalized regulatory framework. As dependencies, they are not part of the EU but engage with EU law, particularly concerning financial regulations and countering money laundering. The islands have faced scrutiny regarding proceeds from activities such as terrorism and the unjustifiably disguised movement of funds. Regulatory bodies, including the commissioner for financial services, appraise compliance with EU standards, focusing on minimizing risks associated with hematopoietic and haemorrhagic diseases in livestock, as well as ensuring the integrity of financial systems against threats like bonamiosis and marteiliosis.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:12:40.274858",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 497,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 648,
+      "selected_avg_freq": 282.1666666666667
+    },
+    "related_words": [
+      "sark",
+      "alderney",
+      "bailiwick",
+      "dependencies",
+      "sixteen",
+      "bonamiosis",
+      "marteiliosis",
+      "defense",
+      "ordinances",
+      "payer",
+      "arbitrarily",
+      "hematopoietic",
+      "appraising",
+      "colony",
+      "seedlings",
+      "laundering",
+      "handbook",
+      "taliban",
+      "ida",
+      "unjustifiably",
+      "crown",
+      "guernsey",
+      "jersey",
+      "ihn",
+      "disguised",
+      "vhs",
+      "discriminate",
+      "septicaemia",
+      "countering",
+      "commissioner"
+    ],
+    "prompt_length": 1688,
+    "category": "7206 Europe"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2081",
+  "concept_data": {
+    "title": "marketing standard",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"marketing standard\" within EU legal and regulatory frameworks pertains to the guidelines and criteria governing the presentation and sale of agricultural products, including rare varieties like renetta and reinette apples. These standards ensure transparency and quality, amplifying consumer trust. For instance, the classification of products such as artichoke and walnut involves rigorous assessments to avoid sublethal impacts on health. The standards also address the stewardship of biodiversity, ensuring that varieties like musa balbisiana and acuminata are preserved. Compliance with these standards is crucial for market access, impacting the ripening and marketing of products like escarole and meadowgrass.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:07.698076",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 6530,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 3.8066666666666666
+    },
+    "related_words": [
+      "renetta",
+      "reinette",
+      "zarja",
+      "alatau",
+      "poivrade",
+      "bouquet",
+      "artichoke",
+      "pods",
+      "amplifying",
+      "păšrigord",
+      "walnut",
+      "tumors",
+      "tumor",
+      "trnsparency",
+      "curly",
+      "escarole",
+      "healed",
+      "cracks",
+      "tannin",
+      "trypsic",
+      "convincingly",
+      "volatilise",
+      "flhorban",
+      "triploide",
+      "musa",
+      "balbisiana",
+      "acuminata",
+      "laconia",
+      "ocular",
+      "inhalatory"
+    ],
+    "prompt_length": 1680,
+    "category": "2031 marketing"
+  }
+}

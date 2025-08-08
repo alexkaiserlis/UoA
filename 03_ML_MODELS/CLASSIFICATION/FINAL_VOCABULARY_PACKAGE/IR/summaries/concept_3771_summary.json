@@ -1,0 +1,63 @@
+{
+  "concept_id": "3771",
+  "concept_data": {
+    "title": "super petrol",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "petrol",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"super petrol,\" categorized under the oil industry, is a redirect to the preferred term \"petrol.\" In EU legal and regulatory frameworks, petrol encompasses various motorbränslen, including unleaded and leaded variants, which are subject to stringent regulations aimed at reducing VOCs and mitigating environmental impacts such as eutrophication. The lifecycle of petrol products, from refuelling to disposal, is scrutinized to alleviate issues related to vapour leaks and unpleasant smells. Regulatory measures also address alkylate fuels and two-stroke fuels, which inhibit emissions. The complexities of petrol regulation are evident in regions like Northumberland, Argyll, and the Hebrides, where local conditions may influence compliance and enforcement.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:22:59.685586",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 776,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 263,
+      "selected_avg_freq": 97.58
+    },
+    "related_words": [
+      "postcode",
+      "northumberland",
+      "argyll",
+      "bute",
+      "hawes",
+      "alkylate",
+      "motorbränslen",
+      "specialbensin",
+      "för",
+      "motordrivna",
+      "arbetsredskap",
+      "tvåtaktsbränsle",
+      "leaded",
+      "inhibits",
+      "undrinkable",
+      "fluxes",
+      "vocs",
+      "abate",
+      "underrun",
+      "scilly",
+      "contradictions",
+      "unpleasant",
+      "mtbe",
+      "highland",
+      "leaks",
+      "clyde",
+      "devon",
+      "bef",
+      "refuelling",
+      "alleviates"
+    ],
+    "prompt_length": 1675,
+    "category": "6616 oil industry"
+  }
+}

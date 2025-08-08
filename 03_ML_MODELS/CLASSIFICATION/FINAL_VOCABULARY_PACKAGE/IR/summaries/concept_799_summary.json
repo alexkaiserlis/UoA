@@ -1,0 +1,63 @@
+{
+  "concept_id": "799",
+  "concept_data": {
+    "title": "secondary school",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "secondary education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"secondary school,\" redirected to \"secondary education,\" plays a pivotal role in EU legal and regulatory frameworks aimed at enhancing educational quality and societal involvement. Secondary education is recognized as a key stage for fostering innovation and competitiveness among participants, facilitating partnerships between public and private entities. The EU encourages optimal funding and investment in educational establishments to tackle challenges related to fragmentation and eligibility. By leveraging technology and research, the initiative aims to strengthen the educational landscape, ensuring that stakeholders are engaged in the dissemination of knowledge and that wider goals are achieved. This holistic approach addresses the needs of nascent industries and empowers enterprises to thrive in a dynamic horizon.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:35:57.602514",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1600.525
+    },
+    "related_words": [
+      "bbi",
+      "nascent",
+      "leverage",
+      "societal",
+      "horizon",
+      "fragmentation",
+      "bio",
+      "tackle",
+      "partnerships",
+      "goals",
+      "challenges",
+      "strength",
+      "optimal",
+      "facilitated",
+      "secondary",
+      "involvement",
+      "dissemination",
+      "wider",
+      "innovation",
+      "participants",
+      "education",
+      "sized",
+      "stakeholders",
+      "indirect",
+      "encouraged",
+      "establishments",
+      "funding",
+      "entities",
+      "delegated",
+      "competitiveness"
+    ],
+    "prompt_length": 1741,
+    "category": "3211 teaching"
+  }
+}

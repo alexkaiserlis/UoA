@@ -1,0 +1,63 @@
+{
+  "concept_id": "4741",
+  "concept_data": {
+    "title": "sewers",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "road services department",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sewers,\" categorized under construction and town planning, is a redirect to the preferred term \"road services department.\" In EU regulatory frameworks, the road services department oversees the design and maintenance of sewer systems, ensuring compliance with standards for workability and safety. This includes the management of hydrants and the use of materials like ductile castings and malleable metalwork in construction. The department is often briefed on contracts involving smelting and foundry operations, particularly in regions such as Baoding and Tianjin. Effective collaboration among stakeholders, including salesmen and contractors, is essential to mitigate risks and enhance infrastructure resilience, particularly in urban areas like Changsha and Wuxi.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:45:49.798181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 930,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 176,
+      "selected_avg_freq": 73.17333333333333
+    },
+    "related_words": [
+      "handan",
+      "yan",
+      "yuan",
+      "xianxian",
+      "guozhuang",
+      "norlong",
+      "hydrants",
+      "jize",
+      "gang",
+      "baoding",
+      "maikesaier",
+      "xinanli",
+      "changsha",
+      "wuxing",
+      "wangcheng",
+      "wuyi",
+      "yuehai",
+      "loiselet",
+      "jinghai",
+      "fundició",
+      "dúctil",
+      "metalwork",
+      "mrp",
+      "briefed",
+      "machined",
+      "benito",
+      "salesman",
+      "mails",
+      "father",
+      "han"
+    ],
+    "prompt_length": 1648,
+    "category": "2846 construction and town planning"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3648",
+  "concept_data": {
+    "title": "harmonization of standards",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "harmonisation of standards",
+    "relation_type": "USE"
+  },
+  "summary": "The \"harmonisation of standards\" is a pivotal concept within EU legal and regulatory frameworks, aimed at contouring a cohesive market by establishing uniform technical regulations. This process facilitates the candidature of various offerings, ensuring that products meet adjustable criteria across member states. By prioritizing standardization, the EU enhances the efficiency of sectors such as radiocommunication and radiolocation, where technologies like BWA and DFS are crucial. The harmonisation process also addresses unsynchronised systems, promoting interoperability in fields like PMSE and MBS. Ultimately, this regulatory revolution supports innovation while safeguarding public interests, as seen in initiatives by entities like INFARMED and RSPG.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:23:32.857457",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 3471,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.953333333333333
+    },
+    "related_words": [
+      "contouring",
+      "candidature",
+      "hydraulically",
+      "offerings",
+      "bss",
+      "simulcast",
+      "forefront",
+      "lan",
+      "radiocommunication",
+      "wrc",
+      "isotropic",
+      "radiodetermination",
+      "dfs",
+      "radiolocation",
+      "infarmed",
+      "mbs",
+      "prestifarma",
+      "ehrlich",
+      "ncar",
+      "pei",
+      "misquoted",
+      "evpú",
+      "blot",
+      "immunoblot",
+      "retroviral",
+      "intercourse",
+      "rspg",
+      "fdd",
+      "unsynchronised",
+      "bems"
+    ],
+    "prompt_length": 1730,
+    "category": "6411 technology and technical regulations"
+  }
+}

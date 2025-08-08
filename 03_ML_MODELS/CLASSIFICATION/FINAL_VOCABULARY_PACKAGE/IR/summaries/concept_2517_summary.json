@@ -1,0 +1,63 @@
+{
+  "concept_id": "2517",
+  "concept_data": {
+    "title": "social policy",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social policy within the EU framework encompasses a broad spectrum of initiatives aimed at promoting socio-economic cohesion and addressing disparities among member states. It actively incorporates ideas and reforms that facilitate dialogue between employers, employees, and various interlocutors. The Amsterdam Treaty affirmed the importance of social policy, emphasizing the need for orderly collaboration and synergy in addressing untreated social issues. Through the formation of resolutions and forums, the EU encourages the elaboration of strategies that represent diverse interests. Delegations and candidates engage in conciliation processes, ensuring that social policies are adequately reformed and expanded to meet the evolving needs of society. This comprehensive approach demonstrates the EU's commitment to fostering a cohesive social landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:47:57.361237",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 293,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1265,
+      "selected_avg_freq": 656.64
+    },
+    "related_words": [
+      "reload",
+      "interlocutors",
+      "dairies",
+      "affirmed",
+      "spheres",
+      "ideas",
+      "reforming",
+      "deem",
+      "reformed",
+      "delegations",
+      "synergy",
+      "untreated",
+      "employers",
+      "promoted",
+      "elaboration",
+      "sides",
+      "orderly",
+      "profile",
+      "conciliation",
+      "candidates",
+      "welcomed",
+      "socio",
+      "amsterdam",
+      "actively",
+      "dialogue",
+      "liaison",
+      "incorporating",
+      "disparities",
+      "demonstrates",
+      "heads"
+    ],
+    "prompt_length": 1716,
+    "category": "2826 social affairs"
+  }
+}

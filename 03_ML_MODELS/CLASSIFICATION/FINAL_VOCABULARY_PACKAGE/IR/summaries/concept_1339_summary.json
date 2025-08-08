@@ -1,0 +1,63 @@
+{
+  "concept_id": "1339",
+  "concept_data": {
+    "title": "victim compensation",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "indemnification",
+    "relation_type": "USE"
+  },
+  "summary": "Victim compensation, also known as indemnification, is a crucial aspect of EU civil law, specifically addressing the provision of reparations to individuals who have suffered bodily wounding or other damages due to unlawful acts. This concept ensures that victims are not left with unutilized rights, as jurisdictions across member states earmark specific measures to facilitate compensation. In cases of shipwrecked passengers or disturbances caused by criminal activities, the legal framework mandates that adequate compensation is provided, minimizing the impact of such incidents. The process often involves detailed assessments of damages, ensuring that victims are exonerated from undue financial burdens while maintaining precedence in legal proceedings.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:23:38.379147",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1703,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 66,
+      "selected_avg_freq": 26.593333333333334
+    },
+    "related_words": [
+      "unutilized",
+      "earmark",
+      "secific",
+      "paragrph",
+      "cadenera",
+      "castellana",
+      "macetera",
+      "foreseeabable",
+      "proviced",
+      "mandrins",
+      "lemmons",
+      "shamouti",
+      "comune",
+      "jursidiction",
+      "seafisheries",
+      "minimized",
+      "disturbace",
+      "mesasure",
+      "redevelop",
+      "passangers",
+      "guadalajara",
+      "overdue",
+      "wounding",
+      "bodily",
+      "exonerated",
+      "dilatory",
+      "resides",
+      "quantitities",
+      "shipwrecked",
+      "shipwreck"
+    ],
+    "prompt_length": 1735,
+    "category": "1211 civil law"
+  }
+}

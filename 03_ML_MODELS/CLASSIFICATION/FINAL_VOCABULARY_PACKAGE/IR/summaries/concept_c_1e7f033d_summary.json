@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_1e7f033d",
+  "concept_data": {
+    "title": "electronic invoicing",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "e-invoicing",
+    "relation_type": "USE"
+  },
+  "summary": "E-invoicing, or electronic invoicing, is a digital method of issuing and processing invoices that aligns with EU legal and regulatory frameworks. It facilitates the automation of invoicing processes, enhancing efficiency and reducing errors. The EU has established directives to promote e-invoicing, particularly in public procurement, to ensure compliance with standards that support interoperability and security. By adopting e-invoicing, businesses can streamline their financial transactions, comply with VAT regulations, and contribute to the digital single market. As a redirect, \"electronic invoicing\" leads to the preferred term \"e-invoicing,\" which encapsulates the modern approach to invoicing within the EU context.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:48.753077",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "2031 marketing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "994",
+  "concept_data": {
+    "title": "foot-and-mouth disease",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Foot-and-mouth disease (FMD) is a highly contagious viral disease affecting livestock, necessitating stringent regulatory measures within the EU. The Council has adopted various workplans to combat FMD, focusing on serological checks and pathogen identifications to prevent its perpetuation. Investigations, such as those conducted by the BBSRC, emphasize the importance of biosecurity and veterinary protocols. The disease's antigenically diverse nature requires programmatic responses, including the adoption of trivalent vaccines. Regions like Valdeolmos and Kootwijkerbroek have implemented specific strategies to manage outbreaks. Effective communication and collaboration among member states are crucial for ensuring food safety and securing fresh meat supplies in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:37.042923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2285,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 10.393333333333333
+    },
+    "related_words": [
+      "masures",
+      "bbsrc",
+      "chekcs",
+      "foggio",
+      "investigación",
+      "cisa",
+      "valdeolmos",
+      "perpetuation",
+      "counicl",
+      "meril",
+      "receptive",
+      "relinquished",
+      "apparition",
+      "recurred",
+      "identifications",
+      "disesase",
+      "necesarry",
+      "assa",
+      "veterinry",
+      "securite",
+      "workplan",
+      "oene",
+      "kootwijkerbroek",
+      "seriological",
+      "mpumalanga",
+      "korce",
+      "tekirdag",
+      "wrl",
+      "trivalent",
+      "adoptions"
+    ],
+    "prompt_length": 1705,
+    "category": "5631 agricultural activity"
+  }
+}

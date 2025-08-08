@@ -1,0 +1,63 @@
+{
+  "concept_id": "2136",
+  "concept_data": {
+    "title": "olive residue",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "olive",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"olive residue,\" categorized under plant products (6006), refers to the by-products obtained from the processing of olives, particularly in regions like Málaga and Umbria. This includes oilcakes and unrefined materials that may be deemed unusable or transformed into other products. The EU regulatory framework establishes guidelines for the management of olive residues, ensuring that beneficiaries, such as producers from Siurana and Nyons, adhere to standards for quality and safety. The term \"olive\" serves as the preferred term, redirecting users to a broader understanding of olives, including varieties like aloreña and ascolana, and their significance in the agricultural community. Proper handling and refining of these residues can mitigate hindrances in production and promote sustainable practices across olive groves and plantings.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:20:02.377190",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 1020,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 108.56666666666666
+    },
+    "related_words": [
+      "ártas",
+      "aceituna",
+      "aloreña",
+      "beneficiaires",
+      "recieved",
+      "siurana",
+      "ροβιών",
+      "rovion",
+      "noires",
+      "octobre",
+      "κονσερβολιά",
+      "στυλίδας",
+      "konservolia",
+      "stylidas",
+      "oilcakes",
+      "nyons",
+      "ioc",
+      "asperge",
+      "sables",
+      "landes",
+      "pâtes",
+      "oliva",
+      "ascolana",
+      "pitted",
+      "apfel",
+      "unusable",
+      "trevélez",
+      "südtiroler",
+      "transformations",
+      "jamón"
+    ],
+    "prompt_length": 1650,
+    "category": "6006 plant product"
+  }
+}

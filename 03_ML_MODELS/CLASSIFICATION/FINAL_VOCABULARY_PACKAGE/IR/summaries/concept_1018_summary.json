@@ -1,0 +1,63 @@
+{
+  "concept_id": "1018",
+  "concept_data": {
+    "title": "public finance",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Public finance, within the EU legal and regulatory framework, encompasses the management of state revenue, expenditures, and borrowing, which are crucial for maintaining economic stability. It involves costings and projections that underpin budgetary policies, ensuring that outlays are aligned with multilateral agreements. The EU's approach to public finance is characterized by an overarching stance that seeks to mitigate risks of misappropriation and slippage, while promoting durable economic growth. Tightening fiscal policies may dampen public investment, leading to shortfalls in essential services. Predictors of economic performance, such as cyclical shifts and outturns, are monitored to provide leeway for future adjustments, ensuring that member states remain compliant with the Maastricht criteria and maintain a comfortable fiscal position.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:04:01.643614",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 1205,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 107,
+      "selected_avg_freq": 57.086666666666666
+    },
+    "related_words": [
+      "costings",
+      "multilaterial",
+      "predictors",
+      "slippages",
+      "outturns",
+      "kfor",
+      "conventionally",
+      "downsizing",
+      "dampened",
+      "vigour",
+      "misappropriation",
+      "upswing",
+      "prejudices",
+      "imputation",
+      "neglect",
+      "outlays",
+      "comfortable",
+      "jeopardises",
+      "ethnic",
+      "slippage",
+      "eerp",
+      "hiring",
+      "shifts",
+      "leeway",
+      "cmfb",
+      "mto",
+      "outturn",
+      "proprietor",
+      "burdened",
+      "solemnly"
+    ],
+    "prompt_length": 1711,
+    "category": "2436 public finance and budget policy"
+  }
+}

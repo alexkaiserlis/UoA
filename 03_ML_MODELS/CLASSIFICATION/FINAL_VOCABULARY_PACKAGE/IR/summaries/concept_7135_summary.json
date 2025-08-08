@@ -1,0 +1,63 @@
+{
+  "concept_id": "7135",
+  "concept_data": {
+    "title": "reproductive health",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Reproductive health encompasses a range of issues related to the reproductive system, including the effects of various pollutants such as diarsenic, pentaoxide, and chromate, which may pose risks to human health. The EU regulatory framework prioritises the assessment of substances like dibutyl phthalate (DBP) and diethylhexyl phthalate (DEHP) due to their bioaccumulative properties and potential mutagenic effects. Regulations also address the presence of chlorinated compounds and their derivatives, such as trinitro and chloroethyl substances, which may impact reproductive health. The heterogeneity of reproductive health issues necessitates a comprehensive approach, ensuring that implantable devices and pharmaceuticals are safe from harmful contaminants like hexabromocyclododecane (HBCDD) and tris.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:35.822059",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 289,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1149,
+      "selected_avg_freq": 431.79333333333335
+    },
+    "related_words": [
+      "diarsenic",
+      "pentaoxide",
+      "chromate",
+      "sulfochromate",
+      "molybdate",
+      "dnt",
+      "trinitro",
+      "diaminodiphenylmethane",
+      "mda",
+      "diastereoisomers",
+      "tcep",
+      "chloroethyl",
+      "dinitrotoluene",
+      "hexabromocyclododecane",
+      "hbcdd",
+      "dibp",
+      "tert",
+      "xylene",
+      "musk",
+      "trioxide",
+      "chloro",
+      "sccps",
+      "pigment",
+      "orientated",
+      "diisobutyl",
+      "paraffins",
+      "alkanes",
+      "prioritised",
+      "bioaccumulative",
+      "dehp"
+    ],
+    "prompt_length": 1694,
+    "category": "2841 health"
+  }
+}

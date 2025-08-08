@@ -1,0 +1,63 @@
+{
+  "concept_id": "3628",
+  "concept_data": {
+    "title": "surplus production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "production surplus",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"surplus production,\" also referred to as \"production surplus,\" pertains to the excess output of goods that can disrupt market stability. This phenomenon is particularly relevant in sectors like agriculture, where overuse of resources can lead to volatility in prices, affecting commodities such as butterfat and molasses. The European Parliament has historically enacted regulations to standardise production levels, aiming to neutralize the effects of surplus on markets. Such measures may include quotas or substitutions to constrain excess supply. Enquiries into these dynamics reveal that surplus production can occasioned by conjunctural shifts, necessitating policies that stabilize markets and defray potential losses for producers.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:02.920432",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 820,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 336,
+      "selected_avg_freq": 163.40666666666667
+    },
+    "related_words": [
+      "parliment",
+      "neutralized",
+      "disrupts",
+      "constrain",
+      "toallow",
+      "suplus",
+      "ofregulation",
+      "stats",
+      "ldcs",
+      "extraordinarily",
+      "overuse",
+      "butterfat",
+      "defray",
+      "spider",
+      "substitutions",
+      "occasioned",
+      "contravene",
+      "substantiates",
+      "moderately",
+      "disturbs",
+      "token",
+      "crab",
+      "scallops",
+      "fluidity",
+      "standardise",
+      "pupils",
+      "winemaking",
+      "historically",
+      "shifted",
+      "stabilized"
+    ],
+    "prompt_length": 1723,
+    "category": "6406 production"
+  }
+}

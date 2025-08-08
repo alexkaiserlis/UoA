@@ -1,0 +1,63 @@
+{
+  "concept_id": "6046",
+  "concept_data": {
+    "title": "social adjustment",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"social adjustment\" within EU legal and regulatory frameworks refers to measures aimed at facilitating the effective integration of individuals into the social and economic fabric of member states. This includes the recognition of diplomas and qualifications, ensuring equal rights and freedom of movement for citizens entering or establishing themselves in other countries, such as Portugal and Spain. Institutions are tasked with adopting directives that provide for the mutual recognition of certificates and evidence of qualifications. Amendments to existing acts may be necessary to ensure that these measures are effective, thereby promoting social cohesion and enhancing the architecture of social services across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:45:18.093136",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 57,
+      "requested_words": 150,
+      "min_frequency_found": 57,
+      "max_frequency_found": 4108,
+      "selected_words": 57,
+      "selected_min_freq": 57,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2150.754385964912
+    },
+    "related_words": [
+      "architecture",
+      "diplomas",
+      "qualifications",
+      "formal",
+      "freedom",
+      "entering",
+      "portuguese",
+      "mutual",
+      "certificates",
+      "recognition",
+      "right",
+      "equal",
+      "exercise",
+      "evidence",
+      "portugal",
+      "institutions",
+      "spain",
+      "services",
+      "amendments",
+      "facilitate",
+      "entry",
+      "establishment",
+      "accession",
+      "effective",
+      "adopt",
+      "republic",
+      "act",
+      "technical",
+      "said",
+      "make"
+    ],
+    "prompt_length": 1657,
+    "category": "2826 social affairs"
+  }
+}

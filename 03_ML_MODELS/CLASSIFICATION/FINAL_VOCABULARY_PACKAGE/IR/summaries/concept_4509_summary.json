@@ -1,0 +1,63 @@
+{
+  "concept_id": "4509",
+  "concept_data": {
+    "title": "haulage of goods",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "carriage of goods",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"haulage of goods,\" redirected to the preferred term \"carriage of goods,\" encompasses the legal frameworks governing the transport of cargo across various modalities, including seaborne and intermodally. EU regulations enshrine principles that ensure unimpaired navigation and decongestion of transport routes, facilitating efficient transshipment and containerisation. The legal context includes provisions for cargosharing and lowtonnage operations, promoting economic sustainability. Key regulatory bodies, such as konkurrencestyrelsen, influence these frameworks, ensuring defensible practices in crossfrontier transport. The concept also addresses the valorised status of reconditioned goods and the implications of interventions in transport logistics, maintaining normality in trade operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:45.794406",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 2750,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 25,
+      "selected_avg_freq": 13.633333333333333
+    },
+    "related_words": [
+      "eliminations",
+      "flexo",
+      "decays",
+      "intermodality",
+      "exent",
+      "seaborne",
+      "enshrining",
+      "conomic",
+      "guise",
+      "determind",
+      "cargosharing",
+      "seaway",
+      "lowtonnage",
+      "graminae",
+      "taf",
+      "sedp",
+      "coveres",
+      "admissble",
+      "cantieri",
+      "termoli",
+      "marnavi",
+      "masa",
+      "konkurrencestyrelsen",
+      "btb",
+      "containerisation",
+      "decongestion",
+      "sail",
+      "navigate",
+      "normality",
+      "unimpaired"
+    ],
+    "prompt_length": 1749,
+    "category": "4811 organisation of transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2692",
+  "concept_data": {
+    "title": "desulphurisation",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "chemical process",
+    "relation_type": "USE"
+  },
+  "summary": "Desulphurisation, a chemical process, is crucial in the EU's regulatory framework for reducing sulphur emissions from various sources, particularly in exhaust systems. This process weakens the environmental impact of pollutants, aligning with the EU's commitment to sustainability. The technology involves enzymatic reactions, where specific enzymes, such as betaglucanase, are employed to facilitate the breakdown of sulphur compounds. Regulatory bodies, including the Commission, oversee patenting and the use of denaturants in this context, ensuring compliance with safety standards. Additionally, the integration of advanced detectors and spectrometers enhances the monitoring of emissions, contributing to elevated environmental protection measures across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:17.307158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 594,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 443,
+      "selected_avg_freq": 181.84
+    },
+    "related_words": [
+      "söll",
+      "aptec",
+      "phyge",
+      "weakens",
+      "mek",
+      "denatonium",
+      "patenting",
+      "betaglucanase",
+      "neurophore",
+      "neurones",
+      "putative",
+      "mediatively",
+      "synoptic",
+      "planar",
+      "megawatts",
+      "anaesthetic",
+      "denaturants",
+      "pps",
+      "isopropyl",
+      "fiscalis",
+      "transmitters",
+      "enzymatic",
+      "spectrometer",
+      "transmitter",
+      "ketone",
+      "tetra",
+      "electron",
+      "sensory",
+      "benzoate",
+      "physics"
+    ],
+    "prompt_length": 1716,
+    "category": "6411 technology and technical regulations"
+  }
+}

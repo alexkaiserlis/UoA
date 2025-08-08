@@ -1,0 +1,63 @@
+{
+  "concept_id": "1146",
+  "concept_data": {
+    "title": "heifer",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"heifer\" refers to a young female bovine, particularly significant in the breeding of various breeds such as Simmental and Pinzgau. The authenticity of heifers is often verified through herdbooks, which document pedigree and breed characteristics, ensuring compliance with EU standards. Certifying bodies are tasked with maintaining auditable records that assign heifers to specific herds, thereby unbinding traders from ambiguity regarding breed nomenclatures. In circumstances where initial compliance is denied, the Commission may contemplate regulatory actions to enforce standards. The allocation of resources for breeding programs is crucial, particularly in regions like Schwyz and Fribourg, where alpine breeds thrive.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:44:42.962719",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 662,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 500,
+      "selected_avg_freq": 244.3
+    },
+    "related_words": [
+      "certifiying",
+      "inital",
+      "othelr",
+      "herdbook",
+      "unbinds",
+      "schwyz",
+      "fribourg",
+      "mottled",
+      "simmental",
+      "pinzgau",
+      "comparatively",
+      "grey",
+      "auditable",
+      "unter",
+      "skirt",
+      "mould",
+      "forcing",
+      "pedigree",
+      "nomenclatures",
+      "heifers",
+      "rigid",
+      "buffalo",
+      "bulls",
+      "viewpoint",
+      "alpine",
+      "breed",
+      "book",
+      "circumstance",
+      "cct",
+      "brown"
+    ],
+    "prompt_length": 1642,
+    "category": "5626 means of agricultural production"
+  }
+}

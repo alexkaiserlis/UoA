@@ -1,0 +1,63 @@
+{
+  "concept_id": "4195",
+  "concept_data": {
+    "title": "unit trust",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "investment company",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"unit trust\" is conceptually synonymous with an \"investment company,\" serving as a vehicle for collective investment schemes (UCIs). These entities prudentially manage portfolios of equities and other assets, capturing value for unitholders through diversified investments. The regulatory framework, including the Alternative Investment Fund Managers Directive (AIFMD), governs their operations, ensuring compliance with prudential standards. Investment companies facilitate redemptions and repurchases, allowing stockholders to exercise their rights effectively. Additionally, they may employ strategies involving proxies and novation to mitigate risks associated with market discontinuities, thereby enhancing the stability of financial institutions within the EU landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:49:20.997524",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1219,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 98,
+      "selected_avg_freq": 35.766666666666666
+    },
+    "related_words": [
+      "mpors",
+      "compute",
+      "prudentially",
+      "mpor",
+      "proxies",
+      "capturing",
+      "centrally",
+      "qccps",
+      "shortlist",
+      "ucis",
+      "undistributed",
+      "articulator",
+      "milllion",
+      "humboldt",
+      "khd",
+      "premise",
+      "qccp",
+      "proxy",
+      "cva",
+      "interpolation",
+      "tenors",
+      "conceptually",
+      "probabilities",
+      "pds",
+      "lgd",
+      "lgdmkt",
+      "iorps",
+      "mechanistically",
+      "eusef",
+      "industrials"
+    ],
+    "prompt_length": 1722,
+    "category": "2416 financial institutions and credit"
+  }
+}

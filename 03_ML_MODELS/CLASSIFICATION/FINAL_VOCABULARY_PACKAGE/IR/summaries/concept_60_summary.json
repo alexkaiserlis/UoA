@@ -1,0 +1,63 @@
+{
+  "concept_id": "60",
+  "concept_data": {
+    "title": "chartered accountant",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": true,
+    "preferred_term": "accountant",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"chartered accountant\" is synonymous with \"accountant,\" serving as a professional designation for individuals qualified to conduct audits and provide financial consulting. This role is crucial in maintaining financial integrity within organizations, as highlighted by firms such as PwC, Deloitte, and BDO, which are prominent in the field of wirtschaftsprüfung. Chartered accountants may be involved in steuerberatungsgesellschaft activities, ensuring compliance with regulations set by entities like the OENB and NBB. Their responsibilities often include reappointment and rotation, as mandated by EU directives, to uphold transparency and trust in financial reporting, particularly in sectors overseen by revisores oficiais de contas and auditors across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:31:26.710506",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 795,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 125,
+      "selected_avg_freq": 40.446666666666665
+    },
+    "related_words": [
+      "rsm",
+      "farrell",
+      "sparks",
+      "elects",
+      "steuerberatungs",
+      "pwc",
+      "önb",
+      "beas",
+      "oenb",
+      "alpen",
+      "tpa",
+      "horwath",
+      "wirtschaftsprüfung",
+      "stephens",
+      "bdo",
+      "auxilia",
+      "wirtschaftsprüfungs",
+      "steuerberatungsgesellschaft",
+      "coopers",
+      "lybrand",
+      "revisores",
+      "oficiais",
+      "contas",
+      "consultores",
+      "associados",
+      "sociedade",
+      "dnb",
+      "josephus",
+      "nijhuis",
+      "touche"
+    ],
+    "prompt_length": 1738,
+    "category": "4026 accounting"
+  }
+}

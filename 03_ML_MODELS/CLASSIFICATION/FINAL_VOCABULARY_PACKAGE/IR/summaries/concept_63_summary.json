@@ -1,0 +1,63 @@
+{
+  "concept_id": "63",
+  "concept_data": {
+    "title": "trading account",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"trading account\" in the context of EU legal and regulatory frameworks refers to an accountancy mechanism facilitating the management of financial transactions related to securities, loans, and other financial instruments. This account is crucial for banks and borrowers, particularly in the context of recapitalisation efforts and disbursements of loans. The European Central Bank (ECB) oversees the accounting standards that govern these accounts, ensuring compliance with statutory thresholds. Trading accounts also play a role in the secondary market for bonds, where holdings are fluid and subject to varying conditions. By identifying and weighting incomes from these accounts, EU regulations aim to stabilize financial systems and support sectors such as agro and fertilizers, thereby enhancing economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:21:23.664847",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 276,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1587,
+      "selected_avg_freq": 812.7066666666667
+    },
+    "related_words": [
+      "esu",
+      "supplemental",
+      "recapitalisation",
+      "borrower",
+      "efsf",
+      "censuses",
+      "fertilizer",
+      "fluid",
+      "disbursements",
+      "fertilizers",
+      "returning",
+      "preamble",
+      "bonds",
+      "agro",
+      "accountancy",
+      "studied",
+      "weighting",
+      "cash",
+      "incomes",
+      "solid",
+      "compound",
+      "ecb",
+      "executive",
+      "facilitated",
+      "secondary",
+      "surveys",
+      "simple",
+      "thresholds",
+      "loan",
+      "division"
+    ],
+    "prompt_length": 1662,
+    "category": "4026 accounting"
+  }
+}

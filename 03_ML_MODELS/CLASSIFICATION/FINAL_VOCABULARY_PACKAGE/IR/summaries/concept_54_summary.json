@@ -1,0 +1,63 @@
+{
+  "concept_id": "54",
+  "concept_data": {
+    "title": "accounting",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"accounting\" within EU legal and regulatory frameworks encompasses the principles and practices that govern financial reporting and the preparation of financial statements. It is essential for ensuring the understandability and reliability of financial information for stakeholders in a marketplace characterized by hyperinflationary conditions or economic turmoil. Accounting standards, such as IFRS and GAAP, guide preparers in the accurate capitalization of assets and the appropriate treatment of prepayments and cancellations. The IASB and other setters liaise with adopters to elaborate on standards, ensuring compliance and facilitating the reclassification of financial instruments. Additionally, accounting practices must address issues like hedging and restatement, particularly for distressed entities. The ongoing development of these standards reflects the need for clarity and consistency in financial reporting, ultimately enhancing the loyalty of investors and stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:31:33.372548",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 1172,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 119,
+      "selected_avg_freq": 49.38666666666666
+    },
+    "related_words": [
+      "refereed",
+      "understandability",
+      "vesting",
+      "hyperinflationary",
+      "hyperinflation",
+      "intragroup",
+      "iass",
+      "iasc",
+      "marketplace",
+      "liaise",
+      "prospectively",
+      "preparers",
+      "acsb",
+      "reclassify",
+      "distressed",
+      "capitalized",
+      "sic",
+      "adopter",
+      "unquoted",
+      "altmark",
+      "statues",
+      "adopters",
+      "restatement",
+      "restate",
+      "prepayments",
+      "ifrss",
+      "asbj",
+      "cancellations",
+      "titled",
+      "hedged"
+    ],
+    "prompt_length": 1679,
+    "category": "4026 accounting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4370",
+  "concept_data": {
+    "title": "monetary snake",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "European Monetary System",
+    "relation_type": "USE"
+  },
+  "summary": "The \"monetary snake,\" a historical framework within the EU's monetary relations, is now redirected to the \"European Monetary System\" (EMS). This system aimed to stabilize exchange rates among member currencies, such as the lira, pound, and koruna, by establishing a mechanism for revaluation and devaluation. The EMS facilitated the conditionality of borrowings and aimed for parity among currencies, thus addressing tensions and disequilibrium. Notably, the introduction of the euro (euros) irrevocably shifted perceptions of national currencies, empowering nations to navigate diminishing divergences. The EMS's durability was subject to unanimous agreements, with complexities arising from varying economic conditions and the need for convertibility among currencies like the escudo and tolar.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:44.887037",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 871,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 280,
+      "selected_avg_freq": 128.02
+    },
+    "related_words": [
+      "denominating",
+      "skk",
+      "korunas",
+      "perceptions",
+      "kroon",
+      "tolars",
+      "decembr",
+      "mtl",
+      "cyp",
+      "nationl",
+      "emcf",
+      "tolar",
+      "koruna",
+      "shiftwork",
+      "escudo",
+      "abrogate",
+      "narrowing",
+      "prosperous",
+      "comparatively",
+      "digressive",
+      "convertibility",
+      "erm",
+      "devalued",
+      "justifiably",
+      "argues",
+      "conditionality",
+      "lira",
+      "irrevocably",
+      "borrowings",
+      "introductions"
+    ],
+    "prompt_length": 1721,
+    "category": "2406 monetary relations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "876",
+  "concept_data": {
+    "title": "outpatients' clinic",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "medical institution",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"outpatients' clinic\" is a redirect to \"medical institution,\" reflecting its status within the EU's health category. In regulatory contexts, medical institutions are subject to authorizations and inspections to ensure compliance with health standards. The applicability of VAT regulations often involves precise calculations of turnover and tax contributions, with certain transactions exempt from taxation. Historical data and estimates are crucial for determining the burden of costs associated with these institutions. The harmonization of health regulations aims for transparency and simplification, ensuring that authorizing bodies can renew licenses without unjustified delays. This stable framework supports the efficient operation of medical institutions across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:11:18.038668",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 150,
+      "requested_words": 150,
+      "min_frequency_found": 197,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 197,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1771.68
+    },
+    "related_words": [
+      "approximate",
+      "accruing",
+      "percentages",
+      "authorizations",
+      "unjustified",
+      "historical",
+      "intermediate",
+      "applicability",
+      "vat",
+      "calculate",
+      "remained",
+      "turnover",
+      "taxes",
+      "recording",
+      "stable",
+      "ceased",
+      "renewed",
+      "estimates",
+      "inspections",
+      "sixth",
+      "harmonization",
+      "simplification",
+      "exempt",
+      "exempted",
+      "authorizing",
+      "replacement",
+      "precise",
+      "contributions",
+      "base",
+      "unable"
+    ],
+    "prompt_length": 1752,
+    "category": "2841 health"
+  }
+}

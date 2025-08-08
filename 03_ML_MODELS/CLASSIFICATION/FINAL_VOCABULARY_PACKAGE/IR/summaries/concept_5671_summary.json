@@ -1,0 +1,63 @@
+{
+  "concept_id": "5671",
+  "concept_data": {
+    "title": "printer",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"printer\" refers to an apparatus essential for information technology and data processing. This device, which includes various subsystems and cartridges, plays a pivotal role in the printing process, contributing to the broader enterprise of document production. Notably, the evolution of printing technologies, such as those developed by companies like Univac and Manroland, has mobilised advancements in speed and efficiency. The EU's regulatory landscape addresses redundancies in print operations, ensuring compliance with interinstitutional standards. Moreover, the cultural implications of printing practices are acknowledged, as they contribute to educational and labour dynamics within member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:26:56.532211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 200,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2759,
+      "selected_avg_freq": 1215.0333333333333
+    },
+    "related_words": [
+      "univac",
+      "cartridge",
+      "manroland",
+      "evidently",
+      "sperry",
+      "printer",
+      "print",
+      "subsystem",
+      "band",
+      "egf",
+      "redundancies",
+      "printing",
+      "reintegration",
+      "globalisation",
+      "mobilised",
+      "mobilise",
+      "expanded",
+      "subdivisions",
+      "refusal",
+      "subsidiaries",
+      "mobilisation",
+      "redundant",
+      "enterprise",
+      "educational",
+      "apparatus",
+      "proposes",
+      "subdivision",
+      "adds",
+      "supplier",
+      "patterns"
+    ],
+    "prompt_length": 1722,
+    "category": "3236 information technology and data processing"
+  }
+}

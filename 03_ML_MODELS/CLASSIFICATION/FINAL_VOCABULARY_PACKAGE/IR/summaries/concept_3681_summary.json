@@ -1,0 +1,63 @@
+{
+  "concept_id": "3681",
+  "concept_data": {
+    "title": "transport of dangerous substances",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "transport of dangerous goods",
+    "relation_type": "USE"
+  },
+  "summary": "The \"transport of dangerous substances,\" a concept redirected to \"transport of dangerous goods,\" encompasses the regulatory framework governing the safe movement of hazardous materials within the EU. This includes provisions that transpose international standards, such as the IMDG and ADR regulations, ensuring that possessors of dangerous goods adhere to safety protocols. Cargoes may include irradiated materials, plutonium, and other fissile substances, which require specific receptacles like drums and cylinders. Regulatory advisers emphasize the importance of tightly controlled transport to mitigate risks. Compliance with MARPOL and MEPC guidelines is essential for maritime transport, while roadside safety measures are crucial for land transport. The concept also involves the use of radar systems for tracking and the assembly of safety equipment to protect sailors and captains during transit.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:46.213670",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 790,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 316,
+      "selected_avg_freq": 130.90666666666667
+    },
+    "related_words": [
+      "transposes",
+      "conquet",
+      "coquet",
+      "ouessant",
+      "buoyage",
+      "sailors",
+      "corsen",
+      "saftey",
+      "igc",
+      "possessors",
+      "racks",
+      "frisia",
+      "dagebüll",
+      "wittdün",
+      "amrum",
+      "schlüttsiel",
+      "hallig",
+      "langeness",
+      "marginals",
+      "captains",
+      "ibc",
+      "rid",
+      "inf",
+      "tightly",
+      "flasks",
+      "imdg",
+      "brest",
+      "adr",
+      "transportable",
+      "amber"
+    ],
+    "prompt_length": 1685,
+    "category": "4811 organisation of transport"
+  }
+}

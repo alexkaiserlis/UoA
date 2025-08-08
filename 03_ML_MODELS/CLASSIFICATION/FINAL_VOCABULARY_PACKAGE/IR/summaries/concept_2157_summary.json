@@ -1,0 +1,63 @@
+{
+  "concept_id": "2157",
+  "concept_data": {
+    "title": "mini-computer",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"mini-computer,\" now redirected to \"computer,\" encompasses a range of information technology products, including those from notable companies like IBM and Hewlett-Packard. In the EU regulatory framework, these devices are integral to data processing and performance standards. Mini-computers, often seen in workstations and as multiprocessor systems, facilitate complex calculations and data distribution across sectors, including banking and healthcare. The regulatory landscape addresses issues surrounding productvertrieb and distribuzione, ensuring compliance with safety and efficiency standards. Inexperienced users may find these systems challenging, necessitating clear guidelines to prevent disparaging use and promote effective communication in technology deployment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:26:42.956236",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 891,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 114,
+      "selected_avg_freq": 36.68666666666667
+    },
+    "related_words": [
+      "ibm",
+      "selskab",
+      "produktvertrieb",
+      "distribuzione",
+      "prodotti",
+      "distributie",
+      "mainframe",
+      "bookshops",
+      "inexpert",
+      "banker",
+      "disparaging",
+      "telefunken",
+      "elektricitaets",
+      "ibidem",
+      "oreal",
+      "nieuwe",
+      "amck",
+      "turntable",
+      "radicals",
+      "multiprocessor",
+      "perq",
+      "communicative",
+      "reactivity",
+      "cray",
+      "peformance",
+      "finnigan",
+      "incos",
+      "univac",
+      "vascular",
+      "produkt"
+    ],
+    "prompt_length": 1743,
+    "category": "3236 information technology and data processing"
+  }
+}

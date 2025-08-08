@@ -1,0 +1,63 @@
+{
+  "concept_id": "5811",
+  "concept_data": {
+    "title": "mutual recognition principle",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"mutual recognition principle\" is a cornerstone of EU law, facilitating the acceptance of legal standards across member states. This principle allows for products, services, and qualifications legally marketed in one member state to be recognized in others, thereby reducing irreconcilable barriers. For instance, a prescriber domiciled in Croatia (Hrvatski) can dispense medications without additional requirements in another state, provided equivalences are maintained. This proactive approach minimizes disagreements and enhances comprehensibility in regulatory frameworks. It also applies to areas like reinsurance, where policyholders can renew contracts across borders. The principle is vital for fostering a cohesive internal market, promoting managerial efficiency and consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:09:56.795736",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1237,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 172,
+      "selected_avg_freq": 77.80666666666667
+    },
+    "related_words": [
+      "israc",
+      "prescriber",
+      "hrvatski",
+      "registar",
+      "brodova",
+      "paved",
+      "policyholder",
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "medically",
+      "depuration",
+      "disagreements",
+      "enquire",
+      "judgements",
+      "crs",
+      "peca",
+      "renewals",
+      "claimant",
+      "sued",
+      "glp",
+      "defendant",
+      "ista",
+      "derogatory",
+      "evaded",
+      "comprehensibility",
+      "equivalences",
+      "prospectuses",
+      "bucharest"
+    ],
+    "prompt_length": 1716,
+    "category": "1011 European Union law"
+  }
+}

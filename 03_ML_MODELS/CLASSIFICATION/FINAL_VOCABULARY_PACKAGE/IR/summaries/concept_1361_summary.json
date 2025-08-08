@@ -1,0 +1,63 @@
+{
+  "concept_id": "1361",
+  "concept_data": {
+    "title": "motor vehicle industry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"motor vehicle industry\" encompasses a broad spectrum of activities related to the design, production, and regulation of vehicles within the EU. Key players, such as Audi and Marelli, engage in fierce competition, focusing on reliability and affordability of products like gearboxes and turbo systems. Regulatory frameworks address issues like misinformation and compliance with standards, ensuring that manufacturers, including those in regions like Chemnitz and Wolfsburg, adhere to safety and environmental norms. The industry's evolution necessitates retooling and innovation, as seen in partnerships with firms like Alcoa and Fujikura. Handbooks and guidelines, such as CEAC and GMA, support stakeholders in navigating complex nomenclature and compliance requirements.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:19:01.865465",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1791,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 39,
+      "selected_avg_freq": 14.6
+    },
+    "related_words": [
+      "magneti",
+      "marelli",
+      "ceac",
+      "sicind",
+      "électricité",
+      "accumulateurs",
+      "telettra",
+      "ferroviaria",
+      "reliabilitiy",
+      "banden",
+      "competiton",
+      "purose",
+      "électro",
+      "cfec",
+      "retool",
+      "castrol",
+      "complains",
+      "brasserie",
+      "haecht",
+      "brouwerij",
+      "unde",
+      "ieteren",
+      "audi",
+      "wolfsburg",
+      "marques",
+      "handbooks",
+      "abstained",
+      "misinformation",
+      "automobilbau",
+      "eisenach"
+    ],
+    "prompt_length": 1689,
+    "category": "6821 mechanical engineering"
+  }
+}

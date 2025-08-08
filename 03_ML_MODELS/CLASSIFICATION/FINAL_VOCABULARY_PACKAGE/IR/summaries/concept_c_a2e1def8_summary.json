@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_a2e1def8",
+  "concept_data": {
+    "title": "toad",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "amphibian",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"toad,\" categorized under the natural environment, is redirected to the preferred term \"amphibian.\" In EU legal and regulatory frameworks, amphibians, including toads, are significant due to their ecological roles and status as bioindicators of environmental health. The EU's Biodiversity Strategy emphasizes the protection of amphibian habitats, addressing threats such as habitat loss and pollution. Regulations, such as the Habitats Directive, aim to conserve various amphibian species, ensuring their survival and the maintenance of biodiversity. Understanding the legal implications surrounding amphibians is crucial for effective environmental governance and compliance with EU environmental policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:58:14.973900",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1192,
+    "category": "5211 natural environment"
+  }
+}

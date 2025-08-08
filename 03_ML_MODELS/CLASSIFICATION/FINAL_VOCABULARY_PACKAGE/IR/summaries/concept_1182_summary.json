@@ -1,0 +1,63 @@
+{
+  "concept_id": "1182",
+  "concept_data": {
+    "title": "Hellenic Republic",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Greece",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Hellenic Republic,\" commonly referred to as \"Greece,\" is a significant entity in EU political geography, embodying a rich history of striving for unity within Europe. The Greek government has undertaken various initiatives to repatriate cultural heritage, reflecting its commitment to preserving national identity. Figures such as Papandreou and Bakoyanni have played pivotal roles in shaping Greece's foreign relations and regulatory frameworks. The country's legal landscape includes complex regulations on importation, impacting sectors from agriculture to tourism, with notable contributions from individuals like Kanellopoulos and Maravelias. Greece's regulatory efforts are crucial for harmonizing EU policies, ensuring compliance and fostering cooperation among member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:15:50.806583",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 4664,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 3.62
+    },
+    "related_words": [
+      "repatriated",
+      "repatriate",
+      "foreigh",
+      "unify",
+      "striving",
+      "lambros",
+      "kanellopoulos",
+      "poupakis",
+      "greekgovernment",
+      "maravelias",
+      "boutaris",
+      "kotronias",
+      "papandreou",
+      "sgouros",
+      "grigorios",
+      "zafeiropoulos",
+      "pavlos",
+      "altinis",
+      "athanasios",
+      "giakalis",
+      "aristeidis",
+      "giannakidis",
+      "drakos",
+      "polydoros",
+      "lamprinoudis",
+      "lappas",
+      "machairidis",
+      "birmpas",
+      "petrovits",
+      "theodoros"
+    ],
+    "prompt_length": 1760,
+    "category": "7236 political geography"
+  }
+}

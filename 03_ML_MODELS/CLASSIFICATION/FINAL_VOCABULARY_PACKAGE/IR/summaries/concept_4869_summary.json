@@ -1,0 +1,63 @@
+{
+  "concept_id": "4869",
+  "concept_data": {
+    "title": "scientific library",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"scientific library\" in the context of EU legal and regulatory documents serves as a crucial repository for data related to communicable diseases, including influenza outbreaks and their epidemiological implications. This library is essential for organizations tasked with health surveillance and control, providing updated definitions and relevant documentation on recent cases. It facilitates the reporting of disease occurrences, ensuring that the latest information is officially notified to relevant authorities. By laying out the necessary wording and definitions, the scientific library supports the network of health professionals across the EEA, enhancing the understanding of disease dynamics and fostering a coordinated response to public health challenges.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:45.064735",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 84,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 84,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2054.0714285714284
+    },
+    "related_words": [
+      "h1n1",
+      "communicable",
+      "denomination",
+      "influenza",
+      "epidemiological",
+      "virus",
+      "outbreak",
+      "occurrence",
+      "meantime",
+      "wording",
+      "diseases",
+      "north",
+      "definitions",
+      "officially",
+      "instead",
+      "disease",
+      "network",
+      "america",
+      "reporting",
+      "update",
+      "surveillance",
+      "name",
+      "latest",
+      "updated",
+      "recent",
+      "scientific",
+      "world",
+      "definition",
+      "extent",
+      "organization"
+    ],
+    "prompt_length": 1651,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1665",
+  "concept_data": {
+    "title": "soft drink",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "aerated drink",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"soft drink\" is often misinterpreted and can be deemed imprecise, prompting the preferred term \"aerated drink.\" This classification encompasses a variety of beverages, including lemonades and flavoured drinks, which are sweetened and may contain caffeine. The regulatory framework rigorously informs manufacturers about the essence of these products, ensuring they meet foodstuff standards. Additionally, the naming conventions for these drinks are fundamental to avoid ambiguity. The EU constantly evaluates these regulations, favouring clarity to prevent undesirable miscommunications. This approach not only enhances consumer understanding but also streamlines the dispatching of products across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:29.261533",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 576,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 561,
+      "selected_avg_freq": 287.18
+    },
+    "related_words": [
+      "redoployment",
+      "lemonades",
+      "overlook",
+      "misinterpreted",
+      "naming",
+      "imprecise",
+      "cups",
+      "answering",
+      "caffeine",
+      "rigorously",
+      "emphasise",
+      "rebate",
+      "cigarette",
+      "analyzing",
+      "attitude",
+      "vigorous",
+      "ambiguous",
+      "essence",
+      "dispatching",
+      "informs",
+      "doubled",
+      "flavoured",
+      "sweetening",
+      "tantamount",
+      "coffee",
+      "notifies",
+      "steadily",
+      "prompted",
+      "bfrs",
+      "fundamentally"
+    ],
+    "prompt_length": 1711,
+    "category": "6021 beverages and sugar"
+  }
+}

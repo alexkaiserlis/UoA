@@ -1,0 +1,63 @@
+{
+  "concept_id": "3317",
+  "concept_data": {
+    "title": "separation of property",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "judicial separation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"separation of property,\" redirected to \"judicial separation,\" pertains to the legal framework governing the division of assets during marital dissolution, such as divorce. This area of law is applicable across various EU member states, including Malta, Slovenia, and Latvia, which have adopted specific regulations to enhance cooperation in these matters. Judicial separation allows parties to define their intentions regarding property rights, thereby confirming their legal status. Countries like Belgium, France, and Germany have published guidelines to facilitate participation in these processes, ensuring that notifications are received and dated appropriately. The transitional provisions in this legal area aim to strengthen the benefits of separation, thus providing a clearer framework for individuals involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:03:18.010266",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 72,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 72,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1818.611111111111
+    },
+    "related_words": [
+      "divorce",
+      "separation",
+      "prescribe",
+      "confirming",
+      "enhanced",
+      "notes",
+      "strengthen",
+      "malta",
+      "authorise",
+      "slovenia",
+      "latvia",
+      "participate",
+      "lithuania",
+      "luxembourg",
+      "hungary",
+      "bulgaria",
+      "authorising",
+      "romania",
+      "intention",
+      "benefits",
+      "registered",
+      "belgium",
+      "dated",
+      "participation",
+      "greece",
+      "confirmed",
+      "italy",
+      "publication",
+      "austria",
+      "day"
+    ],
+    "prompt_length": 1694,
+    "category": "2806 family"
+  }
+}

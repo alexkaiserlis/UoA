@@ -1,0 +1,63 @@
+{
+  "concept_id": "2704",
+  "concept_data": {
+    "title": "special criminal procedure",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "criminal procedure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"special criminal procedure,\" while a redirect to \"criminal procedure,\" encompasses specific legal frameworks designed to address serious crimes such as genocide and war crimes. These procedures are crucial for prosecuting perpetrators who evade justice and remain unpunished, particularly in transnational contexts like those investigated by the International Criminal Tribunal for the former Yugoslavia (ICTY) and the European Union Rule of Law Mission in Kosovo (EULEX). The EU emphasizes enhancing cooperation among jurisdictions to confront violations of humanity. By implementing these special procedures, the EU aims to ensure that suspected criminals are indicted and prosecuted, thereby reducing impunity and reinforcing the rule of law across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:53.455892",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 257,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1603,
+      "selected_avg_freq": 659.1133333333333
+    },
+    "related_words": [
+      "genocide",
+      "prosecuting",
+      "affirms",
+      "unpunished",
+      "impunity",
+      "perpetrators",
+      "prosecuted",
+      "indicted",
+      "humanity",
+      "icty",
+      "relocated",
+      "eulex",
+      "rwanda",
+      "tribunals",
+      "crimes",
+      "reside",
+      "emphasises",
+      "evade",
+      "trying",
+      "prosecution",
+      "tribunal",
+      "confronted",
+      "war",
+      "recalls",
+      "jurisdictions",
+      "immigration",
+      "investigating",
+      "rome",
+      "transnational",
+      "kosovo"
+    ],
+    "prompt_length": 1738,
+    "category": "1221 justice"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4746",
+  "concept_data": {
+    "title": "laying poultry",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"laying poultry\" pertains to the agricultural activity of breeding hens for egg production within the EU regulatory framework. This sector is subject to stringent guidelines to mitigate foodborne illnesses such as salmonellosis, particularly from serovar strains like enteritidis and typhimurium. Regulations may include the use of additives like canthaxanthin and monensin in feed premixes to enhance health and productivity. The involvement of companies like huvepharma and danisco in developing probiotics, such as acidophilus and glucanase, illustrates the focus on improving poultry health. Additionally, the monitoring of invasive species and the application of phagetyping techniques are crucial for biosecurity. Compliance with these regulations ensures the sustainability of laying poultry operations, addressing concerns over transshipments and agglomerations of poultry products.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:28:17.618091",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 985,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 159,
+      "selected_avg_freq": 67.49333333333334
+    },
+    "related_words": [
+      "tgu",
+      "natuphos",
+      "phagetyping",
+      "txu",
+      "mulc",
+      "elancogran",
+      "sensitiser",
+      "unenriched",
+      "subsist",
+      "elancoban",
+      "huvepharma",
+      "cect",
+      "premix",
+      "latte",
+      "eimeria",
+      "clinacox",
+      "ccamlr",
+      "aveve",
+      "reluctance",
+      "acidophilus",
+      "sighted",
+      "canthaxanthin",
+      "breeder",
+      "serovar",
+      "longibrachiatum",
+      "transshipments",
+      "invasive",
+      "monensin",
+      "reesei",
+      "subtilisin"
+    ],
+    "prompt_length": 1704,
+    "category": "5631 agricultural activity"
+  }
+}

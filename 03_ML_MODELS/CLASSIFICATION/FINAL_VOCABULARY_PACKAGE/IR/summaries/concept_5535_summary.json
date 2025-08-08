@@ -1,0 +1,63 @@
+{
+  "concept_id": "5535",
+  "concept_data": {
+    "title": "consulate",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"consulate\" refers to a diplomatic representation that facilitates various functions, including visa issuance and the protection of citizens abroad. Consulates play a crucial role in the repatriation of individuals, especially in cases of immigration violations or emergencies. They are tasked with declassifying sensitive information and providing support during crises, such as the repression faced by citizens in Belarus under Lukashenko's regime. Furthermore, consulates are involved in the rationalisation of tourism policies and the issuance of passports and visas, ensuring compliance with EU regulations. Their officers operate under specific immunities and responsibilities, often engaging in interviews and detecting fraudulent activities, such as falsified documents. The synergy between consulates and EU councils is vital for effective diplomatic relations and the management of residence permits, ensuring that individuals can enjoy their rights while staying within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:34:20.746526",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 144,
+    "vocabulary_stats": {
+      "total_related_words": 388,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 849,
+      "selected_avg_freq": 376.35333333333335
+    },
+    "related_words": [
+      "falsified",
+      "declassifying",
+      "underwrite",
+      "consulates",
+      "declassified",
+      "sticker",
+      "downgrading",
+      "lukashenko",
+      "downgraded",
+      "repatriation",
+      "hospital",
+      "interview",
+      "sch",
+      "laeken",
+      "seville",
+      "underground",
+      "consular",
+      "tampere",
+      "reserving",
+      "subsistence",
+      "synergy",
+      "passports",
+      "rev",
+      "enjoying",
+      "immigration",
+      "thessaloniki",
+      "deployed",
+      "rationalisation",
+      "repression",
+      "immunities"
+    ],
+    "prompt_length": 1693,
+    "category": "0806 international affairs"
+  }
+}

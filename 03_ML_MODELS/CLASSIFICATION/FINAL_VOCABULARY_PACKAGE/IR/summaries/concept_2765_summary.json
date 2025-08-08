@@ -1,0 +1,63 @@
+{
+  "concept_id": "2765",
+  "concept_data": {
+    "title": "manufactured goods",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"manufactured goods\" within EU legal and regulatory frameworks encompasses a wide array of products, including items like mountings, goggles, and even throwaway cigars. These goods are subject to stringent regulations to ensure safety and compliance, reflecting a stepwise approach to industrial policy. For instance, the production of items such as cigarillos and juta requires adherence to specific standards, underscoring the importance of quality control. Additionally, the regulatory landscape addresses unique products from regions like Swiebodzice and Sieradz, ensuring that local manufacturers meet EU directives. The classification of manufactured goods is essential for trade, impacting economic factors like zloty and randers exchange rates.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:47.292027",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1927,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 27,
+      "selected_avg_freq": 11.126666666666667
+    },
+    "related_words": [
+      "mountings",
+      "pince",
+      "nez",
+      "lorgnettes",
+      "goggles",
+      "seventhly",
+      "bursts",
+      "throwaway",
+      "cigars",
+      "cigarillos",
+      "juta",
+      "dvur",
+      "kralove",
+      "labem",
+      "underscore",
+      "stepwise",
+      "filipino",
+      "eighthly",
+      "synthec",
+      "tiszai",
+      "vegyi",
+      "fourthly",
+      "fifthly",
+      "sixthly",
+      "ssfs",
+      "defalin",
+      "swiebodzice",
+      "terplast",
+      "sieradz",
+      "bzlp"
+    ],
+    "prompt_length": 1626,
+    "category": "6806 industrial structures and policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "903",
+  "concept_data": {
+    "title": "Eurobond",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Eurobonds are marketable debt securities issued in euros, primarily designed to facilitate funding for various enterprises and governments within the Eurozone. These bonds operate within the framework of the Eurosystem and are subject to the statutes of the European Central Bank (ECB) and the European System of Central Banks (ESCB). Eurobonds aim to encourage lending by banks to clients, easing credit conditions in the prevailing monetary environment. They are typically sold in the primary market, with secondary market purchases initiated by counterparties seeking to expand their portfolios. The issuance of Eurobonds can exceptionally support monetary policy objectives, particularly during periods of economic instability.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:00:01.306965",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 108,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 108,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1437.9166666666667
+    },
+    "related_words": [
+      "outright",
+      "bond",
+      "counterparties",
+      "easing",
+      "ncbs",
+      "eurosystem",
+      "clients",
+      "bonds",
+      "marketable",
+      "escb",
+      "expand",
+      "nominal",
+      "billion",
+      "purchases",
+      "lending",
+      "ecb",
+      "secondary",
+      "targeted",
+      "things",
+      "intend",
+      "prevailing",
+      "buying",
+      "encouraging",
+      "statute",
+      "banks",
+      "exceptionally",
+      "gradually",
+      "initiate",
+      "credit",
+      "contact"
+    ],
+    "prompt_length": 1640,
+    "category": "2411 monetary economics"
+  }
+}

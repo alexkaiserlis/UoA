@@ -1,0 +1,63 @@
+{
+  "concept_id": "2524",
+  "concept_data": {
+    "title": "pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pollution, categorized under the deterioration of the environment, encompasses various nuisances that threaten public health and ecological integrity. In the EU regulatory framework, pollution abatement strategies are critical, particularly in sectors like aviation, where emissions from aircraft contribute to greenhouse gas levels. The European Trading System (ETS) facilitates allowances for carbon emissions, urging industries to adopt selective measures for reducing their carbon footprint. Historical incidents, such as the contamination of water sources, have led to the establishment of databases and dossiers to monitor pollutants. The EU's commitment to international agreements, including the Kyoto Protocol, reflects its proactive approach to managing pollution through rigorous modelling and oversight.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:36:28.971181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 332,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 993,
+      "selected_avg_freq": 471.82666666666665
+    },
+    "related_words": [
+      "crco",
+      "cfmu",
+      "ancat",
+      "apus",
+      "rassf",
+      "apu",
+      "burn",
+      "modelling",
+      "nuisances",
+      "eurocontrol",
+      "unsafe",
+      "extrapolated",
+      "abatement",
+      "ets",
+      "incident",
+      "rasff",
+      "kyoto",
+      "historic",
+      "auxiliary",
+      "ukrainian",
+      "arithmetic",
+      "unfit",
+      "flights",
+      "helped",
+      "urged",
+      "deliberate",
+      "voluntarily",
+      "dossiers",
+      "flight",
+      "sunflower"
+    ],
+    "prompt_length": 1670,
+    "category": "5216 deterioration of the environment"
+  }
+}

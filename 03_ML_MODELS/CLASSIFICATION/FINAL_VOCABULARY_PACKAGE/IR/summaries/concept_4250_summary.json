@@ -1,0 +1,63 @@
+{
+  "concept_id": "4250",
+  "concept_data": {
+    "title": "economic stabilization",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": true,
+    "preferred_term": "economic stabilisation",
+    "relation_type": "USE"
+  },
+  "summary": "Economic stabilization, or economic stabilisation, is a critical concept within EU legal and regulatory frameworks aimed at addressing troubled economic conditions. It embraces strategies to inject liquidity and bolster soundness in financial systems, particularly during periods of heightened uncertainty. The EU employs mechanisms such as the European Stability Mechanism (ESM) to mitigate slippages in economic performance and to support countries facing indebtedness. By normalising fiscal policies and enhancing buffers against financial overhang, the EU seeks to prevent disincentives to foreign direct investment (FDI). This concept also involves managing maturities and ensuring the rollover of debts, thereby fostering enduring economic resilience and stability across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:47.540874",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1723,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 29.64666666666667
+    },
+    "related_words": [
+      "uncommitted",
+      "sentiment",
+      "epca",
+      "overhang",
+      "substructures",
+      "candid",
+      "slippages",
+      "prgf",
+      "somes",
+      "inject",
+      "ifc",
+      "pfsac",
+      "ebpac",
+      "reflow",
+      "courageous",
+      "normalising",
+      "embraces",
+      "nbr",
+      "fdi",
+      "enduring",
+      "armenian",
+      "troubled",
+      "disincentives",
+      "deleveraging",
+      "ldr",
+      "nsfrs",
+      "lcrs",
+      "indebted",
+      "esm",
+      "wants"
+    ],
+    "prompt_length": 1688,
+    "category": "1611 economic conditions"
+  }
+}

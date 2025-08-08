@@ -1,0 +1,63 @@
+{
+  "concept_id": "3133",
+  "concept_data": {
+    "title": "storage of waste",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"storage of waste\" concept within EU environmental policy involves the regulated containment of various waste types, including hazardous materials like radioactive and metallic compounds. This process underlines the importance of safe techniques for keeping waste, particularly in landfills and underground facilities. The EU framework outlines options for solidification and banning dangerous mixtures to mitigate hazards. Assessments are drafted to evaluate the viability of storage methods, ensuring that governments are bound to record and manage waste effectively. Premature accidents can be avoided by adhering to these regulations, which aim to protect the environment and public health from the dangers of improperly stored waste.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:57:18.361206",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2491,
+      "selected_avg_freq": 1127.5266666666666
+    },
+    "related_words": [
+      "solidification",
+      "landfills",
+      "landfill",
+      "containment",
+      "underground",
+      "span",
+      "metallic",
+      "banning",
+      "premature",
+      "inevitably",
+      "radioactive",
+      "mercury",
+      "alongside",
+      "underlines",
+      "hazards",
+      "outline",
+      "environmentally",
+      "accident",
+      "compounds",
+      "viability",
+      "drafted",
+      "permanently",
+      "man",
+      "appendix",
+      "mixtures",
+      "questionnaire",
+      "dangerous",
+      "assessments",
+      "nuclear",
+      "behaviour"
+    ],
+    "prompt_length": 1694,
+    "category": "5206 environmental policy"
+  }
+}

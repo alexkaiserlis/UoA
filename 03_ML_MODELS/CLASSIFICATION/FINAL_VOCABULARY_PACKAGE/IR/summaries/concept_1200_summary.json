@@ -1,0 +1,63 @@
+{
+  "concept_id": "1200",
+  "concept_data": {
+    "title": "Economic Interest Grouping",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Economic Interest Grouping\" (EIG) is a legal form of organizations within the EU, facilitating cooperation among entities from different nations. Governed by Regulation (EEC) No. 2137/85, EIGs are designed to pool resources and enhance representation, allowing members to pursue common objectives while maintaining their distinct identities. This consultative structure promotes integration and harmonization across sectors, such as steel and coal, by enabling workers and organizations to collaborate on shared projects. EIGs are particularly advantageous for negotiating contracts and managing collective activities, reflecting a cycle of cooperation that seeks to optimize resources and minimize constraints, thereby renewing economic opportunities for all involved units.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:46:28.462869",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 159,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 3590,
+      "selected_avg_freq": 1443.2133333333334
+    },
+    "related_words": [
+      "migs",
+      "digits",
+      "repairs",
+      "allotted",
+      "groupings",
+      "empty",
+      "accessories",
+      "pool",
+      "rev",
+      "reservation",
+      "container",
+      "spare",
+      "nace",
+      "geneva",
+      "distinguishing",
+      "seats",
+      "seeks",
+      "candidates",
+      "twice",
+      "nonetheless",
+      "designating",
+      "containers",
+      "consultative",
+      "pertaining",
+      "auspices",
+      "cycle",
+      "ratification",
+      "reflecting",
+      "representation",
+      "signature"
+    ],
+    "prompt_length": 1715,
+    "category": "4016 legal form of organisations"
+  }
+}

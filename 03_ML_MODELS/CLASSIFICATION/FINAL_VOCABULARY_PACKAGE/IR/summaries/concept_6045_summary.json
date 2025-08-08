@@ -1,0 +1,63 @@
+{
+  "concept_id": "6045",
+  "concept_data": {
+    "title": "fossil fuel",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fossil fuel\" is fundamental within EU energy policy, as it encompasses primary energy sources such as oil and natural gas that are vital for electricity production. The reliance on fossil fuels can cause disruptions in energy supplies, particularly during crises that arise unexpectedly, necessitating adequate stocks to maintain continuous power. Legal frameworks obliging member states to reinforce energy security aim to alleviate shortages and ensure the existence of useful energy resources. In the wake of modern energy demands, the EU seeks to transition towards sustainable alternatives while considering the implications of fossil fuel dependency on society and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:22:40.477549",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 29,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 29,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1630.5916666666667
+    },
+    "related_words": [
+      "interruptions",
+      "unexpectedly",
+      "keeps",
+      "fossil",
+      "shortages",
+      "obliging",
+      "crises",
+      "thermal",
+      "oblige",
+      "arises",
+      "necessitate",
+      "wake",
+      "modern",
+      "stations",
+      "alleviate",
+      "permanently",
+      "vital",
+      "electricity",
+      "fuel",
+      "possession",
+      "reinforce",
+      "regardless",
+      "disruption",
+      "premises",
+      "society",
+      "useful",
+      "arise",
+      "building",
+      "primary",
+      "occur"
+    ],
+    "prompt_length": 1656,
+    "category": "6606 energy policy"
+  }
+}

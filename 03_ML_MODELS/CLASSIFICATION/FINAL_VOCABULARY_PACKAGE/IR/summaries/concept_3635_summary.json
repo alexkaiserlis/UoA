@@ -1,0 +1,63 @@
+{
+  "concept_id": "3635",
+  "concept_data": {
+    "title": "product liability",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "producer's liability",
+    "relation_type": "USE"
+  },
+  "summary": "Product liability, often referred to as \"producer's liability,\" is a crucial aspect of EU civil law that addresses the responsibility of producers for defective products. This legal framework mandates that manufacturers ensure their goods, such as precast concrete elements or waterproofing membranes, are safe and free from faults. In cases where products, including appliances or building materials like gypsum and geotextiles, cause harm, the apportionment of liability becomes an onerous task. The EU's regulatory imperatives require rigorous testing and attestation of product safety, with producers held accountable for any dangers posed by their goods. This includes evaluating the performance of composite materials, such as aerated concrete or translucent glass, ensuring they meet safety standards. The rapporteur's role in monitoring compliance is vital, as it helps in fighting against defective products that could endanger workplace safety or consumer health.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:07.547053",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 138,
+    "vocabulary_stats": {
+      "total_related_words": 387,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 953,
+      "selected_avg_freq": 412.23333333333335
+    },
+    "related_words": [
+      "concise",
+      "technicality",
+      "precast",
+      "autoclaved",
+      "shutters",
+      "gates",
+      "translucent",
+      "waterproofing",
+      "geotextiles",
+      "imperatives",
+      "blinds",
+      "gypsum",
+      "responsability",
+      "undistorted",
+      "adhesives",
+      "membranes",
+      "aggregates",
+      "fault",
+      "windows",
+      "roof",
+      "defective",
+      "workplace",
+      "beams",
+      "doors",
+      "kits",
+      "aerated",
+      "monitors",
+      "columns",
+      "hardware",
+      "apportionment"
+    ],
+    "prompt_length": 1721,
+    "category": "1211 civil law"
+  }
+}

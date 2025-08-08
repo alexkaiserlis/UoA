@@ -1,0 +1,63 @@
+{
+  "concept_id": "4499",
+  "concept_data": {
+    "title": "Union transit procedure",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "Union transit",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Union transit procedure,\" also referred to as \"Union transit,\" is a regulatory framework within the EU's 2011 tariff policy aimed at simplifying the movement of goods across member states. This procedure facilitates the transfrontier exchange of goods, minimizing delays at crossings and alleviating the administrative burden on traders. By utilizing the EORI system, businesses can streamline their operations, ensuring compliance while avoiding misrepresentation of goods. The procedure encompasses various elements, including carnets and stamps, which are essential for the procession of goods. Simplifications enacted under this framework yield significant benefits, enhancing efficiency in trade and fostering harmonizing practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:16:02.879570",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 960,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 264,
+      "selected_avg_freq": 124.12
+    },
+    "related_words": [
+      "eliminations",
+      "memo",
+      "iers",
+      "procession",
+      "misrepresentation",
+      "impressed",
+      "commity",
+      "fntdef",
+      "exhange",
+      "eori",
+      "citations",
+      "asks",
+      "alleviation",
+      "ata",
+      "abbreviations",
+      "ecopoints",
+      "attenuate",
+      "conjuction",
+      "forbid",
+      "ans",
+      "carnet",
+      "curd",
+      "carnets",
+      "attending",
+      "dispense",
+      "harmonizing",
+      "suppressed",
+      "tir",
+      "sooner",
+      "crossings"
+    ],
+    "prompt_length": 1700,
+    "category": "2011 tariff policy"
+  }
+}

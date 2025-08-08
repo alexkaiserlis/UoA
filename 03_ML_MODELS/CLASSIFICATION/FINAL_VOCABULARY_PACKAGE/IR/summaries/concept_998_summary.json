@@ -1,0 +1,63 @@
+{
+  "concept_id": "998",
+  "concept_data": {
+    "title": "subsidiary company",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "subsidiary",
+    "relation_type": "USE"
+  },
+  "summary": "A \"subsidiary company,\" often referred to simply as a \"subsidiary,\" is a business organization controlled by a parent company, which holds a significant portion of its shares. In the EU legal context, subsidiaries are crucial for multinational corporations, allowing for efficient management of operations across member states. The relationship between parent and subsidiary can lead to complex regulatory scenarios, particularly concerning directorship and tax implications for taxpayers. Issues may arise, such as mismatches in compliance or abusive practices that could expel a subsidiary from a market. Understanding the dynamics of subsidiaries is essential for stakeholders, including bankers and charterers, navigating the intricacies of EU law.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:59:00.959280",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1183,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 123,
+      "selected_avg_freq": 54.28666666666667
+    },
+    "related_words": [
+      "biffex",
+      "anderson",
+      "servieces",
+      "coley",
+      "harper",
+      "lynch",
+      "fenner",
+      "fixture",
+      "dirty",
+      "intex",
+      "bergen",
+      "slackened",
+      "victuallers",
+      "victualler",
+      "consumable",
+      "pierce",
+      "appellant",
+      "zoom",
+      "investeringspremieregeling",
+      "merrill",
+      "embassies",
+      "whiskies",
+      "mismatches",
+      "charterers",
+      "apt",
+      "suppose",
+      "staatsblad",
+      "taxpayer",
+      "directorship",
+      "expel"
+    ],
+    "prompt_length": 1697,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1971",
+  "concept_data": {
+    "title": "payment card",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "electronic money",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"payment card\" redirects to \"electronic money,\" encompassing various financial instruments used for transactions. Payment cards, including SEPA-compliant SCT and SDD formats, facilitate cashless payments for corporates and SMEs. The migration to electronic money systems has faced challenges, such as legacy bottlenecks and delays in compliance. Administrations must refrain from postponing necessary updates to ensure a smooth transition for clients and merchants. Unique expectations arise as providers track incoming debits and credits, while software must be adapted to avoid confusion. The pace of migration is critical to realise a compliant financial ecosystem, addressing potential discontinuities and ensuring that all stakeholders, including vendors and treasury departments, are adequately prepared.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:18:05.312244",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 319,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1085,
+      "selected_avg_freq": 529.06
+    },
+    "related_words": [
+      "sepa",
+      "sct",
+      "sdd",
+      "iban",
+      "scts",
+      "sdds",
+      "corporates",
+      "migrated",
+      "debits",
+      "grandfathering",
+      "vendors",
+      "debit",
+      "discontinuity",
+      "bottlenecks",
+      "legacy",
+      "realise",
+      "incoming",
+      "merchants",
+      "migrate",
+      "lagging",
+      "ecofin",
+      "postponing",
+      "clients",
+      "pace",
+      "treasury",
+      "denominated",
+      "alongside",
+      "software",
+      "stress",
+      "track"
+    ],
+    "prompt_length": 1676,
+    "category": "2411 monetary economics"
+  }
+}

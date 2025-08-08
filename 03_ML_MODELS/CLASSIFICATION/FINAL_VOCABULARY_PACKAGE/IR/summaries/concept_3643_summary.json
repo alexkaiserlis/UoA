@@ -1,0 +1,63 @@
+{
+  "concept_id": "3643",
+  "concept_data": {
+    "title": "latent defect",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "defective product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"latent defect,\" commonly referred to as a \"defective product,\" pertains to flaws that are not immediately apparent and can intermittently affect product safety and functionality. Such defects may lead to significant implications under consumer protection laws, particularly regarding hygiene and safety standards. Regulatory frameworks, like RAPEX, aim to address these issues by ensuring that defective products are impounded and removed from the market. Inspectors may utilize ergonomics and technicality assessments to evaluate products, ensuring they meet safety imperatives. The role of agencies, such as the Agència Catalana de Consum, is crucial in monitoring and enforcing compliance, protecting consumers from undistorted risks associated with defective items.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:01:01.373029",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 553,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 352,
+      "selected_avg_freq": 110.80666666666667
+    },
+    "related_words": [
+      "intermittently",
+      "brigade",
+      "fha",
+      "fhb",
+      "fsms",
+      "rossauer",
+      "rossau",
+      "seifersbach",
+      "lanyards",
+      "dekra",
+      "exam",
+      "lightness",
+      "earplugs",
+      "climax",
+      "polígono",
+      "llobregat",
+      "parets",
+      "medios",
+      "higiene",
+      "trabajo",
+      "plugs",
+      "agència",
+      "catalana",
+      "consum",
+      "impounded",
+      "dietrich",
+      "technicality",
+      "valles",
+      "mollet",
+      "bhsr"
+    ],
+    "prompt_length": 1700,
+    "category": "2026 consumption"
+  }
+}

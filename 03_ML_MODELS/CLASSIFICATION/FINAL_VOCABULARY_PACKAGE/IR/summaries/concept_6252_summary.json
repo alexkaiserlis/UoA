@@ -1,0 +1,63 @@
+{
+  "concept_id": "6252",
+  "concept_data": {
+    "title": "?land Islands",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "?land",
+    "relation_type": "USE"
+  },
+  "summary": "The \"?land Islands,\" commonly referred to as \"Åland,\" represent a unique geographical and political entity within the EU framework, situated in the Baltic Sea. This archipelago is notable for its isolation and distinct cultural identity, which influences both regional governance and EU regulatory perspectives. Legal documents often address the islands' status concerning migration and additionality in funding allocations, particularly under the European Regional Development Fund (ERDF). The islands are also relevant in discussions about notifiable diseases affecting bees, such as varroosis, where ectoparasitic mites infest hives. Recognising the islands' geographical significance, the EU aims to confirm preconditions for sustainable development while addressing the potential spread of infections across the mainland.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:44:05.589538",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 310,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1246,
+      "selected_avg_freq": 594.12
+    },
+    "related_words": [
+      "bothnia",
+      "hatched",
+      "varroosis",
+      "ectoparasitic",
+      "varroasis",
+      "mites",
+      "varroa",
+      "åland",
+      "attendants",
+      "brood",
+      "queen",
+      "hives",
+      "capped",
+      "fly",
+      "infested",
+      "preconditions",
+      "notifiable",
+      "bee",
+      "gulf",
+      "spreads",
+      "genus",
+      "bees",
+      "geographically",
+      "honey",
+      "additionality",
+      "indexed",
+      "mainland",
+      "traces",
+      "ova",
+      "embryos"
+    ],
+    "prompt_length": 1664,
+    "category": "7236 political geography"
+  }
+}

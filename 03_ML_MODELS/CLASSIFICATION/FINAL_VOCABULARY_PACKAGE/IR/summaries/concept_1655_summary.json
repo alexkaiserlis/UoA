@@ -1,0 +1,63 @@
+{
+  "concept_id": "1655",
+  "concept_data": {
+    "title": "transport lines",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transport lines\" within the EU regulatory framework pertains to the organization of transport routes that facilitate cargo shipment across various distances. These lines are crucial for connecting ports and ensuring efficient freight movement, thereby addressing issues of inequality among shipping operators. The EU aims to upgrade these transport lines periodically, inviting shipowners to participate in a modelled regime that promotes uniformity and reduces constraints. This initiative anticipates the need for constant oversight to avoid prejudicial practices that may penalise certain operators. By associating new routes with existing ones, the EU seeks to enhance the overall efficiency of transport lines while observing the intent to divert illogical shipping patterns.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:30.424423",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 360,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 998,
+      "selected_avg_freq": 484.1933333333333
+    },
+    "related_words": [
+      "aides",
+      "faveur",
+      "lancement",
+      "nouvelles",
+      "lignes",
+      "courte",
+      "illogical",
+      "plies",
+      "raison",
+      "être",
+      "opposes",
+      "diverting",
+      "régime",
+      "penalise",
+      "neighbours",
+      "polo",
+      "marco",
+      "inequality",
+      "modelled",
+      "constraint",
+      "repetition",
+      "anticipate",
+      "associating",
+      "accepts",
+      "overview",
+      "connecting",
+      "prejudicial",
+      "shipowners",
+      "expressions",
+      "commercially"
+    ],
+    "prompt_length": 1668,
+    "category": "4811 organisation of transport"
+  }
+}

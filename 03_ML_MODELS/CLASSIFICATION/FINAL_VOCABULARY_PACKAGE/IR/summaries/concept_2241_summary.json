@@ -1,0 +1,63 @@
+{
+  "concept_id": "2241",
+  "concept_data": {
+    "title": "purchasing power parity",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Purchasing power parity (PPP) is a statistical concept used in national accounts to establish price parities across different economies. It defines a method for calculating the relative value of currencies based on the cost of a specified basket of goods and services. In the context of EU legal and regulatory frameworks, PPP is essential for the validation and dissemination of economic data, ensuring that reports adhere to common standards. The European Parliament and relevant committees implement measures to assess purchasing power, providing necessary information for further analysis. This system enhances the relevance and quality of economic reporting, facilitating informed decision-making within the EEA.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:23.532362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 55,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 55,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2296.35593220339
+    },
+    "related_words": [
+      "parities",
+      "validation",
+      "dissemination",
+      "purchasing",
+      "survey",
+      "reporting",
+      "calculation",
+      "reports",
+      "power",
+      "define",
+      "structure",
+      "price",
+      "section",
+      "statistical",
+      "establishes",
+      "basic",
+      "standards",
+      "quality",
+      "assessment",
+      "minimum",
+      "results",
+      "specified",
+      "criteria",
+      "control",
+      "relevance",
+      "eea",
+      "provision",
+      "further",
+      "used",
+      "requirements"
+    ],
+    "prompt_length": 1685,
+    "category": "1626 national accounts"
+  }
+}

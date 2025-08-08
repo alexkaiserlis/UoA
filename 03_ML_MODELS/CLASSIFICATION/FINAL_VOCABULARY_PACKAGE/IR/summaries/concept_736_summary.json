@@ -1,0 +1,63 @@
+{
+  "concept_id": "736",
+  "concept_data": {
+    "title": "floating-rate loan",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "borrowing",
+    "relation_type": "USE"
+  },
+  "summary": "A \"floating-rate loan,\" often redirected to the term \"borrowing,\" is a financial instrument characterized by variable interest rates that adjust periodically. In the context of EU legal and regulatory frameworks, these loans are crucial for mobilizing capital for infrastructures, empowering borrowers to realize their projects. Financial institutions syndicate these loans to manage risks associated with outstanding borrowings. The variable nature of interest rates means that borrowers ought to be aware of the potential for acute financial disparities, especially during changing economic conditions. This lending mechanism stimulates economic growth by providing repayable funds that can be directed towards downstream investments, thereby supporting a prosperous and harmonious market environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:37:44.526189",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 359,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1024,
+      "selected_avg_freq": 531.2533333333333
+    },
+    "related_words": [
+      "syndicate",
+      "worthiness",
+      "prosperous",
+      "reprocessing",
+      "mobilizing",
+      "borrow",
+      "realise",
+      "dollars",
+      "ems",
+      "borrowings",
+      "repayable",
+      "lend",
+      "merge",
+      "empowering",
+      "borrowing",
+      "develops",
+      "therefor",
+      "proceeds",
+      "downstream",
+      "stimulating",
+      "acute",
+      "gravity",
+      "prevail",
+      "tranche",
+      "reaffirmed",
+      "ought",
+      "infrastructures",
+      "orderly",
+      "experiencing",
+      "unemployment"
+    ],
+    "prompt_length": 1749,
+    "category": "2416 financial institutions and credit"
+  }
+}

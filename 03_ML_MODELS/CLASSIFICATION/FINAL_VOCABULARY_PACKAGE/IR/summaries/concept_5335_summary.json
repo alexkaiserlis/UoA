@@ -1,0 +1,63 @@
+{
+  "concept_id": "5335",
+  "concept_data": {
+    "title": "military intervention",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Military intervention, within the context of EU legal and regulatory frameworks, refers to the deployment of armed forces to address international security crises, such as those observed in Bunia or Ituri. The EU's Common Security and Defence Policy (CSDP) facilitates missions like MINURCAT and SFOR, aimed at stabilizing regions through unimpeded humanitarian access and deterring conflict. Operations are often coordinated with entities like MONUC and OCHA, ensuring comprehensive tasking. Notable figures, such as Lieutenant Shirreff and Eduardo Villalain, exemplify leadership in these efforts. The EU resolutely engages in international cooperation, exemplified by the contributions of nations like Spain and Italy, enhancing collective security and fostering peace.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:43:30.945679",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 717,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 99,
+      "selected_avg_freq": 31.786666666666665
+    },
+    "related_words": [
+      "sofa",
+      "bunia",
+      "ifor",
+      "mccoll",
+      "trajkovski",
+      "zamarripa",
+      "jugel",
+      "battle",
+      "minurcat",
+      "rmcb",
+      "villalaín",
+      "stefano",
+      "castagnotto",
+      "ciro",
+      "cocozza",
+      "witthauer",
+      "villalain",
+      "reith",
+      "shirreff",
+      "howes",
+      "unimpeded",
+      "resolutely",
+      "ocha",
+      "bair",
+      "thörnqvist",
+      "coindreau",
+      "monuc",
+      "lieutenant",
+      "silvestre",
+      "sfor"
+    ],
+    "prompt_length": 1637,
+    "category": "0816 international security"
+  }
+}

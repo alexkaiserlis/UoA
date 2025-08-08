@@ -1,0 +1,63 @@
+{
+  "concept_id": "6703",
+  "concept_data": {
+    "title": "nuclear research",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Nuclear research\" within the EU legal and regulatory framework encompasses a broad array of activities aimed at advancing the sciences of nuclear physics and fusion. Institutions like CERN and the Joint Research Centre (JRC) play irreplaceable roles in this domain, conducting exploratory studies on isotopes and reactor technologies. The European Commission emphasizes the appropriateness of funding for projects such as ITER, which aims to demonstrate fusion capabilities. Regulatory sessions often involve trilogue discussions among governors to consolidate policies that address safety and operational standards for reactors. The roadmap for nuclear research also includes therapeutic modalities and diagnostic applications, ensuring that advancements benefit broader societal needs.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:49.894626",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 391,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 402.23333333333335
+    },
+    "related_words": [
+      "cern",
+      "petten",
+      "operable",
+      "hfr",
+      "cce",
+      "trilogue",
+      "flux",
+      "irreplaceable",
+      "isotopes",
+      "physics",
+      "iter",
+      "sessions",
+      "reactors",
+      "capped",
+      "era",
+      "reactor",
+      "attend",
+      "sciences",
+      "jrc",
+      "exploratory",
+      "century",
+      "particle",
+      "fusion",
+      "incur",
+      "observer",
+      "governors",
+      "therapeutic",
+      "floor",
+      "solving",
+      "upgrade"
+    ],
+    "prompt_length": 1672,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

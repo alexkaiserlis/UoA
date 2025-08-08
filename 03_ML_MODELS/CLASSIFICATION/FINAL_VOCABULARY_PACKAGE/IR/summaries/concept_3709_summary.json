@@ -1,0 +1,63 @@
+{
+  "concept_id": "3709",
+  "concept_data": {
+    "title": "United Nations Economic and Social Council",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "Ecosoc",
+    "relation_type": "USE"
+  },
+  "summary": "The United Nations Economic and Social Council (Ecosoc) plays a pivotal role in fostering international cooperation and addressing global issues, including those related to economic development and social progress. In the context of EU legal and regulatory frameworks, Ecosoc's influence extends to standardised prescriptions for member states, facilitating the reciprocal acceptance of regulations. This includes the regulation of vehicles and components, such as tyres and braking devices, which must abide by established safety standards. Ecosoc also addresses barriers to trade, aiming to abolish fraudulent practices and ensure equitable access to resources. Its vision encompasses the liquefied gas sector, where drivers of change are essential for sustainable development. Through Ecosoc, the EU engages in dialogues that can disrupt traditional paradigms, ensuring that all stakeholders, including displaced populations and those facing disagreement, are considered in the construction of a more inclusive global economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:57:28.387737",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1943,
+      "selected_avg_freq": 896.8466666666667
+    },
+    "related_words": [
+      "retreaded",
+      "partitioning",
+      "pneumatic",
+      "carnet",
+      "tir",
+      "disagreement",
+      "braking",
+      "displaced",
+      "liquefied",
+      "prescriptions",
+      "tyres",
+      "fuelled",
+      "luggage",
+      "wheeled",
+      "drivers",
+      "vision",
+      "ece",
+      "cars",
+      "abide",
+      "approvals",
+      "disrupt",
+      "fraudulent",
+      "evasion",
+      "trailers",
+      "vote",
+      "driver",
+      "fitted",
+      "passengers",
+      "standardised",
+      "petroleum"
+    ],
+    "prompt_length": 1716,
+    "category": "7606 United Nations"
+  }
+}

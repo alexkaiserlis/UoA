@@ -1,0 +1,63 @@
+{
+  "concept_id": "2827",
+  "concept_data": {
+    "title": "protection of plants",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "protection of plant life",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"protection of plant life,\" a redirect from \"protection of plants,\" encompasses EU legal frameworks aimed at safeguarding biodiversity and preventing the decline of various plant species, including rare hostplants like photinia and rhododendron. Regulatory measures often transcend national boundaries, aligning with international agreements such as the Ramsar Convention. The EU's environmental policy addresses threats from pests like heliothis and diseases caused by pathogens such as oxysporum and tilletia, ensuring the resilience of ecosystems. Specific legislation may target invasive species like trachemys scripta elegans and promote sustainable practices in regions like Koroška and Grisons, ultimately fostering a balanced coexistence with nature.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:01:27.296339",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1883,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 6.806666666666667
+    },
+    "related_words": [
+      "acnat",
+      "transcend",
+      "ramsar",
+      "amauromyza",
+      "typographically",
+      "existiang",
+      "muricatum",
+      "trachemys",
+      "scripta",
+      "elegans",
+      "rana",
+      "catesbeiana",
+      "photinia",
+      "dcne",
+      "cardot",
+      "rhododendron",
+      "viburnum",
+      "simsii",
+      "heliothis",
+      "ibiza",
+      "koroška",
+      "notranjska",
+      "grisons",
+      "destructor",
+      "thorne",
+      "gladiolus",
+      "dipsaci",
+      "kuehn",
+      "filipjev",
+      "hostplants"
+    ],
+    "prompt_length": 1711,
+    "category": "5206 environmental policy"
+  }
+}

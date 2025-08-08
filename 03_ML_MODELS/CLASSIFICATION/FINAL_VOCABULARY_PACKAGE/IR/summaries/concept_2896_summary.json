@@ -1,0 +1,63 @@
+{
+  "concept_id": "2896",
+  "concept_data": {
+    "title": "research report",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"research report\" within the EU legal and regulatory framework refers to a comprehensive document that defines and analyzes various substances, including biocidal products, such as tetraborate and pentahydrate. These reports are crucial for informing the European Parliament and relevant authorities about the active substances placed on the market. They include corrected numbers and revised forms of data, ensuring accuracy in compliance with directives. Such reports are submitted according to specific timelines, often endorsed by member states like the Netherlands, and may include annexes detailing measures concerning the functioning of the European Economic Area (EEA). The relevance of these reports lies in their ability to provide informed opinions based on original texts and correcting any incorrect information, thereby facilitating effective regulatory action.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:23:36.521443",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2030.2203389830509
+    },
+    "related_words": [
+      "tetraborate",
+      "pentahydrate",
+      "disodium",
+      "cas",
+      "biocidal",
+      "incorrect",
+      "endorsed",
+      "correcting",
+      "numbers",
+      "substance",
+      "corrected",
+      "original",
+      "correct",
+      "defines",
+      "active",
+      "placing",
+      "revised",
+      "forms",
+      "netherlands",
+      "thereto",
+      "standing",
+      "informed",
+      "report",
+      "different",
+      "include",
+      "three",
+      "form",
+      "relevance",
+      "eea",
+      "subparagraph"
+    ],
+    "prompt_length": 1656,
+    "category": "3221 documentation"
+  }
+}

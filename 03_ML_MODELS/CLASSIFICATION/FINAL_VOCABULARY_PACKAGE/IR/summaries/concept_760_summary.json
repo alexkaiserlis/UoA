@@ -1,0 +1,63 @@
+{
+  "concept_id": "760",
+  "concept_data": {
+    "title": "third generation migrant",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": true,
+    "preferred_term": "child of migrant",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"third generation migrant,\" which redirects to \"child of migrant,\" refers to the descendants of migrants who have settled in a host country. In EU legal and regulatory contexts, this concept is crucial for addressing challenges related to demographic integration and educational welfare. These children often face barriers in accessing education and cultural integration, necessitating optional modules in teaching that consider their unique backgrounds. Eurostat data highlights the importance of analysing the variables affecting their reception and reintegration into society. The codification of policies aimed at these migrants is essential for fostering solidarity and ensuring their successful arrival and ongoing development within the host country.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:02:30.992303",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 239,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1812,
+      "selected_avg_freq": 775.5066666666667
+    },
+    "related_words": [
+      "tuition",
+      "descendants",
+      "tongue",
+      "mother",
+      "migrants",
+      "columns",
+      "migrant",
+      "teaching",
+      "domains",
+      "demographic",
+      "module",
+      "codification",
+      "hague",
+      "modules",
+      "thessaloniki",
+      "school",
+      "reception",
+      "directors",
+      "reintegration",
+      "variables",
+      "culture",
+      "analysing",
+      "barrier",
+      "explanatory",
+      "challenges",
+      "migration",
+      "solidarity",
+      "highlighted",
+      "addressing",
+      "optional"
+    ],
+    "prompt_length": 1725,
+    "category": "2811 migration"
+  }
+}

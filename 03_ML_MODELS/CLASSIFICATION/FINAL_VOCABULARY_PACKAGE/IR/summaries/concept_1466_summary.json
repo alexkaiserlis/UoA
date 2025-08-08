@@ -1,0 +1,63 @@
+{
+  "concept_id": "1466",
+  "concept_data": {
+    "title": "monetary integration",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Monetary integration within the EU context refers to the process of creating a unified monetary framework, primarily through the adoption of the euro as a common currency. This integration involves the establishment of the Eurosystem, which comprises central banks and financial institutions that collect and manage monetary statistics. The European Central Bank (ECB) plays a pivotal role, exercising powers to impose sanctions and ensure smooth operations across member states. This process requires timely preparation and cooperation among competent entities, including banks and credit institutions. The transitional phase for new members, such as Lithuania, necessitates adherence to minimum reserve requirements and the integration of national monetary policies into the overarching EU statute.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:58:56.850884",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 26,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1707.5243902439024
+    },
+    "related_words": [
+      "collects",
+      "eurosystem",
+      "branches",
+      "sheet",
+      "ecb",
+      "executive",
+      "reserves",
+      "implies",
+      "sanctions",
+      "disproportionate",
+      "statute",
+      "banks",
+      "agents",
+      "credit",
+      "assisted",
+      "creating",
+      "timely",
+      "reserve",
+      "entities",
+      "located",
+      "currency",
+      "impose",
+      "smooth",
+      "integration",
+      "monetary",
+      "euro",
+      "lithuania",
+      "statistics",
+      "burden",
+      "board"
+    ],
+    "prompt_length": 1670,
+    "category": "2406 monetary relations"
+  }
+}

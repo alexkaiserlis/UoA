@@ -1,0 +1,63 @@
+{
+  "concept_id": "2412",
+  "concept_data": {
+    "title": "fodder plant",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"fodder plant\" refers to a category of plant products essential for livestock nutrition. These plants, such as meadowgrass (poapratensis), foxtail (alopecurus), and various species like Arrhenatherum elatius and Trisetum flavescens, counteract nutritional deficiencies and support animal health. The regulation of fodder plants encompasses aspects like hardseededness and the prevention of wilting, ensuring quality standards for plantseed. Additionally, species like Dactilis glomerata and Trifomo are crucial in agricultural practices. The EU's focus on biodiversity includes promoting rare varieties like angustifolius and resupinatum, which enhance ecological balance in fodder production.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:01.791255",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 1509,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.126666666666667
+    },
+    "related_words": [
+      "counteracts",
+      "wilting",
+      "stalked",
+      "meadowgrass",
+      "poapratensis",
+      "foxtail",
+      "alopecurus",
+      "arrhenatherum",
+      "elatius",
+      "trisetum",
+      "flavescens",
+      "festulolium",
+      "dolcea",
+      "mocca",
+      "tur",
+      "asla",
+      "bopa",
+      "hera",
+      "angustifolius",
+      "resupinatum",
+      "uri",
+      "melora",
+      "barloft",
+      "idole",
+      "gandalf",
+      "horticulure",
+      "barata",
+      "plantseed",
+      "cuscuta",
+      "wintergreen"
+    ],
+    "prompt_length": 1638,
+    "category": "6006 plant product"
+  }
+}

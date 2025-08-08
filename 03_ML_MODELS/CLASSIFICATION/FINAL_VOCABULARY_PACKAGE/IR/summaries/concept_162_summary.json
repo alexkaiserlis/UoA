@@ -1,0 +1,63 @@
+{
+  "concept_id": "162",
+  "concept_data": {
+    "title": "male contraception",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "contraception",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"male contraception,\" classified under the broader term \"contraception,\" is relevant in EU legal and regulatory frameworks concerning family planning and reproductive rights. This classification is invoked to ensure uniform application of regulations across member states, particularly in relation to health goods and services. The term is described in statistical tables and codes that aid authorities in monitoring and analyzing trade in contraceptive products. The binding nature of these regulations adds clarity to the rights of individuals seeking access to contraceptive methods. In this context, the nomenclature and classification of male contraception are essential for the continued development of comprehensive family planning policies within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:24.391204",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 88,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 88,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2289.193181818182
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "codes",
+      "classification",
+      "accepted",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "section",
+      "statistical",
+      "code",
+      "rights",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods"
+    ],
+    "prompt_length": 1658,
+    "category": "2806 family"
+  }
+}

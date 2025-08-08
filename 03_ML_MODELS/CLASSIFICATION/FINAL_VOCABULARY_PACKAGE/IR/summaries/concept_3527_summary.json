@@ -1,0 +1,63 @@
+{
+  "concept_id": "3527",
+  "concept_data": {
+    "title": "temporary work",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "temporary employment",
+    "relation_type": "USE"
+  },
+  "summary": "Temporary work, often referred to as \"temporary employment\" in EU legal and regulatory contexts, involves arrangements where employers engage individuals for a limited duration to fill vacant positions or meet specific operational needs. This employment type may feature varied remuneration structures, including emoluments and weightings based on the role's complexity. In certain cases, temporary workers may be reappointed or serve as alternates in tribunals or courts, particularly in lengthy judicial processes. The cessation of temporary roles can lead to discussions on pensions and the requisite rights of workers. Overall, temporary employment serves as a flexible solution for employers while ensuring compliance with EU regulations regarding workers' rights and protections.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:02:31.113755",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 256,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1519,
+      "selected_avg_freq": 720.2133333333334
+    },
+    "related_words": [
+      "disablement",
+      "reappointed",
+      "remunerations",
+      "emoluments",
+      "attaching",
+      "judges",
+      "tribunal",
+      "fill",
+      "vacant",
+      "lengthy",
+      "judge",
+      "weightings",
+      "revisions",
+      "alternate",
+      "filled",
+      "partnerships",
+      "tend",
+      "seat",
+      "weighting",
+      "employers",
+      "pensions",
+      "servants",
+      "compromise",
+      "seats",
+      "courts",
+      "serving",
+      "avail",
+      "fallen",
+      "remuneration",
+      "specialised"
+    ],
+    "prompt_length": 1718,
+    "category": "4406 employment"
+  }
+}

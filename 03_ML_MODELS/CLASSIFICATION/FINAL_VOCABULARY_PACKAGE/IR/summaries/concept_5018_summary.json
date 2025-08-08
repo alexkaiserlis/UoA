@@ -1,0 +1,63 @@
+{
+  "concept_id": "5018",
+  "concept_data": {
+    "title": "spirituous beverage",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "alcoholic beverage",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"spirituous beverage\" redirects to \"alcoholic beverage,\" encompassing a variety of products characterized by their alcohol content. These beverages, including jenever, perry, and kölsch, are subject to strict regulations regarding their composition and labeling. The characteristics of these drinks can vary widely, from the creamy texture of certain cocktails to the odoriferous notes found in aromatic spirits. Regulatory frameworks ensure that beverages are free from impure substances, such as tartrazine and dicarbonate, while promoting consumer safety. Additionally, the prepackaged nature of these products often necessitates clear labeling to inform consumers about their pathophysiological effects, particularly concerning hypercholesterolaemic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:54:07.511000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1764,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 51,
+      "selected_avg_freq": 23.133333333333333
+    },
+    "related_words": [
+      "odoriferous",
+      "clearest",
+      "stakliškės",
+      "charanda",
+      "sotol",
+      "dicarbonate",
+      "pathophysiological",
+      "alchohol",
+      "carcateristics",
+      "charecteristics",
+      "obteined",
+      "nucleating",
+      "supercooling",
+      "hypercholesterolaemic",
+      "cocktail",
+      "impure",
+      "colognes",
+      "brněnské",
+      "starobrněnské",
+      "vruchtenjenever",
+      "wacholder",
+      "jenever",
+      "bubbles",
+      "dissipate",
+      "creamier",
+      "bierbrand",
+      "biă",
+      "eggshells",
+      "kölsch",
+      "alginate"
+    ],
+    "prompt_length": 1756,
+    "category": "6021 beverages and sugar"
+  }
+}

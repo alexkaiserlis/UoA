@@ -1,0 +1,63 @@
+{
+  "concept_id": "3075",
+  "concept_data": {
+    "title": "refugee camp",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "aid to refugees",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"refugee camp,\" categorized under EU cooperation policy, is redirected to \"aid to refugees,\" reflecting the EU's commitment to support uprooted individuals, including persecuted foreigners and stateless persons. These camps serve as temporary shelters for displaced populations, such as returnees from conflicts in regions like Yemen and Libya, while facilitating their reintegration into society. The EU collaborates with NGOs and international bodies like UNHCR and UNRWA to optimize resettlement processes, ensuring decent living conditions and subsistence for those affected by wars. The legal framework aims to stabilise these communities, promoting peaceful coexistence among diverse nationalities and cultures.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:38.604535",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 725,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 350,
+      "selected_avg_freq": 149.72666666666666
+    },
+    "related_words": [
+      "reintegrate",
+      "uprooted",
+      "unhcr",
+      "ceas",
+      "persecuted",
+      "foreigner",
+      "integrates",
+      "displacements",
+      "nationalities",
+      "demobilized",
+      "resettled",
+      "resettle",
+      "curriculum",
+      "wars",
+      "returnees",
+      "soldiers",
+      "ohr",
+      "programmable",
+      "palestinians",
+      "stateless",
+      "covenant",
+      "unrwa",
+      "refugee",
+      "solemnly",
+      "optimising",
+      "resettlement",
+      "edf",
+      "sufficiency",
+      "ngos",
+      "unmik"
+    ],
+    "prompt_length": 1710,
+    "category": "0811 cooperation policy"
+  }
+}

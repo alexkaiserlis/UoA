@@ -1,0 +1,63 @@
+{
+  "concept_id": "3365",
+  "concept_data": {
+    "title": "sickness expenses",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "health expenditure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sickness expenses,\" redirected to \"health expenditure,\" encompasses the financial resources allocated for healthcare services within the EU. This includes systematic collections of data on diseases, such as influenza and avian antigens, to facilitate effective reimbursement and combat public health challenges. Institutions like Eurostat and the OECD conduct audits and pilot campaigns to enhance comparability of health expenditure across member states. Metadata from questionnaires and observations help in formulating strategies to eradicate diseases. Financially, health expenditure is crucial for maintaining reserves and ensuring that healthcare systems can respond effectively to emerging health threats, thereby improving overall public health outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:06.104730",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 294,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 1498,
+      "selected_avg_freq": 767.2466666666667
+    },
+    "related_words": [
+      "collections",
+      "metadata",
+      "antigens",
+      "healthcare",
+      "antigen",
+      "bottling",
+      "iraq",
+      "ante",
+      "vaccines",
+      "tranche",
+      "concepts",
+      "financially",
+      "conducting",
+      "influenza",
+      "formulation",
+      "mail",
+      "avian",
+      "eradicate",
+      "indents",
+      "discussed",
+      "preceded",
+      "manual",
+      "oecd",
+      "helping",
+      "campaign",
+      "foot",
+      "eurostat",
+      "questionnaire",
+      "audit",
+      "mouth"
+    ],
+    "prompt_length": 1709,
+    "category": "2841 health"
+  }
+}

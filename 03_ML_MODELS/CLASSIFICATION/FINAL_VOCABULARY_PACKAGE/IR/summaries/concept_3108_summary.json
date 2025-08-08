@@ -1,0 +1,63 @@
+{
+  "concept_id": "3108",
+  "concept_data": {
+    "title": "transport quota",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transport quota\" within EU transport policy refers to the enforceable limits set on the number of permits allocated to carriers for the carriage of goods across frontiers. These quotas are designed to optimize the utilization of vehicles, such as tractors and combinations, while addressing obstacles encountered in the haulage sector. By distributing authorizations in a linear manner, the system ensures that variations in demand are adequately met. The abolition of previous restrictions has revealed advantages in efficiency, allowing for a more dynamic changeover in transit operations. Whenever necessary, adjustments are made to resolve issues and overcome cumulative challenges in the transport zone.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:29:35.435262",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 295,
+      "requested_words": 150,
+      "min_frequency_found": 49,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 49,
+      "selected_max_freq": 1475,
+      "selected_avg_freq": 784.9
+    },
+    "related_words": [
+      "enforceable",
+      "stamp",
+      "haulage",
+      "tractors",
+      "combinations",
+      "distribute",
+      "worded",
+      "linear",
+      "changeover",
+      "coupled",
+      "cumulative",
+      "carriers",
+      "calling",
+      "disturb",
+      "authorizations",
+      "overcome",
+      "sheet",
+      "resolve",
+      "administering",
+      "variations",
+      "carriage",
+      "founded",
+      "optimum",
+      "whenever",
+      "inadequate",
+      "extra",
+      "frontiers",
+      "obstacles",
+      "encountered",
+      "record"
+    ],
+    "prompt_length": 1694,
+    "category": "4806 transport policy"
+  }
+}

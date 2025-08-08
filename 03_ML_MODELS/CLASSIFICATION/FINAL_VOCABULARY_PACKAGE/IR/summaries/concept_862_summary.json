@@ -1,0 +1,63 @@
+{
+  "concept_id": "862",
+  "concept_data": {
+    "title": "aid from the European Union",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "EU aid",
+    "relation_type": "USE"
+  },
+  "summary": "\"EU aid,\" as defined within the context of economic policy regulations, encompasses various forms of financial assistance provided by the European Union to member states and third countries. This aid is often governed by specific regulations that establish requirements for concessionality and the circumstances under which funds are allocated. For instance, the HIPC initiative exemplifies a framework aimed at alleviating debt burdens, while the Dayton Accords highlight the EU's role in post-conflict reconstruction. The EU's toolkit for aid delivery includes mechanisms for ensuring that uncommitted funds are repurposed effectively. Additionally, the regulations may necessitate the deprogramming of unserviceable projects, thereby optimizing resource allocation and fostering economic growth. The overarching sentiment is to enhance stability and promote sustainable development across regions, ensuring that pledges made are fulfilled, even in challenging contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:18.556407",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 5527,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.653333333333333
+    },
+    "related_words": [
+      "regulatons",
+      "hipc",
+      "deprogrammed",
+      "dayton",
+      "bretton",
+      "articlar",
+      "circumtances",
+      "uncommitted",
+      "hăšrit",
+      "whetever",
+      "aternative",
+      "bimodal",
+      "apportions",
+      "downgeneral",
+      "densify",
+      "sentiment",
+      "unserviceable",
+      "pfp",
+      "epca",
+      "overhang",
+      "dummy",
+      "ditches",
+      "computersed",
+      "reuqirements",
+      "gurantee",
+      "decimated",
+      "economizing",
+      "delivereis",
+      "perpetuation",
+      "wuerttemburg"
+    ],
+    "prompt_length": 1741,
+    "category": "1606 economic policy"
+  }
+}

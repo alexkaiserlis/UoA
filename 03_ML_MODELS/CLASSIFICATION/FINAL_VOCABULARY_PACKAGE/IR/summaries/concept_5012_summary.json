@@ -1,0 +1,63 @@
+{
+  "concept_id": "5012",
+  "concept_data": {
+    "title": "steer",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "beef animal",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"steer\" redirects to the preferred term \"beef animal,\" encompassing various bovine classifications within EU regulations on agricultural production. This term is essential for the precise definitions and labelling of meat products, ensuring authenticity and verifiable quality standards. The EU allocates specific parameters for the registration of beef, including designations like PDO (Protected Designation of Origin) and multi-country classifications, such as those from Argentina and Brazil. Compliance with these regulations avoids confusion in the market, particularly regarding chilled and frozen meat. The framework empowers stakeholders to issue auditable documentation, addressing objections and disturbances in trade while maintaining the integrity of foodstuffs.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:35.980038",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 194,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2740,
+      "selected_avg_freq": 1183.8733333333332
+    },
+    "related_words": [
+      "weideochse",
+      "vom",
+      "limpurger",
+      "rind",
+      "auditable",
+      "skirt",
+      "buffalo",
+      "verifiable",
+      "allocates",
+      "thin",
+      "pdo",
+      "authenticity",
+      "wake",
+      "qualification",
+      "argentina",
+      "subdivisions",
+      "chilled",
+      "confusion",
+      "disturbances",
+      "brazil",
+      "parameters",
+      "allocate",
+      "designations",
+      "multi",
+      "gatt",
+      "uruguay",
+      "frozen",
+      "schedule",
+      "concessions",
+      "objection"
+    ],
+    "prompt_length": 1700,
+    "category": "5626 means of agricultural production"
+  }
+}

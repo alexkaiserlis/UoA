@@ -1,0 +1,63 @@
+{
+  "concept_id": "4529",
+  "concept_data": {
+    "title": "carriage for hire or reward",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"carriage for hire or reward\" pertains to the organization of transport within the EU, specifically focusing on the haulage sector. It constitutes an essential aspect of internal trade, where vehicles are employed to transport goods for a fee. This arrangement is uniformly regulated to ensure compliance with established tariffs and rates, which may vary based on the type of transport and the authorization granted. The EU stipulates that operators must monitor trends and decide on the best practices suited to their specific situation. Exempted categories may exist, but the overarching objective is to create a framework that facilitates free movement while fixing necessary quotas and standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:40.803644",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2054.4105263157894
+    },
+    "related_words": [
+      "lowtonnage",
+      "reward",
+      "hire",
+      "haulage",
+      "uniformly",
+      "carriage",
+      "aspect",
+      "suited",
+      "amongst",
+      "road",
+      "vehicles",
+      "trends",
+      "exempted",
+      "exclusively",
+      "expires",
+      "authorization",
+      "others",
+      "quota",
+      "best",
+      "creation",
+      "monitor",
+      "stipulates",
+      "desirable",
+      "subsequent",
+      "fixing",
+      "types",
+      "decide",
+      "tariff",
+      "rates",
+      "constitutes"
+    ],
+    "prompt_length": 1668,
+    "category": "4811 organisation of transport"
+  }
+}

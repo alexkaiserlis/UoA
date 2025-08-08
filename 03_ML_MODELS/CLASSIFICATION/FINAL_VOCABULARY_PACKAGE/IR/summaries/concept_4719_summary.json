@@ -1,0 +1,63 @@
+{
+  "concept_id": "4719",
+  "concept_data": {
+    "title": "bottled wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"bottled wine\" within EU legal and regulatory frameworks encompasses various provisions governing the marketing and trade of prepackaged wines. Traditionally, bottled wine is subject to harmonization efforts that aim to eliminate barriers to trade, fostering a cohesive market. Regulations authorize the returnable nature of bottles, allowing for environmentally sustainable practices. The EU also sets nominal capacities for bottled wines, typically measured in litres, to ensure consistency across member states. Notwithstanding these standards, confusion may arise regarding the classification of wines, particularly with landwein and spirits. The abolition of certain trade barriers has facilitated exchanges, permitting a broader range of wines to be marketed across the EU, ultimately enhancing consumer habits and preferences.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:00.631943",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 232,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1971,
+      "selected_avg_freq": 996.7
+    },
+    "related_words": [
+      "tdc",
+      "minds",
+      "returnable",
+      "defers",
+      "landwein",
+      "prepackaged",
+      "bottles",
+      "ranges",
+      "habits",
+      "premature",
+      "liquids",
+      "litres",
+      "litre",
+      "spirits",
+      "dispose",
+      "expense",
+      "barrier",
+      "nominal",
+      "nonetheless",
+      "foster",
+      "observance",
+      "leave",
+      "confusion",
+      "carriage",
+      "capacities",
+      "traditionally",
+      "austrian",
+      "harmonious",
+      "wines",
+      "prohibits"
+    ],
+    "prompt_length": 1671,
+    "category": "6021 beverages and sugar"
+  }
+}

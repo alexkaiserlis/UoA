@@ -1,0 +1,63 @@
+{
+  "concept_id": "2433",
+  "concept_data": {
+    "title": "weight and size",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"weight and size\" within the EU regulatory framework pertains to the metrological standards governing transport vehicles, particularly articulated trailers and their coupling mechanisms. These regulations ensure that hauliers adhere to specific weights and dimensions, which are crucial for the safety and efficiency of roads and bridges. The continuous monitoring of axle weights and dimensions facilitates the liberalization of transport services, encouraging the use of interchangeable trailers and refrigerated units. Moreover, these standards address noise levels and promote environmentally friendly practices. Compliance with these regulations is essential for drivers and councils, ensuring that transport remains economically viable and safe.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:00.522503",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 526,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 543,
+      "selected_avg_freq": 258.41333333333336
+    },
+    "related_words": [
+      "continously",
+      "inscriptions",
+      "trailer",
+      "touching",
+      "tractive",
+      "tes",
+      "hauliers",
+      "tandem",
+      "axles",
+      "axle",
+      "coupling",
+      "walls",
+      "reward",
+      "insulated",
+      "thick",
+      "articulated",
+      "trains",
+      "metrological",
+      "pallets",
+      "insulation",
+      "bridges",
+      "comfort",
+      "hired",
+      "hire",
+      "plate",
+      "usable",
+      "consonant",
+      "portions",
+      "plates",
+      "room"
+    ],
+    "prompt_length": 1675,
+    "category": "4811 organisation of transport"
+  }
+}

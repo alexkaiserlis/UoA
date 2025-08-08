@@ -1,0 +1,63 @@
+{
+  "concept_id": "1937",
+  "concept_data": {
+    "title": "live animal",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"live animal\" pertains to agricultural activity within EU legal and regulatory frameworks, encompassing various species, including hogs and fish, that are subject to specific itineraries for transport and unloading. Regulations enforce biocontainment measures to prevent disease transmission, addressing issues such as parasitic infections and exanthema. Compliance involves serologically and virologically testing animals, ensuring supplies meet health standards. The toolkit for managing these processes includes disinfestation protocols and retrieval methods for affected animals. Communities across the EU, from Peterhead to Genève, must adhere to these regulations to maintain capacity and safeguard animal welfare, thereby promoting a sustainable agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:57.041498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2778,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 10.786666666666667
+    },
+    "related_words": [
+      "peterhead",
+      "itineraries",
+      "filming",
+      "suupplies",
+      "overcharged",
+      "haw",
+      "toolkit",
+      "factorial",
+      "biocontainment",
+      "disinfestation",
+      "disaese",
+      "kardgali",
+      "ocur",
+      "capasity",
+      "serologicaly",
+      "virologicaly",
+      "inforced",
+      "promotants",
+      "exanthema",
+      "kilos",
+      "layng",
+      "gyrodactylosis",
+      "unload",
+      "parasitic",
+      "retrieval",
+      "hogs",
+      "langoat",
+      "konstanz",
+      "weil",
+      "rhein"
+    ],
+    "prompt_length": 1663,
+    "category": "5631 agricultural activity"
+  }
+}

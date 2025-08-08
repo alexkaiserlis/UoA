@@ -1,0 +1,63 @@
+{
+  "concept_id": "5890",
+  "concept_data": {
+    "title": "earthquake",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"earthquake\" within EU legal and regulatory frameworks pertains to the deterioration of the environment and the ensuing disasters that can devastate regions, such as Kalamata in Messinia. Earthquakes strike towns, severely impacting the population and surroundings. The EU mobilises resources for disaster relief, seeking to efficiently distribute subsidies and loans to compensate victims. In the aftermath, interinstitutional cooperation is crucial for reconstruction efforts, ensuring that reliefs are suitably employed to offset the damage. The EU's solidarity mechanisms facilitate the quick mobilisation of funds, addressing the chargeable costs of recovery and supporting affected communities in their rebuilding efforts.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:36.951721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 192,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2639,
+      "selected_avg_freq": 1138.3866666666668
+    },
+    "related_words": [
+      "kalamata",
+      "messinia",
+      "devastated",
+      "nomos",
+      "earthquakes",
+      "stricken",
+      "surroundings",
+      "earthquake",
+      "reliefs",
+      "flooding",
+      "suitably",
+      "town",
+      "struck",
+      "disaster",
+      "victims",
+      "ensuing",
+      "disasters",
+      "reconstruction",
+      "mobilised",
+      "chargeable",
+      "importations",
+      "mobilise",
+      "billion",
+      "mobilisation",
+      "solidarity",
+      "seeking",
+      "relief",
+      "admitted",
+      "occurrence",
+      "hellenic"
+    ],
+    "prompt_length": 1714,
+    "category": "5216 deterioration of the environment"
+  }
+}

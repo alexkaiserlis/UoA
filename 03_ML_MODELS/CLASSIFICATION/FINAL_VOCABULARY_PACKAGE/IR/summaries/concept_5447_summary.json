@@ -1,0 +1,63 @@
+{
+  "concept_id": "5447",
+  "concept_data": {
+    "title": "lift",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"lift\" refers to devices designed for the vertical transportation of persons and goods within buildings and public works. These systems, which can be hydraulically or electrically operated, must comply with mandatory safety standards. Key components include gears, governors, and buffers that ensure safe operation and prevent overspeed incidents. The installation of lifts requires rigorous inspections and tests to meet harmonized regulations. Manufacturers are obligated to provide requisite documentation, including signs and markings, to facilitate safe handling and operation. The legal framework also addresses barriers and locking mechanisms to enhance user safety, ensuring that lifts operate freely and reliably within their designated columns.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:51:48.987661",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 191,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2931,
+      "selected_avg_freq": 1284.52
+    },
+    "related_words": [
+      "hydraulically",
+      "overspeed",
+      "applicances",
+      "buffers",
+      "locking",
+      "electro",
+      "lifts",
+      "electrically",
+      "doors",
+      "hydraulic",
+      "governors",
+      "gears",
+      "mechanical",
+      "appliances",
+      "lifting",
+      "landing",
+      "signs",
+      "approximate",
+      "marks",
+      "mutatis",
+      "mutandis",
+      "threaten",
+      "subdivision",
+      "freely",
+      "undergone",
+      "installation",
+      "expiring",
+      "adds",
+      "hinder",
+      "devices"
+    ],
+    "prompt_length": 1677,
+    "category": "6831 building and public works"
+  }
+}

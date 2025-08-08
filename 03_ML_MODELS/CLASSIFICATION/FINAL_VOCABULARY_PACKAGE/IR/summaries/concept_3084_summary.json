@@ -1,0 +1,63 @@
+{
+  "concept_id": "3084",
+  "concept_data": {
+    "title": "Walloon region (Belgium)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Walloon region (Belgium), a vital gremium within the EU, encompasses diverse landscapes and agricultural practices. Governed by the Wallonian government, it plays a crucial role in managing environmental frameworks, particularly concerning nitrate and phosphate input in groundwater. Legal instruments, such as arrêtés, modifiant regulations on manure and fertilisers, aim to ensure sustainable practices among horticulturists and arable farmers. The region's commitment to durable environmental stewardship is reflected in its initiatives for decreasing nitrogen uptake and improving grassland management. Additionally, the European Regional Development Fund (ERDF) and European Investment Bank (EIB) support projects enhancing the region's ecological perspectives and vulnerable sites.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:25:12.330934",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 410,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 971,
+      "selected_avg_freq": 456.2733333333333
+    },
+    "related_words": [
+      "gremium",
+      "wallonian",
+      "arrêté",
+      "février",
+      "modifiant",
+      "livre",
+      "constituant",
+      "qui",
+      "gestion",
+      "horticulturists",
+      "gouvernement",
+      "wallon",
+      "acreage",
+      "wallonne",
+      "concerne",
+      "wallonia",
+      "eau",
+      "azote",
+      "median",
+      "environnement",
+      "hainaut",
+      "encompassed",
+      "durable",
+      "grassland",
+      "nitrates",
+      "seasons",
+      "manure",
+      "fertilisers",
+      "groundwater",
+      "phosphate"
+    ],
+    "prompt_length": 1691,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "693",
+  "concept_data": {
+    "title": "tangerine",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "citrus fruit",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tangerine,\" categorized under the EU plant product classification 6006, is redirected to the preferred term \"citrus fruit.\" This classification encompasses various cultivable species, including mandarini and clementinas, which are integral to EU agricultural provisions. The regulatory framework addresses issues such as subthresholds for pesticide use and the structural requirements for cultivation. Notably, the sanguinello and tarocco varieties exemplify the diversity within citrus fruits. The EU's legal instruments facilitate trade and ensure compliance with health standards, impacting regions like Hartswater and Hillsborough. The interdonato and shamouti varieties further illustrate the EU's commitment to enhancing agricultural practices and supporting local economies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:05:57.448868",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2542,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 10.586666666666666
+    },
+    "related_words": [
+      "oragnes",
+      "forin",
+      "tht",
+      "cultivable",
+      "μανταρίνι",
+      "χίου",
+      "mandarini",
+      "chiou",
+      "categorical",
+      "sanguinello",
+      "sanguigno",
+      "moro",
+      "tarocco",
+      "imperiale",
+      "shamouti",
+      "parliamant",
+      "broward",
+      "hillsborough",
+      "secretaria",
+      "defensa",
+      "agropecuária",
+      "subthresholds",
+      "subthreshold",
+      "shceme",
+      "interdonato",
+      "arancia",
+      "privisions",
+      "golfo",
+      "clementinas",
+      "tierras"
+    ],
+    "prompt_length": 1714,
+    "category": "6006 plant product"
+  }
+}

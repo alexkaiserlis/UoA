@@ -1,0 +1,26 @@
+{
+  "concept_id": "31",
+  "concept_data": {
+    "title": "statement to the press",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "press release",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory documents, a \"statement to the press,\" commonly referred to as a \"press release,\" serves as an official communication tool utilized by institutions to disseminate information to the media and the public. This documentation plays a crucial role in ensuring transparency and accountability within EU governance. By issuing press releases, EU bodies can promptly inform stakeholders about policy developments, legislative changes, or significant events. Although the term \"statement to the press\" is a redirect to \"press release,\" both terms encapsulate the essence of formal announcements aimed at fostering informed public discourse and enhancing the visibility of EU activities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:50:30.167676",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1208,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2457",
+  "concept_data": {
+    "title": "transport policy of the European Union",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "common transport policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"transport policy of the European Union,\" commonly referred to as the \"common transport policy,\" aims to create a cohesive framework for managing diverse transport modes, including intermodal systems. This policy addresses inefficiencies and bottlenecks in congested areas, promoting safer travel for pedestrians, cyclists, and motorcyclists. It strategically incorporates greening initiatives to reduce environmental impact, while enhancing timetabling and slot management through advanced technologies like SESAR and ENIAC. The policy also facilitates lowtonnage shipping on seaways and supports projects like ARTEMIS, which aim to improve transport efficiency and safety. Overall, it serves as a vital enabler for a seamless and sustainable transport network across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:08:00.173888",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1410,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 118,
+      "selected_avg_freq": 51.35333333333333
+    },
+    "related_words": [
+      "calming",
+      "eevc",
+      "frontal",
+      "projets",
+      "timetabling",
+      "seaway",
+      "lowtonnage",
+      "euir",
+      "reconfiguration",
+      "waybill",
+      "summertime",
+      "interland",
+      "congested",
+      "greening",
+      "eniac",
+      "artemis",
+      "moc",
+      "enablers",
+      "safest",
+      "requestor",
+      "pedestrians",
+      "cyclists",
+      "motorcyclists",
+      "shuttle",
+      "flexibly",
+      "crash",
+      "fir",
+      "eatmn",
+      "aggressiveness",
+      "aeronautics"
+    ],
+    "prompt_length": 1746,
+    "category": "4806 transport policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1934",
+  "concept_data": {
+    "title": "non-ferrous ore",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"non-ferrous ore\" pertains to minerals that do not contain significant amounts of iron and are essential in various industries, including mining and metallurgy. In EU legal and regulatory frameworks, non-ferrous ores such as wolframite and scheelite are subject to careful scrutiny due to their economic importance and potential environmental impacts. The regulation of these ores involves considerations of commerce, particularly in relation to imports from countries like China, where tungsten and its carbide derivatives are produced. The totality of regulations aims to secure sustainable practices while preventing jeopardized resources. Under EU directives, corporations must adhere to strict guidelines regarding the extraction and processing of these minerals, ensuring that their operations do not undercut environmental standards or public health. Additionally, the ECR emphasizes the need for transparent representations in the mining sector, fostering a competitive landscape that discourages isolationist practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:11:52.043907",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 142,
+    "vocabulary_stats": {
+      "total_related_words": 396,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 787,
+      "selected_avg_freq": 365.81333333333333
+    },
+    "related_words": [
+      "euromăštaux",
+      "wolframite",
+      "scheelite",
+      "whillst",
+      "tungstic",
+      "cniec",
+      "fused",
+      "minmetals",
+      "untertakings",
+      "canon",
+      "tungsten",
+      "carbide",
+      "contest",
+      "ores",
+      "ecr",
+      "jeopardized",
+      "withdraws",
+      "impending",
+      "careful",
+      "confine",
+      "concentrates",
+      "ferrous",
+      "recurrence",
+      "totality",
+      "minerals",
+      "undercut",
+      "chamber",
+      "consisted",
+      "forced",
+      "match"
+    ],
+    "prompt_length": 1687,
+    "category": "6611 coal and mining industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3422",
+  "concept_data": {
+    "title": "information network",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information network\" within EU legal and regulatory frameworks refers to structured systems facilitating the retrieval and dissemination of information pertinent to various domains, including health and law enforcement. Such networks, exemplified by EUNETHTA and EMN, are tasked with enhancing congruent data sharing among prosecutors and agencies, thereby improving responses to preventable diseases like smallpox and diphtheria. They also support the prosecution of perpetrators in cases of genocide and other serious offenses, ensuring unpunished assaults are addressed. By utilizing advanced retrieval methods, these networks sporadically consult dictionaries and legal constitutions to uphold justice across member states, including regions like Genève and Bâle.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:07.966676",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1826,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 65,
+      "selected_avg_freq": 25.85333333333333
+    },
+    "related_words": [
+      "hta",
+      "acronym",
+      "eunethta",
+      "ewrs",
+      "prosecutors",
+      "bites",
+      "tcam",
+      "dictionaries",
+      "congruent",
+      "smallpox",
+      "tetanus",
+      "sporadically",
+      "diphtheria",
+      "tularaemia",
+      "preventable",
+      "retrieval",
+      "reitox",
+      "euphin",
+      "hsscd",
+      "tasked",
+      "konstanz",
+      "weil",
+      "rhein",
+      "ferney",
+      "voltaire",
+      "genève",
+      "bâle",
+      "julien",
+      "bardonnex",
+      "campocologno"
+    ],
+    "prompt_length": 1688,
+    "category": "3231 information and information processing"
+  }
+}

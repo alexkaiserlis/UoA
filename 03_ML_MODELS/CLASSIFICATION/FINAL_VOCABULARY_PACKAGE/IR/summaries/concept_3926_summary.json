@@ -1,0 +1,63 @@
+{
+  "concept_id": "3926",
+  "concept_data": {
+    "title": "civil liability",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Civil liability within the EU legal framework pertains to the responsibility of individuals or entities for wounding or injuring others, particularly in contexts involving passengers and merchant activities. It encompasses various scenarios, including negligence and the expulsion of individuals from certain jurisdictions. Legislators urge the establishment of clear templates for settling disputes, ensuring that victims are adequately compensated by insurers for substandard actions. The concept also addresses contributory negligence, where the injured party may share responsibility. In cases of lengthy litigation, the need for expediting processes is manifestly evident, as it serves to alleviate the burdens on courts and enhance the fitness of legal remedies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:07:19.017433",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 741,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 348,
+      "selected_avg_freq": 160.1
+    },
+    "related_words": [
+      "passangers",
+      "guadalajara",
+      "overdue",
+      "wounding",
+      "bodily",
+      "exonerated",
+      "dilatory",
+      "resides",
+      "hns",
+      "reestablish",
+      "expelling",
+      "precedence",
+      "fills",
+      "expulsion",
+      "responsibly",
+      "insurer",
+      "legislators",
+      "urge",
+      "noxious",
+      "ratifying",
+      "victim",
+      "substandard",
+      "addressee",
+      "contributory",
+      "bureaux",
+      "warsaw",
+      "reopen",
+      "variously",
+      "injured",
+      "template"
+    ],
+    "prompt_length": 1666,
+    "category": "1211 civil law"
+  }
+}

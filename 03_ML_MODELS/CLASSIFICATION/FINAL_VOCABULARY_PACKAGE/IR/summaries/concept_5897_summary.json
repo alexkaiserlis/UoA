@@ -1,0 +1,63 @@
+{
+  "concept_id": "5897",
+  "concept_data": {
+    "title": "political situation",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"political situation\" within EU legal and regulatory frameworks encompasses the complexities surrounding governance, particularly in regions facing instability or democratic violations. For instance, the political situation in Haiti has been marked by coups and military interventions, necessitating a firm commitment to remedying constitutional breaches and restoring democratic freedoms. The EU engages in intensive dialogue with countries like Benin and Guinea to address uncertainties in their political agendas. Through the Cotonou Agreement, the EU aims to consolidate democratic principles and ensure lasting stability, while also providing a timetable for elections and discussions on financial support. Such efforts reflect the EU's ability to respond to political crises in the Caribbean and African contexts, emphasizing the importance of fundamental rights and the return to democratic governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:43:12.272077",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 197,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 2612,
+      "selected_avg_freq": 1098.1533333333334
+    },
+    "related_words": [
+      "coup",
+      "firmness",
+      "haitian",
+      "benin",
+      "election",
+      "haiti",
+      "bissau",
+      "condemned",
+      "remedying",
+      "restoration",
+      "violated",
+      "cotonou",
+      "constitutional",
+      "uncertainties",
+      "zimbabwe",
+      "guinea",
+      "minister",
+      "begun",
+      "finances",
+      "specially",
+      "cited",
+      "persist",
+      "agenda",
+      "consolidation",
+      "prime",
+      "depth",
+      "intensive",
+      "dialogue",
+      "caribbean",
+      "military"
+    ],
+    "prompt_length": 1678,
+    "category": "0431 politics and public safety"
+  }
+}

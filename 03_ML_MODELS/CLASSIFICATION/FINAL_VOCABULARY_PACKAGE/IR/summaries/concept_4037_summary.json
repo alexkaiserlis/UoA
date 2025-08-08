@@ -1,0 +1,63 @@
+{
+  "concept_id": "4037",
+  "concept_data": {
+    "title": "EAEC Joint Undertaking",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"EAEC Joint Undertaking\" represents a collaborative framework within the EU aimed at advancing nuclear energy research and development. It encompasses entities like the Forschungszentrum Jülich and ENEA, focusing on innovative technologies such as thermonuclear reactors and high-temperature reactors. The initiative promotes projects like ITER, which explore plasma physics and tritium management, while addressing environmental concerns linked to nuclear energy. Legal frameworks govern the decommissioning of facilities and the financial aspects, including kapitalverkehrsteuer and gesellschaftsteuer. The EAEC Joint Undertaking facilitates the sharing of knowledge and resources, ensuring the sustainable development of energy technologies across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:34:27.989169",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 337,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 991,
+      "selected_avg_freq": 375.8666666666667
+    },
+    "related_words": [
+      "kernforschunsanlage",
+      "juelich",
+      "ricerca",
+      "energia",
+      "nucleare",
+      "enea",
+      "ambiente",
+      "decommission",
+      "nersa",
+      "phénix",
+      "kapitalverkehrsteuer",
+      "gesellschaftsteuer",
+      "divertor",
+      "tekes",
+      "forschungszentrum",
+      "schnell",
+      "brüter",
+      "kernkraftwerksgesellschaft",
+      "sbk",
+      "sviluppo",
+      "tritium",
+      "bayernwerk",
+      "krb",
+      "nuove",
+      "energie",
+      "hochtemperatur",
+      "hkg",
+      "speak",
+      "deuterium",
+      "nazionale"
+    ],
+    "prompt_length": 1701,
+    "category": "1016 European construction"
+  }
+}

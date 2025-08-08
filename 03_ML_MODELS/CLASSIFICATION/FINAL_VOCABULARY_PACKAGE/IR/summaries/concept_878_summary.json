@@ -1,0 +1,63 @@
+{
+  "concept_id": "878",
+  "concept_data": {
+    "title": "quasi-autonomous non-governmental organization",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "public institution",
+    "relation_type": "USE"
+  },
+  "summary": "A \"quasi-autonomous non-governmental organization\" (QANGO) is a public institution that operates with a degree of independence from governmental control while fulfilling specific regulatory functions. In the EU context, QANGOs are often established by statutes to oversee sectors such as telecommunications, accountancy, and rail governance. They are nominated by relevant authorities and are responsible for enacting reforms that promote coherence in regulatory frameworks. These organizations may also be tasked with supervising periodic deposits and ensuring that investors are informed through exhaustive reports. Their governance structures are designed to exclude obsolete practices, thereby enhancing the efficiency of public service delivery.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:43:32.176623",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 306,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1246,
+      "selected_avg_freq": 614.0133333333333
+    },
+    "related_words": [
+      "statues",
+      "nominating",
+      "resembling",
+      "efrag",
+      "nominate",
+      "fulfill",
+      "denominations",
+      "issuers",
+      "profession",
+      "inapplicable",
+      "periodical",
+      "deposits",
+      "accountancy",
+      "enacted",
+      "waterway",
+      "statutes",
+      "ornamental",
+      "accredited",
+      "nominated",
+      "investors",
+      "exhaustive",
+      "candidates",
+      "candidate",
+      "inland",
+      "excludes",
+      "reforms",
+      "notifying",
+      "propagating",
+      "posts",
+      "rail"
+    ],
+    "prompt_length": 1786,
+    "category": "0436 executive power and public service"
+  }
+}

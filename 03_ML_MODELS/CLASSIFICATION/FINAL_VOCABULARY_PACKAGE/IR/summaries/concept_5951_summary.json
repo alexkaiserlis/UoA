@@ -1,0 +1,63 @@
+{
+  "concept_id": "5951",
+  "concept_data": {
+    "title": "disease-carrying insect",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "disease vector",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"disease-carrying insect,\" redirected to \"disease vector,\" encompasses various organisms, such as ticks and other arthropods, that transmit pathogens, leading to communicable diseases like tick-borne encephalitis (TBE) and pleuropneumonia. In EU legal and regulatory frameworks, understanding the pathogenesis and infectivity of these vectors is crucial for public health and veterinary medicine (Veterinaermedizin). The EU employs accelerated eradiction strategies to mitigate risks associated with these vectors, particularly in regions like Oberösterreich and Bundesland areas. Effective detection and management pathways are essential to prevent neurological disabilities and ensure consumer protection (Verbraucherschutz) against disease outbreaks.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:19.870603",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 623,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 335,
+      "selected_avg_freq": 127.49333333333334
+    },
+    "related_words": [
+      "tbe",
+      "acclerated",
+      "radiction",
+      "cbpp",
+      "pleuro",
+      "pneumonia",
+      "platanoides",
+      "braunau",
+      "fagus",
+      "silvatica",
+      "tick",
+      "detectably",
+      "veterinaermedizin",
+      "thinks",
+      "gesundheitlichen",
+      "verbraucherschutz",
+      "recurs",
+      "srm",
+      "motschulsky",
+      "hardwood",
+      "bundesinstitut",
+      "ganglia",
+      "oberösterreich",
+      "repubic",
+      "neurological",
+      "bundesland",
+      "holes",
+      "dorsal",
+      "eradiction",
+      "evros"
+    ],
+    "prompt_length": 1751,
+    "category": "2841 health"
+  }
+}

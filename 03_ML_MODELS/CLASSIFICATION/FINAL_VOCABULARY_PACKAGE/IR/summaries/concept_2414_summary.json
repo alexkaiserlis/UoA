@@ -1,0 +1,63 @@
+{
+  "concept_id": "2414",
+  "concept_data": {
+    "title": "oleaginous plant",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"oleaginous plant\" refers to a category of plant products within EU legal and regulatory frameworks, specifically classified under 6006. These plants, such as *Glycine hispida* (soja) and *Arachis hypogaea* (groundnut), are significant for their oil content and are processed by various processors. The regulatory landscape addresses issues like the equivalentes of oil extraction methods, ensuring that practices do not destabilize the market. Additionally, oleaginous plants like *Phaseolus* species and *Brassica* varieties are scrutinized for their climatic adaptability, as they may be affected by pathogens like *Sclerotinia sclerotiorum*. The legal framework encompasses titlement and trade regulations, ensuring that products meet EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:41.310708",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1998,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 23,
+      "selected_avg_freq": 10.446666666666667
+    },
+    "related_words": [
+      "processsors",
+      "grinder",
+      "falt",
+      "angustifolius",
+      "incude",
+      "hirsutum",
+      "barbadense",
+      "soia",
+      "hispida",
+      "titlement",
+      "bythe",
+      "pommerania",
+      "equivalentes",
+      "acetosella",
+      "maritimus",
+      "duplicated",
+      "diaporthe",
+      "phaseolorum",
+      "caulivora",
+      "sojae",
+      "glycinae",
+      "destabilize",
+      "climatically",
+      "canova",
+      "rozelle",
+      "inflexibly",
+      "unmodulated",
+      "sclerotia",
+      "sclerotinia",
+      "sclerotiorum"
+    ],
+    "prompt_length": 1660,
+    "category": "6006 plant product"
+  }
+}

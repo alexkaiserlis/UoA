@@ -1,0 +1,26 @@
+{
+  "concept_id": "363",
+  "concept_data": {
+    "title": "electoral district",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "division into constituencies",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"electoral district,\" which redirects to the preferred term \"division into constituencies,\" pertains to the delineation of geographical areas for electoral purposes within the EU. This division is crucial for ensuring representative democracy, as it determines how voters are grouped and how electoral votes are allocated. The legal framework governing this process is established by EU regulations and member state laws, which aim to uphold principles of fairness and proportionality in elections. The effective organization of constituencies is essential for facilitating the electoral procedure, thereby enhancing voter participation and the legitimacy of elected representatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:33:16.496699",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1236,
+    "category": "0416 electoral procedure and voting"
+  }
+}

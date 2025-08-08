@@ -1,0 +1,63 @@
+{
+  "concept_id": "2759",
+  "concept_data": {
+    "title": "inflammable product",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"inflammable product\" pertains to substances that pose acute risks to safety and the environment, particularly in the context of EU laws aimed at limiting dangerous materials. These products, often found in aerosol dispensers and decorative items, may contain chlorofluorocarbons (CFCs) and other flammable substances. The EU regulatory framework establishes restrictions on the marketing and use of these products to protect consumers and the environment. Harmonization efforts are indispensable for ensuring that safety standards are uniformly applied across member states, thereby facilitating the gradual relaunching of safer alternatives. This approach aims to offset environmental deterioration while adapting to evolving consumer priorities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:03:28.418239",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1749.8852459016393
+    },
+    "related_words": [
+      "relaunching",
+      "dispensers",
+      "cfc",
+      "flammable",
+      "aerosol",
+      "decorative",
+      "entertainment",
+      "chlorofluorocarbons",
+      "generators",
+      "acute",
+      "approximate",
+      "freely",
+      "dangerous",
+      "indispensable",
+      "move",
+      "frontiers",
+      "individually",
+      "offset",
+      "gradually",
+      "limiting",
+      "preparations",
+      "attainment",
+      "arise",
+      "priorities",
+      "harmonization",
+      "life",
+      "approximation",
+      "capital",
+      "substances",
+      "planned"
+    ],
+    "prompt_length": 1734,
+    "category": "5216 deterioration of the environment"
+  }
+}

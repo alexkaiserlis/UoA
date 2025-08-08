@@ -1,0 +1,63 @@
+{
+  "concept_id": "2740",
+  "concept_data": {
+    "title": "mineral chemical product",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "inorganic chemical product",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"mineral chemical product\" is a redirect to \"inorganic chemical product,\" a classification under EU regulations concerning chemical substances. In the context of nomenclature, these products encompass a range of minerals, such as potassium and copper, that are essential in various industries, including quimicas and chemie. Regulatory frameworks require notifiers to provide confirmatory data on inhalation risks and potential health effects, including allegations of unreasonable exposure. The rapporteur's determinations often involve assessing the implications of these substances, particularly in relation to sediments and their interactions. Historical references, such as the Cornubia and Widnes cases, illustrate the complexities surrounding mineralen and their usage in EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:55.793689",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 655,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 464,
+      "selected_avg_freq": 226.93333333333334
+    },
+    "related_words": [
+      "nomeclature",
+      "mckechnie",
+      "widnes",
+      "quimicas",
+      "mineralen",
+      "cornubia",
+      "beauveria",
+      "brongniartii",
+      "manica",
+      "rovereto",
+      "kloeckner",
+      "vallăšs",
+      "mollet",
+      "arnhem",
+      "sediments",
+      "industrias",
+      "stagnation",
+      "permanganate",
+      "suggestion",
+      "wrong",
+      "bordeaux",
+      "chemie",
+      "notifiers",
+      "inhalation",
+      "alleging",
+      "vitamin",
+      "sulphate",
+      "row",
+      "seemed",
+      "grace"
+    ],
+    "prompt_length": 1730,
+    "category": "6811 chemistry"
+  }
+}

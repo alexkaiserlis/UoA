@@ -1,0 +1,63 @@
+{
+  "concept_id": "2711",
+  "concept_data": {
+    "title": "animal production",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Animal production, categorized under agricultural activity in EU legal frameworks, encompasses various arrangements for the breeding and rearing of livestock, including species such as salmonid and charr. This sector is characterized by its diverse environments, from wetlands and ponds to coastal lagoons and brackish waters. Regulatory measures scrutinize practices at abattoirs and stockfarms, ensuring compliance with ecolabelling standards and protectionist policies. The EU promotes sustainable practices, encouraging organic supplementation and responsible agistment. Additionally, the computerization of data related to animal production facilitates better management and traceability of livestock, including bullocks and ostriches, affirming the sector's commitment to quality and safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:18.638801",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1197,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 148,
+      "selected_avg_freq": 63.31333333333333
+    },
+    "related_words": [
+      "arrangeents",
+      "sanitel",
+      "broodstock",
+      "wetlands",
+      "ponds",
+      "tidal",
+      "costal",
+      "levees",
+      "reassure",
+      "charr",
+      "bips",
+      "agistment",
+      "heiligenkreuz",
+      "brackish",
+      "symbolises",
+      "ecolabelling",
+      "xiiia",
+      "crayfish",
+      "bullocks",
+      "logos",
+      "salmonid",
+      "centuries",
+      "bfr",
+      "characterize",
+      "egtop",
+      "carnivorous",
+      "scrutinize",
+      "abattoir",
+      "protectionist",
+      "ostriches"
+    ],
+    "prompt_length": 1701,
+    "category": "5631 agricultural activity"
+  }
+}

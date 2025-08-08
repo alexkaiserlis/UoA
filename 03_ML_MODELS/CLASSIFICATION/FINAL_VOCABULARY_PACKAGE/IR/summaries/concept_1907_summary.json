@@ -1,0 +1,63 @@
+{
+  "concept_id": "1907",
+  "concept_data": {
+    "title": "honey",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"honey\" (miel, miele, mel) is classified under animal products (6011) and encompasses various types, including kunsthonig and kunsthonning. The regulation of honey involves ensuring quality standards that protect both consumers and beekeepers, particularly in regions like Alcarria and Südtiroler. The EU mandates labeling practices that inform consumers about floral sources, such as thyme and nectar, and geographical indications, including Trevélez and Lunigiana. Honey's unique properties, including its ribonucleic and homologous characteristics, are critical for its classification. Compliance with these regulations is essential for market access and consumer trust across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:47:56.313063",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1198,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 97,
+      "selected_avg_freq": 35.28666666666667
+    },
+    "related_words": [
+      "pfund",
+      "slovenski",
+      "kunsthonig",
+      "kunsthonning",
+      "alcarria",
+      "kočevski",
+      "gozdni",
+      "ribonucleic",
+      "coat",
+      "intergenic",
+      "tergeste",
+      "άγιος",
+      "ματθαίος",
+      "κέρκυρας",
+      "agios",
+      "mathaios",
+      "kerkyras",
+      "topographical",
+      "sapin",
+      "kraški",
+      "empiric",
+      "bablok",
+      "freistaat",
+      "varesino",
+      "mele",
+      "kurpiowski",
+      "beekeepers",
+      "miele",
+      "asperge",
+      "sables"
+    ],
+    "prompt_length": 1627,
+    "category": "6011 animal product"
+  }
+}

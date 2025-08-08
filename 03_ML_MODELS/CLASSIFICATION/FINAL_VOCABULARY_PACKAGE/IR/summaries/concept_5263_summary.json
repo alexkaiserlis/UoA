@@ -1,0 +1,63 @@
+{
+  "concept_id": "5263",
+  "concept_data": {
+    "title": "carcase",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"carcase\" refers to the body of an animal after slaughter, specifically in relation to animal products. This includes various components such as hindquarters and backfat, which are critical in assessing meat quality. Regulations stipulate that carcases must be properly dissected and categorized, often utilizing advanced techniques like intrascope and choirometer for quality control. The handling of carcases in slaughterhouses, or slachterijen, is governed by strict hygiene standards to prevent bioaccumulable contaminants like chloroorganic substances. Compliance with these standards ensures that products like mastlammfleisch and slachtlammeren meet EU safety requirements, fulfilling the obligations of the European Economic Community (EEEC) and enhancing consumer trust.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:23.773974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 2117,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 21,
+      "selected_avg_freq": 9.726666666666667
+    },
+    "related_words": [
+      "backfat",
+      "unseparated",
+      "hinquarters",
+      "meßverfahren",
+      "intrascope",
+      "giralda",
+      "choirometer",
+      "adoted",
+      "koed",
+      "spaek",
+      "automatisk",
+      "ksa",
+      "muscled",
+      "dest",
+      "calibrate",
+      "trisodium",
+      "peroxyacids",
+      "chloroorganic",
+      "bioaccumulable",
+      "afc",
+      "boucherie",
+      "slachtlammeren",
+      "nenagh",
+      "camolin",
+      "camolins",
+      "harlingen",
+      "sluis",
+      "bodegraven",
+      "nieuwekerk",
+      "ijssel"
+    ],
+    "prompt_length": 1679,
+    "category": "6011 animal product"
+  }
+}

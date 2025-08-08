@@ -1,0 +1,63 @@
+{
+  "concept_id": "2754",
+  "concept_data": {
+    "title": "wood product",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wood product\" within the EU legal framework pertains to various items derived from timber, including those produced in sawmills and woodworks. These products, such as resinous materials and spanplatten, are subject to regulations that ensure sustainability and safety. The cooperation among syndicats and industry stakeholders, including companies like Unilin and Drewmax, is crucial for compliance with EU standards. Whereas the production processes involve intricate methods like menuiserie and the use of specific species such as spruce, the regulatory landscape aims to prevent glut in the market. Publicizing best practices and fostering innovation, as seen with firms like Flatau and Aaronson, enhances the sector's resilience and competitiveness.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:11:59.944787",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2246,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 5.413333333333333
+    },
+    "related_words": [
+      "regarde",
+      "coperation",
+      "weheras",
+      "syndicats",
+      "menuiserie",
+      "timent",
+      "ping",
+      "hua",
+      "foon",
+      "toufen",
+      "hao",
+      "woodworks",
+      "resinous",
+      "sawmills",
+      "spruce",
+      "bursaphelencus",
+      "spano",
+      "oostrozebeke",
+      "unilin",
+      "wielsbeke",
+      "caberboard",
+      "cowie",
+      "aaronson",
+      "molton",
+      "falco",
+      "pomposa",
+      "italp",
+      "pomponesco",
+      "stat",
+      "ginovo"
+    ],
+    "prompt_length": 1619,
+    "category": "6836 wood industry"
+  }
+}

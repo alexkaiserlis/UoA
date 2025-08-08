@@ -1,0 +1,63 @@
+{
+  "concept_id": "950",
+  "concept_data": {
+    "title": "return decision",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "removal",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, a \"return decision,\" also referred to as \"removal,\" pertains to the formal process of expelling individuals who are unlawfully residing within member states. This decision often involves complex considerations, including the ideology of the individuals involved, such as followers of separatist movements in regions like Crimea or Donbass. The decision may be contested in uppercourt appeals, where claims of inhumane treatment or humiliating conditions during expulsion are scrutinized. Returnees may face challenges, such as evading authorities or reapplying for residency, particularly if they belong to groups like Hezbollah or the IRGC. The process must adhere to EU regulations to avoid contravening human rights standards, ensuring that any actions taken are lawful and just.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:06:29.746159",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 940,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 93,
+      "selected_avg_freq": 36.56
+    },
+    "related_words": [
+      "uladzimir",
+      "uladzimiravich",
+      "makei",
+      "kadhaf",
+      "qadhaf",
+      "kerman",
+      "shere",
+      "tongham",
+      "uppercourt",
+      "vobster",
+      "lancelin",
+      "kheibar",
+      "kish",
+      "tejarat",
+      "decease",
+      "resisting",
+      "unescorted",
+      "escorted",
+      "humiliating",
+      "script",
+      "staying",
+      "ideology",
+      "followers",
+      "evading",
+      "irisl",
+      "transnistrian",
+      "ndc",
+      "basij",
+      "ansar",
+      "hezbollah"
+    ],
+    "prompt_length": 1676,
+    "category": "1216 criminal law"
+  }
+}

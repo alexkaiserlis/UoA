@@ -1,0 +1,63 @@
+{
+  "concept_id": "1207",
+  "concept_data": {
+    "title": "Guadeloupe",
+    "category_code": "7241",
+    "category_name": "overseas countries and territories",
+    "category_full": "7241 overseas countries and territories",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Guadeloupe, categorized under overseas countries and territories (OCTs), plays a significant role in EU legal and regulatory frameworks. This region has witnessed unrest that impacts its socio-economic landscape, particularly in sectors like the production of rums and alcooliques. The EU endorses measures for undistorted trade, ensuring that products such as bottled rums adhere to stringent sécurité standards. Regulatory bodies forecasted that the demand for these beverages, including unique melon and paddy-based variants, will generate bigger markets. Additionally, the cotisation system and deferral mechanisms are crucial for managing the financial aspects of distilleries. Overall, Guadeloupe's integration into EU policies reflects a commitment to global standards while addressing local needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:16:12.759231",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 909,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 333,
+      "selected_avg_freq": 153.93333333333334
+    },
+    "related_words": [
+      "unrest",
+      "cveds",
+      "lakonia",
+      "hlpa",
+      "cotisation",
+      "boissons",
+      "alcooliques",
+      "vignette",
+      "sociale",
+      "vss",
+      "immoderate",
+      "bip",
+      "rums",
+      "shed",
+      "cved",
+      "undistorted",
+      "forecasted",
+      "witnessed",
+      "bigger",
+      "generates",
+      "alcohols",
+      "endorsing",
+      "crete",
+      "melon",
+      "bottle",
+      "capped",
+      "globally",
+      "detained",
+      "les",
+      "deferral"
+    ],
+    "prompt_length": 1637,
+    "category": "7241 overseas countries and territories"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6099",
+  "concept_data": {
+    "title": "recognition of vocational training qualifications",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"recognition of vocational training qualifications\" within the EU legal framework facilitates the cross-border mobility of professionals, such as technicians, optometrists, and seafarers. This regulatory concept ensures that qualifications, including those for specialties like oncology and paediatrics, are acknowledged across member states. It encompasses various professions, from shoemakers to orthopaedic technicians, and involves the evaluation of syllabi and competency standards. The process may include revalidation and the use of simulators for practical assessments. By creating a borderless environment for vocational qualifications, the EU aims to enhance workforce mobility and address skills shortages in critical sectors, such as engineering and maritime professions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:22:58.840497",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 925,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 138,
+      "selected_avg_freq": 52.28
+    },
+    "related_words": [
+      "technician",
+      "zubný",
+      "technik",
+      "optometrist",
+      "ortopædimekaniker",
+      "shoemaker",
+      "ortopædiskomager",
+      "seafarer",
+      "syllabi",
+      "batumi",
+      "lifeboat",
+      "depositories",
+      "csds",
+      "borderless",
+      "commoditised",
+      "mate",
+      "stuurman",
+      "kleine",
+      "handelsvaart",
+      "aanvulling",
+      "coaster",
+      "motordrijver",
+      "guk",
+      "lfv",
+      "trainee",
+      "oncology",
+      "fifths",
+      "genetics",
+      "foetal",
+      "paediatrics"
+    ],
+    "prompt_length": 1731,
+    "category": "4406 employment"
+  }
+}

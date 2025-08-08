@@ -1,0 +1,26 @@
+{
+  "concept_id": "2382",
+  "concept_data": {
+    "title": "fuel cell",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"fuel cell\" is an electrochemical device that converts chemical energy from fuels, typically hydrogen, into electrical energy, with water and heat as byproducts. Within the EU's energy policy framework, fuel cells are recognized for their potential to enhance energy efficiency and reduce greenhouse gas emissions. The European Union actively promotes the development and deployment of fuel cell technologies through various regulatory instruments, including the Clean Energy for All Europeans package. This initiative aims to facilitate the transition to a low-carbon economy, aligning with the EU's broader objectives of sustainability and energy security. Fuel cells are integral to achieving these goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:43.366820",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1162,
+    "category": "6606 energy policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2349",
+  "concept_data": {
+    "title": "train driver",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "drivers",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"train driver,\" categorized under the organization of transport, redirects to the preferred term \"drivers\" within EU legal and regulatory frameworks. Train drivers play a crucial role in the operation of locomotives, ensuring safe and efficient transport across interoperable networks. Regulatory measures mandate the use of tachographs for recording driving hours, enhancing safety and compliance. In this era of advanced transport, drivers must be motivated to adapt to evolving technologies, including electromagnetic systems for train control. The profession also intersects with various sectors, from earthmoving to landscaping, reflecting the diverse applications of wheeled transport in agriculture and urban planning.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:00:07.480659",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 602,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 428,
+      "selected_avg_freq": 165.96
+    },
+    "related_words": [
+      "printable",
+      "multione",
+      "palù",
+      "grumolo",
+      "abbadesse",
+      "gardening",
+      "handholds",
+      "landscaping",
+      "ride",
+      "fops",
+      "disabling",
+      "cabs",
+      "sick",
+      "vicenza",
+      "earthmoving",
+      "farmland",
+      "tachograph",
+      "binocular",
+      "locomotives",
+      "contradicts",
+      "attachments",
+      "registries",
+      "cab",
+      "scrapping",
+      "eyes",
+      "delle",
+      "fertilizer",
+      "trains",
+      "roadside",
+      "refine"
+    ],
+    "prompt_length": 1685,
+    "category": "4811 organisation of transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2720",
+  "concept_data": {
+    "title": "industrial production",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Industrial production\" within the EU regulatory framework encompasses the systematic processes involved in the manufacturing of goods, as classified under the CPA (Classification of Products by Activity) and monitored through mechanisms like PRODcom. This concept entails the alignment of production practices with eco-friendly standards, such as EMAS certification, which promotes sustainability among manufacturers. Agencies survey industrial outputs, comparing statistics on production volumes, sales, and stocks. Tenders for projects often require applicants to demonstrate compliance with ISO standards, while SMEs are encouraged to participate in the tendering process. The regulatory landscape also includes provisions for the disposal of waste and the distillation of products like alcohol, ensuring that all operations are efficiently organised and certified.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:01:30.364059",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 186,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 2848,
+      "selected_avg_freq": 1358.5266666666666
+    },
+    "related_words": [
+      "prodcom",
+      "cpa",
+      "emas",
+      "surveyed",
+      "compare",
+      "eco",
+      "disposing",
+      "distillation",
+      "providers",
+      "afford",
+      "fee",
+      "fees",
+      "smes",
+      "agrimonetary",
+      "alignment",
+      "iso",
+      "label",
+      "tendering",
+      "alcohol",
+      "broken",
+      "tenders",
+      "awarded",
+      "survey",
+      "identifying",
+      "award",
+      "organised",
+      "securities",
+      "consists",
+      "entail",
+      "applicants"
+    ],
+    "prompt_length": 1673,
+    "category": "6806 industrial structures and policy"
+  }
+}

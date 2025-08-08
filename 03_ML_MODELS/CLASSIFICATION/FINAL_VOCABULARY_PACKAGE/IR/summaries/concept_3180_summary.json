@@ -1,0 +1,63 @@
+{
+  "concept_id": "3180",
+  "concept_data": {
+    "title": "single document",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"single document\" concept within the 2011 tariff policy represents a significant regulatory framework aimed at simplifying customs formalities for operators involved in the carriage of goods across EU frontiers. This document comprises all necessary declarations and authorizations, thus facilitating the movement of textiles and clothing while retaining compliance with stipulated protocols. By consolidating various responsibilities into a single, identifiable format, the single document alleviates redundant paperwork and expiring licenses, hence promoting efficient transit. The progressive abolition of complicated customs procedures means that operators can benefit from drawback relief regardless of their domicile or nationality, ensuring a uniformly organized approach to trade.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:01:29.949119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 266,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1753,
+      "selected_avg_freq": 873.3333333333334
+    },
+    "related_words": [
+      "handover",
+      "domicile",
+      "drawback",
+      "identifiable",
+      "outward",
+      "complicated",
+      "nationality",
+      "revoked",
+      "inward",
+      "specimen",
+      "retaining",
+      "clothing",
+      "textiles",
+      "uniformly",
+      "authorizations",
+      "redundant",
+      "relief",
+      "usual",
+      "crossing",
+      "carriage",
+      "formalities",
+      "moving",
+      "organized",
+      "simplifying",
+      "expiring",
+      "enters",
+      "regardless",
+      "frontiers",
+      "textile",
+      "flexible"
+    ],
+    "prompt_length": 1706,
+    "category": "2011 tariff policy"
+  }
+}

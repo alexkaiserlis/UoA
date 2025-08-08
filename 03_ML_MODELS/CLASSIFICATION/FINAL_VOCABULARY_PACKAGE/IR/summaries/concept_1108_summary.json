@@ -1,0 +1,63 @@
+{
+  "concept_id": "1108",
+  "concept_data": {
+    "title": "sheep's milk cheese",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sheep's milk cheese, categorized under processed agricultural produce (6016), encompasses a variety of traditional cheeses such as pecorino, feta, and kasseri. In the EU regulatory framework, these cheeses often receive Protected Designation of Origin (PDO) status, which guarantees their quality and authenticity. The production (proizvodnje) of sheep's milk cheese is influenced by factors such as seasonality and the specific breeds of ewes (stoke) used, which can affect casein content and maturing processes. Notable varieties include kafalotyri, iraty, and romano. The fragmented nature of production can aggravate challenges in plasmana (marketing) and distribution, necessitating appropriate regulatory interpretations to improve market stability and protect producers.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:41:11.852538",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 491,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 691,
+      "selected_avg_freq": 332.49333333333334
+    },
+    "related_words": [
+      "approriata",
+      "imrpove",
+      "siad",
+      "fond",
+      "unapredjenje",
+      "proizvodnje",
+      "plasmana",
+      "stocnih",
+      "proizvoda",
+      "kafalotyri",
+      "crotonese",
+      "balze",
+      "volterrane",
+      "sardo",
+      "stoke",
+      "romana",
+      "ossau",
+      "iraty",
+      "kashkaval",
+      "ricotta",
+      "kasseri",
+      "kefalotyri",
+      "feta",
+      "guaranteee",
+      "inverse",
+      "seasonality",
+      "approriate",
+      "aggravates",
+      "ima",
+      "pecorino"
+    ],
+    "prompt_length": 1680,
+    "category": "6016 processed agricultural produce"
+  }
+}

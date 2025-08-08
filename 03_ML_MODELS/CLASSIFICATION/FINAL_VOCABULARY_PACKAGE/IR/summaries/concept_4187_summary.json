@@ -1,0 +1,63 @@
+{
+  "concept_id": "4187",
+  "concept_data": {
+    "title": "financial situation",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"financial situation\" concept within the EU legal framework pertains to the assessment of entities' economic health, particularly in the context of the free movement of capital. It is crucial for prudential supervision, where banks and financial institutions are obliged to report their financial status to the European Central Bank (ECB) and other supervisory bodies. This reporting is essential for maintaining currency stability and ensuring that candidates for financial positions are qualified. The eurogroup, chaired by the finance ministers, regularly communicates on these matters during summits, where ongoing financial conditions are reviewed. Statutes governing these processes impose strict formats and timing for submissions, ensuring transparency and accountability in the financial sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:25.660590",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 190,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2702,
+      "selected_avg_freq": 1193.7266666666667
+    },
+    "related_words": [
+      "seconded",
+      "eurogroup",
+      "ssm",
+      "chaired",
+      "summit",
+      "prudential",
+      "secrecy",
+      "statutes",
+      "supervised",
+      "formats",
+      "nominated",
+      "conferring",
+      "candidates",
+      "timing",
+      "choose",
+      "ecb",
+      "heads",
+      "supervisory",
+      "secretariat",
+      "ministers",
+      "president",
+      "preparatory",
+      "ten",
+      "statute",
+      "frequency",
+      "banks",
+      "submitting",
+      "perform",
+      "post",
+      "credit"
+    ],
+    "prompt_length": 1683,
+    "category": "2421 free movement of capital"
+  }
+}

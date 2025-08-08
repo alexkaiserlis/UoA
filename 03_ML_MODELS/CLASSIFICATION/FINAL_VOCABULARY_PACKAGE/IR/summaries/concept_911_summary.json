@@ -1,0 +1,63 @@
+{
+  "concept_id": "911",
+  "concept_data": {
+    "title": "Scandinavian country",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": true,
+    "preferred_term": "Northern Europe",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"Scandinavian country,\" categorized under Northern Europe, serves as a redirect to the preferred term \"Northern Europe\" in EU legal and regulatory contexts. This region encompasses nations that play a pivotal role in various EU frameworks, including the Schengen Area, which facilitates visa-free travel. The legal instruments governing these countries often involve complex regulations concerning consular affairs, environmental preservation of coastal and aquatic zones, and military cooperation. Additionally, the region's councils engage in formulating policies that address issues like exploration of the Baltic and Atlantic seas, while also considering the implications of the acquis communautaire on member states like Liechtenstein and the principality of Monaco. As such, understanding the legal nuances of Northern Europe is essential for effective governance and compliance within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:45:53.184785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 320,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1214,
+      "selected_avg_freq": 579.5066666666667
+    },
+    "related_words": [
+      "norspa",
+      "medspa",
+      "tagus",
+      "concordia",
+      "stickers",
+      "eupm",
+      "regulaton",
+      "fyrom",
+      "consular",
+      "formulating",
+      "filling",
+      "reserving",
+      "hague",
+      "ices",
+      "councils",
+      "exploration",
+      "canadian",
+      "visa",
+      "ocean",
+      "declaring",
+      "builds",
+      "seas",
+      "baltic",
+      "channel",
+      "principality",
+      "presidency",
+      "madeira",
+      "police",
+      "atlantic",
+      "azores"
+    ],
+    "prompt_length": 1675,
+    "category": "7206 Europe"
+  }
+}

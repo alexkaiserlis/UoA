@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_782eaeb3",
+  "concept_data": {
+    "title": "ontology",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"ontology\" refers to a structured representation of knowledge that delineates the relationships between concepts within a specific domain, particularly in information technology and data processing. It serves as a foundational tool for enhancing semantic interoperability among diverse legal documents and databases. By establishing a common vocabulary and framework, ontologies facilitate the accurate retrieval and processing of legal information, thereby supporting compliance with EU regulations. This structured approach is crucial for harmonizing data across member states, enabling efficient communication and understanding in the complex landscape of EU law.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:26:36.828882",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1190,
+    "category": "3236 information technology and data processing"
+  }
+}

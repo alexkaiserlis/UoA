@@ -1,0 +1,63 @@
+{
+  "concept_id": "3534",
+  "concept_data": {
+    "title": "training period",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "traineeship",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"training period,\" often redirected to \"traineeship,\" refers to a structured vocational experience designed to enhance qualifications and career prospects for individuals, particularly within institutions. Traineeships may involve probationary roles where clerks and officials are entrusted with specific tasks, allowing for skill development through organized seminars and refresher courses. This period serves as a vital staffing mechanism, facilitating recruitment and the seconding of personnel to various posts. It aims to widen the pool of qualified candidates while ensuring that the merits of each individual are accurately assessed, thus promoting interinstitutional cooperation and effective dispute resolution.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:16:48.320432",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 236,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1785,
+      "selected_avg_freq": 799.06
+    },
+    "related_words": [
+      "refresher",
+      "senatsverwaltung",
+      "gesundheit",
+      "clerks",
+      "probationer",
+      "probationary",
+      "seconding",
+      "probation",
+      "seniority",
+      "career",
+      "dismissal",
+      "fuer",
+      "pecuniary",
+      "staffing",
+      "competitions",
+      "versa",
+      "arbitration",
+      "seminars",
+      "officers",
+      "courses",
+      "entrust",
+      "vice",
+      "recruitment",
+      "delegate",
+      "widen",
+      "deems",
+      "servants",
+      "merits",
+      "serving",
+      "berlin"
+    ],
+    "prompt_length": 1721,
+    "category": "4406 employment"
+  }
+}

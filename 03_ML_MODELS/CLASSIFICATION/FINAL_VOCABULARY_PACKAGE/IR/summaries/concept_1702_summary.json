@@ -1,0 +1,63 @@
+{
+  "concept_id": "1702",
+  "concept_data": {
+    "title": "Lorraine",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Lorraine, a region in France, is significant within EU legal and regulatory frameworks, particularly concerning agricultural policies and regional development. The area, known for its mirabelles and bordered by the Vosges and Moselle, has faced challenges such as the eradication of feral pigs, which impacts local ecosystems. EU funding mechanisms, including the European Regional Development Fund (ERDF) and the European Social Fund (ESF), support initiatives aimed at enhancing regional readiness and addressing inflation-related issues. Statutory designations, like Protected Geographical Indications (PGI), are crucial for preserving Lorraine's cultural heritage. The region's allocations reflect a commitment to additionality in EU funding, ensuring successful project outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:36:02.746447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 434,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 960,
+      "selected_avg_freq": 538.3066666666666
+    },
+    "related_words": [
+      "mirabelles",
+      "vosges",
+      "meurthe",
+      "rechar",
+      "moselle",
+      "lorraine",
+      "eradicated",
+      "suggesting",
+      "feral",
+      "anymore",
+      "bordering",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "pgi",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "classical",
+      "lending",
+      "ruled",
+      "deep",
+      "eib",
+      "declining"
+    ],
+    "prompt_length": 1645,
+    "category": "7211 regions of EU Member States"
+  }
+}

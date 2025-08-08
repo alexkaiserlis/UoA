@@ -1,0 +1,63 @@
+{
+  "concept_id": "5096",
+  "concept_data": {
+    "title": "marketing year",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"marketing year\" in EU agricultural regulation delineates a specific timeframe during which agricultural products are marketed and assessed. This period is crucial for organizations involved in the production and processing of crops, such as chickpeas and muscatels, as it establishes the thresholds for market measures and requirements. Consequently, it affects the pricing, consumption, and gradation of products. The marketing year also influences arrangements for seasonalization, ensuring that production does not unjustly exceed market capacities. As a result, beneficiaries of EU agricultural policies must adhere to fixed guidelines, which may include penalizing overpressing or improper processing methods, such as dehydrating or acidify. Understanding these distinctions is essential for effective market participation and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:49:14.896879",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 2094,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 20.0
+    },
+    "related_words": [
+      "therehold",
+      "silkworks",
+      "particuar",
+      "caried",
+      "gradation",
+      "beneficiaires",
+      "recieved",
+      "amanded",
+      "consequnetly",
+      "meastures",
+      "ares",
+      "reuqirements",
+      "orgainzation",
+      "agrucultural",
+      "marktet",
+      "exeed",
+      "unjustly",
+      "fortifiers",
+      "overpressing",
+      "marcs",
+      "seasonalization",
+      "dehydrating",
+      "reactivated",
+      "tabel",
+      "agrcultural",
+      "acidify",
+      "comsumption",
+      "fixede",
+      "reducting",
+      "differnces"
+    ],
+    "prompt_length": 1728,
+    "category": "5611 agricultural structures and production"
+  }
+}

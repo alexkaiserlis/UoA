@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_ab84e157",
+  "concept_data": {
+    "title": "blockchain",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Blockchain is a decentralized digital ledger technology that enables secure and transparent record-keeping through cryptographic techniques. Within the EU legal and regulatory framework, blockchain has significant implications for data integrity, privacy, and compliance with regulations such as the General Data Protection Regulation (GDPR). The technology facilitates smart contracts and enhances traceability in supply chains, fostering innovation in sectors like finance and public administration. As the EU explores regulatory approaches, it aims to balance technological advancement with consumer protection and market integrity, ensuring that blockchain applications align with existing legal standards and promote a trustworthy digital economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:09.778439",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1186,
+    "category": "6411 technology and technical regulations"
+  }
+}

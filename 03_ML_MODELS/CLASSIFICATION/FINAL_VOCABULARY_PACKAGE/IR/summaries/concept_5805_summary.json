@@ -1,0 +1,63 @@
+{
+  "concept_id": "5805",
+  "concept_data": {
+    "title": "president of the republic",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": true,
+    "preferred_term": "head of State",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"president of the republic\" is a redirect to \"head of State,\" a pivotal role within the political framework of EU member states. This position encompasses the responsibility of upholding democracy and ensuring adherence to constitutional stipulations. In various contexts, such as in Serbia under Slobodan Milosevic, the role has been scrutinized for violations of human rights and repression of opposition. The EU often engages in auditing and monitoring elections to ensure orderly democratic processes, addressing issues like the misappropriated assets of leaders like Charles Taylor in Liberia. The consolidation of peace and humanitarian efforts abroad remains a priority, as the EU seeks to lift sanctions and support democratic transitions in countries like Belarus and Nigeria, where civilian rights have been undermined. The head of State must navigate complex political landscapes, often involving allies and addressing violations to maintain stability and satisfaction among constituents.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:41:50.550595",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 145,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1073,
+      "selected_avg_freq": 496.85333333333335
+    },
+    "related_words": [
+      "jewell",
+      "howard",
+      "allies",
+      "secreting",
+      "liens",
+      "kostunica",
+      "slobodan",
+      "sworn",
+      "milosevic",
+      "liberian",
+      "lukashenko",
+      "misappropriated",
+      "taylor",
+      "charles",
+      "associates",
+      "democratically",
+      "stipulation",
+      "nigeria",
+      "depletion",
+      "liberia",
+      "fry",
+      "unscr",
+      "elected",
+      "senior",
+      "encompass",
+      "repression",
+      "civilian",
+      "undermined",
+      "abroad",
+      "auditing"
+    ],
+    "prompt_length": 1733,
+    "category": "0406 political framework"
+  }
+}

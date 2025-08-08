@@ -1,0 +1,63 @@
+{
+  "concept_id": "5462",
+  "concept_data": {
+    "title": "animal well-being",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal welfare",
+    "relation_type": "USE"
+  },
+  "summary": "Animal well-being, often referred to as \"animal welfare\" in EU legal and regulatory contexts, encompasses the ethical treatment and care of sentient vertebrates within agricultural activities. This concept is critical in addressing issues such as cloning and somatic cell nuclear transfer (SCNT), which raise ethical concerns among veterinarians and animal rights advocates. The regulatory framework aims to enhance the microclimate of animal habitats, ensuring their needs are met, including during oestrus and everyday living conditions. Initiatives like Eurobarometer surveys explore public perceptions of animal welfare, while seminars and booklets educate stakeholders on practices that avoid bludgeons and promote humane treatment. The EU's omnibus regulations also address ethological needs, mapping out standards for the care of animals, including those used in hunts or for fur production.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:36.880326",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1541,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 67,
+      "selected_avg_freq": 29.80666666666667
+    },
+    "related_words": [
+      "cloning",
+      "scnt",
+      "microclimate",
+      "edit",
+      "booklet",
+      "penned",
+      "seminar",
+      "tns",
+      "nelson",
+      "sofres",
+      "eos",
+      "gallup",
+      "hakapiks",
+      "bludgeons",
+      "blubber",
+      "hunts",
+      "eurobarometer",
+      "stilbene",
+      "unattractive",
+      "everyday",
+      "veterinerian",
+      "ethological",
+      "milieu",
+      "sentient",
+      "vertebrate",
+      "inuit",
+      "renovating",
+      "omnibus",
+      "somatic",
+      "hyperthyroidism"
+    ],
+    "prompt_length": 1685,
+    "category": "5631 agricultural activity"
+  }
+}

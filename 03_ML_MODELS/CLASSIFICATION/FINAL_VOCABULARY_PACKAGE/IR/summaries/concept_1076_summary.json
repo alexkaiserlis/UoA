@@ -1,0 +1,63 @@
+{
+  "concept_id": "1076",
+  "concept_data": {
+    "title": "form",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"form\" refers to the structured documentation required for compliance with various regulations. This includes forms for documenting exceedences of substances like sulfonamides or chlorobenzilate, which are critical in assessing environmental impact. The granularity of these forms is essential for ensuring that legislators can appraise the implications of substances such as octabromodiphenyl and monocrotophos. Forms facilitate the organisation of data, enabling systemically resilient responses to illegitimate practices. They also play a role in the application of Incoterms, ensuring clarity in transactions. Moreover, forms are vital for combatting issues like spontaneous pollution and ensuring proper venue for legal actions by plaintiffs.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:22:18.087825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1884,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 75,
+      "selected_avg_freq": 34.62
+    },
+    "related_words": [
+      "simap",
+      "incoterm",
+      "incoterms",
+      "impressed",
+      "exceedences",
+      "cpv",
+      "bourbon",
+      "granularity",
+      "qrm",
+      "documenting",
+      "appraises",
+      "phosphamidon",
+      "pbbs",
+      "siis",
+      "tetraethyl",
+      "sulfonamides",
+      "sulfonyls",
+      "vocabulary",
+      "venue",
+      "spontaneous",
+      "chlorobenzilate",
+      "organisers",
+      "sytem",
+      "plenipotentaries",
+      "structuring",
+      "resilient",
+      "plaintiffs",
+      "octabromodiphenyl",
+      "monocrotophos",
+      "illegitimate"
+    ],
+    "prompt_length": 1737,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1828",
+  "concept_data": {
+    "title": "standard lamp",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "lighting equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"standard lamp,\" a redirect to \"lighting equipment,\" encompasses a wide range of illuminating devices regulated under EU law. These devices, including crafted fixtures and decorative smallwares, are designed to enhance spaces with both aesthetic and functional qualities. The regulatory framework addresses criteria such as energy efficiency, safety, and environmental impact. Notably, products like CFLs and neonlite lamps must comply with directives on thermoluminescence and phototransfer. Additionally, the use of polished sockets and ballasts ensures optimal performance. The EU emphasizes innovation in lighting, encouraging the development of directional and optically advanced designs, while also considering consumer preferences for scented or unscented options.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:28.779773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1302,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 82,
+      "selected_avg_freq": 31.606666666666666
+    },
+    "related_words": [
+      "oriel",
+      "phototransfer",
+      "developng",
+      "flament",
+      "impudence",
+      "scented",
+      "unscented",
+      "uncoloured",
+      "arouse",
+      "curiosity",
+      "rosettes",
+      "strass",
+      "octagonal",
+      "facets",
+      "symmetrically",
+      "pendants",
+      "apex",
+      "illuminating",
+      "optically",
+      "smallwares",
+      "thermoluminescence",
+      "lisheng",
+      "megaman",
+      "neonlite",
+      "direkt",
+      "directional",
+      "uvc",
+      "socket",
+      "inners",
+      "polished"
+    ],
+    "prompt_length": 1719,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

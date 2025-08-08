@@ -1,0 +1,63 @@
+{
+  "concept_id": "173",
+  "concept_data": {
+    "title": "budgetary control",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Budgetary control within the EU legal framework refers to the rigorous oversight mechanisms that ensure public spending aligns with established projections and regulations. This process hinges on the veracity of financial inflows and outflows, warranting that all booked expenditures are recoverable and disallowed spending is minimized. It encompasses dynamics that may tilt towards weaker fiscal trajectories, particularly during economic downturns. The European Commission conducts inquiries to assess compliance with budgetary rules, ensuring that member states do not surpass their fiscal limits. This control is crucial for maintaining financial stability and counterbalancing potential downside risks in economic planning, especially in sectors like telecom and agriculture (e.g., SAPARD).",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:28.476342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 893,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 221,
+      "selected_avg_freq": 104.32
+    },
+    "related_words": [
+      "tilted",
+      "downside",
+      "grd",
+      "luf",
+      "bef",
+      "iep",
+      "surpass",
+      "mafas",
+      "surpassed",
+      "accrual",
+      "maturities",
+      "frf",
+      "clears",
+      "huf",
+      "efc",
+      "plausible",
+      "pte",
+      "dkk",
+      "hinges",
+      "trajectory",
+      "counterbalanced",
+      "weaker",
+      "spell",
+      "availing",
+      "nlg",
+      "esp",
+      "rigorously",
+      "recoverable",
+      "warranting",
+      "projection"
+    ],
+    "prompt_length": 1583,
+    "category": "2441 budget"
+  }
+}

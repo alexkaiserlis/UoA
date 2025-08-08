@@ -1,0 +1,63 @@
+{
+  "concept_id": "1160",
+  "concept_data": {
+    "title": "management of resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"management of resources\" within EU environmental policy encompasses a rationally structured approach to sustain and replenish natural habitats, addressing issues such as desertification and the conservation of biotopes. This regulatory framework commits to educating stakeholders and disseminating best practices for optimal resource use, including the reusing of exhaustible resources. It emphasizes the importance of crosschecking data to ensure the sustainable management of interconnected ecosystems, such as those involving swordfish and sandeel. By liberalizing access to information and fostering a modus vivendi among member states, the EU aims to neutralize threats to biodiversity and promote long-term ecological balance, culminating in effective resource governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:39:41.143222",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1128,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 154,
+      "selected_avg_freq": 75.46
+    },
+    "related_words": [
+      "treatened",
+      "educate",
+      "dissiminate",
+      "sited",
+      "windhoek",
+      "anf",
+      "decarbonise",
+      "sensible",
+      "crosschecking",
+      "iczm",
+      "biotopes",
+      "rationally",
+      "zonal",
+      "exhaustible",
+      "reusing",
+      "optimally",
+      "upkeep",
+      "desertification",
+      "locating",
+      "interconnections",
+      "longline",
+      "obesus",
+      "diminishes",
+      "liberalizing",
+      "sandeel",
+      "shetland",
+      "replenishment",
+      "modus",
+      "vivendi",
+      "rtd"
+    ],
+    "prompt_length": 1731,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5792",
+  "concept_data": {
+    "title": "living plant",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"living plant\" within EU legal and regulatory frameworks encompasses a variety of agricultural activities involving the cultivation of diverse species, including rare varieties such as tazetta, tulips, and begonias. Regulations governing living plants aim to ensure the quality and safety of horticultural products, including gladioli, dahlias, and neapolitanum. The classification extends to ornamental plants like ixia and eranthis, as well as bulbs such as hippeastrum and lilium. Compliance with grading standards is crucial for species like narcissus and muscari, while the promotion of biodiversity includes the protection of unique varieties like fritillaria and tricolor. This regulatory landscape supports sustainable agricultural practices and enhances market access for producers of living plants, ensuring that beauty and diversity, exemplified by tulipa and scilla, are preserved in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:34:57.262833",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 753,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 281,
+      "selected_avg_freq": 85.14
+    },
+    "related_words": [
+      "tazetta",
+      "tulips",
+      "begonias",
+      "sinningias",
+      "gladioli",
+      "dahlias",
+      "neapolitanum",
+      "ixia",
+      "eranthis",
+      "cilicica",
+      "hiemalis",
+      "meleagris",
+      "sparaxis",
+      "tricolor",
+      "irises",
+      "wedgwood",
+      "blaauw",
+      "tulipa",
+      "kaufmanniana",
+      "bellini",
+      "edwin",
+      "lady",
+      "kreisler",
+      "gaiety",
+      "goudstuk",
+      "mendelssohn",
+      "schumann",
+      "solanus",
+      "sweelinck",
+      "hippeastrum"
+    ],
+    "prompt_length": 1676,
+    "category": "5631 agricultural activity"
+  }
+}

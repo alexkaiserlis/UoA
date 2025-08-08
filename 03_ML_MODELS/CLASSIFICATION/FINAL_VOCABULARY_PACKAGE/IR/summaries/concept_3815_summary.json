@@ -1,0 +1,63 @@
+{
+  "concept_id": "3815",
+  "concept_data": {
+    "title": "hormone",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"hormone\" refers to biochemical substances that regulate physiological processes. Hormones such as cortisones, including cortisone and prednisone, play critical roles in health management, particularly in treating conditions like hyperthyroidism and mastitis. Regulatory frameworks monitor the use of anabolic agents like testosterone, trenbolone, and oestrogenic compounds, ensuring safety in medicaments. The use of somatotropin and its analogs, such as somatotrophin, is also scrutinized. Additionally, substances like diethylstilboestrol and prostaglandins are evaluated for their effects on animal health and productivity. The EU emphasizes rigorous monitoring of hormonal treatments to mitigate risks associated with hormonal therapies and their potential impact on public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:16.077928",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1089,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 140,
+      "selected_avg_freq": 46.626666666666665
+    },
+    "related_words": [
+      "cortisones",
+      "cortisone",
+      "prednisone",
+      "acetates",
+      "monotiring",
+      "somatotropin",
+      "gentleman",
+      "adrenal",
+      "cortical",
+      "mometazone",
+      "furoate",
+      "innm",
+      "mastitis",
+      "scawah",
+      "debilitating",
+      "scahaw",
+      "simulate",
+      "patches",
+      "testosterone",
+      "accentuate",
+      "hydrocortisone",
+      "stilbene",
+      "unattractive",
+      "painful",
+      "somatotrophin",
+      "diethylstilboestrol",
+      "bst",
+      "lepidoptera",
+      "progesterone",
+      "hyperthyroidism"
+    ],
+    "prompt_length": 1709,
+    "category": "2841 health"
+  }
+}

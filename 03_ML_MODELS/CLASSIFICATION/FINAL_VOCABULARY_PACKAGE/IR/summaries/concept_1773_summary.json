@@ -1,0 +1,63 @@
+{
+  "concept_id": "1773",
+  "concept_data": {
+    "title": "population analysis",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "demographic analysis",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"population analysis,\" redirected to \"demographic analysis,\" plays a crucial role in EU legal and regulatory frameworks. It involves the systematic examination of demographic data to inform policies and structures that address various societal issues. This analysis enlists experts to assess the overlap between gender, employment, and care responsibilities, ensuring equal opportunities for men and women. By mainstreaming demographic considerations, EU bodies can adapt policies to future challenges, facilitating communication and coordination among committees. Independent demographic analysis contributes to the development of advisory terms of reference, enabling governments to make informed decisions that reflect the diverse needs of European groups.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:04:05.672438",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1763.3333333333333
+    },
+    "related_words": [
+      "enlist",
+      "mainstreaming",
+      "demographic",
+      "gender",
+      "overlap",
+      "complementarity",
+      "challenge",
+      "men",
+      "women",
+      "care",
+      "dealing",
+      "committees",
+      "expert",
+      "opportunities",
+      "composed",
+      "issues",
+      "fields",
+      "experts",
+      "independent",
+      "employment",
+      "adapting",
+      "opportunity",
+      "entitled",
+      "encourage",
+      "structures",
+      "policies",
+      "inform",
+      "coordination",
+      "groups",
+      "absence"
+    ],
+    "prompt_length": 1735,
+    "category": "2816 demography and population"
+  }
+}

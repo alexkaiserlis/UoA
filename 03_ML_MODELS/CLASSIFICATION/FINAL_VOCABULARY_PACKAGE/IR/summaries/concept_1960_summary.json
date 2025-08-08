@@ -1,0 +1,63 @@
+{
+  "concept_id": "1960",
+  "concept_data": {
+    "title": "Molise",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Molise, a region in Italy, is governed by EU regulations that facilitate the modernization and evolution of rural farming practices. The provinces of Campobasso and Chieti are pivotal in this context, where farmers engage in activities aimed at the eradication of diseases such as bluetongue. The EU’s deliberazione on vaccination coverage indicates a commitment to socio-economic stability in these areas. Limitations on movements of livestock are observed to prevent virus circulation, while reallocation of resources is utilized to enhance occupational skills. The presence of specific zones for farming activities is crucial, ensuring compatibility with broader EU agricultural frameworks, thereby supporting the region's development.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:41:49.840519",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 202,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2599,
+      "selected_avg_freq": 1158.5133333333333
+    },
+    "related_words": [
+      "deliberazione",
+      "chieti",
+      "campobasso",
+      "seroconversion",
+      "demarcate",
+      "molise",
+      "hill",
+      "bluetongue",
+      "utilized",
+      "reallocation",
+      "provinces",
+      "mountain",
+      "occupational",
+      "skills",
+      "cessation",
+      "socio",
+      "vaccination",
+      "modernization",
+      "favoured",
+      "epidemiological",
+      "virus",
+      "coverage",
+      "acquisition",
+      "farms",
+      "eradication",
+      "limitations",
+      "inserted",
+      "submitting",
+      "mind",
+      "movements"
+    ],
+    "prompt_length": 1713,
+    "category": "7211 regions of EU Member States"
+  }
+}

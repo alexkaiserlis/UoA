@@ -1,0 +1,63 @@
+{
+  "concept_id": "3619",
+  "concept_data": {
+    "title": "handicrafts",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"handicrafts\" within EU legal and regulatory frameworks encompasses the dynamic sector of small and micro enterprises (SMEs) that possess unique cultural and economic significance. By fostering innovation and internationalization, handicrafts contribute to the Europeanization of commerce, unlocking new markets and enhancing job creation. The sector is characterized by a diverse span of crafts, where businesswomen and businessmen play pivotal roles. However, challenges such as relocation and the influx of global competition pose weaknesses that require caution. The EU's ambitious policies aim to endow craftsmen with qualifications and support, ensuring that this vital occupation does not disappear but rather thrives through consolidation and the overcoming of barriers.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:40:35.644671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 889,
+      "selected_avg_freq": 427.8666666666667
+    },
+    "related_words": [
+      "entrenching",
+      "businessmen",
+      "businesswomen",
+      "europeanization",
+      "internationalization",
+      "knowlege",
+      "unlock",
+      "endow",
+      "dynamism",
+      "innovatory",
+      "influx",
+      "whence",
+      "underestimated",
+      "rtd",
+      "isic",
+      "overcoming",
+      "caution",
+      "crafts",
+      "relocation",
+      "dividing",
+      "ordination",
+      "possesses",
+      "span",
+      "weaknesses",
+      "disappear",
+      "ambitious",
+      "intensify",
+      "diplomas",
+      "fostering",
+      "occupation"
+    ],
+    "prompt_length": 1708,
+    "category": "6806 industrial structures and policy"
+  }
+}

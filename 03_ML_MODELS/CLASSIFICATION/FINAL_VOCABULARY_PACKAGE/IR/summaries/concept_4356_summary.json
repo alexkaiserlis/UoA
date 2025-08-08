@@ -1,0 +1,63 @@
+{
+  "concept_id": "4356",
+  "concept_data": {
+    "title": "banking system",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"banking system\" within the EU context encompasses a framework of financial institutions and credit mechanisms designed to underpin economic stability and sustainability. Regulatory measures, such as the Basel III ratios, aim to enhance liquidity through LCRs (Liquidity Coverage Ratios) and NSFRs (Net Stable Funding Ratios), thereby safeguarding against undue risks. The European Central Bank (ECB) plays a pivotal role in stabilisation efforts, particularly during periods of deleveraging and stress. Furthermore, the system addresses vulnerabilities by linking deposit entitlements to earnings and pension streams, ensuring adequate coverage for retirement. This regulatory landscape is crucial for securing financial stability and managing unemployment risks, particularly for vulnerable entrants in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:34.426570",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 215,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1577,
+      "selected_avg_freq": 651.7133333333334
+    },
+    "related_words": [
+      "disincentives",
+      "deleveraging",
+      "ldr",
+      "nsfrs",
+      "lcrs",
+      "career",
+      "disposals",
+      "streams",
+      "basel",
+      "ratios",
+      "underpin",
+      "entrants",
+      "domestically",
+      "imf",
+      "pension",
+      "activation",
+      "liquidity",
+      "postponement",
+      "restoring",
+      "reassessed",
+      "linking",
+      "entitlements",
+      "stress",
+      "earnings",
+      "retirement",
+      "pensions",
+      "servants",
+      "indexation",
+      "asset",
+      "finances"
+    ],
+    "prompt_length": 1697,
+    "category": "2416 financial institutions and credit"
+  }
+}

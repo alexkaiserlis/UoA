@@ -1,0 +1,63 @@
+{
+  "concept_id": "397",
+  "concept_data": {
+    "title": "administrative expenditure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Administrative expenditure\" refers to the budgetary allocations within the EU framework that are customarily borne by various agencies entrusted with operational duties. This expenditure comprises costs related to the administration of policies, including interventions in euromarkets and the management of resources such as coal and oil. Annually, these expenditures are recorded and justified through accounting practices that effectively correspond to the operational needs of the EU. The majority of such costs arise from the necessity to adjust and reform existing structures, ensuring that the allocated figures align with the objectives of the EAGGF and ECSC. Agencies are obliged to examine and report on these expenditures, ensuring transparency and accountability in the disposal of funds.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:54.930915",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 161,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 3511,
+      "selected_avg_freq": 1653.3666666666666
+    },
+    "related_words": [
+      "euromarkets",
+      "customarily",
+      "autonomy",
+      "weighting",
+      "thirds",
+      "interventions",
+      "portion",
+      "olive",
+      "levies",
+      "figure",
+      "buying",
+      "entrusted",
+      "comprising",
+      "eaggf",
+      "justification",
+      "accounting",
+      "obliged",
+      "adjusting",
+      "qualified",
+      "borne",
+      "coal",
+      "fixes",
+      "annually",
+      "calculating",
+      "reform",
+      "steel",
+      "preceding",
+      "correspond",
+      "majority",
+      "operate"
+    ],
+    "prompt_length": 1658,
+    "category": "2441 budget"
+  }
+}

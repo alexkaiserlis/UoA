@@ -1,0 +1,63 @@
+{
+  "concept_id": "568",
+  "concept_data": {
+    "title": "organic farming",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Organic farming, as defined within EU legal frameworks, emphasizes sustainable cultivation practices that restore ecosystems and enhance biodiversity. This method includes the use of herbivores for natural grazing, promoting healthier soils through composted fertilising agents like monocalciumphosphate and dicalciumphosphate. The regulation of foodstuffs in organic farming ensures that only approved substances, such as pyrethroids and piperonylbutoxide, are utilized, minimizing harmful chemicals. Additionally, organic practices often involve anaerobic fermentations and the use of digestate, derived from organic waste. The EU's commitment to organic farming symbolises a shift towards environmentally friendly agriculture, addressing climate challenges and supporting stockbreeders in sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:30:35.251318",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1425,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 56,
+      "selected_avg_freq": 22.266666666666666
+    },
+    "related_words": [
+      "herbivores",
+      "climates",
+      "kirsch",
+      "restores",
+      "inlcuded",
+      "fermentations",
+      "edited",
+      "cinerariaefolium",
+      "piperonylbutoxide",
+      "synergist",
+      "typography",
+      "accents",
+      "jury",
+      "foodstuffgs",
+      "rationing",
+      "transplants",
+      "articulation",
+      "skal",
+      "monogastric",
+      "finalizing",
+      "scratch",
+      "symbolises",
+      "degreening",
+      "safflower",
+      "phenomenons",
+      "stockbreeders",
+      "pyrethroids",
+      "lambdacyhalothrin",
+      "orthophosphate",
+      "oxychloride"
+    ],
+    "prompt_length": 1794,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

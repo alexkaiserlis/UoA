@@ -1,0 +1,63 @@
+{
+  "concept_id": "3437",
+  "concept_data": {
+    "title": "security forces",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "paramilitary force",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"security forces\" is a redirect term for \"paramilitary force,\" which encompasses various armed groups operating outside traditional military structures. These forces often engage in activities related to peacekeeping and stability, particularly in regions like Somalia, where the European Union Military Command (EUMC) collaborates with NATO and allied nations. The EU Training Mission (EUTM) in Somalia exemplifies efforts to integrate local militias into unified security frameworks, focusing on enhancing capabilities and fostering harmony among clans. The EU's commitment is reiterated through conferences and recommendations from the chairperson, emphasizing the importance of civilian oversight and the willingness to support peace initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:37:14.643467",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 214,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1799,
+      "selected_avg_freq": 624.5333333333333
+    },
+    "related_words": [
+      "sofa",
+      "trajkovski",
+      "unsg",
+      "clans",
+      "tgf",
+      "kampala",
+      "nsf",
+      "ugandan",
+      "militias",
+      "euf",
+      "tfg",
+      "addis",
+      "ababa",
+      "eutm",
+      "harmony",
+      "terminates",
+      "eumc",
+      "fyrom",
+      "somali",
+      "manning",
+      "chairperson",
+      "nato",
+      "appreciation",
+      "allied",
+      "focusing",
+      "commander",
+      "command",
+      "somalia",
+      "gains",
+      "psc"
+    ],
+    "prompt_length": 1670,
+    "category": "0821 defence"
+  }
+}

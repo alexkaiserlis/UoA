@@ -1,0 +1,63 @@
+{
+  "concept_id": "4743",
+  "concept_data": {
+    "title": "table poultry",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "poultry",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"table poultry,\" a redirect to the preferred term \"poultry,\" encompasses various agricultural activities related to the production of poultrymeat, including species such as dinde (turkey) and pheasant. The regulation of poultry involves considerations of poultryfeed, hatchery practices, and the use of incubators to ensure optimal growth conditions. Legal frameworks address bioaccumulable substances, including chloroorganic compounds and peroxyacids, which may impact poultry health. Furthermore, epidemiological monitoring of diseases like pullorum and gallinarum is essential. The specificity of serovars and the application of enzymes like mannanase and galactosidase are also regulated to enhance poultry production efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:54.066927",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 3352,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 6.946666666666666
+    },
+    "related_words": [
+      "poultryfeed",
+      "volailles",
+      "dinde",
+      "bronzée",
+      "incubators",
+      "hadar",
+      "virchow",
+      "capon",
+      "belfeed",
+      "trisodium",
+      "peroxyacids",
+      "chloroorganic",
+      "bioaccumulable",
+      "afc",
+      "communnity",
+      "guanidinoacetic",
+      "galactosidase",
+      "mannanase",
+      "hemicell",
+      "lentus",
+      "animalis",
+      "salivarius",
+      "norel",
+      "histomonostas",
+      "epidemiogical",
+      "portomaggiore",
+      "hatchery",
+      "poultymeat",
+      "inexistance",
+      "talaromyces"
+    ],
+    "prompt_length": 1761,
+    "category": "5631 agricultural activity"
+  }
+}

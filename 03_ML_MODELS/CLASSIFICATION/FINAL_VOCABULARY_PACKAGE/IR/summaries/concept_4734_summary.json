@@ -1,0 +1,63 @@
+{
+  "concept_id": "4734",
+  "concept_data": {
+    "title": "winegrowing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "viticulture",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"winegrowing,\" redirected to \"viticulture,\" encompasses the agricultural activity of cultivating grapevines for wine production within the EU's regulatory framework. This sector is characterized by its peculiarity in managing cépages and ensuring quality through practices like pectolytic enzyme use and monitoring overproduction. Legal documents often justify regulations surrounding distillatin processes and the use of fortifiers to maintain wine integrity. Issues such as distrust in labeling and the implications of spoilage, especially in regions like Mittelrhein and Nahe, are critical. The winesector must navigate contracts that address generational practices, ensuring that varietals like Portugieser and Silvaner are maximized in hectoliters without unjustly affecting market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:34.467723",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2896,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 15,
+      "selected_avg_freq": 8.0
+    },
+    "related_words": [
+      "peculiarity",
+      "justifiy",
+      "portugieser",
+      "affair",
+      "distrust",
+      "qustion",
+      "rosăš",
+      "maximized",
+      "dimethyldicarbonate",
+      "meanings",
+      "generational",
+      "distillatin",
+      "spoiled",
+      "hectoliters",
+      "cépages",
+      "conctracts",
+      "winesector",
+      "pectolytic",
+      "gozo",
+      "késői",
+      "szüretelésű",
+      "vendanges",
+      "tardives",
+      "glace",
+      "paille",
+      "overproduction",
+      "ares",
+      "unjustly",
+      "jobbing",
+      "kazakstan"
+    ],
+    "prompt_length": 1722,
+    "category": "5631 agricultural activity"
+  }
+}

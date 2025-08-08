@@ -1,0 +1,63 @@
+{
+  "concept_id": "4565",
+  "concept_data": {
+    "title": "public works",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"public works\" within EU legal and regulatory frameworks encompasses a totality of projects aimed at infrastructure development, such as roads, bridges, and energy generators. These initiatives often involve complicated bidding processes where contractors submit bids to secure contracts. The bidding environment can occasionally distort market dynamics, with bidders approaching projects in megalopolises and smaller regions alike. Regulatory frameworks ensure compliance, preventing violations that could arise from devaluation or unfair practices. Public works projects, such as turbine installations or renovation of existing structures, are critical for economic drivers and community occupation, ultimately generating benefits for buyers and sellers alike.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:07.719717",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 450,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 633,
+      "selected_avg_freq": 275.22
+    },
+    "related_words": [
+      "ppc",
+      "megalopolis",
+      "hermes",
+      "kredit",
+      "versicherungs",
+      "magalopolis",
+      "immedialety",
+      "fremework",
+      "rediscount",
+      "rodebach",
+      "selfkant",
+      "millen",
+      "echt",
+      "susteren",
+      "sittard",
+      "drachmas",
+      "bidders",
+      "approached",
+      "turbine",
+      "intervenes",
+      "win",
+      "violates",
+      "bidder",
+      "devaluation",
+      "generator",
+      "drachma",
+      "steam",
+      "bidding",
+      "irrelevant",
+      "acquisitions"
+    ],
+    "prompt_length": 1680,
+    "category": "6831 building and public works"
+  }
+}

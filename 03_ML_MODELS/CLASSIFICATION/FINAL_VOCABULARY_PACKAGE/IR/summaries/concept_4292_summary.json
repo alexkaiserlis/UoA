@@ -1,0 +1,63 @@
+{
+  "concept_id": "4292",
+  "concept_data": {
+    "title": "stockpiling of weapons",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"stockpiling of weapons\" refers to the accumulation and storage of firearms, ammunition, and explosives, which poses a destabilising threat to peace and security. Within the EU's legal framework, particularly under the Common Foreign and Security Policy (CFSP), stockpiling is addressed through disarmament initiatives and coordinated efforts to combat illicit trafficking. The European Parliament and various forums, including academies and training centres, pursue strategies to clear surplus stockpiles and enhance visibility of weapons capabilities. The EU intends to render these stockpiles controlled and secure, appealing to member states to ensure compliance with regulations that envisage the destruction of uncontrolled arms, thereby enhancing regional stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:56:45.238273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 152,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4073,
+      "selected_avg_freq": 1306.2133333333334
+    },
+    "related_words": [
+      "academies",
+      "parliamentarians",
+      "lirec",
+      "lima",
+      "forums",
+      "dda",
+      "firearms",
+      "stockpile",
+      "trainers",
+      "appealed",
+      "explosives",
+      "disarmament",
+      "ammunition",
+      "destabilising",
+      "pursues",
+      "train",
+      "latin",
+      "visibility",
+      "uncontrolled",
+      "trafficking",
+      "weapons",
+      "capabilities",
+      "clearing",
+      "illicit",
+      "accumulation",
+      "house",
+      "arms",
+      "pursuing",
+      "peace",
+      "envisages"
+    ],
+    "prompt_length": 1682,
+    "category": "0821 defence"
+  }
+}

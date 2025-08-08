@@ -1,0 +1,63 @@
+{
+  "concept_id": "42",
+  "concept_data": {
+    "title": "legal jurisdiction",
+    "category_code": "1226",
+    "category_name": "organisation of the legal system",
+    "category_full": "1226 organisation of the legal system",
+    "is_redirect": true,
+    "preferred_term": "jurisdiction",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"legal jurisdiction,\" often redirected to \"jurisdiction,\" is pivotal in the organization of the legal system within the EU. It encompasses the authority of tribunals to adjudicate matters, including those involving matrimonial disputes, where spouses may seek redress for irreconcilable differences. Jurisdictional issues can arise in cases of domicile, affecting policyholders and defendants in various legal contexts, such as reinsurance and succession. The Lugano Convention facilitates swifter resolution of cross-border disputes, while the principle of lis pendens ensures that claims are not dissociated across jurisdictions. Modernised frameworks aim to enhance enforceability of judgements, addressing potential invalidity and ensuring equitable treatment for all parties involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:47.047196",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 663,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 406,
+      "selected_avg_freq": 178.04
+    },
+    "related_words": [
+      "swifter",
+      "marriage",
+      "concordats",
+      "canonical",
+      "marriages",
+      "ecclesiastical",
+      "redraft",
+      "paved",
+      "policyholder",
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "hns",
+      "unequivocally",
+      "judgements",
+      "fills",
+      "claimant",
+      "sued",
+      "defendant",
+      "noxious",
+      "domiciled",
+      "domicile",
+      "enumerates",
+      "holy",
+      "defendants",
+      "victim",
+      "lugano",
+      "regained",
+      "parallelism"
+    ],
+    "prompt_length": 1735,
+    "category": "1226 organisation of the legal system"
+  }
+}

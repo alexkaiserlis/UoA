@@ -1,0 +1,63 @@
+{
+  "concept_id": "5226",
+  "concept_data": {
+    "title": "land restructuring",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Land restructuring, a concept within EU farming systems, involves the rationalization and reparcelling of agricultural land to enhance productivity and address imbalances in vineyard management. This process serves to align the interests of growers by facilitating the collective planting of vines across hectares, thereby ensuring that irrigation and surface management are optimized. The restructured land can accelerate incomes for recipients of premiums under the Common Agricultural Policy, particularly in regions like Charentes. By observing the particulars of land use, the EU aims to eliminate unfavourable conditions and promote a coherent approach to vineyard development, ultimately advancing the sustainability of wine production.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:25:27.755751",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 336,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1278,
+      "selected_avg_freq": 653.0866666666667
+    },
+    "related_words": [
+      "reparcelling",
+      "oppinion",
+      "comittee",
+      "charentes",
+      "restructured",
+      "vineyard",
+      "interval",
+      "irrigation",
+      "vineyards",
+      "vines",
+      "psr",
+      "imbalances",
+      "restructure",
+      "rationalize",
+      "collectively",
+      "hectares",
+      "naturally",
+      "planting",
+      "vine",
+      "growers",
+      "fairly",
+      "alignment",
+      "incomes",
+      "hectare",
+      "favoured",
+      "necessitates",
+      "observe",
+      "serves",
+      "discontinued",
+      "accelerate"
+    ],
+    "prompt_length": 1711,
+    "category": "5616 farming systems"
+  }
+}

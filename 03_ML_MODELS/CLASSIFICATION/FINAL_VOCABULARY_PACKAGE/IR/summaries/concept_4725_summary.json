@@ -1,0 +1,63 @@
+{
+  "concept_id": "4725",
+  "concept_data": {
+    "title": "still wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Still wine\" is defined within EU legal and regulatory frameworks as a type of alcoholic beverage, distinct from other forms of alcohols. It is primarily subject to customs duties and import regulations, impacting travellers and individuals bringing personal consignments into the EU. The economic nature of still wine is significant, as it appears in various articles of EU legislation, including proposals amending existing regulations. The system lays out ceilings on quantities that can be imported duty-free, reflecting the EU's approach to managing commercial goods. This concept is essential for understanding the applicable duties and relief measures for small producers and private consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:56:15.008657",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 61,
+      "requested_words": 150,
+      "min_frequency_found": 37,
+      "max_frequency_found": 4108,
+      "selected_words": 61,
+      "selected_min_freq": 37,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1904.983606557377
+    },
+    "related_words": [
+      "alcohols",
+      "luggage",
+      "travellers",
+      "alcoholic",
+      "beverages",
+      "relief",
+      "admitted",
+      "consignments",
+      "ceilings",
+      "concept",
+      "individuals",
+      "personal",
+      "ceiling",
+      "private",
+      "appear",
+      "ecu",
+      "sent",
+      "duty",
+      "imported",
+      "duties",
+      "import",
+      "commercial",
+      "likely",
+      "shown",
+      "small",
+      "expressed",
+      "customs",
+      "contained",
+      "goods",
+      "experience"
+    ],
+    "prompt_length": 1629,
+    "category": "6021 beverages and sugar"
+  }
+}

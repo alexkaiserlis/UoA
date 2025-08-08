@@ -1,0 +1,63 @@
+{
+  "concept_id": "315",
+  "concept_data": {
+    "title": "leather product",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "leather",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"leather product,\" categorized under the leather and textile industries, is redirected to the preferred term \"leather.\" In EU legal and regulatory frameworks, leather encompasses various tanned hides, including those used for handbags, purses, and slippers. The tanning process, involving substances like chamois and crust, is crucial for product durability. Regulatory challenges arise in ensuring that leather goods, such as straps and toecaps, meet safety and environmental standards. The EU's engagement with trade partners like Mercosur influences market dynamics, while statistical data on leather production highlights successes and challenges faced by tanners and dressers across regions like Dongguan and Marrakech.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:29:09.771102",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1126,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 136,
+      "selected_avg_freq": 55.373333333333335
+    },
+    "related_words": [
+      "gainth",
+      "macia",
+      "sheng",
+      "leathern",
+      "simone",
+      "handbag",
+      "purses",
+      "statistic",
+      "challengable",
+      "successes",
+      "handbags",
+      "dowa",
+      "jpy",
+      "straps",
+      "nonwovens",
+      "panyu",
+      "linters",
+      "keys",
+      "chamois",
+      "prosper",
+      "constitue",
+      "shoulder",
+      "upswing",
+      "standpoints",
+      "toecap",
+      "cotance",
+      "tanners",
+      "dressers",
+      "tanned",
+      "admits"
+    ],
+    "prompt_length": 1656,
+    "category": "6841 leather and textile industries"
+  }
+}

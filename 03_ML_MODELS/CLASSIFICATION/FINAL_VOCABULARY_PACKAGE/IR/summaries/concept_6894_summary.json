@@ -1,0 +1,63 @@
+{
+  "concept_id": "6894",
+  "concept_data": {
+    "title": "online administration",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "electronic government",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"online administration,\" redirected to \"electronic government,\" encompasses the use of digital technologies to enhance public service delivery within the EU. This framework obliges public authorities to ensure that processes are trustworthy and that data exchanged remains privacy-compliant. Key actors, including accredited service providers, must validate the authenticity of electronic signatures and ensure interoperability of systems, as outlined by ETSI standards. Automated alerts and structured templates facilitate efficient communication, while retention policies govern the persistence of data. The role of supervisory bodies is crucial in mitigating threats to security and ensuring that citizens can rely on fast, readable, and processable information.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:08.214712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 464,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 708,
+      "selected_avg_freq": 346.31333333333333
+    },
+    "related_words": [
+      "malmö",
+      "handwritten",
+      "curia",
+      "password",
+      "trusted",
+      "processable",
+      "erased",
+      "interlocutor",
+      "trustworthy",
+      "idabc",
+      "egovernment",
+      "signatures",
+      "authentication",
+      "template",
+      "etsi",
+      "readable",
+      "interoperable",
+      "alerts",
+      "consuming",
+      "tribunal",
+      "validate",
+      "provider",
+      "privacy",
+      "plenary",
+      "supervisor",
+      "persists",
+      "persistence",
+      "besides",
+      "threats",
+      "supervised"
+    ],
+    "prompt_length": 1736,
+    "category": "0436 executive power and public service"
+  }
+}

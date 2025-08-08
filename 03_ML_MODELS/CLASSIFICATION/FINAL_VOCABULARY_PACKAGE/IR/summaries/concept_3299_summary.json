@@ -1,0 +1,63 @@
+{
+  "concept_id": "3299",
+  "concept_data": {
+    "title": "single market",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"single market\" is a foundational concept within EU legal and regulatory frameworks, aimed at creating a unified marketplace across member states. This framework facilitates the free movement of goods, services, capital, and people, thereby enhancing economic cooperation. It necessitates that member states liaise effectively to address unpropitious market conditions and ensure compliance with various regulations, such as the organisationsgesetz governing market operations. The single market also involves a bedarfsprüfung process to assess demand, thereby preventing unfairness and promoting equitable competition among acquirers. By circumscribing barriers, the EU seeks to decisively rethink traditional economic models, fostering an intelligible and efficient marketplace.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:19:30.364197",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2881,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 10.573333333333334
+    },
+    "related_words": [
+      "iass",
+      "iasc",
+      "marketplace",
+      "liaise",
+      "unpropitious",
+      "producciรณn",
+      "framed",
+      "bundesministerium",
+      "wirtschaftliche",
+      "angelegenheiten",
+      "elektrizitätswirtschafts",
+      "organisationsgesetz",
+      "elwog",
+      "verbundgesellschaft",
+      "bedarfsprüfung",
+      "freudenau",
+      "salzach",
+      "kraftwerkskette",
+      "obere",
+      "drau",
+      "voitsberg",
+      "gkb",
+      "ödk",
+      "preliminarily",
+      "decisively",
+      "rethink",
+      "cinematographic",
+      "amateur",
+      "nga",
+      "acquirers"
+    ],
+    "prompt_length": 1775,
+    "category": "1016 European construction"
+  }
+}

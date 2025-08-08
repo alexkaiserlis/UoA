@@ -1,0 +1,63 @@
+{
+  "concept_id": "4742",
+  "concept_data": {
+    "title": "theft",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"theft\" within EU criminal law encompasses various forms of misappropriation, where individuals, such as suspects like Antonios or Baptiste, unlawfully take property belonging to others. Legal frameworks aim to deter such acts through stringent regulations, with cases often involving fingerprints and evidence from convoys. Notable cases, like those involving Garcĺa or Paredes, highlight the complexities of theft, including the roles of various actors, such as the navy's Commodore or Captain, in enforcement. The EU emphasizes cooperation among member states, as seen in operations like Atalanta, to combat theft effectively and ensure justice for victims like Enrico or Philip.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:07.697262",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 391,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 639,
+      "selected_avg_freq": 190.34666666666666
+    },
+    "related_words": [
+      "tarrant",
+      "garcĺa",
+      "paredes",
+      "novo",
+      "credendino",
+      "mühlen",
+      "jonas",
+      "haggren",
+      "manso",
+      "baptiste",
+      "rando",
+      "convoys",
+      "dupuis",
+      "misappropriation",
+      "enrico",
+      "arrested",
+      "antonios",
+      "papaioannou",
+      "caramé",
+      "ángel",
+      "duncan",
+      "potts",
+      "commended",
+      "garat",
+      "pérez",
+      "guido",
+      "suspects",
+      "tfg",
+      "commodore",
+      "jorge"
+    ],
+    "prompt_length": 1594,
+    "category": "1216 criminal law"
+  }
+}

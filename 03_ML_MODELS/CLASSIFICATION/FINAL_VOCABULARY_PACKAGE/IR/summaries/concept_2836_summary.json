@@ -1,0 +1,63 @@
+{
+  "concept_id": "2836",
+  "concept_data": {
+    "title": "consumers' rights",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "consumer protection",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"consumers' rights,\" redirected to \"consumer protection,\" encompasses EU regulations aimed at safeguarding individuals against unfair practices and ensuring intelligible access to information. This legal framework circumscribes the obligations of acquirers and suppliers, promoting fairness in transactions. It addresses issues such as toxicities related to substances like chloroxuron and methoxychlor, ensuring that products do not pose health risks. Provisions include the right to refunds and the prohibition of unfair imitations. The EU's commitment to consumer protection is reflected in its regulations on additives like butylated hydroxyanisole (BHA) and the use of thermally oxidized substances, ensuring that consumers are not shaken by unfair practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:35:39.952857",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 4090,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.773333333333333
+    },
+    "related_words": [
+      "chloroxuron",
+      "ethane",
+      "methoxychlor",
+      "cartap",
+      "dicyclanil",
+      "aobut",
+      "toxicities",
+      "costus",
+      "saussurea",
+      "lappa",
+      "hexahydrocoumarin",
+      "myroxylon",
+      "pereirae",
+      "airside",
+      "overtime",
+      "10îźg",
+      "14îźg",
+      "butylated",
+      "hydroxyanisole",
+      "bha",
+      "provsionally",
+      "imitations",
+      "acquirers",
+      "editing",
+      "unfairness",
+      "circumscribe",
+      "intelligible",
+      "shaken",
+      "noni",
+      "tahitian"
+    ],
+    "prompt_length": 1737,
+    "category": "2026 consumption"
+  }
+}

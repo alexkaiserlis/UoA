@@ -1,0 +1,63 @@
+{
+  "concept_id": "5123",
+  "concept_data": {
+    "title": "production potential",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "production capacity",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"production potential,\" redirected to \"production capacity,\" is crucial in EU regulatory frameworks concerning industrial efficiency and economic restructuring. It encompasses the ability of entities, such as the chemiefaserkombinat in Thüringen, to optimize outputs while addressing inefficiencies and uncompetitiveness. This includes investments in polymerization processes and the reassembly of disused facilities, such as the teppichfaserwerk in Swindon. The concept also relates to the management of offsets in production, ensuring that essential resources like lentils and vetches are utilized effectively. By enhancing production capacity, the EU aims to mitigate disquieting economic disparities and promote sustainable growth across member states, including those in the Comecon bloc.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:54:25.356469",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1700,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 65,
+      "selected_avg_freq": 26.566666666666666
+    },
+    "related_words": [
+      "viktoria",
+      "restucturing",
+      "backfilling",
+      "disused",
+      "gewerkshaft",
+      "offsets",
+      "swindon",
+      "oxygenblown",
+      "reassembly",
+      "garngesellschaft",
+      "brattendorf",
+      "chemiefaserkombinat",
+      "pieck",
+      "schwarza",
+      "polyacrylonitrile",
+      "bloc",
+      "elsewehre",
+      "badly",
+      "maerkische",
+      "faser",
+      "rhotex",
+      "thueringischen",
+      "lausitzer",
+      "teppichfaserwerk",
+      "texturization",
+      "uncompetitiveness",
+      "afer",
+      "interspecific",
+      "thueringen",
+      "knitwear"
+    ],
+    "prompt_length": 1783,
+    "category": "6406 production"
+  }
+}

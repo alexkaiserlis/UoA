@@ -1,0 +1,63 @@
+{
+  "concept_id": "4824",
+  "concept_data": {
+    "title": "Lower Normandy",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Lower Normandy, or Normandie, is a designated region within the EU Member States, specifically categorized under 7211 regions. It plays a significant role in the context of EU regulatory frameworks, particularly concerning economic commitments and funding allocations. The region is known for its production of camembert cheese, which is protected under PDO (Protected Designation of Origin) regulations. Lower Normandy's development is supported by various EU funds, including the ERDF (European Regional Development Fund) and ESF (European Social Fund), which aim to enhance regional readiness and address declining economic patterns. The programming of these funds foresees allocations that satisfy statutory requirements, ensuring that recipients can retain their economic viability amidst inflation challenges. The region's development strategies are indexed to EU objectives, with a focus on additionality and modifying existing frameworks to optimize outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:36:28.335437",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 404,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1078,
+      "selected_avg_freq": 633.9866666666667
+    },
+    "related_words": [
+      "camembert",
+      "basse",
+      "normandie",
+      "comitments",
+      "bourgogne",
+      "rechar",
+      "normandy",
+      "additionality",
+      "indexed",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees",
+      "statutory"
+    ],
+    "prompt_length": 1672,
+    "category": "7211 regions of EU Member States"
+  }
+}

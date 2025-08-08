@@ -1,0 +1,63 @@
+{
+  "concept_id": "3474",
+  "concept_data": {
+    "title": "international politics",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "international affairs",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"international politics,\" redirected to \"international affairs,\" encompasses the EU's engagement in global governance and diplomacy. It involves the EU's efforts to counter terrorism, as seen in its resolutions against entities like the Taliban and Al-Qaida, which purport to undermine peace and stability. The EU observes elections in regions such as Afghanistan and the Middle East, empowering democratic processes. Through frameworks like the UNSCR, the EU directs its member states to freeze assets of individuals linked to terrorism, including those involved in crimes against the ummah. This comprehensive approach aims to foster a stable international environment while addressing complex challenges, including the DPRK's actions and Palestinian issues.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:11:56.429695",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 331,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1113,
+      "selected_avg_freq": 506.3466666666667
+    },
+    "related_words": [
+      "ummah",
+      "tameer",
+      "nau",
+      "purports",
+      "surprise",
+      "yassin",
+      "abdullah",
+      "kadi",
+      "barakaat",
+      "dprk",
+      "usama",
+      "qaida",
+      "bin",
+      "taliban",
+      "crimes",
+      "observing",
+      "laden",
+      "countering",
+      "afghanistan",
+      "unscr",
+      "terrorist",
+      "palestinian",
+      "determinations",
+      "tenth",
+      "chamber",
+      "flight",
+      "foundation",
+      "terrorism",
+      "freeze",
+      "elections"
+    ],
+    "prompt_length": 1684,
+    "category": "0806 international affairs"
+  }
+}

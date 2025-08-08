@@ -1,0 +1,63 @@
+{
+  "concept_id": "3547",
+  "concept_data": {
+    "title": "public holiday",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"public holiday\" refers to designated days of celebration that are recognized by member states, often linked to cultural or historical events. These holidays may derogate from standard working conditions, allowing employees to observe significant dates without the obligation to employ or deliver services. For instance, a public holiday may fall on a Sunday or coincide with a grand celebration, such as a national birthday. The regulation of public holidays can impact tendering processes and employment contracts, as numerous directives and treaties address the rights and obligations of workers during these days. In Luxembourg, public holidays may also draw attention during outbreaks of bovine spongiform encephalopathy (BSE), affecting the beef and veal industries. Thus, the regulation of public holidays is integral to ensuring justice and maintaining organized work conditions across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:58:25.975948",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 160,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1564.36
+    },
+    "related_words": [
+      "celebration",
+      "duke",
+      "birthday",
+      "sunday",
+      "holiday",
+      "derogated",
+      "holidays",
+      "employ",
+      "seat",
+      "cancel",
+      "observes",
+      "bse",
+      "draws",
+      "encephalopathy",
+      "opens",
+      "spongiform",
+      "fell",
+      "tendering",
+      "foot",
+      "mouth",
+      "closing",
+      "outbreak",
+      "numerous",
+      "grand",
+      "tenders",
+      "buying",
+      "invitation",
+      "quarter",
+      "derogate",
+      "submitting"
+    ],
+    "prompt_length": 1641,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

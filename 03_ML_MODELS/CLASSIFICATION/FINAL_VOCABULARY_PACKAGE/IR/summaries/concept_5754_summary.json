@@ -1,0 +1,63 @@
+{
+  "concept_id": "5754",
+  "concept_data": {
+    "title": "standard relating to the environment",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental standard",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"standard relating to the environment,\" redirected to \"environmental standard,\" encompasses regulatory frameworks aimed at enhancing sustainability within the EU. These standards address various aspects, including recyclability and recoverability of materials, mandatorily ensuring that products like dishwashers and lawnmowers meet stringent environmental criteria. By setting benchmarks for emissions and resource use, such as payload and footprint, these standards inhibit the use of harmful substances like toxaphene and hexachlorocyclohexane. Additionally, they promote bioenergy initiatives and the use of certified feedstocks, contributing to a greener economy. The integration of standards from organizations like Bonsucro and ISCC exemplifies the EU's commitment to fostering environmentally responsible practices across industries.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:40.277359",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1565,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 63,
+      "selected_avg_freq": 25.02
+    },
+    "related_words": [
+      "recyclability",
+      "recoverability",
+      "dishwasher",
+      "indicatively",
+      "breakers",
+      "picks",
+      "hvo",
+      "crane",
+      "kzr",
+      "inig",
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "ensus",
+      "leaded",
+      "inhibits",
+      "greenergy",
+      "abengoa",
+      "rbsa",
+      "nta",
+      "noises",
+      "dishwashing",
+      "redcert",
+      "roundtable",
+      "lawn",
+      "trimmers",
+      "antonov",
+      "helicopter",
+      "kamov",
+      "reusability"
+    ],
+    "prompt_length": 1743,
+    "category": "5206 environmental policy"
+  }
+}

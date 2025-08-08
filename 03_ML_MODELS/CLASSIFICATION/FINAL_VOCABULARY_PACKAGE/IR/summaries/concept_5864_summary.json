@@ -1,0 +1,63 @@
+{
+  "concept_id": "5864",
+  "concept_data": {
+    "title": "trans-European network",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"trans-European network\" (TEN) is a pivotal EU regulatory framework prioritising the development of interconnected infrastructure across member states. It aims to synchronise transport, energy, and telecommunications systems, facilitating seamless connectivity. The setup of TEN involves scoping projects that enhance locational efficiency, such as the deployment of eurobalise technology for rail systems and the integration of telepowering solutions. Through instruments like the Connecting Europe Facility (CEF) and the European Rail Traffic Management System (ERTMS), TEN supports incremental advancements and prioritisation of cross-border projects. This regulatory approach fosters collaboration among stakeholders, ensuring that timeslots for infrastructure development are flexibly managed and optimally utilised.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:16:57.425152",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1970,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 33,
+      "selected_avg_freq": 15.36
+    },
+    "related_words": [
+      "prioritising",
+      "timeslots",
+      "synchronise",
+      "prioritises",
+      "locational",
+      "setup",
+      "entsos",
+      "entsog",
+      "prioritization",
+      "scoping",
+      "rft",
+      "strančice",
+      "české",
+      "budějovice",
+      "inmarsat",
+      "solaris",
+      "terrestar",
+      "spacecraft",
+      "taf",
+      "sedp",
+      "euir",
+      "reconfiguration",
+      "paired",
+      "stories",
+      "cef",
+      "aeif",
+      "eurobalise",
+      "ecpt",
+      "telepowering",
+      "tallinn"
+    ],
+    "prompt_length": 1636,
+    "category": "1016 European construction"
+  }
+}

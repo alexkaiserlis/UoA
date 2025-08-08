@@ -1,0 +1,63 @@
+{
+  "concept_id": "7132",
+  "concept_data": {
+    "title": "pre-accession assistance",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "pre-accession aid",
+    "relation_type": "USE"
+  },
+  "summary": "Pre-accession assistance, also referred to as \"pre-accession aid,\" is a critical EU mechanism designed to support candidate countries in their journey towards EU membership. This aid encompasses various programs, including the Instrument for Pre-accession Assistance (IPA), which aims to upgrade institutional capacities and align practices with EU standards. The assistance includes financial support for projects in sectors such as infrastructure, environment, and governance, particularly in the Balkans and Turkish regions. Through initiatives like ISPA and SAPARD, the EU endeavours to facilitate the finalisation of accession processes, ensuring that candidate countries are accredited and prepared for integration. The aid complements the Copenhagen criteria, addressing issues such as refugees and decentralised governance, while also enabling transnational cooperation and enhancing regional stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:24:02.934496",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 585,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 537,
+      "selected_avg_freq": 262.5733333333333
+    },
+    "related_words": [
+      "ipard",
+      "mafas",
+      "interregional",
+      "accrediting",
+      "practises",
+      "accreditations",
+      "ispa",
+      "textual",
+      "eni",
+      "endeavoured",
+      "functionally",
+      "displaced",
+      "credited",
+      "sapard",
+      "ipa",
+      "finalisation",
+      "phare",
+      "enquiry",
+      "decentralised",
+      "conferral",
+      "cards",
+      "interval",
+      "participates",
+      "cypriot",
+      "breached",
+      "complements",
+      "neighbourhood",
+      "refugees",
+      "upgrade",
+      "designates"
+    ],
+    "prompt_length": 1746,
+    "category": "1016 European construction"
+  }
+}

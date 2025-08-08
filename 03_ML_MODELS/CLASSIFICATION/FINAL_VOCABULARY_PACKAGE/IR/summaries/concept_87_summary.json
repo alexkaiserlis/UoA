@@ -1,0 +1,63 @@
+{
+  "concept_id": "87",
+  "concept_data": {
+    "title": "preparation for market",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"preparation for market\" within EU legal and regulatory frameworks pertains to the processes involved in the identification and granding of products for commercial distribution. This includes the repackaging and rewrapping of goods, such as vegetables and kiwifruit, ensuring compliance with safety standards. Regulatory supervision mandates that products, including neurotoxicological substances like certain plantains, undergo rigorous testing to maintain unimpaired quality. The preparation phase may involve slicing, reassembling, and advertising campaigns to enhance market appeal. Additionally, specific ascriptions are required for products like glühwein and cidrerie, ensuring clarity for consumers and communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:49:52.851574",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 2353,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.606666666666667
+    },
+    "related_words": [
+      "granding",
+      "identificaiton",
+      "sekt",
+      "clearest",
+      "comunities",
+      "neurotoxicological",
+      "bocksbeutel",
+      "cantil",
+      "anthriscus",
+      "cerefolium",
+      "hoffm",
+      "melongena",
+      "valerianella",
+      "locusta",
+      "betcke",
+      "repackaged",
+      "calçot",
+      "valls",
+      "degress",
+      "vegeables",
+      "kiwifruit",
+      "cardboard",
+      "plantains",
+      "unripened",
+      "ascriptions",
+      "trusses",
+      "caged",
+      "plasmid",
+      "pmj",
+      "glühwein"
+    ],
+    "prompt_length": 1700,
+    "category": "2031 marketing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4930",
+  "concept_data": {
+    "title": "biomass",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"biomass\" within EU legal and regulatory frameworks pertains to renewable energy sources derived from organic materials. It includes bioliquids and biofuels, which are essential for achieving sustainability and reducing greenhouse gas emissions. The EU promotes the use of biomass through mandatory and voluntary regulations, ensuring that operators comply with methodological standards for auditing and proving the reliability of biomass sources. This involves accurate documentation of consignments and the imposition of burdens on suppliers to demonstrate compliance. The recognition of biomass as a viable energy solution is crucial for meeting emission reduction targets and creating a platform for renewable fuel development.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:28.900539",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1552.5266666666666
+    },
+    "related_words": [
+      "nta",
+      "bioliquids",
+      "biofuels",
+      "biofuel",
+      "methodological",
+      "unreasonable",
+      "diesel",
+      "auditing",
+      "petrol",
+      "platform",
+      "proving",
+      "greenhouse",
+      "sensitivity",
+      "fuels",
+      "recognise",
+      "savings",
+      "sustainability",
+      "demonstrates",
+      "demonstrating",
+      "renewable",
+      "emission",
+      "mass",
+      "reliability",
+      "accurate",
+      "solutions",
+      "supplier",
+      "mandatory",
+      "imposition",
+      "adequately",
+      "avoided"
+    ],
+    "prompt_length": 1712,
+    "category": "6411 technology and technical regulations"
+  }
+}

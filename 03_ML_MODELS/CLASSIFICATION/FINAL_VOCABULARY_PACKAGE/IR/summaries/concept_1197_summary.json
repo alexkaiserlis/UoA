@@ -1,0 +1,63 @@
+{
+  "concept_id": "1197",
+  "concept_data": {
+    "title": "political group",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"political group\" refers to a coalition of Members of the European Parliament (MEPs) that unites under shared political ideologies. These groups empower MEPs to address pertinent issues, including the demands for peace and reconciliation in regions like Angola, as seen in agreements such as the Lusaka Accords. Political groups facilitate the formulation of resolutions and the establishment of a unified stance on matters affecting the EU's external relations, notably in the context of the Common Foreign and Security Policy (CFSP). They also play a crucial role in overcoming obstacles to legislative processes, ensuring that the principles of independence and unity are upheld within the parliamentary framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:28:12.504403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 246,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1643,
+      "selected_avg_freq": 816.4733333333334
+    },
+    "related_words": [
+      "uniao",
+      "indepêndencia",
+      "angolan",
+      "união",
+      "independência",
+      "acordos",
+      "unita",
+      "spelling",
+      "paz",
+      "lusaka",
+      "inducing",
+      "expediency",
+      "para",
+      "lomé",
+      "angola",
+      "nacional",
+      "lomăš",
+      "reconciliation",
+      "determinations",
+      "encompass",
+      "pertinent",
+      "unity",
+      "freeze",
+      "simplicity",
+      "induce",
+      "demands",
+      "peace",
+      "petroleum",
+      "addresses",
+      "aircraft"
+    ],
+    "prompt_length": 1664,
+    "category": "0421 parliament"
+  }
+}

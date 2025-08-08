@@ -1,0 +1,63 @@
+{
+  "concept_id": "3506",
+  "concept_data": {
+    "title": "arms control",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Arms control encompasses a range of regulatory measures aimed at managing armament and munitions to enhance international security. Within EU legal frameworks, arms control involves multilateralism and the implementation of treaties such as the Arms Trade Treaty (ATT), which seeks to prevent the illicit trade of arms that could lead to civilian displacement or exacerbate conflicts. The EU emphasizes inclusiveness in arms control discussions, engaging parliamentarians and international forums to address issues like ballistic missile proliferation and the recruitment of followers by extremist groups. Additionally, the EU may impose embargoes on states contravening arms regulations, thereby condemning actions that lead to civilian maiming or abduction. Through initiatives like the UNDP and OPCW, the EU aims to reconcile differing ideologies and strengthen global security against threats posed by unregulated arms.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:03.251662",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 900,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 117,
+      "selected_avg_freq": 53.346666666666664
+    },
+    "related_words": [
+      "maiming",
+      "abduction",
+      "embargoes",
+      "ideology",
+      "followers",
+      "demonstrators",
+      "programe",
+      "strongest",
+      "inclusiveness",
+      "implementable",
+      "armament",
+      "irisl",
+      "irgc",
+      "att",
+      "displacement",
+      "academies",
+      "parliamentarians",
+      "launches",
+      "unissued",
+      "recruiting",
+      "charcoal",
+      "crackdown",
+      "lirec",
+      "amisom",
+      "contravening",
+      "coinage",
+      "conakry",
+      "dprk",
+      "brokering",
+      "minted"
+    ],
+    "prompt_length": 1679,
+    "category": "0816 international security"
+  }
+}

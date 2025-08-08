@@ -1,0 +1,63 @@
+{
+  "concept_id": "1714",
+  "concept_data": {
+    "title": "lucerne",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"lucerne,\" categorized under plant products (6006), is significant within EU agricultural regulations. Lucerne, also known as alfalfa, is a vital fodder crop, particularly in regions like Emilia-Romagna, where its cultivation supports sustainable horticulture. The EU framework emphasizes the importance of certified seeds for propagating lucerne, ensuring that species meet stringent quality standards. Regulations authorize the marketing and processing of lucerne, including its use in drying facilities and as a source of fibre. Adequate storage and network structures are foreseen to satisfy demand, while modernization efforts aim to exceed existing agricultural practices, thereby enhancing overall productivity and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:10.890008",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 134,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 134,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1750.097014925373
+    },
+    "related_words": [
+      "trefoil",
+      "lucerne",
+      "emilia",
+      "romagna",
+      "grains",
+      "drying",
+      "horticulture",
+      "propagating",
+      "modernization",
+      "fibre",
+      "fodder",
+      "satisfying",
+      "expiring",
+      "scheduled",
+      "satisfactorily",
+      "certified",
+      "seeds",
+      "seed",
+      "forestry",
+      "limiting",
+      "showing",
+      "construction",
+      "officially",
+      "authorizing",
+      "network",
+      "comprehensive",
+      "marketed",
+      "insufficient",
+      "temporarily",
+      "plants"
+    ],
+    "prompt_length": 1674,
+    "category": "6006 plant product"
+  }
+}

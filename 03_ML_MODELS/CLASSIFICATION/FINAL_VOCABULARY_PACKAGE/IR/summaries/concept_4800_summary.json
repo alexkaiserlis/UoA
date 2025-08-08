@@ -1,0 +1,26 @@
+{
+  "concept_id": "4800",
+  "concept_data": {
+    "title": "polluted region",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "polluted area",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"polluted region,\" which redirects to the preferred term \"polluted area,\" pertains to the deterioration of the environment as recognized in EU legal frameworks. A polluted area is defined as a geographic zone where environmental quality has been compromised due to anthropogenic activities, leading to adverse effects on human health and ecosystems. EU regulations, such as the Water Framework Directive and the Air Quality Directive, aim to mitigate pollution in these regions through stringent standards and monitoring mechanisms. Addressing polluted areas is crucial for achieving the EU's environmental objectives and ensuring sustainable development across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:43:52.702728",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1220,
+    "category": "5216 deterioration of the environment"
+  }
+}

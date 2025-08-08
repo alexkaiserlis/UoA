@@ -1,0 +1,63 @@
+{
+  "concept_id": "601",
+  "concept_data": {
+    "title": "whisky",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "spirits",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"whisky\" is categorized under \"spirits,\" a preferred term encompassing various alcoholic beverages, including brandies and licores. The regulation of these consumables involves stringent standards for importes and production, ensuring that products like bourbon, akvavit, and pisco meet quality requirements. The term also relates to a range of sprituous drinks, such as sljivovica and meggypálinka, which are often subject to specific labeling and taxation rules. Regulatory frameworks account for the diverse nature of these beverages, including their origins, such as polska and guatemalan varieties, and the practices of victuallers who serve them in receptables like jugs and bowls. Compliance with these regulations is essential for manufacturers and importers, who must navigate complex legal landscapes, including potential oppositions and redrafting of terms to satisfy EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:48:31.642773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 1896,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 42,
+      "selected_avg_freq": 17.473333333333333
+    },
+    "related_words": [
+      "wighted",
+      "sprituous",
+      "importes",
+      "plannried",
+      "procelain",
+      "jug",
+      "dringking",
+      "bowls",
+      "receptables",
+      "sljivovica",
+      "plum",
+      "prilep",
+      "triff",
+      "correspondingh",
+      "pisco",
+      "swa",
+      "imesi",
+      "taffia",
+      "alcoholes",
+      "licores",
+      "guatemalan",
+      "victuallers",
+      "victualler",
+      "consumable",
+      "bourbon",
+      "bierbrand",
+      "biă",
+      "alochol",
+      "kindom",
+      "akvavit"
+    ],
+    "prompt_length": 1688,
+    "category": "6021 beverages and sugar"
+  }
+}

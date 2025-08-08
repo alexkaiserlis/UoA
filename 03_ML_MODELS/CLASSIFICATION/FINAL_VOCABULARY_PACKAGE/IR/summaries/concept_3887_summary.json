@@ -1,0 +1,63 @@
+{
+  "concept_id": "3887",
+  "concept_data": {
+    "title": "tannery",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "hides and furskins industry",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"tannery\" redirects to the \"hides and furskins industry,\" which encompasses the processing of animal pelts, including those from species such as *Felis silvestris* and various subspecies of fur-bearing animals. In the EU, regulatory frameworks prescribe humane practices for trapping and handling, aiming to prevent inhumane treatment and ensure that all furs are sourced from certified operations. Innovations in microscopy and MALDI-TOF spectrometry have evolved to enhance the traceability of furs, while bans on leghold traps reflect a dissuasive approach to animal welfare. The industry faces challenges in regularizations and public perception, necessitating compliance with diverse legal standards to circulate products responsibly.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:34.456828",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 631,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 411,
+      "selected_avg_freq": 176.54666666666665
+    },
+    "related_words": [
+      "nomeclature",
+      "felis",
+      "silvestris",
+      "faux",
+      "inhumanely",
+      "microscopy",
+      "maldi",
+      "tof",
+      "evolves",
+      "estabhlish",
+      "trapped",
+      "uncertified",
+      "taxidermy",
+      "tiny",
+      "furs",
+      "defeat",
+      "specialise",
+      "leghold",
+      "pelts",
+      "seize",
+      "trap",
+      "confiscation",
+      "garment",
+      "spectrometry",
+      "recognizable",
+      "abreast",
+      "subspecies",
+      "captivity",
+      "trapping",
+      "impediment"
+    ],
+    "prompt_length": 1714,
+    "category": "6841 leather and textile industries"
+  }
+}

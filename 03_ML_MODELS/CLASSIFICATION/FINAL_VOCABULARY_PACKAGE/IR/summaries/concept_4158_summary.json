@@ -1,0 +1,63 @@
+{
+  "concept_id": "4158",
+  "concept_data": {
+    "title": "registered office",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "head office",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"registered office,\" often redirected to \"head office,\" plays a crucial role in EU business organisation regulations. It serves as the primary location where an institution is legally situated, impacting various legal obligations, including prudential regulations and stakeholder interactions. The registered office is essential for determining the debtor's residence and facilitating cross-border operations, as highlighted in rulings such as Centros and Überseering. This location influences the allocation of assets, exposure to credit risks, and compliance with burdensome regulatory frameworks. By establishing a simpler framework for business operations, it helps alleviate discrepancies in geographical regulations, ensuring unambiguous adherence to EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:05.492075",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 179,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2456,
+      "selected_avg_freq": 940.8333333333334
+    },
+    "related_words": [
+      "countercyclical",
+      "centros",
+      "überseering",
+      "sevic",
+      "cartesio",
+      "ciu",
+      "obligor",
+      "securitisation",
+      "inspire",
+      "materiality",
+      "unreasonably",
+      "unambiguous",
+      "rulings",
+      "exposures",
+      "book",
+      "discrepancy",
+      "geographically",
+      "debtor",
+      "prudential",
+      "simpler",
+      "buffer",
+      "tend",
+      "generating",
+      "burdensome",
+      "stakeholder",
+      "art",
+      "repayment",
+      "mail",
+      "residence",
+      "specialised"
+    ],
+    "prompt_length": 1717,
+    "category": "4006 business organisation"
+  }
+}

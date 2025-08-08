@@ -1,0 +1,63 @@
+{
+  "concept_id": "447660",
+  "concept_data": {
+    "title": "GSA",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European GNSS Agency",
+    "relation_type": "USE"
+  },
+  "summary": "The \"GSA,\" redirecting to the \"European GNSS Agency,\" plays a pivotal role in the regulatory framework of the EU's satellite navigation systems, notably Galileo and EGNOS. This agency independently evaluates the feasibility of installations and manages the deployment of satellite signals across Europe and beyond, including sites in Noordwijk and Madrid. It communicates with various stakeholders, including user centres and international entities, to optimize navigation services. The GSA also oversees the geodetic aspects of satellite positioning, ensuring that the systems meet the necessary limitations and standards. Its activities are crucial for enhancing global navigation satellite systems (GNSS) and fostering international cooperation, including partnerships with Japan and other nations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:02:14.855017",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 184,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2704,
+      "selected_avg_freq": 973.3066666666666
+    },
+    "related_words": [
+      "gsmc",
+      "geodetic",
+      "grc",
+      "estec",
+      "noordwijk",
+      "gss",
+      "embassy",
+      "gsc",
+      "evaluates",
+      "pseudo",
+      "satellites",
+      "egnos",
+      "globe",
+      "communicates",
+      "galileo",
+      "gnss",
+      "tokyo",
+      "signals",
+      "overlap",
+      "manager",
+      "madrid",
+      "navigation",
+      "deployment",
+      "satellite",
+      "interface",
+      "station",
+      "independently",
+      "stations",
+      "lastly",
+      "space"
+    ],
+    "prompt_length": 1680,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1997",
+  "concept_data": {
+    "title": "antibiotic",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"antibiotic\" refers to substances that inhibit the growth of prokaryotic organisms, particularly bacteria, and are crucial in health management. The EU regulates antibiotics, including glycopeptides like vancomycin and avoparcin, to combat antibiotic resistance, a significant public health concern. Regulatory bodies establish monographs for authorizable antibiotics, ensuring their safety and efficacy. The use of antibiotics such as bacitracin and metronidazole must be controlled to prevent carcinogenesis and maintain environmental integrity. Additionally, the controllability of antibiotic residues in food products is essential, necessitating rigorous testing for substances like ronidazole and semduramicin.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:04:26.666461",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 708,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 199,
+      "selected_avg_freq": 75.36666666666666
+    },
+    "related_words": [
+      "responsable",
+      "glycopeptide",
+      "avoparcin",
+      "glycopeptides",
+      "ardacin",
+      "controllability",
+      "carcarses",
+      "tiaprost",
+      "convallaria",
+      "majalis",
+      "atropa",
+      "belladonna",
+      "aqua",
+      "levici",
+      "adonis",
+      "vernalis",
+      "nitroimidazole",
+      "prokaryotic",
+      "eukaryotic",
+      "carciongenisis",
+      "inferences",
+      "suggestive",
+      "artefact",
+      "enterococci",
+      "vancomycin",
+      "aluminates",
+      "estabhlish",
+      "ronidazole",
+      "avilamycin",
+      "purusant"
+    ],
+    "prompt_length": 1751,
+    "category": "2841 health"
+  }
+}

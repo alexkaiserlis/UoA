@@ -1,0 +1,63 @@
+{
+  "concept_id": "461",
+  "concept_data": {
+    "title": "economic imbalance",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": true,
+    "preferred_term": "economic disparity",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"economic imbalance,\" redirected to \"economic disparity,\" pertains to systemic divergences in macroeconomic conditions across EU member states. These imbalances can manifest through entrenched deficits, excessive debt levels, or macroprudential risks, which may spill over into broader financial instability. The Stability and Growth Pact (SGP) aims to address these issues by fostering stronger fiscal frameworks and guiding member states in maintaining robust economic conditions. The European Commission issues warnings and recommendations during the European Semester, emphasizing the need for durable solutions to prevent deepening disparities. Failure to comply may result in sanctions, including fines, thereby ensuring ownership of financial responsibilities among counterparts.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:32:39.778694",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 317,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 950,
+      "selected_avg_freq": 447.8666666666667
+    },
+    "related_words": [
+      "macroprudential",
+      "interlinks",
+      "sgp",
+      "entrenched",
+      "interlinked",
+      "spill",
+      "deepening",
+      "counterparts",
+      "warnings",
+      "durable",
+      "embedded",
+      "broadening",
+      "cancelling",
+      "mistakes",
+      "divergences",
+      "stronger",
+      "sanction",
+      "guiding",
+      "semester",
+      "fines",
+      "robust",
+      "deficits",
+      "deposits",
+      "macroeconomic",
+      "systemic",
+      "imbalances",
+      "decade",
+      "fostering",
+      "pact",
+      "fine"
+    ],
+    "prompt_length": 1724,
+    "category": "1611 economic conditions"
+  }
+}

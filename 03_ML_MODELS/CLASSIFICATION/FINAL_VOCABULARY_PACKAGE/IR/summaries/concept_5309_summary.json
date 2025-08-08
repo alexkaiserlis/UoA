@@ -1,0 +1,63 @@
+{
+  "concept_id": "5309",
+  "concept_data": {
+    "title": "sick building syndrome",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "building safety",
+    "relation_type": "USE"
+  },
+  "summary": "Sick building syndrome (SBS) refers to a range of health issues arising from inadequate building safety, particularly in environments where occupants experience asphyxiation or suffocation due to poor air quality. In EU legal and regulatory contexts, SBS is often linked to construction standards that govern materials such as plasterboards, wallcoverings, and cladding. Regulations may address factors like duct configurations and ventilation systems to prevent conditions that could lead to strangulation or muscular constriction of windpipes. Ensuring safety in bedrooms, hospitals, and public buildings involves careful consideration of flooring, sills, and the use of uncoated materials. The preferred term \"building safety\" encompasses these concerns, highlighting the need for comprehensive regulations to protect occupants from health risks associated with SBS.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:02:01.771136",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 547,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 275,
+      "selected_avg_freq": 86.39333333333333
+    },
+    "related_words": [
+      "laminate",
+      "corded",
+      "strangulation",
+      "sills",
+      "hospitalised",
+      "drapery",
+      "strangled",
+      "bedrooms",
+      "windpipes",
+      "suffocate",
+      "necks",
+      "constricted",
+      "motorisation",
+      "lath",
+      "plastering",
+      "corners",
+      "duct",
+      "façades",
+      "robin",
+      "wallcoverings",
+      "jointing",
+      "sbi",
+      "sandwich",
+      "plastisol",
+      "flooring",
+      "asphyxiation",
+      "plasterboards",
+      "panelling",
+      "roofs",
+      "cavity"
+    ],
+    "prompt_length": 1708,
+    "category": "2846 construction and town planning"
+  }
+}

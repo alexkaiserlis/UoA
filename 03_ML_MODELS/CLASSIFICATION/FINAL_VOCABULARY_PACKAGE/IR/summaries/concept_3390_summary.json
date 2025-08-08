@@ -1,0 +1,63 @@
+{
+  "concept_id": "3390",
+  "concept_data": {
+    "title": "Community of Madrid",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Community of Madrid\" is a significant autonomous region within Spain, recognized in EU legal and regulatory frameworks. It plays a crucial role in programming and fulfilling statutory obligations, particularly concerning the European Social Fund (ESF) and the European Regional Development Fund (ERDF). The region has recently faced challenges, including outbreaks of contagious diseases like pleuropneumonia and swine fever, which necessitate additionality in funding allocations to address the danger posed to cattle and bovine populations. The Community of Madrid's mission includes preparing for and enforcing measures against the spread of epizootic diseases, reflecting the EU's priorities in public health and economic stability. Partnerships with local stakeholders are essential for ensuring eligibility and effective implementation of recommendations indexed to regional needs, thereby enhancing the overall resilience of the area against future outbreaks.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:20:56.295717",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 214,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 2324,
+      "selected_avg_freq": 1099.3933333333334
+    },
+    "related_words": [
+      "pleuropneumonia",
+      "visited",
+      "contagious",
+      "additionality",
+      "enforced",
+      "indexed",
+      "epizootic",
+      "madrid",
+      "esf",
+      "appearance",
+      "seq",
+      "erdf",
+      "additionally",
+      "eib",
+      "inflation",
+      "cattle",
+      "perspective",
+      "exact",
+      "statutory",
+      "outbreaks",
+      "allocations",
+      "swine",
+      "programming",
+      "pattern",
+      "preparing",
+      "breakdown",
+      "danger",
+      "ground",
+      "mission",
+      "fulfilling"
+    ],
+    "prompt_length": 1699,
+    "category": "7211 regions of EU Member States"
+  }
+}

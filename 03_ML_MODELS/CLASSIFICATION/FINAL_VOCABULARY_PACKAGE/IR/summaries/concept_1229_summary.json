@@ -1,0 +1,63 @@
+{
+  "concept_id": "1229",
+  "concept_data": {
+    "title": "halogen",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"halogen\" refers to a group of chemical elements that includes substances known for their reactivity and environmental impact, particularly in relation to ozone depletion. In EU regulatory frameworks, halogenated compounds, such as chlorofluorocarbons (CFCs) and hydrochlorofluorocarbons (HCFCs), are scrutinized under protocols like the Montreal Protocol, aimed at minimizing their use due to their ozone-depleting potential (ODP). Applicants for permits involving these compounds must provide information on their environmental impact, including quantitative assessments of emissions. The EU's regulatory stance seeks to phase out harmful substances, including halons and hydrobromofluorocarbons, to protect the atmosphere and public health from obstructive conditions like asthma.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:40:25.110024",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 505,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 596,
+      "selected_avg_freq": 241.94
+    },
+    "related_words": [
+      "stubstances",
+      "montral",
+      "chlorofluorocabons",
+      "applcants",
+      "perspectived",
+      "enviroment",
+      "informantion",
+      "figuring",
+      "hemisphere",
+      "chlorofluorcarbons",
+      "protcol",
+      "teap",
+      "ods",
+      "hydrobromofluorocarbons",
+      "odp",
+      "blanket",
+      "asthma",
+      "obstructive",
+      "hcfcs",
+      "hcfc",
+      "dispersive",
+      "mdis",
+      "banked",
+      "hydrochlorofluorocarbons",
+      "antarctic",
+      "trichloroethane",
+      "depleting",
+      "tetrachloride",
+      "feedstock",
+      "halons"
+    ],
+    "prompt_length": 1728,
+    "category": "6811 chemistry"
+  }
+}

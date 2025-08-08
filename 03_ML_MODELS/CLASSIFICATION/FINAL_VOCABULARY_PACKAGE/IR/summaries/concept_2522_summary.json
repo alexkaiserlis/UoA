@@ -1,0 +1,63 @@
+{
+  "concept_id": "2522",
+  "concept_data": {
+    "title": "smoke",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "atmospheric pollutant",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"smoke,\" categorized under the deterioration of the environment, is redirected to the preferred term \"atmospheric pollutant.\" In EU legal and regulatory frameworks, smoke is recognized as a significant contributor to various nuisances, including acidification and eutrophication. The emission of particulates and volatile organic compounds (VOCs) from sources such as locomotives and industrial processes necessitates stringent measures to abate pollution. Upcoming regulations emphasize retrofitting and redesigning systems to reduce emissions, including the use of cleaner biofuels and advanced propulsion technologies. Monitoring and intercomparison of fluxes of pollutants, including benzene and ammonia, are crucial for effective lifecycle management and compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:01.067746",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 715,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 304,
+      "selected_avg_freq": 136.2
+    },
+    "related_words": [
+      "intercomparison",
+      "gems",
+      "railcars",
+      "redesigning",
+      "fluxes",
+      "vocs",
+      "abate",
+      "retrofit",
+      "refuelling",
+      "fuelling",
+      "voc",
+      "retrofitting",
+      "agglomerations",
+      "upcoming",
+      "gothenburg",
+      "locomotives",
+      "particulates",
+      "lifecycle",
+      "vapour",
+      "monoxide",
+      "eutrophication",
+      "cleaner",
+      "abreast",
+      "nuisances",
+      "flexibilities",
+      "refurbishment",
+      "affordable",
+      "dimensional",
+      "halons",
+      "benzene"
+    ],
+    "prompt_length": 1764,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2362",
+  "concept_data": {
+    "title": "Windward Islands",
+    "category_code": "7216",
+    "category_name": "America",
+    "category_full": "7216 America",
+    "is_redirect": true,
+    "preferred_term": "Lesser Antilles",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Windward Islands,\" redirecting to \"Lesser Antilles,\" encompasses a group of Caribbean islands, including Dominica, Saint Lucia, and Saint Vincent. These islands are significant in EU legal and regulatory frameworks, particularly concerning multilateral trade agreements with ACP (African, Caribbean, and Pacific) countries. The region's economy, heavily reliant on banana plantations, faces challenges from severe storms and tropical events, which have greatly impacted local suppliers and their ability to cope with damage. The EU's documentation on compensation and reallocation of resources aims to safeguard the interests of victims suffering from these natural disasters, ensuring that urgent needs are met while maintaining stable import channels.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:34:16.875659",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 235,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 1926,
+      "selected_avg_freq": 935.9933333333333
+    },
+    "related_words": [
+      "marilyn",
+      "luis",
+      "dominica",
+      "iris",
+      "lucia",
+      "storms",
+      "vincent",
+      "impossibility",
+      "plantations",
+      "losing",
+      "martinique",
+      "banana",
+      "tropical",
+      "guadeloupe",
+      "cope",
+      "victims",
+      "reallocation",
+      "greatly",
+      "felt",
+      "bananas",
+      "suffer",
+      "ninth",
+      "cited",
+      "saint",
+      "invitations",
+      "overcome",
+      "appreciable",
+      "safeguarding",
+      "outlets",
+      "suffered"
+    ],
+    "prompt_length": 1685,
+    "category": "7216 America"
+  }
+}

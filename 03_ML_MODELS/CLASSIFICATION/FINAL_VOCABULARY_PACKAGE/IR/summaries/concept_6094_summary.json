@@ -1,0 +1,63 @@
+{
+  "concept_id": "6094",
+  "concept_data": {
+    "title": "European Committee for Electrotechnical Standardization",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "Cenelec",
+    "relation_type": "USE"
+  },
+  "summary": "The European Committee for Electrotechnical Standardization, commonly referred to as Cenelec, plays a crucial role in the standardization of electrotechnical technologies within the EU. Governed by a board of experts, Cenelec focuses on harmonised standards that quantitatively assess exposure to electromagnetic fields and ionizing radiation, particularly in medical imaging and other fields. Ongoing studies and recommendations from Cenelec aim to protect workers and the environment by thoroughly analysing the risks associated with various agents and technologies. The committee's work justifies the transposition of standards into national legislation, ensuring a smooth balance between innovation and safety, while addressing substantial benefits and deadlines for compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:10:36.829515",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 158,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3590,
+      "selected_avg_freq": 1597.88
+    },
+    "related_words": [
+      "icnirp",
+      "imaging",
+      "ionizing",
+      "electrotechnical",
+      "cenelec",
+      "quantitatively",
+      "electromagnetic",
+      "thoroughly",
+      "reconsidered",
+      "postponement",
+      "radiation",
+      "analyse",
+      "standardization",
+      "launched",
+      "justifies",
+      "measurement",
+      "medical",
+      "transposition",
+      "exposure",
+      "agents",
+      "technologies",
+      "ongoing",
+      "studies",
+      "governed",
+      "physical",
+      "workers",
+      "attention",
+      "fields",
+      "smooth",
+      "study"
+    ],
+    "prompt_length": 1782,
+    "category": "7611 European organisations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5338",
+  "concept_data": {
+    "title": "radiobiology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Radiobiology, a vital subfield within natural and applied sciences, focuses on the effects of ionizing radiation on biological systems. In the context of EU regulatory frameworks, it plays a crucial role in the safety and efficacy of medical devices, particularly implantable ones. Manufacturers must adhere to strict specifications and mandatory registration processes, including the use of EUDAMED, a databank for device vigilance and clinical investigations. Regulatory authorities conduct investigations to ensure completeness and compliance with ISO standards. The nomenclature and description of radiobiological devices are essential for global surveillance and market placing, ensuring that recalled or withdrawn devices are promptly addressed. This field strengthens the EU's commitment to health safety through rigorous oversight and continuous monitoring of active devices.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:09:57.681367",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3811,
+      "selected_avg_freq": 1659.42
+    },
+    "related_words": [
+      "eudamed",
+      "searched",
+      "databank",
+      "numeric",
+      "implantable",
+      "vigilance",
+      "vitro",
+      "biocidal",
+      "completeness",
+      "device",
+      "fast",
+      "diagnostic",
+      "refused",
+      "clinical",
+      "recalled",
+      "internationally",
+      "iso",
+      "languages",
+      "numerous",
+      "easily",
+      "devices",
+      "medical",
+      "manufacturer",
+      "mandatory",
+      "specification",
+      "investigations",
+      "prescribed",
+      "renewed",
+      "prepare",
+      "manufacturers"
+    ],
+    "prompt_length": 1729,
+    "category": "3606 natural and applied sciences"
+  }
+}

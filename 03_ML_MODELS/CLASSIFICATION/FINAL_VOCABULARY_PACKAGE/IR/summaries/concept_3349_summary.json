@@ -1,0 +1,63 @@
+{
+  "concept_id": "3349",
+  "concept_data": {
+    "title": "physically-handicapped person",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "physically disabled person",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"physically-handicapped person\" is redirected to \"physically disabled person\" within EU legal and regulatory frameworks, emphasizing the importance of harmonising terminology. This concept is crucial in social affairs, particularly in enhancing mobility for individuals with functional impairments. EU regulations engage in dialogue to introduce protocols that assist physically disabled persons in various sectors, including transport. For instance, maritime and railway conventions aim to ensure safe voyages and transparent timetables for passengers. By strengthening resolutions and phasing in flexible measures, the EU ultimately seeks to protect the rights of these individuals, ensuring they are not jeopardizing their access to jobs and services.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:34:52.861532",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 232,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 2070,
+      "selected_avg_freq": 901.4866666666667
+    },
+    "related_words": [
+      "hsc",
+      "binocular",
+      "locomotives",
+      "contradicts",
+      "eyes",
+      "voyages",
+      "trains",
+      "msc",
+      "assists",
+      "train",
+      "stockholm",
+      "jeopardizing",
+      "drivers",
+      "imo",
+      "vision",
+      "ultimately",
+      "harmonising",
+      "railway",
+      "craft",
+      "constructed",
+      "mobility",
+      "functional",
+      "job",
+      "undergo",
+      "passenger",
+      "rail",
+      "crucial",
+      "dialogue",
+      "phasing",
+      "negotiation"
+    ],
+    "prompt_length": 1712,
+    "category": "2826 social affairs"
+  }
+}

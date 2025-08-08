@@ -1,0 +1,63 @@
+{
+  "concept_id": "5289",
+  "concept_data": {
+    "title": "welding",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "metalworking",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"welding,\" categorized under the iron, steel, and other metal industries, is redirected to the preferred term \"metalworking.\" In EU legal and regulatory contexts, metalworking encompasses various processes, including the use of advanced techniques such as microprobe analysis and spectrometrical assessments to evaluate weld integrity. The regulation of welding practices involves considerations of deformation and corrosion resistance, particularly in applications requiring precise transformations of materials. Technologies like dilatometers and transducers are employed to monitor microstructural changes during quenching. Additionally, compliance with standards for connectors and conductors is essential to ensure safety in welding operations, impacting industries from defibrillators to construction.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:33.416884",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 477,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 80.43333333333334
+    },
+    "related_words": [
+      "escalab",
+      "telluride",
+      "fracture",
+      "microprobe",
+      "quenching",
+      "weld",
+      "console",
+      "microspec",
+      "wdx",
+      "anodes",
+      "nucleation",
+      "spectrometrical",
+      "reslution",
+      "microstructural",
+      "defibrillators",
+      "cart",
+      "trolley",
+      "phi",
+      "birches",
+      "imberhorne",
+      "cathodic",
+      "bruker",
+      "glazes",
+      "auger",
+      "grinstead",
+      "dilatometer",
+      "dilatronic",
+      "isocentre",
+      "deformation",
+      "theta"
+    ],
+    "prompt_length": 1726,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

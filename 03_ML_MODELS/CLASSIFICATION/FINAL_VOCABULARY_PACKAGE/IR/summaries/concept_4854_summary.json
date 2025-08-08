@@ -1,0 +1,63 @@
+{
+  "concept_id": "4854",
+  "concept_data": {
+    "title": "straw",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "fodder",
+    "relation_type": "USE"
+  },
+  "summary": "In EU agricultural regulation, the term \"straw\" is redirected to \"fodder,\" which encompasses various forages used for livestock. The definition establishes that fodder includes dehydrated materials such as hay and silage, which are crucial for economizing feed resources. The market for fodder fluctuates, influenced by factors like pastureland availability and the breeding of lucrative crops such as lupins. Regulations disallow certain additives to ensure the safety of livestock, including solipeds. The realities of fodder production require simplification in routing processes and the rewording of legal texts to enhance clarity. This convergence of agricultural practices is essential for effective management and the successively increasing demands of the European agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:42.405276",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 980,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 264,
+      "selected_avg_freq": 123.02
+    },
+    "related_words": [
+      "percetange",
+      "dreid",
+      "rewording",
+      "definitition",
+      "dehydratation",
+      "simplifify",
+      "merket",
+      "indreasing",
+      "applciable",
+      "economizing",
+      "estasblishes",
+      "sires",
+      "dehydrating",
+      "ngqs",
+      "middlemen",
+      "bare",
+      "grazed",
+      "subjection",
+      "forages",
+      "tended",
+      "eurpean",
+      "fixings",
+      "routing",
+      "disallow",
+      "reworded",
+      "realities",
+      "plantarum",
+      "pastureland",
+      "connexion",
+      "converge"
+    ],
+    "prompt_length": 1703,
+    "category": "5631 agricultural activity"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2543",
+  "concept_data": {
+    "title": "Republic of Poland",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Poland",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Poland,\" a redirect to the preferred term \"Poland,\" is a significant entity in EU political geography. It plays a crucial role in shaping EU legal frameworks and regulatory policies. Notable figures, such as Marcin Jabłoński and Rafal Dutkiewicz, contribute to Poland's legislative landscape, impacting areas like environmental regulations and trade agreements. The country's legal system, influenced by historical figures like Konstanty Dombrowicz and Władysław Husejko, aligns with EU standards. Poland's unique cultural aspects, including traditional foods like kołacz and blackcurrants, enrich its identity within the EU. This interplay of law and culture is essential for understanding Poland's position in European governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:54:57.588636",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 3943,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.346666666666667
+    },
+    "related_words": [
+      "czerniak",
+      "marcin",
+      "jabłoński",
+      "rafal",
+      "dutkiewicz",
+      "szymański",
+      "brunon",
+      "synak",
+      "obrycki",
+      "konstanty",
+      "dombrowicz",
+      "marzena",
+      "mendza",
+      "drozd",
+      "witold",
+      "krochmal",
+      "nawara",
+      "bogusław",
+      "śmigielski",
+      "dziubiński",
+      "władysław",
+      "husejko",
+      "kowalczyk",
+      "matusiewicz",
+      "soszyński",
+      "pawel",
+      "adamowicz",
+      "franciszek",
+      "wołodźko",
+      "ludwik"
+    ],
+    "prompt_length": 1691,
+    "category": "7236 political geography"
+  }
+}

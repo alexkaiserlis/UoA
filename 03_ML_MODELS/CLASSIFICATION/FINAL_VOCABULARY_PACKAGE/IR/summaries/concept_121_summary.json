@@ -1,0 +1,63 @@
+{
+  "concept_id": "121",
+  "concept_data": {
+    "title": "Council of Europe",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Council of Europe\" is a pivotal European organisation established to promote human rights, democracy, and the rule of law across its member states. It operates through numerous treaties and agreements that aim to combat racism and xenophobia, ensuring public cooperation in these areas. The Council monitors compliance with its objectives, determining the application of laws and rules that derogate from national legislation when necessary. Its authority extends to various sectors, including energy and atomic safety, establishing uniform standards and exceptional measures. Consequently, the Council plays a crucial role in shaping European legal frameworks, with significant implications for the EU’s regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:26:29.264484",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 73,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 73,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2137.1643835616437
+    },
+    "related_words": [
+      "racism",
+      "xenophobia",
+      "holidays",
+      "employ",
+      "numerous",
+      "derogate",
+      "attain",
+      "centre",
+      "treaties",
+      "dates",
+      "atomic",
+      "days",
+      "sentence",
+      "acts",
+      "periods",
+      "exceptional",
+      "energy",
+      "euratom",
+      "close",
+      "europe",
+      "working",
+      "determining",
+      "uniform",
+      "monitoring",
+      "authority",
+      "determine",
+      "conjunction",
+      "limits",
+      "conclusion",
+      "consequently"
+    ],
+    "prompt_length": 1662,
+    "category": "7611 European organisations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "50",
+  "concept_data": {
+    "title": "transistor",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "electronic component",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"transistor,\" categorized under electronics and electrical engineering, is redirected to the preferred term \"electronic component.\" In EU regulatory frameworks, transistors serve as critical elements in microcomputers and defibrillators, influencing regulations on safety and performance. The use of dopants in transistor fabrication, such as telluride and beryllium, is subject to stringent regulations to ensure environmental safety. Committees overseeing electronic components evaluate factors like energy efficiency, measured in farads and coulombs, to mitigate downturns in market performance. Additionally, the development of erasable programmable read-only memory (EPROM) and multiplex technologies are pivotal in advancing electronic systems, necessitating ongoing elucidation and compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:38.928078",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1537,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 14.38
+    },
+    "related_words": [
+      "deterining",
+      "dopant",
+      "unconditonal",
+      "domicilaries",
+      "regultion",
+      "commmittee",
+      "selector",
+      "qulifying",
+      "telluride",
+      "fps",
+      "voids",
+      "multiplex",
+      "cache",
+      "rams",
+      "photocathodes",
+      "rubycon",
+      "coulombs",
+      "ina",
+      "farad",
+      "downturns",
+      "defibrillators",
+      "cart",
+      "trolley",
+      "phi",
+      "imberhorne",
+      "rotaflex",
+      "elucidation",
+      "ftms",
+      "mbit",
+      "domiciliaries"
+    ],
+    "prompt_length": 1716,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

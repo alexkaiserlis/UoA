@@ -1,0 +1,63 @@
+{
+  "concept_id": "7219",
+  "concept_data": {
+    "title": "digital technology",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"digital technology\" encompasses a wide range of advancements that are crucial for the EU's regulatory framework. It includes the digitisation of services and the optimisation of bandwidth for wireless communication, such as LTE and WIMAX. The EU's regulatory bodies, like ETSI and CEPT, focus on ensuring coexistence among various technologies, including GSM and UMTS, while promoting neutrality in online domains. Legal considerations also extend to copyright issues related to digital content, such as video and print. As the landscape evolves, the EU studies the implications of these technologies on cultures and libraries, ensuring unhindered access and fostering innovation in aeronautical and handheld applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:22.002119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 586,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 428,
+      "selected_avg_freq": 178.55333333333334
+    },
+    "related_words": [
+      "annuls",
+      "paired",
+      "wapecs",
+      "bem",
+      "tdd",
+      "dvb",
+      "signalled",
+      "unpaired",
+      "lte",
+      "wimax",
+      "orphan",
+      "tte",
+      "digitisation",
+      "masks",
+      "bandwidth",
+      "handheld",
+      "libraries",
+      "optimised",
+      "umts",
+      "obstructed",
+      "fore",
+      "erc",
+      "unhindered",
+      "mask",
+      "microwave",
+      "edge",
+      "print",
+      "aeronautical",
+      "gsm",
+      "cultures"
+    ],
+    "prompt_length": 1628,
+    "category": "6411 technology and technical regulations"
+  }
+}

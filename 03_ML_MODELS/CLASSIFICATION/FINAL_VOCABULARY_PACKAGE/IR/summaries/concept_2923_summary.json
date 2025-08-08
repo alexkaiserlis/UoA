@@ -1,0 +1,63 @@
+{
+  "concept_id": "2923",
+  "concept_data": {
+    "title": "medical research",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Medical research within the EU legal and regulatory framework encompasses a wide array of studies aimed at advancing health therapies and understanding biological processes. It includes investigations into conditions such as thrombosis and arrhythmia, utilizing tools like electrocardioscanners and pressurometers. The focus on translational research aims to bridge laboratory findings with clinical applications, addressing unmet health needs. Regulatory bodies oversee clinical trials involving diverse populations, including paediatric subjects, ensuring ethical standards are upheld. Research on polymorphisms and psychosocial factors informs treatment strategies for conditions like impotence and sleep disorders. The collaboration among clinicians, industrialized sectors, and research institutions is crucial for developing innovative therapies.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:38.971192",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1155,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 110,
+      "selected_avg_freq": 44.36
+    },
+    "related_words": [
+      "dehydrogenase",
+      "haemolysis",
+      "healh",
+      "thrust",
+      "psychosocial",
+      "reserch",
+      "erythrocyte",
+      "browne",
+      "nocturnale",
+      "penile",
+      "tumescence",
+      "playback",
+      "impotence",
+      "delmar",
+      "electrocardioscanner",
+      "dcg",
+      "pressurometer",
+      "arrhythmia",
+      "medilog",
+      "ecg",
+      "nuffield",
+      "abingdon",
+      "incremented",
+      "prp",
+      "creutzfeld",
+      "therapies",
+      "clinicians",
+      "lelystad",
+      "biologicals",
+      "thrombosis"
+    ],
+    "prompt_length": 1701,
+    "category": "2841 health"
+  }
+}

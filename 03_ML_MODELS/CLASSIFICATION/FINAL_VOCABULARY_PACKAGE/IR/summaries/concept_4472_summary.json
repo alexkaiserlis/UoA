@@ -1,0 +1,63 @@
+{
+  "concept_id": "4472",
+  "concept_data": {
+    "title": "sunflower seed",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "sunflower",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sunflower seed,\" categorized under plant products (6006), is a redirect to the preferred term \"sunflower.\" In EU legal and regulatory frameworks, sunflowers are significant for their diverse applications, including food and oil production. The cultivation of sunflowers, particularly in irrigated localities, has been noted for its fluidity in adapting to varying agricultural practices. Regulatory measures often address issues such as glucosinolate content and erucic acid levels, ensuring compliance with health standards. The market dynamics, influenced by factors like the crushing of seeds and the production of confectionery products, reflect a steadier demand. Consequently, the EU's policies aim to alleviate inequitable practices and promote sustainable plantings, thereby superseding outdated regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:40.913666",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1097,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 213,
+      "selected_avg_freq": 96.65333333333334
+    },
+    "related_words": [
+      "reigning",
+      "steadier",
+      "phomopsis",
+      "disorganized",
+      "karstaedt",
+      "riesa",
+      "planb",
+      "acto",
+      "striped",
+      "regadio",
+      "sunflowers",
+      "liament",
+      "soyabeans",
+      "nra",
+      "mga",
+      "telecopy",
+      "persistently",
+      "desires",
+      "slightest",
+      "micromoles",
+      "coverd",
+      "magdeburg",
+      "supersedes",
+      "disorder",
+      "mannheim",
+      "inequitable",
+      "glucosinolate",
+      "ignore",
+      "comprehensibility",
+      "erucic"
+    ],
+    "prompt_length": 1715,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5359",
+  "concept_data": {
+    "title": "pottery",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": true,
+    "preferred_term": "ceramics",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"pottery,\" categorized under miscellaneous industries, is redirected to the preferred term \"ceramics.\" In EU legal and regulatory contexts, ceramics encompass a diverse range of products, including unglazed crockery and decorative items like carreaux and mosa. The industry is subject to various regulations ensuring quality and safety, particularly in the production of items from regions such as Castellon and Sassuolo. Compliance with standards is crucial to avoid unlawfulness in trade practices. Additionally, the valuation of ceramics, including those from renowned manufacturers like Marazzi and Koninklijke, plays a significant role in market dynamics. The EU promotes festivities celebrating ceramic craftsmanship, reflecting cultural heritage while fostering innovation in materials such as micromeritics and sedigraph.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:28.845835",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1686,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 15.853333333333333
+    },
+    "related_words": [
+      "carreaux",
+      "căšramiques",
+      "marchăš",
+      "mosa",
+      "sphinx",
+      "marazzi",
+      "ceramiche",
+      "sassuolo",
+      "trent",
+      "eliki",
+      "philkerham",
+      "mettlach",
+      "agrob",
+      "wessel",
+      "servais",
+      "alfter",
+      "witterschlik",
+      "fabresa",
+      "castellon",
+      "symfa",
+      "onda",
+      "azulejera",
+      "plana",
+      "villarreal",
+      "ceramica",
+      "azuleu",
+      "domingo",
+      "micromeritics",
+      "sedigraph",
+      "usc"
+    ],
+    "prompt_length": 1676,
+    "category": "6846 miscellaneous industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4159",
+  "concept_data": {
+    "title": "vacant seat",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU electoral procedures, a \"vacant seat\" refers to a position within the European Parliament or other EU institutions that is unoccupied due to various circumstances, such as resignation or death. The systematic management of these vacancies is crucial for maintaining the functionality of legislative activities. Deadlines for filling these seats are established within a framework that specifies the procedures to be followed. The relevant articles outline the collection and transmission of statistical data regarding vacancies, ensuring that information is consulted and provided in a timely manner. This process is essential for the feasibility of electoral programmes and the production of accurate statistics, thereby enhancing the overall relevance of EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:42.118904",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 74,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 74,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2133.108108108108
+    },
+    "related_words": [
+      "vacancies",
+      "vacancy",
+      "job",
+      "quarterly",
+      "feasibility",
+      "systematic",
+      "format",
+      "quarter",
+      "deadlines",
+      "studies",
+      "series",
+      "transmitted",
+      "dates",
+      "specifications",
+      "units",
+      "statistics",
+      "collected",
+      "collection",
+      "bank",
+      "transmission",
+      "specify",
+      "central",
+      "consulted",
+      "definition",
+      "statistical",
+      "difficulties",
+      "small",
+      "providing",
+      "reference",
+      "establish"
+    ],
+    "prompt_length": 1694,
+    "category": "0416 electoral procedure and voting"
+  }
+}

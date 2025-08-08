@@ -1,0 +1,63 @@
+{
+  "concept_id": "1688",
+  "concept_data": {
+    "title": "leasing",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "hire purchase",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"leasing,\" often redirected to \"hire purchase,\" involves agreements where a lessee (hirer) acquires the use of an asset, such as motorised vehicles, while retaining ownership rights with the lessor. This arrangement allows for the deduction of input VAT on hired assets, providing justifiable tax relief for businesses. However, disparities in mileage travelled and the treatment of exclusions can lead to burdensome compliance issues. The EU aims to alleviate tax evasion and avoidance through thorough regulations, ensuring that leased cars and their associated costs, like fuel and maintenance, are accurately taxed. This recasting of leasing regulations seeks to create uniformity across member states, addressing factual inaccuracies and ensuring that all drivers are treated fairly under the law.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:46:05.250964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 345,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1122,
+      "selected_avg_freq": 518.5533333333333
+    },
+    "related_words": [
+      "leasee",
+      "hirer",
+      "mileage",
+      "travelled",
+      "lessee",
+      "recasting",
+      "motorised",
+      "expediency",
+      "deviate",
+      "hired",
+      "hire",
+      "rent",
+      "leased",
+      "leasing",
+      "lease",
+      "exclusions",
+      "taxed",
+      "believes",
+      "car",
+      "relieve",
+      "cars",
+      "burdensome",
+      "evasion",
+      "deduct",
+      "waive",
+      "driver",
+      "taxable",
+      "seats",
+      "avoidance",
+      "treat"
+    ],
+    "prompt_length": 1645,
+    "category": "2031 marketing"
+  }
+}

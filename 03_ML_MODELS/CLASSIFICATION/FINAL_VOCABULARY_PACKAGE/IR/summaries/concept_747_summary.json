@@ -1,0 +1,63 @@
+{
+  "concept_id": "747",
+  "concept_data": {
+    "title": "electricity",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "electrical energy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"electricity,\" redirected to \"electrical energy,\" encompasses the regulatory frameworks governing the electrical and nuclear industries within the EU. This includes prioritising cogeneration and the synchronisation of energy production across various timeslots. Regulatory bodies like the Bundesministerium für wirtschaftliche Angelegenheiten oversee the elektrizitätswirtschafts landscape, ensuring compliance with directives such as the ElWOG. The prioritization of locational efficiency and the scoping of intertransmission networks, like Nordel and Nordpool, are essential for managing rigidities in supply. Additionally, the integration of multigas systems and the bedarfsprüfung process are vital for a sustainable energy setup, reflecting the EU's commitment to reformulate its energy policies in light of evolving market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:38.568786",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2473,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 10.48
+    },
+    "related_words": [
+      "inertnal",
+      "cogeneration",
+      "prioritising",
+      "timeslots",
+      "synchronise",
+      "prioritises",
+      "locational",
+      "ucte",
+      "nordel",
+      "fragmenting",
+      "bundesministerium",
+      "wirtschaftliche",
+      "angelegenheiten",
+      "elektrizitätswirtschafts",
+      "organisationsgesetz",
+      "elwog",
+      "verbundgesellschaft",
+      "bedarfsprüfung",
+      "freudenau",
+      "salzach",
+      "kraftwerkskette",
+      "obere",
+      "drau",
+      "voitsberg",
+      "gkb",
+      "ödk",
+      "preliminarily",
+      "setup",
+      "entsos",
+      "entsog"
+    ],
+    "prompt_length": 1838,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

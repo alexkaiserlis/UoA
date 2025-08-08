@@ -1,0 +1,63 @@
+{
+  "concept_id": "7136",
+  "concept_data": {
+    "title": "universal service",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"universal service\" within EU legal and regulatory frameworks identifies a mandatory obligation for telecommunications providers to ensure that all users have access to essential electronic communications services. This includes a harmonised set of standards that distinguish between various forms of service, ensuring continuity and compliance with established rights. The regulatory framework, as outlined in previous chapters, contains specific characteristics that define the minimum service levels. These services are deemed integral to the functioning of open networks, with the aim of replacing any gaps in availability. The current version of the regulations reflects ongoing efforts to institute voluntary measures while addressing differences across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:23:49.004643",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1955.5894736842106
+    },
+    "related_words": [
+      "etss",
+      "onp",
+      "leased",
+      "ets",
+      "universal",
+      "identifies",
+      "chapters",
+      "telecommunications",
+      "distinguish",
+      "integral",
+      "institute",
+      "networks",
+      "lines",
+      "mandatory",
+      "communications",
+      "voluntary",
+      "network",
+      "electronic",
+      "continuity",
+      "references",
+      "users",
+      "regulatory",
+      "differences",
+      "harmonised",
+      "version",
+      "service",
+      "deemed",
+      "associated",
+      "containing",
+      "forms"
+    ],
+    "prompt_length": 1675,
+    "category": "2026 consumption"
+  }
+}

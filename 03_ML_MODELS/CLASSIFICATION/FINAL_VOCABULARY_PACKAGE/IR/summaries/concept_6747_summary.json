@@ -1,0 +1,63 @@
+{
+  "concept_id": "6747",
+  "concept_data": {
+    "title": "ultraviolet radiation",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "non-ionising radiation",
+    "relation_type": "USE"
+  },
+  "summary": "Ultraviolet radiation, often redirected to the term \"non-ionising radiation,\" is a significant concern within EU regulatory frameworks addressing the deterioration of the environment. This concept entails the regulation of various light sources, including halogen, fluorescent, and compact lamps, which emit ultraviolet light. The EU's ecodesign directives aim to ensure that luminaires fit within safe voltage ratings and functionality standards, phasing out excessive emissions. The intention is to enhance user safety while promoting competitiveness and harmonisation across member states. By banning certain high-radiation products, the EU seeks coherence in environmental protection, placing emphasis on the negative impacts of ultraviolet exposure in household settings.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:19:57.343630",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 155,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3811,
+      "selected_avg_freq": 1592.0133333333333
+    },
+    "related_words": [
+      "directional",
+      "uvc",
+      "socket",
+      "luminaires",
+      "halogen",
+      "tungsten",
+      "ultraviolet",
+      "mains",
+      "alternating",
+      "caps",
+      "fluorescent",
+      "ecodesign",
+      "lamp",
+      "regulates",
+      "compact",
+      "lamps",
+      "functionality",
+      "banning",
+      "cap",
+      "voltage",
+      "fundamentally",
+      "rating",
+      "envelope",
+      "radiation",
+      "household",
+      "presently",
+      "fit",
+      "electrical",
+      "phasing",
+      "forum"
+    ],
+    "prompt_length": 1728,
+    "category": "5216 deterioration of the environment"
+  }
+}

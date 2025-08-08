@@ -1,0 +1,63 @@
+{
+  "concept_id": "434786",
+  "concept_data": {
+    "title": "climate resilience",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "adaptation to climate change",
+    "relation_type": "USE"
+  },
+  "summary": "\"Climate resilience,\" redirected to \"adaptation to climate change,\" is a pivotal concept within EU environmental policy aimed at enhancing the capacity of urban and rural areas to withstand the impacts of warming. This involves intergovernmental cooperation to develop thematic strategies that promote clean technologies and renewable energy. Key regulatory frameworks, such as the EU Emissions Trading System (ETS), establish allowances and emissions inventories to mitigate greenhouse gases. By fostering synergies between various sectors, including housing and transportation, the EU seeks to optimize interventions that address territorial disparities. Financially, the European Regional Development Fund (ERDF) supports projects that accelerate climate resilience, ensuring that installations are mutually beneficial and interconnected, thereby avoiding duplication of efforts and promoting interoperability across transnational initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:34:57.542480",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 426,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 870,
+      "selected_avg_freq": 453.4266666666667
+    },
+    "related_words": [
+      "backwardness",
+      "intermodal",
+      "linkage",
+      "polluter",
+      "warming",
+      "thematic",
+      "ets",
+      "inventories",
+      "smart",
+      "connecting",
+      "synergies",
+      "aggregated",
+      "complementarity",
+      "linear",
+      "intergovernmental",
+      "clean",
+      "gases",
+      "transnational",
+      "heating",
+      "river",
+      "urban",
+      "pays",
+      "greenhouse",
+      "financially",
+      "interoperability",
+      "mutually",
+      "district",
+      "housing",
+      "interventions",
+      "duplication"
+    ],
+    "prompt_length": 1771,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_edee9606",
+  "concept_data": {
+    "title": "European Data Protection Board",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Data Protection Board (EDPB) is a crucial EU institution established under the General Data Protection Regulation (GDPR). It ensures consistent application of data protection laws across member states, fostering cooperation among national supervisory authorities. The EDPB provides guidance on interpreting legal provisions, addressing complex regulatory challenges, and promoting best practices in data governance. By issuing opinions and recommendations, the Board plays a pivotal role in safeguarding individuals' privacy rights and enhancing accountability in data processing activities. Its decisions contribute to the harmonization of data protection standards, thereby reinforcing the legal framework that underpins the EU's digital single market.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:02:02.951362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1212,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4304",
+  "concept_data": {
+    "title": "institutional structure",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"institutional structure\" of the EU, as defined in the TFEU, comprises various institutions and associations that collectively conduct the Union's affairs. This structure is composed of intergovernmental bodies and supranational institutions, each with a distinct mandate. The composition of these institutions respects the need for balanced representation among member states, including newer members like Croatia. The EU framework facilitates the drafting of regulations, such as ecodesign directives, which traders and retailers must comply with. In reviewing this structure, discrepancies in representation and function are assessed, ensuring that all occupations and stakeholders, including SMEs and unions, have a voice in successive forums.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:16.015036",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 238,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1914,
+      "selected_avg_freq": 961.6266666666667
+    },
+    "related_words": [
+      "eup",
+      "ecodesign",
+      "occupations",
+      "discrepancy",
+      "conferences",
+      "intergovernmental",
+      "unions",
+      "precedent",
+      "reallocated",
+      "eco",
+      "retailers",
+      "observes",
+      "seats",
+      "craft",
+      "reviewing",
+      "hereby",
+      "drafting",
+      "smes",
+      "forum",
+      "deferred",
+      "successive",
+      "respecting",
+      "institution",
+      "tfeu",
+      "traders",
+      "disclosure",
+      "enlargement",
+      "self",
+      "design",
+      "examining"
+    ],
+    "prompt_length": 1715,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

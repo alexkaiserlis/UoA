@@ -1,0 +1,63 @@
+{
+  "concept_id": "211",
+  "concept_data": {
+    "title": "financial cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial cooperation within the EU framework encompasses a range of regulatory initiatives aimed at fostering borderless economic integration and streamlined financial systems. This involves the collaboration of various depositories and Central Securities Depositories (CSDs) across member states, including the Bundesbank and Banque de France, to enhance the efficiency of financial transactions. The EU's financial cooperation seeks to reinforce economic stability, particularly in the poorest regions, by channeling resources effectively. It also addresses challenges posed by decentralisation and the need for supervising entities to execute policies that promote equitable access to financial services, thereby supporting communities like the Palestinian and Lebanese populations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:08:44.487631",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 698,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 416,
+      "selected_avg_freq": 183.55333333333334
+    },
+    "related_words": [
+      "depositories",
+      "csds",
+      "borderless",
+      "commoditised",
+      "alochol",
+      "interst",
+      "apartheid",
+      "pssc",
+      "banco",
+      "protuguese",
+      "tafia",
+      "arrack",
+      "bundesbank",
+      "punitive",
+      "españa",
+      "pretoria",
+      "versus",
+      "meda",
+      "poorest",
+      "streamlined",
+      "banca",
+      "lebanese",
+      "communiy",
+      "decentralisation",
+      "banque",
+      "constitutive",
+      "communty",
+      "channelled",
+      "hashemite",
+      "bore"
+    ],
+    "prompt_length": 1669,
+    "category": "0811 cooperation policy"
+  }
+}

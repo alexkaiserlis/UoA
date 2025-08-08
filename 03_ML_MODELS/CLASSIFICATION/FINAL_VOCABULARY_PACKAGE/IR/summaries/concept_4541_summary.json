@@ -1,0 +1,63 @@
+{
+  "concept_id": "4541",
+  "concept_data": {
+    "title": "urban transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"urban transport\" encompasses a systematic framework for the organization of transport within urban areas, addressing issues such as deprivation and social exclusion. In EU legal and regulatory contexts, urban transport is crucial for improving living conditions and reducing poverty levels. The European Economic Area (EEA) incorporates various modules and components that establish timely and relevant statistics on urban transport systems. These statistics include longitudinal data and variables that are comparable across national contexts. Implementing regulations pursuant to this framework ensures that urban transport systems function effectively, targeting specific areas of need and enhancing the overall composition of urban mobility.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:10:25.348653",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 70,
+      "requested_words": 150,
+      "min_frequency_found": 28,
+      "max_frequency_found": 4108,
+      "selected_words": 70,
+      "selected_min_freq": 28,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2015.5714285714287
+    },
+    "related_words": [
+      "deprivation",
+      "silc",
+      "longitudinal",
+      "sectional",
+      "encompassing",
+      "module",
+      "identifiers",
+      "variables",
+      "poverty",
+      "secondary",
+      "systematic",
+      "exclusion",
+      "component",
+      "timely",
+      "composition",
+      "living",
+      "target",
+      "income",
+      "cross",
+      "incorporated",
+      "statistics",
+      "comparable",
+      "material",
+      "statistical",
+      "together",
+      "levels",
+      "corresponding",
+      "included",
+      "areas",
+      "data"
+    ],
+    "prompt_length": 1686,
+    "category": "4811 organisation of transport"
+  }
+}

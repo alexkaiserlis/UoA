@@ -1,0 +1,63 @@
+{
+  "concept_id": "4704",
+  "concept_data": {
+    "title": "politics",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"politics\" within EU legal and regulatory frameworks encompasses the governance structures and electoral processes that facilitate democratic engagement and human rights. It involves the willingness of member states to consolidate their positions through dialogue and cooperation, particularly in the context of the Common Foreign and Security Policy (CFSP). The EU encourages independent electoral missions, such as those in Togo, to ensure the conduct of free and fair elections. These efforts contribute to greater visibility and progress in governance, as confirmed by various meetings and signed agreements. The principles of good governance are essential for the continuation of democratic processes across Africa and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:41:36.919347",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 87,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 87,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1620.16091954023
+    },
+    "related_words": [
+      "reisch",
+      "stasi",
+      "stülpnagel",
+      "inec",
+      "togolese",
+      "georg",
+      "bernard",
+      "togo",
+      "paul",
+      "von",
+      "electoral",
+      "lomé",
+      "visibility",
+      "elections",
+      "willingness",
+      "consolidate",
+      "dialogue",
+      "governance",
+      "contributed",
+      "africa",
+      "preparations",
+      "mission",
+      "cfsp",
+      "announced",
+      "democratic",
+      "conduct",
+      "continuation",
+      "follow",
+      "independent",
+      "encourage"
+    ],
+    "prompt_length": 1667,
+    "category": "0431 politics and public safety"
+  }
+}

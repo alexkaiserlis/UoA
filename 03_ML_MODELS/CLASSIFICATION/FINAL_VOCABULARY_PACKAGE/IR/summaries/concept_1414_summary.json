@@ -1,0 +1,63 @@
+{
+  "concept_id": "1414",
+  "concept_data": {
+    "title": "petroleum industry",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "oil industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"petroleum industry,\" a redirect to the preferred term \"oil industry,\" encompasses various enterprises involved in the extraction, refinement, and distribution of oil products across the EU. Regulatory frameworks govern practices within this sector, addressing issues such as environmental impact and market competition. Companies like Chevron and Gelsenberg engage in hydrocracker operations, while others, such as Calpam and Socal, focus on distribution. The industry is also influenced by amendments to legislation, ensuring compliance with safety standards. Notably, the interplay between coalproducing and oil sectors, as seen in ventures like Rheinisch-Westfälische Elektrizitätswerk, highlights the complex dynamics of energy regulation in Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:02.131116",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1370,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 19.973333333333333
+    },
+    "related_words": [
+      "borsele",
+      "hydrocracker",
+      "shv",
+      "chevron",
+      "steenkolen",
+      "handelsvereeniging",
+      "calpam",
+      "happening",
+      "socal",
+      "imaginably",
+      "gelsenberg",
+      "elektrizitäts",
+      "bergwerks",
+      "coalproducing",
+      "unternehmungen",
+      "viag",
+      "braunschweigische",
+      "kohlenbergwerke",
+      "bkb",
+      "helmstedt",
+      "stromeyer",
+      "rheinisch",
+      "westfälische",
+      "elektrizitätswerk",
+      "whollyowned",
+      "distri",
+      "bution",
+      "neuerburg",
+      "pointer",
+      "kallo"
+    ],
+    "prompt_length": 1729,
+    "category": "6616 oil industry"
+  }
+}

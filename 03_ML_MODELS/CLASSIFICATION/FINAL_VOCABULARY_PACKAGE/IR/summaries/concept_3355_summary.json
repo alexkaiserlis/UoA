@@ -1,0 +1,63 @@
+{
+  "concept_id": "3355",
+  "concept_data": {
+    "title": "narcotics traffic",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "drug traffic",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"narcotics traffic,\" redirected to \"drug traffic,\" pertains to the illegal trade of substances such as opioids, hallucinogens, and psychopharmacological agents within the EU's criminal law framework. This includes substances like ethylthiophenethylamine, methylenedioxypyrovalerone, and trimethoxyamphetamine, which can induce euphoria or hallucinations, leading to potential overdoses and psychosis. Regulatory measures address the trafficking of derivatives like safrole and phenylacetic compounds, which are precursors in illicit drug synthesis. The EU's legal instruments aim to combat the trafficking of these substances, ensuring public health and safety against the backdrop of neurochemistry and associated dysfunctions, such as auditory hallucinations and paranoid outbursts.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:26:32.546241",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 867,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 66,
+      "selected_avg_freq": 22.46
+    },
+    "related_words": [
+      "tma",
+      "ethylthiophenethylamine",
+      "propylthiophenethylamine",
+      "trimethoxyamphetamine",
+      "phenethylamines",
+      "dob",
+      "celad",
+      "norephedrine",
+      "sassafras",
+      "safrole",
+      "phenylacetic",
+      "reitox",
+      "nbome",
+      "benzamide",
+      "methylenedioxypyrovalerone",
+      "mdpv",
+      "methoxyphenyl",
+      "ethylamino",
+      "cyclohexanone",
+      "methoxetamine",
+      "neurochemistry",
+      "serotonergic",
+      "hallucinogen",
+      "auditory",
+      "hallucinations",
+      "trauma",
+      "lsd",
+      "opioid",
+      "analgesic",
+      "doxylam"
+    ],
+    "prompt_length": 1840,
+    "category": "1216 criminal law"
+  }
+}

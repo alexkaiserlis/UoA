@@ -1,0 +1,63 @@
+{
+  "concept_id": "3160",
+  "concept_data": {
+    "title": "transport regulations",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Transport regulations within the EU framework encompass a comprehensive set of legal and regulatory measures aimed at ensuring roadworthiness, efficiency, and environmental sustainability in transport systems. These regulations embrace various modalities, including air transport, where certificated operators must adhere to stringent standards to mitigate emissions from subsonic aircraft. The normalisation of transport practices facilitates the integration of diverse transport modes across conurbations, while alliances among carriers can enhance operational efficiencies. Furthermore, the abolishment of outdated practices and the recertificated status of transport entities underscore the EU's commitment to maintaining high standards. Limiters on surcharges and the acknowledgment of unique anomalies in transport lanes are critical for fair competition, ensuring that all charterers and lessees operate under equitable conditions. The regulatory framework also addresses the complexities of chartering agreements, including bareboat arrangements, while promoting the upturn of sustainable practices in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:53.310644",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 1369,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 115,
+      "selected_avg_freq": 51.24
+    },
+    "related_words": [
+      "aetr",
+      "lain",
+      "supremacy",
+      "cita",
+      "recertificated",
+      "noisiest",
+      "certificated",
+      "aero",
+      "conurbation",
+      "tegel",
+      "tempelhof",
+      "embraced",
+      "tenuous",
+      "cumulating",
+      "undoing",
+      "ceding",
+      "acknowledgment",
+      "limiters",
+      "tramp",
+      "bareboat",
+      "charterer",
+      "expelled",
+      "engined",
+      "abolishment",
+      "normalisation",
+      "alliances",
+      "cluster",
+      "flagging",
+      "pusher",
+      "subsonic"
+    ],
+    "prompt_length": 1675,
+    "category": "4806 transport policy"
+  }
+}

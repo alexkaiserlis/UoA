@@ -1,0 +1,63 @@
+{
+  "concept_id": "3558",
+  "concept_data": {
+    "title": "budgetary resources",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"budgetary resources\" refers to the financial means mobilised through various instruments, including the Multiannual Financial Framework (MFF). These resources are crucial for addressing unforeseen fiscal strains and ensuring the effective management of EU funds. They encompass items such as receivables, cash, and premiums, which are booked and confirmed through rigorous calculations. The agenda for budgetary resources includes contingency planning to offset unforeseen expenditures, ensuring that the upper limits of budgetary allocations are respected. Institutions must react promptly to any insufficiency, thereby safeguarding the prerogatives of the EU and its member states in managing debt and emissions effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:33.980721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 362,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1064,
+      "selected_avg_freq": 538.4733333333334
+    },
+    "related_words": [
+      "mff",
+      "twelfths",
+      "receivable",
+      "unreasonably",
+      "insufficiency",
+      "prerogatives",
+      "gni",
+      "booked",
+      "unprecedented",
+      "pool",
+      "resort",
+      "shorten",
+      "manager",
+      "cars",
+      "contingency",
+      "postponement",
+      "unforeseen",
+      "react",
+      "offsetting",
+      "formulae",
+      "strain",
+      "absolute",
+      "mobilise",
+      "resource",
+      "upper",
+      "agenda",
+      "channel",
+      "erdf",
+      "mobilisation",
+      "aggregate"
+    ],
+    "prompt_length": 1656,
+    "category": "2441 budget"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3567",
+  "concept_data": {
+    "title": "compulsory insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Compulsory insurance refers to mandatory coverage required by EU regulations for specific sectors, particularly in aviation and transportation. This insurance ensures that carriers adequately cover liability for passengers and cargo, including baggage, during air travel. The legal framework, influenced by international conventions such as the Montreal Convention, lays down minimum limits and thresholds for coverage, which may be adjusted to account for inflation and other factors. Operators must comply with these requirements to protect persons involved in carriage operations. Recently, the EU has reviewed and revised these regulations to ensure they correspond with evolving industry standards and adequately safeguard all parties.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:26:09.676481",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 51,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 51,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1851.5168539325844
+    },
+    "related_words": [
+      "baggage",
+      "insured",
+      "icao",
+      "cent",
+      "accumulated",
+      "triggering",
+      "montreal",
+      "unification",
+      "cargo",
+      "carriers",
+      "passengers",
+      "aviation",
+      "inflation",
+      "aircraft",
+      "carriage",
+      "insurance",
+      "liability",
+      "adequately",
+      "corresponds",
+      "timely",
+      "factor",
+      "air",
+      "threshold",
+      "exceeded",
+      "recently",
+      "exceeding",
+      "significantly",
+      "reviewed",
+      "revised",
+      "adjusted"
+    ],
+    "prompt_length": 1664,
+    "category": "2431 insurance"
+  }
+}

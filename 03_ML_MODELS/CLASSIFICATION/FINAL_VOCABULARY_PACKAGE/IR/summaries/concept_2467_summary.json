@@ -1,0 +1,63 @@
+{
+  "concept_id": "2467",
+  "concept_data": {
+    "title": "education policy",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"education policy\" within the EU legal and regulatory framework encompasses strategies designed to enhance the learning experience for everyone, particularly youth and girls. It aims to bolster talent development and career pathways, facilitating lifelong learning and interactive instruction. The EU's education initiatives, inspired by thinkers like Socrates and Leonardo da Vinci, strategically drive the restoration of cultural values and professional prestige. By widening access to educational infrastructures, the policy signals a commitment to imparting knowledge and skills essential for various occupations. This comprehensive approach addresses conflicts in educational access and emphasizes the attractiveness of careers in the audiovisual sector, ensuring that learners gain tangible benefits from their educational journeys.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:37:00.970485",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 457,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 626,
+      "selected_avg_freq": 297.56
+    },
+    "related_words": [
+      "themn",
+      "incraese",
+      "enhace",
+      "talent",
+      "learners",
+      "imparting",
+      "everyone",
+      "teachers",
+      "decison",
+      "oft",
+      "careers",
+      "vinci",
+      "strategically",
+      "leonardo",
+      "revolutions",
+      "socrates",
+      "particulary",
+      "bolstered",
+      "modus",
+      "vivendi",
+      "interactive",
+      "furthering",
+      "strands",
+      "girls",
+      "instruction",
+      "attractiveness",
+      "gaining",
+      "undoubtedly",
+      "prestige",
+      "lifelong"
+    ],
+    "prompt_length": 1690,
+    "category": "3206 education"
+  }
+}

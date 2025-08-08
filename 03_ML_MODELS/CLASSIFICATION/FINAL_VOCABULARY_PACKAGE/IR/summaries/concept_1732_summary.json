@@ -1,0 +1,63 @@
+{
+  "concept_id": "1732",
+  "concept_data": {
+    "title": "superstore",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": true,
+    "preferred_term": "supermarket",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"superstore\" is a redirect to \"supermarket,\" a concept prevalent in the EU's distributive trades category. Supermarkets, such as Aldi, play a crucial role in the logistics of food supply and retailing across Europe, including regions like Thessaloniki, Greece. In the context of EU regulations, supermarkets must comply with various legal frameworks that govern enterprise operations, particularly during crises that may lead to redundancies among workers. The European Globalisation Fund (EGF) assists in the reintegration of redundant workers, providing budgetary contributions to support structural adjustments. This mobilises resources to address changing market patterns and ensures sound economic discipline within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:05:40.195581",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1689.4945054945056
+    },
+    "related_words": [
+      "aldi",
+      "epe",
+      "assoc",
+      "supermarket",
+      "hellas",
+      "logistics",
+      "thessaloniki",
+      "egf",
+      "redundancies",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "mobilisation",
+      "redundant",
+      "enterprise",
+      "proposes",
+      "supplier",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "labour",
+      "contributions",
+      "workers",
+      "crisis",
+      "complies",
+      "ceiling",
+      "holding",
+      "assist"
+    ],
+    "prompt_length": 1712,
+    "category": "2036 distributive trades"
+  }
+}

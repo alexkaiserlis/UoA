@@ -1,0 +1,63 @@
+{
+  "concept_id": "4116",
+  "concept_data": {
+    "title": "medical service",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "health service",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"medical service,\" categorized under health, is redirected to the preferred term \"health service\" within EU legal and regulatory frameworks. This term encompasses a broad range of activities associated with health care, including cooperation among member states to negotiate agreements that authorize the provision of medical care. Such agreements are crucial for mutual benefit, enabling governments to obtain technical and scientific support in the health field. The European Parliament and relevant committees express interest in developing programmes that facilitate cost-effective health services. The conclusion of these negotiations is essential for advancing public health interests across the EU, particularly concerning member states' cooperation with Turkey and other republics.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:32.621695",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 56,
+      "requested_words": 150,
+      "min_frequency_found": 78,
+      "max_frequency_found": 4108,
+      "selected_words": 56,
+      "selected_min_freq": 78,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2055.4285714285716
+    },
+    "related_words": [
+      "associating",
+      "expect",
+      "turkish",
+      "cooperating",
+      "authorizes",
+      "negotiate",
+      "medical",
+      "turkey",
+      "wholly",
+      "partly",
+      "participating",
+      "negotiated",
+      "mutual",
+      "obtain",
+      "coordination",
+      "research",
+      "scientific",
+      "cost",
+      "expressed",
+      "agreements",
+      "benefit",
+      "health",
+      "conclusion",
+      "government",
+      "interest",
+      "field",
+      "programme",
+      "approved",
+      "cooperation",
+      "republic"
+    ],
+    "prompt_length": 1696,
+    "category": "2841 health"
+  }
+}

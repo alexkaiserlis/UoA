@@ -1,0 +1,63 @@
+{
+  "concept_id": "3144",
+  "concept_data": {
+    "title": "water management",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Water management in the EU encompasses a comprehensive regulatory framework aimed at ensuring sustainable use and protection of water resources across various basins. It involves the assessment of hydromorphological conditions and the management of discharges to prevent the enrichment of water bodies, thus safeguarding phytoplankton, macrophytes, and benthic invertebrates. The EU promotes harmonising measures through interlaboratory comparisons and proficiency scoring to enhance the calibration of measurement techniques. Urban agglomerations are encouraged to formulate strategies that address the disadvantages of pollution while compensating for foregone ecosystem services. Additionally, the EU's Water Framework Directive emphasizes the importance of maintaining ecological boundaries and fostering liaisons among stakeholders for effective water governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:49.381942",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 568,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 640,
+      "selected_avg_freq": 306.68666666666667
+    },
+    "related_words": [
+      "phytoplankton",
+      "macrophytes",
+      "phytobenthos",
+      "hydromorphological",
+      "unenriched",
+      "subsist",
+      "scoring",
+      "liaisons",
+      "regensburg",
+      "interlaboratory",
+      "agglomerations",
+      "bathing",
+      "iec",
+      "foregone",
+      "benthic",
+      "invertebrates",
+      "cages",
+      "danube",
+      "overlapping",
+      "proficiency",
+      "quantification",
+      "fifteen",
+      "mayotte",
+      "enriched",
+      "discharges",
+      "calibration",
+      "attaches",
+      "formulate",
+      "nationally",
+      "hens"
+    ],
+    "prompt_length": 1737,
+    "category": "5206 environmental policy"
+  }
+}

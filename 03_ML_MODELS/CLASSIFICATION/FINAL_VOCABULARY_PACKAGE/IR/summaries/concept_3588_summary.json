@@ -1,0 +1,63 @@
+{
+  "concept_id": "3588",
+  "concept_data": {
+    "title": "restriction of liberty",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"restriction of liberty\" within EU criminal law pertains to the legal frameworks governing the detention and custody of individuals, particularly in contexts involving allegations of brutality or forcible actions. This includes cases where individuals, such as Vlastimir Djordjevic or Ratko Mladic, face indictment for serious crimes, including war crimes and human rights violations. The EU emphasizes the prohibition of arbitrary detention, ensuring that supporters of justice, like lawyers, can contest unlawful custody. The regulatory landscape also addresses issues of displacement and disappearances, reflecting on historical contexts such as the Transnistrian conflict or the crackdown in Harare. Legal mechanisms must adapt to prevent abuses, ensuring compliance with international standards, as seen in cases involving figures like Milosevic and Goran Hadzic.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:04.169752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 569,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 374,
+      "selected_avg_freq": 122.2
+    },
+    "related_words": [
+      "brutality",
+      "script",
+      "lukic",
+      "transnistrian",
+      "uthman",
+      "omar",
+      "mahmoud",
+      "othman",
+      "mladic",
+      "stojan",
+      "zupljanin",
+      "murambatsvina",
+      "forcible",
+      "vlastimir",
+      "djordjevic",
+      "anjouan",
+      "vujadin",
+      "popovic",
+      "nebojsa",
+      "pavkovic",
+      "indictment",
+      "borovnica",
+      "ratko",
+      "gotovina",
+      "prohibtion",
+      "supporters",
+      "displacement",
+      "goran",
+      "reshuffle",
+      "mohammed"
+    ],
+    "prompt_length": 1661,
+    "category": "1216 criminal law"
+  }
+}

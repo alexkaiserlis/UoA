@@ -1,0 +1,63 @@
+{
+  "concept_id": "5212",
+  "concept_data": {
+    "title": "cross-channel connection",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"cross-channel connection\" refers to the regulatory framework governing transport links between the UK and continental Europe, notably through structures like the Eurotunnel. This infrastructure, commissioned by various entreprises such as Bouygues and Costain, facilitates the movement of shuttles and locomotives across the Manche. Legal considerations include subcontracting arrangements, where firms like Atkins and Halcrow provide consultancy services. The regulatory landscape also addresses economic impacts, ensuring that promoters and invitees adhere to standards during commissioning and maintenance. The twin tunnels exemplify a significant oeuvre in transport policy, promoting efficient cross-channel connectivity while balancing economic interests and environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:07:30.328363",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 393,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 533,
+      "selected_avg_freq": 183.05333333333334
+    },
+    "related_words": [
+      "eurotunnel",
+      "maître",
+      "oeuvre",
+      "ctg",
+      "transmanche",
+      "beatty",
+      "costain",
+      "tarmac",
+      "wimpey",
+      "bouygues",
+      "dumez",
+      "auxiliaire",
+      "spie",
+      "batignolles",
+      "tml",
+      "invitees",
+      "invitee",
+      "shuttles",
+      "atkins",
+      "économiques",
+      "halcrow",
+      "tractionel",
+      "electrobel",
+      "wordl",
+      "intereset",
+      "balfour",
+      "william",
+      "woodrow",
+      "boring",
+      "manche"
+    ],
+    "prompt_length": 1685,
+    "category": "4806 transport policy"
+  }
+}

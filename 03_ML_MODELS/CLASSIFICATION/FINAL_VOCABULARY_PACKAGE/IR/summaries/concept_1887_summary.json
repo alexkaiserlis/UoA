@@ -1,0 +1,26 @@
+{
+  "concept_id": "1887",
+  "concept_data": {
+    "title": "non-metal",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "metalloid",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"non-metal\" is often redirected to the preferred term \"metalloid.\" Metalloids are elements that exhibit properties intermediate between metals and non-metals, playing a crucial role in various chemical applications and regulatory frameworks. Understanding metalloids is essential for compliance with EU regulations concerning chemical safety, environmental impact, and material classification. While the term \"non-metal\" broadly encompasses elements lacking metallic properties, the specificity of \"metalloid\" aids in precise categorization within chemical legislation, ensuring clarity in regulatory documentation and facilitating effective communication among stakeholders in the chemical industry.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:59.269304",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 92,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1187,
+    "category": "6811 chemistry"
+  }
+}

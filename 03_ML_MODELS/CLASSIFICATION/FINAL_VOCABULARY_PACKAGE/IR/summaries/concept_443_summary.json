@@ -1,0 +1,63 @@
+{
+  "concept_id": "443",
+  "concept_data": {
+    "title": "limited circulation",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"limited circulation\" within EU legal and regulatory frameworks refers to documents or information that are classified and intended for restricted access. This status is often endorsed by secretaries or the secretariat, particularly in sensitive missions such as those conducted under the Common Foreign and Security Policy (CFSP). Limited circulation documents may include letters or reports that detail political arrangements, transitional phases, or reform outcomes, which could impede or facilitate diplomatic efforts. Such documents are crucial for maintaining confidentiality in negotiations, ensuring that only authorized personnel, such as police or NATO representatives, have access to classified information, thereby achieving a positive impact on foreign affairs.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:33:57.505893",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 143,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 143,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1650.13986013986
+    },
+    "related_words": [
+      "secretaries",
+      "ssr",
+      "handing",
+      "nato",
+      "eupol",
+      "barcelona",
+      "congo",
+      "interface",
+      "deteriorate",
+      "presidency",
+      "contacts",
+      "twelve",
+      "police",
+      "atlantic",
+      "begin",
+      "earliest",
+      "impede",
+      "deriving",
+      "secretary",
+      "secretariat",
+      "stressed",
+      "endorsed",
+      "assisted",
+      "mission",
+      "cfsp",
+      "north",
+      "affairs",
+      "democratic",
+      "phase",
+      "reform"
+    ],
+    "prompt_length": 1691,
+    "category": "3231 information and information processing"
+  }
+}

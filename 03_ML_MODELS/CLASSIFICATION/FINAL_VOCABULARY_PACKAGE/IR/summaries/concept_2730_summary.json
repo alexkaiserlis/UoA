@@ -1,0 +1,63 @@
+{
+  "concept_id": "2730",
+  "concept_data": {
+    "title": "preserves",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "fruit product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"preserves\" is a redirect term for \"fruit product,\" encompassing various processed items such as jams, jellies, and crystallised fruits. These products must comply with specific regulations concerning their characteristics, including the use of sweeteners like steviol glycosides and the optional addition of alcohol. The application of densimetry may be utilized to ascertain the quality of these preserves. Furthermore, documentation and paperwork are essential for trders and winegrowers, particularly in regions like Châteauneuf, where unique products like moscatel are produced. Regulatory frameworks aim to erase superfluous barriers, ensuring that fruit products meet the interests of consumers and producers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:28.245470",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 2835,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 8.693333333333333
+    },
+    "related_words": [
+      "trders",
+      "crystallised",
+      "suphur",
+      "superflous",
+      "nonfixing",
+      "proces",
+      "châteauneuf",
+      "pape",
+      "poducts",
+      "listes",
+      "prviously",
+      "glacăš",
+      "applciation",
+      "steviol",
+      "glycosides",
+      "whils",
+      "uncer",
+      "bocksbeutel",
+      "cantil",
+      "theinterests",
+      "individualized",
+      "erase",
+      "baobab",
+      "phytotrade",
+      "layw",
+      "winegrower",
+      "winery",
+      "atfrontier",
+      "densimetry",
+      "apfelkraut"
+    ],
+    "prompt_length": 1731,
+    "category": "6026 foodstuff"
+  }
+}

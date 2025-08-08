@@ -1,0 +1,63 @@
+{
+  "concept_id": "6219",
+  "concept_data": {
+    "title": "Fundamental Rights Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Union Agency for Fundamental Rights",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Fundamental Rights Agency,\" officially known as the \"European Union Agency for Fundamental Rights,\" serves a crucial role within the EU's legal framework. It focuses on protecting and promoting fundamental rights, particularly in the context of migration, asylum, and the fight against racism and xenophobia. The agency collaborates with various EU bodies, such as EASO, Eurofound, and Frontex, to disseminate expertise and thematic orientations on issues like gender equality and poverty. Its remit includes collecting data and preparing resolutions that enhance the enjoyment of rights for all citizens, ensuring secure borders while upholding judicial standards and combating exclusion and intolerance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:54:51.042586",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 182,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2699,
+      "selected_avg_freq": 1020.3266666666667
+    },
+    "related_words": [
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "frontex",
+      "cepol",
+      "orientations",
+      "enjoyment",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "eurojust",
+      "college",
+      "thematic",
+      "disseminating",
+      "preconditions",
+      "stockholm",
+      "asylum",
+      "gender",
+      "remit",
+      "complementarity",
+      "supervisor",
+      "foundation",
+      "europol",
+      "poverty",
+      "serving",
+      "migration",
+      "jha",
+      "police",
+      "equality"
+    ],
+    "prompt_length": 1772,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

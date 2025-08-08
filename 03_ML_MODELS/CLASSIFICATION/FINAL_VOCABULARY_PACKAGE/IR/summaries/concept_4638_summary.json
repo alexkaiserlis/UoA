@@ -1,0 +1,63 @@
+{
+  "concept_id": "4638",
+  "concept_data": {
+    "title": "suckler cow",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"suckler cow\" refers to a female bovine that raises her own calf, playing a crucial role in EU agricultural production. In regulatory contexts, particularly within articles governing livestock management, suckler cows are significant for maintaining stockfarmers' herds and ensuring parity in meat production. The EU promotes extensification practices to enhance the sustainability of suckler cow breeding, addressing issues like overpayments and penalising non-compliance. Furthermore, statistics indicate that the collectivization of suckler cow operations can lead to larger herds, although unfamiliarity with these practices may complicate their implementation. Breeders must adhere to regulations that warrant the welfare of calves, while also navigating challenges such as rainfalls affecting grazing lands and the need for lighter leases on plots. Ultimately, the success of suckler cow management is vital for ensuring food security and addressing the insurmountable demands of a growing population.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:44.217256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 140,
+    "vocabulary_stats": {
+      "total_related_words": 947,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 248,
+      "selected_avg_freq": 112.05333333333333
+    },
+    "related_words": [
+      "heifer",
+      "artciles",
+      "statitics",
+      "caes",
+      "agraria",
+      "collectivization",
+      "largerly",
+      "incerease",
+      "intitial",
+      "penalises",
+      "azorean",
+      "pluviometric",
+      "watering",
+      "slaugther",
+      "collectivized",
+      "lengthier",
+      "complicate",
+      "unfamiliarity",
+      "overpayments",
+      "complicating",
+      "kerry",
+      "successors",
+      "faithfully",
+      "reorganizing",
+      "insurmountable",
+      "oder",
+      "stockfarmers",
+      "textual",
+      "discriminating",
+      "weaker"
+    ],
+    "prompt_length": 1721,
+    "category": "5626 means of agricultural production"
+  }
+}

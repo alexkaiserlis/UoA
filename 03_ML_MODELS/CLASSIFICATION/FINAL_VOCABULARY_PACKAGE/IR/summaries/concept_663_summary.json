@@ -1,0 +1,63 @@
+{
+  "concept_id": "663",
+  "concept_data": {
+    "title": "Scotland",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Scotland, a vital region within Europe, encompasses diverse municipalities such as Fife and Dumfries, and is characterized by its unique grasslands and highlands. The EU regulatory framework addresses various sectors, including energy, where entities like Ofgem oversee the unbundled management of resources. Scotland's economy benefits from victuallers and the production of renowned whiskies, while the fishing industry, particularly whitefish, faces challenges from environmental factors like toxine and paralytic shellfish poisoning. The region's commitment to sustainable practices is evident in its management of natural resources, including the protection of corals and mounds in marine ecosystems, ensuring that irremediable impacts are minimized.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:18:41.890708",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1613,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 78,
+      "selected_avg_freq": 35.31333333333333
+    },
+    "related_words": [
+      "fife",
+      "toxine",
+      "irremediable",
+      "galloway",
+      "intermendiate",
+      "formatted",
+      "reallocates",
+      "victuallers",
+      "victualler",
+      "consumable",
+      "dunlop",
+      "ofgem",
+      "betta",
+      "anf",
+      "lophelia",
+      "pertusa",
+      "darwin",
+      "mounds",
+      "municpalities",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "kilowatt",
+      "embassies",
+      "whiskies",
+      "grasslands",
+      "inflict",
+      "dumfries"
+    ],
+    "prompt_length": 1634,
+    "category": "7206 Europe"
+  }
+}

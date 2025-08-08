@@ -1,0 +1,63 @@
+{
+  "concept_id": "3884",
+  "concept_data": {
+    "title": "reconstituted wood",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": true,
+    "preferred_term": "bonded wood",
+    "relation_type": "USE"
+  },
+  "summary": "\"Reconstituted wood,\" commonly referred to as \"bonded wood,\" pertains to engineered wood products created from residual wood materials, such as okoumé and bintangor, which are bonded together using adhesives. In the EU regulatory framework, this term is significant in anti-dumping investigations, particularly concerning imports from countries like China. The European Commission may initiate proceedings if evidence shows that bonded wood is being dumped, exceeding acceptable price thresholds. Investigations consider various factors, including the thickness of plywood sheets and the chemical composition of coatings. The termination of such investigations can occur if the applicant withdraws their complaint or if definitive conclusions indicate no justification for anti-dumping measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:12:01.577717",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 148,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 148,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1477.4054054054054
+    },
+    "related_words": [
+      "okoumé",
+      "feic",
+      "bintangor",
+      "kedondong",
+      "canarium",
+      "ply",
+      "plywood",
+      "coated",
+      "outer",
+      "thickness",
+      "film",
+      "sheets",
+      "red",
+      "withdrew",
+      "wood",
+      "residual",
+      "comment",
+      "dumped",
+      "existed",
+      "federation",
+      "terminating",
+      "alleged",
+      "dumping",
+      "appeared",
+      "termination",
+      "initiation",
+      "concludes",
+      "proceeding",
+      "terminated",
+      "china"
+    ],
+    "prompt_length": 1693,
+    "category": "6836 wood industry"
+  }
+}

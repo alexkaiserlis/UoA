@@ -1,0 +1,63 @@
+{
+  "concept_id": "5551",
+  "concept_data": {
+    "title": "police cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Police cooperation within the EU framework is a critical aspect of the cooperation policy, aimed at enhancing cross-border security and addressing criminality. This collaboration involves various stakeholders, including chiefs of police and specialized units, who engage in trainings and operations to tackle issues such as hostage situations and hijacking. Initiatives like the EU Police (COPS) program facilitate information sharing and operational planning (oplan) among member states. The ubiquity of transnational crime necessitates a coordinated response, as seen in gatherings of law enforcement leaders like Jukka Savolainen and Nigel Kernaghan. Through demarches and joint efforts, the EU strives for effective policing, ensuring public safety and security across borders.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:39:28.879371",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1049,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 109,
+      "selected_avg_freq": 40.04
+    },
+    "related_words": [
+      "oplan",
+      "mcivor",
+      "jukka",
+      "savolainen",
+      "cops",
+      "kernaghan",
+      "afg",
+      "nigel",
+      "twisted",
+      "subscriber",
+      "bit",
+      "dsl",
+      "collocation",
+      "rikir",
+      "ossetia",
+      "reeve",
+      "afgh",
+      "gatherings",
+      "hostage",
+      "hijacking",
+      "trainings",
+      "eupt",
+      "casper",
+      "klynge",
+      "kinshasa",
+      "adílio",
+      "custódio",
+      "bart",
+      "jonathan",
+      "superintendent"
+    ],
+    "prompt_length": 1634,
+    "category": "0811 cooperation policy"
+  }
+}

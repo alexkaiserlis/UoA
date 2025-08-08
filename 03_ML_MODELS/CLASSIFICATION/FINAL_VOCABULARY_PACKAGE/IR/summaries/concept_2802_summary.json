@@ -1,0 +1,63 @@
+{
+  "concept_id": "2802",
+  "concept_data": {
+    "title": "industrial project",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"industrial project\" within EU legal and regulatory frameworks encompasses a range of initiatives aimed at developing industrial structures, particularly in sectors like petrochemical and coalfields. These projects often involve complex processes such as gasification and liquefaction, which are crucial for transforming raw materials into usable products. Regulatory schemes, like the investeringspremierregeling, incentivize investments in regions like Groningen and Heerlen, where outworn infrastructures, such as collieries and blast furnaces, require repairs or upgrades. The interplay of environmental regulations and economic policies seeks to catalyze sustainable practices, while selectively diverting resources from outdated methods, ensuring that industrial projects align with EU objectives for innovation and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:01:36.408247",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 728,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 273,
+      "selected_avg_freq": 113.58666666666667
+    },
+    "related_words": [
+      "liquefaction",
+      "gasification",
+      "geleen",
+      "boroughs",
+      "heerlen",
+      "catalyzing",
+      "ate",
+      "investeringspremierregeling",
+      "shemes",
+      "pernis",
+      "outworn",
+      "veendam",
+      "eisden",
+      "inopportune",
+      "investeringspremieregeling",
+      "petro",
+      "opposes",
+      "campine",
+      "cracking",
+      "staatsblad",
+      "interplay",
+      "investeringsrekening",
+      "wir",
+      "selectively",
+      "tower",
+      "butadiene",
+      "groningen",
+      "colliery",
+      "infer",
+      "refractory"
+    ],
+    "prompt_length": 1707,
+    "category": "6806 industrial structures and policy"
+  }
+}

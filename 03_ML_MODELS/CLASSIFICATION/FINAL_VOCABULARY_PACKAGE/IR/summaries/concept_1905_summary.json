@@ -1,0 +1,63 @@
+{
+  "concept_id": "1905",
+  "concept_data": {
+    "title": "East Midlands",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"East Midlands\" concept pertains to a specific region within the EU framework, particularly relevant in discussions surrounding regional development and funding allocations. This area is indexed within the European Structural Funds (ESF) and the European Regional Development Fund (ERDF), which foresees additionality in support for declining sectors. The programming of appropriations reflects a progressive approach to economic development, with partners evaluating the impact of loans and grants. Statutory frameworks define the priorities for funding, ensuring that allocations satisfy the needs of recipients. The region's development patterns are closely monitored, with an emphasis on modifying strategies to simplify processes and enhance effectiveness.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:56:08.962880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 286,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1498,
+      "selected_avg_freq": 861.06
+    },
+    "related_words": [
+      "theeuropean",
+      "midlands",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "analogy",
+      "frameworks",
+      "seq",
+      "erdf",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees",
+      "statutory",
+      "allocations",
+      "ecus",
+      "satisfies",
+      "loans",
+      "programming",
+      "pattern",
+      "modifying",
+      "precisely",
+      "recipient",
+      "speed"
+    ],
+    "prompt_length": 1673,
+    "category": "7206 Europe"
+  }
+}

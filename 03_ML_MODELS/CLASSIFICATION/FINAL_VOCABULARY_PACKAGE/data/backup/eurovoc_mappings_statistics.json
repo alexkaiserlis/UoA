@@ -1,0 +1,82 @@
+{
+  "total_concepts": 7384,
+  "categories": {
+    "numeric_ids": 6913,
+    "alphanumeric_ids": 471,
+    "auto_generated_titles": 0,
+    "use_references": 0,
+    "regular_concepts": 7384
+  },
+  "sample_categories": {
+    "numeric_ids": [
+      "434966",
+      "594",
+      "2894",
+      "5972",
+      "3509"
+    ],
+    "alphanumeric_ids": [
+      "c_9ffd3927",
+      "c_715c08c0",
+      "c_18cee978",
+      "c_ad1c90d4",
+      "c_83235c0f"
+    ],
+    "auto_generated_titles": [],
+    "use_references": [],
+    "regular_concepts": [
+      "c_9ffd3927",
+      "c_715c08c0",
+      "c_18cee978",
+      "c_ad1c90d4",
+      "c_83235c0f"
+    ]
+  },
+  "title_length_stats": {
+    "min": 2,
+    "max": 117,
+    "avg": 16.475352112676056
+  },
+  "most_common_words": [
+    [
+      "european",
+      175
+    ],
+    [
+      "policy",
+      113
+    ],
+    [
+      "international",
+      100
+    ],
+    [
+      "economic",
+      83
+    ],
+    [
+      "industry",
+      83
+    ],
+    [
+      "region",
+      81
+    ],
+    [
+      "product",
+      80
+    ],
+    [
+      "(eu)",
+      76
+    ],
+    [
+      "price",
+      69
+    ],
+    [
+      "social",
+      68
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7938",
+  "concept_data": {
+    "title": "European Union Agency for Cybersecurity",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Union Agency for Cybersecurity (ENISA) is a pivotal agency established to enhance the security of networks and information systems across the EU. Its mandate includes facilitating collaborative efforts among member states, parliaments, and stakeholders to develop a comprehensive cybersecurity strategy. ENISA's objectives are to strengthen the EU's resilience against cyber threats and ensure continuity in security measures. The agency engages in extensive consultations and discussions to draft legislative proposals that align with evolving security needs. By adopting a proactive approach, ENISA enables better transmission of information and results, thereby reforming the cybersecurity landscape towards increased consistency and relevance across regions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:48:14.076985",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 93,
+      "requested_words": 150,
+      "min_frequency_found": 41,
+      "max_frequency_found": 4108,
+      "selected_words": 93,
+      "selected_min_freq": 41,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1969.8064516129032
+    },
+    "related_words": [
+      "ran",
+      "collaborative",
+      "debate",
+      "discussion",
+      "direction",
+      "extensive",
+      "strengthened",
+      "launched",
+      "mandate",
+      "parliaments",
+      "network",
+      "expire",
+      "reform",
+      "resulted",
+      "ordinary",
+      "continuity",
+      "strategy",
+      "consistency",
+      "legislative",
+      "replace",
+      "efforts",
+      "agency",
+      "envisaged",
+      "approach",
+      "transmission",
+      "duration",
+      "resolution",
+      "held",
+      "better",
+      "towards"
+    ],
+    "prompt_length": 1726,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

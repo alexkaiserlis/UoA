@@ -1,0 +1,63 @@
+{
+  "concept_id": "4004",
+  "concept_data": {
+    "title": "residence permit",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"residence permit\" is a legal document that allows migrants, including students and spouses, to reside in an EU Member State. This permit is crucial for individuals from countries such as Antigua, Barbuda, and the Bahamas, as it enhances their ability to live and work within the EU. The issuance of residence permits must be free from falsifications and counterfeiting, ensuring that biometric data is readable and interoperable. The EU's legal framework, established in the Tampere Programme, emphasizes the need for clear distinctions in residency rights, particularly for Palestinians and other groups. Invalidity or incapacity in documentation can lead to significant lag in processing. Consulates play a vital role in the issuance process, reserving the right to deny applications based on specific criteria. Overall, the residence permit system reflects a commitment to orderly migration while safeguarding the integrity of the EU's borders.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:24:06.063413",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 142,
+    "vocabulary_stats": {
+      "total_related_words": 837,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 282,
+      "selected_avg_freq": 130.26
+    },
+    "related_words": [
+      "divulged",
+      "incapacity",
+      "corollary",
+      "falsifications",
+      "consulates",
+      "stickers",
+      "spouse",
+      "palestinians",
+      "distinctions",
+      "antigua",
+      "barbuda",
+      "bahamas",
+      "stays",
+      "naked",
+      "recognisable",
+      "students",
+      "readmission",
+      "kitts",
+      "biometric",
+      "masters",
+      "universally",
+      "barbados",
+      "falsification",
+      "nevis",
+      "concurrently",
+      "lag",
+      "commonwealth",
+      "invalidity",
+      "macao",
+      "reside"
+    ],
+    "prompt_length": 1705,
+    "category": "1231 international law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4258",
+  "concept_data": {
+    "title": "statistics of the European Union",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": true,
+    "preferred_term": "EU statistics",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU statistics\" encompasses a comprehensive framework for collecting, analyzing, and disseminating statistical data within the European Union. This legal and regulatory domain is pivotal for policymakers and statisticians, impacting various fields such as health, economics, and social wellbeing. The European Statistical System (ESS) employs rigorous methodologies, including econometrics and fieldwork, to ensure data reliability. Notably, it addresses issues like undercapacity and overproduction, providing essential insights for evaluating public policies. The collaboration among institutions, including Harvard and Princeton, enhances the quality of data, fostering a multilaterial approach to statistical analysis. EU statistics serve as a vademecum for understanding complex societal dynamics, aiding in the identification of predictors for various phenomena, including childhood illnesses and musculoskeletal disorders.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:03.226418",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 2904,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.82
+    },
+    "related_words": [
+      "readjust",
+      "eecc",
+      "fellows",
+      "harvard",
+      "policymakers",
+      "statistician",
+      "allt",
+      "friends",
+      "illnesses",
+      "musculoskeletal",
+      "subsample",
+      "estudios",
+      "fiscales",
+      "ief",
+      "emloyers",
+      "esac",
+      "undercapacity",
+      "csis",
+      "hbs",
+      "cgr",
+      "vademecum",
+      "overproduction",
+      "childhood",
+      "impacting",
+      "adulthood",
+      "évaluation",
+      "statistiques",
+      "drees",
+      "fieldwork",
+      "animation"
+    ],
+    "prompt_length": 1734,
+    "category": "1631 economic analysis"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "566",
+  "concept_data": {
+    "title": "private international law",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Private international law, a critical aspect of international law, governs cross-border legal matters such as divorce, succession, and separation. Within the EU, it enhances jurisdictional clarity and strengthens the enforcement of judgments across member states, including Malta, Slovenia, and Latvia. This legal framework prescribes the recognition and acceptance of foreign legal instruments, ensuring proper participation in justice systems. For instance, a divorce certificate issued in Italy may require notification and registration in Ireland to be effective. The intention is to create a cohesive legal environment that benefits individuals and facilitates cross-border legal processes, as seen in countries like Hungary, Bulgaria, and Greece.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:57.456351",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 113,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 113,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1835.6902654867256
+    },
+    "related_words": [
+      "divorce",
+      "succession",
+      "separation",
+      "prescribe",
+      "confirming",
+      "enhanced",
+      "jurisdiction",
+      "notes",
+      "enforcement",
+      "strengthen",
+      "freedom",
+      "acceptance",
+      "bound",
+      "malta",
+      "authorise",
+      "slovenia",
+      "latvia",
+      "certificate",
+      "participate",
+      "lithuania",
+      "luxembourg",
+      "recognition",
+      "creation",
+      "hungary",
+      "bulgaria",
+      "authorising",
+      "justice",
+      "romania",
+      "intention",
+      "benefits"
+    ],
+    "prompt_length": 1698,
+    "category": "1231 international law"
+  }
+}

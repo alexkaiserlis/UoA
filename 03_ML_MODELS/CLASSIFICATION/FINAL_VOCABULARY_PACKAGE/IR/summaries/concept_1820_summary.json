@@ -1,0 +1,63 @@
+{
+  "concept_id": "1820",
+  "concept_data": {
+    "title": "social research",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": true,
+    "preferred_term": "social analysis",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"social research,\" redirected to \"social analysis,\" encompasses a systematic approach to understanding socio-economic conditions within the EU framework. It involves surveys and studies that assess unemployment, job markets, and labour dynamics across various provinces, such as Limburg and Hasselt. This analysis is crucial for ascertaining the compatibility of policies and their impact on communities, particularly in arrondissements like Tongeren and Maaseik. By harmonizing data collection methods, the EU aims to ensure that findings are justifiable and reflect the socio-economic realities of member states. Regularly conducted surveys facilitate the expansion of knowledge, enabling governments to make informed decisions regarding administrative closures and socio-economic interventions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:45:23.601742",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3113,
+      "selected_avg_freq": 1239.24
+    },
+    "related_words": [
+      "rgard",
+      "masseik",
+      "arrondissement",
+      "coalmines",
+      "derogatiosn",
+      "hasselt",
+      "maaseik",
+      "tongeren",
+      "adminsitrative",
+      "governement",
+      "arrondissements",
+      "acquainted",
+      "synchronized",
+      "limburg",
+      "repetition",
+      "ascertaining",
+      "declined",
+      "justifiable",
+      "job",
+      "unemployment",
+      "socio",
+      "spring",
+      "province",
+      "closure",
+      "surveys",
+      "expansion",
+      "possession",
+      "sample",
+      "slightly",
+      "versions"
+    ],
+    "prompt_length": 1735,
+    "category": "2821 social framework"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5374",
+  "concept_data": {
+    "title": "suspension of payments",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"suspension of payments\" refers to a legal mechanism often utilized in the context of insolvency proceedings within the EU. This process allows a person or entity to temporarily halt payments to creditors, thereby facilitating restructuring efforts. Under EU laws, such as those harmonising VAT regulations, oversight is crucial to ensure that the rights of recipients are protected during this period. The effectiveness of this suspension is evaluated through judicial investigations, which consider the factual circumstances surrounding the case. In Lithuania, for instance, the extension of payment obligations may be authorised under specific conditions, impacting turnover and tax liabilities. This concept underscores the importance of a coordinated approach to financial distress, allowing for a justified and systematic resolution.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:03:05.405675",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 113,
+      "requested_words": 150,
+      "min_frequency_found": 25,
+      "max_frequency_found": 4108,
+      "selected_words": 113,
+      "selected_min_freq": 25,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1809.4513274336284
+    },
+    "related_words": [
+      "understands",
+      "insolvency",
+      "timber",
+      "oversight",
+      "factual",
+      "accruing",
+      "lithuanian",
+      "vat",
+      "judicial",
+      "secretariat",
+      "recipient",
+      "turnover",
+      "taxes",
+      "investigations",
+      "revealed",
+      "continues",
+      "sixth",
+      "restructuring",
+      "harmonisation",
+      "tax",
+      "adverse",
+      "liable",
+      "derogating",
+      "person",
+      "exist",
+      "lithuania",
+      "changed",
+      "authorising",
+      "consider",
+      "registered"
+    ],
+    "prompt_length": 1688,
+    "category": "4006 business organisation"
+  }
+}

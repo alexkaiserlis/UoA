@@ -1,0 +1,63 @@
+{
+  "concept_id": "154",
+  "concept_data": {
+    "title": "steel structure",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "metal structure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"steel structure,\" redirected to the preferred term \"metal structure,\" pertains to the construction and public works sector within EU legal and regulatory frameworks. This term encompasses various metallic systems and components that are essential for structural integrity and safety in construction. Manufacturers must ensure compliance with established specifications and certification processes, which detail the necessary conditions for conformity. The existence of mandates and surveillance bodies is crucial for attesting to the quality and safety of these products. Continuous intervention and approximation of laws are required to define desirable methods and systems, ensuring that all structural elements correspond to the highest standards of responsibility and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:44.214191",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1870.0183486238532
+    },
+    "related_words": [
+      "ancillaries",
+      "metallic",
+      "onerous",
+      "mandates",
+      "attestation",
+      "attesting",
+      "select",
+      "preference",
+      "factory",
+      "family",
+      "manufacturer",
+      "detail",
+      "corresponds",
+      "construction",
+      "possibilities",
+      "concept",
+      "gives",
+      "specifications",
+      "continuous",
+      "certification",
+      "approximation",
+      "clearly",
+      "surveillance",
+      "existence",
+      "intervention",
+      "body",
+      "responsibility",
+      "condition",
+      "define",
+      "described"
+    ],
+    "prompt_length": 1765,
+    "category": "6831 building and public works"
+  }
+}

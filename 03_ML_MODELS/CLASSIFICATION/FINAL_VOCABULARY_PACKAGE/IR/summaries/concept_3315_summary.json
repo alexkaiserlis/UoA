@@ -1,0 +1,26 @@
+{
+  "concept_id": "3315",
+  "concept_data": {
+    "title": "surname",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, the term \"surname\" refers to the family name or last name of an individual, which plays a crucial role in identifying persons within legal frameworks. It is essential for various legal processes, including the registration of civil status, family law matters, and the enforcement of rights under EU regulations. The surname is often linked to the concept of family ties and heritage, impacting issues such as inheritance and nationality. Accurate representation of surnames is vital for maintaining legal clarity and ensuring compliance with EU directives concerning personal data and identity verification.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:02:28.668496",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1153,
+    "category": "2806 family"
+  }
+}

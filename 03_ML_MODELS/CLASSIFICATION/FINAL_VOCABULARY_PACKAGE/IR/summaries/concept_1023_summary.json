@@ -1,0 +1,26 @@
+{
+  "concept_id": "1023",
+  "concept_data": {
+    "title": "nuclear fission",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nuclear fission is a critical process in the generation of nuclear energy, where the nucleus of an atom splits into smaller parts, releasing a significant amount of energy. Within the EU regulatory framework, nuclear fission is governed by various directives and regulations aimed at ensuring safety, environmental protection, and non-proliferation. The European Atomic Energy Community (EURATOM) plays a pivotal role in establishing standards for nuclear safety and waste management. Additionally, the EU's commitment to sustainable energy transitions necessitates stringent oversight of nuclear fission activities, balancing energy needs with public health and ecological considerations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:16.193306",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1188,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2804",
+  "concept_data": {
+    "title": "trade promotion",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Trade promotion within the EU legal framework refers to initiatives that stimulate market access and enhance competitiveness for EU products, particularly in sectors like winegrowing and agriculture. This concept directs efforts towards ensuring traceability and quality, thereby guaranteeing that products such as grape juice and pasta meet regulatory standards. The EU employs mechanisms for targeting specific markets, including Chile and Australia, to facilitate mutual trade benefits. By selecting eligible growers and supporting initiatives like vineyard replanting and distillation, the EU aims to ease market entry. Outdated practices are reformed to prevent unfair overcompensation, ensuring that trade promotion lasts and remains effective.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:59:58.208263",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 472,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 856,
+      "selected_avg_freq": 436.97333333333336
+    },
+    "related_words": [
+      "directs",
+      "cation",
+      "garantees",
+      "winegrowing",
+      "canberra",
+      "resins",
+      "chilean",
+      "sensing",
+      "parcel",
+      "outdated",
+      "lasts",
+      "potable",
+      "vineyard",
+      "realisation",
+      "brand",
+      "overcompensation",
+      "grubbing",
+      "unaffected",
+      "replanting",
+      "australian",
+      "pasta",
+      "vineyards",
+      "overheads",
+      "entitlements",
+      "selecting",
+      "ineligible",
+      "targeting",
+      "specimen",
+      "officer",
+      "mutually"
+    ],
+    "prompt_length": 1666,
+    "category": "2006 trade policy"
+  }
+}

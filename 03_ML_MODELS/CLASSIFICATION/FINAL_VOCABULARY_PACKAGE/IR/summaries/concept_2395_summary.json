@@ -1,0 +1,63 @@
+{
+  "concept_id": "2395",
+  "concept_data": {
+    "title": "plankton",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"plankton\" within the EU fisheries regulatory framework encompasses various marine organisms, including krill, which are essential for the aquatic food chain and the fishing industry. Accurate assessment of plankton populations is crucial for establishing sustainable fishing practices and ensuring sufficient production to meet future demands. The Council Regulation aims to address the economic interests of the fishing sector while taking into account the ecological situation. Measures may include suspending or temporarily adjusting duties and tariffs on products derived from plankton to support processing industries. This regulatory approach reflects the EU's commitment to balancing economic development with environmental sustainability in the context of the Common Fisheries Policy.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:49.441573",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 49,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 49,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1828.2448979591836
+    },
+    "related_words": [
+      "krill",
+      "accurately",
+      "user",
+      "near",
+      "subheading",
+      "partially",
+      "suspending",
+      "suspend",
+      "autonomous",
+      "assessing",
+      "industries",
+      "suspension",
+      "temporarily",
+      "duty",
+      "duties",
+      "falling",
+      "tariff",
+      "difficulties",
+      "involved",
+      "customs",
+      "meet",
+      "product",
+      "processing",
+      "future",
+      "sufficient",
+      "needs",
+      "interest",
+      "measure",
+      "intended",
+      "sector"
+    ],
+    "prompt_length": 1643,
+    "category": "5641 fisheries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2888",
+  "concept_data": {
+    "title": "table grape",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "grape",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"table grape,\" categorized under plant products (6006), redirects to the preferred term \"grape.\" In EU legal and regulatory frameworks, grapes, particularly those classified as table grapes, are subject to specific requirements regarding quality and classification. These include standards for varieties such as chasselas and muscatels, which are often utilized in campaigns to promote consumption. The stocktaking of grape varieties, including sultana and moissac, is essential for ensuring compliance with EU regulations. Additionally, organizations may optionally implement measures to enhance the appeal of grapes, attracting consumers through marketing strategies that highlight their proficient qualities, such as flavor and texture.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:28.601624",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2027,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 56,
+      "selected_avg_freq": 23.7
+    },
+    "related_words": [
+      "fromremaining",
+      "provies",
+      "stackable",
+      "panse",
+      "prăšcoce",
+      "secific",
+      "prefrential",
+      "opend",
+      "offfer",
+      "previuosly",
+      "fuit",
+      "whils",
+      "uncer",
+      "blanche",
+      "layw",
+      "winery",
+      "qualifiable",
+      "emperor",
+      "moissac",
+      "requirments",
+      "organzation",
+      "optionally",
+      "repuced",
+      "ascriptions",
+      "chasselas",
+      "compaigns",
+      "consumpion",
+      "comsumption",
+      "crianza",
+      "reserva"
+    ],
+    "prompt_length": 1694,
+    "category": "6006 plant product"
+  }
+}

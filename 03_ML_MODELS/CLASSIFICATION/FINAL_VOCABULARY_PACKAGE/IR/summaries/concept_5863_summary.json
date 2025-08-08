@@ -1,0 +1,26 @@
+{
+  "concept_id": "5863",
+  "concept_data": {
+    "title": "local network",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "local area network",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"local network,\" which redirects to the preferred term \"local area network,\" is integral in the context of EU legal and regulatory frameworks concerning information technology and data processing. A local area network (LAN) facilitates the interconnection of computers and devices within a limited geographic area, enhancing data sharing and communication efficiency. In EU regulations, LANs are pivotal for ensuring compliance with data protection standards, such as the General Data Protection Regulation (GDPR), as they often handle sensitive personal data. Understanding LANs is essential for developing robust cybersecurity measures and ensuring the integrity of information systems within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:32:47.777610",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1233,
+    "category": "3236 information technology and data processing"
+  }
+}

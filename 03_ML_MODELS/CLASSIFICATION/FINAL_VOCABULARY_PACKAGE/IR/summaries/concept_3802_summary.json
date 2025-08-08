@@ -1,0 +1,63 @@
+{
+  "concept_id": "3802",
+  "concept_data": {
+    "title": "sheet metal",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "sheet",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sheet metal,\" redirected to the preferred term \"sheet,\" encompasses various applications in metallurgy and technology within EU legal and regulatory frameworks. This material, often produced through calcination and sintering processes, is integral to steelworks and the manufacturing of roofs and other structures. Regulatory documents may classify sheet metal as unwrought merchandise, focusing on its identifiable characteristics and compliance with safety standards. The EU's approach to sheet metal also involves oversight of operations related to its trade, including measures for resales and the management of powdery flakes. Additionally, the interpretative guidelines provided by entities like Eurofer and the involvement of departments such as siscomex ensure that the market remains tightly regulated, negating improbable risks associated with the material's use.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:42.324880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 1063,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 189,
+      "selected_avg_freq": 78.39333333333333
+    },
+    "related_words": [
+      "sulphide",
+      "calcination",
+      "metallurgy",
+      "sinters",
+      "indentifiable",
+      "medida",
+      "provisória",
+      "operações",
+      "oxygenblown",
+      "reassembly",
+      "powdery",
+      "siscomex",
+      "ooo",
+      "plastisol",
+      "improbable",
+      "negate",
+      "stal",
+      "stinol",
+      "roofs",
+      "estabishing",
+      "febeltex",
+      "novolipetsk",
+      "overs",
+      "decex",
+      "comunicado",
+      "sieve",
+      "spill",
+      "eu15",
+      "sintering",
+      "reversing"
+    ],
+    "prompt_length": 1723,
+    "category": "6411 technology and technical regulations"
+  }
+}

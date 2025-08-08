@@ -1,0 +1,63 @@
+{
+  "concept_id": "4374",
+  "concept_data": {
+    "title": "tobacco addiction",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "smoking",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tobacco addiction,\" redirected to \"smoking,\" encompasses various legal and regulatory frameworks within the EU aimed at addressing the health impairments caused by nicotine consumption. Smoking is linked to serious health issues, including lung cancers and throat cancers, necessitating the implementation of strict regulations on cigarette packets, which must display visual warnings and illustrations of the risks. The EU promotes therapeutic alternatives, such as nicotine patches, gum, and tablets, to aid smokers in cessation efforts. Additionally, regulations on the auctioning of tobacco products and the use of novelty wrappers aim to mitigate the appeal of smoking, particularly among younger populations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:35:33.635176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 563,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 510,
+      "selected_avg_freq": 221.69333333333333
+    },
+    "related_words": [
+      "cancers",
+      "simulate",
+      "patches",
+      "lung",
+      "impairments",
+      "smokers",
+      "wrappers",
+      "medicaments",
+      "nicotine",
+      "packets",
+      "illustrations",
+      "auctioning",
+      "library",
+      "resin",
+      "throat",
+      "tar",
+      "smokeless",
+      "novelty",
+      "redistributing",
+      "packet",
+      "worn",
+      "chewing",
+      "cigarette",
+      "ion",
+      "warnings",
+      "prophylactic",
+      "manifest",
+      "tablets",
+      "gum",
+      "smoke"
+    ],
+    "prompt_length": 1686,
+    "category": "2826 social affairs"
+  }
+}

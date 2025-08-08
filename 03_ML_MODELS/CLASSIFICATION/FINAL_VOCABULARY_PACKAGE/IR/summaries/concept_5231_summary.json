@@ -1,0 +1,63 @@
+{
+  "concept_id": "5231",
+  "concept_data": {
+    "title": "perennial vegetable",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"perennial vegetable\" refers to plant products that can be cultivated over multiple growing seasons, such as asparagus (asperge) and artichoke. Within EU legal and regulatory frameworks, these vegetables are categorized under plant products (6006) and are subject to specific quality standards, including those for varieties like qualitätsspargel and triguero. The cultivation regions (anbaugebiet) for these vegetables, such as Marchfeldspargel and Bornheimer, are often defined to ensure compliance with EU agricultural regulations. Additionally, perennial vegetables may be included in supplementary regulations concerning their marketing, distribution, and community standards, impacting local communities and agricultural practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:22.453322",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 887,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 125,
+      "selected_avg_freq": 38.79333333333334
+    },
+    "related_words": [
+      "poivrade",
+      "bouquet",
+      "artichoke",
+      "divdided",
+      "amendedd",
+      "franken",
+      "walbecker",
+      "abensberger",
+      "qualitätsspargel",
+      "brindisino",
+      "dongshan",
+      "communitites",
+      "bornheimer",
+      "bornheim",
+      "bunches",
+      "cimadolmo",
+      "espárrago",
+      "badoere",
+      "suppelementary",
+      "triguero",
+      "fränkischer",
+      "schrobenhausener",
+      "schrobenhausen",
+      "asperge",
+      "sables",
+      "landes",
+      "pâtes",
+      "oliva",
+      "ascolana",
+      "paestum"
+    ],
+    "prompt_length": 1696,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2470",
+  "concept_data": {
+    "title": "environmental policy",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU's environmental policy encompasses a framework aimed at protecting and enhancing biotopes while addressing phenomena such as desertification and pollution. This policy is guided by principles established in key treaties, including the Kyoto Protocol, and is implemented through various directives that penalise polluters and promote sustainable practices. The EU actively engages with NGOs and academia to advise on the desirability and practicability of measures that facilitate reusing resources and managing spillage. By convening stakeholders, the policy directs efforts to interact with transfrontier environmental challenges, ensuring that threatened habitats are preserved and that emergencies are effectively managed, thereby fostering a sensible approach to environmental governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:35.108974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1018,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 241,
+      "selected_avg_freq": 115.05333333333333
+    },
+    "related_words": [
+      "treatened",
+      "corine",
+      "livanos",
+      "schimmelbusch",
+      "extensify",
+      "statisticians",
+      "spilled",
+      "sensible",
+      "biotopes",
+      "deseasonalisation",
+      "reusing",
+      "desertification",
+      "locating",
+      "bat",
+      "noxious",
+      "interact",
+      "conveniently",
+      "penalising",
+      "inflationary",
+      "ordinating",
+      "academia",
+      "impairing",
+      "locust",
+      "ospar",
+      "göteborg",
+      "directing",
+      "spillage",
+      "ngos",
+      "bonn",
+      "assemble"
+    ],
+    "prompt_length": 1729,
+    "category": "5206 environmental policy"
+  }
+}

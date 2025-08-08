@@ -1,0 +1,63 @@
+{
+  "concept_id": "105",
+  "concept_data": {
+    "title": "parental leave",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Parental leave is a critical aspect of social protection within the EU framework, aimed at reconciling professional responsibilities with family life. It seeks to support both men and women, particularly in underdeveloped and outermost regions, by providing opportunities for parents to care for their children without destabilising their employment. The European Union, through directives and intergovernmental agreements, progressively incorporates parental leave policies, noting the importance of achieving gender equality in the labour market. This concept is particularly relevant in discussions at conferences involving stakeholders like UNICE, ETUC, and BusinessEurope, as they consider the impact of parental leave on societal topography and climate.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:27:14.354759",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 173,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 3248,
+      "selected_avg_freq": 1396.1333333333334
+    },
+    "related_words": [
+      "destabilise",
+      "ueapme",
+      "businesseurope",
+      "underdeveloped",
+      "ceep",
+      "parents",
+      "unice",
+      "etuc",
+      "topography",
+      "parental",
+      "insularity",
+      "mayotte",
+      "reconciliation",
+      "remoteness",
+      "intergovernmental",
+      "disadvantaged",
+      "men",
+      "seeks",
+      "women",
+      "construed",
+      "outermost",
+      "amsterdam",
+      "leave",
+      "climate",
+      "incorporate",
+      "enters",
+      "affects",
+      "family",
+      "tfeu",
+      "signature"
+    ],
+    "prompt_length": 1696,
+    "category": "2836 social protection"
+  }
+}

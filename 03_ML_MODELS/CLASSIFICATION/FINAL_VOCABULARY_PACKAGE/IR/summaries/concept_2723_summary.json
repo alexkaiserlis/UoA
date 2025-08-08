@@ -1,0 +1,63 @@
+{
+  "concept_id": "2723",
+  "concept_data": {
+    "title": "plant product",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "crop production",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, the concept of \"plant product,\" redirected to \"crop production,\" encompasses a wide array of agricultural activities involving the cultivation of various species, including rare plants like calendula and lavender. This term is crucial for evaluating measures related to the production of crops such as mentha piperita and valeriana, which have significant economic and ecological impacts. The regulation of substances like cypermetrin and fenbutatinoxyde is vital for ensuring the safety of these products. Consequently, the assessment of pests, including amauromyza and anarsia, is essential for maintaining crop integrity. The inclusion of diverse crops, from crucifers to dyewood, highlights the complexity of agricultural biodiversity within EU policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:05.455777",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 2692,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.233333333333333
+    },
+    "related_words": [
+      "kaweintermono",
+      "bergond",
+      "calendula",
+      "pimpinella",
+      "anisum",
+      "frech",
+      "tiran",
+      "aled",
+      "pawera",
+      "bosquet",
+      "foeniculum",
+      "dulce",
+      "thellung",
+      "amauromyza",
+      "viscous",
+      "pungent",
+      "eoa",
+      "dyewood",
+      "indigo",
+      "cypermetrin",
+      "fenbutatinoxyde",
+      "bofur",
+      "veko",
+      "monored",
+      "barsica",
+      "scions",
+      "mentha",
+      "piperita",
+      "waldbronn",
+      "kipp"
+    ],
+    "prompt_length": 1713,
+    "category": "5631 agricultural activity"
+  }
+}

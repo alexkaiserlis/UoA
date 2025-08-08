@@ -1,0 +1,63 @@
+{
+  "concept_id": "2360",
+  "concept_data": {
+    "title": "smallholding",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"smallholding\" refers to a farming system characterized by the cultivation of arable land, often on mountainous or hilly terrains, typically less than 5 hectares. These farms, which may grow specialized crops such as hemp and flax, are essential for sustaining rural occupations and alleviating economic difficulties faced by farmers. The EU recognizes the need to modernize and rationalize agricultural practices, instituting registers to monitor smallholdings. This includes utilizing computerized systems for accurate surveys and compensating farmers for undesirable conditions. Smallholdings play a crucial role in promoting biodiversity and fostering sustainable practices within the agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:44:51.746975",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 442,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 950,
+      "selected_avg_freq": 489.94
+    },
+    "related_words": [
+      "opengrown",
+      "fictional",
+      "stuctures",
+      "shives",
+      "mountainous",
+      "novelty",
+      "stabilizers",
+      "usable",
+      "hill",
+      "handicaps",
+      "sown",
+      "circumvented",
+      "prerequisite",
+      "modernize",
+      "hemp",
+      "rationalize",
+      "grow",
+      "occupation",
+      "utilized",
+      "computerized",
+      "flax",
+      "instituting",
+      "compensated",
+      "random",
+      "hectares",
+      "harvesting",
+      "cotton",
+      "specialized",
+      "undesirable",
+      "pharmaceutical"
+    ],
+    "prompt_length": 1687,
+    "category": "5616 farming systems"
+  }
+}

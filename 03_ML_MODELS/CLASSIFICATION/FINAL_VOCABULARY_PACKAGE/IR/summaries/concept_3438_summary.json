@@ -1,0 +1,63 @@
+{
+  "concept_id": "3438",
+  "concept_data": {
+    "title": "road network",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"road network\" is a crucial component of land transport within the EU, serving as the backbone for multimodal connectivity. It facilitates the movement of various transport modes, including buses, trains, and autocars, thereby enhancing intermodal travel. The regulatory framework governing this network addresses issues such as fare structures, ticketing, and the construction of bypasses to alleviate congestion in urban areas like Trier and Frankfurt. The EU's commitment to quality and comfort in transport services is evident in its support for efficient networks that are qualitatively and quantitatively assessed. This ensures that landlocked regions, such as Wexford, are not disadvantaged. The integration of these networks is essential for seamless journeys, where the comfort of passengers is prioritized, and the complexities of travel are managed straightforwardly.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:27:50.268880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 476,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 505,
+      "selected_avg_freq": 175.98
+    },
+    "related_words": [
+      "wexford",
+      "bypass",
+      "luxavia",
+      "canach",
+      "luxembourgeoise",
+      "exploitants",
+      "autobus",
+      "regierungspraesident",
+      "trier",
+      "refreshments",
+      "militating",
+      "emile",
+      "făšdăšration",
+      "autocars",
+      "generality",
+      "backbone",
+      "seemingly",
+      "eifel",
+      "multimodal",
+      "touring",
+      "koblenz",
+      "landlocked",
+      "ticket",
+      "straightforward",
+      "weber",
+      "qualitatively",
+      "undisputed",
+      "intermodal",
+      "subordinated",
+      "fare"
+    ],
+    "prompt_length": 1706,
+    "category": "4816 land transport"
+  }
+}

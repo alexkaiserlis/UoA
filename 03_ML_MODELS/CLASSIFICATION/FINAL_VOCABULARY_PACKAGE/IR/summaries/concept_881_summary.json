@@ -1,0 +1,63 @@
+{
+  "concept_id": "881",
+  "concept_data": {
+    "title": "emergency aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Emergency aid within the EU legal framework refers to the provision of immediate assistance in response to crises, such as natural disasters or humanitarian emergencies. This aid is essential for defraying the costs incurred by affected regions, including areas like Messinia or Kalama, where earthquakes or cyclones may occur. The appropriations for such aid are often discussed in gatherings of delegates in Luxembourgish parlia, where the economic implications and the need for regularization of funds are assessed. Emergency aid aims to support returnees and victims, ensuring their needs are met swiftly. The imprecision in defining the scope of aid can lead to challenges in implementation, necessitating clear guidelines for programmable responses.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:43:37.794761",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1593,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 38.833333333333336
+    },
+    "related_words": [
+      "loco",
+      "kalamata",
+      "messinia",
+      "petersbourg",
+      "espressing",
+      "parlia",
+      "appopriations",
+      "whereupon",
+      "encounted",
+      "ecomonic",
+      "prupose",
+      "gatherings",
+      "hostage",
+      "hijacking",
+      "trainings",
+      "nomos",
+      "eruption",
+      "indistinguishable",
+      "uncapped",
+      "strathclyde",
+      "greenock",
+      "glasgow",
+      "ment",
+      "ecall",
+      "psap",
+      "ecalls",
+      "psaps",
+      "opf",
+      "imprecision",
+      "monies"
+    ],
+    "prompt_length": 1706,
+    "category": "0811 cooperation policy"
+  }
+}

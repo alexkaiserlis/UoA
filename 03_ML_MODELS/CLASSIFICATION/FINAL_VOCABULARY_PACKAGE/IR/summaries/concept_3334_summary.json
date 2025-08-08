@@ -1,0 +1,63 @@
+{
+  "concept_id": "3334",
+  "concept_data": {
+    "title": "gaming",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"gaming\" within EU legal and regulatory frameworks encompasses various recreational activities, including those involving toys and crafts that may pose inherent risks, such as drowning or entrapment. Stakeholders engage in discussions to ensure safety standards conform to mandates that address potential accidents, including capsizing and collisions. The EU aims to standardise regulations governing these activities, invoking principles of buoyancy and safety to mitigate risks associated with drifting currents and sudden shocks. By drafting comprehensive guidelines, the EU seeks to publish regulations that exclude unsafe practices while promoting leisure activities that are safe and enjoyable for all participants.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:28:25.458421",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 2364,
+      "selected_avg_freq": 1018.5
+    },
+    "related_words": [
+      "esos",
+      "capsizing",
+      "entrapment",
+      "buoyancy",
+      "entanglement",
+      "drifting",
+      "currents",
+      "tides",
+      "drowning",
+      "leisure",
+      "winds",
+      "collision",
+      "shock",
+      "floating",
+      "recreational",
+      "toys",
+      "height",
+      "transposing",
+      "losing",
+      "mandates",
+      "sudden",
+      "conforms",
+      "cen",
+      "craft",
+      "away",
+      "presumed",
+      "drafting",
+      "accidents",
+      "inherent",
+      "cold"
+    ],
+    "prompt_length": 1629,
+    "category": "2826 social affairs"
+  }
+}

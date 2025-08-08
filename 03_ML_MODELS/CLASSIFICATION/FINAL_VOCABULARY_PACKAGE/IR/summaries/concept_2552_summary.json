@@ -1,0 +1,63 @@
+{
+  "concept_id": "2552",
+  "concept_data": {
+    "title": "persons in work",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"persons in work\" within the EU legal framework encompasses individuals actively engaged in employment, reflecting a comprehensive approach to labour market dynamics. This concept is integral to various modules of EU policies aimed at promoting sustainable employment and reducing unemployment. Guidelines and recommendations often focus on the transition of ageing workers, ensuring adequate pensions and financial stability. The EU prioritizes inclusion and participation, adopting strategies that monitor and report on employment variables. By coordinating structural processes, the EU aims to support the integration of persons in work, fostering solidarity and enhancing life quality through active labour market policies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:34:55.266408",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 119,
+      "requested_words": 150,
+      "min_frequency_found": 89,
+      "max_frequency_found": 4108,
+      "selected_words": 119,
+      "selected_min_freq": 89,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1732.327731092437
+    },
+    "related_words": [
+      "module",
+      "modules",
+      "ageing",
+      "guideline",
+      "retirement",
+      "variables",
+      "pensions",
+      "financially",
+      "solidarity",
+      "unemployment",
+      "supports",
+      "prolongation",
+      "hoc",
+      "sample",
+      "survey",
+      "processes",
+      "labour",
+      "advice",
+      "affairs",
+      "priorities",
+      "promotion",
+      "life",
+      "specifications",
+      "fields",
+      "comprehensive",
+      "identify",
+      "reporting",
+      "active",
+      "sustainable",
+      "transition"
+    ],
+    "prompt_length": 1712,
+    "category": "4411 labour market"
+  }
+}

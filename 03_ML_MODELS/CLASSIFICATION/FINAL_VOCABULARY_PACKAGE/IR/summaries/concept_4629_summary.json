@@ -1,0 +1,63 @@
+{
+  "concept_id": "4629",
+  "concept_data": {
+    "title": "energy use",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"energy use\" within EU legal and regulatory frameworks encompasses the rationalization and transformation of energy consumption across various installations, including boilers and furnaces. It serves as a vital bridge in addressing the shortfall of conventional fuels and enables the substitution of cleaner energy sources, thereby reducing emissions. The EU's energy policy focuses on modernizing energy stations equipped with advanced technologies to enhance efficiency and minimize pollutants. Legal rulings often address the closure of outdated facilities and the need for accurate reporting on energy deliveries. This regulatory landscape aims to figure out solutions for a wider sharing of energy resources while retaining reserves and addressing the gap in energy needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:58.623459",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 314,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1201,
+      "selected_avg_freq": 582.5
+    },
+    "related_words": [
+      "possibilites",
+      "firing",
+      "saved",
+      "blast",
+      "boilers",
+      "furnaces",
+      "coking",
+      "dollar",
+      "coke",
+      "revoking",
+      "injection",
+      "solving",
+      "bridge",
+      "shortfall",
+      "brings",
+      "unity",
+      "pollutants",
+      "transformation",
+      "rationalization",
+      "crude",
+      "indents",
+      "petroleum",
+      "drop",
+      "substitution",
+      "fuels",
+      "ruling",
+      "modern",
+      "stations",
+      "equipped",
+      "serves"
+    ],
+    "prompt_length": 1658,
+    "category": "6606 energy policy"
+  }
+}

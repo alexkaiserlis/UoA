@@ -1,0 +1,63 @@
+{
+  "concept_id": "945",
+  "concept_data": {
+    "title": "propellant",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "explosive",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"propellant\" is redirected to \"explosive,\" encompassing substances that can cause significant hazards, including fuses and primers used in various applications. The regulation of explosives is critical for minimizing casualties from incidents involving landmines and unexploded ordnance. The EU imposes strict imperatives on the storage and handling of stockpiles to inhibit misuse by terrorists and prevent tragedies. Regulatory frameworks also address the operability of pyrotechnic devices and the concealments of improvised explosives. Enhanced screening measures and searches are essential for ensuring public safety, particularly in atmospheres where risks are elevated.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:08:51.745689",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 754,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 214,
+      "selected_avg_freq": 86.46
+    },
+    "related_words": [
+      "fuses",
+      "primers",
+      "hhmd",
+      "headgear",
+      "prosthesis",
+      "intrusive",
+      "screened",
+      "demonstrators",
+      "tragedy",
+      "landmine",
+      "lags",
+      "stebs",
+      "divesting",
+      "concealments",
+      "improvised",
+      "minimalising",
+      "etd",
+      "firedamp",
+      "tamper",
+      "eds",
+      "casts",
+      "unexploded",
+      "terrorists",
+      "conakry",
+      "imperatives",
+      "plaster",
+      "discrete",
+      "searches",
+      "pyrotechnic",
+      "landmines"
+    ],
+    "prompt_length": 1697,
+    "category": "6811 chemistry"
+  }
+}

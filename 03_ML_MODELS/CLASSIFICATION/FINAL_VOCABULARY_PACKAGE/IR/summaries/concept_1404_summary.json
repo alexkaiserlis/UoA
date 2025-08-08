@@ -1,0 +1,63 @@
+{
+  "concept_id": "1404",
+  "concept_data": {
+    "title": "hotel industry",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"hotel industry\" encompasses a diverse range of accommodation services, including furnished hotels, unfurnished rooming houses, and camps, catering to an influx of tourists. In the context of EU regulations, this sector is subject to various legal frameworks that ensure the appropriateness of services, such as eco-labels for ecological practices and qualifications for hospitality professionals. Hotels and restaurants must adhere to standards regarding hygiene, including the use of detergents and laundry practices, while also providing essential amenities like televisions and beverage services. The occupation of hospitality is vital for national economies, necessitating caution in letting practices and adherence to regulations governing residence and nationality.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:13.443915",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 379,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 884,
+      "selected_avg_freq": 394.08
+    },
+    "related_words": [
+      "unfurnished",
+      "cafes",
+      "taverns",
+      "rooming",
+      "itinerant",
+      "camps",
+      "habitually",
+      "hotels",
+      "influx",
+      "letting",
+      "whence",
+      "laundry",
+      "repute",
+      "televisions",
+      "houses",
+      "isic",
+      "ecolabel",
+      "caution",
+      "coverings",
+      "restaurants",
+      "happen",
+      "detergents",
+      "accommodation",
+      "eating",
+      "ordination",
+      "beverage",
+      "possesses",
+      "tourist",
+      "profession",
+      "footwear"
+    ],
+    "prompt_length": 1674,
+    "category": "2826 social affairs"
+  }
+}

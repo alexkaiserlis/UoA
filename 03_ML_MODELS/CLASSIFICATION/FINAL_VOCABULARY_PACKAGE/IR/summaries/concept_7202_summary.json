@@ -1,0 +1,63 @@
+{
+  "concept_id": "7202",
+  "concept_data": {
+    "title": "Organisation for the Prohibition of Chemical Weapons",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Organisation for the Prohibition of Chemical Weapons (OPCW) plays a pivotal role in disarmament, overseeing the implementation of the Chemical Weapons Convention (CWC). The EU endorses OPCW's efforts, particularly in addressing the daunting challenges posed by the proliferation of toxic weapons, as seen in the Syrian conflict. The OPCW's director has reiterated the importance of accountability, condemning violations and stressing the need for governmental readiness to support disarmament initiatives. In light of recent events in Damascus, the EU has welcomed OPCW's communiqué, affirming its commitment to freezing stockpiling and ensuring civilians are protected from hazardous materials. The UNSC and the EU continue to appeal for trust and cooperation among donors to uphold these principles.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:49:36.671967",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 270,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1403,
+      "selected_avg_freq": 573.66
+    },
+    "related_words": [
+      "outrage",
+      "rif",
+      "damascus",
+      "cwc",
+      "daunting",
+      "communiqué",
+      "civilians",
+      "overseeing",
+      "condemning",
+      "dec",
+      "affirming",
+      "emphasising",
+      "opcw",
+      "perhaps",
+      "instrumental",
+      "endorsing",
+      "disarmament",
+      "stockpiling",
+      "convene",
+      "syrian",
+      "posing",
+      "reminded",
+      "history",
+      "accountable",
+      "unscr",
+      "stressing",
+      "unsc",
+      "killing",
+      "weapons",
+      "proliferation"
+    ],
+    "prompt_length": 1704,
+    "category": "7621 world organisations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5909",
+  "concept_data": {
+    "title": "tourism statistics",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tourism statistics, as a concept within EU legal and regulatory frameworks, plays a crucial role in systematically compiling data on tourist activities, accommodation, and seasonal trends. This information is essential for generating strategies that maximize socioeconomic benefits and highlight cultural influences on tourism. The onus of collecting and disseminating these statistics often falls on member states, respecting confidentiality and ensuring comparability across regions. Methodological approaches, such as the ISCED framework, facilitate the elaboration of educational synergies within the tourism sector. By addressing fragmented data and providing a comprehensive profile of tourism, these statistics support resolutions aimed at enhancing the sector's contribution to economies, thereby benefiting all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:12:59.778428",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 275,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1493,
+      "selected_avg_freq": 735.0466666666666
+    },
+    "related_words": [
+      "impinging",
+      "isced",
+      "accomodation",
+      "onus",
+      "maximize",
+      "unesco",
+      "expended",
+      "pragmatic",
+      "highlight",
+      "channelling",
+      "breakdowns",
+      "influences",
+      "fragmented",
+      "tourist",
+      "disseminated",
+      "methodological",
+      "synergies",
+      "holidays",
+      "stress",
+      "tourism",
+      "variables",
+      "compiled",
+      "compilation",
+      "elaboration",
+      "profile",
+      "generate",
+      "strategies",
+      "socioeconomic",
+      "gain",
+      "educational"
+    ],
+    "prompt_length": 1727,
+    "category": "2826 social affairs"
+  }
+}

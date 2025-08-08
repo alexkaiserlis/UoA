@@ -1,0 +1,63 @@
+{
+  "concept_id": "2176",
+  "concept_data": {
+    "title": "radio transmitter-receiver",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "radio equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"radio transmitter-receiver,\" redirected to \"radio equipment,\" encompasses devices that emit and receive electromagnetic waves across various frequencies, including VHF and distress signals. In EU regulatory frameworks, radio equipment is crucial for telegraphy and telephony, ensuring safer communications. Devices like EPIRBs and DSC radios, equipped with buttons for distress signaling, play a vital role in maritime safety under SOLAS regulations. The GMDSS system utilizes these transmitters to enhance emergency response capabilities. Compliance with frequency propagation standards and proper arrangements for logbook recording are essential for effective operation. The integration of advanced components, such as diodes and quartz oscillators, further optimizes performance.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:09:41.961685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 560,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 534,
+      "selected_avg_freq": 202.45333333333335
+    },
+    "related_words": [
+      "button",
+      "reproducer",
+      "vhf",
+      "epirb",
+      "buttons",
+      "ailtech",
+      "telegraphy",
+      "wavelengths",
+      "beacon",
+      "urges",
+      "dsc",
+      "tuning",
+      "pushing",
+      "gmdss",
+      "tarrif",
+      "clocks",
+      "reproducers",
+      "diode",
+      "push",
+      "clock",
+      "casing",
+      "radios",
+      "alarm",
+      "emitting",
+      "quartz",
+      "meter",
+      "distress",
+      "arangements",
+      "switched",
+      "redistributing"
+    ],
+    "prompt_length": 1679,
+    "category": "3226 communications"
+  }
+}

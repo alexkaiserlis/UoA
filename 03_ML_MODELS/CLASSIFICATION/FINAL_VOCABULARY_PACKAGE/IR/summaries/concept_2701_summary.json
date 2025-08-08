@@ -1,0 +1,63 @@
+{
+  "concept_id": "2701",
+  "concept_data": {
+    "title": "withdrawal of judicial proceedings",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "judicial proceedings",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"withdrawal of judicial proceedings\" pertains to the cessation of legal actions within a tribunal, impacting the integrity of judicial processes. This term is a redirect to \"judicial proceedings,\" which encompasses all legal actions heard by courts. Withdrawal can occur for various reasons, including the ascertaining of irrecoverable sums or the negotiation of settlements between spouses in matrimonial disputes. Such withdrawals may also be influenced by irregularities in the proceedings or the need for authentication of evidence. In the context of EU law, ensuring the systematic enforcement of judgments and addressing negligence claims are vital for maintaining the value of judicial rulings. This process reinforces the integrity of the legal framework, enabling parties to accede to resolutions without further litigation.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:40.325291",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 371,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1123,
+      "selected_avg_freq": 534.0266666666666
+    },
+    "related_words": [
+      "curia",
+      "password",
+      "codifying",
+      "impinge",
+      "liquidators",
+      "irrecoverable",
+      "spouses",
+      "matrimonial",
+      "authentication",
+      "winding",
+      "parental",
+      "tribunal",
+      "wrongly",
+      "ascertaining",
+      "recovering",
+      "insolvency",
+      "iraq",
+      "sovereign",
+      "negligence",
+      "hague",
+      "plenary",
+      "ratify",
+      "irregularity",
+      "irregular",
+      "wherever",
+      "hear",
+      "enforced",
+      "valuable",
+      "exchanged",
+      "systematically"
+    ],
+    "prompt_length": 1753,
+    "category": "1221 justice"
+  }
+}

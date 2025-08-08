@@ -1,0 +1,63 @@
+{
+  "concept_id": "2994",
+  "concept_data": {
+    "title": "wood production",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wood production\" within the EU regulatory framework embodies the interrelationships between forestry sectors and the economy. It is organized under the auspices of various departments that work towards the attainment of sustainable forestry goals. The continuous improvement of wood production processes is essential for achieving industrial objectives while addressing potential difficulties in resource management. Qualified expertise in forestry is crucial for processing wood in a way that contributes to living ecosystems. Advisory contacts facilitate communication among stakeholders, ensuring a harmonious presence of industries that help resolve challenges and enhance the overall knowledge base regarding wood production in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:33:39.935216",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 85,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 85,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1760.6823529411765
+    },
+    "related_words": [
+      "interrelationships",
+      "embodying",
+      "organizing",
+      "forest",
+      "resolved",
+      "goals",
+      "contacts",
+      "wood",
+      "auspices",
+      "constant",
+      "harmonious",
+      "expertise",
+      "separately",
+      "forestry",
+      "departments",
+      "attainment",
+      "qualified",
+      "represented",
+      "living",
+      "continuous",
+      "industries",
+      "presence",
+      "knowledge",
+      "economy",
+      "bring",
+      "sectors",
+      "improvement",
+      "industrial",
+      "examined",
+      "help"
+    ],
+    "prompt_length": 1685,
+    "category": "5636 forestry"
+  }
+}

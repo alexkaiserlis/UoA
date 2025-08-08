@@ -1,0 +1,63 @@
+{
+  "concept_id": "2487",
+  "concept_data": {
+    "title": "export system",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "export policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"export system,\" redirected to \"export policy,\" encompasses the legal framework governing the exportation of goods within the EU. This policy enunciates the conditions under which products, including maltodextrine and whisky, can be exported, aiming to mitigate risks associated with irresponsible trading practices. It employs a regularised approach to tackle issues like denials and revocation of export licenses. The policy also addresses the discharge of obligations related to sensitive items, such as ammunition and missile technology, underlining the need for compliance with international agreements like Wassenaar. By committing to these regulations, the EU endeavors to ensure that exports do not inflict harm or undermine global security.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:58:56.032962",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1201,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 212,
+      "selected_avg_freq": 102.29333333333334
+    },
+    "related_words": [
+      "implemeting",
+      "cccn",
+      "maltodextrine",
+      "provisonal",
+      "denials",
+      "enunciates",
+      "inflict",
+      "clipped",
+      "underlie",
+      "unroasted",
+      "discharging",
+      "underlining",
+      "whiskey",
+      "obstructed",
+      "wassenaar",
+      "missile",
+      "lightly",
+      "salw",
+      "appreciate",
+      "regularised",
+      "irresponsible",
+      "suspensive",
+      "whisky",
+      "conveyed",
+      "prefinancing",
+      "scotch",
+      "committing",
+      "redefining",
+      "forfeit",
+      "abstain"
+    ],
+    "prompt_length": 1732,
+    "category": "2006 trade policy"
+  }
+}

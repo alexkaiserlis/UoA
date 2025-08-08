@@ -1,0 +1,63 @@
+{
+  "concept_id": "1202",
+  "concept_data": {
+    "title": "ethnic minority",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": true,
+    "preferred_term": "ethnic group",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"ethnic minority,\" redirected to the preferred term \"ethnic group,\" is pivotal in EU legal and regulatory frameworks addressing social integration and equality. Ethnic groups, often comprising individuals of diverse origins, face unique challenges related to discrimination based on ethnicity, religion, and race. EU policies aim to combat such discrimination by conferring equal opportunities and promoting participation in society. This includes addressing the needs of disadvantaged groups, such as those with disabilities or varying sexual orientations. Stakeholders, including experts and local businesses, are encouraged to develop coherent strategies that foster balanced integration and enhance communication across different societal segments, ensuring that all individuals are entitled to full participation in economic and social activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:53:03.084410",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1505.6296296296296
+    },
+    "related_words": [
+      "ethnic",
+      "religion",
+      "minorities",
+      "racial",
+      "disability",
+      "sexual",
+      "belief",
+      "sex",
+      "highlights",
+      "gender",
+      "orientation",
+      "specialists",
+      "disadvantaged",
+      "confers",
+      "wishes",
+      "comprise",
+      "age",
+      "coherent",
+      "expertise",
+      "stakeholders",
+      "society",
+      "balanced",
+      "combat",
+      "discrimination",
+      "labour",
+      "opportunities",
+      "integration",
+      "develop",
+      "experts",
+      "entitled"
+    ],
+    "prompt_length": 1711,
+    "category": "2821 social framework"
+  }
+}

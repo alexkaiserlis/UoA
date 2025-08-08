@@ -1,0 +1,63 @@
+{
+  "concept_id": "6342",
+  "concept_data": {
+    "title": "European tax cooperation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "European tax cooperation refers to the collaborative efforts among EU member states to create a seamless and unified tax framework that minimizes fragmentation and avoids tax evasion. This cooperation seeks to disincentivise risky tax arbitrage and ensures that untaxed income is reported and taxed appropriately across jurisdictions. By fostering a consensus on tax policies, including withholding taxes and financial transaction taxes (FTT), the EU aims to protect budgets from the effects of dual taxation and unreported income. The ongoing debate within the G20 and other international forums further reinforces the need for a diversified approach that attributes responsibility to resident taxpayers while addressing persisting challenges in tax compliance. This collective effort is crucial in mitigating the overlap of national tax laws and ensuring that tax systems coexist effectively, ultimately enhancing fiscal neutrality and stability in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:07:12.971266",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 604,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 479,
+      "selected_avg_freq": 233.78666666666666
+    },
+    "related_words": [
+      "untaxed",
+      "spontaneous",
+      "ccn",
+      "g20",
+      "disincentivise",
+      "ftt",
+      "evasive",
+      "arbitrage",
+      "collectivity",
+      "barthélemy",
+      "furthers",
+      "risky",
+      "outweighed",
+      "reinforces",
+      "feedback",
+      "taxing",
+      "unreported",
+      "seamless",
+      "coexistence",
+      "persisting",
+      "attribute",
+      "neutrality",
+      "protects",
+      "withholding",
+      "diversified",
+      "taxed",
+      "crises",
+      "jurisdictions",
+      "originates",
+      "resort"
+    ],
+    "prompt_length": 1681,
+    "category": "2446 taxation"
+  }
+}

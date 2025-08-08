@@ -1,0 +1,63 @@
+{
+  "concept_id": "4211",
+  "concept_data": {
+    "title": "solvent",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"solvent\" refers to substances used for dissolving materials, often in the formulation of products such as varnishes, fragrances, and plasticisers. Solvents can include compounds like tetrafluoroethane and cyclohexane, which are scrutinized for their environmental impact and potential health risks, including asthma and other obstructive conditions. Regulatory frameworks, such as REACH, aim to manage the use of solvents to mitigate risks associated with volatile organic compounds (VOCs) and CMR substances. Innovations in solvent technology seek to expedite the development of safer alternatives, while ongoing deliberations address issues like outgassing and leakage from products in nurseries and toys.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:45.413510",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 720,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 322,
+      "selected_avg_freq": 123.65333333333334
+    },
+    "related_words": [
+      "tetrafluoroethane",
+      "cyclohexane",
+      "diluents",
+      "enviroment",
+      "informantion",
+      "refinishing",
+      "formamide",
+      "blowing",
+      "puzzle",
+      "unpacking",
+      "outgassing",
+      "dissolving",
+      "plasticiser",
+      "enrolled",
+      "reactive",
+      "teap",
+      "voc",
+      "mat",
+      "fragrances",
+      "diluting",
+      "asthma",
+      "obstructive",
+      "instate",
+      "nursery",
+      "mats",
+      "mdis",
+      "allergenic",
+      "banked",
+      "subgroup",
+      "cmr"
+    ],
+    "prompt_length": 1673,
+    "category": "6811 chemistry"
+  }
+}

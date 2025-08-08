@@ -1,0 +1,63 @@
+{
+  "concept_id": "1750",
+  "concept_data": {
+    "title": "reinforced majority",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "qualified majority",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reinforced majority,\" commonly referred to as \"qualified majority,\" is pivotal in EU electoral procedures and voting. It defines a voting threshold that comprises a specific percentage of votes, ensuring that decisions reflect a broad consensus among member states. This majority is calculated based on the population of nations, with weighting adjustments verified through census data. For instance, the votes of smaller nations like Malta or Cyprus carry a different weight than larger countries such as Poland or Germany. The concept is founded in treaties and is essential for decisions communicated orally or in writing during COREPER meetings, where minutes are recorded and figures checked for accuracy. This mechanism promotes joint decision-making, ensuring that all member states are appropriately represented in the EU's legislative process.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:34.809944",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1768.0579710144928
+    },
+    "related_words": [
+      "coreper",
+      "censuses",
+      "votes",
+      "orally",
+      "ece",
+      "weighting",
+      "housing",
+      "minutes",
+      "subparagraphs",
+      "percentages",
+      "appropriately",
+      "founded",
+      "secretary",
+      "figure",
+      "record",
+      "calculate",
+      "comprising",
+      "writing",
+      "constituting",
+      "jointly",
+      "qualified",
+      "treaties",
+      "verified",
+      "slovak",
+      "updating",
+      "concept",
+      "preceding",
+      "figures",
+      "check",
+      "represent"
+    ],
+    "prompt_length": 1735,
+    "category": "0416 electoral procedure and voting"
+  }
+}

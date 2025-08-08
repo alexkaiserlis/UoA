@@ -1,0 +1,63 @@
+{
+  "concept_id": "5992",
+  "concept_data": {
+    "title": "economic activity",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic activity\" within EU legal and regulatory frameworks is characterized by a diverse and fragmented array of practices that are vital for assessing economic conditions. This concept encompasses various branches, including agriculture, where crops like grapes are cultivated, and services that are typically geared toward enhancing economic efficacy. Economic activities are classified using ISIC codes, which provide an exhaustive synthesis of sectors. Surveys and census data are employed to analyze these activities, revealing deficiencies and estimating their impact. The applicability of regulations often varies, reflecting the heterogeneous nature of economic activities across member states, where insufficiently specialized sectors may require tailored drafting to address unique challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:14.081202",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 331,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 1003,
+      "selected_avg_freq": 515.0866666666667
+    },
+    "related_words": [
+      "lowels",
+      "heretogeneous",
+      "unspecialized",
+      "minima",
+      "montado",
+      "alentejano",
+      "toward",
+      "isic",
+      "judging",
+      "census",
+      "synthesis",
+      "fragmented",
+      "insufficiently",
+      "extensively",
+      "grubbing",
+      "estimating",
+      "geared",
+      "classifications",
+      "practically",
+      "insert",
+      "unknown",
+      "typically",
+      "reared",
+      "characterized",
+      "extract",
+      "branches",
+      "concepts",
+      "efficacy",
+      "craft",
+      "dimensions"
+    ],
+    "prompt_length": 1711,
+    "category": "1611 economic conditions"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2710",
+  "concept_data": {
+    "title": "food production",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"food production\" within the EU regulatory framework encompasses various aspects of agri-foodstuffs, focusing on the reformulation of products to enhance nutritional value. This includes the integration of naturally occurring ingredients, such as unsaturated fats and organic acids, while substituting saturated fats and sugars with healthier alternatives. The EU encourages discussions on beneficial practices, such as using legumes like lupins and peas, which can serve as fodder and food sources. Signatory countries, including Tunisia and India, are involved in efforts to achieve stricter standards for food safety and quality, ensuring that flavouring and preservatives meet technological advancements. This regulatory landscape aims to promote sustainable practices and improve overall nutrition in food production.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:57.988182",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 326,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1181,
+      "selected_avg_freq": 559.86
+    },
+    "related_words": [
+      "reformulation",
+      "rican",
+      "reformulated",
+      "unsaturated",
+      "enhancer",
+      "saturated",
+      "technologically",
+      "israeli",
+      "lupins",
+      "flavouring",
+      "preservative",
+      "tunisian",
+      "taste",
+      "achievable",
+      "australian",
+      "modest",
+      "acids",
+      "peas",
+      "salt",
+      "fatty",
+      "sugars",
+      "substituted",
+      "costa",
+      "integrate",
+      "indian",
+      "sodium",
+      "sweet",
+      "naturally",
+      "signatory",
+      "severely"
+    ],
+    "prompt_length": 1660,
+    "category": "6031 agri-foodstuffs"
+  }
+}

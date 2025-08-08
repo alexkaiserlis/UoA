@@ -1,0 +1,63 @@
+{
+  "concept_id": "664",
+  "concept_data": {
+    "title": "ecosystem",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the concept of \"ecosystem\" encompasses the intricate relationships between flora, fauna, and their habitats, promoting biodiversity and ecological balance. The EU's commitment to conservation is evident in various conventions, such as the Ramsar and OSPAR agreements, which aim to preserve threatened ecosystems and mitigate degradation. Governance structures encourage concerted efforts to address the disappearance of biotopes and endangered species, while the Bonn and Berne Conventions facilitate cooperation among neighbouring states. By selecting appropriate measures, the EU strives to stimulate rational management of coastal landscapes and habitats, ensuring the success of biodiversity preservation initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:35:54.505283",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 346,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1172,
+      "selected_avg_freq": 534.1666666666666
+    },
+    "related_words": [
+      "acnat",
+      "transcend",
+      "ramsar",
+      "iczm",
+      "biotopes",
+      "extinction",
+      "ospar",
+      "bonn",
+      "berne",
+      "conserve",
+      "renamed",
+      "habitats",
+      "commit",
+      "degradation",
+      "biodiversity",
+      "disappearance",
+      "landscape",
+      "stems",
+      "appendices",
+      "ecosystems",
+      "encourages",
+      "fauna",
+      "promotes",
+      "flora",
+      "barcelona",
+      "threats",
+      "selecting",
+      "succeeded",
+      "endangered",
+      "concepts"
+    ],
+    "prompt_length": 1692,
+    "category": "5211 natural environment"
+  }
+}

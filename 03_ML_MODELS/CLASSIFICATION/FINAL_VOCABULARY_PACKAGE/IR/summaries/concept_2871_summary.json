@@ -1,0 +1,63 @@
+{
+  "concept_id": "2871",
+  "concept_data": {
+    "title": "quality criterion",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "product quality",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"quality criterion,\" redirected to \"product quality,\" encompasses various standards that ensure the cleanness and integrity of consumables. This includes the assessment of defects such as blemishes, cracks, and shrivelling in products like gariguette strawberries or primella flowers. Regulations may stipulate parameters for combustibility and the presence of artificial additives, ensuring that authorized products meet consumer safety standards. Furthermore, the hybridization and monogermity of crops are critical in maintaining quality. Storekeepers must adhere to these regulations, whereof compliance is essential for effective market operations, counteracting issues related to product deterioration and enhancing consumer trust.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:05.143632",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 4068,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.066666666666666
+    },
+    "related_words": [
+      "verdelli",
+      "healed",
+      "cracks",
+      "primella",
+      "gariguette",
+      "cleanness",
+      "hovewer",
+      "swollen",
+      "flotation",
+      "consumtion",
+      "reulation",
+      "grinder",
+      "counteracted",
+      "stigmastadiene",
+      "panse",
+      "prăšcoce",
+      "ffl",
+      "salicina",
+      "fishes",
+      "autorized",
+      "walling",
+      "amanded",
+      "combustibility",
+      "blemishes",
+      "shrivelling",
+      "artifical",
+      "buck",
+      "tannins",
+      "dakota",
+      "authroized"
+    ],
+    "prompt_length": 1717,
+    "category": "2026 consumption"
+  }
+}

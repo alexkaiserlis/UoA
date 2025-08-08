@@ -1,0 +1,63 @@
+{
+  "concept_id": "1342",
+  "concept_data": {
+    "title": "installation allowance",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"installation allowance\" is a financial support mechanism within the EU regulatory framework aimed at facilitating the acquisition of agricultural structures and production capabilities. This allowance is particularly relevant for farmers, cooperatives, and horticulturists in regions such as Wallonia, Liguria, and Tuscany, where it assists in the formation of new farms or the expansion of existing ones. The allowance guarantees reimbursement for eligible investments, thereby satisfying the occupational requirements for farmers. It is crucial for ensuring compatibility with EU agricultural policies, as it promotes educational initiatives and the implementation of sustainable practices. The decree governing this allowance verifies the qualifications of applicants and outlines limitations to ensure fair access across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:06:37.784700",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 245,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1630,
+      "selected_avg_freq": 731.8866666666667
+    },
+    "related_words": [
+      "gremium",
+      "posses",
+      "fip",
+      "deed",
+      "followd",
+      "ligurian",
+      "horticulturists",
+      "walloon",
+      "compatability",
+      "wallonia",
+      "diploma",
+      "attended",
+      "verifies",
+      "liguria",
+      "tuscany",
+      "practising",
+      "lazio",
+      "attested",
+      "remarks",
+      "lombardy",
+      "merger",
+      "cooperatives",
+      "grouping",
+      "multiplying",
+      "occupation",
+      "farmer",
+      "royal",
+      "possess",
+      "qualification",
+      "occupational"
+    ],
+    "prompt_length": 1706,
+    "category": "5611 agricultural structures and production"
+  }
+}

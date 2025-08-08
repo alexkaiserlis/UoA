@@ -1,0 +1,63 @@
+{
+  "concept_id": "2745",
+  "concept_data": {
+    "title": "sports equipment",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sports equipment\" encompasses a wide range of items used in various athletic activities, including specialized gear such as helmets, boots, and gymnastic apparatus. In the EU regulatory framework, standards are established to ensure safety and performance, addressing risks such as suffocation and entrapment associated with items like pushchairs and prams. Manufacturers, including those in regions like Lichtenfels and Augsburg, must comply with regulations that govern materials and design, including the use of rivets and clamps. The integration of motorized components in sports equipment, such as pedal systems for cycling or tubing for skating, requires adherence to specific safety protocols to resist hazards. Additionally, the regulation of sportschuhfabriken highlights the importance of quality assurance in footwear, ensuring that products like winter sport boots and cycling shoes meet EU safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:53:28.491516",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 780,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 156,
+      "selected_avg_freq": 48.413333333333334
+    },
+    "related_words": [
+      "lico",
+      "sportschuhfabriken",
+      "lichtenfels",
+      "schney",
+      "hanns",
+      "balzer",
+      "lauterbach",
+      "chemotrade",
+      "augsburg",
+      "tiger",
+      "wintersport",
+      "leerdam",
+      "viko",
+      "oour",
+      "inkotrade",
+      "zdin",
+      "rivets",
+      "cyclocross",
+      "bestween",
+      "clamp",
+      "inches",
+      "motorized",
+      "ridden",
+      "prams",
+      "pushchairs",
+      "boots",
+      "gymnastic",
+      "burrs",
+      "gripping",
+      "handgrips"
+    ],
+    "prompt_length": 1647,
+    "category": "6846 miscellaneous industries"
+  }
+}

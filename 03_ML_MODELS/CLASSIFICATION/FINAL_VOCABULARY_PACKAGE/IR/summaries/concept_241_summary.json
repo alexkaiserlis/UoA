@@ -1,0 +1,63 @@
+{
+  "concept_id": "241",
+  "concept_data": {
+    "title": "vegetable fats",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"vegetable fats\" refers to oleaginous substances derived from plants, characterized by their diverse constituents, including glucosinolate and starch. These fats are commonly processed into products such as margarine and spreadable cakes, which must be accurately labelled to avoid confusing consumers. Consequently, measures are in place to ensure that the extraction and processing of these fats align with EU standards. The liberalization of trade facilitates the diversification of available vegetable fats, while regulations govern their appearance and composition. Judgements regarding permissible ingredients and advertising practices are essential for maintaining consumer expectations and product integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:30.467623",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 390,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 889,
+      "selected_avg_freq": 440.3466666666667
+    },
+    "related_words": [
+      "consequnetly",
+      "meastures",
+      "harmoniously",
+      "micromoles",
+      "glucosinolate",
+      "opinon",
+      "cakes",
+      "spreadable",
+      "margarine",
+      "germ",
+      "oleaginous",
+      "gram",
+      "successively",
+      "confusing",
+      "stm",
+      "cake",
+      "corn",
+      "inapplicable",
+      "standstill",
+      "judgement",
+      "liberalization",
+      "extraction",
+      "constituents",
+      "facilitates",
+      "diversification",
+      "rape",
+      "characteristic",
+      "distinguishing",
+      "labelled",
+      "starch"
+    ],
+    "prompt_length": 1730,
+    "category": "6016 processed agricultural produce"
+  }
+}

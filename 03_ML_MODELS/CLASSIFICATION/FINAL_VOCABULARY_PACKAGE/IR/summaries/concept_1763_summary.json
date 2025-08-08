@@ -1,0 +1,63 @@
+{
+  "concept_id": "1763",
+  "concept_data": {
+    "title": "plant pathology",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "plant disease",
+    "relation_type": "USE"
+  },
+  "summary": "Plant pathology, often referred to as \"plant disease,\" is a critical area within agricultural activity (5631) in the EU regulatory framework. It encompasses the study of cryptogamic infections and the impact of pathogens like Burkh and destructor on hostplants such as rhododendron and viburnum. Methodical approaches to managing diseases, including ringrot and brownrot, are essential for maintaining agricultural productivity across diverse regions, including Gorenjska and Maribor. The EU emphasizes publicizing best practices for disease control, addressing pathotypes and their effects on crops like gladiolus and photinia. This redirect highlights the preferred term's broader implications in EU legislation concerning agricultural health and biosecurity.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:40.517148",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2433,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.54
+    },
+    "related_words": [
+      "introdued",
+      "reigons",
+      "bursaphelencus",
+      "invididual",
+      "scurf",
+      "scab",
+      "spieck",
+      "kotth",
+      "skapt",
+      "burkh",
+      "byralstonia",
+      "publicizing",
+      "typographically",
+      "pathotypes",
+      "methodical",
+      "kar",
+      "ringrot",
+      "brownrot",
+      "wart",
+      "cryptogamic",
+      "existiang",
+      "gorenjska",
+      "maribor",
+      "dunajská",
+      "streda",
+      "poltár",
+      "rožňava",
+      "trebišov",
+      "photinia",
+      "dcne"
+    ],
+    "prompt_length": 1708,
+    "category": "5631 agricultural activity"
+  }
+}

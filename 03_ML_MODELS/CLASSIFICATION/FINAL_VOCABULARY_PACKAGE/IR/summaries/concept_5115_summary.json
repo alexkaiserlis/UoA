@@ -1,0 +1,63 @@
+{
+  "concept_id": "5115",
+  "concept_data": {
+    "title": "simple consultation procedure",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "consultation procedure",
+    "relation_type": "USE"
+  },
+  "summary": "The \"simple consultation procedure,\" often redirected to the preferred term \"consultation procedure,\" is a mechanism within EU law that facilitates dialogue among factions during legislative processes. This procedure is characterized by its consensual nature, allowing for the exchange of views without necessitating formal voting. It is particularly relevant in contexts where diverging interests, such as those observed in the Cotonou Agreement, require mediation. For instance, during presidential elections in Madagascar, the consultation procedure can help address uncertainties and foster compromise among stakeholders. By instituting a framework for dialogue, this procedure aids in the organizational development of infrastructures, ensuring that alterations to policies are made with firmness and inclusivity.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:34:30.878594",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 402,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 918,
+      "selected_avg_freq": 435.18666666666667
+    },
+    "related_words": [
+      "factions",
+      "chissano",
+      "reins",
+      "coup",
+      "maputo",
+      "firmness",
+      "addis",
+      "ababa",
+      "malagasy",
+      "consensual",
+      "organizational",
+      "aegis",
+      "diverging",
+      "headed",
+      "benin",
+      "presidential",
+      "condemned",
+      "fifteen",
+      "mediation",
+      "grades",
+      "arrive",
+      "waterway",
+      "violated",
+      "cotonou",
+      "elections",
+      "madagascar",
+      "instituting",
+      "constitutional",
+      "exchanged",
+      "compiled"
+    ],
+    "prompt_length": 1732,
+    "category": "1011 European Union law"
+  }
+}

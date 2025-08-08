@@ -1,0 +1,63 @@
+{
+  "concept_id": "6308",
+  "concept_data": {
+    "title": "sustainable agriculture",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sustainable agriculture within the EU agricultural policy framework emphasizes ecological practices that enhance biodiversity and ensure the responsible use of resources. This concept is supported by various initiatives, such as the European Innovation Partnership (EIP) and the European Agricultural Fund for Rural Development (EAFRD), which promote networking among researchers and stakeholders. The thematic focus includes the development of biofuels and bioliquids from combinable crops like oilseeds and beet, ensuring that feedstock is sourced sustainably. Auditing and assurance mechanisms are crucial for monitoring compliance, while chairpersons and steering committees guide these endeavours, fostering unity and collaboration among providers and observers in the agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:01:20.435906",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 434,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 814,
+      "selected_avg_freq": 362.5733333333333
+    },
+    "related_words": [
+      "eip",
+      "enrd",
+      "chairpersons",
+      "combinable",
+      "deposition",
+      "custody",
+      "bioliquids",
+      "feedstock",
+      "chairperson",
+      "thematic",
+      "biofuels",
+      "leader",
+      "biofuel",
+      "researchers",
+      "networking",
+      "favours",
+      "feeds",
+      "gate",
+      "biodiversity",
+      "vice",
+      "relies",
+      "diesel",
+      "downstream",
+      "observers",
+      "universal",
+      "oilseeds",
+      "auditing",
+      "petrol",
+      "unity",
+      "rome"
+    ],
+    "prompt_length": 1677,
+    "category": "5606 agricultural policy"
+  }
+}

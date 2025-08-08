@@ -1,0 +1,63 @@
+{
+  "concept_id": "3143",
+  "concept_data": {
+    "title": "tachograph",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "speed control",
+    "relation_type": "USE"
+  },
+  "summary": "In EU transport policy, the concept of \"tachograph,\" which redirects to \"speed control,\" is integral for ensuring compliance with regulations governing vehicle speed and driver safety. Tachographs, equipped with sensors, record data on vehicle speed and driving times, thereby preventing manipulation and defraud of speed limits. These devices are essential for heavier vehicles, including tractors and unbodied trucks, where accurate speed monitoring is crucial. The versatility of tachographs extends to various wheeled vehicles, including motorcycles and mopeds, ensuring fairer road use. Regulatory officers utilize tachographs to enforce compliance, reducing injuries and enhancing safety through prescribed braking and torque limits.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:44:55.843333",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 570,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 200.24666666666667
+    },
+    "related_words": [
+      "heaviest",
+      "speedometers",
+      "versatility",
+      "bodied",
+      "unbodied",
+      "tachographs",
+      "reversible",
+      "speedometer",
+      "defraud",
+      "limiters",
+      "mopeds",
+      "silencers",
+      "cohesive",
+      "anchorages",
+      "tachograph",
+      "torque",
+      "pneumatic",
+      "axles",
+      "sensor",
+      "tricycles",
+      "spark",
+      "converters",
+      "interruptions",
+      "motorcycles",
+      "fairer",
+      "roadside",
+      "braking",
+      "lieu",
+      "catalytic",
+      "wheel"
+    ],
+    "prompt_length": 1709,
+    "category": "4806 transport policy"
+  }
+}

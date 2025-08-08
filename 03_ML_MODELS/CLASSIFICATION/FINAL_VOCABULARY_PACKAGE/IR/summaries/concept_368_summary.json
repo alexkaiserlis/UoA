@@ -1,0 +1,63 @@
+{
+  "concept_id": "368",
+  "concept_data": {
+    "title": "budget deficit",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"budget deficit\" refers to a situation where a government's expenditures exceed its revenues, leading to a need for financing through borrowing or other measures. In the EU context, this concept is anchored in macroprudential regulations, which aim to mitigate vulnerabilities in economic outlooks. The Council adopted measures to address budget deficits, particularly during recessionary periods, where protracted deficits can lead to unsupportive fiscal environments. Deteriorations in budget outturns may translate into hikes in public debt, necessitating retrenchment or expansionary fiscal policies. As member states navigate these challenges, the interplay between budget deficits and economic stability remains crucial for maintaining vigour in the EU economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:02.685822",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2177,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 16.19333333333333
+    },
+    "related_words": [
+      "anchoring",
+      "costings",
+      "unsupportive",
+      "overachieved",
+      "rebounding",
+      "edging",
+      "sit",
+      "outlooks",
+      "expansionary",
+      "macroprudential",
+      "interlinks",
+      "hinged",
+      "hikes",
+      "measurres",
+      "deteriorations",
+      "translates",
+      "netherland",
+      "outturns",
+      "pbr",
+      "unfolded",
+      "frontloading",
+      "tilted",
+      "conventionally",
+      "downsizing",
+      "misalignments",
+      "dampened",
+      "finanz",
+      "looming",
+      "defeasance",
+      "abbaueinheit"
+    ],
+    "prompt_length": 1711,
+    "category": "2441 budget"
+  }
+}

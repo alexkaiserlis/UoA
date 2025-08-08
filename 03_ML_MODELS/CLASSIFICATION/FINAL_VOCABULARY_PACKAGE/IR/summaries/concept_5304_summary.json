@@ -1,0 +1,63 @@
+{
+  "concept_id": "5304",
+  "concept_data": {
+    "title": "calcium",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Calcium, a key constituent in various industrial applications, particularly within the iron, steel, and other metal industries, plays a crucial role in EU regulatory frameworks. The European Food Safety Authority (EFSA) emphasizes calcium's importance in nutrition, suggesting its inclusion in foods to combat depletion and erosion of essential tissues. Moreover, the regulation of calcium in fertilizers is critical, as it can affect the acidity of soils and the demineralisation of crops. The EU has invoked measures against dumping practices, particularly concerning subsidized exports from countries like Russia, which may undermine local markets. Henceforth, authorisations for calcium-related products must ensure compliance with safety standards to protect consumer health and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:29.306721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 284,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1406,
+      "selected_avg_freq": 697.7666666666667
+    },
+    "related_words": [
+      "moritz",
+      "hagenmeyer",
+      "hahn",
+      "frieslandcampina",
+      "demineralisation",
+      "dehydration",
+      "prof",
+      "concomitant",
+      "acidic",
+      "andreas",
+      "tooth",
+      "depletion",
+      "magnesium",
+      "dental",
+      "erosion",
+      "juices",
+      "fertilizers",
+      "tissues",
+      "worded",
+      "constituents",
+      "calcium",
+      "refusing",
+      "sodium",
+      "sulphur",
+      "henceforth",
+      "reduces",
+      "juice",
+      "nutrition",
+      "metal",
+      "solid"
+    ],
+    "prompt_length": 1688,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

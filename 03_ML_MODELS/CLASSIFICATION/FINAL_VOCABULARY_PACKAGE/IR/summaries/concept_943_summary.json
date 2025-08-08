@@ -1,0 +1,63 @@
+{
+  "concept_id": "943",
+  "concept_data": {
+    "title": "forestry holding",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"forestry holding\" refers to a designated area or entity engaged in the management and exploitation of forest resources, crucial for sustainable governance within the EU. These holdings are linked to various regulatory frameworks, including the FLEGT (Forest Law Enforcement, Governance and Trade) initiative, which aims to combat illegal logging and standardize timber trade practices. Forestry holdings must adhere to ISO standards, ensuring compliance with licensing and environmental assurances. Tools for effective management include wheeled tractors and trailers, which facilitate logging operations. The dynamic nature of forestry holdings requires ongoing adaptation to disruptions, ensuring that reproductive and horticulture practices are harmonized across regions, including Belarus and the Congo.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:21:49.207112",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 277,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1462,
+      "selected_avg_freq": 644.2733333333333
+    },
+    "related_words": [
+      "linkages",
+      "flegt",
+      "spark",
+      "logging",
+      "standardize",
+      "tractor",
+      "static",
+      "liberia",
+      "signalling",
+      "ignition",
+      "roll",
+      "suppression",
+      "compulsorily",
+      "wheeled",
+      "tractors",
+      "lighting",
+      "disrupted",
+      "timber",
+      "engines",
+      "edition",
+      "congo",
+      "reproductive",
+      "trailers",
+      "forest",
+      "seats",
+      "belarus",
+      "interference",
+      "resolved",
+      "harmonize",
+      "fitted"
+    ],
+    "prompt_length": 1666,
+    "category": "5636 forestry"
+  }
+}

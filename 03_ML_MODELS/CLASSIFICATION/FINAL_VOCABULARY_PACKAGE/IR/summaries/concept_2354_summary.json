@@ -1,0 +1,63 @@
+{
+  "concept_id": "2354",
+  "concept_data": {
+    "title": "Autonomous Community of Aragon",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Aragon",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Autonomous Community of Aragon,\" commonly referred to as \"Aragon,\" is a significant region within the EU Member States, categorized under 7211 regions. This designation plays a crucial role in the programming and allocation of EU funds, particularly through the European Social Fund (ESF) and the European Regional Development Fund (ERDF). Aragon's economic landscape, characterized by sectors such as construction and beverage production, necessitates a strategic approach to reintegration and addressing redundancies in the labour market. The region's statutory frameworks aim to mobilise resources effectively, ensuring additionality in funding allocations while fulfilling interinstitutional priorities. As globalisation impacts local economies, Aragon's development patterns and NACE classifications are critical for addressing inflation and preparing for future challenges. The region's unique products, such as ternasco, further enrich its cultural identity and economic potential.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:48:00.692622",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 278,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1456,
+      "selected_avg_freq": 781.4933333333333
+    },
+    "related_words": [
+      "ternasco",
+      "aragon",
+      "aragón",
+      "beverage",
+      "rev",
+      "egf",
+      "redundancies",
+      "nace",
+      "additionality",
+      "reintegration",
+      "indexed",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "esf",
+      "pgi",
+      "mobilise",
+      "buildings",
+      "nuts",
+      "seq",
+      "erdf",
+      "mobilisation",
+      "redundant",
+      "eib",
+      "inflation",
+      "proposes",
+      "perspective",
+      "statutory",
+      "allocations",
+      "division"
+    ],
+    "prompt_length": 1738,
+    "category": "7211 regions of EU Member States"
+  }
+}

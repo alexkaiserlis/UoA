@@ -1,0 +1,63 @@
+{
+  "concept_id": "4298",
+  "concept_data": {
+    "title": "structure of agricultural production",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "agricultural structure",
+    "relation_type": "USE"
+  },
+  "summary": "The \"structure of agricultural production,\" redirected to the preferred term \"agricultural structure,\" encompasses the typology and infrastructural elements essential for effective farming practices within the EU. This concept involves a reappraisal of land use, including fallow plots and nursery systems, to improve compatibility with environmental regulations. Legal frameworks often necessitate amendments to existing policies, ensuring that funding for agricultural projects aligns with sustainability goals. The use of herbicides and nematocidal agents, such as dichloropropene, must be carefully regulated to avoid harming local communities and ecosystems. Additionally, agricultural census data informs the delimiting of production areas, enhancing the overall efficiency and viability of rural villages and regions like Puglia and Württemberg.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:43:52.617507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1108,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 224,
+      "selected_avg_freq": 96.84666666666666
+    },
+    "related_words": [
+      "finacial",
+      "reappraisal",
+      "nematocidal",
+      "metham",
+      "inadvisable",
+      "tenant",
+      "sdeea",
+      "adendum",
+      "depse",
+      "imnproving",
+      "decice",
+      "bdt",
+      "scilly",
+      "fundings",
+      "fadn",
+      "compatability",
+      "sytem",
+      "strata",
+      "tabular",
+      "fallow",
+      "esu",
+      "dressing",
+      "concordance",
+      "amendement",
+      "dispensation",
+      "isles",
+      "unbalanced",
+      "dichloropropene",
+      "villages",
+      "delimit"
+    ],
+    "prompt_length": 1783,
+    "category": "5611 agricultural structures and production"
+  }
+}

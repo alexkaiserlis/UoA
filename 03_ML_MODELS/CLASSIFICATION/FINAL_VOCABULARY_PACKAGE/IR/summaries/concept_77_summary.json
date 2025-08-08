@@ -1,0 +1,63 @@
+{
+  "concept_id": "77",
+  "concept_data": {
+    "title": "public administration",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Public administration within the EU context refers to the structures and processes through which executive power and public service function. It is crucially linked to the legislature, as it implements decrees and regulations that govern various sectors, including healthcare and economic management. The dynamics of public administration can be affected by factors such as economic downturns, which may necessitate a reclassification of spending priorities. The credibility of public institutions hinges on their ability to adapt to changing circumstances, including the cyclical nature of economic performance. Moreover, secondment practices and the management of public resources can influence the momentum of policy implementation, while the abrogating of outdated regulations can lead to a more efficient governance framework. In this context, the role of the Committee for the Coordination of the Monetary and Financial System (CMFB) and the Economic and Financial Committee (ECOFIN) is pivotal, as they oversee the execution of fiscal policies and monitor compliance with the Excessive Deficit Procedure (EDP). Overall, public administration serves as the backbone of EU governance, ensuring that member states function optimally amidst varying challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:25.142659",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 178,
+    "vocabulary_stats": {
+      "total_related_words": 956,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 218,
+      "selected_avg_freq": 97.28666666666666
+    },
+    "related_words": [
+      "fras",
+      "backdata",
+      "elasticities",
+      "exonerating",
+      "legislature",
+      "deceleration",
+      "infra",
+      "swap",
+      "momentum",
+      "reversal",
+      "concurred",
+      "rooted",
+      "cmfb",
+      "mto",
+      "crucially",
+      "drastically",
+      "redirected",
+      "hinges",
+      "solemnly",
+      "secondment",
+      "functioned",
+      "moderately",
+      "optimistic",
+      "quasi",
+      "cyclically",
+      "stance",
+      "weakness",
+      "subsectors",
+      "reclassification",
+      "projection"
+    ],
+    "prompt_length": 1695,
+    "category": "0436 executive power and public service"
+  }
+}

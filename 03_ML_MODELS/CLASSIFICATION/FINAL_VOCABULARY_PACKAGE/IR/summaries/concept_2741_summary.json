@@ -1,0 +1,63 @@
+{
+  "concept_id": "2741",
+  "concept_data": {
+    "title": "condensed product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "concentrated product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"condensed product\" is a redirect to \"concentrated product,\" which refers to foodstuffs that have undergone processes to enhance their nutrient density or flavor. These products, such as concentrated creams or cheese varieties like parmigiano and feta, must adhere to strict regulations to ensure truthful labeling and merchantable quality. The inflexibility of regulatory frameworks necessitates precise wordings in documentation to avoid forfeiture of rights. Additionally, the presence of radionuclides in certain foodstuffs, particularly in regions affected by events like Chernobyl, requires careful monitoring. Innovators in the food sector must navigate these complexities while ensuring compliance with safety standards, including the aggregation of ingredients and the sealing of packs to maintain integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:54.339761",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 856,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 297,
+      "selected_avg_freq": 135.89333333333335
+    },
+    "related_words": [
+      "procided",
+      "inflexibility",
+      "diffcult",
+      "radiocative",
+      "carotenic",
+      "provexis",
+      "wstc",
+      "innovators",
+      "exhange",
+      "wordings",
+      "republish",
+      "unpublished",
+      "sitosterol",
+      "apo",
+      "butterfat",
+      "tracers",
+      "platelet",
+      "feta",
+      "vouchers",
+      "stigmasterol",
+      "formulas",
+      "creams",
+      "truthful",
+      "voucher",
+      "print",
+      "resins",
+      "legible",
+      "radionuclides",
+      "ester",
+      "ion"
+    ],
+    "prompt_length": 1733,
+    "category": "6026 foodstuff"
+  }
+}

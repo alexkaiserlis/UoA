@@ -1,0 +1,63 @@
+{
+  "concept_id": "2464",
+  "concept_data": {
+    "title": "national defence",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "defence policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"national defence,\" as a redirect to \"defence policy,\" encompasses the EU's collective frameworks aimed at ensuring peace and security across multiregional contexts. EU defence policy is resolutely focused on addressing the brutal violence perpetrated against civilians, particularly in regions like Libya and Tunisia, where humanitarian crises have emerged. The European Union, through mechanisms such as Eufor and the PSC, administers responses to conflicts, aiming for impartiality and neutrality. The aspirations of member states are collectively aligned to realise stability and protect refugees from repression and occupation. The legal frameworks established under the TEU and additionality principles guide these efforts, ensuring unimpeded passage of humanitarian aid and condemning violations of international law.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:01:27.014059",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 400,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 980,
+      "selected_avg_freq": 445.37333333333333
+    },
+    "related_words": [
+      "multiregional",
+      "unimpeded",
+      "resolutely",
+      "ocha",
+      "aspirations",
+      "libyan",
+      "civilians",
+      "brutal",
+      "perpetrated",
+      "athena",
+      "realise",
+      "league",
+      "attack",
+      "violence",
+      "eufor",
+      "opposing",
+      "neutrality",
+      "populated",
+      "condemned",
+      "impartiality",
+      "libya",
+      "unscr",
+      "nationally",
+      "passage",
+      "psc",
+      "refugees",
+      "repression",
+      "civilian",
+      "grave",
+      "collectively"
+    ],
+    "prompt_length": 1705,
+    "category": "0821 defence"
+  }
+}

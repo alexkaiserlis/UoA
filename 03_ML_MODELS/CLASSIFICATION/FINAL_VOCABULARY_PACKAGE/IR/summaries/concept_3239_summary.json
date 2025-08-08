@@ -1,0 +1,63 @@
+{
+  "concept_id": "3239",
+  "concept_data": {
+    "title": "monetary relations",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"monetary relations\" within the EU legal framework encompasses the intricate negotiations and agreements between member states regarding currency and banking practices. This includes the initialling and ratification of treaties that govern the use of banknotes and coins, such as the euro, which has substituted national currencies like the lira and franc. The European Central Bank (ECB) undertakes measures to combat counterfeiting and ensure the integrity of currency. Additionally, monetary relations involve conditional grants and refinancing mechanisms that engage banks in cooperative efforts to address inconsistencies in taxation and savings. Historical links between states, such as Monaco and the Vatican, further illustrate the complexity of these relations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:59:02.065915",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 203,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2246,
+      "selected_avg_freq": 1006.2733333333333
+    },
+    "related_words": [
+      "ambassador",
+      "negotiates",
+      "verbal",
+      "renegotiations",
+      "lira",
+      "franc",
+      "banque",
+      "vatican",
+      "monaco",
+      "counterfeiting",
+      "refinancing",
+      "proceeded",
+      "andorra",
+      "marino",
+      "coins",
+      "submits",
+      "initialling",
+      "banknotes",
+      "ratify",
+      "denominated",
+      "substituted",
+      "inconsistencies",
+      "undertakes",
+      "city",
+      "san",
+      "engage",
+      "principality",
+      "banking",
+      "earliest",
+      "savings"
+    ],
+    "prompt_length": 1679,
+    "category": "2406 monetary relations"
+  }
+}

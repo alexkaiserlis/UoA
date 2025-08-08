@@ -1,0 +1,63 @@
+{
+  "concept_id": "4099",
+  "concept_data": {
+    "title": "service",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"service\" encompasses various dimensions of consumption, including the provision of essential utilities and digital solutions. It emphasizes the role of interoperable systems, such as eGovernment initiatives, which facilitate the exchange of information between regulators and actors like Europol. Services may involve oversight mechanisms for stolen objects, including caravans and trailers, ensuring their proper registration in databases like SIS. The retention of files and alerts regarding misappropriated assets are crucial for law enforcement. Additionally, the concept includes advising on qualifications for service providers, enhancing the efficiency of pan-European interconnection.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:39:22.119337",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 486,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 768,
+      "selected_avg_freq": 384.68666666666667
+    },
+    "related_words": [
+      "erg",
+      "nras",
+      "berec",
+      "erased",
+      "caravans",
+      "stolen",
+      "idabc",
+      "egovernment",
+      "unladen",
+      "misappropriated",
+      "seizure",
+      "eeurope",
+      "emphasising",
+      "cylinder",
+      "log",
+      "advising",
+      "invalidated",
+      "interoperable",
+      "alerts",
+      "sis",
+      "plates",
+      "intermediary",
+      "interconnection",
+      "universal",
+      "brings",
+      "oversight",
+      "complementing",
+      "europol",
+      "files",
+      "regulators"
+    ],
+    "prompt_length": 1641,
+    "category": "2026 consumption"
+  }
+}

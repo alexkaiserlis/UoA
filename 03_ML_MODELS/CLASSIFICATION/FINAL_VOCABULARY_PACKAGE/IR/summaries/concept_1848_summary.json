@@ -1,0 +1,63 @@
+{
+  "concept_id": "1848",
+  "concept_data": {
+    "title": "mechanization",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "mechanisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mechanisation,\" a preferred term for \"mechanization,\" pertains to the integration of mechanized equipment in agricultural practices within the EU regulatory framework. This involves the modification and updating of facilities to enhance efficiency in processes such as ginning and harvesting cotton. The EU supports this sector through various programmes, providing guidance and financial aid to producers. The measures aim to meet economic objectives while ensuring that the conditions of approval are authentic and justifying the estimated costs. Associations and groups in Greece and other member states are encouraged to forward their opinions on these structures, which are crucial for the sustainable development of agriculture.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:48.550982",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1927.4354838709678
+    },
+    "related_words": [
+      "mechanized",
+      "ginning",
+      "harvesting",
+      "cotton",
+      "justifying",
+      "estimates",
+      "relates",
+      "modification",
+      "updating",
+      "associations",
+      "meets",
+      "greek",
+      "forwarded",
+      "facilities",
+      "producer",
+      "guidance",
+      "storage",
+      "estimated",
+      "approving",
+      "modified",
+      "equipment",
+      "greece",
+      "groups",
+      "structure",
+      "includes",
+      "cost",
+      "fund",
+      "guarantee",
+      "aid",
+      "authentic"
+    ],
+    "prompt_length": 1712,
+    "category": "6411 technology and technical regulations"
+  }
+}

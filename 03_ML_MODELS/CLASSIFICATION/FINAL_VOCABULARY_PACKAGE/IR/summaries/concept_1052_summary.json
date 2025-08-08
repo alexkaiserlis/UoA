@@ -1,0 +1,63 @@
+{
+  "concept_id": "1052",
+  "concept_data": {
+    "title": "fund (EU)",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fund (EU)\" pertains to financial instruments established under EU regulations, aimed at supporting various sectors, including regional development and innovation. These funds, such as those allocated to regions like Baleares and Cornwall, are crucial for addressing challenges faced by economically devastated areas. They operate biannually, ensuring that resources are soundly distributed to beneficiaries, including foreign investors and local enterprises. Legal frameworks governing these funds often involve complex scissions and necessitate compliance with EU acquis. The involvement of entities like UNHCR highlights their role in supporting persecuted populations, while companies such as Alcoa and Danfoss benefit from funding for sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:39:22.251697",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2403,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 13.246666666666666
+    },
+    "related_words": [
+      "baleares",
+      "saarlouis",
+      "cornwall",
+      "sovereigns",
+      "galloway",
+      "intermendiate",
+      "ocotber",
+      "biannual",
+      "statue",
+      "staying",
+      "leรณn",
+      "hageland",
+      "devastated",
+      "searchable",
+      "suceeded",
+      "salmonides",
+      "auitaine",
+      "scissions",
+      "beneficiated",
+      "inheritor",
+      "xynthia",
+      "pardf",
+      "constraining",
+      "emden",
+      "eruption",
+      "pirmasens",
+      "zweibruecken",
+      "unhcr",
+      "ceas",
+      "persecuted"
+    ],
+    "prompt_length": 1655,
+    "category": "1021 EU finance"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3798",
+  "concept_data": {
+    "title": "special chemicals",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"special chemicals\" encompasses a range of substances specifically manufactured for unique applications, such as lubrication and foaming agents. In the EU regulatory framework, these chemicals are subject to stringent testing and compliance standards to ensure they are capable of meeting safety and environmental requirements. Laboratories in regions like Hertfordshire and Hemel Hempstead may focus on the development of specialized formulations, such as redlake and hyspeed products, which are ordered for their unique properties. The interpretation of regulations often invokes subdivisions that address the affirmative use of these chemicals in various apparatus, ensuring they are suited for their intended purposes while minimizing friction and cavitation in mechanical systems.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:52:02.021143",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 177,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1386.6733333333334
+    },
+    "related_words": [
+      "redlake",
+      "hycam",
+      "lubrication",
+      "appplies",
+      "hyspeed",
+      "jhpi",
+      "newhouse",
+      "bovingdon",
+      "hemel",
+      "hempstead",
+      "cavitation",
+      "articled",
+      "hertfordshire",
+      "foaming",
+      "shutter",
+      "lubricants",
+      "aperture",
+      "friction",
+      "camera",
+      "bearings",
+      "filling",
+      "tendency",
+      "ordered",
+      "specially",
+      "subdivisions",
+      "affirmative",
+      "invoke",
+      "educational",
+      "apparatus",
+      "principally"
+    ],
+    "prompt_length": 1656,
+    "category": "6811 chemistry"
+  }
+}

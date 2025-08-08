@@ -1,0 +1,63 @@
+{
+  "concept_id": "722",
+  "concept_data": {
+    "title": "bottling",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Bottling, within the EU regulatory framework, refers to the process of packaging liquids, particularly alcoholic beverages, into standardized bottles. This crucial marketing step necessitates adherence to strict guidelines to prevent fraudulently mislabeling products and to uphold the reputation of spirituous drinks. Bottlers must ensure that coverings, such as capsules and foil, are fitted correctly to prevent accidental contamination. The use of additives like dimethyldicarbonate to sweeten musts is regulated to enrich the quality of prepackaged beverages. Diverging interpretations of bottling practices across countries, including Kazakhstan, Kyrgyzstan, and others, highlight the need for harmonized standards to facilitate trade and protect consumers.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:06.497409",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 338,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 920,
+      "selected_avg_freq": 393.5933333333333
+    },
+    "related_words": [
+      "dimethyldicarbonate",
+      "meanings",
+      "sweeten",
+      "kazakstan",
+      "kyrgystan",
+      "bottler",
+      "enrich",
+      "contries",
+      "bottled",
+      "coupage",
+      "ixa",
+      "fraudulently",
+      "foil",
+      "diverging",
+      "coverings",
+      "capsules",
+      "prepackaged",
+      "switchover",
+      "turning",
+      "bottling",
+      "bottles",
+      "musts",
+      "abuses",
+      "interval",
+      "turkmenistan",
+      "uzbekistan",
+      "spirituous",
+      "reputation",
+      "tajikistan",
+      "oenological"
+    ],
+    "prompt_length": 1681,
+    "category": "2031 marketing"
+  }
+}

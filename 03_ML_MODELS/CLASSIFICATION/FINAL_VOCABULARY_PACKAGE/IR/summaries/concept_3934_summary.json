@@ -1,0 +1,63 @@
+{
+  "concept_id": "3934",
+  "concept_data": {
+    "title": "will",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "inheritance",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"will\" redirects to \"inheritance,\" which encompasses matters of succession and the creation of legal rights upon an individual's death. Jurisdiction over inheritance issues varies across member states, such as Denmark and Ireland, necessitating proper enforcement of decisions and recognition of certificates. The applicable law is often established through various instruments and protocols that ensure justice and security in inheritance cases. The European Parliament has implemented measures to facilitate the functioning of inheritance laws, providing clarity on the acceptance and position of wills. These articles are crucial for the effective administration of cross-border inheritance matters within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:53.099286",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 79,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 79,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2273.7796610169494
+    },
+    "related_words": [
+      "succession",
+      "jurisdiction",
+      "enforcement",
+      "freedom",
+      "acceptance",
+      "bound",
+      "certificate",
+      "recognition",
+      "creation",
+      "justice",
+      "forms",
+      "proper",
+      "denmark",
+      "matters",
+      "ireland",
+      "instruments",
+      "annexed",
+      "several",
+      "security",
+      "protocol",
+      "authentic",
+      "position",
+      "law",
+      "kingdom",
+      "decisions",
+      "area",
+      "adoption",
+      "united",
+      "taking",
+      "applicable"
+    ],
+    "prompt_length": 1686,
+    "category": "1211 civil law"
+  }
+}

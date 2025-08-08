@@ -1,0 +1,63 @@
+{
+  "concept_id": "1287",
+  "concept_data": {
+    "title": "island",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"island\" pertains to geographic entities characterized by insular features, often influencing environmental policies and regional development. Islands, such as the Hebrides and Scilly, face unique challenges, including intensified ecological vulnerabilities and socio-economic disadvantages. The EU designates outermost regions, which may include islands, to facilitate tailored support regimes. Regulatory frameworks often address issues like the authenticity of local products, including unleaded fuels and agricultural goods, while ensuring compliance with privacy and metadata standards. Additionally, the digitised management of resources on islands aids in monitoring health risks, such as viral infections or septicaemia, thus enhancing public health responses.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:19:43.622938",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 826,
+      "selected_avg_freq": 422.0466666666667
+    },
+    "related_words": [
+      "heamorrhagic",
+      "hematopoietc",
+      "gigha",
+      "scilly",
+      "clyde",
+      "isles",
+      "digitised",
+      "hebrides",
+      "unleaded",
+      "inner",
+      "metadata",
+      "ihn",
+      "legibility",
+      "vhs",
+      "septicaemia",
+      "necrosis",
+      "insular",
+      "privacy",
+      "cap",
+      "outer",
+      "moderate",
+      "handicaps",
+      "intensified",
+      "indices",
+      "aegean",
+      "petrol",
+      "induced",
+      "england",
+      "locally",
+      "electronically"
+    ],
+    "prompt_length": 1660,
+    "category": "5211 natural environment"
+  }
+}

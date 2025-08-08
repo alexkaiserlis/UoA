@@ -1,0 +1,63 @@
+{
+  "concept_id": "1423",
+  "concept_data": {
+    "title": "trade information",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"trade information\" within EU legal and regulatory frameworks encompasses a broad spectrum of data essential for ensuring compliance and transparency in marketing practices. It includes metadata related to products, such as the composition of reformulated items like lactoferrin capsules or unsaturated fats, and the regulatory requirements for unregistered goods. Trade information must be legible and equitably shared among federations to avoid misled messages about product quality. Additionally, it supports pharmacovigilance efforts, ensuring that utilities and industrials adhere to stringent regulations. The digitised nature of trade information facilitates the coexistence of diverse market players while enhancing consumer trust through diligent oversight and reformulation of products, such as sparkling beverages and floricultural goods.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:15:01.284564",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 860,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 261,
+      "selected_avg_freq": 122.74666666666667
+    },
+    "related_words": [
+      "tsgs",
+      "munster",
+      "géromé",
+      "münster",
+      "pointers",
+      "vetures",
+      "regulationwas",
+      "strangth",
+      "industrials",
+      "financials",
+      "reformulation",
+      "unregistered",
+      "pdos",
+      "pgis",
+      "käse",
+      "equities",
+      "lactoferrin",
+      "reformulated",
+      "equitably",
+      "digitised",
+      "deserve",
+      "unsaturated",
+      "pomace",
+      "utilities",
+      "interbranch",
+      "rounding",
+      "insurmountable",
+      "pharmacovigilance",
+      "enhancer",
+      "saturated"
+    ],
+    "prompt_length": 1715,
+    "category": "2031 marketing"
+  }
+}

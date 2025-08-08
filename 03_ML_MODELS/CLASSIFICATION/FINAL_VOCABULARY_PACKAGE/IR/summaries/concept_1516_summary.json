@@ -1,0 +1,63 @@
+{
+  "concept_id": "1516",
+  "concept_data": {
+    "title": "thermal insulation",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Thermal insulation is a critical component in the EU's regulatory framework for building and public works, aimed at enhancing energy efficiency and occupant comfort. By legislating standards for materials like gypsum, ceramics, and composite structures, the EU mandates the use of tailored insulation solutions in residential and tertiary sectors. This includes the use of geotextiles and solidification techniques to improve thermal performance. Approvals for insulation products must consider their impact on heating systems, such as boilers, and their compliance with safety regulations, including those related to radioactive materials. The ongoing phases of regulation imply a commitment to saving energy and reducing costs for occupiers, while also addressing onerous billing practices. As technologies evolve, including the use of electron microscopy for material analysis, the EU continues to elaborate on its strategies for effective thermal conditioning, ensuring that all occupants benefit from enhanced living conditions.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:10:47.735224",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 595,
+      "selected_avg_freq": 251.6
+    },
+    "related_words": [
+      "billing",
+      "occupiers",
+      "billed",
+      "etics",
+      "ojec",
+      "jsm",
+      "psem",
+      "solidification",
+      "geotextiles",
+      "jeol",
+      "microscope",
+      "legislate",
+      "gypsum",
+      "glasses",
+      "boschdijk",
+      "electron",
+      "occupants",
+      "ceramics",
+      "scanning",
+      "eindhoven",
+      "conditioning",
+      "insulation",
+      "boilers",
+      "residential",
+      "philips",
+      "kits",
+      "tertiary",
+      "implying",
+      "elaborated",
+      "acknowledging"
+    ],
+    "prompt_length": 1686,
+    "category": "6831 building and public works"
+  }
+}

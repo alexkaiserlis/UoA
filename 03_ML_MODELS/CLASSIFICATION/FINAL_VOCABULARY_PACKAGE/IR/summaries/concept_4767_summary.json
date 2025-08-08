@@ -1,0 +1,63 @@
+{
+  "concept_id": "4767",
+  "concept_data": {
+    "title": "travel",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"travel\" within EU legal and regulatory frameworks encompasses various aspects of movement across borders, particularly for nationals and residents. It includes regulations on visas, which facilitate crossings between Schengen and EFTA states, and provisions for repatriation of individuals. The EU's acquis establishes guidelines for consulates and diplomatic missions, ensuring that travellers possess necessary documentation, such as passports and visas. Specialized instructions govern the navigation of travel-related issues, including luggage allowances and subsistence requirements. The Tampere conclusions emphasize the need for closer cooperation among member states to streamline travel processes, enhancing the overall experience for individuals engaging in cross-border activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:46:52.614535",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 333,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1190,
+      "selected_avg_freq": 559.4066666666666
+    },
+    "related_words": [
+      "underwrite",
+      "consulates",
+      "sticker",
+      "crossed",
+      "repatriation",
+      "hospital",
+      "crossings",
+      "shops",
+      "consular",
+      "tampere",
+      "reserving",
+      "luggage",
+      "subsistence",
+      "ceuta",
+      "melilla",
+      "passports",
+      "flights",
+      "diplomatic",
+      "travellers",
+      "linking",
+      "visas",
+      "waive",
+      "officer",
+      "continental",
+      "visa",
+      "navigation",
+      "builds",
+      "specialized",
+      "possess",
+      "excise"
+    ],
+    "prompt_length": 1651,
+    "category": "2826 social affairs"
+  }
+}

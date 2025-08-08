@@ -1,0 +1,63 @@
+{
+  "concept_id": "1706",
+  "concept_data": {
+    "title": "protection against fire",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "fire protection",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"fire protection,\" as categorized under EU environmental policy, encompasses a range of measures aimed at safeguarding against fire hazards, particularly in forested tracts and urban settings. Effective fire protection strategies are essential for maintaining equilibria in ecosystems, especially in areas prone to overheating or unattended ignition sources. Regulatory frameworks address the use of combustible materials in construction, such as laminate flooring and wallcoverings, to mitigate risks. Firefighters are trained to extinguish flames in various environments, including woodland and buildings with complex façades. Compliance with standards like ASTM ensures that materials, including brominated substances and geotextiles, meet safety requirements. This redirect emphasizes the legal significance of \"fire protection\" in EU legislation, highlighting its role in preventing fire-related disasters and promoting public safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:57.372527",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 1302,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 85,
+      "selected_avg_freq": 33.08
+    },
+    "related_words": [
+      "equilibria",
+      "espcially",
+      "tracts",
+      "forested",
+      "burnt",
+      "carelessly",
+      "unattended",
+      "puffed",
+      "spaced",
+      "bumps",
+      "laminate",
+      "firefighters",
+      "eota",
+      "pentabde",
+      "slides",
+      "silviculture",
+      "abiotic",
+      "duct",
+      "façades",
+      "robin",
+      "overfilling",
+      "overheating",
+      "tsmax",
+      "tsmin",
+      "propensity",
+      "wallcoverings",
+      "jointing",
+      "sbi",
+      "finnsailor",
+      "bulkhead"
+    ],
+    "prompt_length": 1718,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3298",
+  "concept_data": {
+    "title": "distribution of the tax burden",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"distribution of the tax burden\" in EU legal and regulatory frameworks refers to the equitable allocation of taxation responsibilities among various occupations, including artists, authors, and technicians. This concept is crucial for ensuring that royalties and VAT are fairly assessed and collected, thereby preventing unjustified disparities. Historical analysis reveals that certain taxation methods have become obsolete, necessitating a disaggregation of tax structures to better reflect contemporary economic realities. For instance, the taxation of dental services or telecommunications must consider adjacent resources and the specific needs of different member states, such as the Croatian or Maltese contexts. The Ministry of Finance plays a pivotal role in calculating these percentages, ensuring that all parties, including bailiffs and notaries, are acknowledged in the taxation process. This approach aims to create a more renewable and sustainable tax system that is applicable across the EU, thereby enhancing fairness and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:31.898447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 146,
+    "vocabulary_stats": {
+      "total_related_words": 301,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1275,
+      "selected_avg_freq": 624.4733333333334
+    },
+    "related_words": [
+      "copyrights",
+      "dentists",
+      "notaries",
+      "bailiffs",
+      "technicians",
+      "prostheses",
+      "authors",
+      "artists",
+      "disaggregation",
+      "eighteenth",
+      "royalties",
+      "performers",
+      "dental",
+      "taxed",
+      "esa",
+      "occupation",
+      "whichever",
+      "postal",
+      "croatian",
+      "resource",
+      "approximate",
+      "buildings",
+      "passengers",
+      "accruing",
+      "adjacent",
+      "percentages",
+      "maltese",
+      "explicit",
+      "built",
+      "afforded"
+    ],
+    "prompt_length": 1721,
+    "category": "2446 taxation"
+  }
+}

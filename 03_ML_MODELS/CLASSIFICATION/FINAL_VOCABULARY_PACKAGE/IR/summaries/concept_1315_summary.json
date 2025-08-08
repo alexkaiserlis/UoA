@@ -1,0 +1,63 @@
+{
+  "concept_id": "1315",
+  "concept_data": {
+    "title": "flat-rate tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A flat-rate tax is a simplified taxation model within the EU, designed to reduce turbulence in tax compliance by imposing a uniform fee on income, regardless of the amount earned. This system aims to consolidate various chargeable incomes into a single rate, thereby minimizing the expenses incurred by individuals and businesses. By harmonizing tax regulations, the flat-rate tax facilitates intra-community trade and reduces disturbances related to varying national currencies. It also entails updating existing tax frameworks to ensure that all substances, including those related to agricultural products like poultrymeat and swine, are adequately inspected and charged. This approach temporarily alleviates the complexities of traditional tax systems while promoting a clearer understanding of tax obligations across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:15:31.606087",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 177,
+      "requested_words": 150,
+      "min_frequency_found": 24,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 24,
+      "selected_max_freq": 2894,
+      "selected_avg_freq": 1340.1933333333334
+    },
+    "related_words": [
+      "turbulence",
+      "commuity",
+      "occuring",
+      "thyrostatic",
+      "hormonal",
+      "consolidating",
+      "slaughtering",
+      "slaughterhouse",
+      "entailed",
+      "converting",
+      "chargeable",
+      "cutting",
+      "fee",
+      "fees",
+      "depth",
+      "slaughtered",
+      "understood",
+      "imposes",
+      "poultrymeat",
+      "currencies",
+      "disturbances",
+      "expenses",
+      "residues",
+      "ecus",
+      "swine",
+      "derogate",
+      "inspections",
+      "harmonized",
+      "updating",
+      "bovine"
+    ],
+    "prompt_length": 1687,
+    "category": "2446 taxation"
+  }
+}

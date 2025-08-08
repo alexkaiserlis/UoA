@@ -1,0 +1,63 @@
+{
+  "concept_id": "1812",
+  "concept_data": {
+    "title": "regulated market",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "official market",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory frameworks, a \"regulated market,\" also referred to as the \"official market,\" encompasses trading venues where issuers must adhere to stringent accountability and disclosure requirements. These markets facilitate the dissemination of information regarding financial instruments, ensuring that all stakeholders, including auditors and makers, can scrutinise filings and statements effectively. The regulated environment promotes independence and transparency, essential for maintaining investor confidence. Additionally, the cycle of trading involves procedural intervals that allow for the evaluation of novel financial products, including those related to nutritional supplements and minerals. This structured approach aids in the acquisition of ferrous and phosphate ingredients, ensuring compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:37.342433",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 270,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1552,
+      "selected_avg_freq": 766.2466666666667
+    },
+    "related_words": [
+      "solo",
+      "nestec",
+      "cantox",
+      "condensed",
+      "learnt",
+      "scrutinise",
+      "filing",
+      "sciences",
+      "issuer",
+      "makers",
+      "auditor",
+      "elaborate",
+      "issuers",
+      "ferrous",
+      "vitamins",
+      "phosphate",
+      "minerals",
+      "accountability",
+      "voting",
+      "novel",
+      "ammonium",
+      "nutritional",
+      "delegation",
+      "ingredient",
+      "transposed",
+      "upper",
+      "deleting",
+      "supplements",
+      "independence",
+      "usual"
+    ],
+    "prompt_length": 1706,
+    "category": "2411 monetary economics"
+  }
+}

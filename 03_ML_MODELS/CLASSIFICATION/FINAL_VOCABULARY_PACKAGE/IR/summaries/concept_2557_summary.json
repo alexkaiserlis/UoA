@@ -1,0 +1,63 @@
+{
+  "concept_id": "2557",
+  "concept_data": {
+    "title": "chemical weapon",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"chemical weapon\" is paramount in EU legal and regulatory frameworks, particularly concerning disarmament and the prevention of proliferation. The EU strongly condemns the misuse of such weapons, as evidenced by its response to the Syrian conflict, where the use of chemical weapons against civilians has been a significant outrage. The Chemical Weapons Convention (CWC) serves as a critical instrument, overseen by the Organisation for the Prohibition of Chemical Weapons (OPCW), which emphasizes verifiable disarmament and stockpiling regulations. The EU, through its communiqué, reminds member states of their accountable roles in delivering on commitments, while also endorsing efforts to freeze stockpiling and convene discussions under the auspices of the United Nations Security Council (UNSC) to address these daunting challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:30.418785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 375,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 856,
+      "selected_avg_freq": 362.7733333333333
+    },
+    "related_words": [
+      "outrage",
+      "rif",
+      "damascus",
+      "cwc",
+      "daunting",
+      "communiqué",
+      "civilians",
+      "overseeing",
+      "condemning",
+      "dec",
+      "affirming",
+      "emphasising",
+      "opcw",
+      "sanitation",
+      "perhaps",
+      "instrumental",
+      "endorsing",
+      "shelter",
+      "disarmament",
+      "stockpiling",
+      "convene",
+      "syrian",
+      "posing",
+      "condemned",
+      "paramount",
+      "reminded",
+      "history",
+      "accountable",
+      "unscr",
+      "illegally"
+    ],
+    "prompt_length": 1662,
+    "category": "0821 defence"
+  }
+}

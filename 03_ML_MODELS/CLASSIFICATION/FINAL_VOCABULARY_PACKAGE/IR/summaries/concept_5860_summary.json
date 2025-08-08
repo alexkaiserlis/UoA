@@ -1,0 +1,63 @@
+{
+  "concept_id": "5860",
+  "concept_data": {
+    "title": "Czechia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Czechia, officially recognized as the Czech Republic, is a significant entity in EU political geography, influencing various regulatory frameworks. The Czechgovernment, under leaders like Tomáš and Luboš, navigates complex legal landscapes, addressing issues from environmental regulations to trade agreements. Notable figures such as Jaroslav and Květa contribute to legislative processes, while the region's historical context, including the Karlovy Vary (Karlovarské) spa traditions, enriches its cultural identity. The interplay of local governance, exemplified by representatives like Stanislav and Milada, shapes Czechia's compliance with EU directives. Furthermore, discussions around topics like the Gandalovič reforms highlight the dynamic nature of Czechia's legal environment, impacting both domestic and EU-wide policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:30:13.990107",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2451,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 14,
+      "selected_avg_freq": 6.66
+    },
+    "related_words": [
+      "kosatík",
+      "czechgovernment",
+      "chovanec",
+      "gandalovič",
+      "jaroslav",
+      "hanák",
+      "langšádlová",
+      "tomáš",
+      "úlehla",
+      "květa",
+      "halanová",
+      "luboš",
+      "průša",
+      "tesařík",
+      "bytel",
+      "pavel",
+      "bém",
+      "milada",
+      "emmerová",
+      "oldřich",
+      "vlasák",
+      "duchoň",
+      "slavík",
+      "bohuslav",
+      "svoboda",
+      "stanislav",
+      "juránek",
+      "evžen",
+      "tošenovský",
+      "zahradník"
+    ],
+    "prompt_length": 1634,
+    "category": "7236 political geography"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "1992",
+  "concept_data": {
+    "title": "perinatal mortality",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "infant mortality",
+    "relation_type": "USE"
+  },
+  "summary": "Perinatal mortality, often redirected to the preferred term \"infant mortality,\" refers to the death of a fetus or neonate during the perinatal period, which encompasses late pregnancy and the first week of life. In the context of EU legal and regulatory frameworks, understanding perinatal mortality is crucial for developing public health policies aimed at improving maternal and infant health outcomes. The European Union monitors these statistics to inform health directives and allocate resources effectively. By addressing the factors contributing to perinatal mortality, the EU aims to enhance demographic stability and promote population health, thereby fulfilling its commitment to safeguarding human rights and welfare.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:02:40.963487",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1220,
+    "category": "2816 demography and population"
+  }
+}

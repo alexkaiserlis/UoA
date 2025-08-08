@@ -1,0 +1,63 @@
+{
+  "concept_id": "2654",
+  "concept_data": {
+    "title": "price of energy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"price of energy\" is a critical concept within EU energy policy, influencing localities and corporations engaged in hydroelectric and coalmining sectors. Theoretically, energy prices are negotiable and can vary steeply based on market dynamics, terrain, and investment in renewable sources. Regulatory frameworks necessitate alterations to existing contracts, ensuring that stakeholders, such as shareholdings in charbonnages, adapt to fluctuating costs. The EU aims to renovate energy systems, addressing adversey impacts on local economies and promoting sustainable practices. This includes considerations for rental agreements and concessions in energy production, reminding stakeholders of the importance of efficient resource allocation across diverse grades and locations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:42:03.439220",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 530,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 657,
+      "selected_avg_freq": 290.44
+    },
+    "related_words": [
+      "modane",
+      "mauro",
+      "chiabrando",
+      "sofirem",
+      "sloping",
+      "adversey",
+      "seekers",
+      "hydroelectric",
+      "steeply",
+      "savoy",
+      "canton",
+      "locality",
+      "gift",
+      "charbonnages",
+      "renovate",
+      "département",
+      "theoretically",
+      "negotiable",
+      "localities",
+      "pat",
+      "coalmining",
+      "vague",
+      "coalfields",
+      "terrain",
+      "shareholdings",
+      "corporations",
+      "rental",
+      "rent",
+      "overlapping",
+      "hydraulic"
+    ],
+    "prompt_length": 1672,
+    "category": "6606 energy policy"
+  }
+}

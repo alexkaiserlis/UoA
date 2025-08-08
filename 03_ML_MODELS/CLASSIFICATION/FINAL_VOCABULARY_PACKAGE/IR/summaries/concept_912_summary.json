@@ -1,0 +1,63 @@
+{
+  "concept_id": "912",
+  "concept_data": {
+    "title": "Southern Europe",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Southern Europe\" within EU legal and regulatory frameworks encompasses a region characterized by diverse political and economic circumstances. It is often addressed in the context of the Common Foreign and Security Policy (CFSP), where appointed representatives and ministers engage in consultations to establish stability and cooperation. The OSCE plays a role in coordinating actions among participants. In various documents, the EU deems it necessary to adopt joint pacts that confirm appointments and outline the responsibilities of the chairman and other officials. Such agreements aim to address issues pertinent to Southern Europe, ensuring that appropriate measures are taken in response to evolving challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:09:07.500308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 61,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 61,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1738.9344262295083
+    },
+    "related_words": [
+      "osce",
+      "coordinator",
+      "pact",
+      "deems",
+      "nomination",
+      "appoint",
+      "confirming",
+      "appointing",
+      "appointment",
+      "ministers",
+      "participants",
+      "cfsp",
+      "eastern",
+      "character",
+      "south",
+      "appointed",
+      "stability",
+      "foreign",
+      "chairman",
+      "consultations",
+      "immediately",
+      "office",
+      "representative",
+      "called",
+      "soon",
+      "temporary",
+      "europe",
+      "together",
+      "agreed",
+      "consultation"
+    ],
+    "prompt_length": 1646,
+    "category": "7206 Europe"
+  }
+}

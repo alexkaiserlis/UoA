@@ -1,0 +1,63 @@
+{
+  "concept_id": "632",
+  "concept_data": {
+    "title": "environmental science",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "ecology",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"environmental science,\" redirected to \"ecology,\" encompasses the study of interactions within ecosystems, emphasizing the importance of ecological perspectives in EU legal and regulatory frameworks. This field recognizes the significance of transboundary environmental issues, necessitating concerted efforts among governmental actors and NGOs. Regulations often involve the finalisation of eco-labels for products like detergents and dishwashers, promoting awareness and sustainability. The EU encourages donations and subsidies for projects that improve soil health and ecological balance. Moreover, the discontinuation of superfluous practices is vital for prolonging environmental integrity, ensuring that all stakeholders are coordinated in achieving common goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:30:48.996228",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 397,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1070,
+      "selected_avg_freq": 541.9533333333334
+    },
+    "related_words": [
+      "enclosing",
+      "donations",
+      "subordinate",
+      "dishwashers",
+      "improvers",
+      "ngos",
+      "eighteen",
+      "openness",
+      "detergents",
+      "finalisation",
+      "awards",
+      "possessing",
+      "accepts",
+      "superfluous",
+      "discontinuation",
+      "tissue",
+      "transboundary",
+      "eco",
+      "prolonging",
+      "recognizes",
+      "cleaning",
+      "emerging",
+      "perspectives",
+      "governmental",
+      "actors",
+      "fee",
+      "demonstration",
+      "cited",
+      "ecological",
+      "channel"
+    ],
+    "prompt_length": 1728,
+    "category": "3606 natural and applied sciences"
+  }
+}

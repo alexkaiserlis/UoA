@@ -1,0 +1,63 @@
+{
+  "concept_id": "3024",
+  "concept_data": {
+    "title": "information storage",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information storage\" encompasses the methodologies and technologies employed to retain data within various substrates, including microcircuits and RAMs. In the EU legal context, it is crucial for stakeholders to understand the implications of data storage systems, which evolve to accommodate increasing volumes of information. These systems, often classified by their architecture—such as monolithic or stacked assemblies—must ensure the secure retrieval of bits while adhering to regulations governing data protection. The preamble of relevant legislation invites scrutiny of the advisability of passive versus active storage solutions, focusing on the dimensions of memory and circuit design. Providers are tasked with documenting their processes to avoid prosecution for data breaches, ensuring that both the exterior and interior housing of machines comply with established standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:36.026857",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 360,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 978,
+      "selected_avg_freq": 406.5733333333333
+    },
+    "related_words": [
+      "rams",
+      "monolithic",
+      "pins",
+      "microcircuit",
+      "fead",
+      "bits",
+      "stacked",
+      "retrieve",
+      "microcircuits",
+      "evolve",
+      "mos",
+      "memories",
+      "memory",
+      "substrate",
+      "substrates",
+      "says",
+      "insulating",
+      "trail",
+      "classifies",
+      "telephony",
+      "exterior",
+      "focusing",
+      "static",
+      "assemblies",
+      "mounted",
+      "layers",
+      "prosecution",
+      "accessories",
+      "circuits",
+      "passive"
+    ],
+    "prompt_length": 1703,
+    "category": "3236 information technology and data processing"
+  }
+}

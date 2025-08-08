@@ -1,0 +1,63 @@
+{
+  "concept_id": "5070",
+  "concept_data": {
+    "title": "simplification of administrative formalities",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "administrative formalities",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"simplification of administrative formalities,\" redirecting to \"administrative formalities,\" pertains to the EU's efforts to streamline processes within executive power and public service. This initiative aims to reduce bureaucratic burdens, enhancing workflow efficiency and fostering a more trusted environment for stakeholders. By devolving complex procedures, the EU seeks to ensure that administrative tasks, such as the registration of organisms or the approval of substances like metobromuron and tetraconazole, are more processable. Simplification can also mitigate irritancy in compliance, allowing entities like Zoetis and Belchim to operate with greater ease, ultimately liberalising access to essential services and fostering innovation in agriscience.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:37:09.782109",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 3005,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 7.426666666666667
+    },
+    "related_words": [
+      "lineseed",
+      "handwritten",
+      "zoetis",
+      "metobromuron",
+      "belchim",
+      "agriscience",
+      "très",
+      "confidentiel",
+      "confident",
+      "cognisance",
+      "studios",
+      "exort",
+      "workflow",
+      "fairground",
+      "liberalises",
+      "exidence",
+      "organsims",
+      "helium",
+      "xenon",
+      "galactose",
+      "frits",
+      "flammability",
+      "irritancy",
+      "tetraconazole",
+      "diethofencarb",
+      "dfc",
+      "vivagro",
+      "dnel",
+      "pnec",
+      "caged"
+    ],
+    "prompt_length": 1781,
+    "category": "0436 executive power and public service"
+  }
+}

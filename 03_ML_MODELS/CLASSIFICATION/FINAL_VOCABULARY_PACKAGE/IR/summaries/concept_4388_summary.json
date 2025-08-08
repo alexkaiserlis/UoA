@@ -1,0 +1,63 @@
+{
+  "concept_id": "4388",
+  "concept_data": {
+    "title": "bull",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"bull\" refers to male cattle, particularly those reared for agricultural production. The concept encompasses various breeds, such as Simmental and Pinzgau, which are documented in herdbooks that certify pedigree and suitability for breeding. Regulatory frameworks often require tags for identification, ensuring traceability from birth to exhibitions and fairs. Specific denominations, like the Camargue or Schwyz, highlight breed characteristics. Legal provisions may also govern the initial assignment of bulls to herds, with permissions needed for breeding practices. The regulation of fighting bulls, aged animals, and their carcasses further illustrates the complexity of agricultural nomenclatures within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:44:25.722029",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 589,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 566,
+      "selected_avg_freq": 271.44666666666666
+    },
+    "related_words": [
+      "certifiying",
+      "inital",
+      "othelr",
+      "taureau",
+      "herdbook",
+      "tag",
+      "unbinds",
+      "schwyz",
+      "fribourg",
+      "camargue",
+      "mottled",
+      "simmental",
+      "pinzgau",
+      "comparatively",
+      "grey",
+      "unter",
+      "pedigree",
+      "acknowledge",
+      "tags",
+      "exhibitions",
+      "nomenclatures",
+      "sporting",
+      "heifers",
+      "ear",
+      "fairs",
+      "bulls",
+      "alpine",
+      "breed",
+      "book",
+      "circumstance"
+    ],
+    "prompt_length": 1640,
+    "category": "5626 means of agricultural production"
+  }
+}

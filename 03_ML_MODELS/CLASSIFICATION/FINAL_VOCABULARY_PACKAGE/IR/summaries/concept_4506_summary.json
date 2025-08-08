@@ -1,0 +1,63 @@
+{
+  "concept_id": "4506",
+  "concept_data": {
+    "title": "rail-road transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "combined transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rail-road transport,\" which redirects to \"combined transport,\" is pivotal in EU regulatory frameworks aimed at enhancing intermodality and reducing polluting emissions. This bimodal approach facilitates the synchronized movement of goods across various legs of transport, including rail and road, thereby addressing the challenges of landlocked regions and decongestion of urban areas. The EU promotes multimodal projects that reinforce efficient transshipments, ensuring that hauliers can optimize journeys nationwide. Legal provisions support the amortisation of infrastructure investments, while cabotage regulations govern the hiring of transport services. By stimulating interland connections, the EU fosters a more sustainable transport network, crucial for regions like Friuli Venezia Giulia.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:17:19.866670",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1001,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 229,
+      "selected_avg_freq": 105.64666666666666
+    },
+    "related_words": [
+      "aternative",
+      "bimodal",
+      "intermodality",
+      "exent",
+      "projets",
+      "córas",
+      "iompair",
+      "éireann",
+      "interland",
+      "decongestion",
+      "tren",
+      "venizia",
+      "intermodally",
+      "reconditioned",
+      "transshipment",
+      "amortisation",
+      "moveable",
+      "multimodal",
+      "overland",
+      "win",
+      "landlocked",
+      "transshipments",
+      "modal",
+      "hauliers",
+      "nationwide",
+      "freed",
+      "inaugural",
+      "doubted",
+      "preselected",
+      "intermodal"
+    ],
+    "prompt_length": 1753,
+    "category": "4811 organisation of transport"
+  }
+}

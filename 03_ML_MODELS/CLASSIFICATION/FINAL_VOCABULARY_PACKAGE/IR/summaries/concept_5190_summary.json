@@ -1,0 +1,63 @@
+{
+  "concept_id": "5190",
+  "concept_data": {
+    "title": "videophone",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "video communications",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"videophone,\" categorized under communications, is redirected to the preferred term \"video communications.\" This classification is significant in the context of EU regulations concerning the installation and operation of video conferencing systems. Various measures, including customs tariffs and statistical codes, have been agreed upon to facilitate the trade of goods related to video communications. The nomenclature and classification of these components are crucial for ensuring compliance with EEC regulations. Official opinions from the committee have provided guidance on the interpretation of these terms, amending previous regulations to reflect the evolving technological landscape. Consequently, video communications have become a vital aspect of the EU's regulatory framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:27:29.108693",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 57,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 57,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2252.3333333333335
+    },
+    "related_words": [
+      "conferencing",
+      "diskettes",
+      "video",
+      "classifications",
+      "incorrect",
+      "installation",
+      "note",
+      "consisting",
+      "components",
+      "interpretation",
+      "nomenclature",
+      "led",
+      "classification",
+      "chapter",
+      "combined",
+      "tariff",
+      "statistical",
+      "code",
+      "agreed",
+      "customs",
+      "fact",
+      "goods",
+      "various",
+      "considered",
+      "effect",
+      "including",
+      "system",
+      "since",
+      "view",
+      "accordingly"
+    ],
+    "prompt_length": 1701,
+    "category": "3226 communications"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1661",
+  "concept_data": {
+    "title": "Province of Limbourg",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Province of Limbourg, situated in Belgium, is a significant region within the EU Member States, particularly in the context of regional development frameworks. It is governed by statutory regulations that guide the allocation of funds from the European Social Fund (ESF) and the European Regional Development Fund (ERDF). These funds are indexed to inflation, ensuring that financial commitments remain relevant. The province adopts various programming patterns to enhance economic readiness and fulfill the intent of EU policies. Additionally, Limbourg plays a pivotal role in evaluating projects, satisfying the criteria for loans and appropriations, while contributing to the broader objectives of regional cohesion and development.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:31.989665",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 344,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1202,
+      "selected_avg_freq": 721.8733333333333
+    },
+    "related_words": [
+      "comitments",
+      "flanders",
+      "flemish",
+      "limburg",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "province",
+      "adopts",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees",
+      "statutory",
+      "loan",
+      "allocations",
+      "ecus"
+    ],
+    "prompt_length": 1691,
+    "category": "7211 regions of EU Member States"
+  }
+}

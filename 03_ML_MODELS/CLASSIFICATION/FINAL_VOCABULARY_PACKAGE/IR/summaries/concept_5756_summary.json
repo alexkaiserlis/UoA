@@ -1,0 +1,63 @@
+{
+  "concept_id": "5756",
+  "concept_data": {
+    "title": "observer status",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "observer",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"observer status\" refers to a designation granted to entities, such as countries or organizations, allowing them to participate in discussions and meetings without full membership rights. This status is crucial in forums like the OSCE and the Cotonou Agreement, where observers can engage in electoral processes and consultative assemblies. For instance, countries like Liechtenstein and Iceland have sought observer roles in various international affairs. The modalities for granting observer status often involve initialling agreements and specifying the representation of observers, which can include depositaries and employers. This status plays a significant role in the enlargement process and facilitates dialogue among diverse stakeholders, including those from the Caribbean and Pacific regions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:27.341451",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 244,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1785,
+      "selected_avg_freq": 845.14
+    },
+    "related_words": [
+      "srpska",
+      "depositaries",
+      "republika",
+      "osce",
+      "ouagadougou",
+      "electoral",
+      "discussing",
+      "dublin",
+      "observer",
+      "asylum",
+      "initialling",
+      "smart",
+      "observers",
+      "sudan",
+      "cotonou",
+      "elections",
+      "employers",
+      "twice",
+      "agenda",
+      "modalities",
+      "liechtenstein",
+      "deposit",
+      "consultative",
+      "forum",
+      "arisen",
+      "bosnia",
+      "herzegovina",
+      "caribbean",
+      "employees",
+      "pacific"
+    ],
+    "prompt_length": 1720,
+    "category": "0806 international affairs"
+  }
+}

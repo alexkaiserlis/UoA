@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_433922a6",
+  "concept_data": {
+    "title": "software as a service",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "cloud computing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"software as a service\" (SaaS) is a pivotal element within the broader category of \"cloud computing,\" which serves as its preferred term. In the context of EU legal and regulatory frameworks, SaaS encompasses the delivery of software applications over the internet, facilitating access without the need for local installation. This model raises significant considerations regarding data protection, particularly under the General Data Protection Regulation (GDPR), as it involves the processing and storage of personal data in cloud environments. Regulatory compliance, security standards, and cross-border data flows are critical aspects that EU entities must navigate when engaging with SaaS solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:41:40.557833",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1238,
+    "category": "3236 information technology and data processing"
+  }
+}

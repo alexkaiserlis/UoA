@@ -1,0 +1,63 @@
+{
+  "concept_id": "4828",
+  "concept_data": {
+    "title": "commodity agreement",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"commodity agreement\" refers to a formal arrangement between nations that governs the trade of specific commodities, such as coffee, sugar, and jute. In the context of EU legal and regulatory frameworks, these agreements often involve negotiations that foster consensus on tariffs, quotas, and other trade conditions. They are regularly discussed in sessions led by a designated secretary and may require ratification by member states. The agreements incorporate harmonized nomenclatures and coding systems, like TARIC, to facilitate trade. As agreements expire, nations must notify each other regarding renewal or amendments to ensure compliance with established jurisdiction and maintain trade flows.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:36.797393",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 182,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 2870,
+      "selected_avg_freq": 1282.74
+    },
+    "related_words": [
+      "agreemnt",
+      "jute",
+      "nomenclatures",
+      "depository",
+      "coffee",
+      "nimexe",
+      "grains",
+      "consensus",
+      "vote",
+      "deposited",
+      "coding",
+      "taric",
+      "subdivisions",
+      "commodities",
+      "discussed",
+      "foster",
+      "commodity",
+      "incorporating",
+      "negotiation",
+      "session",
+      "successive",
+      "secretary",
+      "expiring",
+      "ratification",
+      "exporter",
+      "tariffs",
+      "simultaneously",
+      "importer",
+      "remained",
+      "came"
+    ],
+    "prompt_length": 1691,
+    "category": "2021 international trade"
+  }
+}

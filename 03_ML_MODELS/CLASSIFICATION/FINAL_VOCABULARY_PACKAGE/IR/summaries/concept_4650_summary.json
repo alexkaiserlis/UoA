@@ -1,0 +1,63 @@
+{
+  "concept_id": "4650",
+  "concept_data": {
+    "title": "calf",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU regulatory frameworks, the term \"calf\" pertains to livestock production, specifically concerning the management and welfare of young bovines. Regulations stipulate the housing conditions for calves, ensuring they are penned in environments that warrant their health and growth. The tagging of calves with eartags is mandated for traceability, facilitating the monitoring of their health status and movements. Legal provisions also address the feeding of suckling calves, emphasizing the importance of mixes that include lactosan and lactobacillus for optimal development. Compliance with these rules is essential to avert health risks, such as peste, and to maintain the efficacy of livestock production systems across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:47.359825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1105,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 202,
+      "selected_avg_freq": 92.78
+    },
+    "related_words": [
+      "quantitioes",
+      "ruels",
+      "penned",
+      "regulatiion",
+      "cokg",
+      "oberstdorf",
+      "chr",
+      "tagged",
+      "iga",
+      "dihydrochalcone",
+      "suckling",
+      "lactosan",
+      "mixes",
+      "kleinwalsertal",
+      "neohesperidine",
+      "tagging",
+      "packagings",
+      "ppr",
+      "kerry",
+      "unintentionally",
+      "averted",
+      "kids",
+      "peste",
+      "housed",
+      "buttermilk",
+      "rigidity",
+      "hansen",
+      "rhamnosus",
+      "enterococcus",
+      "faecium"
+    ],
+    "prompt_length": 1660,
+    "category": "5626 means of agricultural production"
+  }
+}

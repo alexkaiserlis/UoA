@@ -1,0 +1,63 @@
+{
+  "concept_id": "3971",
+  "concept_data": {
+    "title": "police inquiry",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "judicial inquiry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"police inquiry,\" which redirects to \"judicial inquiry,\" is pivotal in EU legal frameworks, particularly concerning the prosecution of serious crimes such as genocide and war crimes. Judicial inquiries are essential for investigating violations of human rights and ensuring that perpetrators are brought to justice, thereby preventing impunity. The EU emphasizes the need for effective cooperation among jurisdictions, enhancing transnational enforcement networks to confront unpunished crimes. By ratifying international statutes, member states commit to investigating and prosecuting suspected offenders, recalling the responsibilities established by tribunals for Rwanda and Yugoslavia. This collaborative approach aims to uphold humanity and ensure successful outcomes in criminal justice.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:21:46.718344",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1384.695652173913
+    },
+    "related_words": [
+      "genocide",
+      "prosecuting",
+      "affirms",
+      "unpunished",
+      "impunity",
+      "perpetrators",
+      "prosecuted",
+      "humanity",
+      "rwanda",
+      "tribunals",
+      "crimes",
+      "reside",
+      "emphasises",
+      "trying",
+      "prosecution",
+      "confronted",
+      "war",
+      "recalls",
+      "jurisdictions",
+      "immigration",
+      "investigating",
+      "rome",
+      "transnational",
+      "violations",
+      "ratified",
+      "interference",
+      "participated",
+      "residence",
+      "investigated",
+      "jha"
+    ],
+    "prompt_length": 1752,
+    "category": "1221 justice"
+  }
+}

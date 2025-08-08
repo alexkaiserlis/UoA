@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_4ee83dea",
+  "concept_data": {
+    "title": "health technology",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"health technology\" encompasses a broad range of tools, devices, and methodologies designed to enhance healthcare delivery and patient outcomes within the European Union. In the context of EU legal and regulatory frameworks, health technology is subject to stringent assessment processes to ensure safety, efficacy, and compliance with established standards. Regulatory bodies, such as the European Medicines Agency (EMA) and the European Commission, play pivotal roles in the evaluation and authorization of health technologies, including medical devices and digital health solutions. This regulatory oversight aims to foster innovation while safeguarding public health across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:41.813673",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1163,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "922",
+  "concept_data": {
+    "title": "financial grant",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "financial aid",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"financial grant,\" redirected to \"financial aid,\" refers to resources allocated to support various initiatives, including deprogrammed projects and demilitarisation efforts. These grants often embody concessionality, aiming to stabilize economies facing glaring challenges, such as those in Dayton or Tajik regions. The EU's toolkit for financial aid includes pledges to uncommitted associations, enhancing their capacity to automate processes and address preoccupying issues like norovirus outbreaks. By servicing these grants effectively, the EU can mitigate overhangs in funding, ensuring that unserviceable projects are revitalized, ultimately fostering a receptive environment for growth and cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:51:03.470734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 4345,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 7.3533333333333335
+    },
+    "related_words": [
+      "deprogrammed",
+      "dayton",
+      "bretton",
+      "uncommitted",
+      "treatened",
+      "declaratory",
+      "unserviceable",
+      "pfp",
+      "epca",
+      "overhang",
+      "serviced",
+      "pedip",
+      "tirreno",
+      "siderpotenza",
+      "laible",
+      "mentally",
+      "salonica",
+      "underwear",
+      "automate",
+      "assocations",
+      "monaghan",
+      "tajik",
+      "preoccupying",
+      "norovirus",
+      "nvs",
+      "pledges",
+      "concessionality",
+      "receptive",
+      "demilitarisation",
+      "namsa"
+    ],
+    "prompt_length": 1754,
+    "category": "0811 cooperation policy"
+  }
+}

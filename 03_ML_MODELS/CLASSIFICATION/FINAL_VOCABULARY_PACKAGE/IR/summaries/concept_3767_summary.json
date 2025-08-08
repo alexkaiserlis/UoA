@@ -1,0 +1,63 @@
+{
+  "concept_id": "3767",
+  "concept_data": {
+    "title": "petroleum production",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Petroleum production encompasses the exploration and extraction of hydrocarbons, particularly in the context of the EU's regulatory framework. Major players, such as ExxonMobil and Shell, engage in prospection and production activities in regions like the Nordzee and Greenland. The EU regulates these activities to ensure competition and protect consumer interests, as overseen by bodies like Forbrugerstyrelsen. Licensees often form consortiums to explore undeveloped fields, contesting for rights to produce thousands of barrels. The regulatory landscape is influenced by mergers and ventures that can impact market dynamics, with variables such as cubic metres and unsuitable sites affecting operational decisions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:25.634785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 387,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 769,
+      "selected_avg_freq": 321.20666666666665
+    },
+    "related_words": [
+      "mærsk",
+      "olie",
+      "hess",
+      "nordzee",
+      "altinex",
+      "noreco",
+      "discoveries",
+      "undeveloped",
+      "konkurrence",
+      "forbrugerstyrelsen",
+      "wintershall",
+      "aps",
+      "dong",
+      "majors",
+      "exxonmobil",
+      "barrels",
+      "licensees",
+      "prospection",
+      "vertically",
+      "contests",
+      "looking",
+      "consortium",
+      "super",
+      "cubic",
+      "obviously",
+      "big",
+      "thousand",
+      "unrestricted",
+      "venture",
+      "outset"
+    ],
+    "prompt_length": 1669,
+    "category": "6616 oil industry"
+  }
+}

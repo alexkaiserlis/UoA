@@ -1,0 +1,63 @@
+{
+  "concept_id": "6263",
+  "concept_data": {
+    "title": "evaluation method",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"evaluation method\" in the context of EU legal and regulatory frameworks pertains to systematic approaches for assessing research and intellectual property, particularly in sectors like bioenergy and bioliquids. This method encompasses various apparatuses and equations for measuring parameters such as GHG emissions and feedstocks' sustainability. It integrates standards from organizations like RSB and ISCC, ensuring compliance with regulations on bioenergy production. The evaluation also involves analyzing analytes related to food safety, such as Salmonellosis and Enteritidis, using techniques like spectrometry. By employing frameworks like Bonsucro and Redcert, the method facilitates the annualised assessment of biograce and HVO, promoting sustainable practices while addressing invasive species and their impacts on ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:53:57.982541",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 979,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 156,
+      "selected_avg_freq": 65.30666666666667
+    },
+    "related_words": [
+      "biograce",
+      "ghg",
+      "hadar",
+      "virchow",
+      "hvo",
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "ensus",
+      "phagetyping",
+      "greenergy",
+      "abengoa",
+      "rbsa",
+      "nta",
+      "condensates",
+      "incalculable",
+      "tentative",
+      "redcert",
+      "roundtable",
+      "feedstocks",
+      "irmm",
+      "analytes",
+      "infantis",
+      "hennessy",
+      "aoac",
+      "bioenergy",
+      "combinable",
+      "autofom",
+      "libraries",
+      "siting"
+    ],
+    "prompt_length": 1663,
+    "category": "6416 research and intellectual property"
+  }
+}

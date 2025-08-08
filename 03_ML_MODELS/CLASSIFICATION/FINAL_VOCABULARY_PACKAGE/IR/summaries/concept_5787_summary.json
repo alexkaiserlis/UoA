@@ -1,0 +1,63 @@
+{
+  "concept_id": "5787",
+  "concept_data": {
+    "title": "programming of Community expenditure",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "multiannual financial framework",
+    "relation_type": "USE"
+  },
+  "summary": "The \"programming of Community expenditure,\" often redirected to the term \"multiannual financial framework,\" refers to the structured allocation of EU budgetary appropriations over a multi-year period. This mechanism ensures that financial commitments are respected and adapted to changing circumstances, such as crises. It involves submitting forecasts and reviewing outturns to indicate the distribution of funds, which are ceiling-bound. Each year, payments are committed and transferred, with a focus on improving efficiency. The framework also includes provisions for excess reserves and mechanisms to address delays, ensuring that farmers and other stakeholders are financed appropriately, irrespective of national contexts like Croatia, Bulgaria, and Romania.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:37:14.027181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 2647,
+      "selected_avg_freq": 1365.44
+    },
+    "related_words": [
+      "irrespectively",
+      "outturn",
+      "crises",
+      "voting",
+      "perspective",
+      "possession",
+      "forecasts",
+      "late",
+      "discipline",
+      "submitting",
+      "sub",
+      "interinstitutional",
+      "calendar",
+      "appropriations",
+      "gradual",
+      "paragraphs",
+      "farmers",
+      "ceilings",
+      "croatia",
+      "excess",
+      "fifth",
+      "respected",
+      "reserve",
+      "transferred",
+      "committed",
+      "exceeded",
+      "financed",
+      "beginning",
+      "delay",
+      "ceiling"
+    ],
+    "prompt_length": 1753,
+    "category": "1021 EU finance"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1674",
+  "concept_data": {
+    "title": "receivership",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Receivership is a legal process initiated when a business faces insolvency, wherein a receiver or liquidator is appointed to manage the company's assets and affairs. This process involves winding up operations and ensuring that creditors are notified and paid according to their claims. In the EU context, receivership proceedings are subject to national legislation, which may vary across member states like Lithuania, Luxembourg, Cyprus, and Poland. The adoption of relevant EU directives and amendments provides a framework for the functioning of receivership, ensuring that all parties are bound by the same principles. Articles and annexes within these protocols outline the procedures and notifications required, thereby facilitating a uniform approach across the United Kingdom, Greece, Italy, Denmark, Ireland, and Portugal. Consequently, the application of receivership is pivotal in managing distressed businesses, ensuring compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:26:15.648343",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 64,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 64,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2127.75
+    },
+    "related_words": [
+      "liquidators",
+      "winding",
+      "insolvency",
+      "designations",
+      "proceedings",
+      "replacing",
+      "bound",
+      "lithuania",
+      "luxembourg",
+      "cyprus",
+      "poland",
+      "subsequently",
+      "lists",
+      "greece",
+      "italy",
+      "denmark",
+      "ireland",
+      "notification",
+      "portugal",
+      "virtue",
+      "annexes",
+      "annexed",
+      "applies",
+      "protocol",
+      "amendments",
+      "legislation",
+      "position",
+      "kingdom",
+      "adoption",
+      "united"
+    ],
+    "prompt_length": 1666,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5540",
+  "concept_data": {
+    "title": "frontier control",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "border control",
+    "relation_type": "USE"
+  },
+  "summary": "\"Frontier control,\" a term redirected to \"border control,\" pertains to the regulatory frameworks governing the movement of individuals and goods across EU borders. This concept encompasses various legal instruments that ensure compliance with nationalities and customs regulations, including the management of aircarriers and the enforcement of VATry protocols at ports like Southampton and Ravenna. It addresses unique challenges such as contactless processing and the handling of aliens at terminals like Zaventem and Horta. The EU's acquis includes provisions for the oversight of docks and wharfs, ensuring that operations at locations such as Vlissingen and Billund adhere to established ordre. Legal measures also aim to prevent the overturn of regulations that protect public safety and political stability, presuming that effective frontier control is essential for maintaining security across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:37:08.863701",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 1680,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 71,
+      "selected_avg_freq": 27.32
+    },
+    "related_words": [
+      "pcs",
+      "contactless",
+      "vatry",
+      "peterhead",
+      "antti",
+      "juhani",
+      "hartikainen",
+      "overturn",
+      "faugeras",
+      "suceeded",
+      "aircarriers",
+      "astakos",
+      "avia",
+      "zaventem",
+      "koidula",
+      "luhamaa",
+      "sintermar",
+      "kravu",
+      "termināls",
+      "vlissingen",
+      "horta",
+      "southampton",
+      "malmquist",
+      "hirtshals",
+      "billund",
+      "kalundborg",
+      "frigo",
+      "altenwerder",
+      "kirchtal",
+      "neos"
+    ],
+    "prompt_length": 1688,
+    "category": "0431 politics and public safety"
+  }
+}

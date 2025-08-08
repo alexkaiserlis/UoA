@@ -1,0 +1,63 @@
+{
+  "concept_id": "5725",
+  "concept_data": {
+    "title": "services contract",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"services contract\" within EU legal and regulatory frameworks refers to agreements between providers and governmental entities, facilitating the procurement of services. These contracts aim to ensure interoperability and coherence across member states, often requiring translations and copies of originals to be accessible. The automation of processes and validation of documents are crucial for completing formalities efficiently. Services contracts may impose thresholds for awards and assessments, ensuring that providers meet desired standards. By moving towards electronic formats, the EU enhances the alignment of services, enabling carriers to rely on easily accessible tools that surpass traditional clerical methods.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:39:42.111090",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 311,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1331,
+      "selected_avg_freq": 611.56
+    },
+    "related_words": [
+      "originals",
+      "surpass",
+      "translations",
+      "signatures",
+      "automation",
+      "rounded",
+      "clerical",
+      "thousand",
+      "nearest",
+      "awards",
+      "recalculated",
+      "equivalents",
+      "upwards",
+      "downwards",
+      "translation",
+      "reaches",
+      "formats",
+      "subsidised",
+      "postal",
+      "electronically",
+      "device",
+      "interoperability",
+      "providers",
+      "governmental",
+      "copies",
+      "carriers",
+      "rely",
+      "completing",
+      "goal",
+      "procurement"
+    ],
+    "prompt_length": 1701,
+    "category": "2006 trade policy"
+  }
+}

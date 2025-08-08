@@ -1,0 +1,63 @@
+{
+  "concept_id": "201",
+  "concept_data": {
+    "title": "United Nations convention",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "UN convention",
+    "relation_type": "USE"
+  },
+  "summary": "The \"United Nations convention,\" often referred to as \"UN convention,\" encompasses a range of international agreements aimed at addressing global challenges, including environmental issues, smuggling, and biosafety. These conventions, such as those stemming from the Windhoek and Nairobi conferences, focus on conserving biodiversity and combating desertification. The EU engages with these frameworks, affirming its commitment to universally applicable standards, particularly in areas like psychotropic substances and polychlorinated biphenyls (PCBs). Through legal instruments, the EU regulates interactions with migrants and addresses the illicit trade of narcotic substances, including coca. The conventions culminate in a structured approach to environmental and regulatory challenges, ensuring that member states adhere to their obligations under these international agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:18:35.104620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 771,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 262,
+      "selected_avg_freq": 122.36666666666666
+    },
+    "related_words": [
+      "celad",
+      "bolivian",
+      "unodc",
+      "douane",
+      "cpd",
+      "windhoek",
+      "plurinational",
+      "coca",
+      "excercise",
+      "focussing",
+      "pct",
+      "chrysotile",
+      "terphenyls",
+      "alachlor",
+      "declines",
+      "nairobi",
+      "desertification",
+      "smuggling",
+      "seabed",
+      "fourteen",
+      "aldicarb",
+      "carnets",
+      "affirm",
+      "repairs",
+      "endosulfan",
+      "straddling",
+      "depositing",
+      "thirteen",
+      "culminated",
+      "spheres"
+    ],
+    "prompt_length": 1745,
+    "category": "0806 international affairs"
+  }
+}

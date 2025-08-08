@@ -1,0 +1,63 @@
+{
+  "concept_id": "3582",
+  "concept_data": {
+    "title": "administrative service",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "administrative personnel",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"administrative service,\" redirected to \"administrative personnel,\" encompasses the roles and responsibilities of officials and staff within EU institutions. These personnel are crucial for promoting transparency and openness in governance, engaging in daily operations that enhance relations with citizens. They participate in targeted training courses and seminars, fostering professional development through exchanges and vocational guidance. The administrative service is responsible for managing documentation, funding requests, and ensuring eligibility for various programs, including fisheries and aquaculture. By constituting a respected secretariat, these officials uphold good practice in handling texts and expenditure, thereby reinforcing the EU's commitment to effective governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:38:24.978556",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 133,
+      "requested_words": 150,
+      "min_frequency_found": 62,
+      "max_frequency_found": 4108,
+      "selected_words": 133,
+      "selected_min_freq": 62,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1763.4661654135339
+    },
+    "related_words": [
+      "openness",
+      "seminars",
+      "officers",
+      "courses",
+      "vocational",
+      "secretary",
+      "targeted",
+      "behaviour",
+      "secretariat",
+      "officials",
+      "citizens",
+      "daily",
+      "finnish",
+      "swedish",
+      "connected",
+      "enhance",
+      "exchanges",
+      "funding",
+      "relates",
+      "staff",
+      "aquaculture",
+      "respected",
+      "professional",
+      "promoting",
+      "fisheries",
+      "relations",
+      "via",
+      "forwarded",
+      "eligibility",
+      "foreign"
+    ],
+    "prompt_length": 1739,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4716",
+  "concept_data": {
+    "title": "local wine",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"local wine\" within EU legal and regulatory frameworks encompasses wines produced in specific geographical areas, often recognized through an \"indicazione geografica tipica\" (IGT) designation. This classification ensures that wines, such as \"vins\" and \"vino,\" reflect the unique terroir, including factors like soil (\"tierra\") and climate, which influence the \"vintage\" and \"coupage.\" Regulations govern \"vendanges\" and \"plantings,\" ensuring quality and preservation of traditional methods. Local wines may include varieties like \"eiswein\" and \"vins\" with \"residual\" sugar levels, while maintaining requisite strength and \"volatile\" acidity. Authorisations for production must comply with EU standards, safeguarding the integrity of these oenological products.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:35:39.679283",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 200,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2465,
+      "selected_avg_freq": 989.4266666666666
+    },
+    "related_words": [
+      "vendanges",
+      "tardives",
+      "glace",
+      "paille",
+      "eiswein",
+      "milliequivalents",
+      "indicazione",
+      "geografica",
+      "tipica",
+      "vintage",
+      "coupage",
+      "vins",
+      "landwein",
+      "vino",
+      "vinho",
+      "plantings",
+      "tierra",
+      "vin",
+      "vol",
+      "grams",
+      "oenological",
+      "vines",
+      "psr",
+      "litre",
+      "recognizing",
+      "volatile",
+      "pays",
+      "planting",
+      "vine",
+      "sulphur"
+    ],
+    "prompt_length": 1641,
+    "category": "6021 beverages and sugar"
+  }
+}

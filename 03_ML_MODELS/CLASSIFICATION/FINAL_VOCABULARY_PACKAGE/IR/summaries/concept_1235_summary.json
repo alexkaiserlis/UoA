@@ -1,0 +1,63 @@
+{
+  "concept_id": "1235",
+  "concept_data": {
+    "title": "Upper Normandy",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Upper Normandy, or Haute Normandie, is a significant region within the framework of EU Member States, particularly in the context of regional development and conservation efforts. The Seine estuary, a vital ecological zone, faces challenges such as scallops depletion, prompting regulatory measures to ensure sustainable fishing practices. The region's programming includes EU funding mechanisms like the European Regional Development Fund (ERDF) and the European Social Fund (ESF), which support projects aimed at enhancing economic readiness and environmental conservation. Statutory designations, including Protected Designation of Origin (PDO) for Neufchâtel cheese, reflect the intent to retain cultural heritage while addressing inflation and declining resources through indexed allocations and loans. The frameworks established foresee additionality in funding, confirming the importance of measuring impacts and invoking opposition to practices that restrict sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:02.347114",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 428,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 980,
+      "selected_avg_freq": 550.8866666666667
+    },
+    "related_words": [
+      "prefect",
+      "neufchâtel",
+      "normandie",
+      "haute",
+      "estuary",
+      "rechar",
+      "normandy",
+      "scallops",
+      "seine",
+      "depletion",
+      "additionality",
+      "indexed",
+      "pdo",
+      "perspectives",
+      "esf",
+      "fishermen",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "upper",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "confirming"
+    ],
+    "prompt_length": 1672,
+    "category": "7211 regions of EU Member States"
+  }
+}

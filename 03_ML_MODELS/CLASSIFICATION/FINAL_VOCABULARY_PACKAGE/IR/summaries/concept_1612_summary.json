@@ -1,0 +1,63 @@
+{
+  "concept_id": "1612",
+  "concept_data": {
+    "title": "bovine leucosis",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal leucosis",
+    "relation_type": "USE"
+  },
+  "summary": "Bovine leucosis, also referred to as animal leucosis, is a significant concern within EU agricultural activity, particularly in regions such as łódzkie, małopolskie, and zachodniopomorskie. This disease, characterized by leucoses affecting cattle, necessitates stringent regulations to ensure livestock health and prevent the spread of effluents that could contaminate pasturage. Various voivodships, including warmińsko and mazowieckie, have implemented measures to promote leukosis-free herds. Legal frameworks in the EU mandate monitoring and control practices, influencing agricultural policies across districts like Pesaro, Mantova, and Cremona. The relationship between bovine leucosis and animal leucosis underscores the need for clear terminology in regulatory documents to facilitate effective disease management across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:30.355040",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 725,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 67,
+      "selected_avg_freq": 26.073333333333334
+    },
+    "related_words": [
+      "powiat",
+      "łódzkie",
+      "małopolskie",
+      "zachodniopomorskie",
+      "leucoses",
+      "effluents",
+      "warminsko",
+      "leukosisfree",
+      "imperia",
+      "pesaro",
+      "macerata",
+      "perugia",
+      "lecco",
+      "sondrio",
+      "mantova",
+      "belluno",
+      "arezzo",
+      "grossetto",
+      "medio",
+      "campidano",
+      "ogliastra",
+      "tempio",
+      "alessandria",
+      "fermo",
+      "região",
+      "ragusa",
+      "lubuskie",
+      "savona",
+      "pescara",
+      "firenze"
+    ],
+    "prompt_length": 1695,
+    "category": "5631 agricultural activity"
+  }
+}

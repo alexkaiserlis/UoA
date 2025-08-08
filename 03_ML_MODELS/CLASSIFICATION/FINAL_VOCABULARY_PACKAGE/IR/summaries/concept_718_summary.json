@@ -1,0 +1,63 @@
+{
+  "concept_id": "718",
+  "concept_data": {
+    "title": "waste removal",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "waste disposal",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"waste removal,\" redirected to \"waste disposal,\" encompasses EU regulatory frameworks aimed at managing waste to prevent pollution and protect the environment. Legal instruments, such as the Basel Convention, address transfrontier movements of hazardous waste, ensuring proper containment and inactivation of pollutants like PCB and chlorides. The EU emphasizes the degradability of materials, promoting practices such as solidification and burial in landfills, while curtailing industrialization's impact on ecosystems. Recommendations from the UNEP advocate for eco-friendly disposal methods, including the recycling of accumulators and the use of fishmeal as fertilizer. Effective waste disposal is essential for safeguarding inhabitants and maintaining ecological balance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:59.611154",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 928,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 216,
+      "selected_avg_freq": 92.76
+    },
+    "related_words": [
+      "pollute",
+      "preambular",
+      "accumulator",
+      "degradability",
+      "saxonia",
+      "pcts",
+      "solidification",
+      "ecologically",
+      "phosphatic",
+      "recommandation",
+      "burial",
+      "chlorides",
+      "removable",
+      "chlor",
+      "terphenyls",
+      "weee",
+      "inhabitant",
+      "basle",
+      "hide",
+      "landfills",
+      "electrolysis",
+      "salting",
+      "sparsely",
+      "alkanes",
+      "thuringia",
+      "attendant",
+      "alkali",
+      "industrialization",
+      "insulating",
+      "anyone"
+    ],
+    "prompt_length": 1734,
+    "category": "5206 environmental policy"
+  }
+}

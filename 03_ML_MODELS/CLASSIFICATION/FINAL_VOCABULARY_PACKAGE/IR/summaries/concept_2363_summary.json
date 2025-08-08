@@ -1,0 +1,63 @@
+{
+  "concept_id": "2363",
+  "concept_data": {
+    "title": "popular initiative",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": true,
+    "preferred_term": "petition",
+    "relation_type": "USE"
+  },
+  "summary": "The \"popular initiative,\" also referred to as a \"petition,\" is a mechanism within the EU legal framework that enables citizens to directly influence parliamentary decisions. Established by the Treaty on the Functioning of the European Union, it allows a minimum number of signatories—at least one million citizens from a quarter of member states—to submit an initiative to the European Commission. This process begins when the initiative is formally entered, setting in motion a series of parliamentary actions. The initiative must correspond to the composition of EU regulations and can lead to amending existing legislation. Official decisions regarding these initiatives are published in the journal of the EU, ensuring transparency and accountability in the functioning of the Union.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:15.262492",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 48,
+      "requested_words": 150,
+      "min_frequency_found": 89,
+      "max_frequency_found": 4108,
+      "selected_words": 48,
+      "selected_min_freq": 89,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2274.8333333333335
+    },
+    "related_words": [
+      "elected",
+      "parliamentary",
+      "signatories",
+      "begins",
+      "multiplied",
+      "citizens",
+      "quarter",
+      "numbers",
+      "composition",
+      "delegated",
+      "correspond",
+      "initiative",
+      "representatives",
+      "sets",
+      "least",
+      "entered",
+      "members",
+      "term",
+      "minimum",
+      "force",
+      "number",
+      "state",
+      "accordingly",
+      "february",
+      "annex",
+      "provides",
+      "functioning",
+      "adopted",
+      "march",
+      "set"
+    ],
+    "prompt_length": 1658,
+    "category": "0421 parliament"
+  }
+}

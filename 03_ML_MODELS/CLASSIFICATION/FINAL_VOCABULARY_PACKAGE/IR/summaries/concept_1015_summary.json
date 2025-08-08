@@ -1,0 +1,63 @@
+{
+  "concept_id": "1015",
+  "concept_data": {
+    "title": "excise tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "excise duty",
+    "relation_type": "USE"
+  },
+  "summary": "Excise tax, commonly referred to as excise duty, subsists within the EU's taxation framework, underscoring the regulatory measures applied to specific goods such as cigars, cigarillos, and motorbränslen. This duty is designed to modulate consumption patterns, particularly for products deemed harmful or non-essential. The European Commission's EMCS and NCTS systems facilitate the stepwise tracking of excise goods, ensuring compliance among warehousekeepers. Additionally, the criteria for taxation may include considerations for undrinkable substances like antifreeze or oxygenated fuels. As the EU reexamines its approach, the specificity of excise duties remains crucial for maintaining fair competition and addressing environmental concerns, particularly for renewables.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:07.473961",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2140,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 17.30666666666667
+    },
+    "related_words": [
+      "falsely",
+      "subsists",
+      "theat",
+      "cigars",
+      "cigarillos",
+      "cirteria",
+      "underscore",
+      "stepwise",
+      "impure",
+      "colognes",
+      "computerising",
+      "emcs",
+      "ncts",
+      "antifreeze",
+      "fame",
+      "incl",
+      "overcompensated",
+      "alkylate",
+      "motorbränslen",
+      "specialbensin",
+      "för",
+      "motordrivna",
+      "arbetsredskap",
+      "tvåtaktsbränsle",
+      "reexamine",
+      "oxygenated",
+      "isobutene",
+      "warehousekeepers",
+      "reverts",
+      "inadmissibility"
+    ],
+    "prompt_length": 1725,
+    "category": "2446 taxation"
+  }
+}

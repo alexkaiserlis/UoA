@@ -1,0 +1,63 @@
+{
+  "concept_id": "968",
+  "concept_data": {
+    "title": "United Nations Food and Agriculture Organisation",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "FAO",
+    "relation_type": "USE"
+  },
+  "summary": "The \"United Nations Food and Agriculture Organisation\" (FAO) plays a crucial role in addressing global food security and agricultural sustainability, particularly within the EU's regulatory framework. Its headquarters, located in Rome, supervises initiatives that aim to combat endemic diseases, such as foot-and-mouth disease (FMD), which can exacerbate agricultural epidemics. The FAO's programmatic approach includes the formulation of prophylactic measures and the monitoring of circulating serotypes to ensure biodiversity is preserved. By collaborating with regional entities, such as the European Union Food and Mouth Disease (EUFMD) program, the FAO facilitates the replenishment of agricultural resources and supports countries like Albania and Turkey, including regions like Korce and Tekirdag, in managing agricultural challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:07:49.673810",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 597,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 455,
+      "selected_avg_freq": 189.28666666666666
+    },
+    "related_words": [
+      "korce",
+      "tekirdag",
+      "wrl",
+      "trivalent",
+      "programmatic",
+      "tetraethyl",
+      "knock",
+      "diesease",
+      "tetramethyl",
+      "deposition",
+      "formalised",
+      "manisa",
+      "topotypes",
+      "mul",
+      "transcaucasia",
+      "thrace",
+      "endemically",
+      "exacerbated",
+      "anatolia",
+      "mtf",
+      "entrance",
+      "parathion",
+      "eufmd",
+      "transports",
+      "replenished",
+      "isolate",
+      "unep",
+      "epidemics",
+      "prophylactic",
+      "pirbright"
+    ],
+    "prompt_length": 1729,
+    "category": "7606 United Nations"
+  }
+}

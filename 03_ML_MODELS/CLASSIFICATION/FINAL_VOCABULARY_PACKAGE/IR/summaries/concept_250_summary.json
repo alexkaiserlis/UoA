@@ -1,0 +1,63 @@
+{
+  "concept_id": "250",
+  "concept_data": {
+    "title": "social-security contribution",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"social-security contribution\" pertains to mandatory payments made by employees and employers to fund social protection systems within the EU. These contributions are crucial for stabilizing pensions and other social benefits, particularly during calamitous economic cycles. The actuarial assessments of these contributions help predict future liabilities, ensuring that budgets remain sustainable. Incompatibility with national regulations can lead to discontinuation of benefits, prompting the need for clarifications and reorganization of existing frameworks. Families, married couples, and public servants are often directly affected by these contributions, which are designed to lighten financial burdens and prevent poverty. The European Commission and ECOFIN continuously monitor these contributions to ensure they align with broader socio-economic goals, thereby fostering a socially responsible environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:44:21.820522",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 578,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 613,
+      "selected_avg_freq": 302.8333333333333
+    },
+    "related_words": [
+      "calamitous",
+      "multilaterial",
+      "predictors",
+      "married",
+      "scarcely",
+      "actuarial",
+      "cmfb",
+      "garment",
+      "overpaid",
+      "salary",
+      "gnp",
+      "lighten",
+      "isolate",
+      "crafts",
+      "spc",
+      "ecofin",
+      "conservative",
+      "tolerated",
+      "stabilizing",
+      "socially",
+      "borrowing",
+      "reserving",
+      "incur",
+      "signals",
+      "salaries",
+      "reorganization",
+      "pension",
+      "classifications",
+      "explanations",
+      "discontinuation"
+    ],
+    "prompt_length": 1715,
+    "category": "2836 social protection"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1141",
+  "concept_data": {
+    "title": "natural gas",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Natural gas, a key component of the oil industry, is subject to extensive EU legal and regulatory frameworks aimed at optimizing its use and minimizing pollutions. The EU promotes interconnections among member states to enhance the efficiency of gas grids, ensuring leaktightness and reliability in supply. Regulatory bodies advocate for the liberalizing of markets, allowing for competition among majors like Gazprom and ExxonMobil. The focus on reformulating energy policies includes the desulphurization of natural gas and the development of compressed forms for improved fuelling efficiency. Additionally, discoveries of undeveloped reserves, such as those in the Nordzee, are crucial for future energy security and rationally managing resources across interconnecting pipelines and harbours.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:36.171916",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1365,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 137,
+      "selected_avg_freq": 56.77333333333333
+    },
+    "related_words": [
+      "reformulate",
+      "pollutions",
+      "sited",
+      "assomineraria",
+      "enc",
+      "leaktightness",
+      "interconnecting",
+      "mærsk",
+      "olie",
+      "hess",
+      "nordzee",
+      "altinex",
+      "noreco",
+      "discoveries",
+      "undeveloped",
+      "konkurrence",
+      "forbrugerstyrelsen",
+      "boil",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "compressed",
+      "edison",
+      "wintershall",
+      "rationally",
+      "submarine",
+      "aps",
+      "dong"
+    ],
+    "prompt_length": 1683,
+    "category": "6616 oil industry"
+  }
+}

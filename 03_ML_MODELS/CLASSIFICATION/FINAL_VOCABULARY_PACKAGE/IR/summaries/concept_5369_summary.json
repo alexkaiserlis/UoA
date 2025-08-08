@@ -1,0 +1,63 @@
+{
+  "concept_id": "5369",
+  "concept_data": {
+    "title": "health certificate",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"health certificate\" is a crucial document in EU regulatory frameworks, particularly under the 2011 tariff policy. It serves as certification for the health status of animals and animal products, ensuring compliance with safety standards. This documentation is vital for the movement of species, including rare breeds like ferrets and pigeons, across territories. Health certificates often include pedigrees and details on vaccinations against diseases such as fevers and tuberculins. They are adopted by various authorities, including AQSIQ and DFAR, to facilitate trade while ensuring the inocuidad of products. The certification process is essential for maintaining biosecurity and preventing the spread of diseases among neighboring regions, such as those involving echinoderms or specific livestock breeds.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:52.543596",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 4969,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.7
+    },
+    "related_words": [
+      "albumines",
+      "classicl",
+      "certfication",
+      "dlvs",
+      "adoped",
+      "pedigrees",
+      "studbook",
+      "docmentation",
+      "masseter",
+      "zebras",
+      "anarsia",
+      "lineatella",
+      "laspeyresia",
+      "molesta",
+      "interm",
+      "shold",
+      "vechta",
+      "que",
+      "ferret",
+      "tuberculins",
+      "urugayan",
+      "raties",
+      "olympiad",
+      "eventing",
+      "beacause",
+      "aqsiq",
+      "dfar",
+      "ands",
+      "pige",
+      "fevers"
+    ],
+    "prompt_length": 1658,
+    "category": "2011 tariff policy"
+  }
+}

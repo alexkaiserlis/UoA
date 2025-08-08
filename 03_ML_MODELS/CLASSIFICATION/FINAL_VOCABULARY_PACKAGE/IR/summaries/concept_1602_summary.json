@@ -1,0 +1,63 @@
+{
+  "concept_id": "1602",
+  "concept_data": {
+    "title": "vegetable",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"vegetable\" refers to a category of plant products essential for food safety and agricultural standards. These products, including hardy varieties like chervil and scorzonera, undergo rigorous inspection to ensure compliance with regulations. The evaluation of vegetables encompasses aspects such as desiccated forms and the presence of substances like cypermetrin and mevinphos, which may exceed permissible limits. Furthermore, the regularizing of these products aims to prevent discriminations in trade, ensuring equal access for all producers. Notably, the cultivation of vegetables like melongena and broccoli is supported through various EU initiatives, promoting sustainable gowing practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:20.398072",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 3442,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.6066666666666665
+    },
+    "related_words": [
+      "discriminations",
+      "beurrăš",
+      "hardy",
+      "desirabel",
+      "negerkop",
+      "arican",
+      "egual",
+      "chervil",
+      "scorzonera",
+      "exceeed",
+      "cypermetrin",
+      "fenbutatinoxyde",
+      "maintenances",
+      "dougherty",
+      "insepction",
+      "abovewmentioned",
+      "esmolfe",
+      "casa",
+      "alcobaça",
+      "carapinheira",
+      "anthriscus",
+      "cerefolium",
+      "hoffm",
+      "melongena",
+      "valerianella",
+      "locusta",
+      "betcke",
+      "desiccated",
+      "sizings",
+      "traty"
+    ],
+    "prompt_length": 1689,
+    "category": "6006 plant product"
+  }
+}

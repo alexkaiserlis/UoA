@@ -1,0 +1,63 @@
+{
+  "concept_id": "884",
+  "concept_data": {
+    "title": "civil status",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"civil status\" pertains to the legal recognition of individuals' personal circumstances within the framework of EU law. It encompasses numerous aspects related to family relations, including marriage, divorce, and parentage, which are essential for the smooth functioning of legal systems across member states. The approximation of laws concerning civil status is advisable to ensure that individuals' rights and interests are protected in various sectors. This is particularly relevant in international cooperation agreements, where the establishment of a common legal framework is crucial. The European Commission has laid down methods to facilitate this cooperation, thereby enhancing the capacity of communities to address civil status issues effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:08:00.850258",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 49,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 49,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2040.8367346938776
+    },
+    "related_words": [
+      "eurpean",
+      "numerous",
+      "family",
+      "individuals",
+      "smooth",
+      "advisable",
+      "relations",
+      "organizations",
+      "approximation",
+      "notably",
+      "status",
+      "sectors",
+      "concern",
+      "capacity",
+      "laws",
+      "working",
+      "designed",
+      "methods",
+      "agreements",
+      "lay",
+      "corresponding",
+      "interests",
+      "areas",
+      "law",
+      "concluded",
+      "establish",
+      "legal",
+      "cooperation",
+      "international",
+      "system"
+    ],
+    "prompt_length": 1652,
+    "category": "1211 civil law"
+  }
+}

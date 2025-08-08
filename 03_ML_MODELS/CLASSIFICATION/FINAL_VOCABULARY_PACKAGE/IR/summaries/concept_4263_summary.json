@@ -1,0 +1,63 @@
+{
+  "concept_id": "4263",
+  "concept_data": {
+    "title": "financial statistics",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Financial statistics\" within the EU legal framework pertains to the systematic collection and analysis of data related to financial intermediation, particularly by monetary financial institutions (MFIs) and other corporations. This concept is critical for overseeing the interconnected financial systems and ensuring compliance with provisions that enhance transparency and accountability. The aggregation of financial data, including metadata on borrowing and receipts, supports periodicity in reporting and facilitates renegotiations during economic contractions. Additionally, financial statistics inform the European Central Bank's (ECB) decisions on stimulus measures and the revaluation of assets, thereby influencing the broader economic environment and the stability of the euro area.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:31.321450",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 844,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 321,
+      "selected_avg_freq": 145.74
+    },
+    "related_words": [
+      "pbr",
+      "unfolded",
+      "frontloading",
+      "sdmx",
+      "syntax",
+      "provisioned",
+      "mfi",
+      "mfis",
+      "fisim",
+      "fallout",
+      "ifs",
+      "markup",
+      "eerp",
+      "loosening",
+      "overseeing",
+      "intermediation",
+      "cmfb",
+      "renegotiations",
+      "foregone",
+      "organizational",
+      "unexpectedly",
+      "affiliates",
+      "underpinnings",
+      "gnp",
+      "renegotiated",
+      "metadata",
+      "interconnected",
+      "emi",
+      "templates",
+      "weakening"
+    ],
+    "prompt_length": 1712,
+    "category": "2421 free movement of capital"
+  }
+}

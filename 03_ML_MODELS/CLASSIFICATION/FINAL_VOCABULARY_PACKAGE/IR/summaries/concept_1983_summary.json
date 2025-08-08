@@ -1,0 +1,63 @@
+{
+  "concept_id": "1983",
+  "concept_data": {
+    "title": "South Pole",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "Antarctica",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"South Pole\" redirects to \"Antarctica,\" a critical area within the EU's regulatory framework for natural environment conservation. The Antarctic marine ecosystem, home to species such as notothenia, chaenocephalus, and dissostichus, is subject to strict conservation measures under the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR). EU regulations dictate allowable catches and fishing seasons, ensuring sustainable practices among fishermen. Analyses of biological data have directed limitations on fishing activities, particularly concerning species like patagonotothen and guntheri. The EU's commitment to protecting these waters has led to a ban on certain catches, reflecting its dedication to marine conservation in the Antarctic region.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:46:19.361849",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 191,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2836,
+      "selected_avg_freq": 1115.3266666666666
+    },
+    "related_words": [
+      "antartic",
+      "patagonotothen",
+      "brevicauda",
+      "guntheri",
+      "notothenia",
+      "gibberifrons",
+      "chaenocephalus",
+      "aceratus",
+      "pseudochaenichthys",
+      "georgianus",
+      "squamifrons",
+      "rossii",
+      "dissostichus",
+      "eleginoides",
+      "dissotichus",
+      "champsocephalus",
+      "gunnari",
+      "haul",
+      "ccamlr",
+      "antarctic",
+      "occuring",
+      "tac",
+      "seasons",
+      "waiting",
+      "allowable",
+      "wished",
+      "fishermen",
+      "georgia",
+      "catch",
+      "began"
+    ],
+    "prompt_length": 1729,
+    "category": "5211 natural environment"
+  }
+}

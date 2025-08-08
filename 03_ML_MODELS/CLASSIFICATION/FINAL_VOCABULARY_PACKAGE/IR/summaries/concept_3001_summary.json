@@ -1,0 +1,63 @@
+{
+  "concept_id": "3001",
+  "concept_data": {
+    "title": "fishing licence",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A fishing licence is an official document required for the legal possession and operation of fishing activities within EU waters. It regulates the use of various fishing methods, including gillnets, pots, and driftnets, to prevent unregulated practices and overfishing. Licences are essential for ensuring compliance with international agreements, such as those established by ICCAT and NEAFC, aimed at sustainable fishery management. They help combat illegal, unreported, and unregulated (IUU) fishing, which threatens species like haddock and whiting. The licensing system also includes provisions for specific regions, such as the Kattegat and Shetland, ensuring that fishing practices are sustainable and that fishrooms are not overexploited.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:43.553636",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 843,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 190,
+      "selected_avg_freq": 87.34
+    },
+    "related_words": [
+      "fishrooms",
+      "possesson",
+      "seafo",
+      "ortder",
+      "intialled",
+      "replaceable",
+      "anf",
+      "jiggers",
+      "gillnets",
+      "marta",
+      "unlicensed",
+      "offical",
+      "pots",
+      "scallop",
+      "revolutionary",
+      "dredges",
+      "kattegatt",
+      "flatfish",
+      "abidjan",
+      "vms",
+      "driftnets",
+      "atlanto",
+      "scandian",
+      "iattc",
+      "neafc",
+      "iuu",
+      "príncipe",
+      "shetland",
+      "baselines",
+      "guinean"
+    ],
+    "prompt_length": 1642,
+    "category": "5641 fisheries"
+  }
+}

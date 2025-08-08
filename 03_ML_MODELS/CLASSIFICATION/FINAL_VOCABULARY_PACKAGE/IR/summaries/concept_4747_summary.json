@@ -1,0 +1,63 @@
+{
+  "concept_id": "4747",
+  "concept_data": {
+    "title": "live poultry",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"live poultry\" encompasses various agricultural activities related to the breeding and management of birds such as Gallus gallus (chickens) and ratites. In EU regulatory frameworks, live poultry is subject to systematic monitoring for zoonotic diseases like salmonella and avian influenza. Vaccination protocols, including the use of vaccines outlined in pharmacopoeia monographs, are essential for maintaining healthy flocks. The EU employs structured regionalisation strategies to manage outbreaks and ensure the prevalence of vaccinated populations. Additionally, agrimonetary policies may reimburse farmers for losses due to seasonal variations in poultry production, while educational initiatives aim to enhance biosecurity measures and travel regulations for poultry.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:34:41.681993",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 356,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 1134,
+      "selected_avg_freq": 605.88
+    },
+    "related_words": [
+      "monographs",
+      "broiler",
+      "vaccinating",
+      "subgroup",
+      "pharmacopoeia",
+      "broilers",
+      "gallus",
+      "ratites",
+      "cee",
+      "vaccinated",
+      "flocks",
+      "salmonella",
+      "baseline",
+      "reimburse",
+      "newcastle",
+      "zoonotic",
+      "introductory",
+      "prevalence",
+      "hatching",
+      "regionalisation",
+      "vaccines",
+      "furnish",
+      "structured",
+      "routine",
+      "influenza",
+      "presently",
+      "avian",
+      "spp",
+      "populations",
+      "agrimonetary"
+    ],
+    "prompt_length": 1711,
+    "category": "5631 agricultural activity"
+  }
+}

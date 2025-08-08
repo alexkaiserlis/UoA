@@ -1,0 +1,63 @@
+{
+  "concept_id": "5251",
+  "concept_data": {
+    "title": "temporary servant (EU)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "servant (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"temporary servant (EU)\" refers to individuals employed by EU institutions under a probationary status, often as expatriates or assistants. These servants operate within a multicultural environment, adhering to the tenets of EU civil service regulations. Their roles may include clerks, interpreters, and actuaries, necessitating a diverse skill set for effective collaboration. During their probation period, which may involve shiftwork or seconding to different departments, they are evaluated on performance and seniority. The relationship to the preferred term \"servant (EU)\" underscores the broader classification of EU personnel, encompassing both temporary and permanent roles. This regulatory framework ensures efficient recruitments and management of human resources, promoting cooperation in scientific and technological fields.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:38:15.330476",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1163,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 114,
+      "selected_avg_freq": 43.04
+    },
+    "related_words": [
+      "expatriates",
+      "multicultural",
+      "tenets",
+      "actuaries",
+      "hotel",
+      "subsistance",
+      "sigle",
+      "conciliator",
+      "cents",
+      "colleagues",
+      "jülich",
+      "kfa",
+      "fzk",
+      "dcu",
+      "cooperação",
+      "científica",
+      "tecnológica",
+      "iccti",
+      "investigação",
+      "jnict",
+      "akademie",
+      "wissenschaften",
+      "öaw",
+      "interpreters",
+      "conflicted",
+      "clerks",
+      "culham",
+      "forschungszentrum",
+      "recruitments",
+      "pusuant"
+    ],
+    "prompt_length": 1759,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

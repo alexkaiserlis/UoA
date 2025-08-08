@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_ff983fb3",
+  "concept_data": {
+    "title": "user authorisation",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "User authorisation refers to the process by which individuals or entities are granted permission to access specific information systems or data resources within the framework of EU legal and regulatory documents. This concept is crucial for ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR), which mandates stringent controls over personal data access. Effective user authorisation mechanisms are essential for safeguarding sensitive information and maintaining the integrity of data processing activities. In the context of EU regulations, user authorisation not only enhances security but also fosters trust in digital services by ensuring that only authorised users can engage with protected data.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:32.692195",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "3236 information technology and data processing"
+  }
+}

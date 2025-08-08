@@ -1,0 +1,26 @@
+{
+  "concept_id": "3368",
+  "concept_data": {
+    "title": "stay in hospital",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "hospitalisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"stay in hospital,\" redirected to the preferred term \"hospitalisation,\" is pivotal in EU health regulations. It encompasses the duration a patient remains in a healthcare facility for treatment, which is crucial for compliance with directives on patient rights and healthcare standards. Hospitalisation is governed by various EU legal frameworks, ensuring that member states uphold quality care and patient safety during such stays. The regulatory context emphasizes the importance of monitoring hospitalisation practices to enhance healthcare delivery and protect patients' rights across the EU, aligning with broader health policy objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:35.564984",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 92,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1197,
+    "category": "2841 health"
+  }
+}

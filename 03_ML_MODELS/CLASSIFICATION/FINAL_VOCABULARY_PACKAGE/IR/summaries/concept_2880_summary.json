@@ -1,0 +1,26 @@
+{
+  "concept_id": "2880",
+  "concept_data": {
+    "title": "electoral threshold",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "electoral quota",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"electoral threshold,\" which redirects to the preferred term \"electoral quota,\" refers to the minimum percentage of votes that a political party must secure to gain representation in a legislative body. This concept is crucial in electoral procedures within the EU, as it influences the proportionality and fairness of voting outcomes. By establishing an electoral quota, member states aim to prevent fragmentation in parliaments and ensure that only parties with significant support can participate in governance. The application of electoral thresholds varies across EU countries, reflecting diverse approaches to enhancing electoral stability and representation in democratic processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:39:59.745700",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1224,
+    "category": "0416 electoral procedure and voting"
+  }
+}

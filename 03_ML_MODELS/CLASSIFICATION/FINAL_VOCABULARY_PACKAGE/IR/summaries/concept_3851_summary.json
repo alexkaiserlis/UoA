@@ -1,0 +1,63 @@
+{
+  "concept_id": "3851",
+  "concept_data": {
+    "title": "pump",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pump\" within the EU legal and regulatory framework pertains to mechanical engineering, specifically focusing on devices that facilitate the movement of fluids. In the context of ecodesign, pumps are classified based on their energy efficiency and performance, which are critical for compliance with binding regulations. The methodology for assessing these devices includes a comprehensive review of their impacts on energy consumption and market dynamics. Notably, glandless circulators, as a subdivision of pumps, have gained attention for their efficiency. The EU has issued a statistical index and consultation forums to ensure uniform standards, thereby enhancing the holder's obligation to conform to established codes and tariffs. This classification aids in the interpretation of goods within customs regulations, ensuring that all products are adequately described and documented in annexed tables.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:06:45.080053",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 126,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 126,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2004.4285714285713
+    },
+    "related_words": [
+      "circulator",
+      "glandless",
+      "standalone",
+      "circulators",
+      "unintended",
+      "ecodesign",
+      "impacts",
+      "index",
+      "forum",
+      "subdivision",
+      "adds",
+      "necessity",
+      "invoked",
+      "methodology",
+      "holder",
+      "revealed",
+      "conform",
+      "column",
+      "wholly",
+      "calculating",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "gained",
+      "efficiency",
+      "integrated",
+      "classification"
+    ],
+    "prompt_length": 1680,
+    "category": "6821 mechanical engineering"
+  }
+}

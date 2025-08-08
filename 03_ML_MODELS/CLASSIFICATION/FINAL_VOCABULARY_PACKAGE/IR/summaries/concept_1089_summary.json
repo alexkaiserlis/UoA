@@ -1,0 +1,63 @@
+{
+  "concept_id": "1089",
+  "concept_data": {
+    "title": "Franche-Comt?",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Franche-Comté, a region of France, is recognized within EU legal frameworks, particularly concerning the designation of protected foodstuffs like crème de Bresse and comté cheese, which are granted PDO (Protected Designation of Origin) status. This designation satisfies strict eligibility criteria, ensuring that these products maintain their traditional qualities. The region's rural development is supported through various EU funding mechanisms, including the EIB (European Investment Bank) and ERDF (European Regional Development Fund), which provide loans and appropriations for progressive programming. The EU foresees the importance of such regions in its broader agricultural policies, aiming to evaluate and modify frameworks that support local economies and foodstuffs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:10:41.422678",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 297,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1390,
+      "selected_avg_freq": 842.8266666666667
+    },
+    "related_words": [
+      "crème",
+      "bresse",
+      "beurre",
+      "franche",
+      "comté",
+      "additionality",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "analogy",
+      "intent",
+      "frameworks",
+      "erdf",
+      "ruled",
+      "eib",
+      "declining",
+      "opposition",
+      "mention",
+      "foresees",
+      "statutory",
+      "ecus",
+      "designations",
+      "satisfies",
+      "loans",
+      "programming",
+      "modifying",
+      "precisely",
+      "recipient",
+      "speed"
+    ],
+    "prompt_length": 1683,
+    "category": "7211 regions of EU Member States"
+  }
+}

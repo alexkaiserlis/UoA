@@ -1,0 +1,63 @@
+{
+  "concept_id": "6295",
+  "concept_data": {
+    "title": "transgenic animal",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transgenic animal\" refers to organisms that have been genetically modified to contain or express foreign genetic material. In the EU regulatory framework, these animals are subject to stringent scrutiny to assess potential risks associated with their presence in food and feed. The regulatory instruments empower operators to ensure that all elements, including labelling and safety assessments, are compliant with established thresholds. This includes the obligation to provide a statement detailing the modifications and their intended benefits. As such, transgenic animals are designed to cater to specific needs, while also addressing concerns about adventitious effects and the unavoidable nature of genetic modification. The EU's approach is to amend existing regulations to lower risks and ensure that all stakeholders are informed and consulted, thereby fostering a favourable environment for innovation while safeguarding public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:15.980940",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 104,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 104,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1954.201923076923
+    },
+    "related_words": [
+      "caterers",
+      "adventitious",
+      "unavoidable",
+      "genetically",
+      "incumbent",
+      "deleting",
+      "benefited",
+      "mass",
+      "technically",
+      "thresholds",
+      "organisms",
+      "scrutiny",
+      "consists",
+      "labelling",
+      "empowered",
+      "falls",
+      "feed",
+      "supplementing",
+      "presence",
+      "statement",
+      "regulatory",
+      "conferred",
+      "modified",
+      "instrument",
+      "favourable",
+      "define",
+      "lower",
+      "material",
+      "adjusted",
+      "elements"
+    ],
+    "prompt_length": 1698,
+    "category": "6411 technology and technical regulations"
+  }
+}

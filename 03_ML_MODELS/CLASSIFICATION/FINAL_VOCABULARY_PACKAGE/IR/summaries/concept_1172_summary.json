@@ -1,0 +1,63 @@
+{
+  "concept_id": "1172",
+  "concept_data": {
+    "title": "national government",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "government",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"national government,\" as categorized under executive power and public service, is redirected to the preferred term \"government.\" In the context of EU legal and regulatory frameworks, national governments play a crucial role in appointing bodies and coordinating activities that relate to various entities, including financial institutions and social groups. They are responsible for implementing restrictive measures, such as sanctions, which may involve freezing assets or amending lists of covered persons and entities. The effectiveness of these operations is essential for ensuring security and resource management within member nations. Governments must also decide on investment strategies and structural funds to enhance their operational effectiveness over different terms.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:35:20.106748",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 87,
+      "requested_words": 150,
+      "min_frequency_found": 63,
+      "max_frequency_found": 4108,
+      "selected_words": 87,
+      "selected_min_freq": 63,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2148.919540229885
+    },
+    "related_words": [
+      "liberia",
+      "alternate",
+      "freezing",
+      "appointing",
+      "sanctions",
+      "entities",
+      "restrictive",
+      "expires",
+      "appointed",
+      "nations",
+      "immediately",
+      "office",
+      "bank",
+      "tasks",
+      "natural",
+      "coordination",
+      "investment",
+      "lists",
+      "groups",
+      "funds",
+      "structural",
+      "effectiveness",
+      "themselves",
+      "bodies",
+      "instruments",
+      "fund",
+      "enter",
+      "persons",
+      "resources",
+      "security"
+    ],
+    "prompt_length": 1703,
+    "category": "0436 executive power and public service"
+  }
+}

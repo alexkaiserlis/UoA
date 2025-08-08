@@ -1,0 +1,63 @@
+{
+  "concept_id": "1262",
+  "concept_data": {
+    "title": "animal oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Animal oil, categorized under processed agricultural produce (6016), encompasses various fats derived from animal sources, crucial for multiple applications in the EU. Regulatory assessments by the EFSA involve analyzing the constituent fatty acids, including rare isomers like docosenoic and erucic acids, to ensure compliance with hygiene standards. The presence of impurities and moisture content is carefully monitored, as they can pose health risks. Notifiers must submit samples for screening, and exposure scenarios are modelled to evaluate acute intake doses. The finalised regulations designate specific requirements for animal oil, ensuring safety and quality in food and feed applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:52.019311",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 336,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1248,
+      "selected_avg_freq": 639.8333333333334
+    },
+    "related_words": [
+      "docosenoic",
+      "cetoleic",
+      "analyzed",
+      "erucic",
+      "aoel",
+      "chromatography",
+      "isomers",
+      "modelled",
+      "arfd",
+      "cis",
+      "grace",
+      "adi",
+      "colza",
+      "notifier",
+      "scenarios",
+      "impurities",
+      "acids",
+      "constituent",
+      "bone",
+      "screening",
+      "fatty",
+      "rapporteur",
+      "moisture",
+      "dose",
+      "acute",
+      "rape",
+      "carefully",
+      "missing",
+      "intake",
+      "experiencing"
+    ],
+    "prompt_length": 1638,
+    "category": "6016 processed agricultural produce"
+  }
+}

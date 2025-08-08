@@ -1,0 +1,63 @@
+{
+  "concept_id": "1868",
+  "concept_data": {
+    "title": "metalwork",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"metalwork\" encompasses various iron, steel, and other metal industries within the EU regulatory framework. This sector includes the production of ornamental items such as figurines, statuettes, and decorative knick-knacks, which may feature motifs like floral designs or stylized shapes. Legal standards govern the safety and quality of these products, ensuring that items like toys, dolls, and miniature ornaments are suitable for children and the elderly. Regulations also address the use of materials, such as rubber and ceramics, in creating containers and boxes that may incorporate locks or stoppers. Compliance with these standards is essential for market access and consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:15.229407",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 174,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2994,
+      "selected_avg_freq": 838.8133333333334
+    },
+    "related_words": [
+      "stopper",
+      "figurine",
+      "beggar",
+      "penguin",
+      "padlock",
+      "scarf",
+      "stylized",
+      "surmounted",
+      "nodding",
+      "miniature",
+      "doll",
+      "ornament",
+      "knick",
+      "knacks",
+      "cachou",
+      "hanging",
+      "fancy",
+      "statuettes",
+      "motif",
+      "floral",
+      "ornaments",
+      "painted",
+      "peg",
+      "hole",
+      "clothes",
+      "dolls",
+      "slot",
+      "cylindrical",
+      "decoration",
+      "wooden"
+    ],
+    "prompt_length": 1609,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

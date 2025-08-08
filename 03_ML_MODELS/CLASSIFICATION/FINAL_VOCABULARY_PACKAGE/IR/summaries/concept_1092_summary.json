@@ -1,0 +1,63 @@
+{
+  "concept_id": "1092",
+  "concept_data": {
+    "title": "fraud prevention",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "fraud",
+    "relation_type": "USE"
+  },
+  "summary": "Fraud prevention, as a critical aspect of criminal law within the EU, centralises efforts to combat various forms of misconduct, including counterfeits and forgery. The authorities, such as INTERPOL and national prosecutors, are supported in their efforts to address these issues through collaborative frameworks. The concept encompasses a range of activities, from monitoring casinos to the patenting of innovative technologies that deter fraudulent practices. Legal proceedings against accused individuals often involve complex decisions that may be overruled or challenged. The promptness of responses and the recirculation of information are vital in ensuring effective enforcement, thereby safeguarding economic integrity across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:51.088072",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2215,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 44,
+      "selected_avg_freq": 18.046666666666667
+    },
+    "related_words": [
+      "centralises",
+      "interpol",
+      "weakens",
+      "mek",
+      "denatonium",
+      "patenting",
+      "videogram",
+      "retaliatory",
+      "musicians",
+      "suppoprted",
+      "accused",
+      "prosecutor",
+      "authrities",
+      "habe",
+      "cnacs",
+      "rename",
+      "nccs",
+      "ncc",
+      "seafo",
+      "overruled",
+      "norephedrine",
+      "misconduct",
+      "deicison",
+      "buidlings",
+      "gouache",
+      "paintings",
+      "tempora",
+      "promptness",
+      "procedings",
+      "againt"
+    ],
+    "prompt_length": 1702,
+    "category": "1216 criminal law"
+  }
+}

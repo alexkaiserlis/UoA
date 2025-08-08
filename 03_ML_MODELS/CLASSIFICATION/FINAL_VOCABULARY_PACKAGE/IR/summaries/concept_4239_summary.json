@@ -1,0 +1,63 @@
+{
+  "concept_id": "4239",
+  "concept_data": {
+    "title": "product specialization",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "product specialisation",
+    "relation_type": "USE"
+  },
+  "summary": "Product specialisation, a concept within EU regulatory frameworks, refers to the strategic concentration of production efforts by participants to manufacture specific goods efficiently. This specialization empowers firms to operate competitively, achieving desired turnover while simplifying processes. By focusing on particular products, companies can eliminate redundant practices and jointly undertake concerted actions that enhance their market positions. Such arrangements, when structured fairly and transparently, can offer significant advantages, including reciprocal benefits among participants. However, supervision is essential to ensure that these practices do not lead to restrictive market behaviours or dominance, thus maintaining a level playing field in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:23.024794",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 163,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 26,
+      "selected_max_freq": 3308,
+      "selected_avg_freq": 1397.1333333333334
+    },
+    "related_words": [
+      "cheaply",
+      "specialization",
+      "participant",
+      "block",
+      "dominant",
+      "concentrate",
+      "concerted",
+      "eliminating",
+      "empowers",
+      "simplifying",
+      "desired",
+      "automatically",
+      "indispensable",
+      "reciprocal",
+      "participants",
+      "none",
+      "positions",
+      "equally",
+      "advantages",
+      "turnover",
+      "efficiently",
+      "left",
+      "jointly",
+      "attainment",
+      "arise",
+      "exempted",
+      "obtaining",
+      "simplified",
+      "undertake",
+      "normally"
+    ],
+    "prompt_length": 1751,
+    "category": "6406 production"
+  }
+}

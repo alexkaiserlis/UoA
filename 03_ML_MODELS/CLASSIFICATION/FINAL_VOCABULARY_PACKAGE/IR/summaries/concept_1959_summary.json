@@ -1,0 +1,63 @@
+{
+  "concept_id": "1959",
+  "concept_data": {
+    "title": "modification proposal",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": true,
+    "preferred_term": "budgetary amendment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"modification proposal,\" also referred to as a \"budgetary amendment,\" entails a formal process for reviewing and adjusting appropriations within the multiannual financial framework. This proposal may involve offsetting decreases in certain budgetary ceilings while maintaining commitments to specific sectors, such as dairy and beef farming. It is crucial for ensuring that funds are allocated effectively, particularly for autochthonous breeds like the Mertolenga and Serrana sheep, which are vital for extensive pasturing practices. The interinstitutional calendar guides the submission and endorsement of these proposals, ensuring that all stakeholders, including farmers, are adequately represented in the decision-making process.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:53.964418",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 181,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 3015,
+      "selected_avg_freq": 1325.0333333333333
+    },
+    "related_words": [
+      "brava",
+      "lide",
+      "autochthonous",
+      "alentejana",
+      "churra",
+      "quente",
+      "pasturing",
+      "mertolenga",
+      "serrana",
+      "estrela",
+      "serra",
+      "terra",
+      "females",
+      "breed",
+      "transitory",
+      "breeds",
+      "envelope",
+      "coupled",
+      "agri",
+      "reviewing",
+      "goat",
+      "entailing",
+      "restricting",
+      "extensive",
+      "dairy",
+      "enters",
+      "sheep",
+      "discipline",
+      "endorsed",
+      "offset"
+    ],
+    "prompt_length": 1694,
+    "category": "2441 budget"
+  }
+}

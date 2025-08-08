@@ -1,0 +1,63 @@
+{
+  "concept_id": "3122",
+  "concept_data": {
+    "title": "court composition",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "composition",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"court composition\" refers to the specific arrangement of judges and legal professionals within a court, which is critical for ensuring fair and specialized adjudication. This concept is often addressed in regulations that govern the operations of judicial institutions, where the composition is deemed essential for the pursuit of justice. Proposals regarding court composition may involve the submission of reports that inform the legislative process, inviting consultation from various stakeholders. The composition can vary, with courts sometimes operating under a deferment system, allowing for the extension of timelines in complex cases. Such regulations ensure that the judicial process is fully compliant with the abovementioned laws, providing a structured approach to legal proceedings.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:44.517898",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 74,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 74,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1937.2162162162163
+    },
+    "related_words": [
+      "regulaions",
+      "deferment",
+      "defer",
+      "specialized",
+      "banking",
+      "substantiated",
+      "informing",
+      "deferred",
+      "pursuit",
+      "credit",
+      "propose",
+      "seven",
+      "authorizing",
+      "authorization",
+      "invited",
+      "proposals",
+      "business",
+      "deemed",
+      "coordination",
+      "submission",
+      "advisory",
+      "six",
+      "laws",
+      "consulted",
+      "notification",
+      "institutions",
+      "later",
+      "fully",
+      "consulting",
+      "extension"
+    ],
+    "prompt_length": 1712,
+    "category": "4006 business organisation"
+  }
+}

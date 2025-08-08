@@ -1,0 +1,63 @@
+{
+  "concept_id": "202",
+  "concept_data": {
+    "title": "monetary convergence",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "economic convergence",
+    "relation_type": "USE"
+  },
+  "summary": "Monetary convergence, often redirected to \"economic convergence,\" refers to the alignment of economic fundamentals among EU member states, aiming to mitigate vulnerabilities and misalignments that can hinder integration. This process involves addressing outliers and underdeveloped economies, ensuring that all nations are committed to fulfilling convergence criteria. Amid ongoing challenges, such as the slippage of certain economies and the retrenchment of fiscal policies, the EU seeks to amplify the predominance of stable currencies. Historical examples include the lira and litas, which have been devalued or privatised. The unfinished nature of this convergence necessitates a regulatory framework that can interpret and reallocate resources effectively, fostering parallelism in economic performance and addressing any deteriorations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:56.571252",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1173,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 130,
+      "selected_avg_freq": 64.25333333333333
+    },
+    "related_words": [
+      "overachieved",
+      "mtl",
+      "cyp",
+      "outliers",
+      "commited",
+      "litas",
+      "ucis",
+      "undistributed",
+      "deteriorations",
+      "misalignments",
+      "vulnerabilities",
+      "retrenchment",
+      "predominance",
+      "diverged",
+      "notions",
+      "estates",
+      "lats",
+      "exhaustiveness",
+      "underdeveloped",
+      "abrogate",
+      "amid",
+      "slippage",
+      "fundamentals",
+      "privatised",
+      "loosening",
+      "unsettled",
+      "liberalising",
+      "inflow",
+      "unfinished",
+      "regained"
+    ],
+    "prompt_length": 1742,
+    "category": "1606 economic policy"
+  }
+}

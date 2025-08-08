@@ -1,0 +1,26 @@
+{
+  "concept_id": "6906",
+  "concept_data": {
+    "title": "parabolic antenna",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "parabolic aerial",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"parabolic antenna,\" which redirects to the preferred term \"parabolic aerial,\" refers to a type of antenna characterized by its parabolic shape, designed to focus electromagnetic waves for efficient signal transmission and reception. In the context of EU legal and regulatory frameworks, parabolic aerials are significant for telecommunications regulations, particularly concerning spectrum allocation and compliance with technical standards. The European Union's directives on electronic communications emphasize the need for such antennas to adhere to safety and interoperability requirements, ensuring that they facilitate effective communication while minimizing interference with other devices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:46.072941",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 91,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1207,
+    "category": "3226 communications"
+  }
+}

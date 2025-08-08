@@ -1,0 +1,63 @@
+{
+  "concept_id": "2767",
+  "concept_data": {
+    "title": "ore",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "mining product",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"ore,\" categorized under coal and mining industries, redirects to the preferred term \"mining product.\" In EU legal and regulatory frameworks, mining products encompass various ores, including mica and magnesite, which are essential for numerous industrial applications. Regulatory documents often address the thicknesses and quality of these products, ensuring compliance with standards for agglomerated and sintered materials. The interplay of conflicting regulations can impact mining operations, as seen in cases involving ferries and railways for transporting these resources. Additionally, the probability of encountering contradictory legal interpretations necessitates clear definitions and guidelines, particularly for insulating materials and their applications in industries like kunststoff manufacturing.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:30.782845",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 676,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 343,
+      "selected_avg_freq": 140.59333333333333
+    },
+    "related_words": [
+      "mica",
+      "royale",
+      "asturienne",
+      "cogebi",
+      "rika",
+      "kogyosho",
+      "okabe",
+      "isolier",
+      "walden",
+      "anciliary",
+      "slices",
+      "retaliate",
+      "sintered",
+      "kunststoff",
+      "ams",
+      "mgo",
+      "magnesite",
+      "heater",
+      "aeg",
+      "cie",
+      "knows",
+      "kassel",
+      "burned",
+      "thicknesses",
+      "mat",
+      "telexes",
+      "wherein",
+      "agglomerated",
+      "contacting",
+      "nippon"
+    ],
+    "prompt_length": 1650,
+    "category": "6611 coal and mining industries"
+  }
+}

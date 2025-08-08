@@ -1,0 +1,63 @@
+{
+  "concept_id": "2080",
+  "concept_data": {
+    "title": "biological standard",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"biological standard\" within EU environmental policy pertains to the regulation of organisms and substrates used in agricultural practices, particularly in the context of organic waste management. This standard aims to refine processes involving heated substrates, such as straw and manure, to ensure they do not harbor dangerous pathogens. By regulating the temperature and pressure during the decomposition of organic materials, the EU seeks to prevent harmful organisms from spreading. The biological standard is crucial for ensuring that feedstuffs, including mushrooms and mycelium, originate from safe and informative sources, thereby protecting soil health across the continent.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:23.678247",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 198,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 2507,
+      "selected_avg_freq": 990.9466666666667
+    },
+    "related_words": [
+      "mycelium",
+      "refinement",
+      "substrate",
+      "substrates",
+      "informative",
+      "continent",
+      "mushroom",
+      "heated",
+      "feedstuffs",
+      "particle",
+      "manure",
+      "mushrooms",
+      "straw",
+      "ussr",
+      "originates",
+      "bar",
+      "pathogens",
+      "algeria",
+      "minutes",
+      "foresee",
+      "evident",
+      "tunisia",
+      "item",
+      "precision",
+      "core",
+      "temperature",
+      "morocco",
+      "spreading",
+      "regulating",
+      "israel"
+    ],
+    "prompt_length": 1661,
+    "category": "5206 environmental policy"
+  }
+}

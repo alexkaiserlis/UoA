@@ -1,0 +1,63 @@
+{
+  "concept_id": "5907",
+  "concept_data": {
+    "title": "health statistics",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Health statistics within the EU context encompass systematic collections of data that inform healthcare policies and practices. These statistics are crucial for conducting studies and ensuring comparability across member states, such as Romania and the Netherlands. Eurostat plays a pivotal role in the transmission of health data, providing guidelines and metadata that enhance the availability of information. The OECD also contributes to this field through joint meetings and pilot projects, facilitating adaptations to national health systems. Definitions of health concepts are discussed in various texts, ensuring that statistical collections reflect the burden of disease and healthcare expenditure over specified periods.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:37.227681",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 159,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1652.2333333333333
+    },
+    "related_words": [
+      "collections",
+      "metadata",
+      "healthcare",
+      "concepts",
+      "conducting",
+      "discussed",
+      "manual",
+      "oecd",
+      "eurostat",
+      "questionnaire",
+      "romanian",
+      "instituted",
+      "comparability",
+      "pilot",
+      "systematic",
+      "user",
+      "intervals",
+      "accompanying",
+      "britain",
+      "meetings",
+      "jointly",
+      "definitions",
+      "voluntary",
+      "studies",
+      "adaptations",
+      "accounts",
+      "northern",
+      "availability",
+      "dutch",
+      "transition"
+    ],
+    "prompt_length": 1694,
+    "category": "2841 health"
+  }
+}

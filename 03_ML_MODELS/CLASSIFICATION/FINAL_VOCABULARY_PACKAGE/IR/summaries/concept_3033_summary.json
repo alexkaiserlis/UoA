@@ -1,0 +1,63 @@
+{
+  "concept_id": "3033",
+  "concept_data": {
+    "title": "software piracy",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer piracy",
+    "relation_type": "USE"
+  },
+  "summary": "Software piracy, also known as computer piracy, refers to the unauthorized copying, distribution, or use of software programs, infringing on the rights of rightholders. In the EU, this practice raises significant legal issues under copyright law, particularly concerning the Berne Convention's principles. Jurisprudence surrounding software piracy often involves the decompilation of programs to achieve interoperability, which can conflict with lawful use. The aesthetic and literary attributes of software are protected, and unauthorized acquirers may face legal consequences. The EU has enacted regulations to avoid prejudices against authors, ensuring that unauthorized exchanges of software remain void, thereby protecting the integrity of digital telecommunication and hardware interfaces.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:27:51.532463",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 348,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 865,
+      "selected_avg_freq": 359.81333333333333
+    },
+    "related_words": [
+      "decompilation",
+      "pseudonymous",
+      "aesthetic",
+      "rightholder",
+      "prejudices",
+      "underlie",
+      "acquirer",
+      "copied",
+      "algorithms",
+      "literary",
+      "jurisprudence",
+      "fifty",
+      "author",
+      "logic",
+      "ideas",
+      "attributes",
+      "connect",
+      "berne",
+      "null",
+      "artistic",
+      "rental",
+      "anonymous",
+      "copyright",
+      "programs",
+      "telecommunication",
+      "hardware",
+      "interfaces",
+      "unauthorized",
+      "logical",
+      "interaction"
+    ],
+    "prompt_length": 1767,
+    "category": "3236 information technology and data processing"
+  }
+}

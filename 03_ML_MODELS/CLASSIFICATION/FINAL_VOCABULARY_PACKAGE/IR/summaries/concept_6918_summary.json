@@ -1,0 +1,63 @@
+{
+  "concept_id": "6918",
+  "concept_data": {
+    "title": "moose",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "cervidae",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"moose\" is a redirect to the preferred term \"cervidae,\" encompassing various species of cervids, including elk and deer. In the context of EU legal and regulatory frameworks, cervids are significant as they are often farmed for meat and other products. The EU has established regulations to minimize the risk of transmissible spongiform encephalopathies (TSEs) in domestic and wild cervids, emphasizing the importance of veterinary certification for the importation and exportation of live animals, ova, and embryos. These measures aim to reinforce disease prevention strategies and ensure the safety of the food chain while addressing reported cases of chronic wasting disease in countries like Canada and America.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:58:27.545003",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1702.6666666666667
+    },
+    "related_words": [
+      "cervid",
+      "wasting",
+      "elk",
+      "cervids",
+      "deer",
+      "native",
+      "precluded",
+      "ruminant",
+      "counties",
+      "chronic",
+      "encephalopathies",
+      "ova",
+      "embryos",
+      "semen",
+      "transmissible",
+      "spongiform",
+      "steering",
+      "farmed",
+      "named",
+      "elsewhere",
+      "minimise",
+      "reinforced",
+      "posed",
+      "wild",
+      "eradication",
+      "canada",
+      "preparations",
+      "meat",
+      "disease",
+      "reported"
+    ],
+    "prompt_length": 1687,
+    "category": "5626 means of agricultural production"
+  }
+}

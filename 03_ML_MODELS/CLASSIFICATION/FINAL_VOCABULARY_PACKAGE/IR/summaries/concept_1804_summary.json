@@ -1,0 +1,63 @@
+{
+  "concept_id": "1804",
+  "concept_data": {
+    "title": "securities market",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "financial market",
+    "relation_type": "USE"
+  },
+  "summary": "The \"securities market,\" redirected to the preferred term \"financial market,\" encompasses a complex framework within EU legal and regulatory documents. It involves various instruments such as equities and obligations, facilitating capital movement and investment. Regulatory bodies oversee the soundness of these markets, ensuring compliance with frameworks like AIFM and ESMA guidelines. The market's structure includes unitholders and AIFs, which are subject to redemptions and repurchases, impacting liquidity. Policymaking in this sector addresses issues like insider trading and suspicious activities, while the ESRB monitors systemic risks. The multiplicity of instruments, including sips and factoring, underscores the market's dynamic nature, requiring robust oversight to prevent malfunctioning and ensure stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:07:59.781689",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1271,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 105,
+      "selected_avg_freq": 45.473333333333336
+    },
+    "related_words": [
+      "sips",
+      "irpeg",
+      "cadastral",
+      "sostituto",
+      "imposta",
+      "larosière",
+      "aif",
+      "repurchases",
+      "redeems",
+      "unitholders",
+      "redemptions",
+      "exercisable",
+      "fscg",
+      "eccg",
+      "conveying",
+      "resourced",
+      "fighters",
+      "prepayments",
+      "obblighi",
+      "aifm",
+      "equate",
+      "uncoordinated",
+      "equities",
+      "factoring",
+      "ifric",
+      "teg",
+      "aifs",
+      "suspicious",
+      "pledging",
+      "redeemed"
+    ],
+    "prompt_length": 1725,
+    "category": "2421 free movement of capital"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1440",
+  "concept_data": {
+    "title": "flood",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"flood\" within EU legal and regulatory frameworks pertains to the deterioration of the environment, particularly in the context of severe weather events. Flooding can lead to disastrous consequences, including landslides and significant damages to municipalities and agricultural parcels, such as vineyards and fields of carrots and parsnips. The EU's regulatory provisions, including the EU Floods Directive (EUSF), aim to alleviate the impacts of floods through detailed risk assessments and validly structured emergency responses. Events like storm Xynthia have exposed vulnerabilities in flood management systems, necessitating comprehensive strategies to protect victims and ensure suitable relief measures are in place for affected areas, including regions like Liguria and Tuscany.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:12.566326",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 543,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 566,
+      "selected_avg_freq": 264.08
+    },
+    "related_words": [
+      "servere",
+      "provisin",
+      "disastrous",
+      "eusf",
+      "xynthia",
+      "dtailed",
+      "validly",
+      "evacuation",
+      "parsnips",
+      "hérault",
+      "assemblers",
+      "flooded",
+      "landslides",
+      "flood",
+      "bicycle",
+      "bicycles",
+      "compelling",
+      "alleviating",
+      "storm",
+      "constitutive",
+      "lucrative",
+      "valley",
+      "liguria",
+      "rainfall",
+      "tuscany",
+      "parcel",
+      "earthquake",
+      "flowering",
+      "reliefs",
+      "marche"
+    ],
+    "prompt_length": 1671,
+    "category": "5216 deterioration of the environment"
+  }
+}

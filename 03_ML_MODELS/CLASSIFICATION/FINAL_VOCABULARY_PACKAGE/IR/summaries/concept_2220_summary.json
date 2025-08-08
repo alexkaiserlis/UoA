@@ -1,0 +1,63 @@
+{
+  "concept_id": "2220",
+  "concept_data": {
+    "title": "intra-Eurosystem transaction",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "intra-EU payment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"intra-Eurosystem transaction,\" redirected to \"intra-EU payment,\" pertains to the framework governing cross-border payments within the EU. These transactions are essential for corporates and merchants, as they facilitate seamless financial interactions across member states. Under the Single Euro Payments Area (SEPA), instruments like SEPA Credit Transfers (SCT) and SEPA Direct Debits (SDD) harmonise payment processes, ensuring that lenders and borrowers can efficiently manage their accounts using IBAN and BIC codes. Regulatory overseers, such as the Bundesbank and the European Central Bank, conduct simulations to identify potential bottlenecks and interferences in the system. The prudence of these transactions is vital for maintaining systemically important financial infrastructures, while addressing legacy issues through migration strategies. This regulatory landscape ensures that payments are addressable and reliable, ultimately fostering a robust economic environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:12:47.024070",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 705,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 300,
+      "selected_avg_freq": 118.58666666666667
+    },
+    "related_words": [
+      "sepa",
+      "sct",
+      "sdd",
+      "iban",
+      "scts",
+      "sdds",
+      "corporates",
+      "oversees",
+      "addressable",
+      "overseer",
+      "sips",
+      "lenders",
+      "migrated",
+      "intraday",
+      "debits",
+      "interferences",
+      "grandfathering",
+      "vendors",
+      "simulations",
+      "pssc",
+      "kfw",
+      "overseers",
+      "debit",
+      "pooled",
+      "prudence",
+      "bundesbank",
+      "simulator",
+      "bic",
+      "systemically",
+      "interfered"
+    ],
+    "prompt_length": 1708,
+    "category": "2411 monetary economics"
+  }
+}

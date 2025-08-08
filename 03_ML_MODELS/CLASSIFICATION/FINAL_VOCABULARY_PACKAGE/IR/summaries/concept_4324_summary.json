@@ -1,0 +1,63 @@
+{
+  "concept_id": "4324",
+  "concept_data": {
+    "title": "Switzerland",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Switzerland, a pivotal entity in political geography, engages in multifaceted cooperation with the EU, particularly in sectors like veterinary services (vétérinaire) and technological advancements (techbological). The cantonal structure of Switzerland, exemplified by regions such as Fribourgeois and Schaffhausen, influences regulatory frameworks, including those governing speciesoj and thrombosis. The Bundesamt oversees compliance, ensuring that objectors to regulations are adequately addressed. In intersessional meetings, Swiss representatives discuss matters ranging from cabling to the management of cardoons. The relationship between Switzerland and the EU is characterized by a pluri-faceted approach, enhancing bilateral agreements and fostering economic ties, particularly in southeastern regions like Vaduz and Laufenburg.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:18:47.854201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2363,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 15.0
+    },
+    "related_words": [
+      "memer",
+      "cytology",
+      "gruyă",
+      "techbological",
+      "asor",
+      "fribourgeois",
+      "cardoons",
+      "livret",
+      "conducteur",
+      "professionnel",
+      "văšhicules",
+      "tachygraph",
+      "impressed",
+      "cabling",
+      "texturizing",
+      "coopearation",
+      "cantonal",
+      "bcr",
+      "vaduz",
+      "trubschachen",
+      "trub",
+      "langnau",
+      "eggiwil",
+      "signau",
+      "lauperswil",
+      "escholzmatt",
+      "marbach",
+      "fntdef",
+      "pluri",
+      "bundesamt"
+    ],
+    "prompt_length": 1688,
+    "category": "7236 political geography"
+  }
+}

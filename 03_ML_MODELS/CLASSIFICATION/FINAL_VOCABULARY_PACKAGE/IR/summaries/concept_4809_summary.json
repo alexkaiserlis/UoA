@@ -1,0 +1,63 @@
+{
+  "concept_id": "4809",
+  "concept_data": {
+    "title": "urbanised region",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "urban area",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"urbanised region,\" redirected to \"urban area,\" encompasses densely populated agglomerations characterized by significant construction and town planning activities. In the EU regulatory context, these regions are critical for managing transnational issues such as sanitation, eutrophication, and the impacts of discharges on estuaries like the Tagus. Effective urban planning must consider hydrodynamic factors, including currents and tides, to maximize environmental quality and mitigate bacteriological and microbiological risks. Furthermore, networking among players in urban governance is essential for disseminating best practices and ensuring predictable outcomes in urban development. This overview highlights the importance of streamlined regulations to address the complexities of urban agglomerations while maintaining ecological balance.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:24:16.881267",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 535,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 564,
+      "selected_avg_freq": 242.32
+    },
+    "related_words": [
+      "relay",
+      "estoril",
+      "beaches",
+      "carcavelos",
+      "parede",
+      "rainha",
+      "cresmina",
+      "tamariz",
+      "torre",
+      "hydrodynamic",
+      "agglomeration",
+      "tagus",
+      "trophic",
+      "currents",
+      "tides",
+      "agglomerations",
+      "estuary",
+      "algarve",
+      "bathing",
+      "sanitation",
+      "eutrophication",
+      "benthic",
+      "streamlined",
+      "pedro",
+      "bacteriological",
+      "solids",
+      "dilution",
+      "transfrontier",
+      "disseminate",
+      "maximising"
+    ],
+    "prompt_length": 1748,
+    "category": "2846 construction and town planning"
+  }
+}

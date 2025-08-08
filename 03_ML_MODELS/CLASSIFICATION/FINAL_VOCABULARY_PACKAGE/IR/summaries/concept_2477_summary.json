@@ -1,0 +1,63 @@
+{
+  "concept_id": "2477",
+  "concept_data": {
+    "title": "agricultural production policy",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"agricultural production policy\" within the EU framework encompasses regulations aimed at stabilizing agricultural markets and ensuring sustainable practices. This policy addresses various challenges, including the abandonment of unharvested plots and the need for extensification in production methods. Particularly, it promotes rotational cultivation to prevent soil depletion and supports interbranch cooperation among producers. The policy also emphasizes the importance of regionalization, allowing for the recognition of geographical indications, such as \"indicazione geografica tipica.\" By incentivizing practices like replanting orchards and vineyards, the EU aims to mitigate the impacts of unpredictable climatic conditions and ensure that agricultural production remains resilient and commensurately productive.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:17.654197",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1036,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 237,
+      "selected_avg_freq": 113.93333333333334
+    },
+    "related_words": [
+      "whetever",
+      "resting",
+      "unharvested",
+      "particulrly",
+      "stremme",
+      "commensurately",
+      "mandarin",
+      "needing",
+      "abondonment",
+      "cultivating",
+      "indicazione",
+      "geografica",
+      "tipica",
+      "grub",
+      "freed",
+      "interbranch",
+      "rested",
+      "replant",
+      "orchard",
+      "overwhelming",
+      "expended",
+      "replanted",
+      "landwein",
+      "plots",
+      "vino",
+      "overshoot",
+      "stabilizer",
+      "groves",
+      "vinho",
+      "unpredictable"
+    ],
+    "prompt_length": 1731,
+    "category": "5611 agricultural structures and production"
+  }
+}

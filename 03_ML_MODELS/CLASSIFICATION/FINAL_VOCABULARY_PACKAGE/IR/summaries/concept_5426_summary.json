@@ -1,0 +1,63 @@
+{
+  "concept_id": "5426",
+  "concept_data": {
+    "title": "European Medicines Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Medicines Agency (EMA) plays a pivotal role in the regulatory framework of the EU, overseeing the evaluation and supervision of medicinal products and therapies. It is responsible for pharmacovigilance, ensuring that contraindications are addressed and that patient safety is prioritized. The EMA appoints experts to assess orphan drugs and paediatric therapies, including proprietary compounds like valnemulin and methylprednisolone. Its centralised and decentralised procedures facilitate the approval of medications while minimising risks associated with pharmacotoxicological effects. The agency also discusses issues related to animal husbandry, particularly concerning the administration of salicylate and acetyl compounds in rabbits and turkeys, ensuring compliance with maximum residue limits (MRLs) and safeguarding public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:21.316606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 585,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 485,
+      "selected_avg_freq": 196.0
+    },
+    "related_words": [
+      "ema",
+      "therapies",
+      "clinicians",
+      "valnemulin",
+      "emea",
+      "contraindications",
+      "reappointment",
+      "paediatric",
+      "salicylic",
+      "orphan",
+      "pharmacotoxicological",
+      "methylprednisolone",
+      "comp",
+      "salicylate",
+      "topical",
+      "patient",
+      "bodyweight",
+      "pharmacovigilance",
+      "cvmp",
+      "appoints",
+      "acetyl",
+      "therapy",
+      "resigned",
+      "assembling",
+      "minimised",
+      "rounded",
+      "deferral",
+      "depletion",
+      "mrl",
+      "rabbits"
+    ],
+    "prompt_length": 1753,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

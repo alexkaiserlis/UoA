@@ -1,0 +1,63 @@
+{
+  "concept_id": "842",
+  "concept_data": {
+    "title": "mule",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "equidae",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"mule\" redirects to \"equidae,\" encompassing various equine species, including mules and donkeys. These animals are often identified through tattooing and studbooks, ensuring responsible breeding practices and accurate pedigrees. Regulations governing equine health address concerns such as piroplasmosis and metritis, with pharmacodynamic considerations for treatments like firocoxib. Mules, as clovenhoofed animals, may participate in events like the olympiad or eventing at racecourses. Compliance with health standards is crucial, as inaccuracies in identification can lead to issues in seronegativity and overall animal welfare. The governance of equine populations is vital for maintaining integrity in breeding and competition.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:12:48.812124",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2197,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 16,
+      "selected_avg_freq": 8.673333333333334
+    },
+    "related_words": [
+      "branding",
+      "indentified",
+      "indentification",
+      "tattooing",
+      "thoroughbred",
+      "pedigrees",
+      "studbook",
+      "reponsible",
+      "olympiad",
+      "eventing",
+      "pharmacodynamic",
+      "firocoxib",
+      "metritis",
+      "atlanta",
+      "inaccurately",
+      "spreadsheet",
+      "quito",
+      "issyk",
+      "coggins",
+      "mallein",
+      "mules",
+      "donkeys",
+      "racecourses",
+      "ceará",
+      "piaui",
+      "piroplasmosis",
+      "equi",
+      "caballi",
+      "shortlasting",
+      "seronegativity"
+    ],
+    "prompt_length": 1717,
+    "category": "5626 means of agricultural production"
+  }
+}

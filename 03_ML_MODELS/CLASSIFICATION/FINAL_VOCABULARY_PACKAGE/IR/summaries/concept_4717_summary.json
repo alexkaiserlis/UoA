@@ -1,0 +1,63 @@
+{
+  "concept_id": "4717",
+  "concept_data": {
+    "title": "wine of superior quality",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"wine of superior quality\" refers to specific classifications within EU regulations that denote wines produced under strict criteria, ensuring exclusiveness and high standards. These wines, often identified by their unique terroirs, such as Châteauneuf and Valdepeñas, are subject to particular tariffa arrangements and must comply with rigorous production methods, including méthode champenoise for sparkling varieties. Regulatory frameworks evaluate these wines based on factors like cuvées and regional designations, such as Gigondas and Priorato. Misrepresentation of such wines can lead to severe penalties, underscoring the importance of accurate labeling and adherence to established norms, including the annex of quality standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:08:22.852430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1581,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 72,
+      "selected_avg_freq": 24.813333333333333
+    },
+    "related_words": [
+      "tariffa",
+      "accompaanied",
+      "aggrangements",
+      "reduging",
+      "quopta",
+      "untied",
+      "compiy",
+      "cuvées",
+      "lires",
+      "annnex",
+      "gigondas",
+      "tirage",
+      "stirrers",
+      "châteauneuf",
+      "pape",
+      "tenure",
+      "priorato",
+      "valdepeñas",
+      "desision",
+      "evaluing",
+      "privided",
+      "egialia",
+      "akhaia",
+      "slpes",
+      "currant",
+      "expedition",
+      "misrepresentation",
+      "stremme",
+      "spéciale",
+      "hausmarke"
+    ],
+    "prompt_length": 1689,
+    "category": "6021 beverages and sugar"
+  }
+}

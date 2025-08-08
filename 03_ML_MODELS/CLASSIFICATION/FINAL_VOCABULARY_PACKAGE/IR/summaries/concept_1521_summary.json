@@ -1,0 +1,63 @@
+{
+  "concept_id": "1521",
+  "concept_data": {
+    "title": "fallow",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU agricultural regulation, \"fallow\" refers to land that is intentionally left resting and unharvested to enhance soil health and minimize weeds. This practice is often part of rotational cultivation strategies, allowing crops like sugarbeet, rapeseed, and linseed to thrive in subsequent seasons. The decoupling of agricultural subsidies encourages farmers to set aside lands, promoting biodiversity and reducing nitrates in the soil. Historically, fallow periods have been essential for rebuilding soil fertility, particularly in perennial groves or lavender fields. However, complications arise in managing fallow lands, as collectors of agricultural data must navigate the practicalities of sanctioned practices and the implications of tetrahydrocannabinol (THC) cultivation. The EU framework aims to redefine agricultural practices while ensuring compliance with environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:08.497085",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 912,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 290,
+      "selected_avg_freq": 131.8
+    },
+    "related_words": [
+      "resting",
+      "unharvested",
+      "lavender",
+      "lavandin",
+      "sage",
+      "setaside",
+      "souces",
+      "miscanthus",
+      "practicality",
+      "decoupling",
+      "correspondent",
+      "thc",
+      "claimant",
+      "sanctioned",
+      "weeds",
+      "shredded",
+      "collectors",
+      "backdrop",
+      "rested",
+      "minimizing",
+      "collector",
+      "xib",
+      "sinensis",
+      "perennial",
+      "litter",
+      "ginning",
+      "levelling",
+      "tetrahydrocannabinol",
+      "groves",
+      "sugarbeet"
+    ],
+    "prompt_length": 1698,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

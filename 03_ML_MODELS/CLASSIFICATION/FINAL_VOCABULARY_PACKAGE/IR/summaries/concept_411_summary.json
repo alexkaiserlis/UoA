@@ -1,0 +1,63 @@
+{
+  "concept_id": "411",
+  "concept_data": {
+    "title": "disarmament",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Disarmament, a critical concept within international security, encompasses efforts to reduce or eliminate weapons, particularly those posing a threat to civilians, such as landmines and chemical weapons. The EU actively engages in disarmament initiatives, endorsing treaties like the Ottawa Convention, which aims to eliminate landmines, and the Chemical Weapons Convention (CWC). These frameworks illustrate the EU's commitment to overseeing stockpiles and ensuring accountability in weapon destruction. The challenges of disarmament are daunting, especially in conflict zones like Syria, where unexploded ordnance poses ongoing dangers. The EU's leadership in disarmament efforts emphasizes the importance of rehabilitation for displaced populations and the need for budgeted resources to address emergencies, affirming its role in advancing global security.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:38.139576",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 473,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 480,
+      "selected_avg_freq": 179.38
+    },
+    "related_words": [
+      "gramsh",
+      "illustrates",
+      "tragedy",
+      "landmine",
+      "outrage",
+      "rif",
+      "damascus",
+      "cwc",
+      "daunting",
+      "unexploded",
+      "communiqué",
+      "imperatives",
+      "discrete",
+      "undp",
+      "landmines",
+      "civilians",
+      "casualties",
+      "overseeing",
+      "ottawa",
+      "condemning",
+      "dec",
+      "affirming",
+      "emphasising",
+      "dda",
+      "opcw",
+      "perhaps",
+      "obstruct",
+      "poorest",
+      "stockpiles",
+      "instrumental"
+    ],
+    "prompt_length": 1691,
+    "category": "0816 international security"
+  }
+}

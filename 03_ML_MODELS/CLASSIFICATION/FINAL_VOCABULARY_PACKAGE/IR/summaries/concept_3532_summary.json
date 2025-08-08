@@ -1,0 +1,63 @@
+{
+  "concept_id": "3532",
+  "concept_data": {
+    "title": "vocational upgrading",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "updating of skills",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vocational upgrading,\" redirected to \"updating of skills,\" is pivotal in EU employment regulations aimed at enhancing employability and workforce adaptability. This process involves retooling employees through retraining courses offered by colleges and schools, which are designed to align with the evolving demands of industries, such as automotive manufacturers like Opel and Astra. By investing in skills development, the EU fosters compatibility between manpower needs and economic realities. Programs often utilize vouchers to support trainees, ensuring that the theoretical and practical aspects of learning are addressed. This approach not only favours skilled employment but also enhances the transferable skills necessary for a dynamic job market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:57.852352",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 428,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 730,
+      "selected_avg_freq": 323.6066666666667
+    },
+    "related_words": [
+      "compativility",
+      "retool",
+      "olympia",
+      "tuition",
+      "astra",
+      "assembles",
+      "opel",
+      "trainees",
+      "colleges",
+      "wanted",
+      "retraining",
+      "leisure",
+      "employability",
+      "shop",
+      "flemish",
+      "voucher",
+      "manpower",
+      "economics",
+      "intensities",
+      "residential",
+      "antwerp",
+      "employs",
+      "motors",
+      "skilled",
+      "manufactures",
+      "lean",
+      "seemed",
+      "courses",
+      "schools",
+      "theoretical"
+    ],
+    "prompt_length": 1692,
+    "category": "4406 employment"
+  }
+}

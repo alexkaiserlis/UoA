@@ -1,0 +1,63 @@
+{
+  "concept_id": "7816",
+  "concept_data": {
+    "title": "regions of the Czech Republic",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"regions of the Czech Republic\" refers to distinct administrative areas recognized within EU legal frameworks, particularly concerning the designation of products and foodstuffs. These regions, such as Chelčicko and Lhenické, are essential for the protection of geographical indications (PGI) and traditional expressions, especially for wines and other agricultural products. The EU regulatory regime mandates specific labelling and packaging requirements to ensure that products entering the market carry accurate descriptions and indications of their origin. This includes the registration of names and designations that reflect the character and varieties of local produce, thereby enhancing consumer awareness and protecting regional heritage.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:19:13.702296",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 146,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 146,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1816.458904109589
+    },
+    "related_words": [
+      "chelčicko",
+      "lhenické",
+      "ovoce",
+      "synonyms",
+      "expressions",
+      "printed",
+      "labels",
+      "vine",
+      "describe",
+      "pgi",
+      "trans",
+      "wines",
+      "existed",
+      "necessarily",
+      "varieties",
+      "designations",
+      "objection",
+      "packaging",
+      "designation",
+      "wine",
+      "character",
+      "labelling",
+      "slovakia",
+      "modify",
+      "pre",
+      "growing",
+      "indications",
+      "protected",
+      "indication",
+      "traditional"
+    ],
+    "prompt_length": 1684,
+    "category": "7211 regions of EU Member States"
+  }
+}

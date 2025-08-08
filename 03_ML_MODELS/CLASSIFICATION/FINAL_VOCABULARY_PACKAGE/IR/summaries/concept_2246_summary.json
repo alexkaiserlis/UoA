@@ -1,0 +1,63 @@
+{
+  "concept_id": "2246",
+  "concept_data": {
+    "title": "Member of Parliament",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"Member of Parliament\" (MP) within the context of the European Union is an appointed individual who holds office in the European Parliament, representing the interests of citizens across the member states. MPs are integral to the legislative process, determining regulations that govern economic communities, including the European Atomic Energy Community (EURATOM) and the European Economic Community (EEC). Their responsibilities include amending treaties and overseeing commissions established by the Council. Emoluments for MPs are defined by official regulations, and their roles have evolved since the formation of the European Communities. The Journal of the European Union documents their activities and decisions, reflecting their influence on community governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:40:39.974109",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 34,
+      "requested_words": 150,
+      "min_frequency_found": 58,
+      "max_frequency_found": 4108,
+      "selected_words": 34,
+      "selected_min_freq": 58,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2154.1176470588234
+    },
+    "related_words": [
+      "emoluments",
+      "eaec",
+      "commissions",
+      "hold",
+      "ceased",
+      "appointed",
+      "atomic",
+      "ecsc",
+      "former",
+      "office",
+      "energy",
+      "euratom",
+      "determining",
+      "authority",
+      "determine",
+      "members",
+      "single",
+      "high",
+      "february",
+      "april",
+      "amending",
+      "july",
+      "eec",
+      "economic",
+      "communities",
+      "journal",
+      "official",
+      "regulation",
+      "community",
+      "establishing"
+    ],
+    "prompt_length": 1492,
+    "category": "0421 parliament"
+  }
+}

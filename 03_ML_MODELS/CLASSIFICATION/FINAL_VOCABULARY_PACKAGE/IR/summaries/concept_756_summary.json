@@ -1,0 +1,63 @@
+{
+  "concept_id": "756",
+  "concept_data": {
+    "title": "solar radiation",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": true,
+    "preferred_term": "solar energy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"solar radiation,\" redirected to the preferred term \"solar energy,\" plays a crucial role in EU legal and regulatory frameworks concerning soft energy. This category encompasses various initiatives aimed at mobilising resources for sustainable energy production. In Germany, for instance, enterprises are encouraged to submit proposals that comply with EU directives on solar energy, contributing to the structural adjustments necessary for a greener economy. The European Globalisation Fund (EGF) assists redundant workers in the manufacturing sector, facilitating their reintegration into the labour market. The EU budgetary framework allows for additional financial contributions to support solar energy projects, ensuring sound management of resources and compliance with annual targets.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:34.614955",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 78,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 78,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1803.9358974358975
+    },
+    "related_words": [
+      "germanysubmitted",
+      "solar",
+      "egf",
+      "redundancies",
+      "reintegration",
+      "globalisation",
+      "mobilised",
+      "mobilise",
+      "mobilisation",
+      "redundant",
+      "enterprise",
+      "proposes",
+      "gmbh",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "labour",
+      "manufacturing",
+      "contributions",
+      "workers",
+      "complies",
+      "ceiling",
+      "assist",
+      "supplemented",
+      "eur",
+      "budgetary",
+      "sound",
+      "allows",
+      "million",
+      "structural"
+    ],
+    "prompt_length": 1715,
+    "category": "6626 soft energy"
+  }
+}

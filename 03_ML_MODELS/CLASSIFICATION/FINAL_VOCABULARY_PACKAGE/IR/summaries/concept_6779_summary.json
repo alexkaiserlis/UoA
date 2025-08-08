@@ -1,0 +1,26 @@
+{
+  "concept_id": "6779",
+  "concept_data": {
+    "title": "worm",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "malware",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"worm\" is a redirect to the preferred term \"malware.\" Malware encompasses a variety of malicious software, including worms, which autonomously replicate and spread across networks, posing significant risks to information technology systems. The European Union has established regulations aimed at combating malware, emphasizing the need for robust cybersecurity measures to protect data processing and information technology infrastructure. Understanding the implications of malware, including worms, is crucial for compliance with EU directives, such as the General Data Protection Regulation (GDPR) and the Cybersecurity Act, which mandate the safeguarding of personal and sensitive data against such threats.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:15:48.510798",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1213,
+    "category": "3236 information technology and data processing"
+  }
+}

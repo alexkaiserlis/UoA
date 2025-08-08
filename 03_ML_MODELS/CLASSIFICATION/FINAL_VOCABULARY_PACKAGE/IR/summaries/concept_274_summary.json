@@ -1,0 +1,63 @@
+{
+  "concept_id": "274",
+  "concept_data": {
+    "title": "cost of living index",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": true,
+    "preferred_term": "cost of living",
+    "relation_type": "USE"
+  },
+  "summary": "The \"cost of living index,\" a redirect to the preferred term \"cost of living,\" is a critical metric in EU legal and regulatory frameworks, assessing economic conditions. It measures the variation in living expenses, incorporating weightings for essential goods and services, including food, housing, and healthcare. This index is vital for adjusting pensions and remuneration for officials, ensuring that salaries reflect upward or downward trends in living costs. Moreover, it aids in monitoring economic recovery and assessing the impact of zoonoses, such as salmonella, on public health. Accurate statistics, including coefficients and corrections, are essential for enabling effective policy decisions and appropriations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:42:08.402418",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 176,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 3127,
+      "selected_avg_freq": 1503.1866666666667
+    },
+    "related_words": [
+      "echinoccosis",
+      "hydatidosis",
+      "overpaid",
+      "weightings",
+      "salmonella",
+      "upward",
+      "zoonoses",
+      "retrospective",
+      "downward",
+      "weighting",
+      "pensions",
+      "servants",
+      "serving",
+      "remuneration",
+      "twelve",
+      "variation",
+      "measured",
+      "sums",
+      "coefficients",
+      "individually",
+      "poultry",
+      "officials",
+      "correction",
+      "appropriations",
+      "back",
+      "qualifying",
+      "adjusting",
+      "staff",
+      "payable",
+      "living"
+    ],
+    "prompt_length": 1736,
+    "category": "1611 economic conditions"
+  }
+}

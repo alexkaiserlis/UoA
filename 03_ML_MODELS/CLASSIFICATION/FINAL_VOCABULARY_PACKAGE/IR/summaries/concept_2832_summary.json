@@ -1,0 +1,63 @@
+{
+  "concept_id": "2832",
+  "concept_data": {
+    "title": "wiretapping",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": true,
+    "preferred_term": "protection of communications",
+    "relation_type": "USE"
+  },
+  "summary": "Wiretapping, often referred to in EU legal contexts as the \"protection of communications,\" involves the interception of private communications, primarily through telephone and internet networks. This practice raises significant concerns regarding rights and freedoms, particularly under the TFEU framework. The prohibition of unauthorized interception is critical to safeguarding individuals from repression and ensuring privacy. EU regulations negotiate the balance between security and personal freedoms, authorizing targeted surveillance only under strict conditions. Entities involved in such activities must adhere to classified protocols, ensuring compliance with the CFSP. The renewed emphasis on protecting communications underscores the gravity of safeguarding democratic values in foreign affairs.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:38.286750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1632.3032786885246
+    },
+    "related_words": [
+      "basij",
+      "ansar",
+      "hezbollah",
+      "irgc",
+      "revolutionary",
+      "iranian",
+      "corps",
+      "interception",
+      "guard",
+      "exchanging",
+      "repression",
+      "iran",
+      "telephone",
+      "software",
+      "teu",
+      "gravity",
+      "mobile",
+      "serbia",
+      "internet",
+      "directed",
+      "targeted",
+      "tfeu",
+      "networks",
+      "protecting",
+      "primarily",
+      "communications",
+      "cfsp",
+      "renewed",
+      "signing",
+      "affairs"
+    ],
+    "prompt_length": 1729,
+    "category": "1236 rights and freedoms"
+  }
+}

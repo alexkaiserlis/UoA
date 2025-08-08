@@ -1,0 +1,63 @@
+{
+  "concept_id": "6152",
+  "concept_data": {
+    "title": "zoonosis",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Zoonosis refers to diseases that can be transmitted from animals to humans, posing significant public health challenges within the EU. Regulatory frameworks emphasize the importance of monitoring zoonotic pathogens, such as Salmonella and Campylobacter jejuni, to mitigate morbidity and ensure food safety. The EU employs phagetyping and bacteriologically based audits to assess the prevalences of these microbials in food products. Prophylaxis measures, including the use of fluoroquinolone antibiotics, are regulated to prevent reinfection and shedding of zoonotic agents. Legal instruments delineate responsibilities among member states, ensuring compliance with standards that safeguard public health across neighboring regions, including southeastern enclaves like Sondrio and Mantova.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:36:15.040735",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1583,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 76,
+      "selected_avg_freq": 35.666666666666664
+    },
+    "related_words": [
+      "phagetyping",
+      "euphin",
+      "hsscd",
+      "auditability",
+      "reinfection",
+      "lecco",
+      "sondrio",
+      "mantova",
+      "zoonosis",
+      "southeastern",
+      "fluoroquinolone",
+      "breakpoints",
+      "jejuni",
+      "neighboring",
+      "capine",
+      "salvaged",
+      "microbials",
+      "salmonlla",
+      "alphacoronavirus",
+      "eurpoean",
+      "enteric",
+      "coronavirus",
+      "alphacoronaviruses",
+      "como",
+      "ascoli",
+      "zoontic",
+      "prophylaxis",
+      "deltacoronavirus",
+      "delineation",
+      "bacteriologically"
+    ],
+    "prompt_length": 1695,
+    "category": "2841 health"
+  }
+}

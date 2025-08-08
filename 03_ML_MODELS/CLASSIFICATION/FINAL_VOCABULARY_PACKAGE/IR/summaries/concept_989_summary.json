@@ -1,0 +1,63 @@
+{
+  "concept_id": "989",
+  "concept_data": {
+    "title": "glass fibre",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Glass fibre, categorized under chemistry (6811), is a significant material in the EU's regulatory framework, particularly concerning composite reinforcements. It is produced from melted glass, resulting in various forms such as rovings, mats, and chopped strands, which are utilized in diverse applications, including construction and automotive industries. The Commission_2010 has emphasized the importance of standards for glass fibre products to ensure safety and performance, addressing issues related to steadiness and durability. Producers, such as those in Valmieras and Menzolit, must comply with regulations that govern the disaggregated components like slivers and webs. Furthermore, the Euratex coalition advocates for sustainable practices in the production of glass fibre, ensuring that environmental impacts are mitigated.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:34:10.783638",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 761,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 204,
+      "selected_avg_freq": 83.27333333333333
+    },
+    "related_words": [
+      "mbg",
+      "fibron",
+      "mellert",
+      "bretten",
+      "menzolit",
+      "menzingen",
+      "tanto",
+      "apfe",
+      "reinforcements",
+      "steadiness",
+      "stitched",
+      "gffdc",
+      "voiles",
+      "slivers",
+      "predominate",
+      "fonalfeldolgozó",
+      "šķiedra",
+      "partie",
+      "webs",
+      "fonalfeldolgozo",
+      "skiedra",
+      "verre",
+      "slag",
+      "chopped",
+      "wools",
+      "adfors",
+      "tolnatext",
+      "valmieras",
+      "stikla",
+      "vitrulan"
+    ],
+    "prompt_length": 1640,
+    "category": "6811 chemistry"
+  }
+}

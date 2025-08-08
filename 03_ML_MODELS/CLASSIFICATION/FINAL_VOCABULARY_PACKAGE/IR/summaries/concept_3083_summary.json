@@ -1,0 +1,63 @@
+{
+  "concept_id": "3083",
+  "concept_data": {
+    "title": "economic accounts for agriculture",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic accounts for agriculture\" pertains to the systematic stratification of agricultural data within the EU's national accounts framework. This regulatory domain delimits the methodologies for collecting and analyzing agricultural statistics, ensuring representativeness and accuracy in reporting. The European Communities utilize these accounts to assess gainful activities, such as grazing and mushroom production, across diverse regions like Minho and Douro. The integration of FADN (Farm Accountancy Data Network) and ESU (Economic Size Unit) enhances the legibility of data, facilitating intermediation between sellers and storers. Censuses and inventories are crucial for understanding the dynamics of agricultural domains, while the typology of agricultural activities is factually determined through comprehensive surveys. This regulatory framework also addresses uncontrollable factors that may affect agricultural outputs, thereby supporting informed decision-making and policy development within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:09.504168",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 757,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 414,
+      "selected_avg_freq": 183.58
+    },
+    "related_words": [
+      "stratified",
+      "uncontrollable",
+      "gainful",
+      "caves",
+      "stratification",
+      "fadn",
+      "minho",
+      "litoral",
+      "delimits",
+      "oga",
+      "eaa",
+      "fisim",
+      "esu",
+      "concordance",
+      "beira",
+      "storers",
+      "entre",
+      "determing",
+      "trás",
+      "happens",
+      "intermediation",
+      "factually",
+      "montes",
+      "douro",
+      "europeancommunities",
+      "suppressed",
+      "christmas",
+      "typology",
+      "censuses",
+      "merging"
+    ],
+    "prompt_length": 1687,
+    "category": "1626 national accounts"
+  }
+}

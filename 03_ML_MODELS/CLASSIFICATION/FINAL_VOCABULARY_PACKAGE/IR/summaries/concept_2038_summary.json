@@ -1,0 +1,63 @@
+{
+  "concept_id": "2038",
+  "concept_data": {
+    "title": "Navarre",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Navarre, an autonomous province in Spain, is recognized within the EU's regulatory framework as a distinct region, categorized under 7211 regions of EU Member States. Its unique agricultural products, such as espárrago and avellino, are subject to specific designations like PDO (Protected Designation of Origin), ensuring quality and heritage. The region's programming aligns with EU funding mechanisms, including the ERDF (European Regional Development Fund) and ESF (European Social Fund), demonstrating additionality in allocations. Legal scrutiny of Navarre's compliance with statutory requirements includes monitoring for diseases like brucellosis and tuberculosis in herds, reflecting the EU's commitment to public health and economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:51:05.336366",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 274,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1473,
+      "selected_avg_freq": 778.5866666666667
+    },
+    "related_words": [
+      "espárrago",
+      "avellino",
+      "navarre",
+      "latina",
+      "aceite",
+      "navarra",
+      "melitensis",
+      "liguria",
+      "leukosis",
+      "consonant",
+      "lazio",
+      "enzootic",
+      "campania",
+      "tuberculosis",
+      "brucellosis",
+      "additionality",
+      "indexed",
+      "pdo",
+      "herds",
+      "esf",
+      "seq",
+      "erdf",
+      "mutatis",
+      "mutandis",
+      "caprine",
+      "eib",
+      "ovine",
+      "inflation",
+      "province",
+      "demonstrating"
+    ],
+    "prompt_length": 1681,
+    "category": "7211 regions of EU Member States"
+  }
+}

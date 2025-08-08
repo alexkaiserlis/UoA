@@ -1,0 +1,63 @@
+{
+  "concept_id": "2002",
+  "concept_data": {
+    "title": "flow of capital",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "capital movement",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"flow of capital,\" also referred to as \"capital movement,\" encompasses the seamless transfer of financial resources across borders within the EU. This regulatory framework aims to facilitate both inflow and outflow of capital, ensuring that residents can invest abroad without undue restrictions. The EU's legal instruments have relaxed previous barriers, allowing for the mobilizing of funds, which is paramount for economic growth. However, this flow can be fragile, necessitating attentively designed regulations to prevent unreported or untaxed transactions. As the G20 emphasizes transparency, the EU continues to develop measures that redress imbalances and combat dual taxation, ensuring that intermediaries operate within a robust legal framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:51:19.841794",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 783,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 341,
+      "selected_avg_freq": 166.10666666666665
+    },
+    "related_words": [
+      "presente",
+      "austere",
+      "outflow",
+      "untaxed",
+      "attentively",
+      "regrouping",
+      "acquires",
+      "redressed",
+      "worthiness",
+      "g20",
+      "invisible",
+      "rescinded",
+      "inflow",
+      "opcw",
+      "mobilizing",
+      "borrow",
+      "outweighed",
+      "ems",
+      "lend",
+      "merge",
+      "settlements",
+      "unreported",
+      "syrian",
+      "seamless",
+      "enacting",
+      "fragile",
+      "obtains",
+      "sterling",
+      "borrowing",
+      "paramount"
+    ],
+    "prompt_length": 1716,
+    "category": "2421 free movement of capital"
+  }
+}

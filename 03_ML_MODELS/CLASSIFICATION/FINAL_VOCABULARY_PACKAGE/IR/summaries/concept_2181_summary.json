@@ -1,0 +1,63 @@
+{
+  "concept_id": "2181",
+  "concept_data": {
+    "title": "organization of transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "organisation of transport",
+    "relation_type": "USE"
+  },
+  "summary": "The \"organisation of transport\" encompasses the strategic planning and regulation of transport systems within the EU, addressing inefficiencies and bottlenecks in congested areas. This concept is crucial for enhancing airspace management through frameworks like SESAR, which aims to mitigate operational challenges. Regulatory bodies such as Eurocontrol and EASA play pivotal roles in endorsing standards and ensuring compliance. The reconfiguration of transport networks must accommodate diverse loads and scheduling needs, while also flexibly addressing scarce resources like slots. By summarising the rationale behind these measures, the EU aims to achieve a more efficient transport system that unambiguously supports economic growth and connectivity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:23:51.829965",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 717,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 331,
+      "selected_avg_freq": 136.92666666666668
+    },
+    "related_words": [
+      "domodossola",
+      "domodossolla",
+      "euir",
+      "reconfiguration",
+      "congested",
+      "shearing",
+      "enablers",
+      "flexibly",
+      "fir",
+      "eatmn",
+      "tripping",
+      "marshalling",
+      "realistically",
+      "inefficiencies",
+      "accommodating",
+      "loaders",
+      "slipping",
+      "bottlenecks",
+      "unambiguously",
+      "sesar",
+      "disparate",
+      "atm",
+      "strategically",
+      "slot",
+      "slots",
+      "scarce",
+      "outlining",
+      "yard",
+      "scheduling",
+      "prerogatives"
+    ],
+    "prompt_length": 1761,
+    "category": "4811 organisation of transport"
+  }
+}

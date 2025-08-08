@@ -1,0 +1,63 @@
+{
+  "concept_id": "3490",
+  "concept_data": {
+    "title": "United Nations resolution",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "UN resolution",
+    "relation_type": "USE"
+  },
+  "summary": "A \"UN resolution,\" as categorized under international affairs, represents a formal decision or statement adopted by the United Nations Security Council (UNSC) or General Assembly. These resolutions often address critical global issues, including disarmament, ceasefire agreements, and the accountability of nations involved in hostilities. For instance, resolutions may incite action against violence in regions like Iraq or Libya, or promote reconciliation efforts in Bosnia. The EU frequently aligns its regulatory frameworks with UN resolutions to enhance diplomatic outreach and ensure compliance with international law. This relationship underscores the importance of UN resolutions in shaping EU policies, including embargoes and humanitarian assistance, while learning from past conflicts to foster peace and stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:19:04.155933",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 543,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 547,
+      "selected_avg_freq": 215.49333333333334
+    },
+    "related_words": [
+      "weapon",
+      "linas",
+      "marcoussis",
+      "accra",
+      "incites",
+      "hatred",
+      "ropealing",
+      "bombing",
+      "serbs",
+      "deploring",
+      "serb",
+      "sitting",
+      "iraqi",
+      "ceasefire",
+      "hostilities",
+      "carnet",
+      "haitian",
+      "outreach",
+      "bosnian",
+      "tir",
+      "violence",
+      "depositing",
+      "embracing",
+      "haiti",
+      "disarmament",
+      "lessons",
+      "kuwait",
+      "immunity",
+      "learned",
+      "scottish"
+    ],
+    "prompt_length": 1696,
+    "category": "0806 international affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2436",
+  "concept_data": {
+    "title": "freshwater fish",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"freshwater fish\" within EU fisheries regulation encompasses various species, including *Salmo gairdnerii* and *Oncorhynchus mykiss* (rainbow trout, *irideus*). These fish are subject to legal frameworks aimed at ensuring sustainable fishing practices and maintaining hydrographical balance in aquatic ecosystems. The EU's regulatory measures address issues such as viremia and ulcerative conditions affecting fish populations, while promoting the conservation of species like *Paralichthys olivaceus* (flounder) and eels. The community's approach includes monitoring fish availabilities and implementing readjustment strategies to mitigate destabilized populations. Additionally, the role of bacterium, such as *Carotenoid carotinifaciens*, in aquatic health is recognized, emphasizing the need for a comprehensive zoological understanding in fisheries management.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:21.277666",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 765,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 401,
+      "selected_avg_freq": 154.60666666666665
+    },
+    "related_words": [
+      "gairdnerii",
+      "irideus",
+      "aischgründer",
+      "trote",
+      "paracoccus",
+      "carotinifaciens",
+      "nite",
+      "magnetrons",
+      "dianol",
+      "paralichthys",
+      "olivaceus",
+      "brackish",
+      "třeboňský",
+      "kapr",
+      "destabilized",
+      "hydrographical",
+      "bacterium",
+      "karpfen",
+      "merluccius",
+      "zoological",
+      "framwork",
+      "grammes",
+      "viremia",
+      "carotenoid",
+      "herrings",
+      "readjustment",
+      "eus",
+      "svc",
+      "skinning",
+      "salmo"
+    ],
+    "prompt_length": 1681,
+    "category": "5641 fisheries"
+  }
+}

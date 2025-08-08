@@ -1,0 +1,63 @@
+{
+  "concept_id": "4682",
+  "concept_data": {
+    "title": "beef",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"beef\" within EU legal and regulatory frameworks pertains to the category of animal products, specifically focusing on the meat derived from cattle. Regulatory measures are established to ensure the quality and safety of beef, including the authorization of slaughterings and the monitoring of undertakings involved in beef production. Communities are required to adopt additional measures to prevent issues such as overdeclared and underdeclared weights in cartons of beef. The foresight into market dynamics is crucial, as swamping the market with unseparated beef products can undermine quality. Tenderness and strengthtening of beef are also considered, alongside the traceability of heifers and sires, ensuring that all products meet the determined standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:30.748327",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 4064,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 5.986666666666666
+    },
+    "related_words": [
+      "arrangeents",
+      "foresseeable",
+      "swamping",
+      "athorization",
+      "mesasures",
+      "bais",
+      "unseparated",
+      "hinquarters",
+      "commmunities",
+      "determinded",
+      "indertaking",
+      "mézenc",
+      "ochsen",
+      "behelf",
+      "tenderness",
+      "bying",
+      "adopoted",
+      "additionnal",
+      "unfolding",
+      "overdeclared",
+      "underdeclared",
+      "trated",
+      "saame",
+      "tenderes",
+      "bbb",
+      "cartons",
+      "gallega",
+      "heifer",
+      "orther",
+      "limitative"
+    ],
+    "prompt_length": 1676,
+    "category": "6011 animal product"
+  }
+}

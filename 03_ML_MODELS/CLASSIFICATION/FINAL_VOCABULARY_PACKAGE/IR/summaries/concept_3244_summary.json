@@ -1,0 +1,63 @@
+{
+  "concept_id": "3244",
+  "concept_data": {
+    "title": "co-insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Co-insurance is a contractual arrangement in which multiple insurers collectively cover a particular risk, thereby facilitating the distribution of liability among them. This practice is essential in the insurance sector, particularly for large-scale events or outstanding claims that may exceed the capacity of a single insurer. In the EU regulatory framework, co-insurance promotes competition and equality among insurers, ensuring that beneficiaries enjoy adequate assurance irrespective of nationality. It addresses potential distortions in the market by coordinating practices and reserves, thereby enhancing the supervisory oversight of insurance undertakings. Ultimately, co-insurance constitutes a vital step in the pursuit of economic efficiency and consumer protection within the insurance business.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:12:21.008677",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 114,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 114,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1700.2719298245613
+    },
+    "related_words": [
+      "insurer",
+      "inequality",
+      "insurers",
+      "winding",
+      "misuse",
+      "nationality",
+      "assurance",
+      "equality",
+      "outstanding",
+      "facilitated",
+      "supervisory",
+      "pursuit",
+      "enjoy",
+      "reserves",
+      "insurance",
+      "economically",
+      "irrespective",
+      "object",
+      "distortion",
+      "claims",
+      "beneficiaries",
+      "step",
+      "life",
+      "freedom",
+      "forwarded",
+      "liable",
+      "leading",
+      "contracts",
+      "covers",
+      "size"
+    ],
+    "prompt_length": 1663,
+    "category": "2431 insurance"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5219",
+  "concept_data": {
+    "title": "protection of forests",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": true,
+    "preferred_term": "forest conservation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"forest conservation,\" a redirect from \"protection of forests,\" encompasses a range of EU legal and regulatory frameworks aimed at safeguarding forest ecosystems. This includes addressing issues such as desertification and the impacts of logging, which can hamper biodiversity. Foresters and policymakers engage in silviculture practices that rationalise timber production while maintaining ecological integrity. The EU emphasizes the importance of regularity in monitoring meteorological conditions that influence forest health. Conferences, such as those in Rio and Helsinki, have established protocols for sustainable management, aiming to protect flora and fauna across diverse plots. The evolving legal landscape seeks to mitigate atmospheric irregularities and promote heritage conservation, ensuring that forests remain resilient against fires and abiotic stressors.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:21:15.077651",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 609,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 549,
+      "selected_avg_freq": 249.27333333333334
+    },
+    "related_words": [
+      "firefighters",
+      "silviculture",
+      "abiotic",
+      "temporal",
+      "sixty",
+      "vember",
+      "problematic",
+      "foresters",
+      "hampers",
+      "desertification",
+      "trustees",
+      "evolve",
+      "flegt",
+      "plots",
+      "logging",
+      "unctad",
+      "meteorological",
+      "janeiro",
+      "ecosystem",
+      "influencing",
+      "fires",
+      "sequence",
+      "expedite",
+      "spatial",
+      "rationalise",
+      "attach",
+      "strasbourg",
+      "practising",
+      "fifteen",
+      "rio"
+    ],
+    "prompt_length": 1733,
+    "category": "5636 forestry"
+  }
+}

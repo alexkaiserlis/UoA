@@ -1,0 +1,63 @@
+{
+  "concept_id": "5550",
+  "concept_data": {
+    "title": "mutual assistance in criminal matters",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "judicial cooperation in criminal matters in the EU",
+    "relation_type": "USE"
+  },
+  "summary": "\"Mutual assistance in criminal matters,\" now redirected to \"judicial cooperation in criminal matters in the EU,\" refers to the collaborative framework that enables EU judiciaries to rationalise the exchange of information and evidence across borders. This cooperation is crucial in addressing complex criminal activities, including those involving psychopharmacological substances like methylenedioxypyrovalerone (MDPV) and ketamine, which can lead to serious health issues such as hallucinations, psychosis, and overdoses. By facilitating the sharing of forensic data, the EU aims to combat the trafficking of hallucinogens and opioids, ensuring that member states can effectively respond to trauma and dysfunctions associated with drug abuse. This judicial cooperation is essential for maintaining public safety and addressing the multifaceted challenges posed by modern criminality.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:02:36.430183",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 1356,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 40,
+      "selected_avg_freq": 16.446666666666665
+    },
+    "related_words": [
+      "judiciaries",
+      "rationalises",
+      "nbome",
+      "benzamide",
+      "methylenedioxypyrovalerone",
+      "mdpv",
+      "methoxyphenyl",
+      "ethylamino",
+      "cyclohexanone",
+      "methoxetamine",
+      "neurochemistry",
+      "serotonergic",
+      "hallucinogen",
+      "auditory",
+      "hallucinations",
+      "trauma",
+      "lsd",
+      "opioid",
+      "analgesic",
+      "doxylam",
+      "doxylamine",
+      "antihistaminic",
+      "sedative",
+      "hypnotic",
+      "overdoses",
+      "opioids",
+      "euphoria",
+      "itchiness",
+      "medicating",
+      "injecting"
+    ],
+    "prompt_length": 1894,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2810",
+  "concept_data": {
+    "title": "theatre",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": true,
+    "preferred_term": "performing arts",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"theatre,\" categorized under culture and religion, is redirected to the preferred term \"performing arts\" within EU legal and regulatory frameworks. This encompasses various forms of artistic expression, including circus performances and amusement parks, which contribute to cultural tourism and local economies. The regulation of these activities often involves authorizations and exemptions from taxes, such as VAT, to promote cultural engagement. Accurate recording of turnover and contributions is essential for calculating the economic impact of these sectors. Distortions in competition may arise if some operators are unjustified in their tax exemptions, necessitating harmonization of regulations across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:45.668642",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 190,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2570,
+      "selected_avg_freq": 1121.4466666666667
+    },
+    "related_words": [
+      "amusement",
+      "circus",
+      "circuses",
+      "parks",
+      "park",
+      "journeys",
+      "get",
+      "occasionally",
+      "town",
+      "roads",
+      "occupation",
+      "owner",
+      "infrastructures",
+      "approximate",
+      "accruing",
+      "charging",
+      "summer",
+      "authorizations",
+      "unjustified",
+      "travel",
+      "carriage",
+      "vat",
+      "weeks",
+      "vehicle",
+      "agree",
+      "marked",
+      "calculate",
+      "turnover",
+      "taxes",
+      "recording"
+    ],
+    "prompt_length": 1693,
+    "category": "2831 culture and religion"
+  }
+}

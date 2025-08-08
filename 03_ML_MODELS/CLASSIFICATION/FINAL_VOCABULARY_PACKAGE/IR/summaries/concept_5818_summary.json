@@ -1,0 +1,63 @@
+{
+  "concept_id": "5818",
+  "concept_data": {
+    "title": "homeopathic product",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"homeopathic product\" refers to a medicinal preparation that adheres to the principles of homeopathy, often derived from substances like atropa belladonna or convallaria majalis. These products are traditionally prepared according to specific pharmacopoeia guidelines, ensuring dosage and efficacy are aligned with patient needs. Homeopathic medicines are frequently used for therapeutic purposes, particularly in patients who may have difficulty tolerating conventional treatments. Regulatory considerations include clinical trials to assess safety and efficacy, as well as precautions for special populations, such as lactating individuals. The widening acceptance of these products reflects their integration into the broader medicinal landscape, emphasizing a holistic approach to health.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:47:45.448216",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 250,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1570,
+      "selected_avg_freq": 662.7866666666666
+    },
+    "related_words": [
+      "carcarses",
+      "tiaprost",
+      "convallaria",
+      "majalis",
+      "atropa",
+      "belladonna",
+      "aqua",
+      "levici",
+      "adonis",
+      "vernalis",
+      "anthroposophic",
+      "danofloxacin",
+      "dosage",
+      "patient",
+      "homeopathic",
+      "lactating",
+      "pharmacopoeia",
+      "precautions",
+      "tradition",
+      "tolerated",
+      "muscle",
+      "pharmacologically",
+      "kidney",
+      "bees",
+      "therapeutic",
+      "marker",
+      "patients",
+      "tissues",
+      "liver",
+      "tissue"
+    ],
+    "prompt_length": 1676,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2144",
+  "concept_data": {
+    "title": "World Health Organization",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "World Health Organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The \"World Health Organization\" (WHO), a specialized agency of the United Nations, plays a predominant role in global health governance, particularly within the EU's regulatory framework. It engages in negotiating international health standards, including the Framework Convention on Tobacco Control (FCTC), which addresses illicit tobacco trade and promotes consensus among member states. The WHO's discussions often involve judicial aspects, ensuring that regulations on pharmaceuticals, including their ingredients and proprietary rights, are finalized and expanded. By exercising its auspices, the WHO helps rectify public health offences, retaining a record of successful negotiations that influence EU policies. This concept redirects to the preferred term \"World Health Organisation,\" reflecting its global significance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:24:41.341999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 217,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1933,
+      "selected_avg_freq": 886.3933333333333
+    },
+    "related_words": [
+      "hydrates",
+      "suffixes",
+      "inns",
+      "prefixes",
+      "fctc",
+      "inadvertently",
+      "inn",
+      "seoul",
+      "pharmaceuticals",
+      "predominant",
+      "marrakesh",
+      "offences",
+      "proprietary",
+      "predominantly",
+      "esters",
+      "salts",
+      "consensus",
+      "illicit",
+      "schedules",
+      "rectify",
+      "pharmaceutical",
+      "expanded",
+      "discussed",
+      "exercising",
+      "tobacco",
+      "criminal",
+      "police",
+      "negotiating",
+      "auspices",
+      "withdrawing"
+    ],
+    "prompt_length": 1739,
+    "category": "7606 United Nations"
+  }
+}

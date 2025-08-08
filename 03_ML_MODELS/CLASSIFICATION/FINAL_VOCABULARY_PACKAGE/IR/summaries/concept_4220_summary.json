@@ -1,0 +1,63 @@
+{
+  "concept_id": "4220",
+  "concept_data": {
+    "title": "source of information",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"source of information\" within EU legal and regulatory frameworks pertains to the systematic collection and documentation of data necessary for informed decision-making. This involves compiling surveys and utilizing various apparatus to ensure accuracy and reliability in the information gathered. Respondents from diverse divisions, including Estonian and Maltese authorities, contribute to this process, facing constraints that necessitate a balanced approach to data utilization. The integration of modern techniques in planning and recording enhances the comparability of incomes and authorisations across member states. Ultimately, this pursuit aims to attain optimum outcomes while retaining solid documentation for future reference.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:30.681045",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 318,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1240,
+      "selected_avg_freq": 685.48
+    },
+    "related_words": [
+      "contraints",
+      "irs",
+      "referral",
+      "surveyed",
+      "respondents",
+      "compiling",
+      "specialist",
+      "accountancy",
+      "asking",
+      "divisions",
+      "integrate",
+      "inventory",
+      "chargeable",
+      "formulation",
+      "estonian",
+      "pursuance",
+      "maltese",
+      "modern",
+      "incomes",
+      "solid",
+      "constant",
+      "apparatus",
+      "slovenian",
+      "optimum",
+      "personnel",
+      "hungarian",
+      "scheduled",
+      "accuracy",
+      "surveys",
+      "comparability"
+    ],
+    "prompt_length": 1721,
+    "category": "3231 information and information processing"
+  }
+}

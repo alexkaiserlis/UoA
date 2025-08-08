@@ -1,0 +1,63 @@
+{
+  "concept_id": "1877",
+  "concept_data": {
+    "title": "North Sea",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"North Sea\" is a vital marine ecosystem within the EU's natural environment framework, encompassing diverse resources such as solea, sprats, and anglerfish. Regulatory measures, including the stipulations of the OSPAR Convention, aim to address issues like bycatches and discarding from gillnets and trawling. The EU employs methodologies for benchmarking fish stocks, ensuring sustainable practices like the Maximum Sustainable Yield (MSY) for species such as sandeel and scallop. Efforts to replenish reefs and manage artisanal fisheries are critical, with pilotage and mapped baselines guiding these initiatives. The region faces challenges from upheaval and flaws in regulatory enforcement, necessitating ongoing collaboration and denunciation of harmful practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:47:08.432629",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 900,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 177,
+      "selected_avg_freq": 70.9
+    },
+    "related_words": [
+      "solea",
+      "jiggers",
+      "gillnets",
+      "haul",
+      "upheaval",
+      "bycatches",
+      "pilotage",
+      "johannesburg",
+      "witch",
+      "msy",
+      "ressources",
+      "foula",
+      "skagerrakfor",
+      "sprats",
+      "rebuild",
+      "pots",
+      "scallop",
+      "dredges",
+      "longlines",
+      "iiibcd",
+      "driftnets",
+      "pilots",
+      "mapped",
+      "reefs",
+      "alfonsinos",
+      "smelt",
+      "coral",
+      "replenish",
+      "stipulations",
+      "pout"
+    ],
+    "prompt_length": 1643,
+    "category": "5211 natural environment"
+  }
+}

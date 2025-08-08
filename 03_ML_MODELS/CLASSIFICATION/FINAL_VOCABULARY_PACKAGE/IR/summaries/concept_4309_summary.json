@@ -1,0 +1,63 @@
+{
+  "concept_id": "4309",
+  "concept_data": {
+    "title": "restrictive-practice authorization",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": true,
+    "preferred_term": "restrictive-practice authorisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"restrictive-practice authorisation\" pertains to the EU's regulatory framework governing competition. This authorisation allows certain practices that might otherwise contravene competition laws, provided they contribute to economic efficiency or consumer benefits. In the context of industrial sectors, such as metallurgiche or minerarie, firms like Italgas and Eurocoal may seek such authorisations to collaborate on projects that enhance their competitive edge without breaching antitrust regulations. The process involves rigorous assessment by regulatory bodies, ensuring that practices do not undermine market autonomy. This term is crucial for understanding how companies navigate legal frameworks while pursuing strategic initiatives in competitive markets.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:29:05.224426",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1007,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 69,
+      "selected_avg_freq": 23.666666666666668
+    },
+    "related_words": [
+      "ibsc",
+      "ulster",
+      "unincorporated",
+      "atms",
+      "chase",
+      "debiting",
+      "zuechner",
+      "vereinsbank",
+      "egam",
+      "vetrocoke",
+      "cokapuania",
+      "isai",
+      "iniziative",
+      "attivită",
+      "industriali",
+      "autonomo",
+      "minerarie",
+      "metallurgiche",
+      "fondo",
+      "dotazione",
+      "italgas",
+      "cokitalia",
+      "iri",
+      "enel",
+      "efim",
+      "italsider",
+      "eurocoal",
+      "etmofina",
+      "petrofina",
+      "blume"
+    ],
+    "prompt_length": 1764,
+    "category": "4031 competition"
+  }
+}

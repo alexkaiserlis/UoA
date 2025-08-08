@@ -1,0 +1,26 @@
+{
+  "concept_id": "804",
+  "concept_data": {
+    "title": "unlawful agreement",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"unlawful agreement\" in the context of EU competition law refers to any arrangement between undertakings that restricts competition, contravening Article 101 of the Treaty on the Functioning of the European Union (TFEU). Such agreements can include cartels, price-fixing, or market-sharing practices that distort the competitive landscape. The European Commission actively investigates and penalizes unlawful agreements to uphold market integrity and consumer welfare. The prohibition aims to foster a competitive environment, ensuring that businesses operate fairly and transparently. Consequently, entities engaging in or facilitating unlawful agreements may face significant fines and sanctions under EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:24:01.779882",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "4031 competition"
+  }
+}

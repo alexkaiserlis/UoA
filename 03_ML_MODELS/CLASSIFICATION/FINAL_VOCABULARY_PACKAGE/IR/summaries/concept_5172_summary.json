@@ -1,0 +1,63 @@
+{
+  "concept_id": "5172",
+  "concept_data": {
+    "title": "seropositivity",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "AIDS",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"seropositivity,\" often redirected to \"AIDS,\" pertains to the presence of antibodies against HIV in an individual, indicating infection. In the EU regulatory context, addressing seropositivity involves ethical considerations and the need for affordable healthcare solutions. The EU mobilises partnerships to accelerate the development of biotechnology kits for HIV testing, ensuring that they are accessible and reliable. This is crucial in combating communicable diseases like AIDS, tuberculosis, and malaria, which coexisting epidemics devastate vulnerable populations. Regulatory frameworks underpin the integration of genomics and counselling services, promoting a holistic approach to health that acknowledges gender and interdependent factors.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:29:56.692645",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 642,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 452,
+      "selected_avg_freq": 204.24666666666667
+    },
+    "related_words": [
+      "okinawa",
+      "vicious",
+      "pledge",
+      "decemnber",
+      "edctp",
+      "genomics",
+      "coexisting",
+      "genova",
+      "neglected",
+      "advertise",
+      "appropriation",
+      "counselling",
+      "theme",
+      "saharan",
+      "malaria",
+      "trustee",
+      "circle",
+      "interdependent",
+      "mainstreaming",
+      "kit",
+      "reads",
+      "pledged",
+      "hiv",
+      "fault",
+      "ethical",
+      "affordable",
+      "accelerating",
+      "epidemics",
+      "communicable",
+      "devastating"
+    ],
+    "prompt_length": 1696,
+    "category": "2841 health"
+  }
+}

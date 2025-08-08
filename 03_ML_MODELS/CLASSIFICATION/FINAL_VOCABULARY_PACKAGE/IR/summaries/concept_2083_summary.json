@@ -1,0 +1,63 @@
+{
+  "concept_id": "2083",
+  "concept_data": {
+    "title": "social norm",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"social norm\" within the EU legal framework refers to the established standards of behavior that influence compliance and effectiveness in various regulatory activities. These norms are essential for harmonisation across member states, ensuring that legislation is respected and effectively implemented. For instance, in transport regulations, social norms dictate the proper use of tachographs for recording driver activities, thereby enhancing road safety. Compliance checks confirm that entries in these records are accurate and justified, providing a primary source of data for assessing efficiency. Insufficient adherence to these norms can lead to a lack of effectiveness in achieving the intended objectives of EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:47:41.319325",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 17,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1968.7021276595744
+    },
+    "related_words": [
+      "tachograph",
+      "roadside",
+      "recordings",
+      "insertion",
+      "driver",
+      "attestation",
+      "manual",
+      "confirming",
+      "technically",
+      "entries",
+      "records",
+      "record",
+      "recording",
+      "checking",
+      "enhance",
+      "road",
+      "demonstrate",
+      "impossible",
+      "primary",
+      "respected",
+      "proved",
+      "harmonisation",
+      "unable",
+      "source",
+      "insufficient",
+      "lack",
+      "modified",
+      "efficiency",
+      "equipment",
+      "checks"
+    ],
+    "prompt_length": 1683,
+    "category": "2821 social framework"
+  }
+}

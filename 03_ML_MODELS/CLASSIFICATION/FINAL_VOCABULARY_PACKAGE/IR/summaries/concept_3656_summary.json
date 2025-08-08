@@ -1,0 +1,63 @@
+{
+  "concept_id": "3656",
+  "concept_data": {
+    "title": "common research programme",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "EU research policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"common research programme,\" redirected to \"EU research policy,\" encompasses a strategic framework aimed at enhancing competencies across academia and industry. This programme serves as a flagship initiative, fostering cooperative efforts among clinicians, researchers, and institutions to advance therapies and medicines. It emphasizes the advisability of integrating innovative approaches, such as pharmacovigilance and the use of isotopes in medical applications. The programme's remit includes the demonstration of smart solutions in health sciences, ensuring that patient needs are prioritized. By expanding research horizons and endorsing interdisciplinary collaboration, the EU aims to realise a linear progression in scientific advancements, benefiting both patients and society.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:21.288263",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 724,
+      "selected_avg_freq": 365.41333333333336
+    },
+    "related_words": [
+      "erab",
+      "honorary",
+      "therapies",
+      "clinicians",
+      "linearity",
+      "petten",
+      "hfr",
+      "flux",
+      "competencies",
+      "irreplaceable",
+      "welcome",
+      "isotopes",
+      "academia",
+      "pharmacovigilance",
+      "rtd",
+      "merit",
+      "reactors",
+      "pillars",
+      "academic",
+      "therapy",
+      "contributor",
+      "chairperson",
+      "flagship",
+      "reactor",
+      "alternates",
+      "teams",
+      "sciences",
+      "realisation",
+      "fusion",
+      "endorsement"
+    ],
+    "prompt_length": 1746,
+    "category": "6416 research and intellectual property"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2736",
+  "concept_data": {
+    "title": "processed food product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"processed food product\" refers to food items that have undergone various treatments to enhance their safety, shelf-life, or nutritional profile. These products may include derivatives such as picolinate or silymarin, which can aid in remineralisation of enamel and combat caries. The regulation of such products often involves assessing their caloric content and potential effects on microcirculation and appetite. For instance, ingredients like blackcurrant (ribes nigrum) and yams (esculentum) may be included for their adaptive benefits. Regulatory bodies monitor these products to ensure they do not contribute to excessive waist circumference or abdominal issues, thereby promoting public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:10.638777",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 791,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 287,
+      "selected_avg_freq": 89.90666666666667
+    },
+    "related_words": [
+      "dericed",
+      "picolinate",
+      "hartkäse",
+      "innsbruck",
+      "wrigley",
+      "remineralises",
+      "caries",
+      "plaque",
+      "microcirculation",
+      "convered",
+      "whereus",
+      "gencor",
+      "caralluma",
+      "fimbriata",
+      "slimaluma",
+      "appetite",
+      "innate",
+      "innéov",
+      "blackcurrant",
+      "nigrum",
+      "synbiotec",
+      "synbio",
+      "milte",
+      "silymarin",
+      "statistica",
+      "replealed",
+      "enamel",
+      "fondues",
+      "yams",
+      "snc"
+    ],
+    "prompt_length": 1670,
+    "category": "6026 foodstuff"
+  }
+}

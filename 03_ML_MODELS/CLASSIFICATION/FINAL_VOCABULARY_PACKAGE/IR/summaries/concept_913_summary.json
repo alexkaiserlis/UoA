@@ -1,0 +1,63 @@
+{
+  "concept_id": "913",
+  "concept_data": {
+    "title": "Western countries",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": true,
+    "preferred_term": "Western Europe",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"Western countries,\" redirected to \"Western Europe,\" encompasses a specific zone within the EU characterized by multilateral agreements and trade regulations. This region is subject to detailed negotiations regarding the export and import of products, particularly in sectors like agriculture and wine. Legal frameworks often include provisions for issuing licences and managing refunds related to overrun quantities. The acceptance of applications for grants and budget expenditures is strictly regulated, with limits on the percentage of funding available. Until agreements are concluded, countries in this area must adhere to strict compliance measures to prevent violations and ensure fair trade practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:25:48.268858",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 191,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 191,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1943.6125
+    },
+    "related_words": [
+      "overrun",
+      "western",
+      "uruguay",
+      "refund",
+      "volumes",
+      "round",
+      "refunds",
+      "zone",
+      "wine",
+      "multilateral",
+      "licence",
+      "issuing",
+      "licences",
+      "exceeded",
+      "acceptance",
+      "restricted",
+      "suspended",
+      "percentage",
+      "unless",
+      "advance",
+      "issue",
+      "agriculture",
+      "quantity",
+      "submission",
+      "negotiations",
+      "budget",
+      "fixing",
+      "expenditure",
+      "europe",
+      "export"
+    ],
+    "prompt_length": 1681,
+    "category": "7206 Europe"
+  }
+}

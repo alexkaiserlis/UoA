@@ -1,0 +1,63 @@
+{
+  "concept_id": "4643",
+  "concept_data": {
+    "title": "value of trade",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"value of trade\" concept within EU legal and regulatory frameworks refers to the monetary worth assigned to transactions involving goods and services across member countries. It plays a crucial role in the evolution of fiscal policies, particularly in the context of taxing importations and ensuring compliance with tax regulations. The concept consists of various factors, including the turnover of transactions and the currencies involved, such as Portuguese escudos and Spanish pesetas. Harmonization efforts aim to simplify and authorize the taxation process, thereby avoiding tax evasion and ensuring advantageous trading ties. This regulatory framework is essential for the abolition of barriers at frontiers and supports the generalized preferences for coal and steel supplies, as established by the ECSC.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:01.939780",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 197,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1222.0466666666666
+    },
+    "related_words": [
+      "cuntries",
+      "portugese",
+      "escudos",
+      "pesetas",
+      "taxing",
+      "ties",
+      "acquisitions",
+      "inserting",
+      "advantageous",
+      "evasion",
+      "footnote",
+      "taxable",
+      "avoidance",
+      "artificially",
+      "importations",
+      "charging",
+      "generalized",
+      "fiscal",
+      "unanimously",
+      "currencies",
+      "pose",
+      "frontiers",
+      "textile",
+      "family",
+      "transaction",
+      "turnover",
+      "taxes",
+      "introduces",
+      "preferences",
+      "consists"
+    ],
+    "prompt_length": 1685,
+    "category": "2016 trade"
+  }
+}

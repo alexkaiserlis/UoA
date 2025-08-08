@@ -1,0 +1,63 @@
+{
+  "concept_id": "3595",
+  "concept_data": {
+    "title": "veterinary surgeon",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "veterinarian",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, the term \"veterinary surgeon\" is a redirect to \"veterinarian,\" highlighting the interdependence of these roles within health regulations. Veterinarians are specialised professionals responsible for animal medicine, requiring specific qualifications and diplomas. They may pursue refresher courses to maintain their expertise, ensuring they are experienced in areas such as epidemiology. Regulatory bodies, including the ECDC and OIE, appoint consultants to advise on veterinary practices. In Berlin, for instance, the Senatsverwaltung für Gesundheit oversees the appraisal of candidates, ensuring they meet prerequisites for practice. This structured approach ensures that veterinarians can competently address animal health concerns across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:27:04.408983",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 349,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1060,
+      "selected_avg_freq": 492.66
+    },
+    "related_words": [
+      "refresher",
+      "senatsverwaltung",
+      "gesundheit",
+      "heinrich",
+      "bottermann",
+      "nap",
+      "kothmann",
+      "leenmans",
+      "augusto",
+      "ferrazza",
+      "gianluca",
+      "fiore",
+      "surgeon",
+      "gerhard",
+      "comparably",
+      "consultant",
+      "surgeons",
+      "wusterhausen",
+      "ecdc",
+      "fuer",
+      "instruction",
+      "alternates",
+      "prerequisites",
+      "interdependence",
+      "courses",
+      "entrust",
+      "diplomas",
+      "epidemiology",
+      "alternate",
+      "suspicion"
+    ],
+    "prompt_length": 1715,
+    "category": "2841 health"
+  }
+}

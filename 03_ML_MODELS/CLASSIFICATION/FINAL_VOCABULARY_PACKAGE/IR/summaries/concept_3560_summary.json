@@ -1,0 +1,63 @@
+{
+  "concept_id": "3560",
+  "concept_data": {
+    "title": "own resources",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"own resources\" within EU finance refers to the revenue streams that the European Union utilizes to fund its budget, thereby empowering its regulatory framework. These resources include contributions from member states, taxes, and other income, which are calculated based on GNI and GNP estimates. The harmonization of these financial transactions is crucial for ensuring the exhaustiveness of the budget. Irrecoverable amounts, such as those related to detached assets or incidental spending, must be managed effectively. The regulation of own resources also involves intermediation by notaries and bailiffs, ensuring compliance and proper documentation. Ultimately, this system seeks to create a prosperous EU community through equitable resource allocation and funding for essential services, such as hospitals and infrastructure.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:27.643889",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 888,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 327,
+      "selected_avg_freq": 141.02666666666667
+    },
+    "related_words": [
+      "exetending",
+      "harmanization",
+      "irrecoverability",
+      "transactins",
+      "multipart",
+      "estimatates",
+      "ueberlassung",
+      "instandhaltung",
+      "endstelleneinrichtungen",
+      "bundespost",
+      "telekom",
+      "ucis",
+      "undistributed",
+      "pusuant",
+      "notaries",
+      "bailiffs",
+      "calculates",
+      "fisim",
+      "accuring",
+      "exhaustiveness",
+      "detached",
+      "tour",
+      "irrecoverable",
+      "prosperous",
+      "intermediation",
+      "capitalise",
+      "secondment",
+      "communites",
+      "gnpmp",
+      "contradictory"
+    ],
+    "prompt_length": 1737,
+    "category": "1021 EU finance"
+  }
+}

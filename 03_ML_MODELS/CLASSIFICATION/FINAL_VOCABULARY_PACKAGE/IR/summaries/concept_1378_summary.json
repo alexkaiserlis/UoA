@@ -1,0 +1,63 @@
+{
+  "concept_id": "1378",
+  "concept_data": {
+    "title": "winegrowing industry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "beverage industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"winegrowing industry,\" categorized under agri-foodstuffs, is redirected to the broader \"beverage industry\" in EU legal and regulatory contexts. This sector encompasses various processes, including malting and blending, where distilleries and breweries play pivotal roles. The industry is characterized by diverse landscapes, from orchards to vineyards, and involves complex regulations concerning consignments and subquota management. Distillers and brewers must navigate legal frameworks that address issues such as bonded warehouses and forfeiture of goods. As the industry evolves, it faces impediments that could diverge its traditional practices, necessitating investments in sustainable methods to ensure survival amidst changing consumer preferences for fluid and spirituous beverages.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:28:40.927399",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 722,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 396,
+      "selected_avg_freq": 173.70666666666668
+    },
+    "related_words": [
+      "uprocessed",
+      "malthouse",
+      "maltacarrión",
+      "vwould",
+      "greffe",
+      "landwirtschaftliche",
+      "verschlussbrennereien",
+      "abfindungsbrennereien",
+      "stoffbesitzer",
+      "obstgemeinschaftsbrennereien",
+      "tones",
+      "consignements",
+      "closes",
+      "beechwood",
+      "subquota",
+      "landscapes",
+      "brewery",
+      "brewers",
+      "malting",
+      "aragón",
+      "vats",
+      "impediment",
+      "blended",
+      "redefining",
+      "distillery",
+      "fluid",
+      "bonded",
+      "forfeiture",
+      "blending",
+      "diverge"
+    ],
+    "prompt_length": 1769,
+    "category": "6031 agri-foodstuffs"
+  }
+}

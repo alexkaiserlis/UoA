@@ -1,0 +1,63 @@
+{
+  "concept_id": "4491",
+  "concept_data": {
+    "title": "financial transaction",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"financial transaction\" encompasses various activities involving the transfer of capital, crucial for ensuring the free movement of capital. Such transactions may include securitisations, where underlying assets are pooled and tranching occurs to create exchangeable securities. Obligors in these transactions are often subject to prudently structured agreements, ensuring immateriality in risk exposure. The use of ISINs facilitates the identification of these instruments. Regulatory bodies, such as the FSB and ESMA, oversee compliance, while adopters of new financial instruments must navigate complex frameworks, including the FIEA and SFA, to avoid distressed asset scenarios.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:42.158652",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1584,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 18.69333333333333
+    },
+    "related_words": [
+      "pari",
+      "passu",
+      "securitisations",
+      "tranching",
+      "obligors",
+      "immaterially",
+      "immateriality",
+      "whereal",
+      "isin",
+      "describable",
+      "scalability",
+      "fsb",
+      "reconstructing",
+      "reclassify",
+      "distressed",
+      "ropealing",
+      "sic",
+      "csso",
+      "hkma",
+      "replicated",
+      "fiea",
+      "cda",
+      "rescinding",
+      "achs",
+      "prudently",
+      "collaterals",
+      "ach",
+      "forma",
+      "adopter",
+      "unquoted"
+    ],
+    "prompt_length": 1638,
+    "category": "2421 free movement of capital"
+  }
+}

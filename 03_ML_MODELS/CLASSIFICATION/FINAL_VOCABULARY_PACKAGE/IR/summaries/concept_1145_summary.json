@@ -1,0 +1,63 @@
+{
+  "concept_id": "1145",
+  "concept_data": {
+    "title": "civil engineering",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Civil engineering, as defined within EU legal and regulatory frameworks, pertains to the design, construction, and maintenance of infrastructure projects, including buildings and public works. This discipline is highly interdependent with industries such as quarrying and mining, where obtaining permits is crucial for operations. The cyclical nature of civil engineering projects often presupposes a coherent approach to documentation and regulatory compliance. Insufficiently coordinated policies can lead to discrepancies in project execution, affecting economic growth and employment. As such, civil engineering serves as a key sector, where stakeholders ought to engage in intensive involvement to ensure valid and sustainable practices, thereby mitigating disturbances in the economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:07:03.206704",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 130,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 130,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1564.9538461538461
+    },
+    "related_words": [
+      "occupying",
+      "quarrying",
+      "obtainable",
+      "recession",
+      "insufficiently",
+      "interdependence",
+      "presupposes",
+      "cycles",
+      "discrepancies",
+      "mining",
+      "engineering",
+      "craft",
+      "ought",
+      "intensive",
+      "pertaining",
+      "involvement",
+      "cycle",
+      "disturbances",
+      "coherent",
+      "entrusted",
+      "aforesaid",
+      "coordinated",
+      "permits",
+      "breakdown",
+      "differ",
+      "documentation",
+      "exclude",
+      "building",
+      "partial",
+      "serve"
+    ],
+    "prompt_length": 1713,
+    "category": "6831 building and public works"
+  }
+}

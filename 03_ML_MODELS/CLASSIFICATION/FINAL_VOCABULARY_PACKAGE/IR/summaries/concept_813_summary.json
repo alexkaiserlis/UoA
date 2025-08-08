@@ -1,0 +1,63 @@
+{
+  "concept_id": "813",
+  "concept_data": {
+    "title": "type of business",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"type of business\" within the EU legal framework pertains to the classification of enterprises based on their operational characteristics and regulatory obligations. This classification is essential for various legal documents, including those relating to environmental audits (umweltauditgesetz) and business takeovers. It enables regulators to impose specific penalisation measures and ensures compliance with directives that promote dynamism in the market. For instance, businesses like cartiera and erdöl raffinerie must adhere to distinct regulations, reflecting their essentiality in the economy. The versatility of business types, from industrials to service sectors, necessitates a robust framework for verifiers and stakeholders to reconcile interests effectively, thereby perpetuating a balanced economic environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:12:12.692889",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1705,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 76,
+      "selected_avg_freq": 32.333333333333336
+    },
+    "related_words": [
+      "parl",
+      "iament",
+      "rela",
+      "ting",
+      "cartiera",
+      "arbatax",
+      "extendible",
+      "perpetuating",
+      "invzulg",
+      "bundessteuerblatt",
+      "mitteldeutsche",
+      "erdöl",
+      "raffinerie",
+      "mider",
+      "leuna",
+      "bundestag",
+      "verifiers",
+      "umweltauditgesetz",
+      "anwil",
+      "cuf",
+      "industriais",
+      "arkema",
+      "verifier",
+      "bronchiodilators",
+      "steroids",
+      "anticholinergic",
+      "relieves",
+      "motoring",
+      "altmark",
+      "versatility"
+    ],
+    "prompt_length": 1689,
+    "category": "4011 business classification"
+  }
+}

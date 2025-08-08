@@ -1,0 +1,63 @@
+{
+  "concept_id": "1558",
+  "concept_data": {
+    "title": "parliamentary veto",
+    "category_code": "0426",
+    "category_name": "parliamentary proceedings",
+    "category_full": "0426 parliamentary proceedings",
+    "is_redirect": true,
+    "preferred_term": "amendment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"parliamentary veto,\" categorized under parliamentary proceedings, is a critical mechanism in EU legal frameworks, often functioning alongside amendments. This veto allows plenipotentiaries to alter proposed legislation during sessions, facilitating a democratic process that preserves the integrity of the EU's regulatory sphere. The veto's role is particularly significant in contexts like the ratification of treaties, where signatories must deposit their agreements, ensuring compliance with established protocols, such as MARPOL and SOLAS. By revising and upgrading legislative proposals, the parliamentary veto acts as a stimulus for measurable improvements, aiding in the demarcation of conflicts and fostering understandings among member states, including those in the Baltic and Gdansk regions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:22.993281",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 480,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 677,
+      "selected_avg_freq": 334.98
+    },
+    "related_words": [
+      "syracuse",
+      "commity",
+      "understandings",
+      "ata",
+      "measurable",
+      "gdansk",
+      "plenipotentiaries",
+      "carnet",
+      "carnets",
+      "warsaw",
+      "marpol",
+      "bonn",
+      "sessions",
+      "upgraded",
+      "solas",
+      "depository",
+      "alters",
+      "stimulus",
+      "skagerrak",
+      "kyoto",
+      "wheras",
+      "belts",
+      "commit",
+      "depositary",
+      "preamble",
+      "upgrade",
+      "revisions",
+      "appendices",
+      "ratify",
+      "facilitation"
+    ],
+    "prompt_length": 1723,
+    "category": "0426 parliamentary proceedings"
+  }
+}

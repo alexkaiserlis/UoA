@@ -1,0 +1,63 @@
+{
+  "concept_id": "1913",
+  "concept_data": {
+    "title": "forced migration",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Forced migration refers to the involuntary displacement of individuals due to various factors, including conflict, persecution, or natural disasters. In the context of EU legal and regulatory frameworks, it encompasses the need for member states to engage in efforts that promote the protection of displaced persons' rights. The EU's Common Foreign and Security Policy (CFSP) aims to address the influx of forcibly displaced individuals, ensuring that receiving territories uphold human rights standards. Events such as Zimbabwe's Murambatsvina highlight the severe consequences of forced displacement, necessitating updated resources and funds to support affected populations. The EU is responsible for balancing restrictive measures with the intention of incorporating favourable policies that renew democracy and engage in humanitarian efforts.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:10:57.254750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1707.2477064220184
+    },
+    "related_words": [
+      "murambatsvina",
+      "forcible",
+      "displacement",
+      "reshuffle",
+      "demolition",
+      "influx",
+      "displaced",
+      "freeze",
+      "democracy",
+      "zimbabwe",
+      "violations",
+      "engage",
+      "renewing",
+      "undermine",
+      "mass",
+      "incorporate",
+      "seriously",
+      "transit",
+      "cfsp",
+      "receiving",
+      "accept",
+      "bearing",
+      "restrictive",
+      "individuals",
+      "promoting",
+      "giving",
+      "consequences",
+      "english",
+      "participate",
+      "name"
+    ],
+    "prompt_length": 1668,
+    "category": "2811 migration"
+  }
+}

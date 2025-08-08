@@ -1,0 +1,63 @@
+{
+  "concept_id": "1448",
+  "concept_data": {
+    "title": "supervisory body",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"supervisory body\" within the EU legal framework refers to an entity responsible for overseeing compliance with regulations, particularly in sectors such as public health and environmental protection. This body is crucial for ensuring that servicios and practices adhere to established standards, thereby mitigating riesgos sanitarios. It liaises with various stakeholders, including investigators and institutions like hochschule and veterinärmedizin, to corroborate findings and diagnoses. The supervisory body also plays a role in the registro of compliance, presuming adherence to directives from the comisión. Its functions extend to monitoring antigenes and ensuring the protection of public health through effective governance and oversight mechanisms.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:01:04.205744",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 952,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 138,
+      "selected_avg_freq": 52.85333333333333
+    },
+    "related_words": [
+      "antigenes",
+      "accompagnied",
+      "fehd",
+      "ostertag",
+      "ministero",
+      "vouel",
+      "corroborative",
+      "vittor",
+      "pisani",
+      "principals",
+      "contra",
+      "riesgos",
+      "sanitarios",
+      "cfprs",
+      "rinave",
+      "registro",
+      "diagnoses",
+      "liaising",
+      "virologie",
+      "tieraerztlichen",
+      "hochschule",
+      "unione",
+      "fiduciaria",
+      "societă",
+      "sanitario",
+      "dgcsps",
+      "secretaría",
+      "hygiène",
+      "alimentaire",
+      "milieuhygiene"
+    ],
+    "prompt_length": 1707,
+    "category": "0406 political framework"
+  }
+}

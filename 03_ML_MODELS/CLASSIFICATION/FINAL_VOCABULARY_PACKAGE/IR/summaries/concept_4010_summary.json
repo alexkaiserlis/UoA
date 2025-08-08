@@ -1,0 +1,63 @@
+{
+  "concept_id": "4010",
+  "concept_data": {
+    "title": "international economic law",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "International economic law encompasses the legal frameworks governing cross-border trade, investment, and economic relations among states and entities. Within the EU context, this field addresses complexities such as patent litigation, where plaintiffs may assert claims against defendants for infringing on intellectual property rights. Notably, cases involving unlicensed use of aramid fibers or the denial of validity of patents, like those instigated by DuPont or Akzo, illustrate the intricacies involved. The European Commission plays a pivotal role in regulating these matters, ensuring compliance and defending community interests against inequitable practices. Criticisms of existing frameworks often lead to calls for reform, as stakeholders navigate the challenges of international agreements and affiliated disputes.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:13:40.719353",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 435,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 504,
+      "selected_avg_freq": 188.74
+    },
+    "related_words": [
+      "aramid",
+      "instigated",
+      "usitc",
+      "enka",
+      "counterclaim",
+      "defending",
+      "richmond",
+      "obviousness",
+      "beene",
+      "initiatie",
+      "virginia",
+      "unlicensed",
+      "criticisms",
+      "pratically",
+      "counterclaims",
+      "itc",
+      "communautăš",
+      "europăšenne",
+      "defended",
+      "complexities",
+      "akzo",
+      "affiliated",
+      "inequitable",
+      "lawyer",
+      "harassment",
+      "plaintiff",
+      "defendants",
+      "patents",
+      "pronounce",
+      "denial"
+    ],
+    "prompt_length": 1719,
+    "category": "1231 international law"
+  }
+}

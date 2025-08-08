@@ -1,0 +1,63 @@
+{
+  "concept_id": "4313",
+  "concept_data": {
+    "title": "branch",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"branch\" refers to a distinct office or installation of a business organisation that operates under the auspices of a parent company. This concept is crucial in the pursuit of compliance with various statutes and regulations, particularly regarding procurement and the awarding of contracts. Branches may engage subcontractors and contractors, scrutinising their practices to ensure non-discriminatory operations. The European Central Bank (ECB) and other entities may impose sanctions on branches that fail to adhere to the acquis communautaire. Additionally, branches must navigate complex nomenclatures and ensure their operations do not become obsolete, thereby enjoying a competitive edge within the Eurosystem.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:46.394367",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 352,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1021,
+      "selected_avg_freq": 555.94
+    },
+    "related_words": [
+      "säger",
+      "whreas",
+      "afore",
+      "collects",
+      "prejudicing",
+      "isic",
+      "subcontractors",
+      "scrutinise",
+      "nomenclatures",
+      "practise",
+      "contractors",
+      "repetition",
+      "renders",
+      "superfluous",
+      "enjoying",
+      "eurosystem",
+      "nice",
+      "nationality",
+      "postal",
+      "awarding",
+      "branches",
+      "residence",
+      "banking",
+      "altering",
+      "procurement",
+      "sheet",
+      "ecb",
+      "obsolete",
+      "executive",
+      "coordinating"
+    ],
+    "prompt_length": 1694,
+    "category": "4006 business organisation"
+  }
+}

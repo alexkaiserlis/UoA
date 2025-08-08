@@ -1,0 +1,63 @@
+{
+  "concept_id": "1459",
+  "concept_data": {
+    "title": "financial instrument",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"financial instrument\" encompasses a broad range of tradable assets, including securities, derivatives, and structured products. These instruments can exhibit unique characteristics, such as varying degrees of granularity and liquidity, influencing their market behaviours. For instance, securitisations often involve tranching, where obligations are divided into different seniority levels, affecting their risk profiles and coupon structures. The immateriality of certain instruments may complicate their categorization under existing frameworks, necessitating a taxonomy that reflects their unique features. Regulatory bodies like the FSB and ESMA prudently oversee these instruments to mitigate risks, ensuring compliance with standards such as ISIN registration and transparency in trading venues.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:09:12.532127",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1464,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 67,
+      "selected_avg_freq": 24.786666666666665
+    },
+    "related_words": [
+      "manipulative",
+      "behaviours",
+      "illiquid",
+      "pari",
+      "passu",
+      "securitisations",
+      "tranching",
+      "obligors",
+      "immaterially",
+      "immateriality",
+      "coupon",
+      "coupons",
+      "granularity",
+      "isin",
+      "describable",
+      "scalability",
+      "fsb",
+      "reconstructing",
+      "soaring",
+      "csso",
+      "hkma",
+      "replicated",
+      "fiea",
+      "cda",
+      "rescinding",
+      "achs",
+      "prudently",
+      "collaterals",
+      "ach",
+      "someone"
+    ],
+    "prompt_length": 1642,
+    "category": "2421 free movement of capital"
+  }
+}

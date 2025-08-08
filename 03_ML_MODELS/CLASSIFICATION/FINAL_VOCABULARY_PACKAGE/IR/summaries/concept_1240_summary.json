@@ -1,0 +1,63 @@
+{
+  "concept_id": "1240",
+  "concept_data": {
+    "title": "food for infants",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "baby food",
+    "relation_type": "USE"
+  },
+  "summary": "The EU regulatory framework for \"food for infants,\" commonly referred to as \"baby food,\" encompasses a range of formulations designed to ensure optimal nourishment for newborns and young children. These products must meet stringent safety standards to mitigate harmfulness, particularly concerning contaminants like bisphenol (BPA) and patulin. Regulatory bodies assess the organoleptically acceptable qualities of baby food, ensuring it is palatable and nutritionally adequate. Ingredients may include elemental nutrients, nucleotides, and tricalcium, while formulations can vary from purees to compotes. The focus on neurodevelopment and multigeneration health underscores the importance of these products in early dietary practices, addressing potential toxicokinetics and degradation of harmful substances.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:20:54.797239",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1275,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 80,
+      "selected_avg_freq": 34.413333333333334
+    },
+    "related_words": [
+      "tricalcium",
+      "flowable",
+      "formuale",
+      "unpalatable",
+      "organoleptically",
+      "immunoreactive",
+      "elemental",
+      "synbiotec",
+      "synbio",
+      "milte",
+      "silymarin",
+      "interesed",
+      "orthophosphoric",
+      "perylene",
+      "cyclopenta",
+      "dibenz",
+      "indeno",
+      "methylchrysene",
+      "puree",
+      "sunlight",
+      "referee",
+      "bpa",
+      "dtu",
+      "inserm",
+      "modulatory",
+      "neurodevelopment",
+      "multigeneration",
+      "patulin",
+      "culinary",
+      "horizontally"
+    ],
+    "prompt_length": 1744,
+    "category": "6026 foodstuff"
+  }
+}

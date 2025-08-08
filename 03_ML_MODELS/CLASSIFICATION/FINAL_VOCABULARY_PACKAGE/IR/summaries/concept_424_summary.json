@@ -1,0 +1,63 @@
+{
+  "concept_id": "424",
+  "concept_data": {
+    "title": "sovereign debt",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": true,
+    "preferred_term": "public debt",
+    "relation_type": "USE"
+  },
+  "summary": "Sovereign debt, often redirected to the preferred term \"public debt,\" refers to the financial obligations of a government. In the context of EU legal and regulatory frameworks, the management of public debt is critical, especially during recessionary periods where economic outlooks may appear unsupportive. The Eurogroup plays a vital role in addressing vulnerabilities through expansionary policies and fiscal retrenchment. Legislative measures, such as the Stability and Growth Pact (SGP), aim to prevent excessive deficits, ensuring that member states do not stagnate economically. The Council adopted various strategies, including recapitalisation and haircuts, to mitigate looming financial crises, thereby empowering nations to navigate protracted economic challenges while targeting sustainable growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:30.482642",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2000,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 45,
+      "selected_avg_freq": 22.9
+    },
+    "related_words": [
+      "unsupportive",
+      "fras",
+      "sit",
+      "outlooks",
+      "expansionary",
+      "granularity",
+      "translates",
+      "netherland",
+      "finanz",
+      "looming",
+      "defeasance",
+      "abbaueinheit",
+      "hypo",
+      "alpe",
+      "adria",
+      "recessionary",
+      "vigour",
+      "narrowed",
+      "protracted",
+      "vulnerabilities",
+      "retrenchment",
+      "tolar",
+      "elasticities",
+      "eurogroup",
+      "peaking",
+      "recapitalise",
+      "dexia",
+      "impacted",
+      "venue",
+      "counciladopted"
+    ],
+    "prompt_length": 1748,
+    "category": "2436 public finance and budget policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2121",
+  "concept_data": {
+    "title": "egg",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"egg\" within EU legal and regulatory frameworks pertains to a significant animal product category, specifically focusing on the regulations governing their production, delivery, and safety. The organisation of egg production often involves the use of incubators, which facilitate the hatch of eggs in controlled environments. Regulations concerning caged systems and the compartmentalisation of poultry farms aim to mitigate risks such as pullorum and avian influenzua. The unpredictability of market demands necessitates effective tarification strategies for egg deliveries. Additionally, the specificity of regulations often addresses issues like cannibalism in confined settings, ensuring the welfare of the animals involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:38:28.750941",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2695,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 12.94
+    },
+    "related_words": [
+      "organistion",
+      "paddock",
+      "incubators",
+      "delivieries",
+      "regualtions",
+      "romagricola",
+      "sluicegate",
+      "shining",
+      "insolubility",
+      "compenatory",
+      "tarification",
+      "sideline",
+      "porportion",
+      "aproducts",
+      "inexistance",
+      "incubator",
+      "kauffmann",
+      "serovars",
+      "specifity",
+      "caged",
+      "incubated",
+      "biomerx",
+      "sterreichischer",
+      "serei",
+      "pullorum",
+      "gallinarum",
+      "arizonae",
+      "unpredictability",
+      "hatch",
+      "ixb"
+    ],
+    "prompt_length": 1705,
+    "category": "6011 animal product"
+  }
+}

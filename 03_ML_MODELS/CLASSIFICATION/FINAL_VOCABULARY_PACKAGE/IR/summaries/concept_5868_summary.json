@@ -1,0 +1,63 @@
+{
+  "concept_id": "5868",
+  "concept_data": {
+    "title": "VAT resource",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"VAT resource\" concept within EU finance encompasses the regulatory framework governing Value Added Tax (VAT) applications across member states. This resource is pivotal for ensuring that artists, authors, and performers receive fair treatment regarding royalties and copyrights. It addresses the complexities of invoicing and taxation for various occupations, including dentists and technicians, who may face undervaluation of their services. The VAT framework also influences wholesalers and resellers, ensuring that taxation is not unreasonably high. Moreover, it provides guidelines for the disaggregation of taxable goods, such as prostheses and cars, while adhering to principles of simplicity and transparency in financial transactions. The treasury utilizes this resource to tackle unforeseen challenges, such as the graduated tax rates and the implications of postponement in payments, ensuring a balanced approach to taxation across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:44.625276",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 635,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 462,
+      "selected_avg_freq": 214.40666666666667
+    },
+    "related_words": [
+      "copyrights",
+      "dentists",
+      "authoritzes",
+      "undervalued",
+      "twelfths",
+      "notaries",
+      "bailiffs",
+      "undervaluation",
+      "technicians",
+      "prostheses",
+      "authors",
+      "artists",
+      "doorstep",
+      "disaggregation",
+      "eighteenth",
+      "royalties",
+      "presumptions",
+      "performers",
+      "resellers",
+      "shoud",
+      "graduated",
+      "unreasonably",
+      "contradictory",
+      "wholesaler",
+      "gni",
+      "manifest",
+      "hire",
+      "ties",
+      "lease",
+      "invoicing"
+    ],
+    "prompt_length": 1690,
+    "category": "1021 EU finance"
+  }
+}

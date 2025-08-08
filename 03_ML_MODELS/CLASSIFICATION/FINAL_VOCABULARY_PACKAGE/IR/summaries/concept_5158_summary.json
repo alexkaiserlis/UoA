@@ -1,0 +1,63 @@
+{
+  "concept_id": "5158",
+  "concept_data": {
+    "title": "general budget (EU)",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"general budget (EU)\" represents a crucial financial instrument underpinning the European Union's economic governance. It is structured under the Multiannual Financial Framework (MFF), which outlines funding priorities and agendas for various sectors, including sustainable development and social services. The budget is designed to empower member states, enabling them to address soaring challenges such as economic crises and disasters. It incorporates flexible mechanisms, allowing for adjustments in response to unforeseen events, akin to a tsunami of financial needs. Notably, the budget supports innovative sectors, including automotive and renewable energy, ensuring that initiatives like Renault and Vestas receive necessary funding. This comprehensive approach aims to smartly navigate the complexities of EU finance while fostering collaboration among member states, including Denmark and Germany, to achieve collective goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:39:28.569715",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1321,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 59,
+      "selected_avg_freq": 25.973333333333333
+    },
+    "related_words": [
+      "blurring",
+      "disastrous",
+      "eusf",
+      "mff",
+      "ecomonic",
+      "cns",
+      "soaring",
+      "smartly",
+      "agendas",
+      "flextronics",
+      "salo",
+      "uncapped",
+      "denmarksubmitted",
+      "tomaso",
+      "automobili",
+      "merloni",
+      "renovating",
+      "germanysubmitted",
+      "manroland",
+      "aldi",
+      "epe",
+      "assoc",
+      "tabak",
+      "agile",
+      "grupo",
+      "saab",
+      "mechel",
+      "campia",
+      "turzii",
+      "finlandsubmitted"
+    ],
+    "prompt_length": 1642,
+    "category": "1021 EU finance"
+  }
+}

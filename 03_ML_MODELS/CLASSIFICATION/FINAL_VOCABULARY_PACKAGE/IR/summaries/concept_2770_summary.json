@@ -1,0 +1,63 @@
+{
+  "concept_id": "2770",
+  "concept_data": {
+    "title": "new product",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"new product\" within EU legal and regulatory frameworks pertains to innovative goods introduced into the market, often subject to specific regulations. This includes psychoactive substances like methylmethcathinone and mephedrone, which are monitored due to their potential for abuse and dependency. Regulatory bodies, such as the EMCDDA, oversee the classification of such products, ensuring that licit substances do not lead to overdosage or addiction. The concept also encompasses agricultural products like landbouwzaaizaden, where cropping practices are regulated to maintain safety and quality. Furthermore, the introduction of new products may involve heffingen and specific regulations to address market dynamics equitably, ensuring compliance and safety in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:09:40.850420",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 702,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 269,
+      "selected_avg_freq": 100.02666666666667
+    },
+    "related_words": [
+      "methylmethcathinone",
+      "mephedrone",
+      "landouwzaaizaden",
+      "mergkool",
+      "bladkool",
+      "landbouwzaaizaden",
+      "methylthioamphetamine",
+      "methylenedioxymethamphetamine",
+      "overdosage",
+      "hospitalisation",
+      "serval",
+      "mdma",
+      "mta",
+      "licit",
+      "dosing",
+      "cropping",
+      "forensic",
+      "ecstasy",
+      "produktschappen",
+      "bedrijfsorganisatie",
+      "hoofdproduktschap",
+      "heffingen",
+      "heffingverordening",
+      "algemene",
+      "specifieke",
+      "veilingen",
+      "hfl",
+      "cathinone",
+      "turnip",
+      "seizures"
+    ],
+    "prompt_length": 1783,
+    "category": "6806 industrial structures and policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "7841",
+  "concept_data": {
+    "title": "Hradec Kr?lov? Region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Hradec Králové Region, categorized under 7211 regions of EU Member States, is significant in the context of EU legal and regulatory frameworks, particularly concerning agricultural products. This region is known for its unique foodstuffs, such as hořické trubičky, which have received protected designation of origin (PDO) status. The approval process for such designations involves rigorous examination and specification of quality standards, ensuring that products are registered and published in the official journal of the EU. The region's agricultural schemes are subject to amendments and require compliance with EU regulations, reflecting the functioning of the Union's legal framework in protecting regional products and their origins.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:20:26.675169",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1800.9444444444443
+    },
+    "related_words": [
+      "hořické",
+      "trubičky",
+      "pgi",
+      "opposition",
+      "designations",
+      "specification",
+      "minor",
+      "indications",
+      "protected",
+      "indication",
+      "foodstuffs",
+      "register",
+      "statement",
+      "czech",
+      "name",
+      "approving",
+      "registered",
+      "geographical",
+      "schemes",
+      "examined",
+      "virtue",
+      "origin",
+      "published",
+      "approval",
+      "amendment",
+      "entered",
+      "amendments",
+      "quality",
+      "received",
+      "meaning"
+    ],
+    "prompt_length": 1705,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2738",
+  "concept_data": {
+    "title": "sausage",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "meat product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"sausage\" is redirected to the preferred term \"meat product,\" encompassing a variety of preparations including göttinger, stornoway, and norcia. These products are often crafted in specialized establishments, adhering to strict guidelines that govern their composition and labeling. Notable varieties include csabai and sudzhuk, which exemplify regional specialties like šunka and porchetta. The regulations stipulate limitative measures on additives such as dicalcium and chemcal agents, ensuring consumer safety. Furthermore, traditional methods like cheesemaking and massaged meat techniques are recognized, promoting cultural heritage while maintaining quality standards across the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:21:22.272440",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 2972,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 6.273333333333333
+    },
+    "related_words": [
+      "stablishments",
+      "göttinger",
+      "stalling",
+      "teruel",
+      "stornoway",
+      "pudding",
+      "derinded",
+      "massaged",
+      "stracke",
+      "ochsen",
+      "promotors",
+      "skilandis",
+      "amatriciano",
+      "zgornjesavinjski",
+      "želodec",
+      "feldkieker",
+      "eichsfelder",
+      "feldgieker",
+      "šebreljski",
+      "jałowcowa",
+      "zašink",
+      "newmarket",
+      "norcia",
+      "štanjel",
+      "chemcal",
+      "dicalcium",
+      "šunka",
+      "ciauscolo",
+      "markenspeck",
+      "orther"
+    ],
+    "prompt_length": 1731,
+    "category": "6026 foodstuff"
+  }
+}

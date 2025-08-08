@@ -1,0 +1,63 @@
+{
+  "concept_id": "3367",
+  "concept_data": {
+    "title": "diplomatic service",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "diplomatic representation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"diplomatic service,\" redirected to \"diplomatic representation,\" encompasses the legal and regulatory frameworks governing the activities of EU representatives stationed abroad. This service is crucial for fostering diplomacy, as exemplified by figures like Miroslav Lajčák and Samuel Žbogar, who have engaged in sensitive negotiations in regions such as Banja Luka and Pristina. The EU's diplomatic presence, supported by officials like Pekka Haavisto and Erwan Fouéré, facilitates international cooperation and conflict resolution. The role of diplomacy is further enhanced through initiatives like the SEECp, which promotes regional stability. Overall, effective diplomatic representation is vital for the EU's international affairs strategy.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:13:01.798890",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 991,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 24.96
+    },
+    "related_words": [
+      "quince",
+      "gunnar",
+      "wigemark",
+      "patricia",
+      "ušackas",
+      "petritsch",
+      "rondos",
+      "diplomacy",
+      "salber",
+      "samuel",
+      "žbogar",
+      "seecp",
+      "stavros",
+      "lambrinidis",
+      "schwarz",
+      "lajčák",
+      "sørensen",
+      "bernardino",
+      "rosalind",
+      "marsden",
+      "valentin",
+      "inzko",
+      "pristina",
+      "kubiš",
+      "ajello",
+      "roumeliotis",
+      "pekka",
+      "haavisto",
+      "ettore",
+      "sequi"
+    ],
+    "prompt_length": 1677,
+    "category": "0806 international affairs"
+  }
+}

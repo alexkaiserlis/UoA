@@ -1,0 +1,26 @@
+{
+  "concept_id": "8470",
+  "concept_data": {
+    "title": "electronic archiving",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "digital archiving",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"electronic archiving,\" redirected to \"digital archiving,\" pertains to the systematic preservation of digital documents within EU legal and regulatory frameworks. This practice ensures the long-term accessibility and integrity of electronic records, which is vital for compliance with various directives and regulations. Digital archiving facilitates efficient retrieval and management of documentation, supporting transparency and accountability in EU institutions. By employing standardized protocols, the EU enhances the reliability of archived materials, thereby safeguarding historical and legal information essential for governance and public administration. This transition to digital formats reflects the EU's commitment to modernizing documentation practices in an increasingly digital landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:11:14.199456",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1210,
+    "category": "3221 documentation"
+  }
+}

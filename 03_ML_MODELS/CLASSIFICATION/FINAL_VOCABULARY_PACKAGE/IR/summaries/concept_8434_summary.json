@@ -1,0 +1,63 @@
+{
+  "concept_id": "8434",
+  "concept_data": {
+    "title": "forgery of the euro",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "counterfeiting",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"forgery of the euro,\" redirected to \"counterfeiting,\" encompasses criminal law offences related to the falsification of euro banknotes and coins. The European Union centralises efforts to combat counterfeiting through agencies like Europol and Eurojust, which facilitate the detection and suppression of such crimes. This multidisciplinary approach involves collaboration with INTERPOL and national central banks (NCBs) to authenticate currency and prevent the recirculation of counterfeit tokens. Guidelines are established to ensure the credibility of measures against laundering and to gather intelligence on unauthorised players. The EU's structured framework aims to safeguard the integrity of euro-denominated currencies against forgery and enhance the fitness of financial systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:43:07.231737",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 491,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 669,
+      "selected_avg_freq": 289.3066666666667
+    },
+    "related_words": [
+      "centralises",
+      "interpol",
+      "forgery",
+      "recirculation",
+      "cnac",
+      "nac",
+      "etsc",
+      "cac",
+      "suppress",
+      "pericles",
+      "centralisation",
+      "tokens",
+      "bureaux",
+      "medals",
+      "mint",
+      "coin",
+      "laundering",
+      "suppressing",
+      "eurojust",
+      "authentication",
+      "multidisciplinary",
+      "vatican",
+      "handed",
+      "falsification",
+      "counterfeit",
+      "ncb",
+      "fitness",
+      "credibility",
+      "everything",
+      "counterfeiting"
+    ],
+    "prompt_length": 1727,
+    "category": "1216 criminal law"
+  }
+}

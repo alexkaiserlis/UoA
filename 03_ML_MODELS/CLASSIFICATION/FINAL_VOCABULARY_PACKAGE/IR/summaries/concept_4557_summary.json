@@ -1,0 +1,63 @@
+{
+  "concept_id": "4557",
+  "concept_data": {
+    "title": "worker (EU)",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"worker\" encompasses various categories of individuals, including salariati, autonomi, and migrant workers. It institutionalises the rights and obligations of those engaged in economic activities, whether employed or selfemployed. The concept governs issues such as workplace conditions, salaries, and the rights of families and spouses. Worker status can affect access to privileges like unemployment benefits and retirement schemes. Regulations also address the posting of workers, ensuring that their rights are protected across borders. Inspectorates oversee compliance, while provisions for waivers and extensions exist for unforeseen circumstances, such as sickness or incapacity.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:53.295636",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 707,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 222.89333333333335
+    },
+    "related_words": [
+      "lavoratori",
+      "subordinati",
+      "salariati",
+      "autonomi",
+      "inaccuracy",
+      "selfemployed",
+      "institutionalise",
+      "inspectorates",
+      "incapacity",
+      "corollary",
+      "renumbered",
+      "spouse",
+      "posting",
+      "waivers",
+      "approximated",
+      "dealings",
+      "posted",
+      "workplace",
+      "reside",
+      "successively",
+      "goes",
+      "catering",
+      "maximising",
+      "privileged",
+      "loads",
+      "alternates",
+      "migrant",
+      "ordination",
+      "nominations",
+      "unemployed"
+    ],
+    "prompt_length": 1713,
+    "category": "4411 labour market"
+  }
+}

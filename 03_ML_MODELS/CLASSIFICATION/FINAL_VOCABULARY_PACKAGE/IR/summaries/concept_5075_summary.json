@@ -1,0 +1,63 @@
+{
+  "concept_id": "5075",
+  "concept_data": {
+    "title": "Abruzzi",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"Abruzzi\" pertains to a region in Italy, categorized under the EU Member States' regions. It encompasses provinces such as Chieti and Campobasso, and features the altopiano of Fucino. In the context of EU legal and regulatory frameworks, Abruzzi is significant for its inclusion in various programming and funding initiatives, such as the ERDF (European Regional Development Fund). The region's agricultural profile includes products like carota, which may be subject to PGI (Protected Geographical Indication) designations. Additionally, the region is involved in zootechnical regulations, particularly concerning vaccination and disease eradication efforts, including bluetongue and vesicular diseases, demonstrating the EU's commitment to epidemiological monitoring and additionality in funding allocations.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:42:18.480150",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 330,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1289,
+      "selected_avg_freq": 694.9666666666667
+    },
+    "related_words": [
+      "chieti",
+      "altopiano",
+      "fucino",
+      "carota",
+      "campobasso",
+      "seroconversion",
+      "abruzzi",
+      "demarcate",
+      "abruzzo",
+      "imp",
+      "dell",
+      "eradicated",
+      "bluetongue",
+      "vesicular",
+      "phases",
+      "additionality",
+      "indexed",
+      "provinces",
+      "pgi",
+      "del",
+      "seq",
+      "erdf",
+      "vaccination",
+      "eib",
+      "zootechnical",
+      "epidemiological",
+      "inflation",
+      "opposition",
+      "demonstrating",
+      "virus"
+    ],
+    "prompt_length": 1706,
+    "category": "7211 regions of EU Member States"
+  }
+}

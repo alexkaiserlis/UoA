@@ -1,0 +1,63 @@
+{
+  "concept_id": "1860",
+  "concept_data": {
+    "title": "ombudsman",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "mediator",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"ombudsman\" is often redirected to \"mediator,\" emphasizing the role of impartial practitioners in resolving disputes. An ombudsman serves as an extrajudicial mediator, facilitating consensual settlements between clients and public authorities. This adjudicatory function is crucial for ensuring enforceability of rights and enhancing visibility of grievances. The ombudsman’s approach is tailored to encompass various issues, from electoral matters to parental disputes, promoting amicable resolutions. By employing mediation techniques, the ombudsman aims to circumvent unenforceable claims and foster autonomy among parties, illustrating the importance of quick and predictable conflict resolution in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:54.408039",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 485,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 618,
+      "selected_avg_freq": 264.94
+    },
+    "related_words": [
+      "reisch",
+      "stasi",
+      "stülpnagel",
+      "inec",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "togolese",
+      "mediators",
+      "georg",
+      "bernard",
+      "mediator",
+      "extrajudicial",
+      "poorer",
+      "consensual",
+      "ombudsman",
+      "matrimonial",
+      "togo",
+      "paul",
+      "displaying",
+      "prescription",
+      "von",
+      "amicable",
+      "enforceability",
+      "enforceable",
+      "settling",
+      "prescribes",
+      "arbitration",
+      "impartial",
+      "electoral"
+    ],
+    "prompt_length": 1740,
+    "category": "0436 executive power and public service"
+  }
+}

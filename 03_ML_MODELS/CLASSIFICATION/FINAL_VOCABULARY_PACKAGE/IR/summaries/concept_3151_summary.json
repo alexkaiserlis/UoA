@@ -1,0 +1,63 @@
+{
+  "concept_id": "3151",
+  "concept_data": {
+    "title": "insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"insurance\" within EU legal and regulatory frameworks encompasses a variety of financial products designed to provide protection against risks, including invalidity and household damages. Regulators, such as the European Supervisory Authorities (ESA), advocate for robust solvency regimes to ensure that insurances can genuinely meet their obligations to insured parties. The insurance sector includes branches like reinsurance, which mitigates risks for conglomerate entities. Additionally, the terminology surrounding insurance is critical for understanding the implications of regulations, including those related to expulsion and detention of victims. The EU also emphasizes responsible recruitment practices and urges member states to relax barriers for cross-border insurance exchanges, ensuring that all parties are treated fairly and without unreasonable restrictions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:33.255816",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 503,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 636,
+      "selected_avg_freq": 297.88666666666666
+    },
+    "related_words": [
+      "cpis",
+      "reestablish",
+      "expelling",
+      "relaxations",
+      "expulsion",
+      "bargaining",
+      "insurances",
+      "responsibly",
+      "wise",
+      "urge",
+      "hicp",
+      "substandard",
+      "conglomerate",
+      "reinsurance",
+      "hicps",
+      "solvency",
+      "invalidity",
+      "merchant",
+      "detention",
+      "reside",
+      "spc",
+      "insured",
+      "advocated",
+      "matching",
+      "dissuasive",
+      "unreasonable",
+      "salaries",
+      "hague",
+      "shipowners",
+      "recruitment"
+    ],
+    "prompt_length": 1665,
+    "category": "2431 insurance"
+  }
+}

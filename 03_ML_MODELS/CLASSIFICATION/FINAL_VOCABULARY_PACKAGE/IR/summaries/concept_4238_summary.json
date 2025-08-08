@@ -1,0 +1,63 @@
+{
+  "concept_id": "4238",
+  "concept_data": {
+    "title": "national sovereignty",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "National sovereignty refers to the authority of a state to govern itself without external interference, a principle increasingly relevant in the context of EU legal and regulatory frameworks. The ongoing situation in regions like Donbass highlights the gravity of sovereignty issues, where separatist movements threaten territorial integrity. The EU's Common Foreign and Security Policy (CFSP) has implemented restrictive measures against entities undermining Ukraine's independence. In dealing with these challenges, the EU considers actions that express concern over the actions of groups threatening stability. Legal provisions are needed to address the ongoing conflict, with additional measures requested to support affected persons and bodies in the region.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:06:07.132465",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 76,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 76,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1744.4868421052631
+    },
+    "related_words": [
+      "separatist",
+      "donbass",
+      "intense",
+      "undermining",
+      "fighting",
+      "threatening",
+      "gravity",
+      "sovereignty",
+      "independence",
+      "integrity",
+      "ukraine",
+      "territorial",
+      "increasingly",
+      "dealing",
+      "listing",
+      "institution",
+      "cfsp",
+      "renewed",
+      "eastern",
+      "ongoing",
+      "entities",
+      "continuing",
+      "restrictive",
+      "person",
+      "natural",
+      "considers",
+      "concern",
+      "groups",
+      "actions",
+      "six"
+    ],
+    "prompt_length": 1666,
+    "category": "1231 international law"
+  }
+}

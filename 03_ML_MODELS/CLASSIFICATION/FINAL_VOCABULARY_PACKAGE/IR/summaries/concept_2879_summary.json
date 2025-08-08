@@ -1,0 +1,63 @@
+{
+  "concept_id": "2879",
+  "concept_data": {
+    "title": "fishing plan",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "catch quota",
+    "relation_type": "USE"
+  },
+  "summary": "In EU fisheries management, a \"fishing plan,\" often redirected to the term \"catch quota,\" is a regulatory framework establishing exclusive catch limits for various species, including codend species like skate and horsemackerel. These quotas are communicated to member states to ensure sustainable fishing practices and prevent overexploitation. The management of these quotas necessitates crosschecking reported catches to avoid misreported quantities and unlicensed fishing activities. The European Community's approach involves a multispecies strategy, addressing bycatches and ensuring viable fish stocks, particularly in relation to the BCD (Biological Conservation Directive). Timelines for quota adjustments are communicated during sessional meetings, with propositions for future management strategies discussed among stakeholders. This regulatory mechanism is crucial for maintaining the health of marine ecosystems and supporting the fishing industry in a sustainable manner.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:56:01.426008",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 1854,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 28,
+      "selected_avg_freq": 15.226666666666667
+    },
+    "related_words": [
+      "exlusive",
+      "ctches",
+      "communciated",
+      "registred",
+      "caproidae",
+      "possesson",
+      "flay",
+      "deerned",
+      "skate",
+      "relationg",
+      "bcd",
+      "færoese",
+      "managament",
+      "commuunity",
+      "necassary",
+      "viiiabde",
+      "volantina",
+      "estalishing",
+      "januar",
+      "sessional",
+      "spitzbergen",
+      "viiiabd",
+      "apropesca",
+      "partership",
+      "misreported",
+      "timelines",
+      "quantitiative",
+      "codend",
+      "multispecies",
+      "comunicated"
+    ],
+    "prompt_length": 1703,
+    "category": "5641 fisheries"
+  }
+}

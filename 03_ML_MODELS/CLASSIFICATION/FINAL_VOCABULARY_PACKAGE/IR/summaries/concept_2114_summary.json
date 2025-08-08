@@ -1,0 +1,63 @@
+{
+  "concept_id": "2114",
+  "concept_data": {
+    "title": "oceanology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "oceanography",
+    "relation_type": "USE"
+  },
+  "summary": "Oceanology, often redirected to the preferred term \"oceanography,\" encompasses the scientific study of oceanic phenomena, including climatology, sedimentary processes, and the exploration of ocean depths. Within EU legal and regulatory frameworks, oceanography serves as a critical discipline for developing strategies that address the industrialization and exploitation of marine resources, such as hydrocarbons. The Joint Research Centre (JRC) emphasizes the importance of harmonizing oceanographic research with environmental protection, invoking predictive models to assess hazards and promote beneficial practices. This pursuit of excellence in ocean science ensures complementarity with coastal management and supports educational initiatives, enhancing the understanding of benthos and volcanological activities in the Atlantic.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:39.418858",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 246,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1519,
+      "selected_avg_freq": 653.4733333333334
+    },
+    "related_words": [
+      "boomerang",
+      "corer",
+      "mast",
+      "benthos",
+      "volcanological",
+      "oceanography",
+      "edgerton",
+      "climatology",
+      "oceanic",
+      "predictive",
+      "sedimentary",
+      "depths",
+      "industrialization",
+      "camera",
+      "sediment",
+      "topics",
+      "crest",
+      "jrc",
+      "excellence",
+      "bottom",
+      "bed",
+      "complementarity",
+      "realization",
+      "refusing",
+      "hydrocarbons",
+      "expanding",
+      "hazards",
+      "ocean",
+      "strategies",
+      "affirmative"
+    ],
+    "prompt_length": 1728,
+    "category": "3606 natural and applied sciences"
+  }
+}

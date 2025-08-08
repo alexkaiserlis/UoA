@@ -1,0 +1,63 @@
+{
+  "concept_id": "5000",
+  "concept_data": {
+    "title": "durum wheat",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Durum wheat, scientifically known as Triticum durum, is a vital plant product categorized under the EU's agroalimentaria regulations. Its unique qualities, such as high stickiness and firmness, make it essential for producing semolina and various pasta types, including pagnotta. The EU's regulatory framework includes provisions for the policing of durum wheat quality to prevent misunderstandings regarding its classification. Before accession, certain member states faced challenges in ensuring sufficient quality standards. The intervention mechanisms established by the EU aim to support farmers and stabilize markets, addressing issues like overshoot in production and the unpredictable nature of agricultural yields. Overall, durum wheat plays a significant role in the EU's cereal sector, impacting trade and food security.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:27:37.432825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1272,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 162,
+      "selected_avg_freq": 77.43333333333334
+    },
+    "related_words": [
+      "genereal",
+      "insufficent",
+      "payement",
+      "applicale",
+      "intevention",
+      "desf",
+      "marialva",
+      "beforeaccession",
+      "pigmentation",
+      "espressing",
+      "qualitites",
+      "agroalimentaria",
+      "mcas",
+      "overheated",
+      "cereales",
+      "semolina",
+      "pagnotta",
+      "dittaino",
+      "calidad",
+      "belated",
+      "supersede",
+      "stickiness",
+      "firmness",
+      "policing",
+      "blank",
+      "thrace",
+      "servicio",
+      "minneapolis",
+      "vitreous",
+      "logically"
+    ],
+    "prompt_length": 1684,
+    "category": "6006 plant product"
+  }
+}

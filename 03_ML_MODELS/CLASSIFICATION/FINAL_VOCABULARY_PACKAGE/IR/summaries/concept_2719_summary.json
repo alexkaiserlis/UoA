@@ -1,0 +1,63 @@
+{
+  "concept_id": "2719",
+  "concept_data": {
+    "title": "underproduction",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Underproduction refers to a situation in which the output of industries, particularly in the context of the EU, is insufficiently aligned with demand, leading to inadequate supply levels. This phenomenon can result in disturbances across various sectors, including agriculture and fisheries, where volumes produced may be totally or partially below expectations. Regulatory frameworks, such as those under GATT, may necessitate examinations and adaptations to address these trends. Additionally, underproduction can lead to suspensions of certain activities or the temporary closure of operations, requiring clarification on the implications for affected industries. Accurate assessments and descriptions of these conditions are essential for ensuring uninterrupted market functionality and user comprehension of the regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:22:57.243078",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 209,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 2186,
+      "selected_avg_freq": 1084.3333333333333
+    },
+    "related_words": [
+      "comprehension",
+      "allied",
+      "insufficiently",
+      "existent",
+      "premature",
+      "suspensions",
+      "uninterrupted",
+      "examinations",
+      "taric",
+      "ease",
+      "accurately",
+      "descriptions",
+      "obsolete",
+      "totally",
+      "inadequate",
+      "disturbances",
+      "double",
+      "clarification",
+      "termination",
+      "gatt",
+      "user",
+      "near",
+      "zero",
+      "closed",
+      "altered",
+      "eight",
+      "completely",
+      "partially",
+      "suspending",
+      "volumes"
+    ],
+    "prompt_length": 1695,
+    "category": "6406 production"
+  }
+}

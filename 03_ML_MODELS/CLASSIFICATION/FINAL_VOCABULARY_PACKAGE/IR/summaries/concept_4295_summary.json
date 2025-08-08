@@ -1,0 +1,63 @@
+{
+  "concept_id": "4295",
+  "concept_data": {
+    "title": "document storage",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"document storage\" within EU legal and regulatory frameworks pertains to the systematic retention and management of records related to financial instruments, particularly derivatives and securities. This process facilitates compliance with regulatory requirements set forth by entities such as ESMA, ensuring that counterparties and central counterparties (CCPs) maintain accurate and comparable records. Document storage involves the standardisation of formats and identifiers, allowing for efficient reconciliation and analysis of transactions. Stakeholders benefit from keeping documents in repositories that are compatible with various infrastructures, promoting transparency and supervisory oversight. By retaining detailed records, participants can consistently identify underlyings and indices, thus enhancing the overall integrity of the financial system.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:31.402825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1589.8321167883212
+    },
+    "related_words": [
+      "isins",
+      "underlyings",
+      "ccp",
+      "ccps",
+      "basket",
+      "repositories",
+      "otc",
+      "counterparties",
+      "esma",
+      "straight",
+      "identifier",
+      "reconciliation",
+      "indices",
+      "facilitates",
+      "formats",
+      "stakeholder",
+      "derivatives",
+      "infrastructures",
+      "standardised",
+      "underlying",
+      "consistently",
+      "supervisory",
+      "analysed",
+      "retained",
+      "standardisation",
+      "participants",
+      "records",
+      "record",
+      "format",
+      "retain"
+    ],
+    "prompt_length": 1709,
+    "category": "3221 documentation"
+  }
+}

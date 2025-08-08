@@ -1,0 +1,63 @@
+{
+  "concept_id": "5563",
+  "concept_data": {
+    "title": "Republic of Croatia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Croatia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Croatia,\" commonly referred to as \"Croatia,\" is a significant entity in EU political geography. As a member state, Croatia's legal framework is influenced by EU regulations, particularly in areas like agricultural submeasures and environmental standards. The Croatian government, including figures such as Jakovčić and Miroslav, plays a crucial role in implementing EU directives. Regions like Slavonski and Istranska are pivotal in agricultural production, contributing to the diversity of Croatian products, including pršut and various wine varieties like burgundac and aglianico. Croatia's integration into the EU also involves iterated compliance with regulatory standards, ensuring alignment with broader European objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:29:25.330620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2836,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 25,
+      "selected_avg_freq": 11.766666666666667
+    },
+    "related_words": [
+      "croatiangovernment",
+      "jakovčić",
+      "čačija",
+      "blanka",
+      "glavica",
+      "ječmenica",
+      "andrija",
+      "rudić",
+      "ivana",
+      "posavec",
+      "krivec",
+      "mtoe",
+      "unsupportive",
+      "ivan",
+      "krajina",
+      "iterated",
+      "hrvatska",
+      "narodna",
+      "dnipropetrovsk",
+      "sklara",
+      "krčki",
+      "karlovac",
+      "moslavina",
+      "slavonski",
+      "posavina",
+      "vukovar",
+      "srijem",
+      "prapadaeng",
+      "samutprakarn",
+      "hrvatski"
+    ],
+    "prompt_length": 1697,
+    "category": "7236 political geography"
+  }
+}

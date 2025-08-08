@@ -1,0 +1,63 @@
+{
+  "concept_id": "391",
+  "concept_data": {
+    "title": "overseas department (France)",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"overseas department (France)\" refers to regions such as Guadeloupe, Martinique, and Réunion, which are classified as outermost regions of the EU. These departments are subject to unique legal frameworks that address their specific challenges, including the management of epidemics and the use of biocidal products like insecticides to neutralize mosquito vectors. The EU's regulatory approach includes provisions for the equalization of finances and support for local plantations, such as sugar cane and citrus. The dossiers related to these departments often detail the mechanization of agriculture, the refining of products like rum and juice, and the registration of subsidies. This framework aims to ensure that the economic and social conditions in these regions are not unduly altered, promoting sustainable development while addressing the magnitude of local challenges.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:14.413254",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 409,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 934,
+      "selected_avg_freq": 416.81333333333333
+    },
+    "related_words": [
+      "subpararaph",
+      "temephos",
+      "mechanization",
+      "mosquito",
+      "equalization",
+      "epidemics",
+      "neutralize",
+      "registrations",
+      "insecticides",
+      "rum",
+      "mills",
+      "poseidom",
+      "poseican",
+      "explains",
+      "apricots",
+      "pulp",
+      "magnitude",
+      "plantations",
+      "réunion",
+      "virgin",
+      "refineries",
+      "martinique",
+      "dual",
+      "biocidal",
+      "guadeloupe",
+      "provenance",
+      "vector",
+      "commence",
+      "subsidised",
+      "cancel"
+    ],
+    "prompt_length": 1704,
+    "category": "0436 executive power and public service"
+  }
+}

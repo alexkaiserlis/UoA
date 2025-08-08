@@ -1,0 +1,63 @@
+{
+  "concept_id": "327",
+  "concept_data": {
+    "title": "hydroponics",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hydroponics, categorized under the cultivation of agricultural land, represents a significant development in eco-friendly farming practices within the EU. This method allows producers to grow plants in nutrient-rich media without soil, thereby improving resource efficiency. The European Commission has instituted various schemes to support hydroponic practices, ensuring compliance with ecological criteria. Timely reviews and assessments of hydroponic products are essential for valid labelling and verification processes. As the market evolves, groups of stakeholders are encouraged to adapt their practices, allowing for the replacement of outdated methods. The relevance of hydroponics in sustainable agriculture continues to grow, necessitating ongoing scientific consultation and documentation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:52:23.586755",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 99,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 99,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2058.5252525252527
+    },
+    "related_words": [
+      "improvers",
+      "eighteen",
+      "eco",
+      "ecological",
+      "media",
+      "label",
+      "soil",
+      "instituted",
+      "revise",
+      "divided",
+      "awarded",
+      "award",
+      "timely",
+      "labelling",
+      "expires",
+      "growing",
+      "board",
+      "verification",
+      "separate",
+      "valid",
+      "replace",
+      "validity",
+      "revised",
+      "groups",
+      "adapt",
+      "producers",
+      "scientific",
+      "scheme",
+      "four",
+      "developments"
+    ],
+    "prompt_length": 1641,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

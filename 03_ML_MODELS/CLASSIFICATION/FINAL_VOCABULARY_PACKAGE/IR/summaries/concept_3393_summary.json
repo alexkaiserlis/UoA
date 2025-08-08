@@ -1,0 +1,63 @@
+{
+  "concept_id": "3393",
+  "concept_data": {
+    "title": "Northern Portugal",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Northern Portugal\" refers to a specific geographical region within the EU Member State of Portugal, recognized for its unique agricultural products and traditional foodstuffs. This region is notable for its registered designations, including PDO (Protected Designation of Origin) and PGI (Protected Geographical Indication) products such as azeites, presunto, and chouriça. The EU legal framework supports the protection of these products through specifications that ensure quality and origin. Applications for entering products into the register must comply with established criteria, and any objections or amendments are notified to the relevant authorities. The functioning of these protection schemes is crucial for maintaining the integrity of Northern Portugal's culinary heritage.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:48:01.114077",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 63,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 63,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1751.6984126984128
+    },
+    "related_words": [
+      "azeites",
+      "sangue",
+      "presunto",
+      "melgaço",
+      "salpicão",
+      "alentejano",
+      "chouriça",
+      "carne",
+      "norte",
+      "pdo",
+      "pgi",
+      "opposition",
+      "designations",
+      "specification",
+      "objections",
+      "designation",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "registered",
+      "geographical",
+      "schemes",
+      "indent",
+      "points",
+      "portugal",
+      "origin"
+    ],
+    "prompt_length": 1694,
+    "category": "7211 regions of EU Member States"
+  }
+}

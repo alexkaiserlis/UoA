@@ -1,0 +1,63 @@
+{
+  "concept_id": "3591",
+  "concept_data": {
+    "title": "quota",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "quantitative restriction",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"quota,\" which redirects to \"quantitative restriction,\" refers to limits imposed on the quantity of specific goods that can be imported or exported. Such restrictions are often outlined in protocols and regulations to ensure compliance with community standards. For instance, member states may require authorizations for the importation of resinous substances or specific textiles like brassières and tarpaulins. These quotas are essential for managing trade relations with countries such as Kirghizstan and Uzbekistan, where the EU may negotiate transitionary measures. The imposition of quotas can affect various sectors, including sawmills and the dairy industry, particularly with products like Roquefort cheese. Overall, quotas play a critical role in regulating customs and maintaining market stability within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:08:33.165665",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 3760,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 7.506666666666667
+    },
+    "related_words": [
+      "articel",
+      "athorization",
+      "membert",
+      "resinous",
+      "sawmills",
+      "spruce",
+      "repbulic",
+      "czecvh",
+      "authorizaions",
+      "apperas",
+      "protocoles",
+      "kirghizstan",
+      "koreo",
+      "veined",
+      "roquefort",
+      "hereo",
+      "ousting",
+      "desf",
+      "marialva",
+      "limites",
+      "custome",
+      "regualtions",
+      "brassières",
+      "experence",
+      "uzebekistan",
+      "finalnd",
+      "empting",
+      "wher",
+      "uzbekisan",
+      "transitionary"
+    ],
+    "prompt_length": 1733,
+    "category": "2021 international trade"
+  }
+}

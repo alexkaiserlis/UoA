@@ -1,0 +1,63 @@
+{
+  "concept_id": "7927",
+  "concept_data": {
+    "title": "European Supervisor",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Data Protection Supervisor",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"European Supervisor\" is a redirect to the \"European Data Protection Supervisor\" (EDPS), an independent authority established under EU regulation to oversee the processing of personal data by EU institutions and bodies. Appointed for a five-year period, the supervisor ensures compliance with data protection laws, promoting the free movement of personal data within the Union. The EDPS is responsible for advising on data protection matters, assessing proposals, and monitoring the application of regulations. Following the appointment process, candidates are drawn from a list published in the Official Journal, ensuring transparency and public accountability in accordance with EU principles.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:43:38.696007",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 42,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 42,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2147.690476190476
+    },
+    "related_words": [
+      "assistant",
+      "supervisor",
+      "accord",
+      "candidates",
+      "appointing",
+      "appointment",
+      "call",
+      "individuals",
+      "appointed",
+      "personal",
+      "movement",
+      "bodies",
+      "five",
+      "institutions",
+      "drawn",
+      "processing",
+      "free",
+      "public",
+      "data",
+      "protection",
+      "list",
+      "years",
+      "following",
+      "view",
+      "january",
+      "period",
+      "common",
+      "october",
+      "proposal",
+      "such"
+    ],
+    "prompt_length": 1662,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

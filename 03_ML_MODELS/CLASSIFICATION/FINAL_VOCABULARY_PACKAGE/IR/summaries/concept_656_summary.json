@@ -1,0 +1,63 @@
+{
+  "concept_id": "656",
+  "concept_data": {
+    "title": "agri-foodstuffs chain",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "agri-foodstuffs",
+    "relation_type": "USE"
+  },
+  "summary": "The \"agri-foodstuffs chain\" refers to the comprehensive network involved in the production, processing, distribution, and consumption of food products within the EU. This term is a redirect to the preferred term \"agri-foodstuffs,\" encompassing various regulatory aspects, including food safety measures such as HACCP, which are crucial for managing risks associated with pathogens like Listeria monocytogenes and Enterobacter sakazakii. The chain's complexity involves multiple stakeholders, from hunters managing trophy tusks to producers of sprouted okra, necessitating rigorous bioassays and prevalidation processes. Regulatory frameworks address issues like haemolytic uremic syndrome (HUS) linked to shiga toxin-producing E. coli (STEC), ensuring that food products meet safety standards through effective taxonomy and outreach programs. The laborious nature of compliance is underscored by the need for readability in documentation and the application of advanced techniques such as chromatography and spectrometry to monitor food quality.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:44:18.880710",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 138,
+    "vocabulary_stats": {
+      "total_related_words": 982,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 165,
+      "selected_avg_freq": 70.0
+    },
+    "related_words": [
+      "enterobacteriaceae",
+      "enterobacter",
+      "sakazakii",
+      "cronobacter",
+      "mio",
+      "tusks",
+      "trophy",
+      "mba",
+      "lipophilic",
+      "bioassays",
+      "prevalidation",
+      "aesan",
+      "msps",
+      "crlmb",
+      "shtml",
+      "focussed",
+      "taxonomy",
+      "hunters",
+      "bioassay",
+      "okra",
+      "serogroups",
+      "haemolytic",
+      "uremic",
+      "hus",
+      "bloody",
+      "bleeding",
+      "personalities",
+      "viscera",
+      "rba",
+      "listeria"
+    ],
+    "prompt_length": 1714,
+    "category": "6031 agri-foodstuffs"
+  }
+}

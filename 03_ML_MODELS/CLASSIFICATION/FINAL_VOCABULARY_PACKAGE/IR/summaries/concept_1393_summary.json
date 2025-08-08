@@ -1,0 +1,63 @@
+{
+  "concept_id": "1393",
+  "concept_data": {
+    "title": "furniture industry",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"furniture industry,\" classified under the wood industry category, encompasses a diverse range of products, including chairs, beds, and convertible seating. This sector is integral to EU regulations aimed at promoting eco-friendly practices and sustainable materials, such as fabrics and cordage. The industry employs various techniques, including macramé and lace motifs, to enhance interior decoration. Regulatory frameworks address redundancies in production processes and mobilise resources for reintegration of materials. Additionally, the industry faces challenges from globalisation, necessitating the classification of furniture accessories and components, such as cables and twine, to ensure compliance with ecological standards and consumer safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:29.679079",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1082,
+      "selected_avg_freq": 472.4266666666667
+    },
+    "related_words": [
+      "knotted",
+      "macramé",
+      "lace",
+      "motifs",
+      "hanging",
+      "chairs",
+      "withing",
+      "pot",
+      "curtains",
+      "convertible",
+      "cordage",
+      "beds",
+      "decoration",
+      "twine",
+      "mattresses",
+      "strips",
+      "apparel",
+      "rope",
+      "furniture",
+      "interior",
+      "furnishing",
+      "cables",
+      "accessories",
+      "yarn",
+      "fabric",
+      "cct",
+      "possessing",
+      "bed",
+      "fabrics",
+      "deploy"
+    ],
+    "prompt_length": 1656,
+    "category": "6836 wood industry"
+  }
+}

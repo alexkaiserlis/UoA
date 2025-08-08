@@ -1,0 +1,63 @@
+{
+  "concept_id": "4831",
+  "concept_data": {
+    "title": "construction",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "building",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"construction,\" redirected to the preferred term \"building,\" encompasses a broad spectrum of activities related to the creation and maintenance of structures. In EU legal and regulatory contexts, building regulations presuppose the rationally planned use of materials, including insulation and thermal systems, to enhance energy efficiency. This sector is influenced by globalisation, necessitating the exploration of comparative engineering practices across regions like Südtirol and Trentino. Additionally, the construction industry must address challenges such as insufficiently inspected quarrying and mining operations, which can jeopardize environmental standards. The interdependence of building practices and economic cycles is critical, particularly in regions facing displacement and redundancies, such as the Balkans. By mobilising resources and adopting innovative appliances, the EU aims to lessen the impact of economic recession on construction, ensuring sustainable development and reintegration of refugees into the workforce.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:42:45.735024",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 517,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 607,
+      "selected_avg_freq": 281.5733333333333
+    },
+    "related_words": [
+      "occupying",
+      "lends",
+      "südtirol",
+      "rationally",
+      "quarrying",
+      "generator",
+      "obtainable",
+      "trentino",
+      "displaced",
+      "fired",
+      "adige",
+      "insulation",
+      "ipa",
+      "midlands",
+      "smoke",
+      "lessen",
+      "alto",
+      "heated",
+      "plate",
+      "recession",
+      "insufficiently",
+      "fluids",
+      "generators",
+      "interval",
+      "interdependence",
+      "gaseous",
+      "presupposes",
+      "jeopardizing",
+      "refugees",
+      "egf"
+    ],
+    "prompt_length": 1715,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "5056",
+  "concept_data": {
+    "title": "personal budget",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": true,
+    "preferred_term": "household budget",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"personal budget,\" categorized under national accounts, is redirected to the preferred term \"household budget.\" In the context of EU legal and regulatory frameworks, a household budget refers to the financial plan that outlines the expected income and expenditures of a household. This concept is crucial for national accounts as it aids in assessing economic stability and consumer behavior within EU member states. Accurate household budgeting is essential for formulating fiscal policies and social welfare programs, ensuring that resources are allocated efficiently to meet the needs of citizens. Understanding household budgets also supports compliance with EU regulations on economic governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:30.537473",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1208,
+    "category": "1626 national accounts"
+  }
+}

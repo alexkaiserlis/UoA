@@ -1,0 +1,63 @@
+{
+  "concept_id": "322",
+  "concept_data": {
+    "title": "fruit-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fruit-growing\" (agricultural activity category 5631) encompasses the cultivation of various fruit-bearing plants, including dicotyledonous species such as Vaccinium, Rubus, and Pyrus. In the EU regulatory framework, fruit-growing is subject to specific verordnung addressing pest management, including the control of quadraspidiotus perniciosus and viruskrankheiten. Individual growers must adhere to timelimits for compliance and may need to consultable guidelines to ensure sustainable practices. The cultivation of species like Carica, Cydonia, and Prunus persica is encouraged for its delicious yield. However, challenges such as questionable methods and the necessity to relinquish harmful practices remain critical for the sector's development.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:33.554393",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1126,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 121,
+      "selected_avg_freq": 39.593333333333334
+    },
+    "related_words": [
+      "invididual",
+      "carica",
+      "vaccinium",
+      "osbeck",
+      "limon",
+      "burm",
+      "aurantifolia",
+      "christm",
+      "ananassa",
+      "duch",
+      "redcurrant",
+      "blackberry",
+      "oblonga",
+      "consultable",
+      "bekaempfung",
+      "obstbau",
+      "starking",
+      "imperatore",
+      "passe",
+      "crassane",
+      "bundesgesetzblatt",
+      "timelimits",
+      "reactivated",
+      "ηλείας",
+      "ilias",
+      "dicotyledonous",
+      "quadraspidiotus",
+      "perniciosus",
+      "comst",
+      "relinquish"
+    ],
+    "prompt_length": 1700,
+    "category": "5631 agricultural activity"
+  }
+}

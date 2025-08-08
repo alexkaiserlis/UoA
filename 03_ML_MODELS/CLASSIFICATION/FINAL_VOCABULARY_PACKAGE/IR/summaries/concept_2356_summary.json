@@ -1,0 +1,63 @@
+{
+  "concept_id": "2356",
+  "concept_data": {
+    "title": "swine fever",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal plague",
+    "relation_type": "USE"
+  },
+  "summary": "Swine fever, also known as \"animal plague,\" is a significant concern within EU agricultural activity regulations. This disease, often associated with regions like Badajoz and Maldegem, poses threats to livestock health, necessitating accelerated eradication efforts. The EU employs stringent measures to monitor and control outbreaks, particularly in areas such as Vechta and Hlohovec, where the presence of antigenes can lead to erratic disease spread. Legal frameworks mandate the reporting of infected animals, ensuring that regions like Lučenec and Rimavská are vigilant. The eradication process involves coordinated actions across member states, including those adjoining affected areas, to maintain livestock health and safeguard agricultural productivity.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:07.132966",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2277,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 7.466666666666667
+    },
+    "related_words": [
+      "kreuznach",
+      "maldegem",
+      "lithuaniashould",
+      "badajoz",
+      "segrià",
+      "pla",
+      "noguera",
+      "threal",
+      "vechta",
+      "antigenes",
+      "acclerated",
+      "radiction",
+      "cáceres",
+      "statisfied",
+      "lučenec",
+      "raties",
+      "veľký",
+      "krtíš",
+      "pige",
+      "fevers",
+      "ornithodorus",
+      "erraticus",
+      "wingene",
+      "likey",
+      "eradicted",
+      "torhout",
+      "kortemark",
+      "ammerzoden",
+      "nederweert",
+      "wingede"
+    ],
+    "prompt_length": 1708,
+    "category": "5631 agricultural activity"
+  }
+}

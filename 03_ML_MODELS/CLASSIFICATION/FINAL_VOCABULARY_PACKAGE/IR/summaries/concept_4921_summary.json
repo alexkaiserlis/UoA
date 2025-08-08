@@ -1,0 +1,63 @@
+{
+  "concept_id": "4921",
+  "concept_data": {
+    "title": "microbiology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "biology",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"microbiology,\" categorized under natural and applied sciences, is redirected to the preferred term \"biology\" within EU legal and regulatory frameworks. Microbiology encompasses the study of microorganisms, which is crucial for understanding various biological processes, including glycolysis and pharmacokinetic interactions. Regulatory bodies often employ techniques such as spectrophotometric and fluorometric analyses to assess the deformability and kinetics of microbial cells. Tools like cytofluorographs and chromatographs facilitate the exploration of heme and heterocyclic compounds in pharmaceuticals. The integration of mechanograms and scatter analysis enhances the understanding of cellular interactions, ensuring compliance with health and safety regulations across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:21:37.962318",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 367,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 576,
+      "selected_avg_freq": 142.98666666666668
+    },
+    "related_words": [
+      "ortho",
+      "cytofluorograf",
+      "disconnection",
+      "marrow",
+      "cerebellum",
+      "mechanograms",
+      "muscule",
+      "hem",
+      "deformability",
+      "fluorometer",
+      "fluorometrical",
+      "fluorometric",
+      "glycolysis",
+      "hydrolyzates",
+      "fragmentography",
+      "slm",
+      "photophysics",
+      "heterocycles",
+      "pharmaceutic",
+      "justifed",
+      "heme",
+      "scatter",
+      "aminco",
+      "sfr",
+      "braintree",
+      "spectrometric",
+      "oscilloscope",
+      "explorer",
+      "tracor",
+      "spectrophotometric"
+    ],
+    "prompt_length": 1773,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2623",
+  "concept_data": {
+    "title": "insurance premium",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"insurance premium\" refers to the amount paid by policyholders to insurance companies, which incorporates various duties and levies. In the EU regulatory framework, these premiums are subject to taxation, with specific laws designed to combat fraud and ensure compliance with administrative obligations. The principles governing insurance premiums facilitate the movement of capital and provide a basis for recovery in claims. Competent authorities monitor these arrangements to ensure that they effectively apply regulations without prejudice to social obligations. The latter includes exceptions that allow for mutual assistance in the field of taxation, ensuring that all parties are bound to comply with established directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:10.103778",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 97,
+      "requested_words": 150,
+      "min_frequency_found": 110,
+      "max_frequency_found": 4108,
+      "selected_words": 97,
+      "selected_min_freq": 110,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2132.855670103093
+    },
+    "related_words": [
+      "incorporates",
+      "excise",
+      "premiums",
+      "levies",
+      "closer",
+      "taxation",
+      "insurance",
+      "taxes",
+      "fraud",
+      "claims",
+      "combat",
+      "cease",
+      "recovery",
+      "tax",
+      "bound",
+      "holding",
+      "mutual",
+      "effectively",
+      "bring",
+      "short",
+      "duty",
+      "exception",
+      "movement",
+      "laws",
+      "directives",
+      "designed",
+      "latter",
+      "duties",
+      "obligation",
+      "direct"
+    ],
+    "prompt_length": 1648,
+    "category": "2431 insurance"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5092",
+  "concept_data": {
+    "title": "costing",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Costing, within the context of EU legal and regulatory frameworks, refers to the systematic calculations involved in determining the financial implications of various interventions, particularly in sectors like transport and agriculture. It entails studying the costs associated with mobilising resources, such as freight in railway systems, and optimising the use of funds from entities like the EAGF. Accurate costing confers the ability to declare realistic budgets and chargeable loads, ensuring homogeneity across member states. By analysing comparative data and deriving optimal financial strategies, EU regulations aim to facilitate investments in critical infrastructures, such as buildings and transport networks, while managing errors and ensuring compliance with stipulated financial standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:42:35.632333",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 353,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1163,
+      "selected_avg_freq": 573.3666666666667
+    },
+    "related_words": [
+      "fiancing",
+      "ibor",
+      "entitles",
+      "euromarkets",
+      "euribor",
+      "costing",
+      "mobilising",
+      "studying",
+      "loads",
+      "train",
+      "homogeneity",
+      "paddy",
+      "invested",
+      "preferable",
+      "refusing",
+      "eagf",
+      "born",
+      "weighting",
+      "thirds",
+      "mobilised",
+      "money",
+      "railway",
+      "sending",
+      "comparative",
+      "chargeable",
+      "realistic",
+      "interventions",
+      "durum",
+      "confers",
+      "buildings"
+    ],
+    "prompt_length": 1648,
+    "category": "4026 accounting"
+  }
+}

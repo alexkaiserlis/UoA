@@ -1,0 +1,63 @@
+{
+  "concept_id": "5807",
+  "concept_data": {
+    "title": "President of the Commission",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"President of the Commission\" is a pivotal role within the EU's institutional framework, appointed through a nomination process that entails consultations among member states. The nominee, often a candidate with significant political experience, is proposed by the European Council and must be approved by the European Parliament through a vote. This position, established under the Lisbon Treaty, represents the Commission in intergovernmental affairs and oversees its college of commissioners. The president's responsibilities include proposing legislation, ensuring compliance with EU law, and representing the Union internationally. Emoluments and allowances for the president are defined in accordance with EU regulations, ensuring transparency and accountability in governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:55:49.598592",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 125,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 125,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1607.632
+    },
+    "related_words": [
+      "nominee",
+      "durão",
+      "manuel",
+      "barroso",
+      "registrar",
+      "college",
+      "advocates",
+      "josé",
+      "emoluments",
+      "judges",
+      "vice",
+      "intergovernmental",
+      "elections",
+      "nationality",
+      "nominated",
+      "vote",
+      "nomination",
+      "constitution",
+      "accord",
+      "minister",
+      "candidate",
+      "repeals",
+      "proposing",
+      "appoint",
+      "allowances",
+      "heads",
+      "appointing",
+      "proposes",
+      "appointment",
+      "replaces"
+    ],
+    "prompt_length": 1717,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

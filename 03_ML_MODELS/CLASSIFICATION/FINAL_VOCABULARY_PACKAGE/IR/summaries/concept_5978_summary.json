@@ -1,0 +1,63 @@
+{
+  "concept_id": "5978",
+  "concept_data": {
+    "title": "youth unemployment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Youth unemployment is a critical issue addressed within EU legal and regulatory frameworks, particularly concerning employment and social cohesion. The European Social Fund (ESF) plays a pivotal role in allocating funds to tackle this urgency, with multiannual appropriations aimed at strengthening competitiveness and addressing territorial disparities. The methodology for addressing youth unemployment involves legislative commitments that prioritize the absorption of resources to combat poverty and social exclusion. The EU's efforts include indicative deadlines for negotiations and operational strategies to enhance the effectiveness of allocated budgets. Overall, the crisis of youth unemployment requires a comprehensive solution that relates to broader issues of economic convergence and employment outcomes across member states, notably in regions like Italy.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:36:00.470855",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 48,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 48,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1811.2826086956522
+    },
+    "related_words": [
+      "breakdowns",
+      "youth",
+      "stemming",
+      "absorption",
+      "esf",
+      "poverty",
+      "unemployment",
+      "territorial",
+      "convergence",
+      "allocations",
+      "cohesion",
+      "indicative",
+      "exclusion",
+      "methodology",
+      "urgency",
+      "appropriations",
+      "multiannual",
+      "effort",
+      "competitiveness",
+      "parliaments",
+      "strengthen",
+      "solution",
+      "issues",
+      "ordinary",
+      "outcome",
+      "crisis",
+      "addressed",
+      "commitment",
+      "address",
+      "relate"
+    ],
+    "prompt_length": 1716,
+    "category": "4406 employment"
+  }
+}

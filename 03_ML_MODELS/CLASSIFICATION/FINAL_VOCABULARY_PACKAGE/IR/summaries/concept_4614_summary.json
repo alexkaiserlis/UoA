@@ -1,0 +1,63 @@
+{
+  "concept_id": "4614",
+  "concept_data": {
+    "title": "United Nations Relief and Works Agency",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UNRWA",
+    "relation_type": "USE"
+  },
+  "summary": "The United Nations Relief and Works Agency (UNRWA) plays a critical role in stabilising the lives of Palestinian refugees in the Near East. Established to provide comprehensive relief and works programs, UNRWA addresses the resultant poverty and crisis faced by this population. The agency mobilizes funding and logistical support from various organizations, ensuring continuity of services and supplies. In the context of EU legal and regulatory frameworks, UNRWA's operations are often subject to tender processes, where contributions are awarded based on specified deadlines and criteria. The EU's assent to UNRWA initiatives reflects its commitment to sustainable development and the attainment of humanitarian objectives in the region.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:18:00.495694",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 185,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 2870,
+      "selected_avg_freq": 1276.94
+    },
+    "related_words": [
+      "unrwa",
+      "republication",
+      "stabilising",
+      "palestine",
+      "lives",
+      "refugees",
+      "palestinian",
+      "delegate",
+      "logistical",
+      "sunflower",
+      "mobilization",
+      "fob",
+      "middle",
+      "poverty",
+      "lots",
+      "refined",
+      "resultant",
+      "envisages",
+      "campaign",
+      "assent",
+      "relief",
+      "host",
+      "wishes",
+      "tenders",
+      "olive",
+      "invitation",
+      "awarded",
+      "offering",
+      "near",
+      "east"
+    ],
+    "prompt_length": 1734,
+    "category": "7606 United Nations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1010",
+  "concept_data": {
+    "title": "export financing",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Export financing refers to financial support mechanisms provided to facilitate the export of goods and services, particularly within the EU's trade policy framework. This concept is vital for participants in sectors such as luftfahrt and shipbuilding, where substantial investments are required. Programs like the proex aim to minimize barriers for exporters, ensuring they can compete effectively against unfairly subsidized foreign competitors, such as Brazilian and Canadian firms. Export financing can involve insurers that reimburse exporters for losses, while also addressing allegations of counterproductive practices. The EU's regulatory approach systematically upholds principles of equalisation and fair competition, fostering interdependence among member states and promoting cooperative trade relationships.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:58:26.321645",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 393,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 828,
+      "selected_avg_freq": 351.52
+    },
+    "related_words": [
+      "proex",
+      "luftfahrt",
+      "programa",
+      "financiamentò",
+      "exportacoes",
+      "embraer",
+      "vigilant",
+      "unfairly",
+      "dornier",
+      "lion",
+      "reimburses",
+      "scm",
+      "subcontracts",
+      "equalisation",
+      "counterproductive",
+      "dsu",
+      "subcontracting",
+      "dsb",
+      "tbr",
+      "appellate",
+      "insurers",
+      "subscribe",
+      "powerful",
+      "contended",
+      "upheld",
+      "jet",
+      "summarised",
+      "interdependence",
+      "shipbuilding",
+      "participant"
+    ],
+    "prompt_length": 1677,
+    "category": "2006 trade policy"
+  }
+}

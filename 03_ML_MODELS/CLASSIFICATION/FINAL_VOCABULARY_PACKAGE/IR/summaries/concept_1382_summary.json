@@ -1,0 +1,63 @@
+{
+  "concept_id": "1382",
+  "concept_data": {
+    "title": "production of fertilisers",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "fertiliser industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"production of fertilisers\" is closely aligned with the preferred term \"fertiliser industry\" within EU legal and regulatory frameworks. This sector encompasses various processes, including the synthesis of ammoniacal compounds and urea, often derived from aqueous mixtures. The EU has initiated measures to address alleged dumping practices by exporters from countries like Belarus and Russia, which have been contested in legal proceedings. Arguments regarding the levying of retroactive duties have been heard, with records indicating shortcomings in compliance. The regulatory landscape aims to ensure that solutions are reasonably directed towards maintaining fair market practices, thereby reconciling interests among member states, including Algeria and Ukraine.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:28.766875",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 247,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1331,
+      "selected_avg_freq": 640.12
+    },
+    "related_words": [
+      "fertial",
+      "ammoniacal",
+      "uan",
+      "reconciled",
+      "urea",
+      "matched",
+      "algerian",
+      "aqueous",
+      "unfounded",
+      "rough",
+      "nitrate",
+      "ammonium",
+      "allegedly",
+      "nothing",
+      "contested",
+      "belarus",
+      "algeria",
+      "argument",
+      "begun",
+      "spa",
+      "warrant",
+      "heard",
+      "commenced",
+      "shortcomings",
+      "thereafter",
+      "russia",
+      "argued",
+      "rejected",
+      "mixtures",
+      "questionnaire"
+    ],
+    "prompt_length": 1706,
+    "category": "6811 chemistry"
+  }
+}

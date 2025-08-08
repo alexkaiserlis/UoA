@@ -1,0 +1,63 @@
+{
+  "concept_id": "5365",
+  "concept_data": {
+    "title": "European Organization for Nuclear Research",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "CERN",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Organization for Nuclear Research,\" commonly referred to as CERN, plays a pivotal role in advancing physics research within the EU framework. Established under the auspices of EURATOM, CERN facilitates exploratory discussions and collaborative sessions among member states, reinforcing mutual understanding of nuclear energy issues. Its recent developments include significant upgrades to particle accelerators, which necessitate ongoing consultations and memoranda to consolidate research strategies. CERN’s obligations extend to maintaining the appropriateness of its research arrangements, ensuring compliance with EU regulations. The organization’s status as an observer in various EU discussions emphasizes its importance in the broader context of energy research and atomic physics.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:05:09.271637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 92,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 92,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1605.3804347826087
+    },
+    "related_words": [
+      "cern",
+      "physics",
+      "sessions",
+      "era",
+      "attend",
+      "exploratory",
+      "particle",
+      "incur",
+      "observer",
+      "floor",
+      "upgrade",
+      "emphasised",
+      "contacts",
+      "consolidation",
+      "appropriateness",
+      "consolidate",
+      "drafted",
+      "reinforced",
+      "memorandum",
+      "reinforce",
+      "entitlement",
+      "nuclear",
+      "discussions",
+      "implications",
+      "understanding",
+      "issues",
+      "arrangement",
+      "follow",
+      "atomic",
+      "consultations"
+    ],
+    "prompt_length": 1752,
+    "category": "7611 European organisations"
+  }
+}

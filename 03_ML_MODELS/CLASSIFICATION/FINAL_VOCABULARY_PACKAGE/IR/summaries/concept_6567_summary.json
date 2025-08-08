@@ -1,0 +1,63 @@
+{
+  "concept_id": "6567",
+  "concept_data": {
+    "title": "chronic illness",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Chronic illness refers to long-lasting health conditions that significantly impact patients' quality of life and require ongoing healthcare management. In the EU regulatory context, chronic diseases demonstrate a high prevalence and incidence, necessitating proportionate responses from healthcare establishments and partners. The European Centre for Disease Prevention and Control (ECDC) emphasizes the importance of assessing chronic illness occurrences to inform prevention strategies. Regulatory frameworks often address the procurement and preservation of biological samples, such as blood and tissues, from donors, including living donors. These processes are critical for testing and developing technologies that assist in managing chronic conditions, ultimately aiming to diminish the burden on patients and healthcare systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:58.589624",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3302,
+      "selected_avg_freq": 1359.7666666666667
+    },
+    "related_words": [
+      "htlv",
+      "donated",
+      "donation",
+      "parents",
+      "ecdc",
+      "antibody",
+      "sexual",
+      "diminish",
+      "cumbersome",
+      "healthcare",
+      "donor",
+      "relied",
+      "cells",
+      "patients",
+      "tissues",
+      "chronic",
+      "donors",
+      "tissue",
+      "prevalence",
+      "partner",
+      "costly",
+      "reproductive",
+      "incidence",
+      "blood",
+      "procurement",
+      "preservation",
+      "originate",
+      "occurrence",
+      "proportionate",
+      "samples"
+    ],
+    "prompt_length": 1668,
+    "category": "2841 health"
+  }
+}

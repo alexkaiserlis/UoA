@@ -1,0 +1,63 @@
+{
+  "concept_id": "3409",
+  "concept_data": {
+    "title": "plant reproduction",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "plant propagation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"plant reproduction,\" redirected to the preferred term \"plant propagation,\" encompasses various agricultural activities within the EU regulatory framework. This includes the propagation of species such as Vaccinium and Paeonia, which are essential for biodiversity and agricultural sustainability. Legal provisions address the maintenance of genetic diversity, including nonmember species like the Sylvestris and Taxifolia. Regulatory measures ensure compliance with phenological standards, while promoting practices that mitigate risks associated with GMHP (Genetically Modified Herbaceous Plants). The EU's approach to plant propagation also considers the implications of grafted varieties and the pollination processes critical for successful tillage. Offenses related to unauthorized propagation are subject to scrutiny, reinforcing the importance of consultable guidelines for stakeholders engaged in this vital agricultural activity.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:13.169905",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 1748,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 11.853333333333333
+    },
+    "related_words": [
+      "coutervailing",
+      "sitchensis",
+      "charlotte",
+      "hăšrit",
+      "nonmember",
+      "gmhp",
+      "calculatory",
+      "sylvestris",
+      "taxifolia",
+      "paeonia",
+      "geranium",
+      "maintenances",
+      "carica",
+      "vaccinium",
+      "osbeck",
+      "limon",
+      "burm",
+      "aurantifolia",
+      "christm",
+      "ananassa",
+      "duch",
+      "redcurrant",
+      "blackberry",
+      "oblonga",
+      "grafted",
+      "propagatingh",
+      "phenological",
+      "porrum",
+      "stocky",
+      "austrica"
+    ],
+    "prompt_length": 1719,
+    "category": "5631 agricultural activity"
+  }
+}

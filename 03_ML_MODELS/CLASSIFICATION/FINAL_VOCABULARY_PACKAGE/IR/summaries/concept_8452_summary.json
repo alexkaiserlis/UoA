@@ -1,0 +1,63 @@
+{
+  "concept_id": "8452",
+  "concept_data": {
+    "title": "viaduct",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "bridge",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory contexts, the term \"viaduct\" redirects to \"bridge,\" which is crucial for transport policy. Bridges, such as those spanning the Danube and Mosel, facilitate transit journeys and are often subject to tolls and taxation, including VAT. These structures are vital for connecting territories, such as the Romanian and Bulgarian duchies, and managing importations across borders. The renovation and repair of bridges require precise appraisal and can involve joint acquisitions by member states. Additionally, the legal framework governing these infrastructures must ascertain compliance with regulations, ensuring that any charges or tolls are not negligible and do not adversely affect transit.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:40:07.459364",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 184,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2639,
+      "selected_avg_freq": 1042.34
+    },
+    "related_words": [
+      "calafat",
+      "vidin",
+      "toll",
+      "condominium",
+      "tolls",
+      "mosel",
+      "crosses",
+      "danube",
+      "journeys",
+      "acquisitions",
+      "journey",
+      "renovation",
+      "bridge",
+      "indefinite",
+      "river",
+      "taxable",
+      "repair",
+      "importations",
+      "middle",
+      "starts",
+      "accruing",
+      "appraisal",
+      "charging",
+      "site",
+      "duchy",
+      "firstly",
+      "romanian",
+      "territorial",
+      "bulgarian",
+      "vat"
+    ],
+    "prompt_length": 1669,
+    "category": "4806 transport policy"
+  }
+}

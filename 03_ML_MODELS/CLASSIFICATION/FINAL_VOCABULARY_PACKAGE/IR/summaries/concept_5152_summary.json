@@ -1,0 +1,63 @@
+{
+  "concept_id": "5152",
+  "concept_data": {
+    "title": "transport capacity",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transport capacity\" within EU legal and regulatory frameworks refers to the ability of transport systems, such as railways and airports, to accommodate passenger and freight journeys. This capacity is often assessed through various metrics, including scheduling efficiency and the allocation of slots at congested hubs like Heathrow (LHR) and Dublin (DUB). Inefficiencies in transport capacity can lead to compromised journeys, particularly during peak seasons when demand is high. Regulatory measures aim to unambiguously address these issues, ensuring that scarce resources are utilized effectively. Consequently, the EU encourages vigorous competition among entrants while minimizing pointless delays and enhancing overall service quality.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:36.945298",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 754,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 283,
+      "selected_avg_freq": 136.41333333333333
+    },
+    "related_words": [
+      "aer",
+      "lingus",
+      "assessors",
+      "heathrow",
+      "dub",
+      "lhr",
+      "congested",
+      "barges",
+      "ticketing",
+      "csts",
+      "nrvs",
+      "nrv",
+      "cst",
+      "contrasting",
+      "midnight",
+      "saturday",
+      "inefficiencies",
+      "ticket",
+      "push",
+      "unambiguously",
+      "irl",
+      "slot",
+      "slots",
+      "doubling",
+      "deny",
+      "scarce",
+      "night",
+      "scrapped",
+      "pick",
+      "scrapping"
+    ],
+    "prompt_length": 1640,
+    "category": "4811 organisation of transport"
+  }
+}

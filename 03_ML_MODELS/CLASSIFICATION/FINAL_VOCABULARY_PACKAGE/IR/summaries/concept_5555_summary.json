@@ -1,0 +1,63 @@
+{
+  "concept_id": "5555",
+  "concept_data": {
+    "title": "coordination of EMU policies",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"coordination of EMU policies\" refers to the multilateralization of economic governance within the European Monetary Union (EMU), aimed at ensuring macroeconomic stability and sustainability. This process involves the conferment of responsibilities among member states, where governors engage in concertation to align their fiscal policies. The EMU framework, including instruments like the European Financial Stability Facility (EFSF) and the European Financial Stabilisation Mechanism (EFSM), amplifies efforts to stabilize economies while removing inconsistencies and overlapping regulations. By fostering consensus, the EMU seeks to achieve irreversible economic integration, thereby safeguarding member states from prejudicial risks and enhancing the convertibility of currencies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:40:03.739150",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 339,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1076,
+      "selected_avg_freq": 509.85333333333335
+    },
+    "related_words": [
+      "multilateralization",
+      "conferment",
+      "combines",
+      "efsm",
+      "convertibility",
+      "restated",
+      "parallelism",
+      "amplify",
+      "efsf",
+      "assuring",
+      "merge",
+      "settlements",
+      "concertation",
+      "parities",
+      "overlapping",
+      "irrevocable",
+      "jeopardising",
+      "inconsistency",
+      "performances",
+      "irreversible",
+      "governors",
+      "prejudicial",
+      "macroeconomic",
+      "immunities",
+      "secrecy",
+      "learning",
+      "realization",
+      "privileges",
+      "statutes",
+      "consensus"
+    ],
+    "prompt_length": 1749,
+    "category": "2411 monetary economics"
+  }
+}

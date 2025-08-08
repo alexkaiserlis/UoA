@@ -1,0 +1,63 @@
+{
+  "concept_id": "5261",
+  "concept_data": {
+    "title": "graphite",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "carbon",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"graphite,\" categorized under chemistry, is a redirect to the preferred term \"carbon.\" In EU legal and regulatory contexts, graphite is significant due to its applications in various subsectors, including electrode production and composite materials. Regulatory frameworks often entail examinations of graphite's properties, such as its potential leakage of injurious substances like dioxide. The production of graphite-related products, including sheets, boards, and woven fabrics, is governed by specific registrations and dossiers to ensure compliance with biocidal regulations. The distinction between graphite and its derivatives, such as chopped or disaggregated forms, is crucial for accurate classification under NACE codes, avoiding duplication in regulatory processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:52:24.195816",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 931,
+      "selected_avg_freq": 414.96
+    },
+    "related_words": [
+      "voiles",
+      "slivers",
+      "electrode",
+      "webs",
+      "slag",
+      "chopped",
+      "wools",
+      "prodcom",
+      "rovings",
+      "graphite",
+      "mats",
+      "disaggregated",
+      "electrodes",
+      "rock",
+      "subsectors",
+      "strands",
+      "rodenticides",
+      "subsector",
+      "mattresses",
+      "rolls",
+      "leakage",
+      "digit",
+      "wool",
+      "registrations",
+      "woven",
+      "yarn",
+      "fabrics",
+      "elapse",
+      "biocidal",
+      "dossiers"
+    ],
+    "prompt_length": 1661,
+    "category": "6811 chemistry"
+  }
+}

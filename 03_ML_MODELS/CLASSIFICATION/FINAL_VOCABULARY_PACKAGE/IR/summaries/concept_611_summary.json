@@ -1,0 +1,63 @@
+{
+  "concept_id": "611",
+  "concept_data": {
+    "title": "twelve-mile zone",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "territorial waters",
+    "relation_type": "USE"
+  },
+  "summary": "The \"twelve-mile zone,\" often redirected to \"territorial waters,\" refers to a maritime area extending twelve nautical miles from a coastal baseline, where a state exercises sovereignty. In EU legal frameworks, this zone is crucial for regulating activities such as fishing, where species like the picarel and anglerfish are often subject to specific quotas. The management of seagrass beds, particularly Posidonia oceanica, is essential for maintaining biodiversity and deterring environmental degradation. Regulatory bodies, including directorates overseeing marine resources, must ensure compliance with international law, foreseeing impacts on ecosystems like the depths inhabited by gobies and other marine life. The intercalibration of policies across member states is vital for effective governance in these waters.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:53.342714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 783,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 195,
+      "selected_avg_freq": 67.9
+    },
+    "related_words": [
+      "malabo",
+      "norspa",
+      "rmcb",
+      "intialled",
+      "medspa",
+      "volantina",
+      "intercalibration",
+      "ferrer",
+      "pseudaphia",
+      "ferreri",
+      "lowbody",
+      "picarel",
+      "spicara",
+      "smaris",
+      "gangui",
+      "posidonia",
+      "oceanica",
+      "phanerogams",
+      "foreseeing",
+      "shallow",
+      "deterring",
+      "gymnammodytes",
+      "cicerelus",
+      "semisquamatus",
+      "crystalogobius",
+      "linearis",
+      "eums",
+      "touching",
+      "tagus",
+      "gsa"
+    ],
+    "prompt_length": 1692,
+    "category": "1231 international law"
+  }
+}

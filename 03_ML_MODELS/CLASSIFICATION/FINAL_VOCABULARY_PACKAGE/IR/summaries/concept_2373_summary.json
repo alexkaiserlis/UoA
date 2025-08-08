@@ -1,0 +1,63 @@
+{
+  "concept_id": "2373",
+  "concept_data": {
+    "title": "photochemistry",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Photochemistry, a pivotal concept within the natural and applied sciences category, encompasses the study of chemical reactions initiated by light, particularly in the ultraviolet and infrared wavelengths. In EU regulatory frameworks, photochemistry is essential for assessing the safety and efficacy of photochemical devices, such as lasers and spectrophotometers, including those developed by firms like Perkin Elmer and Quantel. The kinetics of photochemical reactions can be influenced by various factors, including dye molecules and the pulsed output of tunable lasers. Regulatory bodies may reference photochemical principles in directives related to environmental safety, product standards, and scientific research, ensuring compliance with technical and scientific norms across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:36:24.036581",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 199,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2010,
+      "selected_avg_freq": 579.9466666666667
+    },
+    "related_words": [
+      "frre",
+      "lasers",
+      "apollo",
+      "tunable",
+      "fairlight",
+      "technische",
+      "wetenschappelijke",
+      "apparaten",
+      "luykenstraat",
+      "nrg",
+      "quanta",
+      "pdl",
+      "yag",
+      "dcr",
+      "quantel",
+      "orsay",
+      "impulses",
+      "ulis",
+      "warwickshire",
+      "photochemistry",
+      "wavelength",
+      "somers",
+      "tdl",
+      "pulsed",
+      "pye",
+      "unicam",
+      "rugby",
+      "serie",
+      "kinetics",
+      "spectroscopy"
+    ],
+    "prompt_length": 1637,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1332",
+  "concept_data": {
+    "title": "typography",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "printing",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"typography\" redirects to the preferred term \"printing,\" which encompasses various practices related to the reproduction of text and images. In the context of EU legal and regulatory documents, printing is essential for disseminating information across regions such as Overijssel, Flevoland, and Brabant. The NACE classification system categorizes printing enterprises, which play a crucial role in mobilising contributions from workers, particularly during crises that lead to redundancies. The EU's budgetary framework allows for structural adjustments to support the printing sector, ensuring compliance with interinstitutional standards. This discipline aids in the globalisation of media, facilitating the reproduction of essential documents and patterns that assist in the reintegration of labour in a sound manner.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:44.588000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 101,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 101,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1578.8019801980197
+    },
+    "related_words": [
+      "overijssel",
+      "flevoland",
+      "brabant",
+      "utrecht",
+      "noord",
+      "zuid",
+      "holland",
+      "egf",
+      "redundancies",
+      "printing",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "reproduction",
+      "nuts",
+      "mobilisation",
+      "media",
+      "redundant",
+      "proposes",
+      "division",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "nine",
+      "labour",
+      "contributions",
+      "workers"
+    ],
+    "prompt_length": 1704,
+    "category": "3226 communications"
+  }
+}

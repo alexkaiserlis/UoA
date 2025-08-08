@@ -1,0 +1,63 @@
+{
+  "concept_id": "750",
+  "concept_data": {
+    "title": "hydraulic energy",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hydraulic energy, categorized under soft energy (6626), relates to the generation of power through water movement, which is progressively adopted in EU directives aimed at reducing reliance on fossil fuels. The internal market for hydraulic energy faces significant barriers, including technical standards and regulatory frameworks that must be harmonized. Manufacturers of hydraulic systems are urged to comply with laws that are supplemented by proposals amending existing directives. Since the publication of relevant regulations in September, the urgency to operate within these frameworks has increased. The cooperation among member states is crucial for the effective approximation of standards, ensuring that hydraulic energy contributes to a sustainable energy market while addressing social and environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:51:29.940566",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 64,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 64,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1938.609375
+    },
+    "related_words": [
+      "hydraulically",
+      "electro",
+      "lifts",
+      "electrically",
+      "hydraulic",
+      "mutatis",
+      "mutandis",
+      "threaten",
+      "expiring",
+      "face",
+      "operated",
+      "distort",
+      "progressively",
+      "urgency",
+      "barriers",
+      "relates",
+      "manufacturers",
+      "approximation",
+      "oil",
+      "supplemented",
+      "intra",
+      "aimed",
+      "laws",
+      "matter",
+      "standard",
+      "published",
+      "significant",
+      "internal",
+      "over",
+      "extended"
+    ],
+    "prompt_length": 1649,
+    "category": "6626 soft energy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4668",
+  "concept_data": {
+    "title": "public sale",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "auction sale",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"public sale,\" often redirected to \"auction sale,\" pertains to the organized process of auctioning goods or assets, particularly within EU regulatory frameworks. Auctioneers play a crucial role in this process, facilitating transactions among bidders while ensuring compliance with legal standards. This method generates transparency, as it discloses the terms of sale on webpages, allowing for accessible participation. In sectors like bioethanol and vinous products, auctions can involve intangible assets, necessitating diligence from participants to avoid insider trading. The auctioning process may also include provisions for cancellations and admissions, ensuring a fair environment for all parties involved, including guarantors and assignees.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:16:22.203193",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 951,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 218,
+      "selected_avg_freq": 98.56666666666666
+    },
+    "related_words": [
+      "sekab",
+      "altia",
+      "aution",
+      "webpages",
+      "assignee",
+      "taker",
+      "cede",
+      "tradable",
+      "auctioneer",
+      "auctioneers",
+      "eex",
+      "notary",
+      "ecocarburantes",
+      "espaăąoles",
+      "commisssion",
+      "cession",
+      "admissions",
+      "cancellations",
+      "organises",
+      "bidders",
+      "discontinues",
+      "webpage",
+      "distillations",
+      "auctioned",
+      "calendars",
+      "disclosing",
+      "procuring",
+      "auctioning",
+      "understandable",
+      "insider"
+    ],
+    "prompt_length": 1739,
+    "category": "2031 marketing"
+  }
+}

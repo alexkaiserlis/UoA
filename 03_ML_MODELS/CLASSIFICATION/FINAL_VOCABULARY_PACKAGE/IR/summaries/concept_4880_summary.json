@@ -1,0 +1,63 @@
+{
+  "concept_id": "4880",
+  "concept_data": {
+    "title": "non-durables",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "non-durable goods",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"non-durable goods,\" a term redirected from \"non-durables,\" refers to consumables that are typically used up quickly, such as food, chemicals, and refillable products. Policity surrounding these goods often addresses issues like misdeclaration and protectionist measures that can affect trade. The substitutability of non-durables is crucial in ensuring consumer choice, as seen in markets from Dongguan to Mönchengladbach. Regulatory frameworks may also involve solicited correspondence regarding safety standards, particularly for items like flamagas and refillable containers. This concept is essential for understanding consumption patterns and the environmental impact of goods that resemble disposable items, thus contributing to sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:28.399081",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1234,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 122,
+      "selected_avg_freq": 45.7
+    },
+    "related_words": [
+      "policity",
+      "sanshui",
+      "huafa",
+      "chemcials",
+      "solicited",
+      "participent",
+      "guang",
+      "ignitions",
+      "tian",
+      "bao",
+      "gao",
+      "yao",
+      "politop",
+      "yokohama",
+      "samji",
+      "inchon",
+      "samutsakorn",
+      "misdeclaration",
+      "correspondance",
+      "gladstrong",
+      "guan",
+      "reflintable",
+      "clichy",
+      "flamagas",
+      "seiki",
+      "mรถnchengladbach",
+      "trebled",
+      "refilled",
+      "merry",
+      "harwood"
+    ],
+    "prompt_length": 1696,
+    "category": "2026 consumption"
+  }
+}

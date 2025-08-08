@@ -1,0 +1,63 @@
+{
+  "concept_id": "4317",
+  "concept_data": {
+    "title": "beet sugar",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Beet sugar, categorized under beverages and sugar, is a merchantable product derived from sugar beet, primarily composed of sucrose. In the EU regulatory framework, it is subject to specific standards concerning packing and labeling, ensuring that products are stored in warehouses lined with polythene to prevent contamination. The legal obligations for sellers include the stabilization of sugar quality, with particular attention to radionuclides, especially in regions affected by historical events like Chernobyl. Buyers must be informed about the inner workings of the supply chain, including the reimportation of sugars and the impact of radiological factors. The concept underscores the importance of maintaining a balance in the market, avoiding disequilibrium, and ensuring that all parties involved, from refiners to merchants, comply with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:48.711796",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 637,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 543,
+      "selected_avg_freq": 277.24666666666667
+    },
+    "related_words": [
+      "themselvews",
+      "lined",
+      "polythene",
+      "sorbose",
+      "hundredth",
+      "lining",
+      "bag",
+      "jute",
+      "inner",
+      "radionuclides",
+      "superseding",
+      "disequilibrium",
+      "shifted",
+      "reimportation",
+      "digit",
+      "merchantable",
+      "intervening",
+      "refiners",
+      "chernobyl",
+      "radioactivity",
+      "burma",
+      "strike",
+      "grams",
+      "radiological",
+      "warehouse",
+      "syrups",
+      "myanmar",
+      "degrees",
+      "seller",
+      "thickness"
+    ],
+    "prompt_length": 1684,
+    "category": "6021 beverages and sugar"
+  }
+}

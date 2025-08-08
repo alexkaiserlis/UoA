@@ -1,0 +1,63 @@
+{
+  "concept_id": "2533",
+  "concept_data": {
+    "title": "pollution of waterways",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pollution of waterways\" encompasses the deterioration of aquatic environments, particularly affecting rivers, lakes, and their tributaries. In the EU regulatory framework, this issue is addressed through various conventions and directives aimed at preserving watercourses and preventing discharges of harmful substances, such as cadmium and mercury. The EU coordinates liaisons among member states to tackle transboundary pollution, ensuring that polluters are held accountable for their discharges. Legal instruments promote rational management of drainage basins, transforming approaches to water quality. Notably, agreements like those negotiated in Berne and Wrocław emphasize unanimous participation in rectifying pollution and safeguarding aquatic ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:44:25.033082",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 319,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1221,
+      "selected_avg_freq": 579.1866666666666
+    },
+    "related_words": [
+      "tributaries",
+      "riparian",
+      "liaisons",
+      "wroclaw",
+      "magdeburg",
+      "chlor",
+      "electrolysis",
+      "elbe",
+      "radically",
+      "oder",
+      "alkali",
+      "watercourses",
+      "transforming",
+      "spheres",
+      "polluter",
+      "berne",
+      "preferably",
+      "discharged",
+      "drainage",
+      "overriding",
+      "discharges",
+      "attaches",
+      "omissions",
+      "unece",
+      "lakes",
+      "rectifying",
+      "transitory",
+      "cadmium",
+      "basin",
+      "transboundary"
+    ],
+    "prompt_length": 1711,
+    "category": "5216 deterioration of the environment"
+  }
+}

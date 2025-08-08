@@ -1,0 +1,63 @@
+{
+  "concept_id": "3072",
+  "concept_data": {
+    "title": "redistribution of income",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"redistribution of income\" is a critical concept within EU legal and regulatory frameworks, particularly in the context of national accounts. It involves the determination of how emoluments and resources are allocated among members of the community, influenced by regulations established by the Council and the Commission. This process is essential for ensuring economic equity among the European Economic Communities (EEC) and is often addressed in official journals and treaties, including those related to the European Atomic Energy Community (EURATOM) and the European Coal and Steel Community (ECSC). Amending regulations, such as those from February and July, hold significant implications for income distribution, impacting energy sectors and other vital areas.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:13:43.068751",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 33,
+      "requested_words": 150,
+      "min_frequency_found": 58,
+      "max_frequency_found": 4108,
+      "selected_words": 33,
+      "selected_min_freq": 58,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2134.030303030303
+    },
+    "related_words": [
+      "emoluments",
+      "eaec",
+      "commissions",
+      "hold",
+      "ceased",
+      "appointed",
+      "atomic",
+      "ecsc",
+      "former",
+      "office",
+      "energy",
+      "euratom",
+      "determining",
+      "authority",
+      "determine",
+      "members",
+      "single",
+      "high",
+      "february",
+      "amending",
+      "july",
+      "eec",
+      "economic",
+      "communities",
+      "journal",
+      "official",
+      "regulation",
+      "community",
+      "establishing",
+      "commission"
+    ],
+    "prompt_length": 1496,
+    "category": "1626 national accounts"
+  }
+}

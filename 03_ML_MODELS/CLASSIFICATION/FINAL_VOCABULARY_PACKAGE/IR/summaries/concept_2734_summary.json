@@ -1,0 +1,63 @@
+{
+  "concept_id": "2734",
+  "concept_data": {
+    "title": "farm product",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "agricultural product",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farm product,\" classified under agricultural activity, is a redirect to the preferred term \"agricultural product\" within EU legal and regulatory frameworks. This term encompasses a variety of items, including unexpired goods and those with particular characteristics, such as ovalabumin-rich products or unique varieties like calçot and afuega. The regulatory landscape often involves the establishment of standards for these products, ensuring their validity in exchanges and markets. Additionally, the EU's policies may address the dismantlements of barriers affecting trade, fostering technological advancements and the disaggregation of unidentifiable products. Opinions from various organizations highlight the benefits of maintaining a diverse agricultural currency, which includes rare items like cardoons and pitu. The oscillators of market demand can lead to the reprogramming of agricultural strategies, ultimately impacting the availability and recognition of these products across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:02.162388",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 136,
+    "vocabulary_stats": {
+      "total_related_words": 4730,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.246666666666667
+    },
+    "related_words": [
+      "fith",
+      "validy",
+      "differntial",
+      "curreny",
+      "ovalabumin",
+      "exchages",
+      "tsgs",
+      "tunisa",
+      "loco",
+      "reprogramming",
+      "benenfits",
+      "opinons",
+      "czwórniak",
+      "dwójniak",
+      "półtorak",
+      "trójniak",
+      "particuar",
+      "caried",
+      "oscillators",
+      "unidentifiable",
+      "concernint",
+      "culd",
+      "techbological",
+      "dismantlements",
+      "unexpired",
+      "upsetting",
+      "disaggregate",
+      "untranslatable",
+      "kirsch",
+      "organizazion"
+    ],
+    "prompt_length": 1730,
+    "category": "5631 agricultural activity"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2282",
+  "concept_data": {
+    "title": "ship's flag",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"ship's flag\" pertains to the legal registration of vessels under a specific national jurisdiction, which is crucial for maritime and inland waterway transport within the EU. The flag a vessel flies establishes its nationality, influencing regulatory compliance, safety management, and enforcement of community laws. In relationg to fisheries, for instance, the flag state is responsible for managing bycatches and ensuring adherence to scientific quotas, such as multispecies management strategies (MSY). Prosecutions may arise from violations, necessitating ratifications of international agreements. The EU's framework promotes partnerships among member states, enhancing the viability of maritime operations while addressing issues like sightings of illegal fishing vessels in regions like the Skagerrak. Thus, the ship's flag serves as a vital element in maritime governance, establishing accountability and facilitating cooperation among nations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:06.642732",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 1641,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 33,
+      "selected_avg_freq": 18.126666666666665
+    },
+    "related_words": [
+      "sightings",
+      "flay",
+      "deerned",
+      "seafo",
+      "relationg",
+      "bcd",
+      "færoese",
+      "managament",
+      "commuunity",
+      "viiiabde",
+      "estalishing",
+      "partership",
+      "seiner",
+      "trammel",
+      "tangle",
+      "manned",
+      "circ",
+      "finnsailor",
+      "bulkhead",
+      "blanked",
+      "quantitiative",
+      "hail",
+      "desiring",
+      "ratifications",
+      "multispecies",
+      "excl",
+      "marta",
+      "prosecutions",
+      "gemany",
+      "bycatches"
+    ],
+    "prompt_length": 1661,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

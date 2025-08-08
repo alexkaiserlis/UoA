@@ -1,0 +1,63 @@
+{
+  "concept_id": "3830",
+  "concept_data": {
+    "title": "Tristan da Cunha",
+    "category_code": "7241",
+    "category_name": "overseas countries and territories",
+    "category_full": "7241 overseas countries and territories",
+    "is_redirect": true,
+    "preferred_term": "Saint Helena, Ascension and Tristan da Cunha",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Tristan da Cunha\" refers to a group of islands categorized under the EU's framework for overseas countries and territories, specifically as part of \"Saint Helena, Ascension and Tristan da Cunha.\" This designation indicates their status as outermost regions, which are subject to specific EU regulations. The islands are known for their unique marine biodiversity, including lobsters, echinoderms, and various molluscs. Regulatory measures ensure the protection of these species and the sustainability of fisheries, with controls on exports and guarantees for consumer welfare. Updates to legal frameworks may include the deletion of deficiencies in existing regulations, ensuring compliance with EU standards for food safety and environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:48:59.062590",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 156,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 3636,
+      "selected_avg_freq": 1701.9733333333334
+    },
+    "related_words": [
+      "tristan",
+      "cunha",
+      "ascension",
+      "helena",
+      "lobsters",
+      "lobster",
+      "mayotte",
+      "echinoderms",
+      "tunicates",
+      "gastropods",
+      "bivalve",
+      "deletion",
+      "saint",
+      "sanitary",
+      "outermost",
+      "molluscs",
+      "deficiencies",
+      "island",
+      "equivalence",
+      "welfare",
+      "marine",
+      "frozen",
+      "overseas",
+      "cease",
+      "performed",
+      "updating",
+      "feed",
+      "indicates",
+      "fishery",
+      "fresh"
+    ],
+    "prompt_length": 1762,
+    "category": "7241 overseas countries and territories"
+  }
+}

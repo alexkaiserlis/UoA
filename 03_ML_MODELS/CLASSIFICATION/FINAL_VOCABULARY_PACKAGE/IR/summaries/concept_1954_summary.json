@@ -1,0 +1,63 @@
+{
+  "concept_id": "1954",
+  "concept_data": {
+    "title": "mode of transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"mode of transport\" pertains to the classification of various means of carriage utilized for transporting passengers and freight within the EU. This classification is essential for statistical recording and analysis, as it introduces consistency in the reporting of transport data across member nations. Modes include road, rail, maritime, and inland waterways, each with unique regulatory frameworks. The European Commission disseminates recommendations concerning modes to ensure comparable statistics and facilitate the import and export of goods. Regular revisions and updates to the classification system are advisable to reflect evolving transport dynamics, thereby enhancing the accuracy of returns and declarations in EU legal and regulatory documents.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:57:10.026072",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 130,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 130,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1873.8615384615384
+    },
+    "related_words": [
+      "concerningmode",
+      "nst",
+      "disseminating",
+      "unece",
+      "waterways",
+      "rev",
+      "classify",
+      "nace",
+      "mode",
+      "modes",
+      "specimen",
+      "returns",
+      "passengers",
+      "inland",
+      "freight",
+      "rail",
+      "unique",
+      "carriage",
+      "coverage",
+      "transported",
+      "accepting",
+      "representation",
+      "collecting",
+      "maritime",
+      "recording",
+      "introduces",
+      "road",
+      "sea",
+      "return",
+      "advisable"
+    ],
+    "prompt_length": 1684,
+    "category": "4811 organisation of transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1704",
+  "concept_data": {
+    "title": "lubricants",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"lubricants\" encompass a variety of materials designed to reduce friction and wear in mechanical systems, such as bearings and apparatus. The regulation of lubricants involves careful examination of their composition and performance, particularly concerning their tendency to foaming and cavitation. Manufacturers, including those in Hemel Hempstead and Hertfordshire, must ensure that their products are suited for specific applications and comply with testing standards. The duty to provide affirmative labeling and documentation is crucial for importation processes. Research in laboratories often invokes specialized models to assess the performance of lubricants, ensuring they meet EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:04.179414",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1584.9669421487604
+    },
+    "related_words": [
+      "redlake",
+      "hycam",
+      "lubrication",
+      "appplies",
+      "hyspeed",
+      "jhpi",
+      "newhouse",
+      "bovingdon",
+      "hemel",
+      "hempstead",
+      "cavitation",
+      "hertfordshire",
+      "foaming",
+      "shutter",
+      "lubricants",
+      "aperture",
+      "friction",
+      "camera",
+      "bearings",
+      "filling",
+      "tendency",
+      "ordered",
+      "specially",
+      "affirmative",
+      "invoke",
+      "educational",
+      "apparatus",
+      "principally",
+      "laboratories",
+      "suited"
+    ],
+    "prompt_length": 1649,
+    "category": "6811 chemistry"
+  }
+}

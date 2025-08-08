@@ -1,0 +1,63 @@
+{
+  "concept_id": "4176",
+  "concept_data": {
+    "title": "seismology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Seismology, a crucial field within natural and applied sciences, encompasses the study of seismic signals and their geological implications. In the context of EU legal and regulatory frameworks, seismology is essential for geotechnical assessments, particularly in marine exploration and mining activities. The use of sophisticated apparatus such as seismographs and geophones enables the acquisition of data through telemetry systems, enhancing the understanding of underground structures. Regulatory bodies may invoke seismological data to confer safety standards in dredging and drilling operations, ensuring compliance with environmental directives. Educational initiatives often incorporate teaching on kinemetrics and stratigraphic analysis, fostering a comprehensive understanding of seismic phenomena.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:37:19.488950",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 167,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3304,
+      "selected_avg_freq": 1096.0533333333333
+    },
+    "related_words": [
+      "seismograph",
+      "geotechnical",
+      "kinemetrics",
+      "dataseis",
+      "stratigraphic",
+      "nonscientific",
+      "gus",
+      "geophones",
+      "telemetry",
+      "epc",
+      "seismic",
+      "dredging",
+      "picked",
+      "recorder",
+      "geological",
+      "bison",
+      "tape",
+      "bus",
+      "graphic",
+      "underground",
+      "teaching",
+      "accessories",
+      "signals",
+      "enhancement",
+      "portable",
+      "signal",
+      "magnetic",
+      "petrol",
+      "shelf",
+      "exploration"
+    ],
+    "prompt_length": 1687,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4208",
+  "concept_data": {
+    "title": "own consumption",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"own consumption\" within EU legal and regulatory frameworks pertains to the use of agricultural products, particularly in dairies, for personal or organizational purposes. This provision is detailed in various regulations, including those amending earlier EEC measures. It is apparent that the management of such products, like skimmed milk and buttermilk, is crucial for ensuring compliance with market rules. The granting of aid for own consumption is often supplemented by specific subparagraphs that take into account the economic impact on certain communities. These provisions, last amended in July and November, provide a structured approach to the use of products within the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:24.005197",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2313.508474576271
+    },
+    "related_words": [
+      "buttermilk",
+      "dairies",
+      "skimmed",
+      "feeding",
+      "came",
+      "apparent",
+      "feed",
+      "milk",
+      "produce",
+      "version",
+      "regarded",
+      "supplemented",
+      "animals",
+      "own",
+      "become",
+      "organization",
+      "granting",
+      "aid",
+      "detailed",
+      "purposes",
+      "special",
+      "present",
+      "subparagraph",
+      "management",
+      "provision",
+      "case",
+      "force",
+      "products",
+      "since",
+      "last"
+    ],
+    "prompt_length": 1614,
+    "category": "2026 consumption"
+  }
+}

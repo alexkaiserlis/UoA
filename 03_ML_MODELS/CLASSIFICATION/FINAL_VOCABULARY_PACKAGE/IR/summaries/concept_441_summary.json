@@ -1,0 +1,63 @@
+{
+  "concept_id": "441",
+  "concept_data": {
+    "title": "information request",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "dissemination of information",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"information request,\" categorized under documentation, is redirected to the preferred term \"dissemination of information.\" In the EU legal context, such requests are vital for ensuring transparency and accountability, particularly in adjudicatory processes. Requestors, including statisticians and mediators, may seek data from repositories or archives to support their claims or analyses. This dissemination alleviates manipulative behaviours and promotes standardizing practices across member states. Moreover, the minimisation of suspicious activities is crucial, as it enhances trust in the information exchanged. The process may involve novation, where obligations are restated or novated, ensuring that all parties, including licensees and offerors, are adequately informed.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:54.419104",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1868,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 29.22
+    },
+    "related_words": [
+      "manipulative",
+      "behaviours",
+      "statisticians",
+      "hostile",
+      "acsb",
+      "novated",
+      "solo",
+      "gaaps",
+      "restating",
+      "esspros",
+      "forma",
+      "safest",
+      "requestor",
+      "someone",
+      "restatement",
+      "exchangeable",
+      "vitally",
+      "restate",
+      "offeror",
+      "asbj",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "novation",
+      "hedge",
+      "unreserved",
+      "setters",
+      "narrative",
+      "psi",
+      "minimisation"
+    ],
+    "prompt_length": 1741,
+    "category": "3221 documentation"
+  }
+}

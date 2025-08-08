@@ -1,0 +1,63 @@
+{
+  "concept_id": "3496",
+  "concept_data": {
+    "title": "multinational force",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"multinational force\" pertains to international security operations involving collective military or civilian missions, often under the auspices of organizations like NATO or the EU. Such forces are tasked with peacekeeping and stabilization in regions like Bosnia and Herzegovina (BiH), the Democratic Republic of the Congo (DRC), and Macedonia (FYROM). The European Union Military Committee (EUMC) plays a crucial role in the command and direction of these operations, with headquarters often located in cities such as Naples and Göteborg. Discussions at forums like the Berlin and Nice conferences guide the modalities of these missions, ensuring effective collaboration among contributing nations. The appointment of a chief commander is essential for overseeing operations, which may include police missions (EUPOL) and military exercises (EUFOR) aimed at enhancing regional security and supporting democratic elections.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:18:40.625075",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 186,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2385,
+      "selected_avg_freq": 838.1933333333334
+    },
+    "related_words": [
+      "ciro",
+      "cocozza",
+      "monuc",
+      "tasking",
+      "spt",
+      "naples",
+      "proxima",
+      "bih",
+      "eumc",
+      "göteborg",
+      "eupm",
+      "drc",
+      "fyrom",
+      "eufor",
+      "election",
+      "manning",
+      "nato",
+      "eupol",
+      "chief",
+      "commander",
+      "discussing",
+      "command",
+      "guiding",
+      "psc",
+      "contributors",
+      "conferences",
+      "headquarters",
+      "civilian",
+      "nice",
+      "collectively"
+    ],
+    "prompt_length": 1640,
+    "category": "0816 international security"
+  }
+}

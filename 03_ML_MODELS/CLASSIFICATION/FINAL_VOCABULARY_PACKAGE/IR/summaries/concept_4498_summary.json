@@ -1,0 +1,63 @@
+{
+  "concept_id": "4498",
+  "concept_data": {
+    "title": "processing of foodstuffs",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": true,
+    "preferred_term": "food processing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"processing of foodstuffs,\" redirected to \"food processing,\" encompasses various legal and regulatory frameworks within the EU, particularly concerning food technology. This includes stringent requirements for valorization of products like venison and biomilk, ensuring compliance with safety standards. The Council's regulations mandate the proper handling of uncollected items and penalities for non-compliance. Additionally, the processing of products such as eurocheese and carmolact must adhere to specific guidelines to maintain quality (calitatea) and safety. The integration of innovative techniques, including isomerized ingredients, reflects the EU's commitment to fostering a benevolent food market while addressing transitional challenges in food technology.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:46.752706",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 3012,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 5.866666666666666
+    },
+    "related_words": [
+      "comun",
+      "cuncil",
+      "bianca",
+      "venison",
+      "erection",
+      "valorization",
+      "reqired",
+      "concerting",
+      "fishering",
+      "cadenera",
+      "castellana",
+      "macetera",
+      "isomerized",
+      "transitoinal",
+      "uncollected",
+      "stingent",
+      "benevolent",
+      "proviced",
+      "penalities",
+      "deroagtion",
+      "mandrins",
+      "lemmons",
+      "pdpa",
+      "calitatea",
+      "biomilk",
+      "romfulda",
+      "carmo",
+      "lact",
+      "carmolact",
+      "primulact"
+    ],
+    "prompt_length": 1695,
+    "category": "6036 food technology"
+  }
+}

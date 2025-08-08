@@ -1,0 +1,63 @@
+{
+  "concept_id": "4341",
+  "concept_data": {
+    "title": "fast reactor",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "breeder reactor",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"fast reactor,\" a redirect to \"breeder reactor,\" refers to a type of nuclear reactor that utilizes fast neutrons to sustain the fission process, enabling the conversion of fertile material into fissile fuel. In the context of EU legal and regulatory frameworks, particularly under the Euratom Treaty, the establishment of fast reactors is governed by statutes that promote energy advances and joint undertakings. The European Commission and Council have approved proposals for demonstration projects, aiming to adapt existing technology for desirable energy benefits. These reactors are pivotal in the field of atomic energy, enabling the EU to achieve its energy objectives while ensuring safety and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:42.121144",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 48,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 48,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1590.2708333333333
+    },
+    "related_words": [
+      "nersa",
+      "phénix",
+      "schnell",
+      "brüter",
+      "kernkraftwerksgesellschaft",
+      "sbk",
+      "promoter",
+      "super",
+      "mbh",
+      "statutes",
+      "demonstration",
+      "station",
+      "advances",
+      "object",
+      "atomic",
+      "power",
+      "latest",
+      "undertaking",
+      "participation",
+      "desirable",
+      "adapt",
+      "adapted",
+      "energy",
+      "euratom",
+      "achieved",
+      "benefit",
+      "joint",
+      "enable",
+      "field",
+      "requested"
+    ],
+    "prompt_length": 1705,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

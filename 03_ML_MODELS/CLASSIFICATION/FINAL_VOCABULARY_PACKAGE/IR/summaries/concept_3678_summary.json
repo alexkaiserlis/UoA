@@ -1,0 +1,63 @@
+{
+  "concept_id": "3678",
+  "concept_data": {
+    "title": "consumer organisation",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "consumer movement",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"consumer organisation,\" redirected to \"consumer movement,\" embodies a collective effort aimed at defending consumer rights and interests within the EU. This innovatory grouping actively tackles issues such as product safety and fair pricing, providing a concerted impetus for policy redefinition. By optimising representativity, these organisations ensure that diverse consumer voices are heard, including gender considerations. They are accountable for informing and consulting on regulatory frameworks, thereby enhancing the representativeness of consumer interests. The movement's achievements are globally recognised, and it plays a crucial role in harmonising standards across member states, fostering a modus vivendi among dealers and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:34:41.298142",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 482,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 769,
+      "selected_avg_freq": 406.44
+    },
+    "related_words": [
+      "shaken",
+      "tackled",
+      "devising",
+      "innovatory",
+      "redefinition",
+      "modus",
+      "vivendi",
+      "defend",
+      "globally",
+      "impetus",
+      "representativity",
+      "consonant",
+      "alternates",
+      "everything",
+      "achievements",
+      "renamed",
+      "accountable",
+      "chaired",
+      "representativeness",
+      "gender",
+      "optimise",
+      "grouping",
+      "alternate",
+      "associate",
+      "dealers",
+      "harmonising",
+      "hear",
+      "driving",
+      "bse",
+      "nomination"
+    ],
+    "prompt_length": 1736,
+    "category": "2026 consumption"
+  }
+}

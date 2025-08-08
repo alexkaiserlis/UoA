@@ -1,0 +1,63 @@
+{
+  "concept_id": "6347",
+  "concept_data": {
+    "title": "European Strategy on Employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "European Employment Strategy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Employment Strategy,\" a key EU initiative, aims to enhance employment opportunities and promote decent work across member states. This strategy is proactive and responsive, focusing on engaging various stakeholders, including leaders in microfinance and entrepreneurship. It emphasizes lifelong learning and adaptability, ensuring that the workforce is skilled and equipped to meet market demands. By leveraging platforms for outreach and mentoring, the strategy seeks to capitalise on lessons learned from past initiatives, such as the Jeremie and EIF programs, which provide microcredits and microfinancing solutions. The taskforce behind this strategy aims to address unemployment and indebtedness, fostering a smart, adaptable economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:25:46.299277",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 560,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 403,
+      "selected_avg_freq": 176.75333333333333
+    },
+    "related_words": [
+      "microcredit",
+      "jasmine",
+      "mentoring",
+      "microcredits",
+      "microfinancing",
+      "jeremie",
+      "forceful",
+      "microfinance",
+      "literacy",
+      "taskforce",
+      "pittsburgh",
+      "eif",
+      "cip",
+      "proactive",
+      "responsive",
+      "capitalise",
+      "leaders",
+      "quasi",
+      "outreach",
+      "indebtedness",
+      "window",
+      "adaptable",
+      "responds",
+      "dispersed",
+      "leverage",
+      "decent",
+      "lessons",
+      "chance",
+      "gaining",
+      "want"
+    ],
+    "prompt_length": 1750,
+    "category": "4406 employment"
+  }
+}

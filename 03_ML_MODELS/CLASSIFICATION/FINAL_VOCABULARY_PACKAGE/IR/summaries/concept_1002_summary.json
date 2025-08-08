@@ -1,0 +1,63 @@
+{
+  "concept_id": "1002",
+  "concept_data": {
+    "title": "long-term investment fund",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": true,
+    "preferred_term": "long-term financing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"long-term investment fund,\" redirected to \"long-term financing,\" is crucial in EU regulatory frameworks aimed at fostering sustainable economic growth. These funds are designed to provide stable financing for projects that require significant capital over extended periods, reflecting the need for cooperative approaches to investment. The European Central Bank (ECB) has conducted evaluations and issued guidelines to ensure that these funds operate within a framework that eliminates risks associated with pollutants and promotes transboundary cooperation. By utilizing targeted long-term refinancing operations (TLTROs) and other monetary tools, the Eurosystem aims to support banks in obtaining funding while maintaining an unchanged spread. This approach culminates in a robust financial environment that supports life-enhancing projects across frontiers.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:10.182630",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 144,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 144,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1637.3333333333333
+    },
+    "related_words": [
+      "tltros",
+      "mros",
+      "tltro",
+      "emep",
+      "premia",
+      "culminated",
+      "announcement",
+      "refinancing",
+      "emitted",
+      "eurosystem",
+      "transboundary",
+      "guideline",
+      "pollutants",
+      "cooperative",
+      "formula",
+      "ecb",
+      "corrections",
+      "executive",
+      "targeted",
+      "possibly",
+      "sharing",
+      "reflects",
+      "frontiers",
+      "unchanged",
+      "prevailing",
+      "plus",
+      "statute",
+      "banks",
+      "pollution",
+      "tender"
+    ],
+    "prompt_length": 1718,
+    "category": "2426 financing and investment"
+  }
+}

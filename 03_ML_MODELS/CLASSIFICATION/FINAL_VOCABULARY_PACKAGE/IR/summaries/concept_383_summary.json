@@ -1,0 +1,63 @@
+{
+  "concept_id": "383",
+  "concept_data": {
+    "title": "democratization",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "democratisation",
+    "relation_type": "USE"
+  },
+  "summary": "Democratisation, as a concept within EU legal and regulatory frameworks, refers to the processes aimed at enhancing democratic governance and public service accountability. This involves the reengagement of citizens in governance, ensuring that factions within society can participate democratically. The EU supports democratisation initiatives in various regions, including the Togolese and Liberian contexts, where alarming regressive trends have been noted. Through mechanisms like the European Development Fund (EDF) and trilateral agreements, the EU seeks to uphold democratic values. Inaugural proclamations from leaders, such as those in Maputo and Pretoria, emphasize the importance of consensual governance. The EU's commitment to democratisation also includes supporting demobilisation efforts for combatants and facilitating repatriation and resettlement processes, ensuring that all citizens deserve a voice in shaping their future.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:55.261355",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 734,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 235,
+      "selected_avg_freq": 92.1
+    },
+    "related_words": [
+      "reisch",
+      "stasi",
+      "stülpnagel",
+      "inec",
+      "gfsp",
+      "inaugurated",
+      "ddrrr",
+      "factions",
+      "chissano",
+      "reins",
+      "reengagement",
+      "togolese",
+      "regressive",
+      "fijian",
+      "lukashenka",
+      "inauguration",
+      "combatants",
+      "maputo",
+      "alarming",
+      "headway",
+      "georg",
+      "demobilisation",
+      "ohr",
+      "liberian",
+      "trilateral",
+      "bernard",
+      "asphalt",
+      "democratisation",
+      "addis",
+      "ababa"
+    ],
+    "prompt_length": 1716,
+    "category": "0436 executive power and public service"
+  }
+}

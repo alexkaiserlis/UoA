@@ -1,0 +1,63 @@
+{
+  "concept_id": "4008",
+  "concept_data": {
+    "title": "primary sector",
+    "category_code": "1621",
+    "category_name": "economic structure",
+    "category_full": "1621 economic structure",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"primary sector\" refers to the foundational economic structure within the EU, encompassing agriculture, fishing, and forestry. This sector is interdependent with other economic domains, often experiencing turbulent changes due to market fluctuations and revaluations of currencies like the peseta, lire, and franc. Legal frameworks aim to prevent complications arising from speculation and ensure stability through regulations that ratify standards. The EU's agricultural policies, including the Common Agricultural Policy (CAP), supersede outdated practices and address gaps in production profiles. These policies are designed to support farmers, ensuring they do not suffer from market disadvantages while promoting sustainability and efficiency in agri-related activities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:52:53.551308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 529,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 621,
+      "selected_avg_freq": 318.3066666666667
+    },
+    "related_words": [
+      "peseta",
+      "turbulent",
+      "lire",
+      "escudo",
+      "republish",
+      "supersedes",
+      "schilling",
+      "revaluations",
+      "interdependent",
+      "krone",
+      "guilder",
+      "basket",
+      "eeg",
+      "drachma",
+      "lira",
+      "europeancommunities",
+      "irrevocably",
+      "franc",
+      "oporto",
+      "floating",
+      "indica",
+      "irrelevant",
+      "revaluation",
+      "transpires",
+      "pound",
+      "complications",
+      "sterling",
+      "lactalbumin",
+      "realignment",
+      "ovalbumin"
+    ],
+    "prompt_length": 1694,
+    "category": "1621 economic structure"
+  }
+}

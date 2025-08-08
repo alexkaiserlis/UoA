@@ -1,0 +1,63 @@
+{
+  "concept_id": "1906",
+  "concept_data": {
+    "title": "West Midlands",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"West Midlands\" concept pertains to a specific region within the EU framework, particularly relevant in discussions surrounding funding allocations and regulatory frameworks. This area is often indexed in relation to the European Structural Fund (ESF) and the European Regional Development Fund (ERDF), which foresees additionality in financing projects aimed at economic development. The region's readiness to utilize unused appropriations is critical, as it influences the speed and effectiveness of funding distribution. Statutory guidelines dictate the programming of loans and the breakdown of allocations, ensuring that partners involved satisfy the intent of EU statutes. Evaluating the impact of these funds requires a precise understanding of inflation patterns and the roles of institutions like the European Investment Bank (EIB) in modifying lending frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:25:38.271562",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 337,
+      "requested_words": 150,
+      "min_frequency_found": 33,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 33,
+      "selected_max_freq": 1286,
+      "selected_avg_freq": 755.4
+    },
+    "related_words": [
+      "rechar",
+      "midlands",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees",
+      "statutory",
+      "west",
+      "loan",
+      "allocations",
+      "ecus",
+      "satisfies",
+      "loans"
+    ],
+    "prompt_length": 1656,
+    "category": "7206 Europe"
+  }
+}

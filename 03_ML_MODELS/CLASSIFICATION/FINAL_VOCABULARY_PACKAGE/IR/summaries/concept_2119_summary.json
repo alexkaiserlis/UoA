@@ -1,0 +1,63 @@
+{
+  "concept_id": "2119",
+  "concept_data": {
+    "title": "OAS countries",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"OAS countries\" refers to member states of the Organization of American States, which play a significant role in international political geography. In the context of EU legal and regulatory documents, these countries are often involved in trade arrangements, particularly regarding the importing of goods such as bananas. The EU may issue licences and quotas that limit the quantity of imports from OAS countries, applying fixed tariffs to manage these imports effectively. The chairman of relevant committees may oversee the submission of applications for these licences, ensuring that operators comply with established regulations. The relevance of OAS countries is particularly pronounced when discussing the origins of products and the management of trade categories, which must adhere to maximum limits and detailed regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:48:53.348959",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 152,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 152,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2066.778947368421
+    },
+    "related_words": [
+      "origins",
+      "bananas",
+      "quarter",
+      "importing",
+      "running",
+      "quickly",
+      "licence",
+      "issuing",
+      "licences",
+      "quota",
+      "chairman",
+      "immediately",
+      "percentage",
+      "category",
+      "accepted",
+      "quantity",
+      "submission",
+      "fourth",
+      "exceed",
+      "categories",
+      "equal",
+      "permit",
+      "quantities",
+      "import",
+      "tariff",
+      "origin",
+      "operators",
+      "imports",
+      "involved",
+      "reduction"
+    ],
+    "prompt_length": 1646,
+    "category": "7236 political geography"
+  }
+}

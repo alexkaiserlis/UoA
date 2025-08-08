@@ -1,0 +1,63 @@
+{
+  "concept_id": "536",
+  "concept_data": {
+    "title": "economic aggregate",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic aggregate\" pertains to the systematic compilation of data within national accounts, particularly in the context of the EU's economic and monetary union (EMU). It identifies and aggregates various economic indicators, such as employment and demand, to provide a comprehensive overview of economic performance. Regularly compiled statistics, endorsed by ECOFIN, facilitate cross-comparison among participating member states. This aggregation is essential for effective surveillance of economic policies and ensures that classifications align with established definitions. The delivery of these aggregates, often on a quarterly basis, underlines the importance of timely and comparable data for informed decision-making by policymakers and stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:19.847478",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 22,
+      "selected_max_freq": 3440,
+      "selected_avg_freq": 1597.1533333333334
+    },
+    "related_words": [
+      "cmfb",
+      "aggregates",
+      "spc",
+      "emu",
+      "ecofin",
+      "makers",
+      "compile",
+      "abrogated",
+      "classifications",
+      "aggregated",
+      "fast",
+      "worked",
+      "compilation",
+      "identifies",
+      "underlined",
+      "quarterly",
+      "hours",
+      "outlined",
+      "accorded",
+      "weeks",
+      "systematic",
+      "align",
+      "endorsed",
+      "accounting",
+      "labour",
+      "definitions",
+      "comparison",
+      "delivery",
+      "trading",
+      "accounts"
+    ],
+    "prompt_length": 1674,
+    "category": "1626 national accounts"
+  }
+}

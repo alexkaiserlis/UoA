@@ -1,0 +1,63 @@
+{
+  "concept_id": "4405",
+  "concept_data": {
+    "title": "transit charge",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transit charge\" is a fee levied within the framework of the EU's 2011 tariff policy, primarily concerning the transportation of cargoes across member states. This charge is often associated with shipping practices, including cabotage, where shipowners must navigate complex regulations. The charge is determined by various factors, including the nature of the goods and the routes taken, with powerful implications for shipping unions and intermediaries. Allegedly, some operators have been forced to refuse compliance, leading to illicit practices. The EU aims to modernize these regulations, ensuring transparency in submissions and addressing concerns over disbursed fees and the supervision of shipping activities.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:01.058498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 318,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 791,
+      "selected_avg_freq": 371.16
+    },
+    "related_words": [
+      "jhta",
+      "steamship",
+      "japanse",
+      "guise",
+      "determind",
+      "urging",
+      "lent",
+      "jfsa",
+      "ecsa",
+      "mot",
+      "dock",
+      "cabotage",
+      "cargoes",
+      "powerful",
+      "liner",
+      "harbour",
+      "loaded",
+      "disbursed",
+      "guided",
+      "unloaded",
+      "intermediary",
+      "shipowners",
+      "discontinuation",
+      "unions",
+      "modernize",
+      "forced",
+      "supervised",
+      "refusing",
+      "allegedly",
+      "illicit"
+    ],
+    "prompt_length": 1662,
+    "category": "2011 tariff policy"
+  }
+}

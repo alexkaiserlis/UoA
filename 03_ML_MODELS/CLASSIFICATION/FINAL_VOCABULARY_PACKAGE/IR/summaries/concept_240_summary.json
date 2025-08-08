@@ -1,0 +1,63 @@
+{
+  "concept_id": "240",
+  "concept_data": {
+    "title": "fish fat",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": true,
+    "preferred_term": "animal fats",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"fish fat\" is reclassified under the preferred term \"animal fats,\" encompassing a range of processed agricultural produce. These fats, derived from various sources including whale and pigskin, can be hydrolyzed to produce bioenergy or biofuel, such as biodiesel. The regulatory framework addresses concerns regarding impurities and the potential risks associated with combustion in engines or incineration. Additionally, the use of animal fats in food products like margarine and lard raises issues of digestibility and the presence of acids. Regulations also consider the implications of stockpiling and landfill disposal of by-products, ensuring compliance with TSE (transmissible spongiform encephalopathies) safety standards. The treatment of these fats, including filtration and the use of solvents, is crucial for maintaining quality and safety in the food supply chain.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:45.907715",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 644,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 495,
+      "selected_avg_freq": 222.02666666666667
+    },
+    "related_words": [
+      "pigskin",
+      "oleic",
+      "neat",
+      "whale",
+      "hphb",
+      "prorata",
+      "abp",
+      "hydrolyzed",
+      "insoluble",
+      "bioenergy",
+      "reconsideration",
+      "gelatin",
+      "digestive",
+      "thermo",
+      "boiler",
+      "spreadable",
+      "risky",
+      "margarine",
+      "lard",
+      "filtered",
+      "hydrolysis",
+      "tallow",
+      "reclassified",
+      "sperm",
+      "peroxide",
+      "alkaline",
+      "landfill",
+      "tract",
+      "iberian",
+      "biogas"
+    ],
+    "prompt_length": 1685,
+    "category": "6016 processed agricultural produce"
+  }
+}

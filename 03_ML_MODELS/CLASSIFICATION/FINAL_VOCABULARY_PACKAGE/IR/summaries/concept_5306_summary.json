@@ -1,0 +1,63 @@
+{
+  "concept_id": "5306",
+  "concept_data": {
+    "title": "radium therapy",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "nuclear medicine",
+    "relation_type": "USE"
+  },
+  "summary": "Radium therapy, now redirected to \"nuclear medicine,\" encompasses a variety of therapeutic techniques utilizing ionizing radiation for diagnostic and treatment purposes. Within the EU regulatory framework, nuclear medicine installations must adhere to stringent safety standards to prevent unnecessary exposure to radiation, thereby ensuring the protection of patients and medical personnel. The proliferation of advanced diagnostic tools, such as tomography, necessitates a comprehensive understanding of the biological effects of radiation. Regulatory bodies aim to complement preventive measures with legitimate therapeutic applications, while addressing objections related to unjustified risks. Consequently, the science of nuclear medicine contributes significantly to safe and effective patient care.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:52:17.368406",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 1943,
+      "selected_avg_freq": 877.5733333333334
+    },
+    "related_words": [
+      "tomography",
+      "obtainable",
+      "ionizing",
+      "reactors",
+      "certainly",
+      "biology",
+      "therapy",
+      "radiological",
+      "dangers",
+      "therapeutic",
+      "patients",
+      "diagnosis",
+      "proliferation",
+      "enacted",
+      "undergoing",
+      "radiation",
+      "medicine",
+      "diagnostic",
+      "repeatedly",
+      "desire",
+      "resultant",
+      "inappropriate",
+      "science",
+      "computer",
+      "necessitates",
+      "unjustified",
+      "jeopardize",
+      "installations",
+      "preventive",
+      "complement"
+    ],
+    "prompt_length": 1745,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3477",
+  "concept_data": {
+    "title": "theft insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": true,
+    "preferred_term": "indemnity insurance",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"theft insurance,\" also known as \"indemnity insurance,\" pertains to a specialized form of coverage that protects property owners against losses resulting from theft. In the context of EU legal and regulatory frameworks, this insurance is crucial for stakeholders in various jurisdictions, particularly in residential and commercial sectors. Insurers often stipulate specific conditions and methodologies for claims, which can vary based on the underlying risks associated with immovable property. Intermediaries play a vital role in the intermediation process, ensuring that clients are familiar with their options and the potential detriment of negligence. Historical data and claims analysis inform the regulatory landscape, influencing the penetration of indemnity products in the banking sector. Thus, understanding the distinction between theft insurance and other liability insurances is essential for effective risk management and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:22.112475",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 164,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1222.02
+    },
+    "related_words": [
+      "intemediaries",
+      "pii",
+      "intermediated",
+      "mortgages",
+      "intermediation",
+      "stipulation",
+      "mortgage",
+      "correlated",
+      "insurers",
+      "residential",
+      "indemnity",
+      "immovable",
+      "exhibit",
+      "history",
+      "jurisdictions",
+      "negligence",
+      "intermediaries",
+      "familiar",
+      "detriment",
+      "novel",
+      "methodologies",
+      "penetration",
+      "stakeholder",
+      "banking",
+      "resultant",
+      "underlying",
+      "regulating",
+      "historical",
+      "supervisory",
+      "analysed"
+    ],
+    "prompt_length": 1743,
+    "category": "2431 insurance"
+  }
+}

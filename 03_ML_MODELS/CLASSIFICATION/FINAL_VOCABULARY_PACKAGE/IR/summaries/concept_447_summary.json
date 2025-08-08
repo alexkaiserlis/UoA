@@ -1,0 +1,63 @@
+{
+  "concept_id": "447",
+  "concept_data": {
+    "title": "management team",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "board of management",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"management team,\" a redirect to the preferred term \"board of management,\" pertains to the governance structure within business organisations in the EU. This board is responsible for appointing nominees to various posts, including alternate members, and managing the foundation's strategic direction. Legal frameworks often require the board to fill vacant seats through a formal nomination process, ensuring that candidates are selected based on merit. In sectors such as chemicals and vocational training, the board's role is crucial in representing employers and employees alike. Resignation or ending of terms necessitates renewing appointments to maintain operational continuity, as seen in the practices of organisations like BusinessEurope and ETUC.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:59.824692",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 142,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 142,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1322.8661971830986
+    },
+    "related_words": [
+      "leslie",
+      "manasseh",
+      "janis",
+      "gaigals",
+      "luz",
+      "cosio",
+      "almeida",
+      "aleksi",
+      "kalenius",
+      "kalle",
+      "toom",
+      "valentina",
+      "deikova",
+      "sanda",
+      "liepina",
+      "dovilė",
+      "baškytė",
+      "blanca",
+      "businesseurope",
+      "nominees",
+      "etuc",
+      "nominations",
+      "resignation",
+      "vacant",
+      "alternate",
+      "filled",
+      "foundation",
+      "seat",
+      "employers",
+      "nomination"
+    ],
+    "prompt_length": 1697,
+    "category": "4006 business organisation"
+  }
+}

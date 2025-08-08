@@ -1,0 +1,26 @@
+{
+  "concept_id": "5939",
+  "concept_data": {
+    "title": "wound",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "trauma",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the concept of \"wound\" is redirected to the preferred term \"trauma.\" This terminology is crucial in health regulations, particularly in the assessment and management of injuries within public health policies. The EU emphasizes the importance of addressing trauma in various legal documents, including those related to healthcare standards, patient safety, and emergency response protocols. Understanding trauma as a legal concept aids in the development of comprehensive health strategies that ensure the protection and well-being of individuals affected by physical injuries. Thus, \"trauma\" serves as a foundational term in health-related legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:23:13.517929",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1177,
+    "category": "2841 health"
+  }
+}

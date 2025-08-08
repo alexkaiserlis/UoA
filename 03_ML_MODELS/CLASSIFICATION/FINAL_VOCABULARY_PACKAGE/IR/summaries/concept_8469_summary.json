@@ -1,0 +1,63 @@
+{
+  "concept_id": "8469",
+  "concept_data": {
+    "title": "financial services",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"financial services\" encompasses a broad range of activities provided by financial institutions and credit entities within the EU framework. It includes the management of accounts, payment systems like SEPA (Single Euro Payments Area), and services that empower corporates and clients alike. Regulatory oversight ensures that legacy systems migrate smoothly to modern frameworks, addressing bottlenecks and discontinuities. The use of identifiers such as IBAN and the implementation of SCT (SEPA Credit Transfer) and SDD (SEPA Direct Debit) facilitate efficient transactions. Moreover, the empowerment of merchants and issuers through smartly designed software enhances the usefulness of financial services, while compliance with statutes and indices, such as HICP (Harmonised Index of Consumer Prices), is crucial for maintaining economic stability. As the sector evolves, stakeholders must track progress and nominate strategies that mitigate risks and realise the full potential of financial services.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:19.511851",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 537,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 574,
+      "selected_avg_freq": 247.21333333333334
+    },
+    "related_words": [
+      "subindices",
+      "subindex",
+      "sepa",
+      "sct",
+      "sdd",
+      "iban",
+      "scts",
+      "sdds",
+      "corporates",
+      "smartly",
+      "migrated",
+      "debits",
+      "coicop",
+      "grandfathering",
+      "vendors",
+      "empowerment",
+      "nominating",
+      "debit",
+      "discontinuity",
+      "hicp",
+      "bottlenecks",
+      "efrag",
+      "legacy",
+      "realise",
+      "incoming",
+      "editorial",
+      "merchants",
+      "hicps",
+      "migrate",
+      "nominate"
+    ],
+    "prompt_length": 1674,
+    "category": "2416 financial institutions and credit"
+  }
+}

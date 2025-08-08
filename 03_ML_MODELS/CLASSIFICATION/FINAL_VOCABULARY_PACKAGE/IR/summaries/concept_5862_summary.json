@@ -1,0 +1,63 @@
+{
+  "concept_id": "5862",
+  "concept_data": {
+    "title": "computer network",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"computer network\" is pivotal in EU legal and regulatory frameworks, particularly in the context of information technology and data processing. It encompasses various systems, including those used for vessel tracking, satellite communication, and fleet management. Initiatives such as the Automatic Identification System (AIS) and the Vessel Monitoring System (VMS) illustrate the integration of computerised devices for enhanced traceability and localisation. The modernisation of these networks is crucial for fulfilling regulatory requirements, ensuring compliance across member states like Malta, Latvia, and Slovenia. Effective negotiation and coordination among partners are essential for the successful installation and validation of these systems, which ultimately raise awareness and improve operational efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:27:45.780905",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 247,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 1602,
+      "selected_avg_freq": 775.9266666666666
+    },
+    "related_words": [
+      "ers",
+      "ccn",
+      "patrol",
+      "vms",
+      "csi",
+      "ais",
+      "localisation",
+      "cfp",
+      "programs",
+      "modernisation",
+      "partner",
+      "engine",
+      "budgets",
+      "satellite",
+      "interface",
+      "computerised",
+      "efta",
+      "maltese",
+      "validation",
+      "computer",
+      "fleet",
+      "latvian",
+      "aircraft",
+      "traceability",
+      "lithuanian",
+      "slovenian",
+      "awareness",
+      "rejected",
+      "romanian",
+      "raising"
+    ],
+    "prompt_length": 1694,
+    "category": "3236 information technology and data processing"
+  }
+}

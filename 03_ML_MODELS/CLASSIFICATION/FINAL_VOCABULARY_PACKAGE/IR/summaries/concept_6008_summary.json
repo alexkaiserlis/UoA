@@ -1,0 +1,63 @@
+{
+  "concept_id": "6008",
+  "concept_data": {
+    "title": "self-employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Self-employment within the EU legal framework refers to individuals who engage in economic activities independently, often classified under various sectors such as cafes, hotels, and gasworks. This status liberalises the ability of workers to operate without a direct employer, allowing for diverse activities, including itinerant services and reclamation projects. Self-employed individuals may face unique challenges, such as incapacity due to illness or invalidity, which can affect their ability to defend their interests. Enrolment in social security systems is essential for securing benefits, including those related to incapacity. The legal recognition of self-employment also encompasses regulations on leases and attachments to ensure fair practices in the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:37:51.369446",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 932,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 190,
+      "selected_avg_freq": 81.65333333333334
+    },
+    "related_words": [
+      "studios",
+      "gasworks",
+      "classifed",
+      "liberalises",
+      "enrolment",
+      "unfurnished",
+      "cafes",
+      "taverns",
+      "rooming",
+      "incapacity",
+      "opticians",
+      "orthopaedic",
+      "acitivity",
+      "itinerant",
+      "camps",
+      "reclamation",
+      "habitually",
+      "draining",
+      "spectacles",
+      "pipeline",
+      "spouse",
+      "trustees",
+      "hotels",
+      "uncultivated",
+      "letting",
+      "illness",
+      "quarrying",
+      "attachments",
+      "whence",
+      "ordinating"
+    ],
+    "prompt_length": 1668,
+    "category": "4406 employment"
+  }
+}

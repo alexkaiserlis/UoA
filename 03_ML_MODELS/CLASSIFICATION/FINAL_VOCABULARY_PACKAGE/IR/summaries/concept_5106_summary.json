@@ -1,0 +1,63 @@
+{
+  "concept_id": "5106",
+  "concept_data": {
+    "title": "sugar cane",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sugar cane, classified under the EU plant product category 6006, plays a significant role in agricultural regulation and trade within the EU. Its cultivation involves rigorous practices, including replantation and rejuvenation to optimize yields. The mechanization of sugar cane plantations has benefited producers, allowing for the efficient transport of tonnage to distillers and sellers. In the context of EU regulations, sugar cane is crucial for the production of syrup and alcoholic beverages, such as rum and spirit drinks, with specific attention to sucrose percentages and hectolitres produced. The sector faces challenges from weather disasters, necessitating financial reimbursements and support for affected farmers.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:59:54.987144",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 390,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1160,
+      "selected_avg_freq": 532.36
+    },
+    "related_words": [
+      "baken",
+      "replantation",
+      "rejuvenating",
+      "rejuvenation",
+      "catastrophic",
+      "lessened",
+      "mechanization",
+      "replanted",
+      "rigorously",
+      "distiller",
+      "rum",
+      "poseima",
+      "poseidom",
+      "sellers",
+      "replanting",
+      "plantations",
+      "customary",
+      "relies",
+      "syrup",
+      "reimburse",
+      "sucrose",
+      "dual",
+      "reception",
+      "hectolitres",
+      "bad",
+      "ahead",
+      "disasters",
+      "drinks",
+      "cane",
+      "tonnage"
+    ],
+    "prompt_length": 1664,
+    "category": "6006 plant product"
+  }
+}

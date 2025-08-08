@@ -1,0 +1,63 @@
+{
+  "concept_id": "5614",
+  "concept_data": {
+    "title": "pressurised equipment",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "pressure equipment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory frameworks, \"pressurised equipment,\" redirected to \"pressure equipment,\" encompasses devices designed to contain fluids or gases under pressure, ensuring safety against risks such as bursting or overheating. These regulations address various components, including manometers, sensors, and transducers, which monitor pressure and temperature to prevent overfilling and ensure proper functioning. The use of materials like niobate and polymers is critical for durability under turbulent conditions. Compliance with standards involves rigorous testing for permeation and vibration, employing techniques like spectroscopy and photolysis. Transportable pressure equipment must also adhere to safety protocols, including the use of extinguishers and gauges to mitigate hazards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:45:34.565818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 589,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 316,
+      "selected_avg_freq": 112.88666666666667
+    },
+    "related_words": [
+      "mks",
+      "bhs",
+      "readout",
+      "manometer",
+      "niobate",
+      "transducer",
+      "pression",
+      "permeation",
+      "kaman",
+      "blowdown",
+      "supersonic",
+      "picosecond",
+      "overfilling",
+      "overheating",
+      "tsmax",
+      "tsmin",
+      "turbulent",
+      "conduit",
+      "oscillator",
+      "bursting",
+      "commom",
+      "lithium",
+      "psi",
+      "spectroscopy",
+      "fluorescence",
+      "vibration",
+      "extinguisher",
+      "transportable",
+      "transient",
+      "speeds"
+    ],
+    "prompt_length": 1723,
+    "category": "6821 mechanical engineering"
+  }
+}

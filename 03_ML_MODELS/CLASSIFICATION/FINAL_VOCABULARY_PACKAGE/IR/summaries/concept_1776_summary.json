@@ -1,0 +1,63 @@
+{
+  "concept_id": "1776",
+  "concept_data": {
+    "title": "English Channel",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"English Channel,\" categorized under the natural environment, is a crucial marine ecosystem within EU regulatory frameworks. It supports diverse species, including cetaceans, dolphins, and various fish like forkbeards and anglerfish. The Channel's waters are subject to pilotage regulations to ensure safe navigation for trawls and fishing vessels. EU policies aim to conserve marine biodiversity by addressing issues such as depleting fish stocks, including bream and plaice, through Total Allowable Catches (TACs) and sustainable trawling practices. Observers monitor incidental catches to prevent ecosystem collapse, while efforts to replenish populations of mature species like ling and rays are ongoing.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:58:32.671063",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 477,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 579,
+      "selected_avg_freq": 222.21333333333334
+    },
+    "related_words": [
+      "leander",
+      "adspersus",
+      "pilotage",
+      "cetacean",
+      "forkbeard",
+      "dolphins",
+      "forkbeards",
+      "eroded",
+      "pilots",
+      "pandalus",
+      "crangon",
+      "drowning",
+      "cetaceans",
+      "mile",
+      "alfonsinos",
+      "bass",
+      "replenish",
+      "borealis",
+      "viie",
+      "bream",
+      "trawling",
+      "rays",
+      "anglerfish",
+      "pair",
+      "skates",
+      "depleting",
+      "abundance",
+      "mature",
+      "inshore",
+      "ling"
+    ],
+    "prompt_length": 1645,
+    "category": "5211 natural environment"
+  }
+}

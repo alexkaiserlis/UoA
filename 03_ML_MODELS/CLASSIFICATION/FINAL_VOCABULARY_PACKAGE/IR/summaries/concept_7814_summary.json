@@ -1,0 +1,63 @@
+{
+  "concept_id": "7814",
+  "concept_data": {
+    "title": "regions of Poland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Poland\" pertains to the administrative divisions known as voivodships, which play a crucial role in the governance and regulatory framework of the EU Member States. Poland is divided into 16 voivodships, such as warmińsko-mazurskie and wielkopolskie, each further subdivided into powiaty (counties) and gminy (municipalities). These regions, including notable areas like kujawsko and pomorskie, are essential for implementing EU policies, including those related to public health and environmental regulations. The legal status of these regions impacts funding allocations and compliance with EU directives, particularly in sectors affected by zoonotic diseases like leukosis and tuberculosis. Understanding these regions is vital for effective EU governance and regional development initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:45.493342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 257,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1392,
+      "selected_avg_freq": 486.73333333333335
+    },
+    "related_words": [
+      "powiat",
+      "fermo",
+      "região",
+      "ragusa",
+      "ascoli",
+      "regiões",
+      "voivodship",
+      "pais",
+      "warmińsko",
+      "unpublished",
+      "biella",
+      "distritos",
+      "enna",
+      "kujawsko",
+      "mazurskie",
+      "benevento",
+      "splits",
+      "voivodships",
+      "lisboa",
+      "tejo",
+      "piceno",
+      "algarve",
+      "catania",
+      "powiaty",
+      "asti",
+      "wielkopolskie",
+      "pomorskie",
+      "vale",
+      "leon",
+      "vasco"
+    ],
+    "prompt_length": 1645,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5217",
+  "concept_data": {
+    "title": "administrative measure",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"administrative measure\" in the EU context refers to actions taken by public authorities to enforce compliance with regulations and standards. These measures can address irregularities, facilitate auditing processes, and respond to instances of evasion or illegitimate practices. They are essential for maintaining resilient governance structures, particularly in banking and financial sectors. Administrative measures may involve supervisory offices appraising compliance, retaining possession of objects, or addressing sudden phenomena affecting public service delivery. The measures are standardized to ensure a quicker reaction to issues, thereby preventing avoidance of legal obligations. Additionally, they may include quarterly assessments to monitor compliance effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:49.946887",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 381,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1083,
+      "selected_avg_freq": 549.9066666666666
+    },
+    "related_words": [
+      "qrm",
+      "resilient",
+      "illegitimate",
+      "whreas",
+      "appraise",
+      "quicker",
+      "phenomena",
+      "wrongly",
+      "circuits",
+      "reverse",
+      "composite",
+      "extracted",
+      "quick",
+      "massive",
+      "auditing",
+      "evasion",
+      "sudden",
+      "retaining",
+      "branches",
+      "objects",
+      "avoidance",
+      "shorter",
+      "instances",
+      "reaction",
+      "standardised",
+      "banking",
+      "exercising",
+      "dimension",
+      "irregularities",
+      "addressing"
+    ],
+    "prompt_length": 1701,
+    "category": "0436 executive power and public service"
+  }
+}

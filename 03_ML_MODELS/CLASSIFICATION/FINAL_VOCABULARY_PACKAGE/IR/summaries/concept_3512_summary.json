@@ -1,0 +1,63 @@
+{
+  "concept_id": "3512",
+  "concept_data": {
+    "title": "sickness benefit",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "health insurance",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sickness benefit,\" categorized under social protection, is redirected to the preferred term \"health insurance\" within EU legal frameworks. This benefit is crucial for nationals residing in EU member states, particularly for unemployed migrants who may face unreasonable financial strains due to health issues. The regulation governs the conditions under which individuals can access sickness benefits, ensuring that they possess the necessary documentation, such as passports and visas. It builds on the acquis communautaire, facilitating cross-border healthcare access. Consulates play a vital role in providing instructions for repatriation and ensuring families can stay connected during health crises, thereby supporting subsistence and overall well-being.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:11.395747",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 308,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1319,
+      "selected_avg_freq": 584.0666666666667
+    },
+    "related_words": [
+      "inaccuracy",
+      "underwrite",
+      "consulates",
+      "sticker",
+      "repatriation",
+      "hospital",
+      "reside",
+      "goes",
+      "emoluments",
+      "consular",
+      "migrant",
+      "tampere",
+      "reserving",
+      "unemployed",
+      "governs",
+      "subsistence",
+      "eaec",
+      "passports",
+      "unreasonable",
+      "sickness",
+      "diplomatic",
+      "families",
+      "genuinely",
+      "visas",
+      "waive",
+      "officer",
+      "visa",
+      "commissions",
+      "builds",
+      "possess"
+    ],
+    "prompt_length": 1698,
+    "category": "2836 social protection"
+  }
+}

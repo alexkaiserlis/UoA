@@ -1,0 +1,63 @@
+{
+  "concept_id": "3730",
+  "concept_data": {
+    "title": "health risk",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"health risk\" pertains to potential adverse effects on human health from exposure to substances such as monochlorobenzene or triclosan. Regulatory bodies often reevaluate health risks associated with chemicals, including dicalcium and phthalimidine, to ensure public safety. The concept encompasses various factors, including the insolubility of certain compounds and their mimicking effects on biological systems. For instance, injectable substances like ethylthiophenethylamine and propylthiophenethylamine may pose health risks if not properly regulated. Additionally, the fixity of health risk assessments is crucial, as it influences the bunding of products like toothpastes and enamels, ensuring consumer protection against harmful effects.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:03.314987",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 5523,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.533333333333333
+    },
+    "related_words": [
+      "ioelvs",
+      "monochlorobenzene",
+      "ioelv",
+      "reenact",
+      "descendent",
+      "daughter",
+      "beech",
+      "stel",
+      "twa",
+      "tma",
+      "ethylthiophenethylamine",
+      "propylthiophenethylamine",
+      "trimethoxyamphetamine",
+      "phenethylamines",
+      "dob",
+      "fcm",
+      "dipropyleneglycol",
+      "shining",
+      "insolubility",
+      "heath",
+      "fixity",
+      "dsp",
+      "dicalcium",
+      "phthalimidine",
+      "isocyanatomethyl",
+      "benzenedimethanamine",
+      "dicyanodiamide",
+      "sorbial",
+      "ddacarbonate",
+      "bunding"
+    ],
+    "prompt_length": 1781,
+    "category": "2841 health"
+  }
+}

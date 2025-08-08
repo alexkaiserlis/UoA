@@ -1,0 +1,63 @@
+{
+  "concept_id": "10",
+  "concept_data": {
+    "title": "domestic trade",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Domestic trade refers to the exchange of goods and services within a country's territories, governed by various statutes and regulations. In the context of EU legal frameworks, it is crucial for promoting economic integration and ensuring compatibility across member states. The EU aims to simplify and reform domestic trading practices, allowing for a more efficient transition towards a unified market. This involves revising existing regulations, defining clear responsibilities for organisations, and adapting to new commercial realities. Knowledge of domestic trade is essential for stakeholders, as it influences submissions, statistics, and the exploitation of market opportunities, ultimately fostering a clean and competitive environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:03.466108",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 164,
+      "requested_words": 150,
+      "min_frequency_found": 27,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 27,
+      "selected_max_freq": 3458,
+      "selected_avg_freq": 1729.9933333333333
+    },
+    "related_words": [
+      "acquainted",
+      "alphabetical",
+      "ref",
+      "sky",
+      "clean",
+      "alpha",
+      "preferable",
+      "statutes",
+      "revising",
+      "coding",
+      "intellectual",
+      "submissions",
+      "iso",
+      "revise",
+      "exploitation",
+      "frequency",
+      "checking",
+      "calendar",
+      "selection",
+      "replacing",
+      "defining",
+      "simplification",
+      "promotion",
+      "recital",
+      "trading",
+      "reform",
+      "transition",
+      "knowledge",
+      "statistics",
+      "creation"
+    ],
+    "prompt_length": 1688,
+    "category": "2006 trade policy"
+  }
+}

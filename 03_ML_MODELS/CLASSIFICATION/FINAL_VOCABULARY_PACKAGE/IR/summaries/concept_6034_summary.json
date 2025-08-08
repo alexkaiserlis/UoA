@@ -1,0 +1,63 @@
+{
+  "concept_id": "6034",
+  "concept_data": {
+    "title": "subnational governments",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "regional and local authorities",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"subnational governments\" refers to \"regional and local authorities,\" which are pivotal in the hierarchical structure of governance. These collectivités territoriales engage in implementing policies across various subdivisions, including départements and metropolitan areas. Their role is a cornerstone of democratic governance, ensuring impartiality and effective service delivery. They manage resources, such as banknotes and deposits, and facilitate the refinancing of local projects. Furthermore, these authorities operate within extraregio frameworks, often dealing with unique enclaves like Mayotte and Saint Pierre and Miquelon. Their classifications and regulatory frameworks are essential for coherent governance across the continental landscape, engaging residents in decision-making processes while precluding inefficiencies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:15:43.123480",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 417,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 844,
+      "selected_avg_freq": 404.8066666666667
+    },
+    "related_words": [
+      "hierarchical",
+      "extraregio",
+      "collectivités",
+      "territoriales",
+      "singleness",
+      "embassies",
+      "enclaves",
+      "outre",
+      "mer",
+      "iedom",
+      "consulates",
+      "francs",
+      "départements",
+      "cornerstone",
+      "franc",
+      "institut",
+      "miquelon",
+      "metropolitan",
+      "impartiality",
+      "refinancing",
+      "mayotte",
+      "carcass",
+      "disseminated",
+      "pierre",
+      "coins",
+      "banknotes",
+      "deposits",
+      "classifications",
+      "slaughtering",
+      "denominated"
+    ],
+    "prompt_length": 1779,
+    "category": "0436 executive power and public service"
+  }
+}

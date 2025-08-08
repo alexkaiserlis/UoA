@@ -1,0 +1,63 @@
+{
+  "concept_id": "3737",
+  "concept_data": {
+    "title": "power industry",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"power industry,\" redirected to the preferred term \"energy industry,\" encompasses a broad spectrum of utilities and enterprises involved in energy production, distribution, and regulation within the EU. This sector is subject to extensive legal frameworks that aim to preserve market integrity and prevent distortionary practices. Regulatory agencies, such as the agenzia, assess the intentions of various stakeholders, ensuring compliance with EU directives. The interaction between municipalizzate and private aziende often leads to disputes over prerogatives and investment commitments. Furthermore, the sector faces challenges like stranded assets and ineffective policies, which can hamper growth. The EU's legal instruments, including judgments and annulments, are crucial for addressing these issues and fostering a sustainable energy landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:38.643206",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 678,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 379,
+      "selected_avg_freq": 161.46666666666667
+    },
+    "related_words": [
+      "aem",
+      "municipalizzate",
+      "agenzia",
+      "entrate",
+      "acea",
+      "depositi",
+      "prestiti",
+      "realizes",
+      "distortionary",
+      "reimbourse",
+      "dispelled",
+      "ineffectual",
+      "seaward",
+      "landward",
+      "aziende",
+      "cassa",
+      "vestas",
+      "deggendorf",
+      "examines",
+      "solemn",
+      "overtaken",
+      "torino",
+      "reproduces",
+      "utilities",
+      "inferred",
+      "extracting",
+      "prospection",
+      "exploring",
+      "stranded",
+      "prerogatives"
+    ],
+    "prompt_length": 1732,
+    "category": "6606 energy policy"
+  }
+}

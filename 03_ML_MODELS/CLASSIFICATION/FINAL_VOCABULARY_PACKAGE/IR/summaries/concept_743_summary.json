@@ -1,0 +1,63 @@
+{
+  "concept_id": "743",
+  "concept_data": {
+    "title": "wave energy",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Wave energy, categorized under soft energy (6626), refers to the harnessing of energy from ocean waves, a dynamic and renewable resource. In the context of EU legal and regulatory frameworks, wave energy technologies, such as specially designed waveboards and hydraulic actuators, are examined for their stability and efficiency. These systems often consist of various assemblies, including servo mechanisms and precision liners, which are capable of converting wave motion into usable energy. The EU promotes the development of such technologies through educational initiatives and regulatory support, aiming to enhance cultural and environmental sustainability while addressing the energy needs of ships and coastal communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:31:19.044692",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 129,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 129,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1517.3565891472867
+    },
+    "related_words": [
+      "mts",
+      "servo",
+      "wavemaker",
+      "waveboard",
+      "actuators",
+      "bulb",
+      "wiper",
+      "waves",
+      "analog",
+      "shaped",
+      "drain",
+      "cushion",
+      "subsystem",
+      "liner",
+      "static",
+      "assemblies",
+      "hydraulic",
+      "seal",
+      "stem",
+      "dynamic",
+      "ordered",
+      "specially",
+      "reaction",
+      "frame",
+      "precision",
+      "affirmative",
+      "invoke",
+      "educational",
+      "apparatus",
+      "ships"
+    ],
+    "prompt_length": 1619,
+    "category": "6626 soft energy"
+  }
+}

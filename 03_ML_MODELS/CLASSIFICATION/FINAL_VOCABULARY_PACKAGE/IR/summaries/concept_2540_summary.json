@@ -1,0 +1,63 @@
+{
+  "concept_id": "2540",
+  "concept_data": {
+    "title": "stratospheric pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Stratospheric pollution refers to the release of harmful substances, particularly emissive compounds like chlorofluorocarbons (CFCs) and hydrochlorofluorocarbons (HCFCs), into the upper atmosphere. The EU regulatory framework emphasizes the lifecycle management of these pollutants, which include fluoropolymers such as tetrafluoroethylene and hydrobromofluorocarbons. These substances, often found in decommissioned equipment and extinguishers, pose significant risks to the environment, particularly in the Antarctic hemisphere. The EU aims to consolidate efforts to mitigate leakages and promote recycling of materials like resin and wiring. Regulations also address the essentiality of alternatives, ensuring compliance with standards that protect public health from obstructive conditions like asthma.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:06:18.257697",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 846,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 188,
+      "selected_avg_freq": 71.16666666666667
+    },
+    "related_words": [
+      "emissive",
+      "fluoropolymers",
+      "agc",
+      "tetrafluoroethylene",
+      "etfe",
+      "wiring",
+      "recycles",
+      "bcm",
+      "cyanocobalamin",
+      "hydrochlorofluorcarbons",
+      "enviroment",
+      "informantion",
+      "nearing",
+      "nacelle",
+      "submarines",
+      "nacelles",
+      "reliant",
+      "hemisphere",
+      "leakages",
+      "ctc",
+      "essentiality",
+      "halon",
+      "refit",
+      "teap",
+      "extinguisher",
+      "hydrobromofluorocarbon",
+      "chlorofluorocarbon",
+      "bromochloromethane",
+      "hydrobromofluorocarbons",
+      "extinguishers"
+    ],
+    "prompt_length": 1787,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "2135",
+  "concept_data": {
+    "title": "oligopsony",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Oligopsony is a market structure characterized by a limited number of buyers, which can exert significant influence over suppliers, potentially leading to anti-competitive practices. In the context of EU competition law, oligopsony can raise concerns regarding market power and the fair treatment of suppliers. The European Commission monitors such dynamics to prevent distortions in competition and to ensure that suppliers are not subjected to unfair purchasing conditions. Regulatory frameworks aim to promote a balanced marketplace, fostering competition while protecting the interests of all market participants, particularly in sectors where oligopsonistic conditions may prevail.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:55.858617",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1161,
+    "category": "4031 competition"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1330",
+  "concept_data": {
+    "title": "tax on wages and salaries",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax on employment income",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax on wages and salaries,\" redirected to \"tax on employment income,\" encompasses the taxation of remunerations received by employees, officials, and directors within the EU framework. This tax applies to various emoluments and is calculated based on a formula that considers net values and local coefficients. It reflects the financial obligations of recruited staff, including police and Europol employees, while also addressing concerns regarding privileges and immunities. Adjusting for retroactive elements, the taxation system aims to ensure equitable contributions from all service sectors, as outlined in relevant chapters and conventions. The adaptation of tax percentages is crucial for maintaining desirable living standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:28.457291",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 148,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 148,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1718.3175675675675
+    },
+    "related_words": [
+      "recruited",
+      "remunerations",
+      "deputy",
+      "emoluments",
+      "agreeing",
+      "organs",
+      "salaries",
+      "immunities",
+      "privileges",
+      "directors",
+      "europol",
+      "director",
+      "pensions",
+      "servants",
+      "remuneration",
+      "formula",
+      "police",
+      "appendix",
+      "coefficients",
+      "employees",
+      "officials",
+      "retroactive",
+      "correction",
+      "taxes",
+      "hereafter",
+      "adjusting",
+      "staff",
+      "done",
+      "living",
+      "excluding"
+    ],
+    "prompt_length": 1733,
+    "category": "2446 taxation"
+  }
+}

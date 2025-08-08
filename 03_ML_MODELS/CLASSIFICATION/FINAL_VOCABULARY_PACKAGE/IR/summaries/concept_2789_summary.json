@@ -1,0 +1,63 @@
+{
+  "concept_id": "2789",
+  "concept_data": {
+    "title": "health care profession",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"health care profession\" encompasses a range of practitioners, including doctors, nurses, and specialists, who are trained to address various pathologies and illnesses. In the EU regulatory framework, these professionals are appointed to ensure the delivery of healthcare services, which include oncology, paediatrics, and midwifery. The legal implications of their practice are governed by ordinances that emphasize the necessity for proper diplomas and ongoing education, such as teaching in genetics and pharmacovigilance. The convergence of healthcare practices nationally and universally aims to upgrade the standards of care for patients, particularly those with chronic or systemic conditions. This regulatory structure responds to the evolving needs of the healthcare landscape, ensuring that practitioners are equipped to handle the complexities of modern medicine.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:36.934600",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 520,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 636,
+      "selected_avg_freq": 256.68
+    },
+    "related_words": [
+      "guk",
+      "lfv",
+      "trainee",
+      "oncology",
+      "fifths",
+      "genetics",
+      "foetal",
+      "paediatrics",
+      "pathologies",
+      "doctor",
+      "practitioner",
+      "nurses",
+      "taught",
+      "doctors",
+      "specialty",
+      "midwifery",
+      "bgbl",
+      "surgeons",
+      "illness",
+      "converge",
+      "patient",
+      "nursing",
+      "pharmacovigilance",
+      "forcing",
+      "implication",
+      "emphasize",
+      "appoints",
+      "universally",
+      "responds",
+      "ordinance"
+    ],
+    "prompt_length": 1688,
+    "category": "2841 health"
+  }
+}

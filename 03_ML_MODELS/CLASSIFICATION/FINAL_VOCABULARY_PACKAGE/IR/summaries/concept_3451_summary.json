@@ -1,0 +1,63 @@
+{
+  "concept_id": "3451",
+  "concept_data": {
+    "title": "arms policy",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"arms policy\" within the EU legal framework establishes guidelines for the design and administration of defence-related expenditures. It justifies the allocation of funds through a structured approach that considers eligibility criteria and simplifies reimbursement processes. The policy addresses various types of arms programmes, ensuring cohesion among member states while providing greater certainty in financial transactions. Auditors play a crucial role in assessing the sums financed, while exceptions are made for specific situations, such as crisis response. Legislative measures linked to arms policy also recommend retroactive adjustments to enhance efficiency, ultimately aiming for a streamlined calculation of costs and payments.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:20.709412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 126,
+      "requested_words": 150,
+      "min_frequency_found": 57,
+      "max_frequency_found": 4108,
+      "selected_words": 126,
+      "selected_min_freq": 57,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1850.0396825396826
+    },
+    "related_words": [
+      "lump",
+      "simplifications",
+      "scales",
+      "reconsider",
+      "esf",
+      "auditors",
+      "sums",
+      "simplifying",
+      "justifies",
+      "retroactive",
+      "cohesion",
+      "sum",
+      "grants",
+      "design",
+      "flat",
+      "reimbursement",
+      "exceptions",
+      "receiving",
+      "simplification",
+      "instead",
+      "add",
+      "crisis",
+      "real",
+      "recommended",
+      "financed",
+      "eligibility",
+      "certainty",
+      "prepared",
+      "giving",
+      "calculation"
+    ],
+    "prompt_length": 1660,
+    "category": "0821 defence"
+  }
+}

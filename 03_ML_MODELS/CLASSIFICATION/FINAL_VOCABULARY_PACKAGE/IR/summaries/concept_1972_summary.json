@@ -1,0 +1,63 @@
+{
+  "concept_id": "1972",
+  "concept_data": {
+    "title": "paper money",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Paper money\" refers to banknotes issued by central banks, centralising monetary control within the EU. It serves as a medium of exchange, distinct from coins and tokens, and is designed to facilitate transactions while mitigating risks such as forgery and theft. Regulatory frameworks govern the design and distribution of banknotes, ensuring that they are authenticated and reissued when mutilated or damaged. The European Central Bank (ECB) oversees the centralisation of these processes, communicating standards to member states. Additionally, measures against counterfeiting, including the use of advanced security features, are crucial for maintaining public trust and preventing laundering and robbery.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:37.113575",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 845,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 219,
+      "selected_avg_freq": 93.93333333333334
+    },
+    "related_words": [
+      "centralises",
+      "interpol",
+      "coverning",
+      "plurality",
+      "reissued",
+      "abspp",
+      "casinos",
+      "announcements",
+      "forgery",
+      "recirculation",
+      "mutilated",
+      "cnac",
+      "teller",
+      "sided",
+      "handlers",
+      "nac",
+      "designers",
+      "etsc",
+      "smp",
+      "cac",
+      "theft",
+      "reproductions",
+      "banknote",
+      "resubmit",
+      "remunerated",
+      "accrues",
+      "centralisation",
+      "accreditations",
+      "tokens",
+      "acknowledgement"
+    ],
+    "prompt_length": 1689,
+    "category": "2411 monetary economics"
+  }
+}

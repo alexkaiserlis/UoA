@@ -1,0 +1,63 @@
+{
+  "concept_id": "5841",
+  "concept_data": {
+    "title": "political reform",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Political reform within the EU context refers to the systematic changes aimed at enhancing governance, ensuring credible elections, and fostering inclusive dialogue among stakeholders. It often involves milestones outlined in agreements such as the Cotonou Agreement, which emphasizes the importance of constitutional adherence and transparent processes. Political reform can emerge from crises, as seen in nations like Burkina Faso and Madagascar, where governments seek to return to stability through mediation and consensus-building. The EU plays a pivotal role in supporting these reforms, facilitating partnerships with Southern African Development Community (SADC) and Caribbean nations, while endorsing roadmaps that fulfil democratic aspirations and uphold key principles of governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:42:42.653096",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 135,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 135,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1521.8296296296296
+    },
+    "related_words": [
+      "malagasy",
+      "milestones",
+      "sadc",
+      "emerge",
+      "burkina",
+      "faso",
+      "ouagadougou",
+      "outlines",
+      "map",
+      "thanks",
+      "mediation",
+      "credible",
+      "roadmap",
+      "cotonou",
+      "elections",
+      "madagascar",
+      "consensus",
+      "signatories",
+      "constitutional",
+      "neutral",
+      "minister",
+      "begun",
+      "twelve",
+      "violation",
+      "prime",
+      "dialogue",
+      "southern",
+      "caribbean",
+      "inclusive",
+      "appointment"
+    ],
+    "prompt_length": 1670,
+    "category": "0431 politics and public safety"
+  }
+}

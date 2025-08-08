@@ -1,0 +1,63 @@
+{
+  "concept_id": "3824",
+  "concept_data": {
+    "title": "iron and steel product",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"iron and steel product\" encompasses a broad range of items produced within the iron, steel, and other metal industries, as defined in EU regulatory frameworks. These products, which include enamelled and anodized materials, are subject to various recommendations and standards aimed at ensuring quality and safety. Transitionary measures may be introduced to facilitate compliance with evolving regulations. The saga of metalwork in the EU reflects a complex interplay of market dynamics, including the incurrence of costs related to production and distribution. Stakeholders, from manufacturers to salesmen, must maintain cognizance of legal obligations, particularly in regions like Zeeland and Bundesländer. The regulatory landscape also addresses specific applications, such as the use of nails and tacks in construction, ensuring that products meet established criteria.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:19:13.361721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1920,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 57,
+      "selected_avg_freq": 23.04
+    },
+    "related_words": [
+      "reccomendation",
+      "transitionary",
+      "introducted",
+      "quarto",
+      "saga",
+      "lax",
+      "denunciate",
+      "americas",
+      "enamelled",
+      "anodized",
+      "quantex",
+      "bundeslaender",
+      "staples",
+      "wgwpr",
+      "handan",
+      "yan",
+      "yuan",
+      "xianxian",
+      "guozhuang",
+      "norlong",
+      "hydrants",
+      "jize",
+      "gang",
+      "baoding",
+      "maikesaier",
+      "xinanli",
+      "changsha",
+      "wuxing",
+      "wangcheng",
+      "wuyi"
+    ],
+    "prompt_length": 1659,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

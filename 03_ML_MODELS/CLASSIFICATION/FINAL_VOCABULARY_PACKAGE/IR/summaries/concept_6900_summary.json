@@ -1,0 +1,26 @@
+{
+  "concept_id": "6900",
+  "concept_data": {
+    "title": "expulsion from housing",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"expulsion from housing\" pertains to legal proceedings where individuals are forcibly removed from their residences, often following a judicial decision. Within the EU legal framework, such expulsions must adhere to principles of justice, ensuring that due process is observed. This includes the right to appeal and the provision of adequate housing alternatives. Member States are required to comply with EU directives that protect vulnerable populations from arbitrary eviction, emphasizing the necessity of safeguarding human rights. The regulatory context surrounding expulsion from housing is critical in maintaining social stability and upholding the rule of law across the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:39.164881",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "1221 justice"
+  }
+}

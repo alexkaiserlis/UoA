@@ -1,0 +1,63 @@
+{
+  "concept_id": "476",
+  "concept_data": {
+    "title": "water supply",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"water supply\" within EU legal and regulatory frameworks encompasses various aspects of construction and town planning, particularly regarding the provision of clean drinking water and sanitation. It involves the calibration of metrological instruments such as hydrometers and alcoholometers to ensure accurate measurement of water quality and quantity. The management of water supply systems must consider ecological factors, including the health of phytoplankton, macrophytes, and benthic invertebrates, which are essential for maintaining hydromorphological balance. Innovative approaches are encouraged to mobilise resources effectively, aligning with the EU's goals for sustainable development. Approvals for water supply projects often require detailed assessments, illustrating compliance with established boundaries and standards, thus ensuring the realisation of a robust water supply infrastructure.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:44.808851",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 470,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 731,
+      "selected_avg_freq": 342.36
+    },
+    "related_words": [
+      "phytoplankton",
+      "macrophytes",
+      "phytobenthos",
+      "hydromorphological",
+      "alcoholometers",
+      "hydrometers",
+      "metrology",
+      "edfs",
+      "millennium",
+      "sanitation",
+      "gauges",
+      "cylindrical",
+      "tyre",
+      "benthic",
+      "edf",
+      "invertebrates",
+      "kilogramme",
+      "rectangular",
+      "metrological",
+      "leverage",
+      "envelopes",
+      "disbursements",
+      "outdated",
+      "meters",
+      "realisation",
+      "calibration",
+      "bar",
+      "weights",
+      "boundaries",
+      "illustrating"
+    ],
+    "prompt_length": 1718,
+    "category": "2846 construction and town planning"
+  }
+}

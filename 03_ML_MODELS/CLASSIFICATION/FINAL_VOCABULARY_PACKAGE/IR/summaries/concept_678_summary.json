@@ -1,0 +1,63 @@
+{
+  "concept_id": "678",
+  "concept_data": {
+    "title": "physical exercise",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "physical education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"physical exercise,\" redirected to \"physical education,\" is integral to EU regulatory frameworks governing teaching methodologies. It encompasses the training and development of both boys and girls in various sports, including skiing, diving, and parachuting. Instructors and trainers play a pivotal role in shaping students' aptitude and mastery of these activities, ensuring that programs are pedagogical and inclusive. The enactment of comprehensive curricula aims to heighten awareness of psychological and physical well-being while addressing shortfalls in participation among migrant populations. By organizing structured activities, such as signposted outdoor sports, the EU promotes a fuller understanding of teamwork and cooperation, effectively combating racism and xenophobia through sport.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:36:58.038394",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 608,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 325,
+      "selected_avg_freq": 139.72
+    },
+    "related_words": [
+      "trainer",
+      "apitude",
+      "instuctors",
+      "diving",
+      "parachuting",
+      "potholing",
+      "overt",
+      "signposted",
+      "mastery",
+      "orgnaize",
+      "effet",
+      "pedagogical",
+      "sportswomen",
+      "heighten",
+      "examiners",
+      "forges",
+      "aptitude",
+      "sportsmen",
+      "guides",
+      "coordinators",
+      "shaping",
+      "psychological",
+      "instructors",
+      "boys",
+      "inherently",
+      "ski",
+      "devise",
+      "ideal",
+      "something",
+      "shortfalls"
+    ],
+    "prompt_length": 1706,
+    "category": "3211 teaching"
+  }
+}

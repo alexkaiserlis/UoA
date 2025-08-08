@@ -1,0 +1,26 @@
+{
+  "concept_id": "1679",
+  "concept_data": {
+    "title": "electoral roll",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "electoral register",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"electoral roll,\" which redirects to the preferred term \"electoral register,\" refers to the official list of individuals eligible to vote in elections within the EU. This register is crucial for ensuring the integrity of electoral procedures and voting rights, as it verifies the identity and eligibility of voters. The electoral register is maintained by national authorities in accordance with EU regulations, which mandate transparency and accessibility. Accurate and up-to-date electoral registers are essential for the democratic process, facilitating fair elections and enabling citizens to exercise their voting rights effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:09.226371",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 91,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1222,
+    "category": "0416 electoral procedure and voting"
+  }
+}

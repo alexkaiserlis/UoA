@@ -1,0 +1,63 @@
+{
+  "concept_id": "2939",
+  "concept_data": {
+    "title": "complaint through official channels",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": true,
+    "preferred_term": "appeal to an administrative authority",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"complaint through official channels,\" redirected to \"appeal to an administrative authority,\" encompasses the mechanisms by which individuals or entities can contest decisions made by public bodies within the EU framework. This process often involves the submission of appeals to designated boards or examiners, who are empowered to hear cases regarding issues such as the invalidity or revocation of decisions. The machinery of appeals aims to ensure equitable treatment and harmonization of regulations, allowing for reconciliation of interests. Submissions may include oral arguments and written motions, while rapporteurs chair hearings to facilitate the process. The centralisation of these procedures enhances transparency and fosters trust in administrative actions, ultimately preserving the integrity of public service.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:31.196323",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 321,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1261,
+      "selected_avg_freq": 617.9866666666667
+    },
+    "related_words": [
+      "harmonizaiton",
+      "conciliate",
+      "examiners",
+      "centralisation",
+      "motion",
+      "appealed",
+      "invalidity",
+      "revocation",
+      "registry",
+      "disbursed",
+      "appeals",
+      "chaired",
+      "reconciliation",
+      "designs",
+      "cancellation",
+      "rapporteur",
+      "boards",
+      "invite",
+      "hear",
+      "interfere",
+      "divisions",
+      "endeavour",
+      "willing",
+      "preclude",
+      "equitable",
+      "refuse",
+      "enlarged",
+      "conciliation",
+      "virtually",
+      "marks"
+    ],
+    "prompt_length": 1796,
+    "category": "0436 executive power and public service"
+  }
+}

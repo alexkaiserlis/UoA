@@ -1,0 +1,63 @@
+{
+  "concept_id": "2910",
+  "concept_data": {
+    "title": "economic recession",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic recession refers to a significant decline in economic activity across the EU, characterized by soaring unemployment rates and reduced consumer spending. This phenomenon often unfolds in cycles, impacting various sectors, including automotive giants like Citroën and manufacturers such as Whirlpool and Vestas. Regulatory frameworks, such as the European Stability Mechanism (ESM), aim to inject liquidity into struggling economies, facilitating a reset of financial conditions. The enduring effects of recession can lead to frontloading of fiscal measures and necessitate the reissue of financial instruments. As regions like Zeeland and Midtjylland grapple with recession, the EU's response includes simplified regulations to support socio-economic recovery and promote sustainable growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:08:32.236495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1629,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 47,
+      "selected_avg_freq": 21.713333333333335
+    },
+    "related_words": [
+      "soaring",
+      "glasfiber",
+      "pbr",
+      "unfolded",
+      "frontloading",
+      "reissue",
+      "inject",
+      "reflow",
+      "arnsberg",
+      "midtjylland",
+      "psa",
+      "citroën",
+      "zalco",
+      "zeeland",
+      "ecl",
+      "enduring",
+      "manroland",
+      "aldi",
+      "epe",
+      "assoc",
+      "tabak",
+      "gad",
+      "simplifiée",
+      "grupo",
+      "sprider",
+      "saab",
+      "mechel",
+      "campia",
+      "turzii",
+      "stx"
+    ],
+    "prompt_length": 1598,
+    "category": "1611 economic conditions"
+  }
+}

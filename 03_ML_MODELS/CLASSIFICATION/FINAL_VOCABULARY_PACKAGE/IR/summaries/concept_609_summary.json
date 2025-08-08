@@ -1,0 +1,63 @@
+{
+  "concept_id": "609",
+  "concept_data": {
+    "title": "water table",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "groundwater",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"water table,\" which redirects to \"groundwater,\" is crucial in EU legal and regulatory frameworks concerning the natural environment. Groundwater is essential for maintaining watercourses and is often affected by diffuse discharges of pollutants such as nitrates and phosphates, which can lead to harmful eutrophication. The EU employs rigorous methodologies for the quantification and modeling of groundwater quality, utilizing interlaboratory calibration and scoring systems to assess ecotoxicity and the harmfulness of substances like polyaromatic hydrocarbons (PAHs) and endocrine disruptors. Initiatives like HELCOM and OSPAR promote synchronisation in monitoring efforts, while UNEP guidelines assist in the prioritisation of pollutants posing significant risks. Effective management of groundwater resources requires expeditious actions to address issues like leaching and bioaccumulation, ensuring sustainable abstraction practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:07:53.132100",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 667,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 331,
+      "selected_avg_freq": 150.53333333333333
+    },
+    "related_words": [
+      "diffuse",
+      "commps",
+      "helcom",
+      "dynamec",
+      "ptbs",
+      "disrupters",
+      "synchronisation",
+      "intercalibration",
+      "scoring",
+      "modeled",
+      "abstraction",
+      "polyaromatic",
+      "propachlor",
+      "interlaboratory",
+      "harmfulness",
+      "pahs",
+      "iec",
+      "nitrites",
+      "modelling",
+      "eutrophication",
+      "watercourses",
+      "ospar",
+      "prioritisation",
+      "bioaccumulate",
+      "phosphates",
+      "forwards",
+      "accumulate",
+      "unep",
+      "leaching",
+      "endocrine"
+    ],
+    "prompt_length": 1763,
+    "category": "5211 natural environment"
+  }
+}

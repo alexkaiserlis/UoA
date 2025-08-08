@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7e60137b",
+  "concept_data": {
+    "title": "data management",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": true,
+    "preferred_term": "data governance",
+    "relation_type": "USE"
+  },
+  "summary": "Data management, often redirected to the preferred term \"data governance,\" encompasses the frameworks and practices that ensure the effective handling of data within the European Union's legal and regulatory landscape. It involves the establishment of policies, standards, and procedures that govern data collection, storage, processing, and sharing. In the context of EU regulations, such as the General Data Protection Regulation (GDPR), data governance is crucial for ensuring compliance, safeguarding personal information, and promoting transparency. By implementing robust data management strategies, organizations can enhance data integrity, mitigate risks, and foster trust among stakeholders while adhering to EU legal requirements.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:47.755936",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1228,
+    "category": "3231 information and information processing"
+  }
+}

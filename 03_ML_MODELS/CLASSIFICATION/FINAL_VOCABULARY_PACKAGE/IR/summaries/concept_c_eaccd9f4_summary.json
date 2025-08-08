@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_eaccd9f4",
+  "concept_data": {
+    "title": "data sharing",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Data sharing refers to the practice of exchanging data between entities, which is increasingly regulated within the European Union. It encompasses various frameworks aimed at enhancing transparency, fostering innovation, and ensuring compliance with data protection laws, such as the General Data Protection Regulation (GDPR). The EU promotes data sharing to facilitate cross-border cooperation and economic growth while safeguarding individual privacy rights. Regulatory initiatives, such as the Data Governance Act, aim to establish a structured environment for data sharing, encouraging responsible data use and interoperability among public and private sectors. This concept is pivotal in the EU's digital strategy and single market objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:58:04.384909",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1190,
+    "category": "3231 information and information processing"
+  }
+}

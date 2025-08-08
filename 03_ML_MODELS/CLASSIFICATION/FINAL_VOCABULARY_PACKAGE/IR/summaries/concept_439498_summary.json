@@ -1,0 +1,63 @@
+{
+  "concept_id": "439498",
+  "concept_data": {
+    "title": "Court of Justice (instance)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Court of Justice (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Court of Justice (instance)\" refers to the \"Court of Justice (EU),\" which is the supreme judicial authority within the European Union. It comprises judges appointed by member governments, ensuring a balanced representation from various geographical regions. The court's primary duties include interpreting EU law and ensuring its uniform application across member states. Advocates and lawyers present cases before a panel of judges, who are chosen based on their competence and suitability. The court's functioning is governed by specific terms set forth in legal documents, including appointments and the representation of candidates. It plays a crucial role in upholding justice and legal systems within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:29:00.254969",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 65,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 65,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1735.9846153846154
+    },
+    "related_words": [
+      "advocate",
+      "lawyers",
+      "supreme",
+      "appointments",
+      "judge",
+      "suitability",
+      "courts",
+      "candidates",
+      "appointing",
+      "membership",
+      "comprise",
+      "chosen",
+      "representation",
+      "panel",
+      "president",
+      "perform",
+      "hereafter",
+      "balanced",
+      "seven",
+      "competence",
+      "appointed",
+      "governments",
+      "atomic",
+      "former",
+      "initiative",
+      "justice",
+      "court",
+      "geographical",
+      "recognised",
+      "energy"
+    ],
+    "prompt_length": 1739,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "6261",
+  "concept_data": {
+    "title": "virtual reality",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Virtual reality (VR) refers to a simulated environment created through advanced information technology and data processing techniques, enabling users to interact with 3D spaces in real-time. In the context of EU legal and regulatory frameworks, VR presents unique challenges and opportunities, particularly concerning data protection, intellectual property rights, and consumer safety. The EU's General Data Protection Regulation (GDPR) may apply to VR applications, especially regarding the processing of personal data within immersive environments. Additionally, the European Commission is exploring regulatory measures to ensure that VR technologies are developed and deployed in a manner that upholds fundamental rights and fosters innovation.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:28:21.729085",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1197,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4224",
+  "concept_data": {
+    "title": "by-product",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"by-product\" refers to materials derived from industrial processes that are not the primary product but can be utilized, such as tallow or fishmeal. By-products can be subjected to processes like composting, fermentation, or hydrolysis to create valuable resources, including biodiesel or biogas. Regulations demarcate the handling of by-products to prevent ecotoxicity and ensure safety, particularly concerning pathogens in animal by-products like manure or sludge. Proper management practices, including stockpiling and incineration, are essential to conserve habitat and mitigate unintended consequences. By-products may also serve as fertilisers or feed for ruminants, enhancing pastureland productivity.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:47:45.752313",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 718,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 337,
+      "selected_avg_freq": 154.78
+    },
+    "related_words": [
+      "oleochemical",
+      "veterinerian",
+      "mesophilic",
+      "burial",
+      "necrophagous",
+      "compost",
+      "ploče",
+      "sela",
+      "transmitters",
+      "incinerate",
+      "boiler",
+      "pastureland",
+      "dispersal",
+      "hydrolysis",
+      "composting",
+      "tallow",
+      "sludge",
+      "demarcates",
+      "digestion",
+      "improvers",
+      "hay",
+      "fishmeal",
+      "alkaline",
+      "channelling",
+      "serum",
+      "unintended",
+      "habitat",
+      "nova",
+      "biogas",
+      "websites"
+    ],
+    "prompt_length": 1695,
+    "category": "6806 industrial structures and policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5956",
+  "concept_data": {
+    "title": "traveller",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"traveller\" within EU legal and regulatory frameworks encompasses various aspects of social affairs, particularly concerning the rights and protections afforded to passengers. This includes the regulation of screening processes, where intrusive searches may involve the use of scanners and imaging technologies to ensure safety. The EU prioritizes the dignity and liberty of travellers, including those with disabilities who may require specific accommodations, such as prosthesis or casts. Regulatory measures also address the timely processing of passenger name records (PNR) and the management of deliverables related to security protocols. In an era marked by heightened security concerns, the EU seeks to balance safety with the rights of individuals, ensuring that all systems, including telematics and subsystems, operate efficiently while respecting personal freedoms.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:20:36.441782",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 740,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 275,
+      "selected_avg_freq": 119.07333333333334
+    },
+    "related_words": [
+      "hhmd",
+      "headgear",
+      "prosthesis",
+      "intrusive",
+      "screened",
+      "passangers",
+      "guadalajara",
+      "overdue",
+      "wounding",
+      "bodily",
+      "exonerated",
+      "reviewer",
+      "tap",
+      "etd",
+      "scanners",
+      "casts",
+      "plaster",
+      "pnr",
+      "guides",
+      "searches",
+      "subsystems",
+      "posters",
+      "homeland",
+      "liberty",
+      "religion",
+      "rec",
+      "timescale",
+      "deliverables",
+      "scenihr",
+      "contributory"
+    ],
+    "prompt_length": 1641,
+    "category": "2826 social affairs"
+  }
+}

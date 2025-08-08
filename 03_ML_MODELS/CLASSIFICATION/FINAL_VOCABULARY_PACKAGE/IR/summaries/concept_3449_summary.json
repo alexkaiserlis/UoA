@@ -1,0 +1,63 @@
+{
+  "concept_id": "3449",
+  "concept_data": {
+    "title": "foreign-exchange reserves",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Foreign-exchange reserves refer to the assets held by national central banks (NCBs) in various currencies, including dollars, euros, and yen, to facilitate monetary stability and international trade. In the context of the EU, these reserves are crucial for maintaining the stability of the euro and ensuring fairness in the monetary system. The European System of Central Banks (ESCB) oversees the management and replenishment of these reserves, which may include gold and Special Drawing Rights (SDRs). NCBs collaborate to manage the weightings and ratios of their reserves, ensuring that they are appropriately credited and replenished. The abrogation of outdated policies may induce a more efficient allocation of resources, while subscriptions to foreign-exchange reserves are essential for maintaining liquidity.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:20:24.126648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 481,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 570,
+      "selected_avg_freq": 264.55333333333334
+    },
+    "related_words": [
+      "delocation",
+      "disintermediation",
+      "transfered",
+      "naţională",
+      "româniei",
+      "sdrs",
+      "subscribers",
+      "slovenije",
+      "yen",
+      "replenish",
+      "governor",
+      "subscriptions",
+      "appropriated",
+      "banka",
+      "collaborate",
+      "replenishment",
+      "dollars",
+      "inducing",
+      "banca",
+      "votes",
+      "attended",
+      "credited",
+      "depleted",
+      "deem",
+      "dollar",
+      "ncb",
+      "subscription",
+      "ratios",
+      "attend",
+      "counterparties"
+    ],
+    "prompt_length": 1685,
+    "category": "2406 monetary relations"
+  }
+}

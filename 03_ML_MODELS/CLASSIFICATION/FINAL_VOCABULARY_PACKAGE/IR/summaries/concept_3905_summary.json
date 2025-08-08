@@ -1,0 +1,63 @@
+{
+  "concept_id": "3905",
+  "concept_data": {
+    "title": "satellite",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"satellite\" within EU legal and regulatory frameworks encompasses various applications, including navigation, geodetic studies, and communication. Satellites, such as those deployed under the Galileo and EGNOS programs, facilitate precise localisation and tracking of signals across the globe. The European Space Agency (ESA), particularly through its ESTEC facility in Noordwijk, oversees satellite development and deployment, ensuring compliance with international treaties like the UNSCR and addressing implications related to proliferation of weapons. The regulatory landscape also involves consensus among member states, with oversight from entities managing satellite operations, enhancing the EU's strategic capabilities in air and space transport.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:55.808818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 517,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 600,
+      "selected_avg_freq": 294.94
+    },
+    "related_words": [
+      "gsmc",
+      "geodetic",
+      "grc",
+      "estec",
+      "noordwijk",
+      "gss",
+      "embassy",
+      "fmcs",
+      "gsc",
+      "evaluates",
+      "pseudo",
+      "gmes",
+      "satellites",
+      "egnos",
+      "dec",
+      "globe",
+      "opcw",
+      "fmc",
+      "communicates",
+      "galileo",
+      "gnss",
+      "implication",
+      "localisation",
+      "studying",
+      "install",
+      "northwest",
+      "nafo",
+      "tracking",
+      "tokyo",
+      "chaired"
+    ],
+    "prompt_length": 1621,
+    "category": "4826 air and space transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1667",
+  "concept_data": {
+    "title": "flax",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Flax, scientifically known as *Linum usitatissimum*, is a significant plant product within EU regulations, particularly in agricultural and trade contexts. The cultivation of flax involves processes such as scutching and retted techniques to separate fibers from shives. Flaxseed, a valuable commodity, is often valorized for its health benefits, including its omega-3 fatty acids. The EU regulatory framework mandates specific requirements for flax cultivation, including the deseeding process to ensure compliance with standards. Additionally, the interplay with other crops, such as hemp and peas (Pisum sativum), can provoke discussions on crop rotation and sustainability. Merchants must navigate these regulations to avoid disqualified products, particularly those containing tetrahydrocannabinol (THC) levels that exceed legal limits. The adaptation of flax in various markets, including textiles and food, showcases its versatility, while the concomitant challenges of pests, such as silkworms, necessitate careful management strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:44.263932",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 139,
+    "vocabulary_stats": {
+      "total_related_words": 1306,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 164,
+      "selected_avg_freq": 76.66666666666667
+    },
+    "related_words": [
+      "scutching",
+      "fedora",
+      "valorize",
+      "opengrown",
+      "flaxseed",
+      "fasamo",
+      "juso",
+      "requiremens",
+      "deseeding",
+      "imblance",
+      "bialobrzeskie",
+      "hamp",
+      "worms",
+      "helmi",
+      "retted",
+      "deseeded",
+      "stuctures",
+      "disqualified",
+      "cannabis",
+      "chlorophyll",
+      "cutter",
+      "linum",
+      "usitatissimum",
+      "shives",
+      "pulling",
+      "intoxicating",
+      "forgo",
+      "thc",
+      "pisum",
+      "leguminosae"
+    ],
+    "prompt_length": 1652,
+    "category": "6006 plant product"
+  }
+}

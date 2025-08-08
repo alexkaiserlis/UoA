@@ -1,0 +1,63 @@
+{
+  "concept_id": "4279",
+  "concept_data": {
+    "title": "tax incentive",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"tax incentive\" in the EU context refers to regulatory measures designed to propel economic activity by lowering the tax burden on specific sectors or activities. These incentives often encompass stipulations that aim to harmonize taxation across member states, thereby enhancing durability and successively promoting investments. For instance, tax incentives may be employed to encourage the adoption of cleaner technologies, such as diesel engines that emit lower nitrogen oxides and particulate pollutants. By evaluating the impact of these incentives, policymakers can quantify their effectiveness in reducing atmospheric gases and driving urban development while ensuring compliance with stringent environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:04.390006",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 367,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 925,
+      "selected_avg_freq": 400.56
+    },
+    "related_words": [
+      "epefe",
+      "propel",
+      "cm³",
+      "amalgamating",
+      "multidirectional",
+      "thevehicles",
+      "perfecting",
+      "evaporative",
+      "unburnt",
+      "stringency",
+      "amalgamated",
+      "hydrocarbon",
+      "speeded",
+      "stipulations",
+      "monoxide",
+      "occupants",
+      "embracing",
+      "expedite",
+      "pollutant",
+      "successively",
+      "durability",
+      "quantified",
+      "particulate",
+      "oxides",
+      "emitted",
+      "exhaust",
+      "gaseous",
+      "tolerances",
+      "lowered",
+      "deals"
+    ],
+    "prompt_length": 1679,
+    "category": "2446 taxation"
+  }
+}

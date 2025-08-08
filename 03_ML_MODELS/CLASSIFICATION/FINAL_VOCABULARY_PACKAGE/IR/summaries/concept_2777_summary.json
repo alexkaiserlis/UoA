@@ -1,0 +1,63 @@
+{
+  "concept_id": "2777",
+  "concept_data": {
+    "title": "refrigerated product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"refrigerated product\" within EU legal and regulatory frameworks pertains to foodstuffs that require specific temperature controls for safe commercialization. This includes various culinary items such as slachtlammeren and lammfleisch, which are often sourced from smaller slachterijen in regions like Bodegraven and Nieuwekerk. The regulation dictates that these products, including seafood like monkfish and herrings, must be authenticated to ensure quality and safety. Compliance with these standards is critical for the victualling industry, particularly in Scandinavian markets. The categorization of refrigerated products also encompasses subcategories, ensuring a uniform approach to food safety across member states, including areas like Harlingen and Waterford.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:14:32.577643",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1053,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 200,
+      "selected_avg_freq": 70.79333333333334
+    },
+    "related_words": [
+      "crangan",
+      "custailing",
+      "boucherie",
+      "slachtlammeren",
+      "nenagh",
+      "camolin",
+      "camolins",
+      "harlingen",
+      "sluis",
+      "bodegraven",
+      "nieuwekerk",
+      "ijssel",
+      "kleinere",
+      "slachterijen",
+      "ciney",
+      "noci",
+      "forli",
+      "mastlammfleisch",
+      "lammfleisch",
+      "unfirom",
+      "opended",
+      "squalus",
+      "acanthias",
+      "scyliorhinus",
+      "anderlecht",
+      "hoorn",
+      "councouncil",
+      "agneaux",
+      "siderable",
+      "grosseto"
+    ],
+    "prompt_length": 1698,
+    "category": "6026 foodstuff"
+  }
+}

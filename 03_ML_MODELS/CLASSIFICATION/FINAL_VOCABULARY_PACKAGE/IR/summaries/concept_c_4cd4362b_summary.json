@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_4cd4362b",
+  "concept_data": {
+    "title": "adequacy decision (EU)",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An adequacy decision (EU) is a legal instrument issued by the European Commission that determines whether a non-EU country provides an adequate level of data protection comparable to that of the European Union. This decision is pivotal in facilitating the transfer of personal data from the EU to third countries, ensuring compliance with the General Data Protection Regulation (GDPR). The adequacy assessment evaluates various factors, including the legal framework, enforcement mechanisms, and respect for fundamental rights in the third country. An affirmative adequacy decision enables smoother information processing and enhances the protection of individuals' data privacy rights within the EU regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:35:59.424952",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "3231 information and information processing"
+  }
+}

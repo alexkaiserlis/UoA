@@ -1,0 +1,63 @@
+{
+  "concept_id": "2248",
+  "concept_data": {
+    "title": "Member of the European Parliament",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"Member of the European Parliament\" (MEP) is an elected representative within the framework of the European Union, holding a significant role in the legislative process. MEPs are elected through universal suffrage, directly representing citizens of the EU. Their election occurs every five years, with the most recent elections held in June and July. The European Parliament, established under the EEC Treaty, plays a crucial role in decision-making concerning various acts and policies, including those related to the ECSC and EURATOM. MEPs contribute to fixing legislative priorities and opinions, ensuring that the interests of communities are addressed within the Council's decisions.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:40:45.450115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 30,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 30,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2032.8333333333333
+    },
+    "related_words": [
+      "suffrage",
+      "election",
+      "proves",
+      "universal",
+      "hold",
+      "impossible",
+      "ecsc",
+      "representatives",
+      "fixing",
+      "euratom",
+      "another",
+      "direct",
+      "corresponding",
+      "fixed",
+      "subparagraph",
+      "act",
+      "third",
+      "september",
+      "period",
+      "set",
+      "concerning",
+      "parliament",
+      "july",
+      "eec",
+      "june",
+      "opinion",
+      "communities",
+      "decision",
+      "council",
+      "european"
+    ],
+    "prompt_length": 1497,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2756",
+  "concept_data": {
+    "title": "bulk product",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"bulk product\" refers to goods transported in large quantities without packaging, often in tankers or receptacles. These products can include various substances, such as cyclohexanol or butanediol, and may require specific handling due to their properties. Regulatory frameworks, such as the Codex Alimentarius, ensure the wholesomeness and acceptability of bulk products, particularly perishable items like watermelons and melons. The loading and unloading processes must adhere to strict guidelines to prevent contamination. Additionally, the dilution of certain chemicals, like oleate and stearate, necessitates careful monitoring to maintain safety and compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:44:19.705506",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 471,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 614,
+      "selected_avg_freq": 220.02
+    },
+    "related_words": [
+      "cleansible",
+      "charentais",
+      "cyclohexanol",
+      "butanediol",
+      "nonane",
+      "laurate",
+      "polyphosphate",
+      "tetramer",
+      "nonanol",
+      "octanol",
+      "montan",
+      "oleate",
+      "butanol",
+      "decanol",
+      "stearate",
+      "receptacles",
+      "palmitate",
+      "granulate",
+      "propyl",
+      "wax",
+      "propylene",
+      "watermelons",
+      "anhydride",
+      "seagoing",
+      "melon",
+      "cargoes",
+      "wholesomeness",
+      "silicate",
+      "dilution",
+      "loose"
+    ],
+    "prompt_length": 1669,
+    "category": "2031 marketing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2601",
+  "concept_data": {
+    "title": "widow's pension",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "survivor's benefit",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"widow's pension,\" redirected to \"survivor's benefit,\" pertains to social protection regulations within the EU framework. This benefit is designed to provide financial support to surviving spouses, ensuring subsistence after the loss of a partner. The European Communities' regulations establish rules for determining eligibility and rates, often amending provisions to reflect economic changes. Advocates for social justice emphasize the importance of these allowances in promoting equity among members. The Commission and Council play pivotal roles in introducing and fixing the legal framework, which may include weightings based on various factors, such as the economic context of specific communities, including those related to coal, steel, and energy sectors.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:24:21.335768",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 51,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 51,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1641.2941176470588
+    },
+    "related_words": [
+      "orphans",
+      "registrar",
+      "advocates",
+      "par",
+      "emoluments",
+      "judges",
+      "subsistence",
+      "weightings",
+      "pensions",
+      "auditors",
+      "allowance",
+      "president",
+      "daily",
+      "mission",
+      "coal",
+      "currency",
+      "steel",
+      "atomic",
+      "values",
+      "ecsc",
+      "justice",
+      "fix",
+      "court",
+      "bring",
+      "introduce",
+      "energy",
+      "euratom",
+      "determining",
+      "members",
+      "rate"
+    ],
+    "prompt_length": 1675,
+    "category": "2836 social protection"
+  }
+}

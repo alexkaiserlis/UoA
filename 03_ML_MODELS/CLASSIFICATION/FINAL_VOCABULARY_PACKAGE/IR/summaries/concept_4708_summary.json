@@ -1,0 +1,63 @@
+{
+  "concept_id": "4708",
+  "concept_data": {
+    "title": "winegrowing area",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "vineyard",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"winegrowing area,\" which redirects to the preferred term \"vineyard,\" refers to designated regions for the cultivation of grapevines. These areas are critical for the production of various wine varieties, including those vinified from clones such as muscat and sultana. Regulatory frameworks often address issues of tenure, marketability, and the phenological development of grapevines, ensuring that practices like grafting and deacidifying are compliant. Misrepresentation of grape origins or varietals can lead to significant legal repercussions. The concept encompasses diverse aspects, including the management of rootstocks, slips, and the impact of environmental factors like flavescence dorée on grape quality.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:27:54.645223",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1610,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 52,
+      "selected_avg_freq": 21.073333333333334
+    },
+    "related_words": [
+      "ommissions",
+      "colonal",
+      "courbu",
+      "hambourg",
+      "binova",
+      "satisfactoy",
+      "tenure",
+      "desision",
+      "privided",
+      "egialia",
+      "akhaia",
+      "slpes",
+      "scions",
+      "grafted",
+      "malo",
+      "currant",
+      "phenological",
+      "ares",
+      "misrepresentation",
+      "stremme",
+      "deacidifying",
+      "crianza",
+      "reserva",
+      "lest",
+      "hiatus",
+      "iwo",
+      "nomos",
+      "rheinhessen",
+      "petit",
+      "marketability"
+    ],
+    "prompt_length": 1702,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

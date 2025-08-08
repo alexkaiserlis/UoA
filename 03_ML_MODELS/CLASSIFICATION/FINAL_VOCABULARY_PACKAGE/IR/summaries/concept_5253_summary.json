@@ -1,0 +1,63 @@
+{
+  "concept_id": "5253",
+  "concept_data": {
+    "title": "by-catch",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "By-catch refers to the incidental capture of non-target species, such as cetaceans, during fishing activities like trawling or seine fishing. In the EU regulatory framework, by-catches are a significant concern, as they can lead to the discarding of valuable species, including haddock, whiting, and horsemackerel, and may contribute to population crashes of vulnerable species like dolphins and sandeel. The overarching rationale for managing by-catch involves maximising the abundance of target species while minimising the incidental capture of non-target species. Regulations aim to utilise acoustic methods and establish baselines to monitor by-catch rates, ensuring sustainable fisheries practices across various maritime zones, including Kattegat and Shetland.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:47:35.076137",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 617,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 337,
+      "selected_avg_freq": 123.36
+    },
+    "related_words": [
+      "cuttlefish",
+      "bycatches",
+      "horsemackerel",
+      "crashes",
+      "underlies",
+      "nullified",
+      "foula",
+      "rway",
+      "cetacean",
+      "meshed",
+      "dolphins",
+      "mismatch",
+      "drowning",
+      "cetaceans",
+      "viiie",
+      "mile",
+      "ivb",
+      "iotc",
+      "bass",
+      "viiib",
+      "viie",
+      "sandeel",
+      "shetland",
+      "trawling",
+      "baselines",
+      "nephrops",
+      "pair",
+      "overarching",
+      "centimetre",
+      "discarding"
+    ],
+    "prompt_length": 1631,
+    "category": "5641 fisheries"
+  }
+}

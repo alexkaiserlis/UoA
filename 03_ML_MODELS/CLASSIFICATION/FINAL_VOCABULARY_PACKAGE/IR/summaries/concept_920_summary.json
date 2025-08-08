@@ -1,0 +1,63 @@
+{
+  "concept_id": "920",
+  "concept_data": {
+    "title": "offal",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"offal\" refers to the internal organs and entrails of animals, which include spleens, tongues, and brains. The valorisation of offals is crucial for reducing waste and enhancing food security, as they can be processed into products like biltong and jerky. Regulations forbid the use of certain offals, such as those from animals affected by encephalopathies like Creutzfeldt-Jakob disease, due to infectivity concerns. The proper handling of offals, including scalding and skinning, is essential to ensure food safety. Additionally, offals may be utilized in various culinary traditions, such as alentejano cuisine, highlighting their cultural significance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:45.713455",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 868,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 193,
+      "selected_avg_freq": 81.68666666666667
+    },
+    "related_words": [
+      "spleens",
+      "distal",
+      "ileum",
+      "reivew",
+      "frustrated",
+      "epithelium",
+      "scalded",
+      "depilated",
+      "scalding",
+      "depilating",
+      "valorised",
+      "spleen",
+      "aรงores",
+      "nordeste",
+      "pachino",
+      "tavola",
+      "mazzarrone",
+      "uva",
+      "tonsils",
+      "tongues",
+      "rennet",
+      "encephalon",
+      "cords",
+      "pomodoro",
+      "encephalophathies",
+      "thymus",
+      "stained",
+      "brains",
+      "alentejano",
+      "porco"
+    ],
+    "prompt_length": 1622,
+    "category": "6011 animal product"
+  }
+}

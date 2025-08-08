@@ -1,0 +1,63 @@
+{
+  "concept_id": "1789",
+  "concept_data": {
+    "title": "agricultural market of the European Union",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "EU agricultural market",
+    "relation_type": "USE"
+  },
+  "summary": "The \"EU agricultural market\" encompasses the regulatory framework governing agricultural production and trade within the European Union. This market is designed to assimilate diverse agricultural practices, ensuring objectiveness in the allocation of resources and addressing surplus issues. Regulations constrain practices that disrupt market stability, while promoting healthy competition among member states. Specific regions, such as Brugge and Bielefeld, exemplify local adaptations of EU policies. The market also considers unique products, including gizzards and hams, while addressing the needs of various genogroups. Overall, the EU agricultural market aims to balance economic viability with environmental sustainability, fostering a robust agricultural sector across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:12.847019",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1374,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 90,
+      "selected_avg_freq": 36.2
+    },
+    "related_words": [
+      "brugge",
+      "bielefeld",
+      "măźnster",
+      "plucked",
+      "hearts",
+      "gizzards",
+      "bled",
+      "disrupts",
+      "constrain",
+      "toallow",
+      "suplus",
+      "ofregulation",
+      "gweendore",
+      "ballinakill",
+      "dăźsseldorf",
+      "vesijärvi",
+      "drumcliff",
+      "shannon",
+      "oysterhaven",
+      "hams",
+      "unhealthy",
+      "eafg",
+      "pancreas",
+      "genogroups",
+      "genogroup",
+      "dunmanus",
+      "kinsale",
+      "ballylongford",
+      "dundrum",
+      "killough"
+    ],
+    "prompt_length": 1735,
+    "category": "5606 agricultural policy"
+  }
+}

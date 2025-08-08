@@ -1,0 +1,63 @@
+{
+  "concept_id": "637",
+  "concept_data": {
+    "title": "economy",
+    "category_code": "1621",
+    "category_name": "economic structure",
+    "category_full": "1621 economic structure",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economy\" within EU legal and regulatory frameworks encompasses the overall structure and activity of wealth generation and distribution across member states. It aims to stimulate productivity and enhance economic performance through policies that address fundamental concerns, such as technological advancement and research development. Organizations and researchers are consulted to formulate strategies that contribute to the economy's growth, widening its potential. The EU's economic policies, recognized for their advantageous nature, involve a comprehensive plan that strengthens the interchange of ideas and resources. This holistic approach ensures that the economy itself is better equipped to meet the challenges of a dynamic global landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:35:49.382494",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1732.9724770642201
+    },
+    "related_words": [
+      "spes",
+      "wealth",
+      "stimulation",
+      "crest",
+      "researchers",
+      "scientists",
+      "sciences",
+      "enhancement",
+      "interchange",
+      "widen",
+      "stimulating",
+      "advantageous",
+      "formulation",
+      "science",
+      "addresses",
+      "stimulate",
+      "exact",
+      "gap",
+      "productivity",
+      "amongst",
+      "contributing",
+      "recognized",
+      "strengthening",
+      "technological",
+      "fundamental",
+      "organizations",
+      "involve",
+      "generally",
+      "priority",
+      "economy"
+    ],
+    "prompt_length": 1685,
+    "category": "1621 economic structure"
+  }
+}

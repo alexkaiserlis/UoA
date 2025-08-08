@@ -1,0 +1,63 @@
+{
+  "concept_id": "754",
+  "concept_data": {
+    "title": "renewable energy source",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": true,
+    "preferred_term": "renewable energy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"renewable energy source,\" redirected to \"renewable energy,\" encompasses various sustainable energy modalities, including solar, wind, geothermal, and hydroelectric systems. In EU legal and regulatory frameworks, these sources are crucial for furthering climate objectives, such as those outlined in the Kyoto Protocol. The monetisation of renewable energy is facilitated through mechanisms like feed-in tariffs and carbon capture and storage (CCS) initiatives. The EU promotes the use of biofuels and biomass, while also encouraging the redesign of municipal infrastructures to enhance energy efficiency. By integrating functionalities like intermodal transport and ecodesign principles, the EU aims to stabilise energy markets and reduce the discernible impact of polluters. The thematic focus on reproducible energy sources drives innovation in technologies such as photovoltaic cells and wave energy converters, ensuring a sustainable energy future.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:36:54.703834",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 804,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 309,
+      "selected_avg_freq": 145.41333333333333
+    },
+    "related_words": [
+      "monetisation",
+      "geothermal",
+      "fans",
+      "regrets",
+      "firewood",
+      "discernible",
+      "hydroelectric",
+      "ccs",
+      "devotes",
+      "altener",
+      "drives",
+      "disassembly",
+      "commissioning",
+      "ipcc",
+      "backwardness",
+      "intermodal",
+      "linkage",
+      "twh",
+      "reproducible",
+      "photovoltaic",
+      "sar",
+      "furthering",
+      "wave",
+      "redesign",
+      "res",
+      "geological",
+      "polluter",
+      "solar",
+      "municipal",
+      "ecodesign"
+    ],
+    "prompt_length": 1711,
+    "category": "6626 soft energy"
+  }
+}

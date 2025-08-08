@@ -1,0 +1,63 @@
+{
+  "concept_id": "1775",
+  "concept_data": {
+    "title": "marine mammal",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"marine mammal\" encompasses various cetaceans, such as whales and dolphins, as well as seals and their pups, which are integral to the natural environment. EU legal frameworks aim to conserve these species, addressing issues like entanglement in nets and incidental mortalities during fishing activities. Regulations emphasize responsible hunting practices, particularly among indigenous groups like the Inuits, who traditionally hunt species such as harp and hooded seals. The overarching goal is to prevent depletion of marine mammal populations while allowing for sustainable use, ensuring that these mammals, including whitecoats and their prey, remain unharmed and thrive in their habitats.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:58:38.644919",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 477,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 580,
+      "selected_avg_freq": 224.44666666666666
+    },
+    "related_words": [
+      "whitecoats",
+      "prey",
+      "whitecoat",
+      "unharmed",
+      "whales",
+      "inuits",
+      "aroused",
+      "whale",
+      "backs",
+      "dispensable",
+      "inuit",
+      "dolphin",
+      "barents",
+      "pups",
+      "harp",
+      "hooded",
+      "entanglement",
+      "cetacean",
+      "responsibly",
+      "dolphins",
+      "conversation",
+      "hunt",
+      "cetaceans",
+      "withstand",
+      "sine",
+      "mortalities",
+      "iattc",
+      "seals",
+      "overarching",
+      "straddling"
+    ],
+    "prompt_length": 1647,
+    "category": "5211 natural environment"
+  }
+}

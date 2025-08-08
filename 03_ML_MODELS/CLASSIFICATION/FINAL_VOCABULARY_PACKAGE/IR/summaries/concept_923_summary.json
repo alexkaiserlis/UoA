@@ -1,0 +1,63 @@
+{
+  "concept_id": "923",
+  "concept_data": {
+    "title": "technology assessment",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Technology assessment (TA) in the EU context refers to a systematic evaluation of the properties, impacts, and implications of emerging technologies. It encompasses a range of substances, including cyclohexanol, butanediol, and nonane, assessing their toxicological profiles and potential genotoxic effects. TA informs regulatory frameworks by evaluating the safety of chemical cargoes, such as fatty acids and esters, and their residues in various applications. This process includes the reassessment of existing regulations concerning substances like propylene and ammonium, ensuring adequate safety measures are in place. By clarifying the risks associated with these technologies, TA supports informed decision-making in the formulation of technical regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:02:42.255162",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 151,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4090,
+      "selected_avg_freq": 1363.92
+    },
+    "related_words": [
+      "cyclohexanol",
+      "butanediol",
+      "nonane",
+      "laurate",
+      "polyphosphate",
+      "tetramer",
+      "nonanol",
+      "octanol",
+      "montan",
+      "oleate",
+      "butanol",
+      "decanol",
+      "stearate",
+      "palmitate",
+      "propyl",
+      "wax",
+      "propylene",
+      "anhydride",
+      "cargoes",
+      "silicate",
+      "dilution",
+      "paraffin",
+      "acetic",
+      "tank",
+      "genotoxic",
+      "plenary",
+      "acids",
+      "esters",
+      "reassessed",
+      "fatty"
+    ],
+    "prompt_length": 1673,
+    "category": "6411 technology and technical regulations"
+  }
+}

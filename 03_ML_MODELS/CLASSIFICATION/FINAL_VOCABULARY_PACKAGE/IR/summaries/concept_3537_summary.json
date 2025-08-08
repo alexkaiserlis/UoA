@@ -1,0 +1,63 @@
+{
+  "concept_id": "3537",
+  "concept_data": {
+    "title": "employment statistics",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Employment statistics are crucial in the EU's labour market framework, facilitating the analysis of vacancies, recruitment, and unemployment trends. These statistics are periodically disseminated to align with the EU's flagship initiatives, such as the Laeken indicators, which emphasize the importance of investing in youth and addressing the ageing workforce. By filtering data on salaries and household variables, policymakers can better understand the potentiality of various domains. The outcomes of these statistics encourage employers to rethink their hiring attitudes, particularly towards migrants. Nationally, these guidelines promote transparency and privacy, ensuring that respondents' data is handled responsibly while maximising the effectiveness of employment strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:45:47.382566",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 488,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 637,
+      "selected_avg_freq": 291.1
+    },
+    "related_words": [
+      "rethinking",
+      "potentiality",
+      "vacancies",
+      "advertised",
+      "descendants",
+      "vacancy",
+      "recruit",
+      "salary",
+      "laeken",
+      "filters",
+      "attitudes",
+      "migrants",
+      "periodicity",
+      "flagship",
+      "lump",
+      "looking",
+      "headline",
+      "online",
+      "maximise",
+      "investing",
+      "domains",
+      "outcomes",
+      "preferably",
+      "conferral",
+      "unemployed",
+      "respondents",
+      "youth",
+      "privacy",
+      "aligning",
+      "disseminated"
+    ],
+    "prompt_length": 1685,
+    "category": "4411 labour market"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3777",
+  "concept_data": {
+    "title": "lead-free petrol",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Lead-free petrol,\" categorized under the oil industry, represents a significant regulatory advancement within the EU aimed at reducing environmental and health hazards associated with leaded fuels. The devolution of fuel standards has led to the gradual differentiation of petrol grades, with unleaded variants becoming predominant. This transition, which preceded broader reforms in the energy sector, aims to mitigate damaging emissions and enhance resistance to pollutants. The practicalities of implementing lead-free petrol involve considerations of excise duties and allowable additives, ensuring compliance with environmental regulations. As a result, the socio-economic impacts, including unemployment in disadvantaged regions, are carefully contemplated to achieve a seamless transition towards cleaner alternatives.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:28:42.279245",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 425,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 366.7866666666667
+    },
+    "related_words": [
+      "detours",
+      "forecourt",
+      "practicalities",
+      "corsican",
+      "devolution",
+      "precede",
+      "seamlessly",
+      "hindrance",
+      "burn",
+      "valve",
+      "unleaded",
+      "decentralisation",
+      "lpg",
+      "thereunder",
+      "domains",
+      "hectolitre",
+      "insular",
+      "moderate",
+      "potassium",
+      "corsica",
+      "tendency",
+      "indefinite",
+      "tight",
+      "footing",
+      "diesel",
+      "litres",
+      "litre",
+      "petrol",
+      "fashion",
+      "allowable"
+    ],
+    "prompt_length": 1700,
+    "category": "6616 oil industry"
+  }
+}

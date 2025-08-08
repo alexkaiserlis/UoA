@@ -1,0 +1,63 @@
+{
+  "concept_id": "2409",
+  "concept_data": {
+    "title": "seedling",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, the concept of \"seedling\" pertains to the category of means of agricultural production, encompassing a diverse range of cultivars such as alban and sieglinde. Seedlings, including varieties like rotklee and wintergerste, are essential for sustainable agriculture across various strefy, including regions like Flandria and the Niederrheinischer. Regulations ensure the quality and traceability of seedlings, which may include rare species like violettsamiger and local adaptations such as ostsaat. The legal framework supports the cultivation of robust seedlings, fostering biodiversity and resilience in agriculture, as seen in practices from regions like Hohenheimer and Oberhaunstädter. Compliance with these regulations guarantees the integrity of agricultural production, promoting varieties like Timo and Delphin, while also addressing environmental concerns through initiatives like the Charta.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:57.236241",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 1401,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 13,
+      "selected_avg_freq": 6.0
+    },
+    "related_words": [
+      "alban",
+      "entrar",
+      "sieglinde",
+      "strefy",
+      "zamkniete",
+      "voiedvodship",
+      "lomza",
+      "compas",
+      "timo",
+      "purple",
+      "isella",
+      "longevo",
+      "weiristenta",
+      "altfranken",
+      "steinbach",
+      "charta",
+      "flamande",
+      "flandria",
+      "heges",
+      "hohenheimer",
+      "mekra",
+      "niederrheinischer",
+      "rotklee",
+      "remy",
+      "oberhaunstädter",
+      "violettsamiger",
+      "odenwalder",
+      "ostsaat",
+      "traun",
+      "titus"
+    ],
+    "prompt_length": 1664,
+    "category": "5626 means of agricultural production"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1004",
+  "concept_data": {
+    "title": "welfare",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"welfare\" within the EU legal framework encompasses a range of social protection measures aimed at ensuring the well-being of persons. It involves the provision of assistance and aid through various institutions and agencies that are enabled to intervene in cases of need. Welfare policies are designed to correct errors in social equity and justify the distribution of resources, such as finance for food products like milk, beef, and veal. The EU continuously examines and verifies the results of these interventions, adapting them to meet the needs of consumers. Reports on welfare outcomes are presented to justify actions taken, ensuring compliance with established standards and reducing surplus issues.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:31:40.233212",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 64,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 64,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1877.8775510204082
+    },
+    "related_words": [
+      "consume",
+      "repetition",
+      "disposing",
+      "renewing",
+      "butter",
+      "expiring",
+      "enabled",
+      "errors",
+      "surplus",
+      "welfare",
+      "veal",
+      "correcting",
+      "receiving",
+      "beef",
+      "proved",
+      "authorizing",
+      "corrected",
+      "greek",
+      "milk",
+      "finance",
+      "agencies",
+      "justify",
+      "sale",
+      "examine",
+      "intervention",
+      "verification",
+      "consumers",
+      "eur",
+      "category",
+      "previous"
+    ],
+    "prompt_length": 1645,
+    "category": "2836 social protection"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3605",
+  "concept_data": {
+    "title": "agricultural performance",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"agricultural performance\" within EU legal and regulatory frameworks pertains to the systematic evaluation of farming systems, focusing on the uniformity and efficiency of agricultural outputs. It encompasses the declaration of harvested quantities, including fruits and vegetables, and the execution of planned marketing strategies. Surveys and statistics are utilized to assess the appropriations and expenditures related to agricultural holdings. The performance is defined by the ability of producers to satisfy market demands while ensuring proper balance and organization of resources. This concept is crucial for restructuring initiatives aimed at enhancing the sustainability and productivity of the agricultural sector across member states, including Greece.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:51.305654",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 132,
+      "requested_words": 150,
+      "min_frequency_found": 61,
+      "max_frequency_found": 4108,
+      "selected_words": 132,
+      "selected_min_freq": 61,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1853.969696969697
+    },
+    "related_words": [
+      "availabilities",
+      "organizing",
+      "uniformity",
+      "declare",
+      "citrus",
+      "scheduled",
+      "comprise",
+      "surveys",
+      "harvested",
+      "harvest",
+      "timetable",
+      "attain",
+      "appropriations",
+      "holdings",
+      "vegetables",
+      "execution",
+      "acquired",
+      "declarations",
+      "defining",
+      "restructuring",
+      "fruit",
+      "preceding",
+      "greek",
+      "producing",
+      "temporarily",
+      "planned",
+      "statistics",
+      "supplemented",
+      "once",
+      "gained"
+    ],
+    "prompt_length": 1708,
+    "category": "5616 farming systems"
+  }
+}

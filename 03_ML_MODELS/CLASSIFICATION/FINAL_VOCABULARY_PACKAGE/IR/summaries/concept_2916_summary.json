@@ -1,0 +1,63 @@
+{
+  "concept_id": "2916",
+  "concept_data": {
+    "title": "technological research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "applied research",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"technological research,\" redirected to \"applied research,\" encompasses a broad spectrum of activities aimed at validating and experimenting with innovative solutions. In the EU regulatory context, applied research plays a pivotal role in sectors such as biotechnology and environmental science. It is essential for generating synergy among academic institutions, industry stakeholders, and regulatory bodies. Initiatives often involve mapping particulates in atmospheric studies, assisting in the rationalisation of policies, and pinpointing nuisance factors affecting public health. The EU's commitment to boosting research and development (RTD) is evident in centralized efforts that facilitate the dissemination of findings, ensuring that advancements are usefully transferred to various fleets of industries, thereby reinforcing the countryside's economic viability. As these projects are underway, they inevitably prompt debate among counsellors and stakeholders regarding their implications and potential benefits.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:06:25.546804",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 707,
+      "selected_avg_freq": 308.3333333333333
+    },
+    "related_words": [
+      "experimenting",
+      "dissiminate",
+      "esta",
+      "validating",
+      "scfi",
+      "stcf",
+      "pinpointing",
+      "irdac",
+      "counsellors",
+      "fits",
+      "mapped",
+      "particulates",
+      "contend",
+      "tending",
+      "nuisance",
+      "rtd",
+      "evenly",
+      "commits",
+      "centralized",
+      "hampering",
+      "academic",
+      "switching",
+      "chambers",
+      "advising",
+      "crest",
+      "biotechnology",
+      "underway",
+      "participates",
+      "miles",
+      "ambient"
+    ],
+    "prompt_length": 1748,
+    "category": "6416 research and intellectual property"
+  }
+}

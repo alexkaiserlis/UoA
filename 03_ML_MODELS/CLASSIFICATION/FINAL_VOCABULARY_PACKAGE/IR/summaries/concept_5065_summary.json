@@ -1,0 +1,63 @@
+{
+  "concept_id": "5065",
+  "concept_data": {
+    "title": "structural steel",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "steel",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"structural steel,\" categorized under iron, steel, and other metal industries, is often redirected to the preferred term \"steel\" in EU legal and regulatory contexts. Structural steel is essential for various applications, including the manufacturing of durable casseroles and saucepans, highlighting its versatility. Notably, the quality of weldable steel, such as that produced by renowned manufacturers like Demeyere and Lagostina, must meet stringent EU authorizations to ensure safety and performance. As the industry evolves, concerns about eroding standards and the need for identifiable materials, such as inox and nirosta, become paramount. Compliance with regulations ensures that products from regions like Changwon and Sault satisfy market demands satisfactorily, reinforcing the importance of structural steel in both construction and consumer goods.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:20.042081",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 2928,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.3533333333333335
+    },
+    "related_words": [
+      "authorizaions",
+      "casseroles",
+      "saucepans",
+      "pans",
+      "werkhuizen",
+      "demeyere",
+      "deurne",
+      "berk",
+      "beccon",
+      "kampen",
+      "lagostina",
+      "omegna",
+      "cuisinox",
+      "aigueperse",
+      "inox",
+      "benoit",
+      "sault",
+      "reppel",
+      "namil",
+      "satisfacotrily",
+      "msouth",
+      "corner",
+      "blair",
+      "stanhope",
+      "eroding",
+      "weldable",
+      "indentifiable",
+      "sscr",
+      "nirosta",
+      "jie"
+    ],
+    "prompt_length": 1643,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

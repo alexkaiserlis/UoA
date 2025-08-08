@@ -1,0 +1,63 @@
+{
+  "concept_id": "3145",
+  "concept_data": {
+    "title": "control of restrictive practices",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"control of restrictive practices\" within EU competition law addresses the dangers posed by monopolistic behaviors that can hinder market dynamics. This concept is crucial for preserving biodiversity and ensuring that agricultural practices, such as those involving distilleries and cooperatives, remain competitive. By prescribing regulations that facilitate the survival of specialised farms and orchards, the EU aims to prevent concerted actions that could lead to market monopolies. The control mechanisms are designed to secure a balanced landscape for distillers and producers, helping them to thrive while phasing out practices that could harm consumers or the environment. This regulatory framework is essential for maintaining a fair and competitive market.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:33:14.016489",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 355,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1107,
+      "selected_avg_freq": 576.6666666666666
+    },
+    "related_words": [
+      "landwirtschaftliche",
+      "verschlussbrennereien",
+      "abfindungsbrennereien",
+      "stoffbesitzer",
+      "obstgemeinschaftsbrennereien",
+      "landscapes",
+      "specialisation",
+      "distillery",
+      "bonded",
+      "orchards",
+      "fear",
+      "distillers",
+      "coincides",
+      "investing",
+      "distilleries",
+      "consuming",
+      "survive",
+      "monopoly",
+      "dangers",
+      "biodiversity",
+      "exempts",
+      "cooperatives",
+      "prescribe",
+      "transferring",
+      "ethyl",
+      "cooperative",
+      "desire",
+      "abolishing",
+      "enlarged",
+      "fallen"
+    ],
+    "prompt_length": 1785,
+    "category": "4031 competition"
+  }
+}

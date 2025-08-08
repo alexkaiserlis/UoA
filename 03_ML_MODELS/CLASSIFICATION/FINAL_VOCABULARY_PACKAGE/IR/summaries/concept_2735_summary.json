@@ -1,0 +1,63 @@
+{
+  "concept_id": "2735",
+  "concept_data": {
+    "title": "foodstuff",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"foodstuff\" encompasses a broad range of consumables, including items like sago and cayenne. The regulation of foodstuffs involves stringent safety standards, particularly concerning additives such as methoxychlor and chloroxuron, which must be evaluated in milligrams for safety. The EU framework also addresses the thawing and processing of food, ensuring that thawed products maintain quality. Additionally, substances like dialcohols and diketones are monitored to prevent harmful effects. The term \"foodstuff\" is integral to the Codex Alimentarius, which guides food safety and quality across member states, ensuring transparency and confidentiality in food production practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:44:29.795951",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 6221,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.6
+    },
+    "related_words": [
+      "sago",
+      "milligram",
+      "concerting",
+      "thawing",
+      "thawed",
+      "chloroxuron",
+      "ethane",
+      "methoxychlor",
+      "cartap",
+      "degreased",
+      "dialcohols",
+      "diketones",
+      "hydroxyketones",
+      "pentane",
+      "advantame",
+      "tabletop",
+      "methylnon",
+      "enamide",
+      "cayenne",
+      "chillies",
+      "czwórniak",
+      "dwójniak",
+      "półtorak",
+      "trójniak",
+      "methylbuta",
+      "diene",
+      "simulating",
+      "kunsthonig",
+      "kunsthonning",
+      "atps"
+    ],
+    "prompt_length": 1691,
+    "category": "6026 foodstuff"
+  }
+}

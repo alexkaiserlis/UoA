@@ -1,0 +1,63 @@
+{
+  "concept_id": "2594",
+  "concept_data": {
+    "title": "newborn",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "early childhood",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"newborn\" in EU legal and regulatory contexts is redirected to \"early childhood,\" encompassing critical considerations for the health and development of infants. This period is pivotal for neurodevelopment, influenced by various factors, including exposure to substances like parabens (e.g., propylparaben, butylparaben) found in products such as tampons and nappy creams. Regulatory frameworks address reprotoxicity and the leaching of harmful chemicals from childproof devices, ensuring safety in environments where infants reside, such as flats with balconies. Additionally, the use of soothers and teats must comply with standards to prevent prolonged exposure to harmful compounds, safeguarding multigeneration health.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:20:48.525176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1136,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 25.573333333333334
+    },
+    "related_words": [
+      "tampons",
+      "napkin",
+      "immunoreactive",
+      "elemental",
+      "teats",
+      "soothers",
+      "isopropylidenediphenol",
+      "storey",
+      "flats",
+      "disengaged",
+      "devises",
+      "parabens",
+      "propylparaben",
+      "butylparaben",
+      "isoforms",
+      "reprotoxicity",
+      "methylparaben",
+      "ethylparaben",
+      "isopropylparaben",
+      "isobutylparaben",
+      "phenylparaben",
+      "benzylparaben",
+      "pentylparaben",
+      "nappy",
+      "paraben",
+      "propylparabens",
+      "decyl",
+      "butylbenzyl",
+      "prolongations",
+      "balcony"
+    ],
+    "prompt_length": 1775,
+    "category": "2816 demography and population"
+  }
+}

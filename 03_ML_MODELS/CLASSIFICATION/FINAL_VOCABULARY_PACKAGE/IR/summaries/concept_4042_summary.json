@@ -1,0 +1,63 @@
+{
+  "concept_id": "4042",
+  "concept_data": {
+    "title": "safety of nuclear power stations",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear safety",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"safety of nuclear power stations,\" redirected to \"nuclear safety,\" encompasses the legal and regulatory frameworks established by the EU to ensure the protection of mankind from the inherent risks associated with nuclear energy. Key arrangements involve the oversight of operational standards by inspectors, including the monitoring of irradiated materials and the management of waste, such as swabs and sweepings. The Joint Research Centre (JRC) plays a vital role in investigating safety measures and enhancing the accountability of nuclear facilities. Additionally, the decommissioning of reactors, like those at Dounreay, requires meticulous rectifications and a thorough reinventory of materials to address any inhomogeneity. The EU's commitment to nuclear safety is inseparable from its broader environmental and public health objectives, ensuring that all practices are aligned with the principles of sustainability and safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:59:29.111042",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 1621,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 47,
+      "selected_avg_freq": 18.393333333333334
+    },
+    "related_words": [
+      "prenormative",
+      "jrcs",
+      "mankind",
+      "autonomic",
+      "eurdep",
+      "arranements",
+      "mergency",
+      "ukaea",
+      "dounreay",
+      "thurso",
+      "rebuilt",
+      "odd",
+      "takings",
+      "reveaaled",
+      "muf",
+      "investigage",
+      "inespectors",
+      "reinventory",
+      "oeprating",
+      "overstatement",
+      "shipper",
+      "slags",
+      "swabs",
+      "sweepings",
+      "unmeasured",
+      "dissolvers",
+      "altough",
+      "accontancy",
+      "acconting",
+      "inhomogeneity"
+    ],
+    "prompt_length": 1763,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

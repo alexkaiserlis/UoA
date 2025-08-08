@@ -1,0 +1,63 @@
+{
+  "concept_id": "1834",
+  "concept_data": {
+    "title": "mechanical gear",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "mechanical equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mechanical gear,\" categorized under mechanical engineering, is redirected to the preferred term \"mechanical equipment.\" This encompasses a broad range of devices, including submersible loaders and excavators utilized in various sectors across the EU, such as construction and drilling. Notably, companies like Hanomag and Komatsu manufacture equipment that corresponds to regulatory standards in member states like Deutschland and España. The legal frameworks governing these mechanical systems aim to ensure safety and efficiency, particularly in floating and wheeled applications. As the industry evolves, the need for equipping machinery with advanced cables and pipes broadens, particularly in regions like Valencia and Dortmund, enhancing operational capabilities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:39.596498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 498,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 549,
+      "selected_avg_freq": 217.42666666666668
+    },
+    "related_words": [
+      "submersible",
+      "approximatley",
+      "hanomag",
+      "walton",
+      "thames",
+      "fiatgeotech",
+      "furukawa",
+      "spek",
+      "vianen",
+      "wharfedale",
+      "fewsters",
+      "marubeni",
+      "redditch",
+      "avilable",
+      "espaăąa",
+      "orenstein",
+      "koppel",
+      "bamford",
+      "rochester",
+      "vilvoorde",
+      "baumaschinen",
+      "gerau",
+      "komatsu",
+      "cece",
+      "tyne",
+      "loader",
+      "dortmund",
+      "consigning",
+      "loaders",
+      "excavators"
+    ],
+    "prompt_length": 1699,
+    "category": "6821 mechanical engineering"
+  }
+}

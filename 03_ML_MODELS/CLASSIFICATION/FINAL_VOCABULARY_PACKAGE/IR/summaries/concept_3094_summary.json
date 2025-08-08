@@ -1,0 +1,63 @@
+{
+  "concept_id": "3094",
+  "concept_data": {
+    "title": "regionalization of trade",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "regionalisation of trade",
+    "relation_type": "USE"
+  },
+  "summary": "The \"regionalisation of trade,\" also referred to as \"regionalisation,\" is a pivotal concept in EU international trade regulations, particularly concerning the importation and movement of animals, such as equidae. This process involves modifying trade boundaries to manage outbreaks of animal sickness, like epizootics, by establishing specific zones. The European Union employs comprehensive directives that mandate veterinary checks and surveillance to ensure that regions, such as metropolitan areas or provinces in Africa, are registered and monitored. By adjusting importation protocols based on recorded findings, the EU aims to prevent the spread of diseases, thereby safeguarding both local and surrounding regions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:15.947716",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1713.22131147541
+    },
+    "related_words": [
+      "algete",
+      "internationale",
+      "epizootics",
+      "metropolitan",
+      "town",
+      "sickness",
+      "boundaries",
+      "cape",
+      "horse",
+      "regionalisation",
+      "horses",
+      "surrounding",
+      "equidae",
+      "oie",
+      "province",
+      "des",
+      "outbreak",
+      "outbreaks",
+      "laboratories",
+      "western",
+      "africa",
+      "modifying",
+      "african",
+      "zone",
+      "modification",
+      "modify",
+      "zones",
+      "south",
+      "repeal",
+      "comprehensive"
+    ],
+    "prompt_length": 1730,
+    "category": "2021 international trade"
+  }
+}

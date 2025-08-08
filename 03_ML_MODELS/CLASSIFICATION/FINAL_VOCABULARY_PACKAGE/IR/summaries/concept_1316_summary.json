@@ -1,0 +1,63 @@
+{
+  "concept_id": "1316",
+  "concept_data": {
+    "title": "indirect tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Indirect tax refers to a category of taxation imposed on goods and services rather than on income or profits, playing a crucial role in the EU’s fiscal landscape. It encompasses various forms, such as value-added tax (VAT) and excise duties on products like alcohols and beverages. The enactment of indirect taxes aims to optimize revenue generation while ensuring undistorted competition among member states. This taxation method can disincentivise evasive practices and arbitrage, particularly in cross-border transactions involving importaciones and mercancías. The coexistence of different indirect tax regimes across the EU reinforces the need for harmonization, as seen in the communication regarding fiscalis measures and the regulation of alcohols, including rums and other boissons alcooliques. The ideal framework would appreciate the complexities of regional variations, such as those in the Islas Canarias, while fostering a bigger market for trainers and other goods.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:01.947139",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 895,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 216,
+      "selected_avg_freq": 92.14
+    },
+    "related_words": [
+      "comunication",
+      "matthaeus",
+      "taught",
+      "entregas",
+      "mercancías",
+      "islas",
+      "aiem",
+      "hlpa",
+      "cotisation",
+      "boissons",
+      "alcooliques",
+      "vignette",
+      "sociale",
+      "vss",
+      "immoderate",
+      "regrouping",
+      "optimizing",
+      "colleges",
+      "disincentivise",
+      "ftt",
+      "evasive",
+      "arbitrage",
+      "rums",
+      "importaciones",
+      "fiscalis",
+      "arbitrio",
+      "furthers",
+      "sobre",
+      "undistorted",
+      "risky"
+    ],
+    "prompt_length": 1649,
+    "category": "2446 taxation"
+  }
+}

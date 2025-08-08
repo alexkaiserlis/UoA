@@ -1,0 +1,63 @@
+{
+  "concept_id": "2014",
+  "concept_data": {
+    "title": "means of agricultural production",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"means of agricultural production\" encompasses the diverse tools and methods employed in the EU to enhance agricultural efficiency and sustainability. This includes the use of fertilizers, irrigation systems, and mobile technologies that aim to avert issues such as erosion and flooding. The EU regulatory framework often revises policies to balance intensification and extensification, addressing the pressures of depopulation in rural areas like Mertola and the Azores. By transforming landscapes and promoting the upkeep of abandoned countryside, these means are essential for achieving agricultural goals. The dissemination of knowledge and practices educates stakeholders on sustainable production methods, ensuring the resilience of the mainland's agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:46:28.460451",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 481,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 839,
+      "selected_avg_freq": 381.02
+    },
+    "related_words": [
+      "educate",
+      "revises",
+      "mertola",
+      "embark",
+      "concelho",
+      "zonal",
+      "upkeep",
+      "amenities",
+      "fires",
+      "neutralize",
+      "extensification",
+      "depopulation",
+      "alters",
+      "intensification",
+      "acceleration",
+      "balancing",
+      "avert",
+      "drainage",
+      "definitely",
+      "erosion",
+      "diverse",
+      "fertilizers",
+      "flooding",
+      "disseminated",
+      "irrigation",
+      "landscape",
+      "pressures",
+      "abandoned",
+      "countryside",
+      "contracted"
+    ],
+    "prompt_length": 1713,
+    "category": "5626 means of agricultural production"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1700",
+  "concept_data": {
+    "title": "leisure society",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "leisure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"leisure society,\" redirected to \"leisure,\" encompasses the regulatory frameworks addressing the significance of leisure in social affairs within the EU. This framework systematically examines variables affecting leisure participation, including poverty and deprivation, which can distort access to leisure activities. Legal documents invoke methodologies that oblige departments to collect data on leisure involvement, ensuring a homogeneous approach to leisure policy. The longitudinal analysis of leisure as a commodity highlights the necessity for concerted efforts to overcome constraints and accidents that disproportionately affect certain populations. This regulatory pursuit aims to replace exclusion with inclusion, thereby enhancing the quality of life across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:24:47.218376",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 315,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1353,
+      "selected_avg_freq": 706.58
+    },
+    "related_words": [
+      "casualty",
+      "leisure",
+      "deprivation",
+      "silc",
+      "hospital",
+      "longitudinal",
+      "sectional",
+      "concert",
+      "constraint",
+      "consonant",
+      "encompassing",
+      "module",
+      "identifiers",
+      "variables",
+      "oblige",
+      "homogeneous",
+      "coding",
+      "poverty",
+      "demonstration",
+      "pursuance",
+      "overcome",
+      "accidents",
+      "commodity",
+      "significance",
+      "descriptions",
+      "summary",
+      "secondary",
+      "seen",
+      "involvement",
+      "subdivision"
+    ],
+    "prompt_length": 1753,
+    "category": "2826 social affairs"
+  }
+}

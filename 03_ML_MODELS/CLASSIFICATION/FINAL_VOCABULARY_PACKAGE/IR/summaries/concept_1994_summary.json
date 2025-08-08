@@ -1,0 +1,63 @@
+{
+  "concept_id": "1994",
+  "concept_data": {
+    "title": "engine",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"engine\" within the EU legal and regulatory framework encompasses a range of mechanical engineering applications, including submersible engines utilized in various sectors. Notably, manufacturers such as Honda, Suzuki, and Yamaha contribute to the diverse landscape of engine production, adhering to standards set by organizations like GIMELEC and ZVEI. Regulatory investigations often address unsubstantiated claims regarding engine performance and emissions, ensuring compliance with EU directives. The integration of electrical and electronic components in engines, as seen in firms from Heppenheim to Mostoles, highlights the importance of électrotechnique and mécaniques in modern engineering. Additionally, associations such as ANIE and SERCOB play vital roles in promoting best practices across the industry.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:17:25.636405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1692,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 8.8
+    },
+    "related_words": [
+      "hamomatsu",
+      "northampton",
+      "honda",
+      "suzuki",
+      "hamamatsu",
+      "tohatsu",
+      "yamaha",
+      "offenbach",
+      "verviers",
+      "heppenheim",
+      "chessington",
+      "investigaiton",
+      "dismissals",
+      "unsubstantiated",
+      "unterdakings",
+      "submersible",
+      "électrique",
+      "électronique",
+      "gimelec",
+      "zentralverband",
+      "elektrotechnischen",
+      "zvei",
+      "rema",
+      "métallurgiques",
+      "mécaniques",
+      "électriques",
+      "matières",
+      "plastiques",
+      "fabrimetal",
+      "elettrotecniche"
+    ],
+    "prompt_length": 1748,
+    "category": "6821 mechanical engineering"
+  }
+}

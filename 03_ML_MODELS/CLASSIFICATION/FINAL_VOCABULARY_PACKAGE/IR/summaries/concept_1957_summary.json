@@ -1,0 +1,63 @@
+{
+  "concept_id": "1957",
+  "concept_data": {
+    "title": "modernization of industry",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": true,
+    "preferred_term": "modernisation of industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"modernisation of industry\" concept, redirected to the preferred term \"modernisation of industry,\" encompasses EU initiatives aimed at enhancing industrial structures and policies. This process often involves the demobilization of outdated practices and the reorganization of sectors such as coalmining and dyeing, where effluent management is critical. By prioritizing the computerization and rationalization of manufacturing processes, industries can specialize and modernize, thereby contributing to economic growth. Efforts to privatize and centralize operations may also lead to the rehousing of displaced workers, particularly in regions like Zwijndrecht and Dumfries. The EU's trilogue discussions often address these formidable challenges, aiming to establish a sustainable industrial framework that transcends traditional methods while mitigating disquieting impacts on communities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:57:35.692926",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1149,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 160,
+      "selected_avg_freq": 70.50666666666666
+    },
+    "related_words": [
+      "zwijndrecht",
+      "chlorobutyl",
+      "bromobutyl",
+      "tubeless",
+      "demobilization",
+      "monktonhall",
+      "lothian",
+      "refinance",
+      "rehousing",
+      "recipeient",
+      "reorganize",
+      "computerize",
+      "swindon",
+      "contibuting",
+      "rehouse",
+      "mothballed",
+      "mineworkers",
+      "cellophane",
+      "tufted",
+      "dumfries",
+      "disquieting",
+      "incomptible",
+      "demobilized",
+      "formidable",
+      "modernized",
+      "towelling",
+      "privatize",
+      "specializes",
+      "displace",
+      "trilogue"
+    ],
+    "prompt_length": 1814,
+    "category": "6806 industrial structures and policy"
+  }
+}

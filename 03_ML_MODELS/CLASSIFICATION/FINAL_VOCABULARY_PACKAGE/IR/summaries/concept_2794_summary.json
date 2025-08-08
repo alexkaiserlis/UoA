@@ -1,0 +1,63 @@
+{
+  "concept_id": "2794",
+  "concept_data": {
+    "title": "training curriculum",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": true,
+    "preferred_term": "teaching curriculum",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"training curriculum,\" redirected to \"teaching curriculum,\" encompasses the structured organization of educational courses aimed at practitioners, particularly in specialized fields such as medicine. In the EU regulatory framework, a well-defined teaching curriculum is essential for certifying qualifications of doctors and surgeons, ensuring that they possess the necessary knowledge to care for patients. This curriculum must emphasize the integration of science and practice, addressing the evolving needs of patients and the healthcare system. By organizing instruction that converges on universally accepted standards, the curriculum aims to upgrade the skills of specialists, thereby narrowing the gap in medical education and fostering a higher standard of care across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:37:30.817596",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 302,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1189,
+      "selected_avg_freq": 591.2666666666667
+    },
+    "related_words": [
+      "doctor",
+      "practitioner",
+      "taught",
+      "surgeons",
+      "illness",
+      "converge",
+      "patient",
+      "forcing",
+      "emphasize",
+      "universally",
+      "thermonuclear",
+      "instruction",
+      "immaterial",
+      "practise",
+      "teaching",
+      "fusion",
+      "practitioners",
+      "widened",
+      "courses",
+      "nationally",
+      "irreversible",
+      "diplomas",
+      "upgrade",
+      "patients",
+      "pace",
+      "tendency",
+      "specialists",
+      "besides",
+      "organize",
+      "medicine"
+    ],
+    "prompt_length": 1748,
+    "category": "3216 organisation of teaching"
+  }
+}

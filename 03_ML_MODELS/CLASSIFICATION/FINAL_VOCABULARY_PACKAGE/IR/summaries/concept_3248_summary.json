@@ -1,0 +1,63 @@
+{
+  "concept_id": "3248",
+  "concept_data": {
+    "title": "self-service bank",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "electronic banking",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"self-service bank,\" redirected to \"electronic banking,\" pertains to financial institutions that facilitate automated banking services. In the EU regulatory framework, electronic banking must adhere to prudence guidelines established by the European Central Bank (ECB) and relevant statutes. These banks incorporate systems that allow participants to conduct transactions, such as credit transfers, in real-time. Regulatory requirements include criteria for access and settlement processes, ensuring that all elements function effectively. The administrative board may amend terms to reflect new developments, while participants must comply with established articles and annexes. Such frameworks aim to enhance the efficiency and security of electronic banking operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:41:55.409113",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 67,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 67,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1758.402985074627
+    },
+    "related_words": [
+      "intraday",
+      "prudence",
+      "participant",
+      "guideline",
+      "automated",
+      "trans",
+      "ecb",
+      "rejected",
+      "executive",
+      "incorporate",
+      "settlement",
+      "participants",
+      "gross",
+      "express",
+      "statute",
+      "banks",
+      "terminated",
+      "credit",
+      "restrictive",
+      "real",
+      "suspended",
+      "board",
+      "reflect",
+      "bank",
+      "transfer",
+      "participation",
+      "grounds",
+      "central",
+      "elements",
+      "access"
+    ],
+    "prompt_length": 1703,
+    "category": "2416 financial institutions and credit"
+  }
+}

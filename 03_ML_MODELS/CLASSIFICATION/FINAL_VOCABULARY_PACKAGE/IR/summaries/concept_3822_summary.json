@@ -1,0 +1,63 @@
+{
+  "concept_id": "3822",
+  "concept_data": {
+    "title": "Principality of Asturias",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Principality of Asturias, located in Spain, constitutes a significant region within the EU framework, particularly in the context of regional development and assistance. This area is designed to address various challenges, including the prevalence of infectious diseases affecting animals, such as septicaemia and haemorrhagic conditions. The EU recognizes the importance of Asturias in aquaculture and veterinary laboratories, where contributions from the European Regional Development Fund (ERDF) are crucial. By instituting measures to assist local industries, including steel and fish farming, the region aims to enhance its economic status. The legal framework specifies the geographical zone for funding, ensuring that resources are effectively met and utilized.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:49:30.400714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1845.4017094017095
+    },
+    "related_words": [
+      "resider",
+      "hematopoietic",
+      "ihn",
+      "asturias",
+      "vhs",
+      "septicaemia",
+      "necrosis",
+      "haemorrhagic",
+      "prevalence",
+      "instituting",
+      "viral",
+      "erdf",
+      "infectious",
+      "laboratories",
+      "detected",
+      "diseases",
+      "zone",
+      "aquaculture",
+      "fish",
+      "located",
+      "contributions",
+      "steel",
+      "specifies",
+      "assist",
+      "veterinary",
+      "placing",
+      "spanish",
+      "letters",
+      "approving",
+      "followed"
+    ],
+    "prompt_length": 1678,
+    "category": "7211 regions of EU Member States"
+  }
+}

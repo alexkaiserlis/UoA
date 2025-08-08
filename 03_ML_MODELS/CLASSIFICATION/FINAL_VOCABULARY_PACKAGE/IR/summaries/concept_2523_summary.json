@@ -1,0 +1,63 @@
+{
+  "concept_id": "2523",
+  "concept_data": {
+    "title": "water pollutant",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"water pollutant\" refers to substances that, when discharged into aquatic ecosystems, can contribute to environmental deterioration. These pollutants include itemised chemicals such as estradiol, ethinylestradiol, and diclofenac, which are prioritised due to their potential to cause eutrophication and disrupt aquatic matrices. The regulation of neonicotinoids and antibiotics like erythromycin is crucial, as they pose risks to groundwater quality. The ranking of pollutants often considers their intrinsic properties, such as sediment partitioning and the tendency to accumulate phosphorus or nitrates. Effective monitoring and regulation underpin efforts to mitigate the impact of these pollutants on ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:57.955893",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 755,
+      "selected_avg_freq": 277.72
+    },
+    "related_words": [
+      "itemised",
+      "estradiol",
+      "ethinylestradiol",
+      "estrone",
+      "ditert",
+      "methylphenol",
+      "neonicotinoid",
+      "macrolide",
+      "neonicotinoids",
+      "abstracts",
+      "methoxycinnamate",
+      "diclofenac",
+      "allate",
+      "methiocarb",
+      "oxadiazon",
+      "erythromycin",
+      "prioritised",
+      "nitrites",
+      "eutrophication",
+      "partition",
+      "prioritisation",
+      "matrices",
+      "ranked",
+      "phosphates",
+      "rarely",
+      "ethylhexyl",
+      "sediment",
+      "contributor",
+      "matrix",
+      "antibiotic"
+    ],
+    "prompt_length": 1749,
+    "category": "5216 deterioration of the environment"
+  }
+}

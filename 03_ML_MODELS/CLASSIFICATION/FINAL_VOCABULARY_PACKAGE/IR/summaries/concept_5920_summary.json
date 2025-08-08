@@ -1,0 +1,63 @@
+{
+  "concept_id": "5920",
+  "concept_data": {
+    "title": "relational DBMS",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "database management system",
+    "relation_type": "USE"
+  },
+  "summary": "A \"relational DBMS,\" redirected to the preferred term \"database management system,\" is crucial in the context of EU legal and regulatory frameworks, particularly in areas like JHA (Justice and Home Affairs) and Schengen governance. These systems govern the storage and retrieval of data, ensuring compliance with regulations such as Eurodac, which tracks asylum seekers, and SIS (Schengen Information System), vital for border security. The relational DBMS facilitates the processing of unprocessed data, reflecting the entirety of national databases while excluding irrelevant information. It develops organisational structures that manage contagious outbreaks, ensuring data integrity and supporting the EU's unity in addressing issues like the movement of nationals across borders, especially during crises such as those posed by Belarus and Ukraine.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:30:41.070401",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 283,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1602,
+      "selected_avg_freq": 699.18
+    },
+    "related_words": [
+      "deviated",
+      "pelleted",
+      "bip",
+      "burned",
+      "eurodac",
+      "hay",
+      "fear",
+      "precondition",
+      "personality",
+      "sis",
+      "governs",
+      "develops",
+      "straw",
+      "combustion",
+      "voting",
+      "govern",
+      "contagious",
+      "unity",
+      "latters",
+      "traces",
+      "visa",
+      "belarus",
+      "unprocessed",
+      "computerised",
+      "excludes",
+      "organisational",
+      "characterised",
+      "infectious",
+      "mixed",
+      "jha"
+    ],
+    "prompt_length": 1720,
+    "category": "3236 information technology and data processing"
+  }
+}

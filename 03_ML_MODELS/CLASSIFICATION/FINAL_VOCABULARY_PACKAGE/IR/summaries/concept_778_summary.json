@@ -1,0 +1,63 @@
+{
+  "concept_id": "778",
+  "concept_data": {
+    "title": "tuition",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "teaching",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"tuition\" is a redirect to the preferred term \"teaching,\" which encompasses various educational methodologies and procedural definitions. The concept is integral to understanding expenditure categories related to education, including the coverage of costs incurred by households for teaching services. This includes considerations for individuals with disabilities and the harmonised indices of consumer prices (HICP) that reflect living costs associated with educational institutions. Moreover, the methodological framework for assessing educational outcomes involves considerable detail on comparability across sectors, ensuring that definitions and indices are consistent and relevant for policy-making. The EU's approach to teaching also includes retirement planning for educators, thereby impacting household accounts and overall educational expenditure.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:40.630173",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 123,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 123,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1716.7073170731708
+    },
+    "related_words": [
+      "coicop",
+      "residences",
+      "hicp",
+      "hospital",
+      "homes",
+      "hicps",
+      "spc",
+      "disabled",
+      "methodological",
+      "households",
+      "esa",
+      "indices",
+      "retirement",
+      "grouped",
+      "household",
+      "index",
+      "institutional",
+      "coverage",
+      "home",
+      "comparability",
+      "timetable",
+      "education",
+      "procedural",
+      "methodology",
+      "definitions",
+      "living",
+      "starting",
+      "accounts",
+      "individuals",
+      "defines"
+    ],
+    "prompt_length": 1696,
+    "category": "3211 teaching"
+  }
+}

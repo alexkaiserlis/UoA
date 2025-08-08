@@ -1,0 +1,63 @@
+{
+  "concept_id": "1170",
+  "concept_data": {
+    "title": "glucose",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Glucose, categorized under beverages and sugar, is a fundamental carbohydrate regulated within the EU framework. Its production often involves enzymatic processes, such as hydrolysis using amylase or amyloglucosidase, to convert starch into glucose syrups, including maltodextrine and dextrin. Regulatory standards, including purity and composition, are established through methods like HPLC and spectrophotometry, ensuring the quality of glucose products. The interchangeability of glucose with other sugars, such as sucrose and lactose, is also scrutinized to prevent abuses in labeling and marketing. Furthermore, the reimportation of glucose from the Balkans and other regions necessitates compliance with EU regulations to maintain product integrity and consumer safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:34:36.561727",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 617,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 527,
+      "selected_avg_freq": 270.5933333333333
+    },
+    "related_words": [
+      "dextrin",
+      "spectrophotometry",
+      "amyloglucosidase",
+      "maltodextrine",
+      "sorbose",
+      "hundredth",
+      "reguation",
+      "hplc",
+      "standardizing",
+      "enzymatic",
+      "detailes",
+      "hydrolysis",
+      "amylase",
+      "chromatography",
+      "fod",
+      "interchangeability",
+      "lactose",
+      "reimportation",
+      "hydroxide",
+      "albumin",
+      "balkan",
+      "intervening",
+      "abuses",
+      "chemically",
+      "lactalbumin",
+      "corn",
+      "syrups",
+      "ovalbumin",
+      "wheres",
+      "glucose"
+    ],
+    "prompt_length": 1689,
+    "category": "6021 beverages and sugar"
+  }
+}

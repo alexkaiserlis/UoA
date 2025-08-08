@@ -1,0 +1,63 @@
+{
+  "concept_id": "3039",
+  "concept_data": {
+    "title": "Brussels-capital region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Brussels region",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Brussels-capital region,\" redirected to the preferred term \"Brussels region,\" is a significant urban area within the EU, often attracting smbs and multinational corporations due to its strategic location and regulatory frameworks. This region plays a critical role in counteracting inflation and improving economic conditions through various subsidies and projects funded by the ERDF. The Brussels region is coupled with districts that are pivotal for exploratory initiatives, which may include relocating businesses or enhancing urban infrastructure. However, certain restrictions may render some entities ineligible for support, thus requiring careful consideration of repayment conditions and additionality. The region's dynamics are further influenced by the EIB's financing strategies, which aim to relieve economic pressures and foster sustainable development amidst fluctuating market conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:59:27.815005",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 457,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 848,
+      "selected_avg_freq": 452.3933333333333
+    },
+    "related_words": [
+      "smbs",
+      "footloose",
+      "airbus",
+      "attraction",
+      "thwarted",
+      "counteracting",
+      "relieving",
+      "else",
+      "attracted",
+      "relocation",
+      "unconditional",
+      "counterpart",
+      "exploratory",
+      "war",
+      "bfrs",
+      "combining",
+      "repercussions",
+      "explanations",
+      "rejection",
+      "districts",
+      "coupled",
+      "ineligible",
+      "additionality",
+      "indexed",
+      "whatsoever",
+      "urban",
+      "improves",
+      "craft",
+      "restricts",
+      "district"
+    ],
+    "prompt_length": 1750,
+    "category": "7211 regions of EU Member States"
+  }
+}

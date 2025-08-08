@@ -1,0 +1,63 @@
+{
+  "concept_id": "4497",
+  "concept_data": {
+    "title": "oats",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"oats,\" classified under the EU category of 6006 plant products, encompasses various botanical varieties, notably Avena sativa and Avena fatua. Oats are integral to numerous applications, including the production of flour, pasta, and spirituous beverages. Regulatory frameworks codify standards for hulled, husked, and lightly processed oats, ensuring tolerances for contaminants like nitrates are rigorously maintained. The cultivation of oats also favours soil health, mitigating erosion and enhancing forage for livestock. Additionally, the processing of oats into products such as malt and groats avails opportunities for breweries and food industries, thereby impacting generations of agricultural practices and economic activity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:11.451808",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 800,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 360,
+      "selected_avg_freq": 181.64
+    },
+    "related_words": [
+      "hordeum",
+      "clipped",
+      "hulled",
+      "codifies",
+      "strigosa",
+      "schreb",
+      "oat",
+      "shelled",
+      "vulgare",
+      "brewery",
+      "lightly",
+      "fatua",
+      "naked",
+      "avails",
+      "nearby",
+      "indefinitely",
+      "transpired",
+      "avena",
+      "leaching",
+      "therof",
+      "botanical",
+      "pellets",
+      "groats",
+      "germination",
+      "sativa",
+      "worsen",
+      "nordic",
+      "bid",
+      "catalogues",
+      "generations"
+    ],
+    "prompt_length": 1615,
+    "category": "6006 plant product"
+  }
+}

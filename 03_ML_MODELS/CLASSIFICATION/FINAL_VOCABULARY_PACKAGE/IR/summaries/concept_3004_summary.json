@@ -1,0 +1,63 @@
+{
+  "concept_id": "3004",
+  "concept_data": {
+    "title": "splitting of companies",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "demerger",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"splitting of companies,\" commonly referred to as \"demerger,\" pertains to the legal process by which a parent company divides its operations into separate entities, often resulting in the formation of subsidiaries. This process is regulated under EU law, ensuring that shareholders and creditors are adequately protected during the division. The lawmaking framework requires extensive disclosure and safeguards to mitigate liabilities associated with the split. Companies must publish detailed information on their websites, illustrating the alterations in ownership and control. By designating divisions and weighing the burdens on employees, the process confers authenticity and transparency, thus facilitating commerce and maintaining regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:17.574593",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 249,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1541,
+      "selected_avg_freq": 731.6866666666666
+    },
+    "related_words": [
+      "publishes",
+      "lawmaking",
+      "dispensing",
+      "dispensed",
+      "websites",
+      "chambers",
+      "outdated",
+      "issuer",
+      "issuers",
+      "mergers",
+      "creditors",
+      "merger",
+      "illustrating",
+      "shareholders",
+      "divisions",
+      "platform",
+      "split",
+      "vote",
+      "conferring",
+      "authenticity",
+      "commerce",
+      "registers",
+      "alteration",
+      "website",
+      "parent",
+      "subsidiaries",
+      "burdens",
+      "subsidiary",
+      "weighing",
+      "correlation"
+    ],
+    "prompt_length": 1739,
+    "category": "4006 business organisation"
+  }
+}

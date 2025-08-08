@@ -1,0 +1,63 @@
+{
+  "concept_id": "3273",
+  "concept_data": {
+    "title": "remuneration of work",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"remuneration of work\" encompasses the various pecuniary compensations provided to employees, including salaries, allowances, and pensions. In EU legal and regulatory frameworks, remuneration is scrutinized to ensure fairness and compliance with established standards. Variations in remuneration may occur due to factors such as shiftwork, subsistence allowances, and actuarial valuations. The European Central Bank (ECB) plays a role in monitoring these remunerations, ensuring they correspondingly reflect market conditions. Additionally, regulations may include provisions for retrospective adjustments and phased increases, addressing concerns about overpaid or underpaid employees. Ultimately, the aim is to create a balanced corridor of remuneration that recognizes the contributions of all servants within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:56:50.012869",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 443,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 822,
+      "selected_avg_freq": 405.50666666666666
+    },
+    "related_words": [
+      "subsistance",
+      "sigle",
+      "misprints",
+      "culham",
+      "remeasurement",
+      "shiftwork",
+      "scrutinize",
+      "actuarial",
+      "corridor",
+      "remunerations",
+      "overpaid",
+      "pecuniary",
+      "correspondingly",
+      "standby",
+      "ias",
+      "diverge",
+      "revaluation",
+      "mirror",
+      "subsistence",
+      "engaging",
+      "upwards",
+      "gains",
+      "weightings",
+      "employee",
+      "upward",
+      "downwards",
+      "retrospective",
+      "valuation",
+      "downward",
+      "weighting"
+    ],
+    "prompt_length": 1711,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

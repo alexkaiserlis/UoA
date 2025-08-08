@@ -1,0 +1,63 @@
+{
+  "concept_id": "5843",
+  "concept_data": {
+    "title": "export customs procedure",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"export customs procedure\" within the EU's 2011 tariff policy is a regulatory framework that governs the exportation of goods, necessitated by the need for standardisation and compliance with liberalised trade practices. This procedure empowers exporters to act within a legal context, ensuring that unprocessed goods, such as poultrymeat and dairy, are properly documented and classified. It includes clauses for refund and reimbursement of levies, addressing unforeseen circumstances that may arise during exportation. By consolidating regulations, the procedure aims to avoid overlap with other customs processes, thereby facilitating a smoother export experience while maintaining justifiable controls over goods awaiting export.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:58:16.957341",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 354,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1212,
+      "selected_avg_freq": 657.4533333333334
+    },
+    "related_words": [
+      "impowered",
+      "citations",
+      "liberalised",
+      "ascertaining",
+      "liberalized",
+      "overlap",
+      "necessitated",
+      "warehousing",
+      "liberalization",
+      "unusual",
+      "unforeseen",
+      "inward",
+      "awaiting",
+      "offsetting",
+      "unlimited",
+      "acted",
+      "justifiable",
+      "furnished",
+      "unprocessed",
+      "liberalisation",
+      "consolidation",
+      "say",
+      "clauses",
+      "deleting",
+      "pursuance",
+      "ended",
+      "consolidate",
+      "exportation",
+      "traditionally",
+      "admitted"
+    ],
+    "prompt_length": 1736,
+    "category": "2011 tariff policy"
+  }
+}

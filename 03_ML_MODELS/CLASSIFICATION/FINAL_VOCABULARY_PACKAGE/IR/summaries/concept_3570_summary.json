@@ -1,0 +1,63 @@
+{
+  "concept_id": "3570",
+  "concept_data": {
+    "title": "import refund",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"import refund\" within EU trade policy pertains to the financial reimbursement provided to importers for duties paid on goods that are subsequently exported or deemed unsuitable for market due to various factors. This mechanism can complicate trade dynamics, especially when considering the potential for deception in the declaration of goods. Import refunds may be remitted under specific conditions, such as the inactivation of pathogens like Pseudomonas or Solanacearum in untreated tubers. The process involves strict adherence to regulations, including the endorsement of licenses and the diagnosis of any hindrance to market entry. Importers must navigate these complexities to avoid negligence and ensure compliance with EU standards, particularly regarding indigenous species and gluten content in products like olives.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:55:09.825705",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 780,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 331,
+      "selected_avg_freq": 165.70666666666668
+    },
+    "related_words": [
+      "deception",
+      "ony",
+      "peninsular",
+      "thecanary",
+      "complicate",
+      "inactivates",
+      "pressed",
+      "degressivity",
+      "remitted",
+      "hindrance",
+      "anatolia",
+      "admitting",
+      "interception",
+      "solanacearum",
+      "gametes",
+      "endorsements",
+      "pseudomonas",
+      "tuberosum",
+      "incubation",
+      "feathers",
+      "solanum",
+      "inactivate",
+      "trophies",
+      "pasteurised",
+      "subperiod",
+      "roasted",
+      "kilogrammes",
+      "pathogen",
+      "tunisian",
+      "gluten"
+    ],
+    "prompt_length": 1695,
+    "category": "2006 trade policy"
+  }
+}

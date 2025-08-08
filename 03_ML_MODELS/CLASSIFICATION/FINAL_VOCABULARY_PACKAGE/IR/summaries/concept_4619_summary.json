@@ -1,0 +1,63 @@
+{
+  "concept_id": "4619",
+  "concept_data": {
+    "title": "urban planning",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "town planning",
+    "relation_type": "USE"
+  },
+  "summary": "Urban planning, often referred to as town planning, is a critical aspect of EU regulatory frameworks concerning construction and land use. It encompasses the strategic organization of districts to fulfill the wishes of households and consumers while ensuring efficient networks for supplies like electricity and gas. The planning process is influenced by taxation policies, where transactions may be taxed or exempted, affecting local economies. In Latvia, for instance, the harmonisation of regulations aims to mitigate distortion in the market. Planned developments must consider technological advancements and the intention to create sustainable environments, fulfilling the needs of both traders and customers in a cross-border context.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:06:15.241163",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 80,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 80,
+      "selected_max_freq": 3322,
+      "selected_avg_freq": 1472.7733333333333
+    },
+    "related_words": [
+      "taxed",
+      "existent",
+      "households",
+      "induced",
+      "heating",
+      "deduct",
+      "taxable",
+      "distributors",
+      "district",
+      "customer",
+      "substitute",
+      "latvian",
+      "wishes",
+      "electricity",
+      "vat",
+      "taxation",
+      "causes",
+      "vis",
+      "traders",
+      "networks",
+      "turnover",
+      "taxes",
+      "bear",
+      "distortion",
+      "gas",
+      "sixth",
+      "professional",
+      "harmonisation",
+      "excluding",
+      "formal"
+    ],
+    "prompt_length": 1699,
+    "category": "2846 construction and town planning"
+  }
+}

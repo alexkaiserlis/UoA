@@ -1,0 +1,63 @@
+{
+  "concept_id": "3837",
+  "concept_data": {
+    "title": "ferro-alloy",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Ferro-alloys, originating from various metallurgical processes, are crucial in the iron, steel, and other metal industries within the EU. These alloys, such as ferrosilicon and ferroboron, are produced through methods like electrometallurgie and carbotherm processing, which enhance hardness and other properties of metals. Regulatory frameworks ensure the sustainable production of ferroalloys, with surveillance mechanisms in place to monitor compliance. The nomenclature for ferro-alloys is vital for trade and quality standards, particularly in regions like Highveld and Kazakh. As the EU privatizes certain sectors, understanding the corpus of ferro-alloy regulations becomes increasingly important for stakeholders in the electrometalurgia field.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:03.104567",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1385,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 82,
+      "selected_avg_freq": 30.926666666666666
+    },
+    "related_words": [
+      "coresponds",
+      "elektrometallurgie",
+      "denko",
+      "hardness",
+      "colemanite",
+      "alumino",
+      "therm",
+      "carbotherm",
+      "metglas",
+      "sutained",
+      "surveillande",
+      "portocol",
+      "regaining",
+      "efaco",
+      "ferroalloys",
+      "originanting",
+      "rima",
+      "electrometalurgia",
+      "adversarial",
+      "fesimn",
+      "proceecing",
+      "highveld",
+      "vanadium",
+      "electrometallurgie",
+      "thje",
+      "ferrosilicon",
+      "laziska",
+      "lcfc",
+      "clifa",
+      "nococarbon"
+    ],
+    "prompt_length": 1707,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4545",
+  "concept_data": {
+    "title": "nitrogen",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nitrogen, a key element in chemistry, plays a crucial role in EU regulatory frameworks concerning environmental protection and agricultural practices. Its compounds, such as nitrates and ammonium, are essential for nutrient uptake in plants, yet their excessive use can lead to groundwater contamination and biodiversity loss. Regulatory dossiers assess nitrogen's impact on ecosystems, particularly in grassland and agricultural settings across regions like Wales and Scotland. Professionals must consider compositional factors, such as the presence of amino acids and hydrolysates in fertilizers. Mitigation strategies, including controlled manure application and the use of biocidal insecticides, are vital to ensure sustainable practices while maintaining nutritional standards for infant and livestock feed.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:10:12.767568",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 445,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 829,
+      "selected_avg_freq": 389.0133333333333
+    },
+    "related_words": [
+      "tvb",
+      "kcal",
+      "arginine",
+      "hydrolysates",
+      "representatively",
+      "hydrochloride",
+      "therof",
+      "compositional",
+      "precipitation",
+      "grassland",
+      "whey",
+      "scottish",
+      "insecticides",
+      "infant",
+      "expiration",
+      "nitrates",
+      "seasons",
+      "amino",
+      "manure",
+      "grazing",
+      "groundwater",
+      "wales",
+      "biodiversity",
+      "unfit",
+      "elapse",
+      "professionals",
+      "nitrate",
+      "acids",
+      "proteins",
+      "uptake"
+    ],
+    "prompt_length": 1682,
+    "category": "6811 chemistry"
+  }
+}

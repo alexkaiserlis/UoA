@@ -1,0 +1,63 @@
+{
+  "concept_id": "5583",
+  "concept_data": {
+    "title": "import customs debt",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "customs debt",
+    "relation_type": "USE"
+  },
+  "summary": "\"Import customs debt,\" a term redirecting to \"customs debt,\" refers to the financial obligations incurred by a declarant upon the importation of goods into the EU. This debt arises when goods exit customs zones and is subject to levies, including compensatory duties on specific products like biodiesel and mineral oils. The debtor must fulfill monthly declarations to avoid unjustified debts. Extinguishing this debt may involve refund processes or relief measures, particularly in cases of invalidated declarations. Furthermore, the handling of customs debts can be influenced by retroactive adjustments and the mixing of various fuel types, necessitating careful compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:36.151584",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 230,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 2126,
+      "selected_avg_freq": 966.8066666666666
+    },
+    "related_words": [
+      "incurs",
+      "extinguishing",
+      "exits",
+      "declarant",
+      "biodiesel",
+      "digit",
+      "invalidated",
+      "mixing",
+      "debtor",
+      "unaltered",
+      "warehousing",
+      "anymore",
+      "debts",
+      "postponement",
+      "compensating",
+      "inward",
+      "mixture",
+      "mineral",
+      "leave",
+      "relief",
+      "unjustified",
+      "usual",
+      "exportation",
+      "likewise",
+      "debt",
+      "levies",
+      "fuel",
+      "retroactive",
+      "correction",
+      "monthly"
+    ],
+    "prompt_length": 1673,
+    "category": "2011 tariff policy"
+  }
+}

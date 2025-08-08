@@ -1,0 +1,63 @@
+{
+  "concept_id": "1781",
+  "concept_data": {
+    "title": "cassava",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cassava, scientifically known as manioc, is classified under the EU legal framework as a plant product (6006). Its regulation involves implementing measures that ensure compliance with safety and quality standards. The complexities surrounding cassava arise from its diverse uses, including food and industrial applications, which complicate its categorization. Negotiations regarding subquotas for cassava imports have been interrupted by unclear terminologies and the need to rationalise existing regulations. Member States, such as Thailand and Vietnam, have expressed particularities in their trade agreements, while the EU aims to differentiate its policies to avoid exhaustion of resources. Notification processes are essential for tracking the fluidity of cassava trade, ensuring that any mistakes are addressed promptly. The legal framework must also consider the historical context of cassava cultivation, which dates back centuries, and its economic significance in nations like Bangladesh.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:54:55.850359",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 136,
+    "vocabulary_stats": {
+      "total_related_words": 792,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 418,
+      "selected_avg_freq": 220.77333333333334
+    },
+    "related_words": [
+      "implemeting",
+      "notificaiton",
+      "theree",
+      "negotations",
+      "subquotas",
+      "ods",
+      "negotiator",
+      "terminates",
+      "disposition",
+      "complicates",
+      "denounced",
+      "fluidity",
+      "ago",
+      "wednesday",
+      "federative",
+      "rationalise",
+      "loaded",
+      "arose",
+      "percent",
+      "numbering",
+      "particularities",
+      "thai",
+      "unclear",
+      "interrupted",
+      "manioc",
+      "recurrence",
+      "olives",
+      "nation",
+      "nil",
+      "bangladesh"
+    ],
+    "prompt_length": 1680,
+    "category": "6006 plant product"
+  }
+}

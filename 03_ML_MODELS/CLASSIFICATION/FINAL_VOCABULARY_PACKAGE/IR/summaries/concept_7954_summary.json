@@ -1,0 +1,63 @@
+{
+  "concept_id": "7954",
+  "concept_data": {
+    "title": "European Union Satellite Centre",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Union Satellite Centre (EU SatCen) plays a pivotal role in the deployment and management of satellite systems, including the European Global Navigation Satellite System (GNSS) and the European Geostationary Navigation Overlay Service (EGNOS). Located in Madrid, the centre independently evaluates and communicates geodetic data, facilitating optimum navigation and distance measuring across Europe. It operates installations that collect signals from satellites, ensuring effective interface with various user stations. The centre's memorandum outlines its feasibility studies and limitations, while fostering collaboration with international partners, including Japan and the Belgian embassy, to enhance global satellite capabilities and operational efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:55:12.872374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 184,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2704,
+      "selected_avg_freq": 973.3066666666666
+    },
+    "related_words": [
+      "gsmc",
+      "geodetic",
+      "grc",
+      "estec",
+      "noordwijk",
+      "gss",
+      "embassy",
+      "gsc",
+      "evaluates",
+      "pseudo",
+      "satellites",
+      "egnos",
+      "globe",
+      "communicates",
+      "galileo",
+      "gnss",
+      "tokyo",
+      "signals",
+      "overlap",
+      "manager",
+      "madrid",
+      "navigation",
+      "deployment",
+      "satellite",
+      "interface",
+      "station",
+      "independently",
+      "stations",
+      "lastly",
+      "space"
+    ],
+    "prompt_length": 1647,
+    "category": "1016 European construction"
+  }
+}

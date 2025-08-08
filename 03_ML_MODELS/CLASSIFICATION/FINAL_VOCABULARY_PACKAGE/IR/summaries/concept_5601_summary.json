@@ -1,0 +1,63 @@
+{
+  "concept_id": "5601",
+  "concept_data": {
+    "title": "video monitor",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "screen",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"video monitor,\" classified under information technology and data processing, is redirected to the preferred term \"screen.\" In EU legal and regulatory contexts, screens are essential for displaying images and data on workstations, facilitating ergonomic interaction with machines. The classification of screens includes various types, such as monochrome, plasma, and liquid crystal displays, each with specific dimensions and diagonal measurements. Stringent regulations govern their installation and use, ensuring that employers provide unambiguous and feasible work environments. Advances in electronics and display technology contribute to the quantifiable improvement of user experience, while also addressing aspects of safety and functionality in workplace settings.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:55.659964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 370,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1163,
+      "selected_avg_freq": 552.5133333333333
+    },
+    "related_words": [
+      "diskettes",
+      "workstations",
+      "monochrome",
+      "workstation",
+      "screens",
+      "ergonomic",
+      "dot",
+      "quantifiable",
+      "reproducing",
+      "diagonal",
+      "images",
+      "matrix",
+      "unambiguous",
+      "screen",
+      "monitors",
+      "plasma",
+      "displays",
+      "video",
+      "crystal",
+      "suspensions",
+      "electronics",
+      "classifications",
+      "black",
+      "classifiable",
+      "classifying",
+      "machine",
+      "employers",
+      "machines",
+      "display",
+      "colour"
+    ],
+    "prompt_length": 1756,
+    "category": "3236 information technology and data processing"
+  }
+}

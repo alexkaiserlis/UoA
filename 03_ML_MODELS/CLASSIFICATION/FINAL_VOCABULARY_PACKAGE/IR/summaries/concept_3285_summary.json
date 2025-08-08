@@ -1,0 +1,26 @@
+{
+  "concept_id": "3285",
+  "concept_data": {
+    "title": "neurology",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Neurology, a critical domain within health regulation, encompasses the study and treatment of disorders affecting the nervous system. In the context of EU legal frameworks, neurology is pivotal for establishing standards in medical practice, ensuring patient safety, and guiding research funding. The European Medicines Agency (EMA) plays a vital role in evaluating neurological therapies, facilitating market access for innovative treatments. Additionally, the EU's regulatory landscape addresses the ethical implications of neurological research, particularly concerning consent and data protection. As such, neurology not only informs health policy but also shapes the regulatory environment surrounding neurological health interventions across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:09:20.311903",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1155,
+    "category": "2841 health"
+  }
+}

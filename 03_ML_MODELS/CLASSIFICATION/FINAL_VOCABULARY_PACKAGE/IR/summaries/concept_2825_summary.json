@@ -1,0 +1,63 @@
+{
+  "concept_id": "2825",
+  "concept_data": {
+    "title": "protection of nature",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental protection",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"protection of nature,\" redirected to \"environmental protection,\" encompasses a broad array of EU legal and regulatory frameworks aimed at safeguarding ecosystems and biodiversity. This includes measures for the oxygenation of water bodies and the preservation of habitats, such as feuchtwiesenschutzgebieten and nationalparken. The EU's policies address the abwehr of drohenden gefahren to the naturhaushalt, ensuring the sustainable bewirtschaftung of land and resources. Legal instruments promote the conservation of endangered species, including ackerwildkrautarten, and support initiatives like biotopschutz and landschaftsschutzes. Through these regulations, the EU aims to maintain equilibria in diverse tracts of land, including machair and steillagenweisbaus areas, thereby fostering long-term ecological health and resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:32:33.456472",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 4731,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.78
+    },
+    "related_words": [
+      "oxygenation",
+      "tranference",
+      "diaphragms",
+      "whithout",
+      "cambrian",
+      "lleyn",
+      "breckland",
+      "shropshire",
+      "stewartry",
+      "whitlaw",
+      "eildon",
+      "machair",
+      "uists",
+      "benbecula",
+      "vatersay",
+      "pflege",
+      "feuchtwiesenschutzgebieten",
+      "zwecke",
+      "naturschutzes",
+      "abwehr",
+      "unmittelbar",
+      "drohenden",
+      "gefahren",
+      "naturhaushalt",
+      "treatened",
+      "bewirtschaftungszuschuesse",
+      "steillagenweisbaus",
+      "gruenden",
+      "landschaftsschutzes",
+      "gmhp"
+    ],
+    "prompt_length": 1864,
+    "category": "5206 environmental policy"
+  }
+}

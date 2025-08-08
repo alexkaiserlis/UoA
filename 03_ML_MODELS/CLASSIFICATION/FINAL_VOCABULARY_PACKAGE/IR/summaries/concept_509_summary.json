@@ -1,0 +1,63 @@
+{
+  "concept_id": "509",
+  "concept_data": {
+    "title": "dredging",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Dredging, a critical activity in building and public works, involves the removal of debris and sediment from water bodies to maintain navigable fairways. In the context of EU regulations, dredging projects must adhere to environmental policies to alleviate the consequences of sedimentation on navigation and riparian ecosystems. For instance, dredging along the Danube, particularly near Budapest and Belgrade, has faced scrutiny due to concerns over unexploded ordnance and the restoration of destroyed habitats. Efficient procurement processes and governmental oversight are essential to ensure that dredging projects, often administered under federal regimes, meet both safety and environmental standards while addressing the extraordinary challenges posed by regional conflicts, such as in Kosovo and Yugoslavia.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:24:59.619496",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 118,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 118,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1510.7288135593221
+    },
+    "related_words": [
+      "fairway",
+      "ordnance",
+      "preented",
+      "riparian",
+      "unexploded",
+      "debris",
+      "blocking",
+      "budapest",
+      "belgrade",
+      "danube",
+      "bridges",
+      "fry",
+      "bed",
+      "agrees",
+      "restoration",
+      "kosovo",
+      "river",
+      "vienna",
+      "extraordinary",
+      "navigation",
+      "governmental",
+      "destroyed",
+      "channel",
+      "fit",
+      "procurement",
+      "alleviate",
+      "institutional",
+      "remainder",
+      "conflict",
+      "session"
+    ],
+    "prompt_length": 1684,
+    "category": "6831 building and public works"
+  }
+}

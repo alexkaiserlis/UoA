@@ -1,0 +1,63 @@
+{
+  "concept_id": "1140",
+  "concept_data": {
+    "title": "exhaust fumes",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "combustion gases",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"exhaust fumes,\" redirected to the preferred term \"combustion gases,\" pertains to the deterioration of the environment, particularly in the context of EU regulations. These gases, emitted from spark-ignition engines, are significant anthropogenic polluters that contribute to air quality issues. Regulatory frameworks emphasize the need for optimization of emissions through diagnostics and roadside checks, utilizing tools like opacimeters and OBD systems to monitor opacity and unburnt hydrocarbons. Limiters and converters are essential in reducing harmful NOx and carbon monoxide emissions. The EU's commitment to roadworthiness and environmental protection invariably involves stringent measures against excessive emissions from commercial vehicles, ensuring compliance and promoting cleaner technologies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:17:31.092374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 747,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 229,
+      "selected_avg_freq": 89.04
+    },
+    "related_words": [
+      "optimization",
+      "cita",
+      "opacimeter",
+      "idling",
+      "sparkignition",
+      "tpp",
+      "bobov",
+      "dol",
+      "lukoil",
+      "neftochim",
+      "brikel",
+      "sjsc",
+      "maritza",
+      "embraced",
+      "megawatts",
+      "ruse",
+      "commerical",
+      "unburnt",
+      "limiters",
+      "polluters",
+      "poster",
+      "republika",
+      "engined",
+      "opacity",
+      "silencers",
+      "tuning",
+      "inexpensive",
+      "varna",
+      "fumes",
+      "precede"
+    ],
+    "prompt_length": 1694,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3093",
+  "concept_data": {
+    "title": "space vehicle",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"space vehicle\" within EU legal and regulatory frameworks refers to any machine designed for transporting cargo or personnel beyond Earth's atmosphere. This includes specifications for accommodating loads, such as cargo containers, and ensuring safety during handling and integration with ground support machinery. Regulatory documents often describe the construction and design of space vehicles, emphasizing standardisation to avoid damage during operations. Clauses may address the tripping hazards associated with loading and unloading, while ensuring compliance with harmonised safety standards. The integration of space vehicles into existing air transport systems requires careful consideration of location, shape, and operational restrictions to ensure certainty and efficiency in operations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:51:56.581439",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 141,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 141,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1611.8510638297873
+    },
+    "related_words": [
+      "shearing",
+      "tripping",
+      "accommodating",
+      "loaders",
+      "slipping",
+      "pallet",
+      "crushing",
+      "doors",
+      "loads",
+      "transposing",
+      "container",
+      "shape",
+      "airport",
+      "machine",
+      "cen",
+      "presumed",
+      "cargo",
+      "describe",
+      "warning",
+      "fails",
+      "built",
+      "aircraft",
+      "machinery",
+      "clause",
+      "standardisation",
+      "positions",
+      "objection",
+      "location",
+      "avoiding",
+      "choice"
+    ],
+    "prompt_length": 1674,
+    "category": "4826 air and space transport"
+  }
+}

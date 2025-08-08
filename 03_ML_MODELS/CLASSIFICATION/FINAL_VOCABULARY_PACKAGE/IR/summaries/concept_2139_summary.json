@@ -1,0 +1,63 @@
+{
+  "concept_id": "2139",
+  "concept_data": {
+    "title": "Umbria",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Umbria, categorized under regions of EU Member States, plays a significant role in various EU legal and regulatory frameworks. The region is involved in programming phases that prioritize modernization and sustainable development, particularly in sectors like goatmeat, sheepmeat, and veal production. The European Regional Development Fund (ERDF) allocates resources to support these initiatives, ensuring additionality in funding. Designations of protected foodstuffs from Umbria reflect the EU's commitment to quality and regional identity. The region's contributions are indexed within broader Mediterranean strategies, fulfilling specific priorities and showing a pattern of inclusive growth. Stakeholders, including local partners, are engaged in successive deliberazioni to optimize allocations and address inflation impacts, thereby constituting a comprehensive approach to regional development.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:20:14.416752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 281,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1533,
+      "selected_avg_freq": 881.6333333333333
+    },
+    "related_words": [
+      "deliberazione",
+      "imp",
+      "umbria",
+      "phases",
+      "additionality",
+      "indexed",
+      "pdo",
+      "del",
+      "seq",
+      "erdf",
+      "goatmeat",
+      "modernization",
+      "sheepmeat",
+      "eib",
+      "inflation",
+      "opposition",
+      "successive",
+      "inclusive",
+      "perspective",
+      "allocations",
+      "designations",
+      "programming",
+      "pattern",
+      "specification",
+      "attained",
+      "mediterranean",
+      "preparing",
+      "breakdown",
+      "constituting",
+      "eaggf"
+    ],
+    "prompt_length": 1698,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2989",
+  "concept_data": {
+    "title": "milk production",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "dairy production",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"milk production,\" redirected to \"dairy production,\" encompasses a broad spectrum of agricultural activities regulated under EU law. This includes the upkeep of dairy herds, milking processes, and the production of various dairy products. Legal frameworks often address issues such as the discontinuation of certain practices, the use of somatotropin, and the assertion of rights by producers. Statistics play a crucial role in monitoring production levels, while interbranch agreements may help in resolving tensions among stakeholders. The EU aims to reaffirm goodwill among producers, ensuring that the sector remains competitive and sustainable, particularly in regions like Friuli Venezia Giulia. Regulatory oversight is essential to prevent overshooting production limits and to facilitate the repurchase of quotas, thereby maintaining market stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:42.278387",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 1040,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 237,
+      "selected_avg_freq": 104.58
+    },
+    "related_words": [
+      "retard",
+      "areticle",
+      "eigth",
+      "disconinuation",
+      "somatotropin",
+      "gentleman",
+      "artciles",
+      "statitics",
+      "caes",
+      "redevelop",
+      "intangibles",
+      "bst",
+      "milking",
+      "hundreds",
+      "repurchase",
+      "assert",
+      "tens",
+      "reagard",
+      "upkeep",
+      "narrowing",
+      "overshooting",
+      "retains",
+      "freed",
+      "penal",
+      "interbranch",
+      "dissuade",
+      "reaffirming",
+      "goodwill",
+      "transferee",
+      "prejudging"
+    ],
+    "prompt_length": 1704,
+    "category": "5631 agricultural activity"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "806",
+  "concept_data": {
+    "title": "vertical agreement",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"vertical agreement\" refers to a concerted practice between parties at different levels of the supply chain, such as manufacturers and retailers. In the context of EU competition law, these agreements may benefit from exemptions under Regulation (EEC) No. 2790/1999, provided they do not impose restrictions that contravene the prohibition outlined in Article 101 of the Treaty on the Functioning of the European Union. The scope of such agreements includes categories like distribution and franchising. The European Commission has established guidelines concerning these agreements, requiring member states to adhere to the principles laid down in said regulations, with amendments made as necessary to reflect evolving market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:54.570907",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 49,
+      "requested_words": 150,
+      "min_frequency_found": 251,
+      "max_frequency_found": 4108,
+      "selected_words": 49,
+      "selected_min_freq": 251,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2403.734693877551
+    },
+    "related_words": [
+      "concerted",
+      "atomic",
+      "prohibition",
+      "come",
+      "exemption",
+      "practices",
+      "categories",
+      "energy",
+      "virtue",
+      "signed",
+      "agreements",
+      "thereto",
+      "annexed",
+      "corresponding",
+      "benefit",
+      "amendments",
+      "requires",
+      "paragraph",
+      "scope",
+      "decisions",
+      "accession",
+      "act",
+      "said",
+      "agreement",
+      "new",
+      "annex",
+      "january",
+      "made",
+      "laid",
+      "application"
+    ],
+    "prompt_length": 1633,
+    "category": "4031 competition"
+  }
+}

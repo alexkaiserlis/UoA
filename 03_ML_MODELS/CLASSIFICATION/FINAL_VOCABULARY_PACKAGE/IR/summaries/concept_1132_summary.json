@@ -1,0 +1,63 @@
+{
+  "concept_id": "1132",
+  "concept_data": {
+    "title": "investment protection",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Investment protection within the EU legal framework encompasses mechanisms designed to safeguard investors' interests, particularly in the context of venture capital and biotechnologies. It involves careful consideration of creditworthiness and the ratings of issuers, ensuring that defaulting debtors are held accountable. Legislators have embarked on reforming investment regulations to enhance accessions for SMEs, particularly in emerging markets such as Abu Dhabi and Dubai. The integration of alternative investment fund managers (AIFMs) and the establishment of frameworks like UCITS and ETFs are pivotal. Furthermore, the historic challenges faced by investors, including unpaid debts and failures in funding, necessitate robust provisioning measures to foster entrepreneurship and innovation across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:00.832772",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 672,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 401,
+      "selected_avg_freq": 169.69333333333333
+    },
+    "related_words": [
+      "iorps",
+      "mechanistically",
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "abu",
+      "dhabi",
+      "jev",
+      "jop",
+      "ceecs",
+      "ups",
+      "aifs",
+      "defaulting",
+      "aifms",
+      "biotechnologies",
+      "cayman",
+      "debtors",
+      "nis",
+      "aiding",
+      "bermuda",
+      "scaled",
+      "provisioning",
+      "etf",
+      "ucits",
+      "creditworthiness",
+      "legislator",
+      "honoured",
+      "embarked",
+      "dubai",
+      "performs"
+    ],
+    "prompt_length": 1645,
+    "category": "2426 financing and investment"
+  }
+}

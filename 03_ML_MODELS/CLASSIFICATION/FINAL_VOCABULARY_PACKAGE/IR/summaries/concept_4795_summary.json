@@ -1,0 +1,26 @@
+{
+  "concept_id": "4795",
+  "concept_data": {
+    "title": "merchant bank",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "investment bank",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"merchant bank\" is a redirect to \"investment bank\" within the EU legal and regulatory framework. Investment banks, categorized under financial institutions and credit, play a pivotal role in capital markets by facilitating the issuance of securities, underwriting, and providing advisory services for mergers and acquisitions. Unlike traditional banks, investment banks primarily engage in activities that support corporate financing and investment strategies. The regulatory landscape governing these institutions is shaped by directives such as MiFID II, which enhances transparency and investor protection. Understanding the nuances between these terms is essential for compliance and regulatory adherence in the EU financial sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:17:50.786138",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1221,
+    "category": "2416 financial institutions and credit"
+  }
+}

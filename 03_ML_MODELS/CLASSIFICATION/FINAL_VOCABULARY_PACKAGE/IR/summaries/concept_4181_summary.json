@@ -1,0 +1,63 @@
+{
+  "concept_id": "4181",
+  "concept_data": {
+    "title": "institutional reform",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Institutional reform within the EU context refers to the systematic amendments and simplification of legal frameworks and governance structures aimed at addressing imbalances across various sectors, including agriculture and employment. This reform seeks to enhance the qualitative and quantitative efficiency of institutions, providing assistance to affected persons, particularly the unemployed and young individuals. By pursuing targeted interventions, the EU aims to extend the scope of its actions, ensuring that decisions adopted in February and subsequent proposals are effectively implemented. These reforms are crucial for fostering a more inclusive environment, aiding industries and facilitating the employment of those seeking opportunities in the evolving economic landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:21.810821",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 70,
+      "requested_words": 150,
+      "min_frequency_found": 73,
+      "max_frequency_found": 4108,
+      "selected_words": 70,
+      "selected_min_freq": 73,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1946.8857142857144
+    },
+    "related_words": [
+      "unemployed",
+      "occupied",
+      "imbalances",
+      "clothing",
+      "qualitative",
+      "seeking",
+      "leaving",
+      "extends",
+      "textile",
+      "pursue",
+      "self",
+      "young",
+      "employed",
+      "simplification",
+      "quantitative",
+      "reform",
+      "industries",
+      "favour",
+      "people",
+      "employment",
+      "intervention",
+      "agriculture",
+      "sectors",
+      "categories",
+      "affected",
+      "fund",
+      "difficulties",
+      "persons",
+      "assistance",
+      "aid"
+    ],
+    "prompt_length": 1696,
+    "category": "0431 politics and public safety"
+  }
+}

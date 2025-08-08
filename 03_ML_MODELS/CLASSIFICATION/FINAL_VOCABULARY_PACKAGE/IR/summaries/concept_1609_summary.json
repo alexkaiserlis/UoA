@@ -1,0 +1,63 @@
+{
+  "concept_id": "1609",
+  "concept_data": {
+    "title": "pea",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "leguminous vegetable",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"pea,\" classified under the category of \"plant product,\" is redirected to the preferred term \"leguminous vegetable\" within EU legal and regulatory frameworks. This classification encompasses various species typified by their pods, such as lentilles and fagioli, which are crucial for agricultural operations. The regulatory landscape addresses difficulties in cultivation, including issues of recultivation and fallowing practices. Transparency in labeling is essential, particularly concerning allergens like tropomyosin found in bivalves. Moreover, the impact of tannin on nutritional value and the role of chloroplasts in photosynthesis are significant. The EU aims to stabilize markets and enhance the quality of these crops, ensuring they meet the standards of diverse culinary traditions, including those from Pommerania and the Mediterranean.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:56.963855",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 2179,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.96
+    },
+    "related_words": [
+      "lăšgumes",
+      "pods",
+      "diffculties",
+      "misdirection",
+      "trnsparency",
+      "tannin",
+      "trypsic",
+      "crade",
+      "forestalled",
+      "escacena",
+      "wrzawska",
+      "typified",
+      "downgeneral",
+      "mongeta",
+      "ganxet",
+      "dwarf",
+      "sim",
+      "transversal",
+      "issueof",
+      "telegrams",
+      "restores",
+      "lentilles",
+      "vertes",
+      "cobs",
+      "stalks",
+      "sheaf",
+      "pommerania",
+      "opeations",
+      "waister",
+      "blazers"
+    ],
+    "prompt_length": 1695,
+    "category": "6006 plant product"
+  }
+}

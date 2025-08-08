@@ -1,0 +1,26 @@
+{
+  "concept_id": "6737",
+  "concept_data": {
+    "title": "unauthorised building",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "illegal building",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"unauthorised building,\" commonly referred to as \"illegal building,\" pertains to structures erected without the requisite permits or adherence to established construction regulations within the EU. Such constructions violate local planning laws and may pose significant challenges to urban development and environmental sustainability. The EU regulatory framework emphasizes compliance with town planning directives to ensure orderly development and protection of public interests. Illegal buildings can lead to legal repercussions, including demolition orders and fines, highlighting the importance of regulatory oversight in maintaining the integrity of construction practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:53:10.497579",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 92,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1227,
+    "category": "2846 construction and town planning"
+  }
+}

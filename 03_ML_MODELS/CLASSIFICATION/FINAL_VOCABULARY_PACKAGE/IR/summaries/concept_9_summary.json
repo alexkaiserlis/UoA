@@ -1,0 +1,63 @@
+{
+  "concept_id": "9",
+  "concept_data": {
+    "title": "foreign trade",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"foreign trade\" within EU legal and regulatory frameworks encompasses the statistical analysis of trade flows, focusing on geopolitical dynamics and international accords. It involves the compilation of data from various nomenclatures, such as CPA and PRODCOM, to ensure completeness and accuracy in reporting. The EU's Generalized Scheme of Preferences (GSP) aims to support developing countries like Bolivia and Ecuador by providing preferential tariffs. Legal documents often require declarants to transmit aggregated data, ensuring unaltered records. By revising trade policies and addressing divergences, the EU stands to enhance its outward trade relations with nations like Paraguay and Mongolia, thereby complementing its economic strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:51.407041",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 487,
+      "selected_avg_freq": 224.90666666666667
+    },
+    "related_words": [
+      "statisical",
+      "trifling",
+      "geopolitical",
+      "zaire",
+      "prodcom",
+      "cpa",
+      "computerization",
+      "alphabetical",
+      "commisscommission",
+      "declarant",
+      "accords",
+      "thethe",
+      "eua",
+      "afterwards",
+      "nomenclatures",
+      "rounded",
+      "surveyed",
+      "bolivia",
+      "circulate",
+      "divergences",
+      "paraguay",
+      "mongolia",
+      "compiling",
+      "ecuador",
+      "outward",
+      "macro",
+      "gsp",
+      "discontinue",
+      "inserting",
+      "verde"
+    ],
+    "prompt_length": 1684,
+    "category": "2006 trade policy"
+  }
+}

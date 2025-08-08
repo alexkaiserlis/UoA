@@ -1,0 +1,63 @@
+{
+  "concept_id": "834",
+  "concept_data": {
+    "title": "savings",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"savings\" refers to the accumulation of untaxed revenues by individuals and collectivity, often influenced by dual taxation agreements. The EU seeks to enhance uniformity in savings regulations, addressing challenges such as tax evasion and ensuring that taxpayers, including residents of principality states like Monaco and Andorra, comply with broader OECD standards. Instances of unreported savings can lead to significant penalties, while seamless information exchange among member states aims to reduce withholding taxes. The consensus on saving strategies is crucial for securing financial stability, albeit with slight variations across jurisdictions, as observed in negotiations involving outermost regions like Saint Barthélemy and San Marino. Ultimately, the goal is to save and retain resources effectively while eliminating overlaps in tax obligations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:31:28.099520",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 456,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 805,
+      "selected_avg_freq": 401.9866666666667
+    },
+    "related_words": [
+      "plenipotentiary",
+      "untaxed",
+      "g20",
+      "collectivity",
+      "barthélemy",
+      "outweighed",
+      "taxpayers",
+      "monaco",
+      "unreported",
+      "seamless",
+      "withholding",
+      "andorra",
+      "marino",
+      "overlap",
+      "dual",
+      "warrants",
+      "albeit",
+      "broader",
+      "resident",
+      "slight",
+      "prevail",
+      "consensus",
+      "evasion",
+      "constitutional",
+      "exchanged",
+      "retaining",
+      "nothing",
+      "observes",
+      "revenues",
+      "accord"
+    ],
+    "prompt_length": 1680,
+    "category": "1626 national accounts"
+  }
+}

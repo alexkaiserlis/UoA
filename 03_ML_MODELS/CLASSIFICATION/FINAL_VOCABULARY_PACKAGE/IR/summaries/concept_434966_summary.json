@@ -1,0 +1,63 @@
+{
+  "concept_id": "434966",
+  "concept_data": {
+    "title": "emission quota",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "emission allowance",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"emission quota,\" now redirected to \"emission allowance,\" refers to a tradable permit system established under EU environmental policy to regulate greenhouse gas emissions. Emission allowances are auctioned by auctioneers, with participants bidding to procure these intangible assets, which represent the right to emit a specified amount of pollutants. The European Energy Exchange (EEX) facilitates these auctions, disclosing timetables and ensuring correctness in the process. Recalculations may occur due to cancellations or adjustments in emissions data, impacting the registry of allowances. This system aims to leverage market mechanisms, encouraging emitters to reduce their combustion emissions while providing a predictable framework for compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:27:31.292087",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 589,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 462,
+      "selected_avg_freq": 202.32666666666665
+    },
+    "related_words": [
+      "recalculations",
+      "tradable",
+      "auctioneer",
+      "auctioneers",
+      "eex",
+      "firing",
+      "cancellations",
+      "tnp",
+      "organises",
+      "bidders",
+      "erus",
+      "cers",
+      "webpage",
+      "desulphurisation",
+      "auctioned",
+      "calendars",
+      "disclosing",
+      "procuring",
+      "auctioning",
+      "insider",
+      "emitters",
+      "inaccessible",
+      "intangible",
+      "surrender",
+      "replying",
+      "leverage",
+      "auctions",
+      "stationary",
+      "auction",
+      "mirror"
+    ],
+    "prompt_length": 1741,
+    "category": "5206 environmental policy"
+  }
+}

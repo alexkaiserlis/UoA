@@ -1,0 +1,63 @@
+{
+  "concept_id": "1442",
+  "concept_data": {
+    "title": "food test",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "food inspection",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"food inspection\" encompasses a comprehensive framework aimed at safeguarding consumer health through rigorous assessments of food products. This process involves evaluating various factors, including the presence of contaminants such as metabisulphite and thiabendazol, and ensuring compliance with standards related to additives like hexetidine and unsaponifiable substances. Inspectors assess food safety, focusing on elements like radioprotection and the integrity of thawed products. Additionally, the inspection regime addresses the nutritional profile of foods, including the presence of beneficial compounds like lycopenes and the regulation of substances such as bismuth subcarbonate. This ensures that food products meet EU health regulations, thereby protecting consumers from potential hazards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:15.567216",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 5405,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.786666666666667
+    },
+    "related_words": [
+      "suphur",
+      "cunsumers",
+      "radioprotection",
+      "thawing",
+      "thawed",
+      "degreased",
+      "lycopenes",
+      "clazuril",
+      "distearate",
+      "terebinthinae",
+      "laricina",
+      "coco",
+      "betaines",
+      "diprophylline",
+      "hexetidine",
+      "hydroxystearate",
+      "cocoate",
+      "stearates",
+      "prethcamide",
+      "crotethamide",
+      "cropropamide",
+      "terpin",
+      "balsamum",
+      "peruvianum",
+      "ricini",
+      "rectificatum",
+      "alfacalcidol",
+      "luff",
+      "schoorl",
+      "yiels"
+    ],
+    "prompt_length": 1784,
+    "category": "2841 health"
+  }
+}

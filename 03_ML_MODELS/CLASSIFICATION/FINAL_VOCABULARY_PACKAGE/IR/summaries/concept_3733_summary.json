@@ -1,0 +1,63 @@
+{
+  "concept_id": "3733",
+  "concept_data": {
+    "title": "petroleum policy",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"petroleum policy\" within the EU legal framework encompasses regulations and practices governing the oil industry, focusing on international cooperation and economic stability. This policy aims to assist companies in managing vulnerabilities and balancing supply and demand, particularly during emergencies. Amendments to existing regulations are periodically tested to ensure effectiveness. The EU coordinates with international bodies, such as the IEA, to forecast changes in oil inventories and direct responses to market fluctuations. Subcommittees and subgroups are established to address specific issues, ensuring that the redistribution of resources occurs efficiently and equitably, thereby minimizing inconvenience and enhancing overall economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:29.301175",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 462,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 639,
+      "selected_avg_freq": 230.14
+    },
+    "related_words": [
+      "interational",
+      "pratices",
+      "companis",
+      "iab",
+      "changs",
+      "admendment",
+      "cerm",
+      "solicitation",
+      "isag",
+      "periodicallytest",
+      "ngl",
+      "ifa",
+      "copanies",
+      "thse",
+      "experted",
+      "economny",
+      "interantional",
+      "investories",
+      "subcommittes",
+      "iea",
+      "iep",
+      "alaska",
+      "restraining",
+      "appliction",
+      "redistribute",
+      "chariman",
+      "subgroups",
+      "barrels",
+      "loop",
+      "window"
+    ],
+    "prompt_length": 1694,
+    "category": "6616 oil industry"
+  }
+}

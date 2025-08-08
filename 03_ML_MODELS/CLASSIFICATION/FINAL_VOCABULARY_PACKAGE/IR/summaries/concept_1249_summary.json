@@ -1,0 +1,63 @@
+{
+  "concept_id": "1249",
+  "concept_data": {
+    "title": "North Holland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "North Holland, categorized under regions of EU Member States, plays a significant role in EU legal and regulatory frameworks. This region, alongside Flevoland and Noord-Holland, is pivotal in addressing labour market challenges, particularly in the context of redundancies and reintegration of workers. The European Globalisation Fund (EGF) mobilises resources to support affected individuals, ensuring compliance with eligibility criteria. The European Regional Development Fund (ERDF) further contributes by programming allocations that reflect local priorities. In light of economic crises, North Holland’s development patterns are indexed to broader EU objectives, fostering additionality and fulfilling interinstitutional commitments while addressing inflation and globalisation impacts.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:46:51.022776",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 219,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 2258,
+      "selected_avg_freq": 1027.5533333333333
+    },
+    "related_words": [
+      "flevoland",
+      "noord",
+      "holland",
+      "egf",
+      "redundancies",
+      "printing",
+      "nace",
+      "additionality",
+      "reintegration",
+      "indexed",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "reproduction",
+      "nuts",
+      "seq",
+      "erdf",
+      "mobilisation",
+      "media",
+      "redundant",
+      "eib",
+      "inflation",
+      "proposes",
+      "perspective",
+      "allocations",
+      "division",
+      "patterns",
+      "programming",
+      "pattern"
+    ],
+    "prompt_length": 1712,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "697",
+  "concept_data": {
+    "title": "European election",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"European election\" refers to the electoral procedure through which citizens of the EU, including Cypriots and other nationals, exercise their universal suffrage to elect Members of the European Parliament (MEPs). This process entails the candidacy of individuals who must meet specific criteria, including residence and attestation of eligibility, to avoid disqualification. The elections are governed by regulations that ensure the admissibility of candidates and the integrity of the electoral roll. Reunification efforts, particularly in divided regions like Cyprus, highlight the importance of representation and the role of legislators in proposing reforms. These extraordinary elections serve to confirm the democratic will of the peoples residing in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:05:22.821288",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 281,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1279,
+      "selected_avg_freq": 596.4533333333334
+    },
+    "related_words": [
+      "cypriots",
+      "suffrage",
+      "disqualification",
+      "reunited",
+      "candidacy",
+      "reunification",
+      "deprivation",
+      "legislator",
+      "election",
+      "citizen",
+      "electoral",
+      "precluded",
+      "roll",
+      "residing",
+      "elected",
+      "peoples",
+      "proves",
+      "explaining",
+      "intergovernmental",
+      "birth",
+      "universal",
+      "rejecting",
+      "elections",
+      "admissibility",
+      "vote",
+      "extraordinary",
+      "deprived",
+      "attestation",
+      "nomination",
+      "repeatedly"
+    ],
+    "prompt_length": 1743,
+    "category": "0416 electoral procedure and voting"
+  }
+}

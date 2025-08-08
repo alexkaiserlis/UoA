@@ -1,0 +1,63 @@
+{
+  "concept_id": "1696",
+  "concept_data": {
+    "title": "software package",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "software",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"software package,\" categorized under information technology and data processing, redirects to the preferred term \"software.\" In EU legal and regulatory frameworks, software embodies creations that harmonize originality and creativity, essential for rightholders. The jurisprudence surrounding software includes aspects of authorship, where authors and performers retain moral rights over their works. Legal considerations also involve the decompilation of software, ensuring that algorithms remain protected while allowing for interoperability. The lifespan of software, akin to that of literary and artistic works, is influenced by attitudes towards portability and the protection of rightholders' interests. This regulatory landscape underpins the mapping of rights in digital collections, ensuring that the merit of software innovations is recognized and preserved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:27:56.910234",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 785,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 260,
+      "selected_avg_freq": 106.12
+    },
+    "related_words": [
+      "decompilation",
+      "pseudonymous",
+      "creations",
+      "authorship",
+      "harmonizes",
+      "moral",
+      "revived",
+      "informatic",
+      "aesthetic",
+      "everyday",
+      "rightholder",
+      "prejudices",
+      "agile",
+      "originality",
+      "creativity",
+      "perpetual",
+      "underlie",
+      "mapping",
+      "authors",
+      "wars",
+      "perceptible",
+      "acquirer",
+      "copied",
+      "phonograms",
+      "rightholders",
+      "algorithms",
+      "descendants",
+      "literary",
+      "informatics",
+      "collections"
+    ],
+    "prompt_length": 1765,
+    "category": "3236 information technology and data processing"
+  }
+}

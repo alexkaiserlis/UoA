@@ -1,0 +1,63 @@
+{
+  "concept_id": "3817",
+  "concept_data": {
+    "title": "organic compound",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "organic chemical",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"organic compound,\" a redirect to \"organic chemical,\" encompasses a vast array of substances significant in EU regulatory frameworks. Organic chemicals, including pentaerythritol, diaminobutane, and putrescine, are pivotal in various industries, from pharmaceuticals to agrochemicals. Regulations often govern their use, ensuring safety and environmental compliance, particularly for compounds like tetrachlorethylene and acrylonitrile. The EU monitors the production of organic chemicals through frameworks that assess their electrochemical properties, such as those measured by potentiostats and galvanostats. Additionally, the oligopolistic nature of the market influences the commercialization of these compounds, impacting entities like distillerie and bioking. Understanding these regulations is essential for compliance and innovation in chemical manufacturing.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:23:02.178955",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1508,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 35,
+      "selected_avg_freq": 14.566666666666666
+    },
+    "related_words": [
+      "pentaerythricol",
+      "diaminobutane",
+      "putrescine",
+      "putrescin",
+      "tetrachlorethylene",
+      "isopropylamine",
+      "ethanolamine",
+      "ethyleneoxide",
+      "oligopolistic",
+      "cyhalotrin",
+      "eden",
+      "bioking",
+      "distillerie",
+      "bonollo",
+      "valenzana",
+      "mazzari",
+      "caviro",
+      "comercial",
+      "sarasa",
+      "jasco",
+      "spectropolarimeter",
+      "dichroism",
+      "geraniol",
+      "ethanolamines",
+      "potentiostat",
+      "electrocatalytic",
+      "elctrocatalytic",
+      "adatoms",
+      "galvanostat",
+      "grouts"
+    ],
+    "prompt_length": 1814,
+    "category": "6811 chemistry"
+  }
+}

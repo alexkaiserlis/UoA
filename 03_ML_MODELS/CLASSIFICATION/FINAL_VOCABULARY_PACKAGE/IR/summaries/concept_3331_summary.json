@@ -1,0 +1,63 @@
+{
+  "concept_id": "3331",
+  "concept_data": {
+    "title": "voluntary organization",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "voluntary organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"voluntary organisation,\" categorized under social affairs, refers to entities that operate without profit motives, often focusing on supporting underprivileged communities. These organisations facilitate various initiatives, such as providing vouchers for schoolchildren or sorting unsold food, including watermelons and cauliflowers, to combat crises. In EU regulatory frameworks, they are symbolically significant, as they adapt to societal needs and optimize resource allocation. However, they may face challenges, such as being sued for overcompensation or penalised for administrative inefficiencies. The Commission recognizes these organisations' role in addressing deteriorating social conditions, assuring that they can join efforts to lighten the burden on victims of economic downturns.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:59:52.595854",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 695,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 418,
+      "selected_avg_freq": 201.24
+    },
+    "related_words": [
+      "encounted",
+      "underprivileged",
+      "facilitiate",
+      "attacking",
+      "unripe",
+      "sued",
+      "schoolchildren",
+      "optimize",
+      "penalise",
+      "symbolic",
+      "depots",
+      "repeats",
+      "voucher",
+      "ripe",
+      "streamlined",
+      "watermelons",
+      "lighten",
+      "unsold",
+      "retrospectively",
+      "assuring",
+      "opposing",
+      "groats",
+      "worsened",
+      "adapts",
+      "abundant",
+      "melons",
+      "cauliflowers",
+      "administratively",
+      "aubergines",
+      "unavailable"
+    ],
+    "prompt_length": 1760,
+    "category": "2826 social affairs"
+  }
+}

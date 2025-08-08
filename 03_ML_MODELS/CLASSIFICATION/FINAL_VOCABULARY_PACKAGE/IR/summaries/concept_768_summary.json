@@ -1,0 +1,63 @@
+{
+  "concept_id": "768",
+  "concept_data": {
+    "title": "fattening",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU agricultural regulations, \"fattening\" refers to the process of enhancing livestock growth through specific feed strategies and additives. This activity involves the use of microorganisms such as humicola and hansenula to optimize digestion and nutrient absorption. Legal frameworks govern the use of substances like nicarbazina and maxiban, which are employed to improve feed efficiency and growth rates in finishers. Additionally, the incorporation of provitamins and protease enhances the nutritional profile of feeds. Regulatory bodies, such as the European Food Safety Authority, assess the safety and efficacy of these additives, ensuring they are respectful of animal welfare and environmental standards. The use of products like calsporin and dimethylglycine is also evaluated for their impact on excretion and overall health.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:45:31.937144",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 1278,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 65,
+      "selected_avg_freq": 23.5
+    },
+    "related_words": [
+      "humicola",
+      "insolens",
+      "hansenula",
+      "aviax",
+      "provitamins",
+      "finishers",
+      "bgu",
+      "bonvital",
+      "rubinum",
+      "kokcisan",
+      "protease",
+      "toyocerin",
+      "authoårisation",
+      "lesaffre",
+      "nicarbazina",
+      "maxiban",
+      "vetagro",
+      "dimethylglycine",
+      "fatten",
+      "taminco",
+      "sensitiser",
+      "industrielle",
+      "respectful",
+      "calsporin",
+      "biomin",
+      "finnfeeds",
+      "hydroxycholecalciferol",
+      "cygro",
+      "ftu",
+      "excretion"
+    ],
+    "prompt_length": 1713,
+    "category": "5631 agricultural activity"
+  }
+}

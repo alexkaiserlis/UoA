@@ -1,0 +1,63 @@
+{
+  "concept_id": "158",
+  "concept_data": {
+    "title": "container",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"container\" refers to a standardized unit used for the organization of transport, facilitating the movement of heterogeneous loads across various modes of transport. Containers, which may include tankers and pallets, are essential for accommodating diverse cargo types and ensuring efficient logistics. The regulatory framework envisages competencies for loaders and shipyards, emphasizing the importance of proper sealing and tare weight management. Initiatives like the TIR (Transports Internationaux Routiers) system and the use of carnets enhance cross-border transport facilitation. As the industry expands, the intensification of containerization necessitates ongoing repairs, pooling of resources, and adherence to safety standards, including defensive measures against slipping and crushing during transit.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:36:24.364063",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 598,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 469,
+      "selected_avg_freq": 209.72
+    },
+    "related_words": [
+      "cmaa",
+      "shearing",
+      "tare",
+      "stationing",
+      "tripping",
+      "expands",
+      "swap",
+      "competencies",
+      "accommodating",
+      "initiates",
+      "loaders",
+      "slipping",
+      "envisaging",
+      "defensive",
+      "carnets",
+      "repairs",
+      "intensifying",
+      "istanbul",
+      "mayen",
+      "seals",
+      "tir",
+      "lng",
+      "pallet",
+      "crushing",
+      "injured",
+      "heterogeneous",
+      "pallets",
+      "doors",
+      "eel",
+      "broadening"
+    ],
+    "prompt_length": 1657,
+    "category": "4811 organisation of transport"
+  }
+}

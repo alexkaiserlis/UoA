@@ -1,0 +1,26 @@
+{
+  "concept_id": "3818",
+  "concept_data": {
+    "title": "pesticides industry",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"pesticides industry\" encompasses the production, distribution, and regulation of chemical substances used to control pests in agriculture and public health. Within the EU legal framework, this industry is governed by stringent regulations aimed at ensuring environmental protection and human safety. The primary legislation includes Regulation (EC) No 1107/2009, which establishes the approval process for active substances and the authorization of plant protection products. The regulatory landscape mandates comprehensive risk assessments and compliance with safety standards, reflecting the EU's commitment to sustainable agriculture and the precautionary principle. This industry plays a crucial role in balancing agricultural productivity with ecological integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:04.712878",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1168,
+    "category": "6811 chemistry"
+  }
+}

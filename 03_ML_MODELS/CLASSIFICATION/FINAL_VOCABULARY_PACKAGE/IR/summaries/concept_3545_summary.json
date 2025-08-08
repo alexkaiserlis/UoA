@@ -1,0 +1,63 @@
+{
+  "concept_id": "3545",
+  "concept_data": {
+    "title": "self-employed worker",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "self-employed person",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"self-employed worker,\" redirected to the preferred term \"self-employed person,\" encompasses individuals who operate independently, often in consultancies or as accountants within various sectors, including horeca. These possessors of independence are crucial in the labour market, contributing to economic dynamism. Their status may involve complexities such as detachment during pregnancy or motherhood, requiring nuanced treatment under EU directives. The immense diversity of self-employed persons necessitates a knowledgeable approach to regulation, as they navigate challenges like radicalisation and the need for reappointment in contemporary markets. Lobbyists and organizations, such as BDO and Horwath, often engage in researching these dynamics to convey insights to policymakers.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:18.784758",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1915,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 18.54
+    },
+    "related_words": [
+      "malmö",
+      "consultancies",
+      "enlist",
+      "pregnancy",
+      "motherhood",
+      "treament",
+      "nce",
+      "oenb",
+      "alpen",
+      "tpa",
+      "horwath",
+      "wirtschaftsprüfung",
+      "stephens",
+      "bdo",
+      "auxilia",
+      "wirtschaftsprüfungs",
+      "steuerberatungsgesellschaft",
+      "minded",
+      "annuls",
+      "coopers",
+      "lybrand",
+      "detachment",
+      "contemporary",
+      "knowledgeable",
+      "horeca",
+      "overnight",
+      "possessors",
+      "radicalisation",
+      "researching",
+      "killings"
+    ],
+    "prompt_length": 1774,
+    "category": "4411 labour market"
+  }
+}

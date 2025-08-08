@@ -1,0 +1,63 @@
+{
+  "concept_id": "2937",
+  "concept_data": {
+    "title": "dairy herd conversion",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "conversion to beef production",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"dairy herd conversion,\" redirected to \"conversion to beef production,\" pertains to the regulatory framework governing the transformation of dairy cows into beef cattle within the EU agricultural sector. This process is designed to dissuade farmers from maintaining unproductive dairy herds, thereby optimizing stock management. Farmers may receive premiums for their converted herds, provided they can prove compliance with specific regulations. The conversion model requires clear documentation, including receipts and proof of identity for the original dairy cows. Although this practice may result in partial loss of milk production, it is advisable under exceptional circumstances, ensuring the recovery of economic viability for farmers.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:12.093947",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 156,
+      "requested_words": 150,
+      "min_frequency_found": 25,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 25,
+      "selected_max_freq": 3643,
+      "selected_avg_freq": 1638.1
+    },
+    "related_words": [
+      "dissuade",
+      "keeps",
+      "card",
+      "relax",
+      "cards",
+      "duplicate",
+      "returning",
+      "majeure",
+      "fashion",
+      "cow",
+      "herds",
+      "copies",
+      "sure",
+      "nonetheless",
+      "cows",
+      "returned",
+      "choose",
+      "premiums",
+      "lost",
+      "disposed",
+      "identity",
+      "dairy",
+      "inserted",
+      "premium",
+      "recipient",
+      "receipt",
+      "farmers",
+      "beneficiary",
+      "partial",
+      "proof"
+    ],
+    "prompt_length": 1704,
+    "category": "5611 agricultural structures and production"
+  }
+}

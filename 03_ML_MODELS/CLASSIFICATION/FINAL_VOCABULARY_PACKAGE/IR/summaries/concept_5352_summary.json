@@ -1,0 +1,63 @@
+{
+  "concept_id": "5352",
+  "concept_data": {
+    "title": "Centre-Val de Loire",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Centre-Val de Loire\" is a designated region within the EU Member States, recognized for its unique agricultural products such as lentilles and crottin de Chavignol. This region's programming frameworks are crucial for the allocation of funds under the European Regional Development Fund (ERDF) and the European Social Fund (ESF), ensuring additionality in development efforts. The region's PDO and PGI designations highlight its commitment to quality and heritage, while the indexed allocations foreseen in EU regulations aim to address inflation and declining economic conditions. The Centre-Val de Loire's strategic programming satisfies statutory requirements and reflects the EU's intent to support regional development through indicative loans and precise specifications.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:12:12.472429",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 411,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1068,
+      "selected_avg_freq": 620.1666666666666
+    },
+    "related_words": [
+      "lentilles",
+      "vertes",
+      "crottin",
+      "chavignol",
+      "berry",
+      "valençay",
+      "programmation",
+      "additionality",
+      "indexed",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "pgi",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "ruled",
+      "supplements",
+      "eib",
+      "declining",
+      "inflation",
+      "opposition",
+      "adopts",
+      "mention",
+      "hereto",
+      "perspective",
+      "unused"
+    ],
+    "prompt_length": 1682,
+    "category": "7211 regions of EU Member States"
+  }
+}

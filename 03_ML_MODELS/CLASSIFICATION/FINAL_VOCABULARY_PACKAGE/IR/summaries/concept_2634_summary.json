@@ -1,0 +1,63 @@
+{
+  "concept_id": "2634",
+  "concept_data": {
+    "title": "export price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"export price\" refers to the price at which goods are sold to buyers outside the European Union, playing a critical role in trade regulation. In EU legal contexts, it is essential for determining anti-dumping measures and ensuring fair competition. The export price must be effectively calculated, taking into account factors such as consultation with relevant stakeholders and the preliminary assessment of market conditions. Companies like Fincantieri and Wärtsilä, for instance, must ensure their export prices are acceptable and unchallenged in the context of international trade. The divisione of prices can impact the disappearance of competitive advantages, necessitating a thorough analysis of motoren and motores pricing strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:01.225873",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1172,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 74,
+      "selected_avg_freq": 22.153333333333332
+    },
+    "related_words": [
+      "consultaion",
+      "bico",
+      "warrented",
+      "euromot",
+      "perliminary",
+      "mak",
+      "motoren",
+      "stork",
+      "werkspoor",
+      "fincantieri",
+      "divisione",
+      "motori",
+      "pielstick",
+      "sulzer",
+      "ruston",
+      "mirrlees",
+      "blackstone",
+      "compaăąia",
+      "motores",
+      "mwm",
+      "bazăąn",
+      "waertsilae",
+      "trollhaettan",
+      "disappearence",
+      "effecitvely",
+      "accpetable",
+      "wai",
+      "barreggio",
+      "inoue",
+      "jikuuke"
+    ],
+    "prompt_length": 1630,
+    "category": "2451 prices"
+  }
+}

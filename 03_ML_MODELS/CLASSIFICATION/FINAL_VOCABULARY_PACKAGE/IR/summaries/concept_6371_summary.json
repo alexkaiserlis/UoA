@@ -1,0 +1,63 @@
+{
+  "concept_id": "6371",
+  "concept_data": {
+    "title": "trade statistics",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Trade statistics within the EU context refer to the systematic collection and analysis of data related to the import and export of goods. These statistics are crucial for understanding market dynamics and are often compiled using methodologies such as Intrastat and Prodcom, which provide a coherent framework for data collection. Eurostat plays a pivotal role in ensuring the coverage and alignment of these statistics across member states, including Kosovo, Montenegro, and Serbia. By employing automated systems and standardized coding formats, trade statistics facilitate the breakdowns of items surveyed monthly and yearly. This streamlined approach helps in revising indicators, reducing errors, and affording better insights into market liabilities, thereby preventing misinterpretation of data. The results are essential for policymakers and businesses to compare portfolios and make informed decisions.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:15:21.059227",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 285,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1471,
+      "selected_avg_freq": 727.3866666666667
+    },
+    "related_words": [
+      "readjust",
+      "vademecum",
+      "prodcom",
+      "subtracting",
+      "intrastat",
+      "cpa",
+      "arrivals",
+      "alphabetical",
+      "streamlined",
+      "misinterpretation",
+      "breakdowns",
+      "portfolio",
+      "numerical",
+      "surveyed",
+      "compare",
+      "alpha",
+      "preferable",
+      "automated",
+      "revising",
+      "kosovo",
+      "concepts",
+      "coding",
+      "liabilities",
+      "afford",
+      "montenegro",
+      "alignment",
+      "serbia",
+      "instructions",
+      "iso",
+      "indicators"
+    ],
+    "prompt_length": 1666,
+    "category": "2031 marketing"
+  }
+}

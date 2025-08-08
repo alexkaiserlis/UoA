@@ -1,0 +1,63 @@
+{
+  "concept_id": "2062",
+  "concept_data": {
+    "title": "standard of living",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"standard of living\" concept is integral to the EU's national accounts, influencing various departments and regulatory frameworks. It refers to the economic and social conditions that determine the quality of life for citizens across member states. The European Commission and Council often propose interventions to promote development, applying provisions from treaties and articles of the EEC. These proposals are likely to include funding mechanisms that establish conditions for improving living standards. In November, decisions are frequently made regarding these standards, referred to in community discussions, ensuring that the economic well-being of citizens is prioritized within the EU's overarching goals.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:54:30.754163",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 32,
+      "requested_words": 150,
+      "min_frequency_found": 485,
+      "max_frequency_found": 4108,
+      "selected_words": 32,
+      "selected_min_freq": 485,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2581.96875
+    },
+    "related_words": [
+      "departments",
+      "overseas",
+      "intervention",
+      "promote",
+      "fund",
+      "likely",
+      "french",
+      "determine",
+      "applying",
+      "subparagraph",
+      "social",
+      "development",
+      "than",
+      "apply",
+      "articles",
+      "provides",
+      "referred",
+      "conditions",
+      "november",
+      "proposal",
+      "provisions",
+      "other",
+      "eec",
+      "economic",
+      "communities",
+      "decision",
+      "community",
+      "establishing",
+      "commission",
+      "council"
+    ],
+    "prompt_length": 1501,
+    "category": "1626 national accounts"
+  }
+}

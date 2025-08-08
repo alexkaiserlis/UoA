@@ -1,0 +1,63 @@
+{
+  "concept_id": "1206",
+  "concept_data": {
+    "title": "groat",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"groat\" refers to the hulled seeds of various grains, particularly barley, rye, and spelt, which undergo minimal processing. Groats serve as a significant agricultural foodstuff, often utilized in the production of flours and meals, including pregelatinised varieties. Their nutritional profile is noteworthy, containing protein, fibre, and essential starches, making them a valuable ingredient in bread and malt for beer production. The allowable variations in groat composition can influence the equilibrium of food availability, while their crude ash content serves as an indicator of quality. Regulatory frameworks address the potential for disturbing market balances through the introduction of alternative grains, such as manioc and tropical tubers, ensuring that the integrity of traditional groats is maintained in food supply calculations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:37:16.347741",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 358,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1126,
+      "selected_avg_freq": 504.2866666666667
+    },
+    "related_words": [
+      "agricualtural",
+      "pregelatinised",
+      "tegument",
+      "quellmehl",
+      "insignificance",
+      "alignments",
+      "graduated",
+      "fod",
+      "spelt",
+      "groats",
+      "flours",
+      "availabilities",
+      "ash",
+      "meslin",
+      "intervening",
+      "bread",
+      "manioc",
+      "glucose",
+      "roots",
+      "tubers",
+      "malt",
+      "beer",
+      "tropical",
+      "flour",
+      "disturbing",
+      "threatening",
+      "indicator",
+      "reaches",
+      "allowable",
+      "rye"
+    ],
+    "prompt_length": 1632,
+    "category": "6026 foodstuff"
+  }
+}

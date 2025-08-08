@@ -1,0 +1,63 @@
+{
+  "concept_id": "1577",
+  "concept_data": {
+    "title": "soil conditioning",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Soil conditioning refers to the practices aimed at improving soil quality for agricultural cultivation, particularly within the EU's regulatory framework. This concept encompasses the application of various soil improvers, such as lime and organic fertilisers, to enhance nutrient uptake and support the growth of foodstuffs. In regions like Oberbayern and Schleswig-Holstein, soil conditioning is crucial for managing groundwater and mitigating nitrate leaching, especially during intense rainfall seasons. The EU's ordinances regulate the use of fertilisers, ensuring they meet safety standards while promoting sustainable practices. Additionally, soil conditioning can involve the use of brine and ethylene to optimize conditions for crops in diverse climates, from the mountains of Bavaria to the grasslands of Wales.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:18.422578",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 437,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 656,
+      "selected_avg_freq": 253.87333333333333
+    },
+    "related_words": [
+      "climates",
+      "foodstuffgs",
+      "tubingen",
+      "luneburg",
+      "oberbayern",
+      "wurttemberg",
+      "fungal",
+      "weser",
+      "intensively",
+      "mountains",
+      "improvers",
+      "encompassed",
+      "ems",
+      "ais",
+      "evenly",
+      "conditioning",
+      "ordinance",
+      "lime",
+      "precipitation",
+      "brine",
+      "hydroxide",
+      "fertiliser",
+      "phosphorus",
+      "eighteen",
+      "rainfall",
+      "grassland",
+      "scottish",
+      "expiration",
+      "nitrates",
+      "seasons"
+    ],
+    "prompt_length": 1697,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

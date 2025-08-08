@@ -1,0 +1,63 @@
+{
+  "concept_id": "846",
+  "concept_data": {
+    "title": "farm equipment",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "agricultural equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farm equipment,\" redirected to the preferred term \"agricultural equipment,\" encompasses integral tools and machinery essential for agricultural production within the EU. This category, identified under the means of agricultural production, includes various equipment used in horticulture and forestry, such as those for propagating seeds and managing holdings. The EU regulatory framework authorises standards for the marketing and analysis of agricultural equipment, ensuring that materials produced meet specific codes and schedules. This regime is crucial for maintaining statistics and providing assurances to organizations involved in agriculture, thereby supporting a structured approach to enhancing productivity and sustainability in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:46:37.305214",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 122,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 122,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1928.377049180328
+    },
+    "related_words": [
+      "radiata",
+      "transcribe",
+      "pinus",
+      "transcription",
+      "tape",
+      "magnetic",
+      "reproductive",
+      "forest",
+      "program",
+      "outline",
+      "horticulture",
+      "zealand",
+      "propagating",
+      "afforded",
+      "assurances",
+      "forming",
+      "integral",
+      "tables",
+      "authorises",
+      "seeds",
+      "forestry",
+      "schedule",
+      "survey",
+      "holdings",
+      "add",
+      "america",
+      "source",
+      "regime",
+      "species",
+      "statistics"
+    ],
+    "prompt_length": 1724,
+    "category": "5626 means of agricultural production"
+  }
+}

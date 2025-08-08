@@ -1,0 +1,63 @@
+{
+  "concept_id": "1666",
+  "concept_data": {
+    "title": "Limousin",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Limousin\" pertains to a specific region within EU Member States, categorized under 7211 regions. In the context of EU legal and regulatory frameworks, Limousin is governed by various funding mechanisms, including the European Regional Development Fund (ERDF) and the European Social Fund (ESF). These frameworks prioritize rural development and aim to fulfill statutory commitments through indicative allocations. The region's programming reflects a pattern of additionality, ensuring that funds are indexed to inflation and meet eligibility criteria. Partners in Limousin are engaged in preparing plans that are consistent with EU guidance, thereby enhancing the overall effectiveness of investments and ensuring compatibility with broader EU priorities.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:35:12.238825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 228,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2028,
+      "selected_avg_freq": 1088.2466666666667
+    },
+    "related_words": [
+      "limousin",
+      "additionality",
+      "indexed",
+      "esf",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "eib",
+      "inflation",
+      "perspective",
+      "statutory",
+      "allocations",
+      "programming",
+      "pattern",
+      "indicative",
+      "preparing",
+      "breakdown",
+      "eaggf",
+      "ground",
+      "fulfilling",
+      "qualifying",
+      "partners",
+      "beneficiary",
+      "rural",
+      "priorities",
+      "compatibility",
+      "reserve",
+      "governed",
+      "reflected"
+    ],
+    "prompt_length": 1697,
+    "category": "7211 regions of EU Member States"
+  }
+}

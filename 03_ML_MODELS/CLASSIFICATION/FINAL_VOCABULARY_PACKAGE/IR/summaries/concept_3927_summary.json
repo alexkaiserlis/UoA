@@ -1,0 +1,63 @@
+{
+  "concept_id": "3927",
+  "concept_data": {
+    "title": "contractual liability",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Contractual liability, a key concept in civil law, pertains to the obligations and responsibilities of signatories under a contract. In the EU context, it integrates various legal frameworks, including the acquis communautaire, which governs cross-border contracts among member states. Issues may arise when performance is not delivered as explicitly agreed, leading to potential claims for damages. Governments must manage these liabilities effectively, particularly in sectors like telecom and digital services, where outstanding contracts can affect budgets and revenue. The integration of contractual liability into EU regulations ensures a cohesive approach to enforcement and compliance, facilitating smoother operations within the Schengen area and beyond.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:49.096694",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 136,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 136,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1579.2205882352941
+    },
+    "related_words": [
+      "sisnet",
+      "sirene",
+      "server",
+      "desk",
+      "telecom",
+      "revoked",
+      "signatories",
+      "budgets",
+      "integrating",
+      "digital",
+      "discharge",
+      "explicit",
+      "benelux",
+      "schengen",
+      "outstanding",
+      "hitherto",
+      "turn",
+      "distinct",
+      "secretary",
+      "installation",
+      "dealing",
+      "acquis",
+      "secretariat",
+      "manage",
+      "revenue",
+      "concluding",
+      "assigned",
+      "task",
+      "performed",
+      "transferred"
+    ],
+    "prompt_length": 1664,
+    "category": "1211 civil law"
+  }
+}

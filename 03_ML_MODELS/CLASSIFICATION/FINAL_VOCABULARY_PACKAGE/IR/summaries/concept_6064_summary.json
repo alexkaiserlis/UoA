@@ -1,0 +1,63 @@
+{
+  "concept_id": "6064",
+  "concept_data": {
+    "title": "auditing",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "audit",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"auditing\"—a term redirected to \"audit\"—is a critical process that scrutinises financial and operational engagements of entities, including ministries and corporations. It serves to ensure compliance with ethical standards and legal requirements, thereby safeguarding public interests. Auditors, often from prestigious firms like KPMG, engage in modernised practices to retrieve and analyse data, ensuring transparency and accountability. The process can involve disapplying certain regulations or adapting to new codes, particularly in complex jurisdictions like the Baltics or offshore locations such as the Cayman Islands and Bermuda. Effective auditing engenders trust and facilitates informed decision-making, while also addressing issues like biotoxins and bacteriological risks in specific sectors. The lessons learned from past audits can lead to enhanced leadership and governance, reinforcing the EU's prerogatives in maintaining high standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:17:23.351114",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 1042,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 164,
+      "selected_avg_freq": 85.23333333333333
+    },
+    "related_words": [
+      "blurring",
+      "baltics",
+      "egaob",
+      "consumables",
+      "disapplied",
+      "engender",
+      "abu",
+      "dhabi",
+      "fead",
+      "latvijas",
+      "codecision",
+      "outwith",
+      "disapply",
+      "cayman",
+      "sia",
+      "kpmg",
+      "elaborating",
+      "retrieve",
+      "bermuda",
+      "engagements",
+      "recasting",
+      "accountants",
+      "ministries",
+      "sanctioning",
+      "controller",
+      "bahamas",
+      "banka",
+      "modernised",
+      "trail",
+      "realise"
+    ],
+    "prompt_length": 1683,
+    "category": "4021 management"
+  }
+}

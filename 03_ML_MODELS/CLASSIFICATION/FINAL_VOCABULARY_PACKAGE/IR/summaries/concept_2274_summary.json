@@ -1,0 +1,63 @@
+{
+  "concept_id": "2274",
+  "concept_data": {
+    "title": "spaghetti",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "pasta",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"spaghetti,\" categorized under foodstuff, is a redirect to the preferred term \"pasta.\" In EU legal and regulatory contexts, pasta encompasses various forms, including renowned specialties like maccheroncini and spätzle, which may be prepared with unique ingredients such as fen and spices. The regulation of pasta includes standards for production, including the use of lawful dough and uncooked noodles, ensuring quality and safety. Specific regional varieties, such as idrijski and südtiroler, may be protected under TSG (Traditional Speciality Guaranteed) designations. Additionally, pasta is often served in dishes like soup or with broth, highlighting its versatility in European cuisine.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:28.568132",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 599,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 488,
+      "selected_avg_freq": 203.34
+    },
+    "related_words": [
+      "broth",
+      "noodle",
+      "sachet",
+      "maccheroncini",
+      "campofilone",
+      "idrijski",
+      "žlikrofi",
+      "atr",
+      "spätzle",
+      "knöpfle",
+      "raviole",
+      "dauphiné",
+      "grancommiss",
+      "schwäbische",
+      "maultaschen",
+      "suppenmaultaschen",
+      "longkou",
+      "noodles",
+      "bowl",
+      "asperge",
+      "sables",
+      "landes",
+      "pâtes",
+      "oliva",
+      "ascolana",
+      "seasoning",
+      "apfel",
+      "trevélez",
+      "soup",
+      "südtiroler"
+    ],
+    "prompt_length": 1645,
+    "category": "6026 foodstuff"
+  }
+}

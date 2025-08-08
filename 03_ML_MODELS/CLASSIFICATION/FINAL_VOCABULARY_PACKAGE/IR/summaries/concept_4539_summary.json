@@ -1,0 +1,63 @@
+{
+  "concept_id": "4539",
+  "concept_data": {
+    "title": "land transport",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"land transport\" encompasses various modes of transportation, including rail and road, crucial for the movement of goods and people within the EU. Legal frameworks aim to organise and regulate these transport systems, addressing issues such as loading and unloading procedures, transit patterns, and the qualification of carriers. The EU's commitment to globalisation necessitates the mobilisation of resources to enhance efficiency and reduce burdens on businesses. Regulatory advisers play a vital role in ensuring compliance with established standards, while addressing outdated practices and redundancies. This discipline fosters a cohesive transport network, promoting reintegration of redundant sections and facilitating interinstitutional cooperation across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:25:32.504844",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 285,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 1383,
+      "selected_avg_freq": 694.3066666666666
+    },
+    "related_words": [
+      "adviser",
+      "oberösterreich",
+      "niederösterreich",
+      "advisers",
+      "pipelines",
+      "outdated",
+      "egf",
+      "subjects",
+      "unloading",
+      "redundancies",
+      "waterway",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "modes",
+      "broadened",
+      "mobilised",
+      "qualification",
+      "carriers",
+      "mobilise",
+      "candidates",
+      "loading",
+      "inland",
+      "nuts",
+      "burdens",
+      "mobilisation",
+      "abolish",
+      "rail",
+      "vocational",
+      "redundant"
+    ],
+    "prompt_length": 1713,
+    "category": "4816 land transport"
+  }
+}

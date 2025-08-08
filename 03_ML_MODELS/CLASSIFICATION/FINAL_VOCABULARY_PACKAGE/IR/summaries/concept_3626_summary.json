@@ -1,0 +1,63 @@
+{
+  "concept_id": "3626",
+  "concept_data": {
+    "title": "voluntary retirement",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "early retirement",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"voluntary retirement,\" redirected to \"early retirement,\" pertains to EU employment regulations that govern the potentiality of individuals to retire before the statutory age. This option is particularly relevant for the elderly, as it alters their engagement in the workforce, allowing them to be financially freed from employment constraints. Guidelines instituted by the EU aim to neutralize confusion surrounding retirement eligibility and support equitable access to pensions. The extensification of retirement options recognizes the ageing population's needs, eventually contributing to the viability of social security budgets. Additionally, this framework addresses variables such as unemployment and emphasizes solidarity among different demographic groups, ensuring that the reactions to early retirement are managed effectively within the agri sector, particularly in rural areas where sheepmeat and goatmeat production may be impacted.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:12.780401",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 444,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 867,
+      "selected_avg_freq": 425.52
+    },
+    "related_words": [
+      "potentiality",
+      "constrained",
+      "freed",
+      "laeken",
+      "neutralize",
+      "extensification",
+      "elderly",
+      "alters",
+      "looking",
+      "lease",
+      "maximise",
+      "ewe",
+      "forage",
+      "penalized",
+      "notifies",
+      "suckler",
+      "module",
+      "modules",
+      "countryside",
+      "disproportionately",
+      "intending",
+      "recognize",
+      "reactions",
+      "ageing",
+      "cow",
+      "emphasis",
+      "eventually",
+      "guideline",
+      "retirement",
+      "instituting"
+    ],
+    "prompt_length": 1739,
+    "category": "4406 employment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3604",
+  "concept_data": {
+    "title": "travelling salesman",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": true,
+    "preferred_term": "sales representative",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"travelling salesman\" is redirected to \"sales representative\" within the context of EU distributive trades. This concept encompasses individuals who engage in the sale of goods, often involving complex governance structures, such as consorzio, to ensure compliance with statutory obligations. Sales representatives must fulfil various procedural requirements, including the certification of goods like timber and cork, which are harvested from regulated forests. They are obliged to declare the origin of products, ensuring clarity in transactions. The enforcement of these regulations is critical, as it minimises illegal activities and enhances the integrity of the market, particularly in regions like Brussels, Zwolle, and Århus.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:18:05.740023",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2693,
+      "selected_avg_freq": 1179.7666666666667
+    },
+    "related_words": [
+      "consorzio",
+      "legno",
+      "sughero",
+      "meeuwenlaan",
+      "nepcon",
+      "guldsmedgade",
+      "servizi",
+      "zwolle",
+      "århus",
+      "diligence",
+      "tree",
+      "iva",
+      "illegally",
+      "timber",
+      "forest",
+      "declaring",
+      "clarifications",
+      "concession",
+      "documentary",
+      "obliges",
+      "mail",
+      "steering",
+      "replies",
+      "recognising",
+      "replied",
+      "minimise",
+      "governance",
+      "acknowledged",
+      "intend",
+      "statutory"
+    ],
+    "prompt_length": 1737,
+    "category": "2036 distributive trades"
+  }
+}

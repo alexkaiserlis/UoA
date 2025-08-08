@@ -1,0 +1,63 @@
+{
+  "concept_id": "3066",
+  "concept_data": {
+    "title": "economic reconversion",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "economic conversion",
+    "relation_type": "USE"
+  },
+  "summary": "Economic reconversion, also referred to as economic conversion, is a pivotal concept within EU economic policy frameworks aimed at stimulating transformation in regions facing unemployment and socio-economic challenges. This process often involves multiregional concertation among municipalities and provinces to accommodate the needs of inhabitants undergoing significant changes. The European Regional Development Fund (ERDF) plays a crucial role in financing these initiatives, ensuring additionality and indexation to address the severity of local conditions. By adopting innovative strategies and reinforcing interreg cooperation, the EU foresees a closer alignment of economic activities with the desire for sustainable growth, ultimately drawing on diverse perspectives to formulate effective solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:32:15.605272",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 419,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 990,
+      "selected_avg_freq": 529.9066666666666
+    },
+    "related_words": [
+      "multiregional",
+      "interreg",
+      "receivable",
+      "abruzzi",
+      "iib",
+      "concertation",
+      "phare",
+      "peripheral",
+      "inhabitants",
+      "accommodate",
+      "classed",
+      "iia",
+      "genuinely",
+      "undergoing",
+      "substituted",
+      "copenhagen",
+      "severity",
+      "additionality",
+      "municipalities",
+      "provinces",
+      "draws",
+      "perspectives",
+      "transformation",
+      "repeatedly",
+      "indexation",
+      "desire",
+      "berlin",
+      "formulation",
+      "frameworks",
+      "assume"
+    ],
+    "prompt_length": 1755,
+    "category": "1606 economic policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4096",
+  "concept_data": {
+    "title": "visual arts",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"visual arts\" encompasses a broad spectrum of creations, including artistic illustrations and photographs, which are protected under EU copyright law. This legal framework harmonizes the authorship rights of creators, ensuring their originality and creativity are safeguarded. Rightholders, including authors and performers, enjoy perpetual rights over their works, allowing for lawful rental and broadcast. The Berne Convention establishes moral rights, ensuring that the personality of the author is respected across generations. As visual arts evolve, the lifespan of copyright protection remains irremovable, fostering an environment that discourages the unauthorized use of artistic works while promoting lawful publications and collections.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:36:38.616263",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 452,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 659,
+      "selected_avg_freq": 255.76666666666668
+    },
+    "related_words": [
+      "creations",
+      "authorship",
+      "harmonizes",
+      "moral",
+      "revived",
+      "irremovable",
+      "rightholder",
+      "originality",
+      "creativity",
+      "perpetual",
+      "authors",
+      "wrappers",
+      "wars",
+      "perceptible",
+      "packets",
+      "phonograms",
+      "rightholders",
+      "illustrations",
+      "descendants",
+      "literary",
+      "collections",
+      "lifespan",
+      "smokeless",
+      "performers",
+      "discouraging",
+      "concealed",
+      "graphical",
+      "packet",
+      "harmonizing",
+      "merit"
+    ],
+    "prompt_length": 1720,
+    "category": "2831 culture and religion"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5349",
+  "concept_data": {
+    "title": "Central African Republic",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Central African Republic (CAR) is a focal point in EU legal and regulatory frameworks, particularly concerning multidimensional engagement through missions like EUFOR and MINUSCA. The deteriorating security situation in Bangui has prompted discussions on the necessity of firm responses, including the deployment of civilian and military resources. The EU's involvement is also linked to the Kimberley Process, aimed at regulating diamond trade to prevent conflict financing. Additionally, the CAR's logging and timber sectors face scrutiny under FLEGT regulations. The EU's contributions are essential for stabilizing the region, addressing issues related to embargoes, and ensuring compliance with UNSCR mandates.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:10:52.067703",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 480,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 536,
+      "selected_avg_freq": 211.32666666666665
+    },
+    "related_words": [
+      "minusca",
+      "bangui",
+      "bacquet",
+      "minurcat",
+      "afism",
+      "sangaris",
+      "eccas",
+      "foc",
+      "handover",
+      "multidimensional",
+      "thierry",
+      "lion",
+      "coup",
+      "tchad",
+      "firmness",
+      "brigadier",
+      "flegt",
+      "chad",
+      "diamond",
+      "marc",
+      "coc",
+      "logging",
+      "bridging",
+      "rca",
+      "benin",
+      "csdp",
+      "eufor",
+      "jean",
+      "detained",
+      "kimberley"
+    ],
+    "prompt_length": 1624,
+    "category": "7231 economic geography"
+  }
+}

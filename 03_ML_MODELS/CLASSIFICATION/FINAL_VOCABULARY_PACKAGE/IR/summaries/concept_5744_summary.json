@@ -1,0 +1,63 @@
+{
+  "concept_id": "5744",
+  "concept_data": {
+    "title": "investigative mission",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": true,
+    "preferred_term": "fact-finding mission",
+    "relation_type": "USE"
+  },
+  "summary": "An \"investigative mission,\" often redirected to \"fact-finding mission,\" is a crucial mechanism in EU international affairs, institutionalising the process of gathering information regarding potential misconduct or irregularities. These missions, conducted by various inspectorates, aim to stratify complex situations, such as those involving human rights violations or governance issues. Notable figures, like ambassadors and experts including Etienne and Kęstutis, may participate. The outcomes influence EU decisions and policies, reflecting diverse standpoints. Missions may also involve collaboration with entities like EUAVSEC and ICFTU, ensuring comprehensive assessments. Ultimately, these missions serve to uphold integrity and accountability within EU frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:57:21.073266",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 1211,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 32.833333333333336
+    },
+    "related_words": [
+      "toivo",
+      "klaar",
+      "kęstutis",
+      "jankauskas",
+      "tornell",
+      "launay",
+      "etienne",
+      "montaigne",
+      "poncins",
+      "nurenberg",
+      "tyszkiewicz",
+      "alcantud",
+      "antóin",
+      "meucci",
+      "borchardt",
+      "institutionalise",
+      "inspectorates",
+      "dsn",
+      "kermabon",
+      "maryse",
+      "daviet",
+      "antรณin",
+      "unfraidh",
+      "bout",
+      "marnhac",
+      "huszár",
+      "stratify",
+      "misconduct",
+      "deicison",
+      "buidlings"
+    ],
+    "prompt_length": 1697,
+    "category": "0806 international affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1638",
+  "concept_data": {
+    "title": "freedom to provide services",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"freedom to provide services\" is a fundamental principle within EU law, facilitating the liberalisation of various sectors, including healthcare and professional services. This concept allows specialists, such as gynaecologists, ophthalmologists, and geologists, to offer their expertise across borders without undue restrictions. It promotes the preselection of service providers, enhancing enrolment possibilities for tourists and facilitating cargosharing initiatives. By partitioning regulatory barriers, the EU ensures that sectors like physiotherapy, radiology, and even hairdressing can thrive in a competitive environment. This regulatory framework supports the mobility of professionals, fostering knowledge exchange and innovation while ensuring that services remain accessible and classified according to standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:24:21.609069",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2182,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 8.953333333333333
+    },
+    "related_words": [
+      "retrocession",
+      "specializations",
+      "gynaecology",
+      "obstetrics",
+      "ophthalmology",
+      "enterology",
+      "endocrinology",
+      "physiotherapy",
+      "radiology",
+      "geriatrics",
+      "radiotherpy",
+      "studios",
+      "cargosharing",
+      "reizen",
+      "tourists",
+      "vermaat",
+      "autobedrijf",
+      "ferne",
+      "abovementional",
+      "alreday",
+      "possibilty",
+      "cliff",
+      "burlington",
+      "hardwick",
+      "lemgo",
+      "minden",
+      "detmold",
+      "voss",
+      "transline",
+      "worthless"
+    ],
+    "prompt_length": 1746,
+    "category": "4406 employment"
+  }
+}

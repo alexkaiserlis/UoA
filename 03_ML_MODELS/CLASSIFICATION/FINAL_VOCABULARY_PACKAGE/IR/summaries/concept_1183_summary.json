@@ -1,0 +1,63 @@
+{
+  "concept_id": "1183",
+  "concept_data": {
+    "title": "Central Greece",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Central Greece\" refers to a region within the Hellenic Republic, significantly impacted by devastating earthquakes. In the context of EU legal and regulatory frameworks, this region has been the subject of various proposals for reconstruction and recovery. The European Union, through its budgetary powers, provides funds in the form of grants and loans to compensate for damages and support investment in infrastructure. Decisions by the European Parliament and the Council establish the terms for these subsidies, ensuring that affected communities receive necessary assistance. The adoption of these measures aims to facilitate the region's recovery and integration into the broader Union framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:11:33.884551",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 39,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 39,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2055.6666666666665
+    },
+    "related_words": [
+      "devastated",
+      "earthquake",
+      "reconstruction",
+      "chargeable",
+      "hellenic",
+      "compensate",
+      "subsidy",
+      "loans",
+      "partially",
+      "bank",
+      "investment",
+      "budget",
+      "funds",
+      "region",
+      "paid",
+      "powers",
+      "grant",
+      "interest",
+      "adoption",
+      "granted",
+      "republic",
+      "than",
+      "september",
+      "general",
+      "provides",
+      "november",
+      "proposal",
+      "other",
+      "parliament",
+      "order"
+    ],
+    "prompt_length": 1559,
+    "category": "7211 regions of EU Member States"
+  }
+}

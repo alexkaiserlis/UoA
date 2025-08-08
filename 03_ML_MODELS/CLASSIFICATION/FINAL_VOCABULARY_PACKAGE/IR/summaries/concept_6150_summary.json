@@ -1,0 +1,63 @@
+{
+  "concept_id": "6150",
+  "concept_data": {
+    "title": "working life",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"working life\" encompasses various domains of personnel management and staff remuneration within the EU legal framework. It addresses critical variables such as gender equality, parental leave, and the reconciliation of work and family responsibilities, particularly in the context of ageing populations. The EU promotes a sustainable working life through comprehensive guidelines and modules that support active participation in the labour market. This includes strategies for the promotion of equality and the financial stability of dependents, as well as the development of facilities for childcare. The roadmap for modernising working life emphasizes the importance of solidarity in addressing unemployment and retirement issues, ensuring that both men and women benefit from equitable working conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:34:21.361565",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 168,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3430,
+      "selected_avg_freq": 1402.4266666666667
+    },
+    "related_words": [
+      "dependents",
+      "childcare",
+      "parental",
+      "domains",
+      "module",
+      "reconciliation",
+      "gender",
+      "modules",
+      "modernising",
+      "roadmap",
+      "ageing",
+      "pact",
+      "guideline",
+      "retirement",
+      "variables",
+      "men",
+      "pensions",
+      "financially",
+      "women",
+      "solidarity",
+      "unemployment",
+      "supports",
+      "prolongation",
+      "equality",
+      "leave",
+      "hoc",
+      "care",
+      "sample",
+      "family",
+      "survey"
+    ],
+    "prompt_length": 1702,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

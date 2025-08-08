@@ -1,0 +1,63 @@
+{
+  "concept_id": "1816",
+  "concept_data": {
+    "title": "fluctuation margin",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"fluctuation margin\" refers to the permissible variation in exchange rates between currencies, crucial for maintaining coherence in monetary relations within the EU. This concept necessitates the realignment of parities, ensuring that various currencies remain stable against a standardized denominator. The fluctuation margin is pivotal for enterprises engaged in international trade, particularly in sectors like agriculture, where products such as wheat, colza, and paddy are affected by market alterations. Surveys and censuses inform the formation of coefficients that guide this alignment. Henceforward, fluctuations must be carefully monitored to preserve the integrity of monetary policies and accountancy practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:39.011979",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 324,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1174,
+      "selected_avg_freq": 565.64
+    },
+    "related_words": [
+      "realigned",
+      "buck",
+      "denominator",
+      "henceforward",
+      "typology",
+      "comittee",
+      "variously",
+      "censuses",
+      "revaluation",
+      "parities",
+      "valencia",
+      "organizing",
+      "realignment",
+      "colza",
+      "paddy",
+      "multiplying",
+      "accountancy",
+      "standardized",
+      "peaches",
+      "sunflower",
+      "oranges",
+      "rape",
+      "differential",
+      "pears",
+      "meal",
+      "durum",
+      "apples",
+      "tomatoes",
+      "alteration",
+      "cif"
+    ],
+    "prompt_length": 1688,
+    "category": "2406 monetary relations"
+  }
+}

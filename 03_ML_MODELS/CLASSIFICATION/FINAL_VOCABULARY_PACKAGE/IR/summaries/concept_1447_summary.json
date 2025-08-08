@@ -1,0 +1,63 @@
+{
+  "concept_id": "1447",
+  "concept_data": {
+    "title": "yacht harbour",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "harbour installation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"yacht harbour\" is redirected to \"harbour installation,\" emphasizing its role within maritime and inland waterway transport. These installations serve as vital hubs for vessels, including steamships and yachts, facilitating traffic between ports such as Travemuende and Trelleborg. The regulatory framework includes ISPS compliance to ensure safety and security, detaining any vessels that may pose risks. Moreover, the operational dynamics at quayside locations like Helsingborg and Warnemuende are influenced by regional redistributors and the need for efficient logistics. As the EU urges member states to enhance infrastructure, the concept of harbour installations remains crucial for maritime connectivity and economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:40:50.893922",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1631,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 50,
+      "selected_avg_freq": 21.426666666666666
+    },
+    "related_words": [
+      "jhta",
+      "steamship",
+      "japanse",
+      "eighty",
+      "fst",
+      "fatigued",
+      "guise",
+      "determind",
+      "roedby",
+      "stena",
+      "rederi",
+      "puttgarden",
+      "taffic",
+      "europort",
+      "goeteborg",
+      "rostock",
+      "warnemuende",
+      "crow",
+      "gedser",
+      "helsingoer",
+      "helsingborg",
+      "travemuende",
+      "trelleborg",
+      "frederikshavn",
+      "fyn",
+      "saeed",
+      "tăšlăšmarketing",
+      "cbem",
+      "clt",
+      "ipb"
+    ],
+    "prompt_length": 1697,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

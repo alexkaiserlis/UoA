@@ -1,0 +1,63 @@
+{
+  "concept_id": "2853",
+  "concept_data": {
+    "title": "Provence-Alpes-C?te d'Azur",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Provence-Alpes-Côte d'Azur, a region of EU Member States, is characterized by its diverse habitats, including seagrass beds of Posidonia oceanica and rich marine biodiversity, such as sardine and cephalopods. The region's coastal areas, particularly around the Ventoux and its châteauneuf, face challenges from acidification and trawling activities, which impact marine ecosystems. Regulatory frameworks, including STECF commitments, aim to manage these resources sustainably. The region's agricultural products, like muscat and tartaric varieties, further highlight its niche in EU markets. Legal instruments address issues such as dredges and seine nets, ensuring the protection of both terrestrial and marine environments.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:10.396958",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 589,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 521,
+      "selected_avg_freq": 215.40666666666667
+    },
+    "related_words": [
+      "châteauneuf",
+      "pape",
+      "statue",
+      "pomme",
+      "ventoux",
+      "terre",
+      "gangui",
+      "posidonia",
+      "oceanica",
+      "phanerogams",
+      "shallow",
+      "milliequivalents",
+      "muscat",
+      "comitments",
+      "seagrass",
+      "dredges",
+      "côtes",
+      "île",
+      "fries",
+      "depths",
+      "isobath",
+      "beds",
+      "niche",
+      "tartaric",
+      "sardine",
+      "azur",
+      "acidification",
+      "boat",
+      "alpes",
+      "languedoc"
+    ],
+    "prompt_length": 1637,
+    "category": "7211 regions of EU Member States"
+  }
+}

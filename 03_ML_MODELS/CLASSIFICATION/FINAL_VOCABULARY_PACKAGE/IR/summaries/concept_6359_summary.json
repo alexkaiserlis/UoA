@@ -1,0 +1,63 @@
+{
+  "concept_id": "6359",
+  "concept_data": {
+    "title": "pre-in country",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "non-participating country",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"pre-in country,\" a redirect to \"non-participating country,\" refers to states that have not yet joined the Economic and Monetary Union (EMU) but are under scrutiny regarding their creditworthiness and economic stability. These countries, such as Romania, face acute challenges in aligning their financial systems with EU standards. Their monetary policies, often underpinned by national central banks (NCBs), must develop credible frameworks to attract investment and ensure orderly market conditions. As the EU considers enlargements, these nations must demonstrate their ability to equate their economic attributes with those of participating countries, addressing issues like borrowings and equities to enhance their integration prospects.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:12:36.087479",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 524,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 691,
+      "selected_avg_freq": 324.56666666666666
+    },
+    "related_words": [
+      "glaring",
+      "naţională",
+      "româniei",
+      "koruna",
+      "equate",
+      "equities",
+      "apt",
+      "tokens",
+      "enlargements",
+      "borrow",
+      "medals",
+      "creditworthiness",
+      "deeper",
+      "borrowings",
+      "banca",
+      "underpinned",
+      "sugarbeet",
+      "segmentation",
+      "attributes",
+      "ncb",
+      "subscription",
+      "joining",
+      "develops",
+      "ncbs",
+      "coins",
+      "governors",
+      "weightings",
+      "credible",
+      "prudential",
+      "equity"
+    ],
+    "prompt_length": 1725,
+    "category": "2406 monetary relations"
+  }
+}

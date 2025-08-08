@@ -1,0 +1,63 @@
+{
+  "concept_id": "1395",
+  "concept_data": {
+    "title": "tobacco industry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"tobacco industry\" within EU legal and regulatory frameworks encompasses a complex landscape of policies aimed at mitigating health risks associated with tobacco products, including cigars and cigarillos. The industry is scrutinized for its propensity to contribute to cancers, necessitating stringent criteria for product safety and chemical composition. Regulatory measures underscore the importance of responsible marketing and the prevention of misdeclaration in product information. Participent states are tasked with implementing stepwise regulations that address issues such as unattended ignitions and carelessly discarded products. The EU's approach reflects a commitment to public health, balancing economic interests with societal welfare, as seen in initiatives like the investeringspremieregeling.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:04:23.662816",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1794,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 63,
+      "selected_avg_freq": 24.3
+    },
+    "related_words": [
+      "policity",
+      "sanshui",
+      "huafa",
+      "chemcials",
+      "solicited",
+      "participent",
+      "guang",
+      "subsists",
+      "ignitions",
+      "tian",
+      "bao",
+      "gao",
+      "yao",
+      "politop",
+      "yokohama",
+      "samji",
+      "inchon",
+      "samutsakorn",
+      "cancers",
+      "carelessly",
+      "unattended",
+      "puffed",
+      "spaced",
+      "bumps",
+      "whereaas",
+      "cigars",
+      "cigarillos",
+      "cirteria",
+      "misdeclaration",
+      "underscore"
+    ],
+    "prompt_length": 1651,
+    "category": "6031 agri-foodstuffs"
+  }
+}

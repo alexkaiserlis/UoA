@@ -1,0 +1,63 @@
+{
+  "concept_id": "1373",
+  "concept_data": {
+    "title": "restaurant industry",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "catering industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"restaurant industry,\" redirected to the preferred term \"catering industry,\" encompasses various establishments such as cafes, taverns, and hotels that habitually provide food and beverage services. This sector is governed by EU regulations that safeguard consumer rights and ensure quality standards. Employees within this profession must possess appropriate qualifications and diplomas, particularly in the context of itinerant and seasonal operations. The influx of nationals from diverse backgrounds necessitates caution in the ordination of residence and letting practices. Judicial oversight is essential to resolve disputes and maintain the repute of establishments, ensuring they furnish a safe and enjoyable dining experience for all patrons.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:17:24.542594",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 305,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1155,
+      "selected_avg_freq": 522.5733333333334
+    },
+    "related_words": [
+      "unfurnished",
+      "cafes",
+      "taverns",
+      "rooming",
+      "itinerant",
+      "camps",
+      "habitually",
+      "hotels",
+      "influx",
+      "letting",
+      "whence",
+      "repute",
+      "houses",
+      "isic",
+      "caution",
+      "restaurants",
+      "happen",
+      "eating",
+      "ordination",
+      "beverage",
+      "possesses",
+      "profession",
+      "disappear",
+      "diplomas",
+      "drinking",
+      "occupation",
+      "besides",
+      "nationality",
+      "whatsoever",
+      "furnish"
+    ],
+    "prompt_length": 1715,
+    "category": "2826 social affairs"
+  }
+}

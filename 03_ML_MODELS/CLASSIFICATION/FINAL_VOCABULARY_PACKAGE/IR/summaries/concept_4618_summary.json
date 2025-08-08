@@ -1,0 +1,63 @@
+{
+  "concept_id": "4618",
+  "concept_data": {
+    "title": "urbanization",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "urbanisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"urbanization,\" redirected to the preferred term \"urbanisation,\" encompasses the processes and themes related to the growth and development of urban areas within the EU. It is crucial for addressing issues of sustainable growth and diversity in urban environments. The European Regional Development Fund (ERDF) supports innovative actions that allow for the allocation of resources to enhance the quality of life in urban areas. Entities entrusted with implementing these actions must adhere to principles defined by EU regulations, ensuring that budgetary funds are used effectively. Future proposals must establish criteria for selection, potentially impacting job creation and regional development.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:24:33.563677",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 84,
+      "requested_words": 150,
+      "min_frequency_found": 41,
+      "max_frequency_found": 4108,
+      "selected_words": 84,
+      "selected_min_freq": 41,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1760.5119047619048
+    },
+    "related_words": [
+      "themes",
+      "grow",
+      "urban",
+      "innovative",
+      "erdf",
+      "goal",
+      "jobs",
+      "diversity",
+      "entity",
+      "territorial",
+      "potentially",
+      "entrusted",
+      "indirect",
+      "selection",
+      "delegated",
+      "calls",
+      "issues",
+      "supplementing",
+      "selected",
+      "supported",
+      "sustainable",
+      "growth",
+      "address",
+      "proposals",
+      "body",
+      "allocated",
+      "tasks",
+      "define",
+      "investment",
+      "allows"
+    ],
+    "prompt_length": 1697,
+    "category": "2846 construction and town planning"
+  }
+}

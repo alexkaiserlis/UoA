@@ -1,0 +1,63 @@
+{
+  "concept_id": "4838",
+  "concept_data": {
+    "title": "European Investment Bank",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Investment Bank (EIB) serves as a pivotal institution within the EU framework, providing financial support to various projects across member states. Its role is to facilitate economic development, combatting issues such as defaulting borrowers and expropriation risks. The EIB iterates its commitment to sustainable investments, addressing challenges like tsunamis and demographic shifts in regions such as Päijät-Häme and Uusimaa. By acting as a guarantor for loans, the EIB aids in demobilisation efforts and fosters evolutionary growth in areas like Normandie and Meuse. Its financing strategies are crucial for enhancing infrastructure in cities like Plymouth and Valletta, while also engaging with external partners, including Mercosur, to expand its impact.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:46:07.484817",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1459,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 50,
+      "selected_avg_freq": 25.56
+    },
+    "related_words": [
+      "povided",
+      "amercia",
+      "cannes",
+      "päijät",
+      "häme",
+      "krajina",
+      "iterated",
+      "borrowers",
+      "theeuropean",
+      "kara",
+      "rim",
+      "ndep",
+      "ddrrr",
+      "tsunamis",
+      "pdr",
+      "plymouth",
+      "evolutionary",
+      "thanet",
+      "varsinais",
+      "suomi",
+      "kymenlaakso",
+      "uusimaa",
+      "kokkola",
+      "barents",
+      "aubange",
+      "furness",
+      "nijmegen",
+      "vesdre",
+      "zuidoost",
+      "basse"
+    ],
+    "prompt_length": 1674,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

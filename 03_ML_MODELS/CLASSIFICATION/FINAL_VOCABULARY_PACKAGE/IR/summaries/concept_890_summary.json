@@ -1,0 +1,63 @@
+{
+  "concept_id": "890",
+  "concept_data": {
+    "title": "ethyl alcohol",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "ethanol",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"ethyl alcohol,\" commonly referred to as \"ethanol,\" plays a pivotal role in energy policy, particularly concerning ecocarburantes and bioethanol. Ethanol, produced in distilleries, is often blended with gasoline to curb emissions and promote sustainable energy landscapes. The strictest regulations govern its production, ensuring that denaturants like ethyltertbutylether and methyltertbutylether are used to prevent misuse. The EU framework also addresses the needs of various stakeholders, including bonded distillers and stoffbesitzer, while promoting the use of undenatured alcohol in vinous beverages. This regulatory environment influences agricultural practices, particularly in orchards, and supports diverse production methods, including those from abfindungsbrennereien and obstgemeinschaftsbrennereien.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:52:34.031851",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 931,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 109.9
+    },
+    "related_words": [
+      "sekab",
+      "altia",
+      "alcools",
+      "libéres",
+      "soulte",
+      "uncompleted",
+      "ethyltertbutylether",
+      "methyltertbutylether",
+      "tba",
+      "separable",
+      "parlticular",
+      "vruchtenjenever",
+      "wacholder",
+      "jenever",
+      "ecocarburantes",
+      "espaăąoles",
+      "simplest",
+      "landwirtschaftliche",
+      "verschlussbrennereien",
+      "abfindungsbrennereien",
+      "stoffbesitzer",
+      "obstgemeinschaftsbrennereien",
+      "isopropanol",
+      "isobutanol",
+      "propanol",
+      "mtbe",
+      "denaturants",
+      "denaturant",
+      "etbe",
+      "landscapes"
+    ],
+    "prompt_length": 1815,
+    "category": "6606 energy policy"
+  }
+}

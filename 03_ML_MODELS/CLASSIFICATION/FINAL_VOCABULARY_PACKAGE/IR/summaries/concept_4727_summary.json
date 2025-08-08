@@ -1,0 +1,63 @@
+{
+  "concept_id": "4727",
+  "concept_data": {
+    "title": "sexual violence",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sexual violence\" within EU criminal law encompasses a range of acts that impede individual security and dignity. It is classified as a serious violation of human rights, necessitating a coordinated response from member states. The EU's Common Foreign and Security Policy (CFSP) endorses missions aimed at reforming justice systems in countries like Congo, where such violence is prevalent. Recommendations for external actions are intended to adapt to the deteriorating context of political affairs, ensuring that objectives regarding justice and security are met. The EU aims to cover these issues through extended expenditure and tasks, laying the groundwork for a democratic transition and achieving significant reforms in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:50.566807",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 83,
+      "requested_words": 150,
+      "min_frequency_found": 25,
+      "max_frequency_found": 4108,
+      "selected_words": 83,
+      "selected_min_freq": 25,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1759.4096385542168
+    },
+    "related_words": [
+      "ssr",
+      "handing",
+      "eupol",
+      "congo",
+      "interface",
+      "deteriorate",
+      "twelve",
+      "police",
+      "impede",
+      "endorsed",
+      "mission",
+      "cfsp",
+      "affairs",
+      "democratic",
+      "phase",
+      "reform",
+      "expires",
+      "achievement",
+      "political",
+      "foreign",
+      "transition",
+      "classified",
+      "followed",
+      "justice",
+      "modified",
+      "conducted",
+      "external",
+      "tasks",
+      "recommendation",
+      "adapt"
+    ],
+    "prompt_length": 1641,
+    "category": "1216 criminal law"
+  }
+}

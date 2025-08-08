@@ -1,0 +1,63 @@
+{
+  "concept_id": "7985",
+  "concept_data": {
+    "title": "European Union Agency for Railways",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Union Agency for Railways (ERA) plays a pivotal role in enhancing the interoperability of rail systems across member states. By endorsing innovations and facilitating the integration of telematics and software, the ERA ensures that rolling stock, including freight and passenger wagons, meets the outlined specifications for safety and efficiency. The agency oversees the development of Technical Specifications for Interoperability (TSI) and maintains centralised registries that support the structured interconnection of railway subsystems. Through pilot projects and feasibility studies, the ERA drives the move towards a more accessible and efficient rail network, ultimately aiming to overcome barriers and streamline operations across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:49:25.634392",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 247,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1591,
+      "selected_avg_freq": 727.14
+    },
+    "related_words": [
+      "errac",
+      "tsis",
+      "rec",
+      "registries",
+      "telematics",
+      "tsi",
+      "subsystem",
+      "endorsing",
+      "era",
+      "wagons",
+      "innovations",
+      "thematic",
+      "int",
+      "interoperable",
+      "train",
+      "drive",
+      "master",
+      "centralised",
+      "drivers",
+      "rolling",
+      "interconnection",
+      "software",
+      "driving",
+      "platform",
+      "driven",
+      "structured",
+      "railway",
+      "interoperability",
+      "integrating",
+      "registers"
+    ],
+    "prompt_length": 1710,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

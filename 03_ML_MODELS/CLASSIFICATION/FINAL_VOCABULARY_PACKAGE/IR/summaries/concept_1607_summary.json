@@ -1,0 +1,63 @@
+{
+  "concept_id": "1607",
+  "concept_data": {
+    "title": "turnip",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "root vegetable",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"turnip,\" categorized under the EU concept of \"plant product\" (6006), is redirected to the preferred term \"root vegetable.\" This classification provides a framework for regulatory measures concerning hybridization and monogermity, essential for ensuring the quality and characteristics of root vegetables. Notably, the interlocking of various cultivars, such as kohlrabi and beets, may involve mutations that require notification under EU regulations. The cultivation of these vegetables, including varieties like lammefjordsgulerod and jonagold, is subject to specific programs that address potential deleterious effects on ecosystems. Moreover, the handling of these products, including washed and fruited forms, is regulated to prevent perish and ensure market stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:54.284028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1236,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 132,
+      "selected_avg_freq": 46.233333333333334
+    },
+    "related_words": [
+      "jprovides",
+      "brovada",
+      "lengh",
+      "monogerm",
+      "hybridization",
+      "monogermity",
+      "meerrettich",
+      "tsf",
+      "cabinplant",
+      "foresbjergvej",
+      "haarby",
+      "drainpipe",
+      "flap",
+      "conveyors",
+      "notificaiton",
+      "aljezur",
+      "novella",
+      "ispica",
+      "repens",
+      "bertolinii",
+      "autogamous",
+      "caracteristics",
+      "doce",
+      "bayerischer",
+      "kren",
+      "screw",
+      "kohlrabi",
+      "jonagold",
+      "mutations",
+      "interlocking"
+    ],
+    "prompt_length": 1716,
+    "category": "6006 plant product"
+  }
+}

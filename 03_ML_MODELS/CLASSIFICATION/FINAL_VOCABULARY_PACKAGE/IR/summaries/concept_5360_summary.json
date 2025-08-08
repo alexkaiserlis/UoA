@@ -1,0 +1,63 @@
+{
+  "concept_id": "5360",
+  "concept_data": {
+    "title": "cereals",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"cereals,\" categorized under 6006 plant product, encompasses various herbaceous plants, including spelta and other grain varieties. In EU legal and regulatory frameworks, cereals are vital for agricultural policy, impacting import regulations and food safety standards. The responsibilities of storekeepers and organizations involved in the distribution of cereals are outlined to ensure compliance with EU directives. Climatological factors can affect cereal production, leading to potential defiection in yield. Additionally, certain substances, such as mercurous calomel, may be regulated in relation to cereals. The EU aims to counteract subparagrah issues related to food quality, thereby promoting sustainable agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:59.771642",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 4132,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.32
+    },
+    "related_words": [
+      "spelta",
+      "responsibilitiy",
+      "unfulfilled",
+      "counteracted",
+      "compance",
+      "improt",
+      "mercurous",
+      "calomel",
+      "alcoxyalkyl",
+      "aryl",
+      "dichloroethane",
+      "splintering",
+      "amanded",
+      "verieties",
+      "subparagrah",
+      "tannins",
+      "storekeeper",
+      "capelli",
+      "senatore",
+      "hydra",
+      "climatological",
+      "constanta",
+      "varrious",
+      "indelibly",
+      "pearled",
+      "defiection",
+      "trifomo",
+      "herbaceous",
+      "cobs",
+      "stalks"
+    ],
+    "prompt_length": 1672,
+    "category": "6006 plant product"
+  }
+}

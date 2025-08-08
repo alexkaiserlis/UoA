@@ -1,0 +1,63 @@
+{
+  "concept_id": "4665",
+  "concept_data": {
+    "title": "in-home selling",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "door-to-door selling",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"in-home selling,\" also known as \"door-to-door selling,\" involves salesmen engaging with consumers at their residences, often unexpectedly. This practice can facilitate transactions but may also lead to unprepared buyers, resulting in potential disparities in consumer protection. The EU governs these engagements through directives that aim to simplify invoicing and enhance transparency. Traders must adhere to cancellation rights to avoid evasion of consumer rights. Additionally, regulations address the taxation of such sales, ensuring that resellers and wholesalers comply with obligations while reducing the risk of avoidance and ensuring fair competition among traders.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:39.260822",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 419,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 846,
+      "selected_avg_freq": 407.1066666666667
+    },
+    "related_words": [
+      "interposed",
+      "facilitaties",
+      "surprise",
+      "reseller",
+      "doorstep",
+      "deviates",
+      "initiates",
+      "engagements",
+      "salesmen",
+      "unprepared",
+      "resellers",
+      "wholesaler",
+      "simplifies",
+      "invoicing",
+      "adhered",
+      "wholesalers",
+      "governs",
+      "disparity",
+      "taxed",
+      "engagement",
+      "trader",
+      "compare",
+      "inasmuch",
+      "treasury",
+      "sells",
+      "travelling",
+      "cancellation",
+      "derogates",
+      "evasion",
+      "deduct"
+    ],
+    "prompt_length": 1735,
+    "category": "2031 marketing"
+  }
+}

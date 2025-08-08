@@ -1,0 +1,63 @@
+{
+  "concept_id": "2493",
+  "concept_data": {
+    "title": "policy on agricultural structures",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"policy on agricultural structures\" within the EU framework aims to enhance the vitality of rural areas through the mechanization and renovation of agricultural practices. This policy encompasses the afforestation of lands, ensuring that afforested areas are conserved and revalued for their ecological benefits. It promotes the finalization of projects that support extensified production methods, alongside the delineation of agricultural zones such as the hautes and maritimes regions. Ministerial directives guide the dispensation of funds for these initiatives, while accompanying regulations ensure compliance with EU standards. The policy also addresses the need for deseasonalisation of production, facilitating a more stable agricultural output across various villages and comarcas.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:39:38.696268",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1068,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 181,
+      "selected_avg_freq": 68.96
+    },
+    "related_words": [
+      "afforest",
+      "satified",
+      "ministeral",
+      "srequired",
+      "articvle",
+      "hautes",
+      "aude",
+      "garde",
+      "orientales",
+      "prefectoral",
+      "extensified",
+      "euopean",
+      "vitality",
+      "acompanying",
+      "accomandation",
+      "decice",
+      "bdt",
+      "fadn",
+      "lsited",
+      "deseasonalisation",
+      "tabular",
+      "afforested",
+      "esu",
+      "cipe",
+      "ardèche",
+      "drôme",
+      "concordance",
+      "treuhandanstalt",
+      "conserved",
+      "finalization"
+    ],
+    "prompt_length": 1720,
+    "category": "5611 agricultural structures and production"
+  }
+}

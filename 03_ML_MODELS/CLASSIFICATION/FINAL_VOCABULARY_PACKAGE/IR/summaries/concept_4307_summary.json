@@ -1,0 +1,63 @@
+{
+  "concept_id": "4307",
+  "concept_data": {
+    "title": "carcinogenic substance",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"carcinogenic substance\" refers to any chemical compound, such as diaminodiphenylmethane or dichlorobenzene, that possesses the potential to induce cancer in living organisms. The classification of such substances is critical for environmental protection and public health, necessitating planned assessments and justifications for their use. Regulatory frameworks monitor the migrates of these substances in products like fresheners and deodoriser, ensuring compliance with safety standards. Additionally, the teratogenicity and heritable effects of carcinogens are evaluated, particularly in relation to their impact on offspring. The EU employs rigorous methodologies to track and manage these hazardous substances, including the use of immunological assays and monitoring techniques.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:40.045468",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1545,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 29,
+      "selected_avg_freq": 15.38
+    },
+    "related_words": [
+      "descendent",
+      "daughter",
+      "beech",
+      "acetamide",
+      "teratogenicity",
+      "plannned",
+      "jusification",
+      "clinac",
+      "heritable",
+      "developmet",
+      "becton",
+      "dickinson",
+      "sorter",
+      "facs",
+      "immunological",
+      "scatter",
+      "dichlorobenzene",
+      "dcb",
+      "fresheners",
+      "moth",
+      "repellent",
+      "toilets",
+      "deodoriser",
+      "freshener",
+      "mitogen",
+      "diarsenic",
+      "pentaoxide",
+      "chromate",
+      "sulfochromate",
+      "molybdate"
+    ],
+    "prompt_length": 1739,
+    "category": "5216 deterioration of the environment"
+  }
+}

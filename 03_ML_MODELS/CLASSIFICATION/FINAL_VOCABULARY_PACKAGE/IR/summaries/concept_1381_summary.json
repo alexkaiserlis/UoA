@@ -1,0 +1,63 @@
+{
+  "concept_id": "1381",
+  "concept_data": {
+    "title": "production of dyes",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "dyestuffs industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"production of dyes,\" often redirected to the preferred term \"dyestuffs industry,\" encompasses the manufacturing processes of various colorants, including azo and sulphonated dyes. In the EU, regulatory frameworks address the toxicities and mutagenicity of these substances, emphasizing the importance of safety assessments by bodies like SCCNFP and SCCP. Specific compounds such as methylisothiazolinone and hexyl derivatives are scrutinized for their potential cutaneous effects. The industry also involves the use of ingredients like riboflavin and carrageenan, which may serve as colorants or stabilizers. Compliance with regulations ensures that products, including those used in sunscreens and cosmetics, meet safety standards regarding genotoxicity and environmental impact.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:16.356523",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 379,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 733,
+      "selected_avg_freq": 207.49333333333334
+    },
+    "related_words": [
+      "toxicities",
+      "costus",
+      "saussurea",
+      "lappa",
+      "hexahydrocoumarin",
+      "myroxylon",
+      "pereirae",
+      "aminobenzoic",
+      "paba",
+      "hexyl",
+      "riboflavin",
+      "carrageenan",
+      "arabic",
+      "methylisothiazolinone",
+      "fluorophenol",
+      "dihexadecyl",
+      "propanediamide",
+      "sunscreen",
+      "hydroxybenzoyl",
+      "ethoxy",
+      "benzethonium",
+      "clarke",
+      "balsam",
+      "methylcoumarin",
+      "inci",
+      "diethylamino",
+      "azo",
+      "dissolving",
+      "epoxiconazole",
+      "carotenoid"
+    ],
+    "prompt_length": 1758,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2791",
+  "concept_data": {
+    "title": "World Food Programme",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The World Food Programme (WFP) is a critical UN agency focused on humanitarian assistance, particularly in regions like Somalia, where it addresses issues such as piracy and armed conflict. The WFP's logistical operations involve the shipment of essential goods, including wheat and flour, to combat food insecurity in the Horn of Africa. In cooperation with the Transitional Federal Government (TFG), the WFP aims to suppress repression and deter violence, thereby enhancing stability. The agency's strategic mobilization efforts include invitations for tenders to facilitate the delivery of refined rapeseed and other vital supplies, ensuring that humanitarian aid reaches those detained by conflict and threats in territorial waters.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:24:36.588200",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 237,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1847,
+      "selected_avg_freq": 810.9933333333333
+    },
+    "related_words": [
+      "wfp",
+      "arrested",
+      "suspects",
+      "tfg",
+      "deterrence",
+      "atalanta",
+      "emanating",
+      "robbery",
+      "suppressing",
+      "somali",
+      "republication",
+      "piracy",
+      "detained",
+      "horn",
+      "rapeseed",
+      "somalia",
+      "unsc",
+      "repression",
+      "logistical",
+      "flour",
+      "complementing",
+      "mobilization",
+      "armed",
+      "rape",
+      "fob",
+      "humanitarian",
+      "generate",
+      "cooperating",
+      "shipment",
+      "refined"
+    ],
+    "prompt_length": 1658,
+    "category": "7606 United Nations"
+  }
+}

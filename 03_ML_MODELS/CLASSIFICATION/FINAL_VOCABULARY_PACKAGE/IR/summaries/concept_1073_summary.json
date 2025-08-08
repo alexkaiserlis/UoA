@@ -1,0 +1,63 @@
+{
+  "concept_id": "1073",
+  "concept_data": {
+    "title": "staff training",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "in-service training",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"staff training,\" redirected to \"in-service training,\" encompasses a vital component of employment policy aimed at enhancing the skills of employees. This concept is furthered through lifelong learning initiatives, which are administratively supported by various committees and regulatory bodies. In-service training is designed to be adaptable, ensuring that skilled workers can respond effectively to evolving market demands. The training courses often include elements that explore interdependence among sectors, promoting synergies that enhance productivity. Additionally, the training addresses specific needs, such as dietary considerations for employees with allergies, thereby fostering a safer work environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:40.334489",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 408,
+      "selected_avg_freq": 193.60666666666665
+    },
+    "related_words": [
+      "forbes",
+      "medi",
+      "secretaries",
+      "explores",
+      "concurred",
+      "furthered",
+      "sterol",
+      "dictates",
+      "wusterhausen",
+      "carotene",
+      "responsive",
+      "phytostanols",
+      "phytostanol",
+      "ombudsman",
+      "phytosterols",
+      "comittee",
+      "novartis",
+      "adaptable",
+      "registrar",
+      "tech",
+      "elevated",
+      "precondition",
+      "endowed",
+      "tertiary",
+      "scf",
+      "administratively",
+      "lifelong",
+      "allergies",
+      "skilled",
+      "headline"
+    ],
+    "prompt_length": 1718,
+    "category": "4406 employment"
+  }
+}

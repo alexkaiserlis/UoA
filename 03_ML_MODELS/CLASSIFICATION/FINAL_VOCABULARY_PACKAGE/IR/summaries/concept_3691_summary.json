@@ -1,0 +1,63 @@
+{
+  "concept_id": "3691",
+  "concept_data": {
+    "title": "superconducting alloy",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"superconducting alloy\" pertains to materials that exhibit superconductivity, allowing for the efficient conduction of electricity without resistance at cryo temperatures. In the EU regulatory framework, these alloys are relevant for various applications, including medical devices and electronic systems. The regulation of superconductors involves monitoring their use to ensure compliance with safety standards, particularly concerning hazardous substances. The EU may impose restrictions or exemptions on specific alloys to promote viable alternatives and facilitate the substitution of hazardous materials. Testing and registration of superconducting products are essential for maintaining reliability and ensuring that equipment meets technical requirements across industrial applications.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:53.329003",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 75,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 75,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1571.5333333333333
+    },
+    "related_words": [
+      "superconductor",
+      "cryo",
+      "cooler",
+      "equipotential",
+      "cooled",
+      "probes",
+      "bonding",
+      "conductor",
+      "alloys",
+      "thermal",
+      "hazardous",
+      "substitution",
+      "electrical",
+      "heads",
+      "cold",
+      "devices",
+      "reliability",
+      "viable",
+      "solutions",
+      "medical",
+      "prohibits",
+      "elimination",
+      "restriction",
+      "delegated",
+      "testing",
+      "electronic",
+      "registration",
+      "alternative",
+      "substances",
+      "adapting"
+    ],
+    "prompt_length": 1708,
+    "category": "6411 technology and technical regulations"
+  }
+}

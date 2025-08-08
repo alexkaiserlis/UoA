@@ -1,0 +1,63 @@
+{
+  "concept_id": "222",
+  "concept_data": {
+    "title": "allocation of land",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"allocation of land\" refers to the regulatory framework governing the distribution and use of agricultural land within the EU. This concept distinguishes between various land types, including irrigated and arable soils, and addresses the need for extensification in rural zones. It encompasses techniques for optimizing yields of crops such as cereals and fodder, while considering regionalization and the specific needs of provinces like Trento. The allocation process is influenced by factors such as depopulation and the size of holdings, with compensatory measures often exempted for smaller farms. Legal reforms aim to ensure that land use meets sustainable agricultural goals, thereby enhancing productivity and maintaining homogenous standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:54:43.748513",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 163,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3430,
+      "selected_avg_freq": 1443.2466666666667
+    },
+    "related_words": [
+      "autonomus",
+      "irrigated",
+      "distinguishes",
+      "delimiting",
+      "soils",
+      "extensification",
+      "depopulation",
+      "distinctive",
+      "trento",
+      "regionalization",
+      "remarks",
+      "irrigation",
+      "homogenous",
+      "technique",
+      "homogeneous",
+      "arable",
+      "thereon",
+      "yields",
+      "southern",
+      "province",
+      "aside",
+      "fodder",
+      "soil",
+      "dried",
+      "yield",
+      "retained",
+      "harvest",
+      "crops",
+      "fats",
+      "comprises"
+    ],
+    "prompt_length": 1684,
+    "category": "5611 agricultural structures and production"
+  }
+}

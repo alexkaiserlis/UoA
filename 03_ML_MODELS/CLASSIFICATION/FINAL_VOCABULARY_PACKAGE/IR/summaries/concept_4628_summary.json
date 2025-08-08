@@ -1,0 +1,63 @@
+{
+  "concept_id": "4628",
+  "concept_data": {
+    "title": "use of water",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"use of water\" within EU environmental policy emphasizes the prudent and sustainable utilization of water resources, particularly in the context of river systems like the Danube. The EU aims to protect natural water sources through a commitment to prevent pollution and rectify damage caused by various activities. This involves multilateral and bilateral negotiations among parties to promote cooperation and improvement in water management practices. The precautionary principle guides these efforts, ensuring that any potential harm is addressed proactively. Organizations participate in this framework to help preserve marine and freshwater ecosystems, aligning with the EU's broader environmental objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:22.640156",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 116,
+      "requested_words": 150,
+      "min_frequency_found": 24,
+      "max_frequency_found": 4108,
+      "selected_words": 116,
+      "selected_min_freq": 24,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1713.1120689655172
+    },
+    "related_words": [
+      "sofia",
+      "polluter",
+      "danube",
+      "rectifying",
+      "river",
+      "prudent",
+      "helps",
+      "participated",
+      "competences",
+      "preservation",
+      "rational",
+      "hoc",
+      "preventive",
+      "worldwide",
+      "pursue",
+      "precautionary",
+      "marine",
+      "pollution",
+      "utilization",
+      "flows",
+      "damage",
+      "deal",
+      "cooperate",
+      "prepare",
+      "multilateral",
+      "bilateral",
+      "pay",
+      "promotion",
+      "source",
+      "organizations"
+    ],
+    "prompt_length": 1680,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3617",
+  "concept_data": {
+    "title": "European industrial strategy",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": true,
+    "preferred_term": "EU industrial policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European industrial strategy,\" often redirected to \"EU industrial policy,\" encompasses a comprehensive framework aimed at modernising and sustaining the EU's industrial base in the 21st century. It seeks to decarbonise sectors, particularly automotive, by fostering the uptake of clean technologies, such as electric and hybrid vehicles. This strategy enhances global competitiveness through innovation and the deployment of smart infrastructures, while also addressing climate goals. By promoting diversified resource management and inclusive mobility solutions, the EU aims to stimulate economic growth and protect stakeholders' interests. The strategy reflects the advisability of adapting to globalisation and combating environmental challenges, ensuring a sustainable future.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:19:14.175545",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 205,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1902,
+      "selected_avg_freq": 767.5533333333333
+    },
+    "related_words": [
+      "decarbonise",
+      "affordable",
+      "sustaining",
+      "era",
+      "flagship",
+      "enhances",
+      "intelligent",
+      "century",
+      "diversified",
+      "grid",
+      "smart",
+      "modernise",
+      "automotive",
+      "unions",
+      "advisability",
+      "clean",
+      "cars",
+      "uptake",
+      "hybrid",
+      "launching",
+      "fostering",
+      "globalisation",
+      "deployment",
+      "governmental",
+      "infrastructures",
+      "mobility",
+      "goals",
+      "resource",
+      "preserving",
+      "electric"
+    ],
+    "prompt_length": 1773,
+    "category": "6806 industrial structures and policy"
+  }
+}

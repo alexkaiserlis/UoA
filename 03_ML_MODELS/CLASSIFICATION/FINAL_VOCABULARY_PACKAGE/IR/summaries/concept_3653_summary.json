@@ -1,0 +1,63 @@
+{
+  "concept_id": "3653",
+  "concept_data": {
+    "title": "wage increase",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "pay rise",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"wage increase,\" redirected to \"pay rise,\" pertains to the remuneration adjustments for personnel, particularly officials and servants. Such increases may be influenced by various factors, including subsistence costs, purchasing power, and discrepancies in remuneration across member states. The weighting of allowances and expenses, alongside coefficients derived from surveys, ensures that these adjustments are fair and reflective of individual circumstances. Retrospective variations may also be applied, depending on judgments from consultative bodies. Ultimately, wage increases aim to correct imbalances and enhance the financial well-being of employees, ensuring their remuneration aligns with evolving economic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:31:30.957792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 279,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1382,
+      "selected_avg_freq": 666.4066666666666
+    },
+    "related_words": [
+      "teaty",
+      "colleagues",
+      "renumeration",
+      "weigthing",
+      "omits",
+      "echinoccosis",
+      "hydatidosis",
+      "remunerations",
+      "overpaid",
+      "munich",
+      "varese",
+      "bonn",
+      "mirror",
+      "subsistence",
+      "upwards",
+      "discrepancy",
+      "weightings",
+      "salmonella",
+      "immunities",
+      "downwards",
+      "zoonoses",
+      "privileges",
+      "retrospective",
+      "void",
+      "weighting",
+      "pensions",
+      "servants",
+      "acted",
+      "serving",
+      "remuneration"
+    ],
+    "prompt_length": 1754,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5617",
+  "concept_data": {
+    "title": "State of Eritrea",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": true,
+    "preferred_term": "Eritrea",
+    "relation_type": "USE"
+  },
+  "summary": "The \"State of Eritrea,\" redirected to the preferred term \"Eritrea,\" is pertinent in EU legal and regulatory contexts, particularly concerning sanctions and embargoes. The EU, through its Common Foreign and Security Policy (CFSP), imposes restrictive measures on Eritrea, including arms prohibitions and asset freezes, as specified in various UNSCR resolutions. These measures aim to address military mobilization and respect international law. Entities and individuals listed under these sanctions face legal consequences, including bans on property and financial transactions. The EU's observations and advice on Eritrea's compliance with these resolutions are crucial for ensuring adherence to fundamental principles of international governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:59:00.387273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 225,
+      "requested_words": 150,
+      "min_frequency_found": 52,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 52,
+      "selected_max_freq": 2030,
+      "selected_avg_freq": 1028.7866666666666
+    },
+    "related_words": [
+      "eritrea",
+      "unscr",
+      "embargo",
+      "weapons",
+      "oct",
+      "fob",
+      "observes",
+      "arms",
+      "prohibitions",
+      "trial",
+      "mobilisation",
+      "resultant",
+      "becoming",
+      "imposes",
+      "entity",
+      "resolutions",
+      "caribbean",
+      "military",
+      "pacific",
+      "charter",
+      "amends",
+      "respects",
+      "listing",
+      "ministers",
+      "sanctions",
+      "legally",
+      "admission",
+      "acp",
+      "observations",
+      "ban"
+    ],
+    "prompt_length": 1690,
+    "category": "7231 economic geography"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2301",
+  "concept_data": {
+    "title": "toll",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU transport policy, \"toll\" refers to charges levied on vehicles for the use of specific infrastructures, such as roads, bridges, and transit routes. These tolls are crucial for the maintenance and repair of immovable assets, ensuring that taxpayers are not adversely affected by the costs of infrastructure upkeep. The tolling system can vary significantly across member states, with examples like the Öresund Bridge and the Vidin-Calafat link. Tolls may be subject to VAT and can be deducted under certain conditions. The regulatory framework aims to recover costs while promoting efficient journeys across territorial borders, facilitating trans-European transport networks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:00:35.223508",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 225,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1847,
+      "selected_avg_freq": 871.7666666666667
+    },
+    "related_words": [
+      "calafat",
+      "öresund",
+      "tolling",
+      "vidin",
+      "toll",
+      "tolls",
+      "taxpayers",
+      "danube",
+      "journeys",
+      "immovable",
+      "journey",
+      "bridge",
+      "indefinite",
+      "river",
+      "deduct",
+      "taxable",
+      "repair",
+      "middle",
+      "infrastructures",
+      "recover",
+      "starts",
+      "factual",
+      "accruing",
+      "trans",
+      "appraisal",
+      "charging",
+      "firstly",
+      "romanian",
+      "territorial",
+      "bulgarian"
+    ],
+    "prompt_length": 1630,
+    "category": "4806 transport policy"
+  }
+}

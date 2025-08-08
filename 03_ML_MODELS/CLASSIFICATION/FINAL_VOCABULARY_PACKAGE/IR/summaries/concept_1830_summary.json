@@ -1,0 +1,63 @@
+{
+  "concept_id": "1830",
+  "concept_data": {
+    "title": "site equipment",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "construction equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"site equipment,\" redirected to \"construction equipment,\" encompasses various mechanical tools and machinery utilized in building and public works within the EU regulatory framework. This includes specialized devices such as dumpers, backhoes, and graders, which are essential for efficient construction activities. Equipment like cranes and tracklaying machines, including those from manufacturers like Kubota and Deere, are pivotal for site operations. The incorporation of advanced technologies, such as hydraulic actuated systems and robust clutch mechanisms, enhances performance. Regulatory standards ensure that equipment, from tipper trucks to scrapers, meets safety and environmental criteria, promoting sustainability throughout the construction process.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:33:58.517187",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1246,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 17.933333333333334
+    },
+    "related_words": [
+      "bucket",
+      "pivoting",
+      "mtps",
+      "ecomat",
+      "belley",
+      "pel",
+      "alby",
+      "chéran",
+      "macmoter",
+      "modigliana",
+      "vermeer",
+      "hoofddorp",
+      "dorheim",
+      "verbist",
+      "breendonk",
+      "saville",
+      "stratford",
+      "imer",
+      "vif",
+      "smalley",
+      "thoughout",
+      "dumpers",
+      "tyred",
+      "tipper",
+      "incorportating",
+      "clutch",
+      "actuated",
+      "mechnical",
+      "sturdily",
+      "tracklaying"
+    ],
+    "prompt_length": 1699,
+    "category": "6831 building and public works"
+  }
+}

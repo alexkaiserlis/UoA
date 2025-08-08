@@ -1,0 +1,63 @@
+{
+  "concept_id": "5570",
+  "concept_data": {
+    "title": "insider trading",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Insider trading refers to the improper acquisition or disposal of securities based on non-public, price-sensitive information, which creates manipulative behaviours that undermine market integrity. In the EU, regulators scrutinise the actions of stockbrokers and issuers to ensure accountability and prevent transfrontier manipulation. The totality of insider trading activities inspires stringent prohibitions, as they signal a lack of fairness for investors. The Committee of European Securities Regulators (CESR) undertakes elaborate measures to appraise managerial practices and enforce compliance. By confining insider trading to mere suspicions, the EU aims to stabilise markets and protect the interests of all market participants, ensuring a smooth and equitable trading environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:06:32.711773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 375,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 858,
+      "selected_avg_freq": 372.17333333333335
+    },
+    "related_words": [
+      "inspires",
+      "contrepartie",
+      "stockbrokers",
+      "manipulative",
+      "behaviours",
+      "someone",
+      "suspicious",
+      "insider",
+      "synchronised",
+      "cesr",
+      "appraised",
+      "managerial",
+      "scrutinise",
+      "transfrontier",
+      "improper",
+      "obviously",
+      "manipulation",
+      "stabilizing",
+      "issuer",
+      "makers",
+      "derivative",
+      "elaborate",
+      "issuers",
+      "mere",
+      "confine",
+      "signals",
+      "totality",
+      "investor",
+      "accountability",
+      "piece"
+    ],
+    "prompt_length": 1697,
+    "category": "1216 criminal law"
+  }
+}

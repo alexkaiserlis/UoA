@@ -1,0 +1,63 @@
+{
+  "concept_id": "4900",
+  "concept_data": {
+    "title": "manure gas",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": true,
+    "preferred_term": "biogas",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"manure gas\" is redirected to the preferred term \"biogas,\" which encompasses bioenergy derived from the anaerobic digestion of organic materials, including manure. The process typically involves mesophilic fermentation, where microorganisms transform manure into biogas, a clean energy source. Regulatory frameworks evaluate the efficacy of biogas production, addressing risks associated with impurities and the thermal transformation of organic waste. Compliance with standards for separation and disposal of by-products, such as tallow and composting residues, is essential. Additionally, biogas can be utilized in stationary engines or converted into biodiesel, promoting sustainable energy practices while mitigating landfill hazards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:31:57.429742",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 396,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1010,
+      "selected_avg_freq": 458.26666666666665
+    },
+    "related_words": [
+      "mesophilic",
+      "hphb",
+      "abp",
+      "insoluble",
+      "bioenergy",
+      "reconsideration",
+      "digestive",
+      "thermo",
+      "boiler",
+      "risky",
+      "filtered",
+      "hydrolysis",
+      "composting",
+      "tallow",
+      "alkaline",
+      "landfill",
+      "tract",
+      "biogas",
+      "stationary",
+      "stockpiling",
+      "biodiesel",
+      "ssc",
+      "biofuel",
+      "incineration",
+      "manure",
+      "fermentation",
+      "cooked",
+      "impurities",
+      "tse",
+      "combustion"
+    ],
+    "prompt_length": 1692,
+    "category": "6626 soft energy"
+  }
+}

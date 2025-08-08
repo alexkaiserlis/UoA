@@ -1,0 +1,29 @@
+{
+  "concept_id": "4041",
+  "concept_data": {
+    "title": "ACP-EU Council of Ministers",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The ACP-EU Council of Ministers serves as a pivotal forum for dialogue between the African, Caribbean, and Pacific (ACP) countries and the European Union (EU). Established under the Cotonou Agreement, this council facilitates cooperation on development, trade, and political issues. The depositaries of the agreement, located in Ouagadougou, ensure compliance and implementation of the council's decisions. Observer states, such as Sudan, may participate in discussions, reflecting the inclusive nature of the council. Through regular meetings, the council addresses challenges and opportunities, reinforcing the strategic partnership between the ACP and the EU, ultimately aiming for sustainable development and mutual benefit.",
+  "metadata": {
+    "generation_date": "2025-07-29T15:12:55.977648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "related_words_count": 5,
+    "related_words": [
+      "depositaries",
+      "ouagadougou",
+      "observer",
+      "sudan",
+      "cotonou"
+    ],
+    "prompt_length": 1100,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4533",
+  "concept_data": {
+    "title": "transport by road",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "road transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"transport by road,\" redirected to \"road transport,\" encompasses various regulatory frameworks within the EU concerning the movement of goods and passengers. This includes the transposes of directives that ensure safety and efficiency in the sector. Professional conducteur requirements, vehicle standards, and the use of tachygraph devices are critical for compliance. The regulations also address the economic aspects of autotrasporto, including the issuance of autorizzazioni and ecocards for lowtonnage vehicles. Additionally, criteria for the presentation of domande and the erogazione of benefits are established to streamline operations. Overall, these frameworks aim to enhance the safety and reliability of road transport across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:28:09.928471",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2423,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 8.96
+    },
+    "related_words": [
+      "transposes",
+      "continously",
+      "reload",
+      "livret",
+      "conducteur",
+      "professionnel",
+      "văšhicules",
+      "tachygraph",
+      "conomic",
+      "ecoponts",
+      "rollende",
+      "landstraă",
+      "saftey",
+      "stout",
+      "fawn",
+      "seaway",
+      "lowtonnage",
+      "evzoni",
+      "volos",
+      "kleidi",
+      "axios",
+      "possessors",
+      "contraventions",
+      "printable",
+      "ecmt",
+      "ecocards",
+      "austia",
+      "racks",
+      "guri",
+      "generale"
+    ],
+    "prompt_length": 1708,
+    "category": "4816 land transport"
+  }
+}

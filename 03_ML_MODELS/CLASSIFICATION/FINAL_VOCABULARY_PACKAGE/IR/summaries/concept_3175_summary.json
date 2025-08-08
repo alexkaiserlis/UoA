@@ -1,0 +1,63 @@
+{
+  "concept_id": "3175",
+  "concept_data": {
+    "title": "re-import",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"re-import\" refers to the process of bringing goods back into the EU after they have been exported, often subject to specific regulations and biosecurity measures. This concept is particularly relevant in contexts such as equestrian competitions, where horses may undergo health checks for diseases like glanders or encephalitis before reimportation. Regulatory frameworks may include waivers for certain conditions, ensuring compliance with international standards. The reimportation of products, such as hake fillets, requires adherence to stringent safety protocols. Additionally, the EU's trade agreements, exemplified by events like the Shanghai Expo, facilitate the movement of goods while maintaining biosecurity, thus protecting both the market and public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:11:46.201767",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 850,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 307,
+      "selected_avg_freq": 145.50666666666666
+    },
+    "related_words": [
+      "neum",
+      "dubrovnik",
+      "assimilating",
+      "adriatic",
+      "théâtr",
+      "zingaro",
+      "equestre",
+      "tempered",
+      "initials",
+      "expo",
+      "équestre",
+      "artists",
+      "tour",
+      "flagrant",
+      "corridor",
+      "champions",
+      "fei",
+      "nearby",
+      "encephalitis",
+      "reimport",
+      "waivers",
+      "underwent",
+      "parking",
+      "racing",
+      "appended",
+      "reimported",
+      "internationale",
+      "shanghai",
+      "equestrian",
+      "stomatitis"
+    ],
+    "prompt_length": 1677,
+    "category": "2016 trade"
+  }
+}

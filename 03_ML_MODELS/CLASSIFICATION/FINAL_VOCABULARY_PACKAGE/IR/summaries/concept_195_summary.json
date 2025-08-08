@@ -1,0 +1,63 @@
+{
+  "concept_id": "195",
+  "concept_data": {
+    "title": "seaplane base",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": true,
+    "preferred_term": "airport",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"seaplane base\" is a redirect to the preferred term \"airport\" within the EU's air and space transport regulatory framework. Seaplane bases serve as specialized aerodromes for aircraft equipped with floats or skis, facilitating operations in congested waterways. Regulatory oversight ensures that these facilities meet safety standards, including the operability of equipment such as scanners and brakes. The European Union Aviation Safety Agency (EASA) and the European Civil Aviation Conference (ECAC) play crucial roles in establishing guidelines that address inefficiencies and enhance safety measures. As air traffic increases, the need for slots at these bases becomes scarce, necessitating careful management of ramp operations and compensations for delays.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:25:18.372546",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1099,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 136,
+      "selected_avg_freq": 55.00666666666667
+    },
+    "related_words": [
+      "brakes",
+      "congested",
+      "ghanaian",
+      "reviewer",
+      "uncovering",
+      "lags",
+      "stebs",
+      "divesting",
+      "euavsec",
+      "rosenkrands",
+      "ethiopian",
+      "loader",
+      "carpatair",
+      "timișoara",
+      "cluj",
+      "napoca",
+      "sgei",
+      "tamper",
+      "transverse",
+      "safa",
+      "lasse",
+      "scissor",
+      "gearbox",
+      "perimeters",
+      "scanners",
+      "christensen",
+      "compensations",
+      "ramp",
+      "atv",
+      "equipement"
+    ],
+    "prompt_length": 1684,
+    "category": "4826 air and space transport"
+  }
+}

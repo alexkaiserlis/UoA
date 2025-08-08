@@ -1,0 +1,63 @@
+{
+  "concept_id": "1139",
+  "concept_data": {
+    "title": "gaseous fuel",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "gas",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, \"gaseous fuel,\" often redirected to the preferred term \"gas,\" encompasses various energy sources prioritising efficiency and sustainability. Regulatory bodies, such as ENTSO, synchronise energy supply and demand through prioritization of intraday timeslots, addressing locational mismatches in distribution. The legal landscape includes directives like the Bundesvergabegesetz and mineralrohstoffgesetz, which govern the exploration and production of gas resources, including opsporingsvergunningen for extraction rights. Geologists and geophysicists play crucial roles in scoping potential sites, while compliance with safety regulations mitigates risks of leaks. The EU's approach also considers incremental innovations in gas appliances, ensuring consumer safety in diverse settings, from campsites to urban areas.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:34:42.878560",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1523,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 70,
+      "selected_avg_freq": 28.5
+    },
+    "related_words": [
+      "prioritising",
+      "timeslots",
+      "synchronise",
+      "prioritises",
+      "locational",
+      "berggesetz",
+      "mineralrohstoffgesetz",
+      "bundesvergabegesetz",
+      "omv",
+      "rohöl",
+      "aufsuchungs",
+      "bitumengesetz",
+      "sickle",
+      "gesmbh",
+      "setup",
+      "entsos",
+      "entsog",
+      "prioritization",
+      "scoping",
+      "rft",
+      "gassen",
+      "leniency",
+      "pierceable",
+      "cartridges",
+      "camping",
+      "burner",
+      "campsites",
+      "tents",
+      "geologist",
+      "geophysicist"
+    ],
+    "prompt_length": 1745,
+    "category": "6606 energy policy"
+  }
+}

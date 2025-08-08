@@ -1,0 +1,63 @@
+{
+  "concept_id": "1686",
+  "concept_data": {
+    "title": "location of production",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"location of production\" concept within EU agricultural structures and production regulations pertains to the geographical origin of food products, which is crucial for maintaining quality standards and protecting traditional methods. For instance, the production of φέτα cheese, originating from specific regions, is regulated to ensure authenticity. Similarly, products like gorgonzola and idiazábal are safeguarded under EU law, emphasizing their unique characteristics tied to their locations. The legal framework also supports communities producing traditional items, such as the bronzée dinde or the renowned pistacchio from Bronte. This regulatory focus fosters the preservation of local identities, such as those found in regions like Teruel and Montiel, while promoting exceptional products like εξαιρετικό ελαιόλαδο from τροιζηνία and the unique flavors of moissac and norcia. By establishing these standards, the EU aims to enhance consumer trust and protect regional specialties, ensuring that products like the manx loaghtan and the olomoucké tvarůžky retain their distinctiveness in the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:35:45.913872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 154,
+    "vocabulary_stats": {
+      "total_related_words": 2495,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.94
+    },
+    "related_words": [
+      "φέτα",
+      "teruel",
+      "volailles",
+      "dinde",
+      "bronzée",
+      "siurana",
+      "idiazรกbal",
+      "idiazรกbel",
+      "taureau",
+      "rogal",
+      "świętomarciński",
+      "chirimoya",
+      "gorgonzola",
+      "noires",
+      "communitites",
+      "olomoucké",
+      "tvarůžky",
+      "olmützer",
+      "quargel",
+      "olomouc",
+      "marroni",
+      "monfenera",
+      "montiel",
+      "riojano",
+      "pistacchio",
+      "bronte",
+      "amiata",
+      "jałowcowa",
+      "høker",
+      "bajer"
+    ],
+    "prompt_length": 1685,
+    "category": "5611 agricultural structures and production"
+  }
+}

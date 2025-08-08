@@ -1,0 +1,63 @@
+{
+  "concept_id": "2830",
+  "concept_data": {
+    "title": "protection of animals",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"protection of animals\" within the EU's environmental policy framework addresses issues of cruelty and the welfare of sentient beings, including vertebrates and primates. Regulatory measures aim to minimize abnormalities caused by practices like finning and the use of uncertified hunting methods, such as hakapiks and bludgeons. The EU emphasizes the importance of ethical treatment in aquaria and during rites, while promoting repopulation efforts for endangered taxa like elasmobranchii, including the shortfin mako (Isurus oxyrinchus) and hammerhead species. Initiatives also focus on microbiology and the impact of pollutants, such as organochlorine compounds, on animal health, ensuring auditability and certification in animal welfare practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:01:07.041435",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1870,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 17.926666666666666
+    },
+    "related_words": [
+      "cruelty",
+      "rites",
+      "cloning",
+      "scnt",
+      "microclimate",
+      "edit",
+      "booklet",
+      "microbes",
+      "finning",
+      "taxon",
+      "elasmobranchii",
+      "iucn",
+      "priconace",
+      "glauca",
+      "shortfin",
+      "mako",
+      "isurus",
+      "oxyrinchus",
+      "hammerhead",
+      "silky",
+      "wings",
+      "certifiction",
+      "hakapiks",
+      "bludgeons",
+      "blubber",
+      "hunts",
+      "repopulation",
+      "aquaria",
+      "ecvam",
+      "eurobarometer"
+    ],
+    "prompt_length": 1692,
+    "category": "5206 environmental policy"
+  }
+}

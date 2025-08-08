@@ -1,0 +1,63 @@
+{
+  "concept_id": "4532",
+  "concept_data": {
+    "title": "regional transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regional transport\" within EU legal and regulatory frameworks refers to the organization and management of transport systems across various regions. It implicitly involves the compilation of data and statistics to better understand traffic flows and the carriage of goods across frontiers. Regional transport is crucial for ensuring suitable intervals between transport services, facilitating the movement of vehicles and goods within and between territories. The EU often calls for reports and amendments to existing regulations to enhance regional transport efficiency. Multiannual plans may be drafted to address regional needs, ensuring that transport systems are revised and adapted to prove effective in meeting the demands of several regions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:06.626018",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 92,
+      "requested_words": 150,
+      "min_frequency_found": 27,
+      "max_frequency_found": 4108,
+      "selected_words": 92,
+      "selected_min_freq": 27,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1864.9673913043478
+    },
+    "related_words": [
+      "implicitly",
+      "dispense",
+      "compile",
+      "compiled",
+      "compilation",
+      "returns",
+      "carriage",
+      "formalities",
+      "frontiers",
+      "traffic",
+      "intervals",
+      "flows",
+      "road",
+      "vehicles",
+      "prove",
+      "cease",
+      "refer",
+      "acquired",
+      "multiannual",
+      "calls",
+      "indicates",
+      "supplementary",
+      "knowledge",
+      "statistics",
+      "comparable",
+      "suitable",
+      "registered",
+      "scale",
+      "revised",
+      "main"
+    ],
+    "prompt_length": 1668,
+    "category": "4811 organisation of transport"
+  }
+}

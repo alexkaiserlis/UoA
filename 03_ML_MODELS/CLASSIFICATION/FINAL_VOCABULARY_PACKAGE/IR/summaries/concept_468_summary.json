@@ -1,0 +1,63 @@
+{
+  "concept_id": "468",
+  "concept_data": {
+    "title": "safety device",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"safety device\" refers to equipment designed to enhance the safety of transport systems, particularly at junctions and roundabouts. These devices, often typeapproved, include features such as deflectors and retractors that mitigate risks associated with vehicular movement. The internalisation of externalities, such as emissions and noise, is crucial for incentivising the adoption of advanced safety technologies. Regulatory bodies may assess safety devices through rigorous exams, ensuring compliance with standards set by entities like DEKRA. Innovations, such as fusible lanyards and AEBs (Autonomous Emergency Braking Systems), exemplify efforts to enhance transport safety conservatively while addressing potential hazards like avalanche risks in specific environments.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:38:41.309620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1776,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 9.44
+    },
+    "related_words": [
+      "tracked",
+      "submarining",
+      "junctions",
+      "roundabouts",
+      "halving",
+      "typeapproved",
+      "wuold",
+      "externality",
+      "incentivising",
+      "ndtac",
+      "quiet",
+      "internalisation",
+      "incentivise",
+      "brass",
+      "eutectic",
+      "inset",
+      "melts",
+      "spurting",
+      "deflector",
+      "fusible",
+      "strut",
+      "dispersing",
+      "taps",
+      "dummies",
+      "aebs",
+      "conservatively",
+      "reclined",
+      "barrieres",
+      "gtr",
+      "lap"
+    ],
+    "prompt_length": 1659,
+    "category": "4811 organisation of transport"
+  }
+}

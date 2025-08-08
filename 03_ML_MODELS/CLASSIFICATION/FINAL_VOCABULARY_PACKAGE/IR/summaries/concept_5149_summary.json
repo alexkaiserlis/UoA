@@ -1,0 +1,63 @@
+{
+  "concept_id": "5149",
+  "concept_data": {
+    "title": "integrated development programme",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"integrated development programme\" is a vital EU initiative aimed at fostering regional cohesion and productivity through a structured approach. It involves combining various socio-economic strategies to address the needs of deficient areas, such as the Isles of Scotland and regions like Calabria and Sicilia. These programmes are designed to modernize infrastructure and enhance vocational training, securing jobs and promoting inclusive growth. The implementation occurs in successive phases, with schedules and instalments endorsed by regional departments. By allocating loans and resources, the programme supports regions like Umbria, Liguria, and Emilia-Romagna, ensuring that all areas, including unfavourable regions, benefit from collaborative efforts to achieve sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:08:19.692723",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 303,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1289,
+      "selected_avg_freq": 693.9
+    },
+    "related_words": [
+      "npci",
+      "pedip",
+      "intregrated",
+      "reffered",
+      "smus",
+      "sicilia",
+      "isles",
+      "hebrides",
+      "lozère",
+      "deficient",
+      "toscana",
+      "imp",
+      "umbria",
+      "liguria",
+      "emilia",
+      "romagna",
+      "campania",
+      "calabria",
+      "outer",
+      "combining",
+      "sicily",
+      "modernize",
+      "phases",
+      "scotland",
+      "schedules",
+      "display",
+      "instalments",
+      "securing",
+      "fit",
+      "vocational"
+    ],
+    "prompt_length": 1686,
+    "category": "1616 regions and regional policy"
+  }
+}

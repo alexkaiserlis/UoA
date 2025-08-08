@@ -1,0 +1,63 @@
+{
+  "concept_id": "2329",
+  "concept_data": {
+    "title": "fishing permit",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"fishing permit\" is a regulatory authorization within the EU framework, essential for managing sustainable fisheries. It is particularly crucial for the protection of vulnerable taxa, including elasmobranchii like the shortfin mako (Isurus oxyrinchus) and hammerhead sharks, which face risks from overexploitation and destructive practices such as finning. The permit system aims to prevent illegal, unreported, and unregulated (IUU) fishing, ensuring that captured species, including clupea harengus and tusk, are harvested sustainably. By monitoring flagged vessels, such as trawlers operating near hydrothermal vents and seamounts, the EU seeks to protect marine ecosystems, including corals and reefs, from irreparable damage.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:15.793463",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1094,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 107,
+      "selected_avg_freq": 47.06666666666667
+    },
+    "related_words": [
+      "finning",
+      "taxon",
+      "elasmobranchii",
+      "iucn",
+      "priconace",
+      "glauca",
+      "shortfin",
+      "mako",
+      "isurus",
+      "oxyrinchus",
+      "hammerhead",
+      "silky",
+      "wings",
+      "seamounts",
+      "hydrothermal",
+      "vents",
+      "unassessed",
+      "erasure",
+      "particularised",
+      "fins",
+      "dcommon",
+      "overexploitation",
+      "elasmobranch",
+      "witch",
+      "crawfish",
+      "sponge",
+      "destructive",
+      "subregional",
+      "oceanic",
+      "undetected"
+    ],
+    "prompt_length": 1654,
+    "category": "5641 fisheries"
+  }
+}

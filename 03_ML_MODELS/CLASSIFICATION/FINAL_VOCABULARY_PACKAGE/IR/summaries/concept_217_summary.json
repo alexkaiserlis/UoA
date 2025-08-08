@@ -1,0 +1,63 @@
+{
+  "concept_id": "217",
+  "concept_data": {
+    "title": "mutual assistance in legal matters",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "judicial cooperation",
+    "relation_type": "USE"
+  },
+  "summary": "\"Mutual assistance in legal matters,\" also referred to as \"judicial cooperation,\" is a cornerstone of EU cooperation policy aimed at enhancing the enforceability of legal decisions across member states. This framework facilitates the extradition of individuals, including those involved in serious assaults or extrajudicial activities, by enabling prosecutors and judges to collaborate effectively. Eurojust and EUPOL play pivotal roles in mediating disputes and ensuring that prosecutions are handled impartially. The concept also addresses the challenges faced by poorer jurisdictions in securing justice, promoting amicable resolutions through arbitration and consensual agreements. By fostering autonomy among legal systems, it reassesses the enforceability of cross-border legal actions, ensuring that all parties, including policyholders and insured individuals, can seek justice without facing unenforceable barriers.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:21:42.093223",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 864,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 275,
+      "selected_avg_freq": 122.6
+    },
+    "related_words": [
+      "prosecutors",
+      "stephen",
+      "congolese",
+      "paved",
+      "policyholder",
+      "assaults",
+      "prosecutions",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "eujust",
+      "mediators",
+      "lex",
+      "searching",
+      "mediator",
+      "attorney",
+      "dactyloscopic",
+      "extradition",
+      "relocated",
+      "extrajudicial",
+      "ssr",
+      "aruba",
+      "eulex",
+      "poorer",
+      "consensual",
+      "reassess",
+      "matrimonial",
+      "weaker",
+      "handing",
+      "surrender"
+    ],
+    "prompt_length": 1775,
+    "category": "0811 cooperation policy"
+  }
+}

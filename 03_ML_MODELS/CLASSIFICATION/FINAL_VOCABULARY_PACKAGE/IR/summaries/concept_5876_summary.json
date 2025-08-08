@@ -1,0 +1,63 @@
+{
+  "concept_id": "5876",
+  "concept_data": {
+    "title": "Russian Federation",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Russia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Russian Federation,\" commonly referred to as \"Russia,\" is a significant entity in political geography, particularly within EU legal and regulatory frameworks. The EU's engagement with Russia often involves complex issues, including the downing of aircraft and the presence of militants in regions like Donetsk. Regulatory measures may address contraventions of international law, particularly concerning troop movements and the autonomic governance of areas such as Kamensk and Taganrog. The EU also scrutinizes Russian industries, including metallurgical and agrochemical sectors, with entities like Rusal and TMK under observation for compliance with environmental standards. Furthermore, initiatives like the NDEP illustrate the EU's commitment to fostering cleanliness and sustainability in cross-border interactions. The relationship between the EU and Russia is multifaceted, encompassing diplomatic, economic, and legal dimensions that require careful authentication and uplift of standards across various sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:00:56.306845",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 3349,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 7.44
+    },
+    "related_words": [
+      "downing",
+      "donetsk",
+      "militants",
+      "troops",
+      "kamensk",
+      "irkutsk",
+      "autonomic",
+      "waidhaus",
+      "discriminates",
+      "taganrog",
+      "mettalurgical",
+      "volzskhy",
+      "tmk",
+      "aacs",
+      "sepco",
+      "rwh",
+      "eurosinara",
+      "merigo",
+      "contraventions",
+      "studencheskaya",
+      "sayan",
+      "sayanagorsk",
+      "suites",
+      "graf",
+      "platz",
+      "gossanepidnadzor",
+      "minzdrav",
+      "asmp",
+      "khimichesky",
+      "intp"
+    ],
+    "prompt_length": 1678,
+    "category": "7236 political geography"
+  }
+}

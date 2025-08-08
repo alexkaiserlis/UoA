@@ -1,0 +1,26 @@
+{
+  "concept_id": "6407",
+  "concept_data": {
+    "title": "environmental acidification",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "acidification",
+    "relation_type": "USE"
+  },
+  "summary": "Environmental acidification, commonly referred to as acidification, is a significant concern within the EU's regulatory framework addressing the deterioration of the environment. This phenomenon results from the deposition of acidifying pollutants, primarily sulfur dioxide and nitrogen oxides, which can lead to detrimental effects on ecosystems, biodiversity, and human health. The EU has implemented various directives and regulations aimed at mitigating acidification, including the National Emission Ceilings Directive and the Ambient Air Quality Directive. These legal instruments seek to establish limits on emissions and promote sustainable practices to combat the adverse impacts of acidification on the environment and public welfare.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:41.519461",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1232,
+    "category": "5216 deterioration of the environment"
+  }
+}

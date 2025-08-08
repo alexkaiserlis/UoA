@@ -1,0 +1,63 @@
+{
+  "concept_id": "1029",
+  "concept_data": {
+    "title": "porridge",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "cereal flakes",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"porridge\" is a redirect to the preferred term \"cereal flakes,\" which encompasses various breakfast options, including muesli and rice-based products. The classification of foodstuffs is critical, as it specifies tariff codes and eligibility for tenders. The nomenclature surrounding cereals is subdivided into categories that include pasta and other grain-based supplies. Organizations involved in the logistical mobilization of these products must adhere to deadlines for submission and allocation of consignments. Notices regarding changes to classifications are published, ensuring that all stakeholders are informed of any amendments, particularly regarding the resultant supplies and their respective types.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:33.858253",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1822.7438016528927
+    },
+    "related_words": [
+      "amdended",
+      "muesli",
+      "breakfast",
+      "republication",
+      "wheras",
+      "pasta",
+      "subdivided",
+      "logistical",
+      "mobilization",
+      "fob",
+      "resultant",
+      "tenders",
+      "rice",
+      "eggs",
+      "invitation",
+      "awarded",
+      "consignments",
+      "tender",
+      "adjusting",
+      "beneficiary",
+      "deadlines",
+      "heading",
+      "cereals",
+      "organizations",
+      "specifies",
+      "supplies",
+      "opened",
+      "changed",
+      "tonnes",
+      "nomenclature"
+    ],
+    "prompt_length": 1690,
+    "category": "6026 foodstuff"
+  }
+}

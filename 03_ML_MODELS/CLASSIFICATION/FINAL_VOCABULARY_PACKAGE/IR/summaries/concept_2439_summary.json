@@ -1,0 +1,63 @@
+{
+  "concept_id": "2439",
+  "concept_data": {
+    "title": "Poitou-Charentes",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Poitou-Charentes, a region of France, is significant within EU legal and regulatory frameworks, particularly concerning agricultural and environmental policies. The region is renowned for its vineyards, producing PDO (Protected Designation of Origin) wines like Chabichou and Pauillac, which are subject to specific stipulating regulations to ensure quality and authenticity. The EU's Common Agricultural Policy (CAP) supports local incomes and addresses disparities through frameworks like the ESF (European Social Fund) and ERDF (European Regional Development Fund). Additionally, Poitou-Charentes faces challenges such as coastal erosion and infectious diseases affecting molluscs, necessitating treatments and readiness strategies to mitigate risks. The region's natural resources, including its catchment areas, are crucial for sustainable development and additionality in EU funding initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:54:51.708582",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 479,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 848,
+      "selected_avg_freq": 439.44
+    },
+    "related_words": [
+      "charente",
+      "pauillac",
+      "ist",
+      "chabichou",
+      "agneau",
+      "hematopoietic",
+      "poitou",
+      "rechar",
+      "brittany",
+      "charentes",
+      "ihn",
+      "catchment",
+      "vhs",
+      "septicaemia",
+      "vineyard",
+      "necrosis",
+      "haemorrhagic",
+      "vineyards",
+      "vines",
+      "psr",
+      "stipulating",
+      "additionality",
+      "indexed",
+      "suitability",
+      "continental",
+      "pdo",
+      "naturally",
+      "esf",
+      "convert",
+      "treatments"
+    ],
+    "prompt_length": 1667,
+    "category": "7211 regions of EU Member States"
+  }
+}

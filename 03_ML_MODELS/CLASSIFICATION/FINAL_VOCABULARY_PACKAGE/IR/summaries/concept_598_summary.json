@@ -1,0 +1,63 @@
+{
+  "concept_id": "598",
+  "concept_data": {
+    "title": "European Union waters",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "EU waters",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU waters,\" a redirect from \"European Union waters,\" pertains to the legal and regulatory framework governing marine environments within the jurisdiction of the EU. These waters are subject to international law, particularly concerning overexploited species like micromesistius and encrasicolus, where predation and bycatches from methods such as gillnets and trammel nets pose significant challenges. Regulatory bodies, including Regional Fisheries Management Organizations (RFMOs), oversee the sustainable management of fish stocks, addressing issues like crowding and the consequentially dangerous impacts of unutilised resources. The EU's purview includes partnerships aimed at reallocating fishing quotas, ensuring that practices like jiggers and midwater trawling do not nullify conservation efforts. Overall, the legal framework underlies the need for crosschecking data to prevent crashes in fish populations, thereby safeguarding marine biodiversity.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:47.850741",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 1625,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 32,
+      "selected_avg_freq": 17.16
+    },
+    "related_words": [
+      "predation",
+      "skate",
+      "formatted",
+      "reallocates",
+      "consequentially",
+      "oveall",
+      "dangerously",
+      "overexploited",
+      "novergicus",
+      "queston",
+      "kilowatts",
+      "partership",
+      "trammel",
+      "tangle",
+      "jiggers",
+      "gillnets",
+      "codend",
+      "crowding",
+      "dying",
+      "micromesistius",
+      "poutassou",
+      "midwater",
+      "ptm",
+      "encrasicolus",
+      "ghl",
+      "sbr",
+      "excl",
+      "rfmo",
+      "purview",
+      "jaw"
+    ],
+    "prompt_length": 1696,
+    "category": "1231 international law"
+  }
+}

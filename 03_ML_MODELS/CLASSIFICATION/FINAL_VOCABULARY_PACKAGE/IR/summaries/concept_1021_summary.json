@@ -1,0 +1,63 @@
+{
+  "concept_id": "1021",
+  "concept_data": {
+    "title": "taxation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax system",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"taxation,\" redirected to the preferred term \"tax system,\" encompasses the regulatory framework governing fiscal obligations within the EU. It involves multilaterial agreements among member states, addressing issues such as the ceding of tax revenues and the acknowledgment of diverse tax practices. The tax system includes various components, such as the treatment of industrially produced goods like erdöl and the implications of amortised costs on businesses. Legal instruments, such as the bundessteuerblatt, provide guidance on compliance, while the EU's communication on tax harmonization aims to prevent undervalued assessments. The system also considers the implications of taxes on communal resources, ensuring equitable treatment across comunitaria.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:06:06.459355",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2440,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 27,
+      "selected_avg_freq": 13.56
+    },
+    "related_words": [
+      "cassava",
+      "husks",
+      "cubicles",
+      "gutters",
+      "laughtons",
+      "commissioners",
+      "swa",
+      "imesi",
+      "invzulg",
+      "bundessteuerblatt",
+      "mitteldeutsche",
+      "erdöl",
+      "raffinerie",
+      "mider",
+      "leuna",
+      "bundestag",
+      "multilaterial",
+      "predictors",
+      "clubs",
+      "comunitaria",
+      "adempimento",
+      "derivanti",
+      "dall",
+      "appartenenza",
+      "comunita",
+      "europee",
+      "amortised",
+      "amortise",
+      "leeuwarder",
+      "papierwarenfabriek"
+    ],
+    "prompt_length": 1736,
+    "category": "2446 taxation"
+  }
+}

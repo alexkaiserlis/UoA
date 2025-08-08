@@ -1,0 +1,63 @@
+{
+  "concept_id": "1415",
+  "concept_data": {
+    "title": "pharmaceutical production",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "pharmaceutical industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"pharmaceutical production,\" redirected to the preferred term \"pharmaceutical industry,\" encompasses the legal and regulatory frameworks governing the development, manufacturing, and distribution of medicinal products within the EU. This industry must adhere to stringent requirements, ensuring the permissibility of products through compliance with regulations that prevent infringment of intellectual property rights, as established in landmark cases such as Magill and Bronner. The segmentstruktur of the industry is diverse, consisting of various segments that must operate within defined landkreisen and kreisfreien städten. Therefore, the practical requirements for establishing a data structure are essential, as they ensure that the industry can effectively respond to the evolving demands of the market, ggfs adapting to changes without unzulänglich practices. The regulatory landscape thus requires a continuous entwicklung of standards that are gerecht and equitable, ensuring that all stakeholders are adequately represented and that the industry can thrive within the EU's legal framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:45.282594",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 150,
+    "vocabulary_stats": {
+      "total_related_words": 1032,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 8.346666666666666
+    },
+    "related_words": [
+      "azyx",
+      "brick",
+      "permissibility",
+      "landgericht",
+      "magill",
+      "ladbroke",
+      "bronner",
+      "cinq",
+      "infringment",
+      "oberlandesgericht",
+      "beklagten",
+      "dritten",
+      "selbständige",
+      "entwicklung",
+      "einer",
+      "segmentstruktur",
+      "ebenfalls",
+      "einteilung",
+      "nach",
+      "landkreisen",
+      "kreisfreien",
+      "städten",
+      "postleitzahlbezirken",
+      "beruht",
+      "deshalb",
+      "ggfs",
+      "annähernd",
+      "gleichen",
+      "anzahl",
+      "segmenten"
+    ],
+    "prompt_length": 1746,
+    "category": "2841 health"
+  }
+}

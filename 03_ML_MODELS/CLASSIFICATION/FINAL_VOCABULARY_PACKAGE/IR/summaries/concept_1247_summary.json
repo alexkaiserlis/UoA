@@ -1,0 +1,63 @@
+{
+  "concept_id": "1247",
+  "concept_data": {
+    "title": "management company",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "holding company",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal frameworks, a \"management company,\" often redirected to the term \"holding company,\" serves as an organizational structure that oversees and manages investments in various subsidiaries. This concept is crucial for rationalizing operations and ensuring compliance with regulatory guidelines. Holding companies can facilitate the furtherance of strategic objectives, allowing for the injection of capital into branches that may face overcapacity or underemployment issues. They are also instrumental in navigating complex financial landscapes, including refinancing and managing debts owed. The strength of a holding company lies in its ability to expand its portfolio while addressing potential incompatibilities among competitors. Such entities must adhere to EU regulations to avoid distorted market practices, ensuring that their operations do not escalate into grave legal challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:46:55.369212",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 365,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 892,
+      "selected_avg_freq": 397.6933333333333
+    },
+    "related_words": [
+      "louviă",
+      "blow",
+      "tltros",
+      "mros",
+      "tltro",
+      "telexes",
+      "premia",
+      "reconstitute",
+      "told",
+      "furtherance",
+      "injections",
+      "tableware",
+      "escalation",
+      "ware",
+      "ceramic",
+      "learned",
+      "owed",
+      "announcement",
+      "accrue",
+      "underemployment",
+      "refinancing",
+      "strike",
+      "reminded",
+      "bfrs",
+      "handicaps",
+      "eurosystem",
+      "overcapacity",
+      "grave",
+      "answer",
+      "rationalize"
+    ],
+    "prompt_length": 1727,
+    "category": "4016 legal form of organisations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1078",
+  "concept_data": {
+    "title": "supplier",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"supplier\" refers to an entity that provides goods or services, often within distributive trades. Suppliers play a crucial role in stabilizing markets, particularly in sectors like agriculture, where they may be involved in the cultivation of genetically diverse varieties of organisms, such as bananas. The appropriateness of a supplier's practices is often assessed through consultable databases that ensure compliance with regulations. This oversight seeks to prevent harm to disadvantaged growers and ensure the viability of products. Suppliers must align with prevailing standards to maintain confidence and coherence in trade, thereby avoiding obsolete practices that could jeopardize earnings and market stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:01:28.230453",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1163,
+      "selected_avg_freq": 579.58
+    },
+    "related_words": [
+      "consultable",
+      "accompagnied",
+      "stabilizes",
+      "stabex",
+      "resembling",
+      "grower",
+      "lomé",
+      "denominations",
+      "genera",
+      "triggered",
+      "passport",
+      "banana",
+      "smoothly",
+      "outlet",
+      "friendly",
+      "genetically",
+      "ornamental",
+      "earnings",
+      "accredited",
+      "disadvantaged",
+      "enjoyed",
+      "stabilization",
+      "bananas",
+      "organism",
+      "seeks",
+      "foresee",
+      "harm",
+      "database",
+      "propagating",
+      "appropriateness"
+    ],
+    "prompt_length": 1705,
+    "category": "2036 distributive trades"
+  }
+}

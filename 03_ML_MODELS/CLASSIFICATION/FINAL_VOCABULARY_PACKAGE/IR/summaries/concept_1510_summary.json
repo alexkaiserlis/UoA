@@ -1,0 +1,63 @@
+{
+  "concept_id": "1510",
+  "concept_data": {
+    "title": "International Organization for Standardization",
+    "category_code": "7626",
+    "category_name": "non-governmental organisations",
+    "category_full": "7626 non-governmental organisations",
+    "is_redirect": true,
+    "preferred_term": "ISO",
+    "relation_type": "USE"
+  },
+  "summary": "The International Organization for Standardization (ISO) is a prominent non-governmental organization that plays a critical role in the standardisation of various sectors, including ecological and safety measures. In the EU regulatory context, ISO standards are recognized as benchmarks for compliance, ensuring that products, such as paints and varnishes, meet specified safety and ecological criteria. The certification process involves rigorous audits to confirm that organizations fulfill these standards, thus allowing them to be awarded ISO labels. These standards facilitate international trade by providing identical specifications that are accepted globally, enhancing the credibility of exporting goods. The ISO also serves as a forum for dialogue, where member states can revise and verify standards, ensuring they remain relevant and effective in addressing dangerous or disadvantaged practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:24:33.279043",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 219,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2266,
+      "selected_avg_freq": 1063.9
+    },
+    "related_words": [
+      "conférence",
+      "poids",
+      "submultiples",
+      "verifier",
+      "prefixes",
+      "multiples",
+      "générale",
+      "disallowed",
+      "varnishes",
+      "mesures",
+      "paints",
+      "recognize",
+      "eco",
+      "accredited",
+      "disadvantaged",
+      "correspondence",
+      "ecological",
+      "audits",
+      "iso",
+      "label",
+      "forum",
+      "audit",
+      "dangerous",
+      "des",
+      "revise",
+      "measurement",
+      "standardisation",
+      "confirm",
+      "marked",
+      "certified"
+    ],
+    "prompt_length": 1768,
+    "category": "7626 non-governmental organisations"
+  }
+}

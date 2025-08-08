@@ -1,0 +1,26 @@
+{
+  "concept_id": "5177",
+  "concept_data": {
+    "title": "Eurydice",
+    "category_code": "3206",
+    "category_name": "education",
+    "category_full": "3206 education",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Eurydice is a network established by the European Commission, focusing on education systems and policies across Europe. It serves as a vital resource for comparative analysis, providing comprehensive information on national education structures, reforms, and regulatory frameworks. By facilitating the exchange of best practices and promoting transparency, Eurydice enhances the understanding of educational landscapes within the EU. This initiative supports the development of coherent educational policies, aligning with the EU's broader objectives of fostering quality education and lifelong learning. Through its extensive database, Eurydice plays a crucial role in informing stakeholders and guiding legislative actions in the education sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:07:36.441971",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1157,
+    "category": "3206 education"
+  }
+}

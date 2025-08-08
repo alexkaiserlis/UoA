@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7dda56e2",
+  "concept_data": {
+    "title": "resistance to antibiotics",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "antimicrobial resistance",
+    "relation_type": "USE"
+  },
+  "summary": "Antimicrobial resistance (AMR) is a critical public health challenge recognized within EU legal and regulatory frameworks. The term \"resistance to antibiotics\" serves as a redirect to the preferred term \"antimicrobial resistance,\" which encompasses the broader phenomenon where microorganisms evolve to withstand the effects of antimicrobial agents. The EU has implemented various directives and regulations aimed at combating AMR, emphasizing the need for prudent use of antibiotics in both human medicine and veterinary practices. These measures are vital for safeguarding public health, ensuring effective treatment options, and promoting sustainable healthcare systems across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:38:05.723426",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1215,
+    "category": "2841 health"
+  }
+}

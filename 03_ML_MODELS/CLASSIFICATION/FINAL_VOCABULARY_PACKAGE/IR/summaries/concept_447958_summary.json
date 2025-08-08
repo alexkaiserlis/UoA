@@ -1,0 +1,63 @@
+{
+  "concept_id": "447958",
+  "concept_data": {
+    "title": "European Union Agency for Asylum",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Union Agency for Asylum plays a pivotal role in the asylum framework of the EU, facilitating cooperation among member states, including Norway, Iceland, Switzerland, and Liechtenstein. It supports the initialling of agreements and the signing of arrangements that specify modalities for processing asylum applications. The agency is authorised to work on behalf of the EU, ensuring that countries like Denmark, Ireland, and the United Kingdom participate effectively in negotiations. Its office oversees the conclusion of arrangements that are bound by consent and take effect upon approval. The nature of its operations is crucial for the successful management of asylum seekers across the confederation.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:36:03.305708",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 68,
+      "requested_words": 150,
+      "min_frequency_found": 85,
+      "max_frequency_found": 4108,
+      "selected_words": 68,
+      "selected_min_freq": 85,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1797.7058823529412
+    },
+    "related_words": [
+      "asylum",
+      "initialling",
+      "observers",
+      "principality",
+      "modalities",
+      "liechtenstein",
+      "successfully",
+      "specifying",
+      "iceland",
+      "consent",
+      "signing",
+      "confederation",
+      "swiss",
+      "switzerland",
+      "recital",
+      "norway",
+      "arrangement",
+      "bound",
+      "participate",
+      "office",
+      "participation",
+      "negotiations",
+      "denmark",
+      "manner",
+      "ireland",
+      "open",
+      "signed",
+      "behalf",
+      "extent",
+      "give"
+    ],
+    "prompt_length": 1721,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

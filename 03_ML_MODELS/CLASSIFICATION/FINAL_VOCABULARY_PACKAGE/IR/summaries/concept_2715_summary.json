@@ -1,0 +1,63 @@
+{
+  "concept_id": "2715",
+  "concept_data": {
+    "title": "power production",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy production",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"power production,\" redirected to \"energy production,\" encompasses various methods of generating energy within the EU's regulatory framework. This includes cogeneration and standalone systems that optimize thermodynamics for efficiency. The EU's energy policy promotes unbundling of energy markets, facilitating competition among majors like Statoil and Gazprom. Regulatory bodies, such as the kilpailuvirasto and Ofgem, oversee compliance and address bottlenecks in energy distribution, particularly through pipelines and gasworks. The Nordpool market exemplifies a collaborative approach to energy trading, while initiatives like retrofitting and refurbishing existing infrastructure aim to enhance calorific efficiency. The trilogue process ensures stakeholder engagement in policy development, addressing fluctuating energy demands and securing long-term agreements with guarantors.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:03.428964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 1662,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 79,
+      "selected_avg_freq": 35.28
+    },
+    "related_words": [
+      "cogeneration",
+      "kilpailuvirasto",
+      "nordpool",
+      "gasworks",
+      "classifed",
+      "inseparable",
+      "mijnwet",
+      "continentaalplat",
+      "geophysical",
+      "toewijzing",
+      "ronde",
+      "opsporingsvergunningen",
+      "nogepa",
+      "ofgem",
+      "betta",
+      "bottleneck",
+      "thermodynamics",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "eca",
+      "refurbishing",
+      "glandless",
+      "standalone",
+      "circulators",
+      "ballasts",
+      "generous",
+      "gwh"
+    ],
+    "prompt_length": 1747,
+    "category": "6606 energy policy"
+  }
+}

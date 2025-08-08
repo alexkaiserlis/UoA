@@ -1,0 +1,63 @@
+{
+  "concept_id": "4139",
+  "concept_data": {
+    "title": "series",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "serial publication",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"series\" is a redirect to \"serial publication,\" which refers to a classification of documents issued periodically, such as reports or bulletins. These publications are often subdivided into sections that conform to specific nomenclature and codes, providing binding information on various subjects, including trade and customs. Each serial publication is classified and described in a table, indicating the rights and obligations of holders. The statistical data contained within these documents is essential for authorities to apply uniform tariff codes and continue compliance with EU regulations. Thus, serial publications serve as a vital resource for understanding the legal landscape and ensuring adherence to accepted standards within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:33:42.896159",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 88,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 88,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2289.3636363636365
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "codes",
+      "classification",
+      "accepted",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "section",
+      "statistical",
+      "code",
+      "rights",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods"
+    ],
+    "prompt_length": 1661,
+    "category": "3221 documentation"
+  }
+}

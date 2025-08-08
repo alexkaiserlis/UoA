@@ -1,0 +1,63 @@
+{
+  "concept_id": "3353",
+  "concept_data": {
+    "title": "sexual mutilation",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sexual mutilation\" encompasses various practices that involve the surgical alteration of sexual organs, often resulting in painful and offensive outcomes for sentient beings. In EU legal and regulatory frameworks, there is a growing acknowledgment of the need to reconsider and validate practices such as castration, particularly in the context of animal welfare. Veterinarians are dedicated to ensuring that procedures, including immunocastration, are performed with appropriate analgesia to minimize suffering. The implications of these practices extend to the treatment of mature boars, where the accumulation of odours like androstenone and skatole can render the meat inedible. As the EU invests in routine screening and training, it aims to address the ethical concerns surrounding these surgical interventions, ensuring that older animals are treated humanely while considering the impact on travellers and consumers.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:13.305332",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 311,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1208,
+      "selected_avg_freq": 469.32666666666665
+    },
+    "related_words": [
+      "taint",
+      "androstenone",
+      "skatole",
+      "sexually",
+      "testicles",
+      "immunocastration",
+      "castrate",
+      "analgesia",
+      "surgically",
+      "castration",
+      "offensive",
+      "painful",
+      "indole",
+      "sentient",
+      "irmm",
+      "inedible",
+      "anaesthetic",
+      "odour",
+      "reconsideration",
+      "geel",
+      "surgical",
+      "interactive",
+      "stayed",
+      "mature",
+      "accumulate",
+      "therof",
+      "castrated",
+      "sexual",
+      "heated",
+      "veterinarians"
+    ],
+    "prompt_length": 1679,
+    "category": "2826 social affairs"
+  }
+}

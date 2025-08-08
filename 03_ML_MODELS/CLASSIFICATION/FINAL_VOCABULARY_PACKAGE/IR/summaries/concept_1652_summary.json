@@ -1,0 +1,63 @@
+{
+  "concept_id": "1652",
+  "concept_data": {
+    "title": "fishing grounds",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Fishing grounds refer to specific marine areas designated for the exploitation of fish resources within the EU regulatory framework. These areas are critical for managing catches of various species, including cod, haddock, and sandeel, while ensuring sustainable practices. Regulations govern the use of different fishing gears, such as trawl and seine, to minimize bycatch and promote conservation. The EU employs measures to estimate fish stocks and set limitations on catches, thereby alleviating pressure on exhausted populations. Additionally, transhipment and landing protocols are established to monitor fleet activities and ensure compliance with conservation objectives, particularly in regions like the Skagerrak and under organizations like NAFO.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:13:11.874099",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 233,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1870,
+      "selected_avg_freq": 806.9733333333334
+    },
+    "related_words": [
+      "ressources",
+      "roundnose",
+      "grenadier",
+      "sandeel",
+      "cecaf",
+      "prawn",
+      "trawl",
+      "haddock",
+      "whiting",
+      "seine",
+      "demersal",
+      "skagerrak",
+      "nafo",
+      "stecf",
+      "catching",
+      "towed",
+      "mesh",
+      "gears",
+      "ices",
+      "cod",
+      "divisions",
+      "transhipment",
+      "landing",
+      "catch",
+      "retention",
+      "flying",
+      "strength",
+      "mixed",
+      "catches",
+      "named"
+    ],
+    "prompt_length": 1626,
+    "category": "5641 fisheries"
+  }
+}

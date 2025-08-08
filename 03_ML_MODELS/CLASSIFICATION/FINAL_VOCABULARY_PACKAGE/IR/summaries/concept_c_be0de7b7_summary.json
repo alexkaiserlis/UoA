@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_be0de7b7",
+  "concept_data": {
+    "title": "radiosensitivity",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "radiation exposure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"radiosensitivity\" pertains to the biological response of organisms to \"radiation exposure,\" which is the preferred term in EU legal and regulatory contexts. This concept is crucial for understanding the potential \"deterioration of the environment\" caused by ionizing radiation. Regulatory frameworks, such as the Euratom Treaty, emphasize the need for assessing radiosensitivity to protect human health and the environment from harmful radiation effects. By redirecting to \"radiation exposure,\" the focus shifts to the broader implications of exposure levels and their regulatory thresholds, ensuring compliance with safety standards and environmental protection measures across EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:18.459648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1226,
+    "category": "5216 deterioration of the environment"
+  }
+}

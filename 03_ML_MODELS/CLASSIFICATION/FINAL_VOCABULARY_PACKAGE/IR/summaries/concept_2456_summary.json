@@ -1,0 +1,63 @@
+{
+  "concept_id": "2456",
+  "concept_data": {
+    "title": "common price policy",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"common price policy\" within the EU framework represents an influential mechanism aimed at ensuring price stability and fairness across member states. It involves the alignment of pricing strategies that reconcile the diverse needs of consumers and producers, particularly in sectors like floriculture, where shortfalls in supply can lead to precarious market conditions. This policy presupposes a commitment to maintaining representativity in pricing, detailing requirements that address the multiflorous nature of agricultural products, such as roses, carnations, and cauliflowers. By implementing fortnightly assessments, the policy aims to absorb market fluctuations and promote freshness, thereby enhancing competitiveness among distant suppliers of species like yellowfin and hake.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:21:34.471313",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 904,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 281,
+      "selected_avg_freq": 138.89333333333335
+    },
+    "related_words": [
+      "requirments",
+      "influential",
+      "rebalancing",
+      "perceptible",
+      "albacares",
+      "alignments",
+      "fortnight",
+      "disregarding",
+      "multiflorous",
+      "uniflorous",
+      "bloom",
+      "flowered",
+      "shortfalls",
+      "fortnightly",
+      "prejudging",
+      "roses",
+      "carnations",
+      "floriculture",
+      "basing",
+      "underwent",
+      "toward",
+      "tonnages",
+      "plo",
+      "liberation",
+      "euthynnus",
+      "yellowfin",
+      "implied",
+      "markedly",
+      "squid",
+      "cauliflowers"
+    ],
+    "prompt_length": 1707,
+    "category": "2451 prices"
+  }
+}

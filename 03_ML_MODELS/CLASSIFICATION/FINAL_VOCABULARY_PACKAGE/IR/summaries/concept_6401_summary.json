@@ -1,0 +1,63 @@
+{
+  "concept_id": "6401",
+  "concept_data": {
+    "title": "responsibility for environmental damage",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental liability",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"responsibility for environmental damage,\" also known as \"environmental liability,\" pertains to the obligations of polluters to rectify harm caused by their actions. In the EU regulatory framework, this includes provisions that urge shipowners and charterers to act responsibly, ensuring that their operations do not result in substandard discharges or violations of environmental standards. The legal modalities surrounding environmental liability aim to deter illicit activities by imposing dissuasive penalties on offenders. Victims of environmental damage can seek compensation, while the responsibility to reestablish affected ecosystems often falls on those whose negligence led to the pollution. The correlation between environmental offences and liability is crucial in enforcing compliance and rectifying violations effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:30.403944",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 297,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1331,
+      "selected_avg_freq": 575.2466666666667
+    },
+    "related_words": [
+      "recklessly",
+      "reestablish",
+      "expelling",
+      "charterers",
+      "disapproval",
+      "polluters",
+      "expulsion",
+      "responsibly",
+      "urge",
+      "substandard",
+      "dissuade",
+      "merchant",
+      "detention",
+      "polluting",
+      "offence",
+      "insured",
+      "discharges",
+      "offences",
+      "fill",
+      "dissuasive",
+      "negligence",
+      "societies",
+      "shipowners",
+      "vacuum",
+      "illustrating",
+      "victims",
+      "pays",
+      "oblige",
+      "illicit",
+      "recast"
+    ],
+    "prompt_length": 1759,
+    "category": "5206 environmental policy"
+  }
+}

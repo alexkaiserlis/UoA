@@ -1,0 +1,63 @@
+{
+  "concept_id": "772",
+  "concept_data": {
+    "title": "social survey",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"social survey\" within the EU legal and regulatory framework refers to a systematic method for ascertaining relationships and indicators related to various social spheres, including unemployment and labour. These surveys, often biennial, are coordinated by institutes and chaired by a director to ensure confidentiality of microdata. The establishment of harmonized schedules allows researchers to aggregate data from multiple censuses, facilitating comparison across different regions. By dispensed tasks, these surveys receive input on priorities from consultative bodies. The models used in these surveys depend on a sample of holdings, such as agri-related crops and livestock, ensuring that data collection is synchronized and comprehensive.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:48:43.689979",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 236,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1871,
+      "selected_avg_freq": 885.7533333333333
+    },
+    "related_words": [
+      "establishement",
+      "biennial",
+      "microdata",
+      "fss",
+      "acquainted",
+      "synchronized",
+      "spheres",
+      "censuses",
+      "dispensed",
+      "researchers",
+      "impossibility",
+      "repetition",
+      "ascertaining",
+      "chaired",
+      "aggregated",
+      "relationships",
+      "director",
+      "agri",
+      "schedules",
+      "institutes",
+      "confidential",
+      "unemployment",
+      "meant",
+      "consultative",
+      "spring",
+      "indicators",
+      "coordinating",
+      "coordinate",
+      "grown",
+      "surveys"
+    ],
+    "prompt_length": 1709,
+    "category": "2821 social framework"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "350",
+  "concept_data": {
+    "title": "Euratom Decision",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EAEC Decision",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Euratom Decision,\" also referred to as the \"EAEC Decision,\" is a pivotal regulatory framework within the EU's nuclear energy sector. It empowers member states to engage in the reprocessing of nuclear waste, ensuring safety and security in atomic energy production. This decision facilitates considerable investment and financing for nuclear stations, addressing energy requirements and promoting sustainable practices. By enabling transactions and borrowings for projects, it aims to raise the total value of nuclear energy contributions. The decision also outlines the purpose of implementing safety measures and storage solutions, thereby enhancing the overall experience and security of nuclear operations across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:34:16.298404",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 65,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 65,
+      "selected_min_freq": 22,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1656.323076923077
+    },
+    "related_words": [
+      "reprocessing",
+      "borrowings",
+      "empowering",
+      "downstream",
+      "ought",
+      "stations",
+      "nuclear",
+      "figure",
+      "loans",
+      "raise",
+      "effected",
+      "waste",
+      "contributing",
+      "empowered",
+      "accounts",
+      "transactions",
+      "atomic",
+      "contract",
+      "supplies",
+      "storage",
+      "power",
+      "considerable",
+      "ecu",
+      "issue",
+      "investment",
+      "million",
+      "reached",
+      "desirable",
+      "energy",
+      "euratom"
+    ],
+    "prompt_length": 1694,
+    "category": "1016 European construction"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3841",
+  "concept_data": {
+    "title": "tool industry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"tool industry,\" categorized under mechanical engineering, encompasses a range of machines and devices integral to woodworking and other applications. EU regulations mandate that manufacturers equip saws, shredders, and chippers with adequate guarding to prevent hazards such as slipping or hitting. Essential components like arresters and tripping mechanisms must be installed to address malfunctions and ensure unobstructed operation. Designers are tasked with creating movable appliances that adhere to safety dimensions and constraints, while personal protective equipment (PPE) is critical for operators. Compliance with these regulations mitigates risks associated with powered machines, enhancing workplace safety and efficiency in the tool industry.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:19.550669",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 314,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 954,
+      "selected_avg_freq": 365.32
+    },
+    "related_words": [
+      "sawing",
+      "saws",
+      "guarding",
+      "arrester",
+      "ladder",
+      "unobstructed",
+      "cage",
+      "malfunctions",
+      "integrally",
+      "shredders",
+      "chippers",
+      "jammed",
+      "chute",
+      "designer",
+      "woodworking",
+      "arresters",
+      "blade",
+      "radial",
+      "tripping",
+      "anchorage",
+      "ladders",
+      "garden",
+      "hitting",
+      "cuttings",
+      "slipping",
+      "movable",
+      "ppe",
+      "contradiction",
+      "guards",
+      "equip"
+    ],
+    "prompt_length": 1659,
+    "category": "6821 mechanical engineering"
+  }
+}

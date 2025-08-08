@@ -1,0 +1,63 @@
+{
+  "concept_id": "2440",
+  "concept_data": {
+    "title": "police",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"police\" within EU legal and regulatory frameworks encompasses various institutional and operational aspects related to public safety and crime prevention. It includes the roles of officers and senior commanders in missions such as EUPOL and EUPM, which operate in regions like Albania and Macedonia. The Tampere and JHA frameworks guide police cooperation, ensuring that modalities for conducting exercises are understood and privileges are respected. The College of CEPOL contributes to training and capacity building, while discussions among member states, including contributions from figures like Frederiksen and Oisin, preclude misunderstandings regarding immunities and operational contingencies. Today, the EU continues to strengthen police collaboration through institutional forums and strategic initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:05:49.507450",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 299,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1240,
+      "selected_avg_freq": 529.86
+    },
+    "related_words": [
+      "sven",
+      "frederiksen",
+      "falcone",
+      "oisin",
+      "christian",
+      "cepol",
+      "proxima",
+      "bih",
+      "göteborg",
+      "weu",
+      "eupm",
+      "fyrom",
+      "college",
+      "precluding",
+      "eupol",
+      "albanian",
+      "commander",
+      "discussing",
+      "train",
+      "tampere",
+      "commissioner",
+      "officers",
+      "guiding",
+      "psc",
+      "contributors",
+      "senior",
+      "civilian",
+      "immunities",
+      "contingency",
+      "privileges"
+    ],
+    "prompt_length": 1643,
+    "category": "0431 politics and public safety"
+  }
+}

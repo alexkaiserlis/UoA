@@ -1,0 +1,63 @@
+{
+  "concept_id": "5809",
+  "concept_data": {
+    "title": "proof",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"proof\" refers to the evidence required to substantiate claims in judicial proceedings. Courts often seek to establish beliefs and inferences that support the positions of plaintiffs and respondents. The concept encompasses various forms of evidence, including prima facie cases, where initial proof is presumed unless contradicted. In disputes involving discrimination based on sex, race, or colour, the burden of proof may shift to the employer, particularly in cases of parental leave or remuneration. The EU recognizes the importance of proof in enforcing equality and facilitating mediation and conciliation processes, ensuring that all parties, including women and men, are afforded fair treatment.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:20:44.890780",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 305,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1200,
+      "selected_avg_freq": 544.0133333333333
+    },
+    "related_words": [
+      "beliefs",
+      "inference",
+      "breastfeeding",
+      "plaintiffs",
+      "respondent",
+      "confines",
+      "plaintiff",
+      "ceep",
+      "career",
+      "unice",
+      "race",
+      "pregnant",
+      "etuc",
+      "appreciation",
+      "sex",
+      "enforcing",
+      "parental",
+      "organizing",
+      "mediation",
+      "intensified",
+      "intergovernmental",
+      "birth",
+      "female",
+      "detriment",
+      "recognizes",
+      "men",
+      "proving",
+      "contemplated",
+      "deprived",
+      "facie"
+    ],
+    "prompt_length": 1653,
+    "category": "1221 justice"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3259",
+  "concept_data": {
+    "title": "financial contribution",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "Member States' contribution",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU finance, the term \"financial contribution\" is redirected to \"Member States' contribution,\" which encapsulates the unrounded financial obligations that each Member State must disburse to the EU budget. This contribution is crucial for mobilizing resources to address heightened challenges, such as economic crises or public health issues like pneumonia. Member States, including Hrvatska and Magyar, engage in this financial battle to ensure the operable functioning of EU initiatives. The contributions are often calculated based on national wealth, reflecting the principle of seigniorage. By tagging these contributions appropriately, the EU can avert prejudices against less affluent nations, ensuring a fair distribution of financial responsibilities among subscribers to the EU framework. The contributions are also essential for maintaining navigability in fiscal policies, allowing for an ascending flow of resources to support various programs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:40:34.459358",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 1307,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 120,
+      "selected_avg_freq": 50.07333333333333
+    },
+    "related_words": [
+      "unrounded",
+      "battle",
+      "seigniorage",
+      "hrvatska",
+      "narodna",
+      "pleuro",
+      "pneumonia",
+      "česká",
+      "národní",
+      "eesti",
+      "pank",
+      "magyar",
+      "nemzeti",
+      "narodowy",
+      "sveriges",
+      "riksbank",
+      "smolt",
+      "národná",
+      "naţională",
+      "româniei",
+      "navigability",
+      "lietuvos",
+      "bankas",
+      "prejudices",
+      "petten",
+      "twelfths",
+      "subscribers",
+      "danmarks",
+      "operable",
+      "slovenska"
+    ],
+    "prompt_length": 1713,
+    "category": "1021 EU finance"
+  }
+}

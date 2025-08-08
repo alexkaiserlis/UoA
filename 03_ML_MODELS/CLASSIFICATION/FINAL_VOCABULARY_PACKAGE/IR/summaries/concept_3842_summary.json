@@ -1,0 +1,63 @@
+{
+  "concept_id": "3842",
+  "concept_data": {
+    "title": "scientific material",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "scientific apparatus",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"scientific material,\" as classified under mechanical engineering, is redirected to the preferred term \"scientific apparatus.\" This encompasses a range of devices and instruments, such as electrobalance, homogenizer, and multiprobe systems, that are essential for conducting precise microanalyses in various fields, including electrophysiology and geotechnical research. The regulatory framework in the EU mandates that these scientific apparatuses meet stringent safety and performance standards, ensuring they are sensibly designed to handle complex tasks like endmilling and waveform analysis. Additionally, devices like the seismograph and phototransfer systems are critical for advanced research, contributing to the understanding of phenomena such as photoreception and ionosphere dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:53.167083",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 3331,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.7666666666666666
+    },
+    "related_words": [
+      "fraught",
+      "sensibly",
+      "endmilling",
+      "manifolds",
+      "conditioner",
+      "quantacon",
+      "positron",
+      "cahn",
+      "electrobalance",
+      "sartorius",
+      "cibal",
+      "brunel",
+      "churchfields",
+      "salisbury",
+      "wiltshire",
+      "mtb",
+      "setaram",
+      "stereo",
+      "electrophysiology",
+      "invertebrate",
+      "multiprobe",
+      "dyestuff",
+      "curves",
+      "oscillo",
+      "arl",
+      "quantometer",
+      "semq",
+      "microanalyses",
+      "ยบc",
+      "nikon"
+    ],
+    "prompt_length": 1726,
+    "category": "6821 mechanical engineering"
+  }
+}

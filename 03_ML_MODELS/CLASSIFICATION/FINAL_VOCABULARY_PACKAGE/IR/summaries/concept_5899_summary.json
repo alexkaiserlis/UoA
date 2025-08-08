@@ -1,0 +1,63 @@
+{
+  "concept_id": "5899",
+  "concept_data": {
+    "title": "medical care",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "health care",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"medical care,\" redirected to \"health care,\" encompasses a systematic approach to administering healthcare services within the EU framework. This includes the collection and analysis of metadata regarding health outcomes, facilitating the feasibility of effective healthcare policies. The European Free Trade Association (EFTA) and the OECD have highlighted the importance of conducting systematic assessments to ensure comparability across member states. Legal documents mandate the transposition of EU directives into national law, illustrating the correlation between constitutional freedoms and healthcare access. Presently, pilot projects are instituted to evaluate user experiences, while noise emissions from outdoor healthcare facilities are confined to regulated intervals, ensuring compliance with established standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:31.614730",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 393,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1221,
+      "selected_avg_freq": 628.9133333333333
+    },
+    "related_words": [
+      "lawn",
+      "trimmers",
+      "mandatorily",
+      "lawnmowers",
+      "collections",
+      "prescriptive",
+      "edge",
+      "metadata",
+      "outdoors",
+      "healthcare",
+      "outdoor",
+      "noise",
+      "illustrating",
+      "commence",
+      "constitutional",
+      "concepts",
+      "duplication",
+      "conducting",
+      "freedoms",
+      "presently",
+      "starts",
+      "discussed",
+      "efta",
+      "highlighted",
+      "manual",
+      "oecd",
+      "feasible",
+      "never",
+      "administering",
+      "correlation"
+    ],
+    "prompt_length": 1727,
+    "category": "2841 health"
+  }
+}

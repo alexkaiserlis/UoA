@@ -1,0 +1,63 @@
+{
+  "concept_id": "2015",
+  "concept_data": {
+    "title": "means of transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"means of transport\" within EU legal and regulatory frameworks encompasses various vehicles and methods intended for the movement of persons and goods across the territory of the Union. This term is crucial for addressing issues related to customs, importation, and the administrative handling of transport-related debts and fraud. Recent amendments to transport codes aim to correct errors and exclude misuses that may affect public safety. The legal definitions and versions of these means are intended to inform residents and combat incidents of misuse. Thus, understanding this concept is vital for ensuring compliance and avoiding legal pitfalls in the transport sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:19.453297",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 110,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 110,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2072.4795918367345
+    },
+    "related_words": [
+      "debts",
+      "misuse",
+      "incidents",
+      "resident",
+      "words",
+      "bulgarian",
+      "versions",
+      "correction",
+      "combating",
+      "language",
+      "fraud",
+      "error",
+      "correcting",
+      "exclude",
+      "tax",
+      "lack",
+      "temporarily",
+      "deleted",
+      "incurred",
+      "person",
+      "version",
+      "importation",
+      "inform",
+      "natural",
+      "recent",
+      "imported",
+      "temporary",
+      "affected",
+      "code",
+      "transport"
+    ],
+    "prompt_length": 1655,
+    "category": "4811 organisation of transport"
+  }
+}

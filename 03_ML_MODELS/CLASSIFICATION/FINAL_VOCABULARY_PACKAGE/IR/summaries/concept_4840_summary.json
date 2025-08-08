@@ -1,0 +1,63 @@
+{
+  "concept_id": "4840",
+  "concept_data": {
+    "title": "regions and communities of Belgium",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions and communities of Belgium\" pertains to the administrative divisions within Belgium, specifically Wallonia and Flanders, which are integral to EU legal frameworks. These regions, characterized by diverse geographical features such as hills and meadows, are governed by specific gremium that ensure the compatibility of local policies with EU commitments. The Walloon community, for instance, focuses on sectors like horticulturists and livestock, including bovines and pork production, while addressing health indices and serological readiness. Frameworks established under the ERDF and ESF support regional development, ensuring that inhabitants benefit from investments in infrastructure and agricultural practices, thus enhancing the overall economic landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:30.436240",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 405,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 864,
+      "selected_avg_freq": 399.1333333333333
+    },
+    "related_words": [
+      "gremium",
+      "infresh",
+      "hageland",
+      "horticulturists",
+      "walloon",
+      "compatability",
+      "comitments",
+      "wallonia",
+      "helath",
+      "frost",
+      "infertile",
+      "sentinel",
+      "meadow",
+      "kilometre",
+      "stamp",
+      "limburg",
+      "pork",
+      "stamping",
+      "earned",
+      "averages",
+      "altitude",
+      "pasture",
+      "square",
+      "arrived",
+      "inhabitants",
+      "bfrs",
+      "communes",
+      "hill",
+      "geographically",
+      "bovines"
+    ],
+    "prompt_length": 1685,
+    "category": "7211 regions of EU Member States"
+  }
+}

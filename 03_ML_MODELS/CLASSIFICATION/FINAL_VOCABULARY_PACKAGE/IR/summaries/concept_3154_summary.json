@@ -1,0 +1,63 @@
+{
+  "concept_id": "3154",
+  "concept_data": {
+    "title": "estuary",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An estuary is a vital natural environment where freshwater from inland waterways meets and mixes with saltwater from the sea, creating a unique composition that supports diverse ecosystems. In the context of EU legal and regulatory frameworks, estuaries are often mentioned in articles concerning environmental protection, transport infrastructure, and waterway management. The desirability of preserving these areas is expressed in various provisions that account for their ecological character and the traffic they support. Institutions are required to consider the impact of development on estuaries, ensuring that expenditure and infrastructure projects respect their ecological integrity, as determined by expert opinions and intergovernmental agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:52:28.663674",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1810.032258064516
+    },
+    "related_words": [
+      "afore",
+      "desirability",
+      "waterways",
+      "waterway",
+      "inland",
+      "charging",
+      "accounted",
+      "rail",
+      "institution",
+      "traffic",
+      "maritime",
+      "road",
+      "accounting",
+      "infrastructure",
+      "character",
+      "composition",
+      "accounts",
+      "opinions",
+      "experts",
+      "proportion",
+      "drawing",
+      "introducing",
+      "categories",
+      "expenditure",
+      "mentioned",
+      "transport",
+      "expressed",
+      "determining",
+      "drawn",
+      "applies"
+    ],
+    "prompt_length": 1650,
+    "category": "5211 natural environment"
+  }
+}

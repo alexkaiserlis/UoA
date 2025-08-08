@@ -1,0 +1,63 @@
+{
+  "concept_id": "5367",
+  "concept_data": {
+    "title": "certificate of origin",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"certificate of origin\" is a crucial document in international trade, particularly within the EU framework, serving to legalise the origin of commodities. It is often required by customs (aduanas) to ensure compliance with trade agreements (agreemnt) and to facilitate the smooth transitoinal flow of goods. This document can also be annotated to include specific details about the product's texture or composition, such as isomerized substances or unique items like kashkaval. In instances of disuse or doubt regarding a product's origin, the certificate provides essential clarity. Moreover, it is vital for the administration (administracion) of public revenues (ingresos publicos) and may involve consulate verification for non-EU countries, such as Nepalese or Cambodian products. The issuance process can be complex, often requiring technical (tecnico) guidance and adherence to pluriannual regulations. Thus, the certificate plays a pivotal role in ensuring legal compliance and facilitating trade across borders, including those with Morocco and other SAARC nations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:58:22.518313",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 153,
+    "vocabulary_stats": {
+      "total_related_words": 1900,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 74,
+      "selected_avg_freq": 30.30666666666667
+    },
+    "related_words": [
+      "disuse",
+      "isomerized",
+      "transitoinal",
+      "morrocco",
+      "commundity",
+      "chronologically",
+      "opended",
+      "calved",
+      "seventy",
+      "bourbon",
+      "doubting",
+      "cartilages",
+      "symphysis",
+      "pubis",
+      "apophyses",
+      "texture",
+      "pistola",
+      "embroidered",
+      "cone",
+      "agreemnt",
+      "cacm",
+      "instruccion",
+      "direccion",
+      "aduanas",
+      "nota",
+      "administracion",
+      "ingresos",
+      "publicos",
+      "subdireccion",
+      "aduanera"
+    ],
+    "prompt_length": 1681,
+    "category": "2021 international trade"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3411",
+  "concept_data": {
+    "title": "Territory of American Samoa",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": true,
+    "preferred_term": "American Samoa",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Territory of American Samoa,\" categorized under economic geography, refers to the region recognized as American Samoa, which is an unincorporated territory of the United States. This territory is relevant in EU legal and regulatory contexts, particularly concerning the movement of animals and species, as it is associated with other territories like Guam and the Mariana Islands. The EU applies specific health checks and lists for animal movements to mitigate risks, including rabies, which may affect commercial activities. The regulations ensure that any entry from American Samoa into the EU or EEA adheres to applicable health standards, thereby safeguarding public health and food safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:45:11.130076",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2049.7977528089887
+    },
+    "related_words": [
+      "guam",
+      "mariana",
+      "samoa",
+      "puerto",
+      "rico",
+      "virgin",
+      "rabies",
+      "pet",
+      "moved",
+      "spreading",
+      "american",
+      "movements",
+      "islands",
+      "northern",
+      "species",
+      "chain",
+      "animals",
+      "territories",
+      "associated",
+      "checks",
+      "lists",
+      "higher",
+      "animal",
+      "includes",
+      "movement",
+      "commercial",
+      "found",
+      "food",
+      "thereto",
+      "applies"
+    ],
+    "prompt_length": 1652,
+    "category": "7231 economic geography"
+  }
+}

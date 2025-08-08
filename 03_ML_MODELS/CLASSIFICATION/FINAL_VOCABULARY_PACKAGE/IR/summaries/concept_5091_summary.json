@@ -1,0 +1,63 @@
+{
+  "concept_id": "5091",
+  "concept_data": {
+    "title": "Calabria",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Calabria, a region of Italy, is significant within the EU framework, particularly in the context of regional development and agricultural regulations. Known for its booming agriculture, Calabria produces unique products like pecorino and liquirizia, while its coastal areas, such as Messina and Catania, support thriving apiaries and bumblebees, essential for pollination. The region faces challenges, including infestations by the aethina tumida beetle, which threatens local honey colonies. Regulatory frameworks, including circulars from the EU, aim to protect these vital ecosystems. Additionally, Calabria's strategic location facilitates maritime transport, with ferries connecting it to Sicily, enhancing its economic nucleus.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:08:24.190788",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 635,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 371,
+      "selected_avg_freq": 126.82
+    },
+    "related_words": [
+      "crotonese",
+      "invade",
+      "discovering",
+      "bumblebees",
+      "belvedere",
+      "marittimo",
+      "euroinvest",
+      "booming",
+      "locted",
+      "spezia",
+      "catamarans",
+      "torrone",
+      "bagnara",
+      "apiary",
+      "liquirizia",
+      "reffered",
+      "tugs",
+      "clemna",
+      "apiaries",
+      "cipolla",
+      "tropea",
+      "nucleus",
+      "nge",
+      "comb",
+      "hulled",
+      "parasite",
+      "aethina",
+      "tumida",
+      "saharan",
+      "bombus"
+    ],
+    "prompt_length": 1621,
+    "category": "7211 regions of EU Member States"
+  }
+}

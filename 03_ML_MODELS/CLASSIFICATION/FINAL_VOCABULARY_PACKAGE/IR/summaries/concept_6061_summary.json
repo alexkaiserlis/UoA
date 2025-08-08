@@ -1,0 +1,63 @@
+{
+  "concept_id": "6061",
+  "concept_data": {
+    "title": "structural reform",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "structural adjustment",
+    "relation_type": "USE"
+  },
+  "summary": "\"Structural reform,\" often redirected to \"structural adjustment,\" refers to comprehensive changes in economic policy aimed at addressing stagnation and fostering growth within the EU. These reforms target the underlying dynamics of economies, particularly in member states facing contraction or depressed economic conditions. The Council adopted measures that include recapitalisation of banks, such as Dexia and Fortis, to ensure financial stability. This involves injections of capital to recapitalise institutions and prevent deadlock in financial markets. The commitment to structural reforms is crucial for achieving the Medium-Term Objective (MTO) and addressing exogenous shocks. Projections indicate that without these reforms, wages may stagnate, impacting overall economic outturn. The EU's Economic and Financial Stability Mechanism (EFSM) and European Financial Stability Facility (EFSF) underpin these efforts, featuring a framework for monitoring progress over the semester.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:58:23.082637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 640,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 130.43333333333334
+    },
+    "related_words": [
+      "somes",
+      "recapitalise",
+      "dexia",
+      "impacted",
+      "counciladopted",
+      "stagnate",
+      "amnesty",
+      "fortis",
+      "targetting",
+      "committment",
+      "deadlock",
+      "expectancy",
+      "mto",
+      "outturn",
+      "efsm",
+      "exogenous",
+      "missed",
+      "injections",
+      "dividend",
+      "tightening",
+      "recapitalisation",
+      "ample",
+      "efsf",
+      "projection",
+      "telecom",
+      "hypothesis",
+      "grew",
+      "underpinning",
+      "park",
+      "ages"
+    ],
+    "prompt_length": 1712,
+    "category": "1606 economic policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5750",
+  "concept_data": {
+    "title": "Uruguay Round",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Uruguay Round\" refers to a pivotal multilateral trade negotiation under the General Agreement on Tariffs and Trade (GATT), which significantly impacted EU tariff policy in 2011. This round empowered member states to implement reductions in levies on various agricultural products, including rice, poultrymeat, and eggs. It introduced preferential treatment for exporters from developing countries, such as Bangladesh and Egypt, while addressing questions related to textile and agricultural components. The agreement extended reciprocal trade benefits and established a framework for suspending charges on specific goods, including albumin and ovalbumin. The Uruguay Round's outcomes continue to influence EU regulatory considerations and trade dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:12.855218",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 276,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1550,
+      "selected_avg_freq": 855.2933333333333
+    },
+    "related_words": [
+      "agricultual",
+      "basmati",
+      "albumin",
+      "lactalbumin",
+      "ovalbumin",
+      "husked",
+      "milled",
+      "bangladesh",
+      "oct",
+      "postponement",
+      "aromatic",
+      "commencing",
+      "arab",
+      "egypt",
+      "gain",
+      "egg",
+      "postpone",
+      "empowers",
+      "variable",
+      "poultrymeat",
+      "exporter",
+      "levies",
+      "extends",
+      "reciprocal",
+      "textile",
+      "horizontal",
+      "collecting",
+      "rice",
+      "eggs",
+      "gatt"
+    ],
+    "prompt_length": 1659,
+    "category": "2011 tariff policy"
+  }
+}

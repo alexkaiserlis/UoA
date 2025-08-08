@@ -1,0 +1,63 @@
+{
+  "concept_id": "2924",
+  "concept_data": {
+    "title": "scientific research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"scientific research\" within EU legal and regulatory frameworks encompasses a broad spectrum of scholarly activities aimed at advancing knowledge. It involves investigators conducting studies on various subjects, including bee_health_en and climatology, to produce benchmarked findings. The European Research Council (ERCEA) supports such endeavors through funding and honoraria for scholars. Research often includes the study of liveanimals, such as vertebrates and primates, and may address issues like the phenotypic effects of substances like menaquinone. The ambition of EU policies is to maximize the impact of research, ensuring that findings are accessible, uncomplicated, and relevant to societal needs, while also fostering innovation in sectors like biotechnology and environmental sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:34:01.069863",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1618,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 71,
+      "selected_avg_freq": 30.873333333333335
+    },
+    "related_words": [
+      "investigator",
+      "scholarship",
+      "scholarly",
+      "ercea",
+      "honorarium",
+      "benchmarked",
+      "liveanimals",
+      "bee_health_en",
+      "ornithodorus",
+      "erraticus",
+      "spf",
+      "speficically",
+      "influenzua",
+      "aricles",
+      "honoraria",
+      "esta",
+      "scfi",
+      "stcf",
+      "smbs",
+      "footloose",
+      "ecvam",
+      "maximised",
+      "honeybee",
+      "mckenzie",
+      "infusions",
+      "gaeib",
+      "antipolis",
+      "tick",
+      "vertebrate",
+      "primates"
+    ],
+    "prompt_length": 1710,
+    "category": "6416 research and intellectual property"
+  }
+}

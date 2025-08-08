@@ -1,0 +1,63 @@
+{
+  "concept_id": "2534",
+  "concept_data": {
+    "title": "underground pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "soil pollution",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"underground pollution,\" redirected to \"soil pollution,\" encompasses the deterioration of soil quality due to harmful pollutants, including pesticides and hazardous waste. In the EU regulatory framework, legislative measures authorise the prevention and treatment of contaminated sites, ensuring the decontamination of soil to protect public health and the environment. Ongoing programmes aim to limit the spread of pollutants and address obsolete agricultural practices. Derogations may apply under specific circumstances, allowing for temporary measures in managing waste disposal. The involvement of participating nations and organisations is crucial in justifying the introduction of protective measures for soil and organisms, ensuring sustainable agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:10.901649",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1812.0777777777778
+    },
+    "related_words": [
+      "incinerators",
+      "decontamination",
+      "unwanted",
+      "dedicated",
+      "pollutants",
+      "pesticides",
+      "fao",
+      "hazardous",
+      "persistent",
+      "contaminated",
+      "obsolete",
+      "justifying",
+      "organic",
+      "soil",
+      "authorises",
+      "organisms",
+      "harmful",
+      "waste",
+      "ongoing",
+      "spread",
+      "participating",
+      "protective",
+      "temporarily",
+      "plants",
+      "prevention",
+      "nations",
+      "plant",
+      "disposal",
+      "authorising",
+      "legislative"
+    ],
+    "prompt_length": 1763,
+    "category": "5216 deterioration of the environment"
+  }
+}

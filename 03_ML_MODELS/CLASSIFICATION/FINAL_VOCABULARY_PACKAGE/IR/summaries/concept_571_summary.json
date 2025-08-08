@@ -1,0 +1,63 @@
+{
+  "concept_id": "571",
+  "concept_data": {
+    "title": "national regulations",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": true,
+    "preferred_term": "national law",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"national regulations,\" redirecting to the preferred term \"national law,\" encompasses the legal frameworks established by individual EU member states. These laws govern various domains, including the regulation of substances like benzylpiperazine (bzp) and other psychoactive compounds such as methamphetamine and ecstasy. National law is crucial in addressing issues related to health, such as gastroenteritis and rhinotracheitis, while also regulating the use of fluorinated gases like hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs), which are implicated in global warming. Furthermore, national regulations may formalise the counselling processes for addiction treatment, ensuring that the potency and pharmacokinetic properties of substances are transparently assessed. This legal framework must reassess existing laws to suit evolving societal needs, particularly concerning the striking rise in substance abuse and the associated health implications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:22:38.506799",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 879,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 206,
+      "selected_avg_freq": 79.46666666666667
+    },
+    "related_words": [
+      "benzylpiperazine",
+      "bzp",
+      "methylococcus",
+      "capsulatus",
+      "alcaligenes",
+      "acidorovans",
+      "hfcs",
+      "pfcs",
+      "hexafluoride",
+      "hydrofluorocarbons",
+      "perfluorocarbons",
+      "gastroenteritis",
+      "brevis",
+      "ecstasy",
+      "polymorphisms",
+      "methamphetamine",
+      "seizures",
+      "pharmacokinetic",
+      "amphetamine",
+      "striking",
+      "advertise",
+      "counselling",
+      "bath",
+      "bgbl",
+      "stimulant",
+      "potentials",
+      "firmus",
+      "capsule",
+      "psychoactive",
+      "implicated"
+    ],
+    "prompt_length": 1789,
+    "category": "1206 sources and branches of the law"
+  }
+}

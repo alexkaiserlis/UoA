@@ -1,0 +1,63 @@
+{
+  "concept_id": "57",
+  "concept_data": {
+    "title": "tax inspector",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax authorities",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"tax inspector\" is informally redirected to \"tax authorities,\" which encompasses governmental bodies responsible for the assessment and collection of taxes. These authorities play a crucial role in advising individuals and businesses on tax matters, ensuring compliance with established codes. Their tasks include conducting audits, processing disclosures, and maintaining a balanced approach to taxation issues. Experts within these bodies assist in the continuous movement of information and provide representation in discussions regarding tax policies. The advisability of their actions is essential for fixing pricing structures and proposing desirable reforms within the EU taxation landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:20.049934",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 123,
+      "requested_words": 150,
+      "min_frequency_found": 27,
+      "max_frequency_found": 4108,
+      "selected_words": 123,
+      "selected_min_freq": 27,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1749.7723577235772
+    },
+    "related_words": [
+      "informally",
+      "advising",
+      "advisability",
+      "advise",
+      "assisting",
+      "governmental",
+      "pricing",
+      "forum",
+      "discussion",
+      "representation",
+      "expertise",
+      "disclosure",
+      "balanced",
+      "propose",
+      "useful",
+      "expert",
+      "composed",
+      "conduct",
+      "continuation",
+      "expires",
+      "issues",
+      "continuous",
+      "individuals",
+      "tax",
+      "personal",
+      "ecsc",
+      "positive",
+      "assist",
+      "experts",
+      "private"
+    ],
+    "prompt_length": 1684,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5967",
+  "concept_data": {
+    "title": "food chemistry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Food chemistry, a critical aspect of agri-foodstuffs regulation in the EU, encompasses the study of foodtuffs' characteristics and their interactions with various additives, such as acesulfame and xylitol. It involves techniques to analyze microorganisms, including prokaryotic and eukaryotic forms, which can influence food safety and quality. Regulatory frameworks address potential allergens, adjuvants, and carcinogenesis risks associated with substances like vancomycin and nitroimidazole. The control of coliforms and enterococci is essential for ensuring food safety. Additionally, the use of glycopeptides and polyols in food processing raises considerations regarding their health implications. Understanding these factors is vital for compliance with EU food safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:39.263125",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1451,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 52,
+      "selected_avg_freq": 20.946666666666665
+    },
+    "related_words": [
+      "foodtuffs",
+      "acesulfme",
+      "addive",
+      "xylitol",
+      "flair",
+      "diffcult",
+      "alchohol",
+      "carcateristics",
+      "charecteristics",
+      "obteined",
+      "glycopeptide",
+      "avoparcin",
+      "glycopeptides",
+      "ardacin",
+      "controllability",
+      "coliforms",
+      "isomaltulose",
+      "acidify",
+      "nitroaniline",
+      "guilliermondii",
+      "nitroimidazole",
+      "prokaryotic",
+      "eukaryotic",
+      "carciongenisis",
+      "inferences",
+      "suggestive",
+      "artefact",
+      "enterococci",
+      "vancomycin",
+      "sulphates"
+    ],
+    "prompt_length": 1762,
+    "category": "6031 agri-foodstuffs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6708",
+  "concept_data": {
+    "title": "accession negotiations",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Accession negotiations refer to the formal process through which a candidate country, such as Slovenia, seeks to join the European Union. This involves preaccession strategies that include sectorial reforms and the establishment of decentralized structures to ensure compliance with EU standards. The applicant must demonstrate satisfactory capacity to perform functions outlined in the multiannual financial framework, particularly in areas like agriculture, where projects may be funded through agencies like SAPARD. Throughout this process, the conferral of eligibility is contingent upon verifications and recommendations from appointed ministries. Ultimately, these negotiations aim to fix any issues and confer the necessary rights to the beneficiary state.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:33.194750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 157,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 3636,
+      "selected_avg_freq": 1677.0066666666667
+    },
+    "related_words": [
+      "preaccession",
+      "slovene",
+      "reimbursable",
+      "sectorial",
+      "sapard",
+      "decentralised",
+      "conferral",
+      "ante",
+      "waive",
+      "conferring",
+      "verifications",
+      "reimbursed",
+      "coordinating",
+      "confer",
+      "operates",
+      "ministry",
+      "satisfactorily",
+      "perform",
+      "partially",
+      "eastern",
+      "beneficiary",
+      "rural",
+      "functions",
+      "multiannual",
+      "finally",
+      "applicant",
+      "project",
+      "appointed",
+      "complies",
+      "eligibility"
+    ],
+    "prompt_length": 1724,
+    "category": "1016 European construction"
+  }
+}

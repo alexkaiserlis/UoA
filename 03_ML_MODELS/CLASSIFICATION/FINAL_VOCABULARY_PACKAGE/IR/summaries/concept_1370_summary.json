@@ -1,0 +1,63 @@
+{
+  "concept_id": "1370",
+  "concept_data": {
+    "title": "communications industry",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"communications industry\" encompasses a range of sectors within the EU that are crucial for enhancing connectivity and information dissemination. Regulatory bodies are appointed to oversee this industry, ensuring that evaluations of candidates for key positions are transparent and fair. Institutions are encouraged to implement arrangements that fulfil gender balance and geographical diversity among members. The process of appointing experts involves a panel that decides on the most competent individuals, ensuring that the results are independent and non-discriminatory. By adapting to evolving technological landscapes, the communications industry seeks to fulfil its obligations while promoting participation and practical solutions for all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:21:43.779928",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 38,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1726.844155844156
+    },
+    "related_words": [
+      "appoints",
+      "gender",
+      "heritage",
+      "easy",
+      "evaluations",
+      "candidates",
+      "deciding",
+      "competences",
+      "label",
+      "enhancing",
+      "appointment",
+      "institution",
+      "discriminatory",
+      "panel",
+      "procedural",
+      "complementary",
+      "submitting",
+      "transparent",
+      "encouraged",
+      "seek",
+      "duly",
+      "appointed",
+      "fair",
+      "experts",
+      "independent",
+      "practical",
+      "body",
+      "geographical",
+      "fulfil",
+      "participation"
+    ],
+    "prompt_length": 1678,
+    "category": "3226 communications"
+  }
+}

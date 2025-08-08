@@ -1,0 +1,63 @@
+{
+  "concept_id": "5254",
+  "concept_data": {
+    "title": "total authorised catches",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "authorised catch",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"total authorised catches,\" redirected to \"authorised catch,\" pertains to the quantitive limits established by EU regulations for fisheries management. These limits are crucial for preventing overexploitation of marine resources, such as codend species like octopus and champsocephalus gunnari. The European Union communicates these quotas through regulatory frameworks, necessitating accurate registration and crosschecking of catches to ensure compliance. This regulatory approach addresses the challenges of multispecies fisheries, where haul methods like trolling and gillnets may lead to unutilised catches. Consequently, the establishment of these limits aims to mitigate the dangers of overuse and maintain sustainable fishing practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:12:40.617942",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1741,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 18.046666666666667
+    },
+    "related_words": [
+      "quantitive",
+      "ăş1",
+      "communciated",
+      "registred",
+      "flay",
+      "relationg",
+      "bcd",
+      "consequentially",
+      "færoese",
+      "necassary",
+      "viiiabde",
+      "gdynia",
+      "dangerously",
+      "spitsbergen",
+      "poposal",
+      "estalishing",
+      "spitzbergen",
+      "viiiabd",
+      "kilowatts",
+      "jiggers",
+      "gillnets",
+      "champsocephalus",
+      "gunnari",
+      "octopus",
+      "quantitiative",
+      "codend",
+      "multispecies",
+      "haul",
+      "baitboats",
+      "trolling"
+    ],
+    "prompt_length": 1739,
+    "category": "5641 fisheries"
+  }
+}

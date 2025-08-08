@@ -1,0 +1,63 @@
+{
+  "concept_id": "329",
+  "concept_data": {
+    "title": "tropical crops",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "tropical agriculture",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tropical crops,\" redirected to \"tropical agriculture,\" pertains to agricultural activities focused on the cultivation of crops in tropical climates. Within EU legal and regulatory frameworks, this concept underlines the importance of promoting sustainable practices and technological advancements in agricultural methodologies. The EU recognizes the urgent need for balanced relationships between indigenous practices and industrialized farming, facilitating the expansion of networks and partnerships. By pursuing continuous dissemination of scientific knowledge and fostering complementarity among stakeholders, the EU aims to enhance capacities in tropical agriculture. This multiannual task is fundamental for addressing global challenges and creating promising opportunities in the agricultural sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:21:07.405192",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 3824,
+      "selected_avg_freq": 1495.2533333333333
+    },
+    "related_words": [
+      "industrialized",
+      "promising",
+      "subsection",
+      "crest",
+      "scientists",
+      "indigenous",
+      "complementarity",
+      "grave",
+      "intergovernmental",
+      "specificity",
+      "underlines",
+      "methodologies",
+      "relationships",
+      "oriented",
+      "outline",
+      "eighth",
+      "dimension",
+      "science",
+      "capacities",
+      "session",
+      "harmonious",
+      "dissemination",
+      "expansion",
+      "easier",
+      "aware",
+      "centres",
+      "networks",
+      "object",
+      "urgent",
+      "amongst"
+    ],
+    "prompt_length": 1770,
+    "category": "5631 agricultural activity"
+  }
+}

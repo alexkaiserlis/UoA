@@ -1,0 +1,63 @@
+{
+  "concept_id": "1177",
+  "concept_data": {
+    "title": "Alentejo",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Alentejo, a designated region within the EU Member States, is recognized for its unique geographical and cultural attributes, particularly in the context of foodstuffs such as cabrito and presunto. This region benefits from Protected Designation of Origin (PDO) and Protected Geographical Indication (PGI) status, which are critical for maintaining quality standards and opposing inferior products. Regulatory frameworks outline specifications and timetables for entering the register of protected products, ensuring that contributions to the budgetary schemes are appropriately managed. The European Commission regularly updates its examination of designations, allowing for objections and commitments to be raised as necessary, thereby supporting integrated rural development and sustainable practices in Alentejo.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:44:21.370591",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 131,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 131,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1743.3129770992366
+    },
+    "related_words": [
+      "cabrito",
+      "barrancos",
+      "paleta",
+      "presunto",
+      "alentejo",
+      "crete",
+      "imp",
+      "pdo",
+      "pgi",
+      "opposition",
+      "hellenic",
+      "timetable",
+      "designations",
+      "specification",
+      "schedule",
+      "objection",
+      "mediterranean",
+      "minor",
+      "designation",
+      "estimates",
+      "heading",
+      "contributions",
+      "indications",
+      "protected",
+      "greek",
+      "foodstuffs",
+      "entering",
+      "register",
+      "contract",
+      "update"
+    ],
+    "prompt_length": 1684,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2293",
+  "concept_data": {
+    "title": "Loire Region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Loire Region,\" categorized under 7211 regions of EU Member States, is significant in EU legal and regulatory frameworks. It encompasses areas known for their unique agricultural products, such as the renowned brioche and jambon, which may qualify for PDO and PGI designations. The region's economic development is supported by EU funds, including the ERDF and ESF, which aim to enhance additionality and readiness for sustainable growth. Statutory frameworks govern the allocation of appropriations and loans, ensuring that projects align with EU perspectives. The Loire Region's programming foresees a breakdown of objectives, satisfying both local intent and broader EU regulations, while fostering opposition to declining sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:35:40.777314",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 343,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1188,
+      "selected_avg_freq": 688.0333333333333
+    },
+    "related_words": [
+      "brioche",
+      "vendéenne",
+      "peras",
+      "rincón",
+      "vendée",
+      "jambon",
+      "charolles",
+      "bœuf",
+      "soto",
+      "loire",
+      "additionality",
+      "pays",
+      "pdo",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "pgi",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "ruled",
+      "supplements",
+      "eib",
+      "declining",
+      "opposition",
+      "adopts"
+    ],
+    "prompt_length": 1652,
+    "category": "7211 regions of EU Member States"
+  }
+}

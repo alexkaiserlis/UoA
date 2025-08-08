@@ -1,0 +1,26 @@
+{
+  "concept_id": "7354",
+  "concept_data": {
+    "title": "renal disease",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "kidney disease",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"renal disease,\" categorized under health in EU legal and regulatory frameworks, is primarily redirected to the preferred term \"kidney disease.\" This terminology is crucial for harmonizing health-related regulations across member states, particularly in the context of public health initiatives and medical research funding. The EU's approach to kidney disease encompasses various aspects, including prevention, treatment protocols, and patient care standards. Regulatory documents often address the epidemiology of kidney disease, emphasizing the need for comprehensive health policies that align with EU health directives. Understanding this concept is essential for effective legislative measures aimed at improving renal health outcomes across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:08.128369",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1193,
+    "category": "2841 health"
+  }
+}

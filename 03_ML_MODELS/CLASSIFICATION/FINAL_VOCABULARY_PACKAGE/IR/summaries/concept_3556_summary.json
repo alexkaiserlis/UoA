@@ -1,0 +1,63 @@
+{
+  "concept_id": "3556",
+  "concept_data": {
+    "title": "fringe benefit",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"fringe benefit\" refers to additional compensation provided to employees, often undervalued in terms of its impact on staff remuneration. These benefits, which can include vehicles or other supplies, are typically taxable and can influence a company's revenues and turnover. In the EU regulatory context, the harmonisation of tax treatment for fringe benefits is pursued to tackle issues of avoidance and circumvention. Such benefits may be partially exempt from taxes, depending on specific conditions. The adverse effects of improper valuation can lead to significant discrepancies in employment costs, necessitating a careful assessment of their nominal value and the implications for both employees and employers.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:28:15.434792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 131,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 131,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1486.7786259541986
+    },
+    "related_words": [
+      "undervalued",
+      "undervaluation",
+      "presumptions",
+      "manifest",
+      "ties",
+      "employee",
+      "tackle",
+      "cars",
+      "influenced",
+      "revenues",
+      "taxable",
+      "avoidance",
+      "artificially",
+      "circumvention",
+      "nominal",
+      "accruing",
+      "motor",
+      "vat",
+      "totally",
+      "employees",
+      "vehicle",
+      "secretariat",
+      "proportionate",
+      "levied",
+      "recipient",
+      "turnover",
+      "taxes",
+      "smaller",
+      "connected",
+      "partially"
+    ],
+    "prompt_length": 1708,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3169",
+  "concept_data": {
+    "title": "smuggling",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "illicit trade",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"smuggling,\" redirected to \"illicit trade,\" encompasses activities that undermine legal frameworks and international agreements, accentuating the need for stringent restrictions. Within EU legal and regulatory documents, illicit trade is often linked to the trafficking of firearms, ammunition, and precursors, which are frequently stockpiled irresponsibly. The EU enunciates its commitment to combating such activities through multilateralism, engaging with entities like the OSCE and SIPRI. By convening biennial meetings, the EU addresses the perception that neglected issues, such as those involving brokers and promoters of illicit trade, can destabilize regions like Ethiopia and Nigeria. The focus on disarmament and the responsible management of stockpiles is crucial in advancing global security initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:34:20.067922",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1037,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 162,
+      "selected_avg_freq": 76.30666666666667
+    },
+    "related_words": [
+      "celad",
+      "restricitions",
+      "accentuate",
+      "denials",
+      "enunciates",
+      "unidir",
+      "codun",
+      "sitcen",
+      "sipri",
+      "biennial",
+      "bangladeshi",
+      "fctc",
+      "devising",
+      "neglected",
+      "cit",
+      "formality",
+      "underlining",
+      "cayman",
+      "gge",
+      "wassenaar",
+      "convening",
+      "promoters",
+      "multilateralism",
+      "relocated",
+      "salw",
+      "eulex",
+      "firearms",
+      "topic",
+      "osce",
+      "stockpile"
+    ],
+    "prompt_length": 1700,
+    "category": "2006 trade policy"
+  }
+}

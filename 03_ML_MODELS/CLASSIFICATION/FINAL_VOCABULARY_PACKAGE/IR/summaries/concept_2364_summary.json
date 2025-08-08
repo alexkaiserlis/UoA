@@ -1,0 +1,63 @@
+{
+  "concept_id": "2364",
+  "concept_data": {
+    "title": "petrochemicals",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Petrochemicals, a pivotal segment of the oil industry, encompass a range of products derived from petroleum, including polyurethanes, polystyrene, and elastomers. The EU regulatory framework emphasizes the need for sustainable practices in petrochemical production, compelling companies to adopt innovative schemes that address environmental concerns. Research into unsaturated hydrocarbons, such as propene and butadienes, is crucial for developing advanced materials like epoxy resins and expansible sheeting. In situations of market instability, the EU may divert resources to support the sector, ensuring competitiveness. The integration of these products into various applications, including automotive and packaging, highlights their significance in the modern economy.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:20.053881",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 922,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 184,
+      "selected_avg_freq": 81.4
+    },
+    "related_words": [
+      "emphasizing",
+      "shemes",
+      "pernis",
+      "outworn",
+      "ottignies",
+      "polyurethanes",
+      "polybuthylene",
+      "expansible",
+      "productsd",
+      "aticle",
+      "emnploying",
+      "pesons",
+      "propene",
+      "carburation",
+      "butenes",
+      "butadienes",
+      "methylbutadienes",
+      "ocmmon",
+      "situaitons",
+      "micrometers",
+      "xingxia",
+      "reasearch",
+      "sheeting",
+      "petro",
+      "louvain",
+      "neuve",
+      "staatsblad",
+      "epoxy",
+      "investeringsrekening",
+      "wir"
+    ],
+    "prompt_length": 1684,
+    "category": "6616 oil industry"
+  }
+}

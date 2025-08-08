@@ -1,0 +1,26 @@
+{
+  "concept_id": "6566",
+  "concept_data": {
+    "title": "medical error",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"medical error\" pertains to instances where healthcare professionals fail to provide the expected standard of care, resulting in harm to patients. In the context of EU legal and regulatory frameworks, medical errors are critical for establishing liability and ensuring patient safety. The EU has implemented various directives and regulations aimed at improving healthcare quality and minimizing risks associated with medical errors. These include guidelines for reporting and analyzing adverse events, which are essential for enhancing medical practices and fostering accountability within healthcare systems. Addressing medical errors is vital for upholding the integrity of health services across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:15.191052",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1159,
+    "category": "2841 health"
+  }
+}

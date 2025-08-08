@@ -1,0 +1,63 @@
+{
+  "concept_id": "6188",
+  "concept_data": {
+    "title": "document management technique",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "document management",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"document management technique,\" redirected to \"document management,\" encompasses systematic approaches for handling EU legal and regulatory documents. This technique aims to ensure that expenditures related to various sectors, such as fisheries, aquaculture, and energy, are meticulously documented and assessed. It facilitates the collection and transmission of information, detailing eligibility criteria for funding and compliance with regulations. For instance, documents concerning coal and steel industries in member states like Poland, Estonia, and Malta must be forwarded and examined to fix any discrepancies. Effective document management supports the completion of projects, ensuring that activities in countries like Slovenia, Latvia, and Cyprus are conducted within the foreseen frameworks of EURATOM and ECSC regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:21.093548",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 131,
+      "requested_words": 150,
+      "min_frequency_found": 77,
+      "max_frequency_found": 4108,
+      "selected_words": 131,
+      "selected_min_freq": 77,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1859.9083969465648
+    },
+    "related_words": [
+      "detailing",
+      "expenditures",
+      "instalment",
+      "coal",
+      "aquaculture",
+      "sea",
+      "conduct",
+      "steel",
+      "fisheries",
+      "acceptance",
+      "follow",
+      "atomic",
+      "estonia",
+      "forwarded",
+      "eligibility",
+      "malta",
+      "slovenia",
+      "latvia",
+      "ecsc",
+      "incurred",
+      "lithuania",
+      "foreseen",
+      "cyprus",
+      "whereby",
+      "receive",
+      "poland",
+      "fix",
+      "drawing",
+      "collection",
+      "assessed"
+    ],
+    "prompt_length": 1702,
+    "category": "3221 documentation"
+  }
+}

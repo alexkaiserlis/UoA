@@ -1,0 +1,63 @@
+{
+  "concept_id": "6363",
+  "concept_data": {
+    "title": "non-lethal weapon",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"non-lethal weapon\" pertains to munitions designed to incapacitate rather than kill, applicable in military operations and humanitarian contexts. In EU legal and regulatory frameworks, the deployment of such equipment is often governed by restrictive measures, including embargoes, particularly in conflict regions like Sudan and Darfur. The Common Foreign and Security Policy (CFSP) may impose bans or exemptions on the use of non-lethal weapons in specific crises. Recent developments in arms management highlight the need for effective provision and technical assistance to ensure compliance with international agreements. This concept becomes increasingly relevant as the EU navigates complex security challenges and humanitarian obligations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:12:16.462710",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1964.5454545454545
+    },
+    "related_words": [
+      "munitions",
+      "ceasefire",
+      "darfur",
+      "embargo",
+      "sudan",
+      "deployment",
+      "arms",
+      "humanitarian",
+      "conflict",
+      "military",
+      "signature",
+      "becomes",
+      "imposition",
+      "ban",
+      "cfsp",
+      "african",
+      "restrictive",
+      "crisis",
+      "planned",
+      "immediately",
+      "exemption",
+      "led",
+      "equipment",
+      "recent",
+      "soon",
+      "region",
+      "developments",
+      "enter",
+      "assistance",
+      "applies"
+    ],
+    "prompt_length": 1653,
+    "category": "0821 defence"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6013",
+  "concept_data": {
+    "title": "rendering of accounts",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": true,
+    "preferred_term": "closing of accounts",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rendering of accounts,\" also known as the \"closing of accounts,\" is pivotal in EU accounting regulations. It involves the meticulous procesing of financial data to ensure accurate bookings and remeasurement of expenditures. This discipline is essential for compliance with EU directives, as it facilitates the promptness of financial reporting and the conciliation of accounts. In the context of regional regulations, such as those in Andalucía, the closing of accounts must adhere to specific regelingen to avoid disjoined financial statements. The MRRA and other frameworks emphasize the importance of thorough documentation and retrieval of financial records, ensuring that all transactions, including cancellations and repurchase agreements, are accurately reflected. This process is crucial for maintaining the integrity of financial reporting and fostering trust in the management of public funds.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:43.629912",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 1256,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 83,
+      "selected_avg_freq": 28.893333333333334
+    },
+    "related_words": [
+      "gedidagep",
+      "disicpline",
+      "expendutre",
+      "follwoing",
+      "extenuating",
+      "completences",
+      "conciliate",
+      "nma",
+      "arda",
+      "promptness",
+      "dienst",
+      "regelingen",
+      "pardf",
+      "ama",
+      "pria",
+      "lfrs",
+      "procesing",
+      "commssion",
+      "mrra",
+      "odarc",
+      "alp",
+      "birb",
+      "stmelf",
+      "cnasea",
+      "oniol",
+      "hpa",
+      "ccw",
+      "seerad",
+      "disjoined",
+      "région"
+    ],
+    "prompt_length": 1647,
+    "category": "4026 accounting"
+  }
+}

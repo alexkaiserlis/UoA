@@ -1,0 +1,63 @@
+{
+  "concept_id": "2143",
+  "concept_data": {
+    "title": "World Intellectual Property Organization",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "World Intellectual Property Organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The \"World Intellectual Property Organization\" (WIPO), a specialized agency of the United Nations, plays a pivotal role in the international legal framework governing intellectual property rights. Convened in Geneva, WIPO facilitates the registration and protection of trademarks, copyrights, and designs through various treaties, including the WCT and WPPT. It supports member states in negotiating agreements and aligning national laws with international standards, thereby enhancing the registrability of intellectual assets. WIPO also oversees the deposit of phonograms and audiovisual performances, ensuring remuneration for creators. By fostering networks among countries, WIPO aids in the ratification of treaties and the conferral of rights, ultimately suppressing infringement and invalidation of intellectual property.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:24:46.901841",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 268,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1545,
+      "selected_avg_freq": 711.5266666666666
+    },
+    "related_words": [
+      "reconvened",
+      "wct",
+      "wppt",
+      "registrability",
+      "cheques",
+      "wipo",
+      "invalidation",
+      "phonograms",
+      "performers",
+      "suppressing",
+      "trademarks",
+      "copyright",
+      "registrations",
+      "beijing",
+      "conferral",
+      "convened",
+      "audiovisual",
+      "performances",
+      "hague",
+      "designs",
+      "bureau",
+      "diplomatic",
+      "boards",
+      "geneva",
+      "director",
+      "revenues",
+      "derive",
+      "fee",
+      "intellectual",
+      "marks"
+    ],
+    "prompt_length": 1774,
+    "category": "7606 United Nations"
+  }
+}

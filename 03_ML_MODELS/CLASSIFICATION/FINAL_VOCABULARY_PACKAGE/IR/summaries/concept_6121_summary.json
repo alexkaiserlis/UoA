@@ -1,0 +1,63 @@
+{
+  "concept_id": "6121",
+  "concept_data": {
+    "title": "zoological garden",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "zoo",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"zoological garden,\" commonly referred to as \"zoo,\" pertains to facilities that exhibit captive animals for conservation, education, and research purposes. In the EU regulatory framework, zoos must adhere to strict biosecurity measures to prevent epizooties and ensure the welfare of both animals and visitors. Regulations emphasize the importance of traceable identifiers, such as eartags and tattoos, for monitoring animal health and lineage. Additionally, zoos play a vital role in conserving rare species and preventing extinction through breeding programs and husbandry practices. Compliance with these standards is crucial for maintaining the irreplaceable heritage of biodiversity in Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:36:10.484986",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 487,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 525,
+      "selected_avg_freq": 209.55333333333334
+    },
+    "related_words": [
+      "pastern",
+      "tattoo",
+      "westphalen",
+      "zoological",
+      "emptying",
+      "eartag",
+      "gardens",
+      "exhibiting",
+      "ural",
+      "extinction",
+      "irreplaceable",
+      "emptive",
+      "circumstantial",
+      "preventative",
+      "zoos",
+      "mountains",
+      "confinement",
+      "zoo",
+      "traceable",
+      "exhibition",
+      "limburg",
+      "precautions",
+      "culling",
+      "rare",
+      "epizooties",
+      "look",
+      "resorting",
+      "suspect",
+      "jeopardising",
+      "biosecurity"
+    ],
+    "prompt_length": 1715,
+    "category": "2826 social affairs"
+  }
+}

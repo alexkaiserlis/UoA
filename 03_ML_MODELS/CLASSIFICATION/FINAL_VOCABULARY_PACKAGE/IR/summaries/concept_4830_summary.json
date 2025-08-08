@@ -1,0 +1,63 @@
+{
+  "concept_id": "4830",
+  "concept_data": {
+    "title": "tanker",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"tanker\" refers to vessels specifically designed for the transportation of liquid cargoes, including oil, chemicals, and other bulk liquids. The implementation of MARPOL regulations governs the operation of tankers, ensuring compliance with environmental standards to prevent slicks and pollution. These vessels are equipped with calibrated gauges and alcoholometers for safe loading and unloading, while their ballast systems are designed to maintain hydrostatically balanced conditions. The EU also addresses the scrapping of older tankers, promoting defensible practices in shipyards like those in Sestao and Cadiz. Pilotage and the management of segregated ballast are crucial for safe navigation in ports, where coasters and larger liners operate together. The regulation of these vessels is vital for maintaining safety and environmental integrity in maritime transport.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:20.586194",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 1018,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 183,
+      "selected_avg_freq": 74.60666666666667
+    },
+    "related_words": [
+      "vessles",
+      "izar",
+      "sepi",
+      "wondered",
+      "coasters",
+      "hving",
+      "implementaion",
+      "caculated",
+      "defensible",
+      "sestao",
+      "textilwerke",
+      "slick",
+      "warships",
+      "stranding",
+      "wingtanks",
+      "bottoms",
+      "hydrostatically",
+      "contradicted",
+      "togehter",
+      "alcoholometers",
+      "hydrometers",
+      "pilotage",
+      "bunkers",
+      "deggendorf",
+      "reluctant",
+      "haven",
+      "calibrated",
+      "cadiz",
+      "segregated",
+      "ballast"
+    ],
+    "prompt_length": 1669,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

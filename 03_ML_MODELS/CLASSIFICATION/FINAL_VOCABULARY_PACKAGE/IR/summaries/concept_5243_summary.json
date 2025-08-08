@@ -1,0 +1,63 @@
+{
+  "concept_id": "5243",
+  "concept_data": {
+    "title": "railway industry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"railway industry\" encompasses a complex network of multinational manufacturers, including leaders like Bombardier and Siemens, that drive innovations in propulsion and traction technologies. Within the EU regulatory framework, this sector is structured to ensure competitive concentrations, often scrutinizing mergers such as those involving DaimlerChrysler and Adtranz. The European Railway Agency (ERA) endorses thematic initiatives to enhance safety and efficiency in rolling stock, including trams and trains. Regulatory bodies secure compliance with standards while integrating electrical systems and managing workload across subsidiaries. The industry’s survival hinges on adapting to market demands and technological advancements, ensuring a robust platform for future growth.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:25.574133",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1632,
+      "selected_avg_freq": 662.1533333333333
+    },
+    "related_words": [
+      "bombardier",
+      "adtranz",
+      "daimlerchrysler",
+      "ebg",
+      "etr",
+      "severing",
+      "trams",
+      "tram",
+      "cityrunner",
+      "errac",
+      "traction",
+      "elin",
+      "severed",
+      "comp",
+      "linz",
+      "siemens",
+      "vertically",
+      "endorsing",
+      "propulsion",
+      "trains",
+      "tech",
+      "innovations",
+      "thematic",
+      "leader",
+      "manufactures",
+      "survive",
+      "drive",
+      "master",
+      "multinational",
+      "merger"
+    ],
+    "prompt_length": 1653,
+    "category": "6821 mechanical engineering"
+  }
+}

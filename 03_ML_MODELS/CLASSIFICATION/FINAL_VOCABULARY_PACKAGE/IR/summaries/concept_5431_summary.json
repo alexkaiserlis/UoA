@@ -1,0 +1,63 @@
+{
+  "concept_id": "5431",
+  "concept_data": {
+    "title": "allergy",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"allergy\" refers to hypersensitivity reactions that can manifest as intolerances, dermatitis, or other cutaneous responses to various substances, including allergens and sensitising agents. Regulatory bodies, such as the SCCS and SCCP, assess the safety and potential mutagenicity of allergens like phenylenediamine and hydroquinone found in dyes and cosmetics. The presence of phytosterols and carotenoids in food products may also trigger allergic reactions in sensitised individuals. Legal requirements mandate clear warnings for products containing known sensitisers, ensuring consumer safety against oxidative stress and allergic responses.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:54:28.899041",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 93,
+    "vocabulary_stats": {
+      "total_related_words": 403,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 594,
+      "selected_avg_freq": 185.79333333333332
+    },
+    "related_words": [
+      "intolerances",
+      "khorasan",
+      "deg",
+      "phytonadione",
+      "monobutyl",
+      "degbe",
+      "egbe",
+      "ppd",
+      "ptd",
+      "sensitisers",
+      "menaquinone",
+      "natto",
+      "nattopharma",
+      "phenylenediamine",
+      "kamut",
+      "sensitised",
+      "dermatitis",
+      "carotenoid",
+      "nail",
+      "carotenoids",
+      "diamine",
+      "sensitising",
+      "hydroquinone",
+      "cutaneous",
+      "diethylene",
+      "allergy",
+      "sensitisation",
+      "phytosterol",
+      "sccp",
+      "bladder"
+    ],
+    "prompt_length": 1667,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "8429",
+  "concept_data": {
+    "title": "Eurogroup (euro area)",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Eurogroup, a pivotal body within the euro area, comprises finance ministers from Eurozone member states committed to fostering soundness in monetary relations. It serves as a platform for addressing macroeconomic tensions and ensuring the fulfillment of the Economic and Monetary Union (EMU) objectives. At critical junctures, the Eurogroup discusses strategies for managing fluctuations in GDP and devising credible guidelines for fiscal policies. It plays a key role in the issuance of marketable bonds and the management of collateral within the Eurosystem. The Eurogroup's decisions, often benchmarked against indices, influence the broader economic landscape, ensuring that member states remain aligned with the statutes governing the euro area.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:00:50.804410",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 540,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 652,
+      "selected_avg_freq": 306.76
+    },
+    "related_words": [
+      "outliers",
+      "commited",
+      "litas",
+      "lats",
+      "soundness",
+      "performers",
+      "efsm",
+      "erm",
+      "devalued",
+      "fulfillment",
+      "efsf",
+      "tensions",
+      "juncture",
+      "hicps",
+      "guarantor",
+      "deviate",
+      "emu",
+      "meaningful",
+      "issuer",
+      "percent",
+      "abrogation",
+      "cent",
+      "arithmetic",
+      "coins",
+      "benchmark",
+      "banknotes",
+      "collateral",
+      "edinburgh",
+      "debtor",
+      "eurosystem"
+    ],
+    "prompt_length": 1658,
+    "category": "2406 monetary relations"
+  }
+}

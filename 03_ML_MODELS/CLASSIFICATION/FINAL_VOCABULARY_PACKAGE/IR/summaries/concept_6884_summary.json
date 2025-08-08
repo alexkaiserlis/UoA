@@ -1,0 +1,63 @@
+{
+  "concept_id": "6884",
+  "concept_data": {
+    "title": "protocol",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"protocol\" serves as a formal agreement that addresses specific issues, often ratifying commitments among member states. Protocols can integrate provisions related to environmental concerns, such as controlling pollutants like polychlorinated biphenyls (PCBs) and managing transboundary discharges. They may also encompass tourism regulations, such as those governing the Schengen area, which facilitate the movement of tourists while ensuring member states' sovereign rights. By ratifying protocols, states commit to addressing shortcomings in existing legislation, thus stabilising legal frameworks and prompting necessary reforms. The approval process often involves a tribunal that reproduces judgments and addresses underlying issues, ensuring compliance with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:22:37.854349",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 302,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1215,
+      "selected_avg_freq": 578.5733333333334
+    },
+    "related_words": [
+      "ads",
+      "pct",
+      "terphenyls",
+      "ratifying",
+      "reproduces",
+      "thirteen",
+      "aarhus",
+      "spills",
+      "pcb",
+      "polychlorinated",
+      "biphenyls",
+      "tankers",
+      "tribunal",
+      "discharges",
+      "tourist",
+      "sovereign",
+      "ratify",
+      "reservation",
+      "atmospheric",
+      "prospect",
+      "transboundary",
+      "nice",
+      "tourism",
+      "visa",
+      "pollutants",
+      "approves",
+      "stabilise",
+      "suffer",
+      "integrating",
+      "judgments"
+    ],
+    "prompt_length": 1677,
+    "category": "0406 political framework"
+  }
+}

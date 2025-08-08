@@ -1,0 +1,63 @@
+{
+  "concept_id": "1372",
+  "concept_data": {
+    "title": "fishing industry",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"fishing industry,\" categorized under fisheries, faces numerous difficulties, including overuse and competition for resources. In the EU, regulatory frameworks aim to modernize practices, addressing issues such as the entangling of elasmobranch species and the sustainable management of underfished stocks like micromesistius and merluccius. Policies are being reorientated to support small-scale fishers and promote biodiversity, particularly in areas like the Clyde and Luanda. The introduction of measures such as minimum conservation reference sizes (MCRS) and the management of larvae and elvers is crucial. The industry must adapt to challenges like crowding and the reluctance to embrace innovative approaches, ensuring a sustainable future for species such as aristeus and parapenaeus.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:18:59.663800",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2107,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 20.826666666666668
+    },
+    "related_words": [
+      "difficultires",
+      "parapenaeus",
+      "longirostris",
+      "aristeus",
+      "antennatus",
+      "aristaeomorpha",
+      "foliacea",
+      "comptetition",
+      "policiy",
+      "reorientating",
+      "difficulies",
+      "elvers",
+      "underfished",
+      "firth",
+      "consorzi",
+      "fidi",
+      "statlant",
+      "armatori",
+      "smallscale",
+      "scfi",
+      "stcf",
+      "undoubted",
+      "crowding",
+      "dying",
+      "micromesistius",
+      "poutassou",
+      "midwater",
+      "ptm",
+      "encrasicolus",
+      "boxing"
+    ],
+    "prompt_length": 1687,
+    "category": "5641 fisheries"
+  }
+}

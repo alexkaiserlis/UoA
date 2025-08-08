@@ -1,0 +1,63 @@
+{
+  "concept_id": "5683",
+  "concept_data": {
+    "title": "thunderstorm",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "bad weather",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"thunderstorm,\" categorized under the deterioration of the environment, redirects to the preferred term \"bad weather.\" In EU legal and regulatory frameworks, such phenomena are recognized for their unpredictable nature, often leading to disasters that can greatly impact agriculture, such as the loss of perishable crops like bananas and nectarines. Seasonal storms can strike regions like Dominica and Guadeloupe, compounding challenges for affected communities. The announcement of a disaster can mobilise resources for victims, while the liquidity issues faced by schools and plantations may necessitate reallocation of funds. Ultimately, the EU aims to stabilise conditions and mitigate damages from such harsh weather events.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:21:43.307085",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 447,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 758,
+      "selected_avg_freq": 333.1933333333333
+    },
+    "related_words": [
+      "marilyn",
+      "nectarine",
+      "luis",
+      "dominica",
+      "harsh",
+      "seasonally",
+      "rainfalls",
+      "iris",
+      "lucia",
+      "unpredictable",
+      "storms",
+      "vincent",
+      "storm",
+      "peach",
+      "slowdown",
+      "mobilising",
+      "turning",
+      "impossibility",
+      "announcement",
+      "confronted",
+      "compounded",
+      "flooding",
+      "perishable",
+      "aggravate",
+      "nectarines",
+      "damages",
+      "schools",
+      "struck",
+      "plantations",
+      "charitable"
+    ],
+    "prompt_length": 1719,
+    "category": "5216 deterioration of the environment"
+  }
+}

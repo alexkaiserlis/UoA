@@ -1,0 +1,63 @@
+{
+  "concept_id": "4781",
+  "concept_data": {
+    "title": "Zeeland",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Zeeland, a region in the Netherlands, plays a significant role in EU legal and regulatory frameworks, particularly concerning structural adjustments and labour market reintegration. The European Globalisation Adjustment Fund (EGF) supports workers in Zeeland facing redundancies due to globalisation, allowing for the mobilisation of resources to assist affected enterprises. This fund proposes contributions to firms that comply with budgetary ceilings, enabling them to adapt to changing economic patterns. The interinstitutional cooperation aims to broaden the scope of services available to workers, ensuring sound reintegration strategies. With an annual budget of millions, Zeeland exemplifies the EU's commitment to addressing crises through targeted support mechanisms.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:27:28.916683",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1720.4175824175825
+    },
+    "related_words": [
+      "zalco",
+      "zeeland",
+      "ecl",
+      "egf",
+      "redundancies",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "aluminium",
+      "mobilise",
+      "mobilisation",
+      "redundant",
+      "enterprise",
+      "proposes",
+      "supplier",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "labour",
+      "firms",
+      "contributions",
+      "workers",
+      "crisis",
+      "complies",
+      "company",
+      "ceiling",
+      "assist",
+      "start",
+      "global"
+    ],
+    "prompt_length": 1683,
+    "category": "7211 regions of EU Member States"
+  }
+}

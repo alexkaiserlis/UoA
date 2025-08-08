@@ -1,0 +1,63 @@
+{
+  "concept_id": "2040",
+  "concept_data": {
+    "title": "inland waterway shipping",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Inland waterway shipping constitutes a vital component of the EU's transport network, facilitating the movement of goods via navigable waterways. This mode of transport is regulated under various EU directives, which aim to enhance navigability and safety standards for vessels, including barges and push boats. The regulations enshrine principles of fairway management, ensuring that riparian states collaborate effectively. Moreover, the use of technologies such as radiotelephone and transponders is mandated to bolster communication among skippers. The CCNR oversees compliance, while initiatives to prefinance infrastructure improvements address the challenges of unexploded ordnance and debris, ultimately enhancing the efficiency of inland shipping operations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:09.196983",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1233,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 129,
+      "selected_avg_freq": 50.586666666666666
+    },
+    "related_words": [
+      "ccr",
+      "vessles",
+      "reciprocation",
+      "consitute",
+      "redirecting",
+      "bolstering",
+      "afflicted",
+      "boatmen",
+      "classing",
+      "enshrining",
+      "ecshould",
+      "radiotelephone",
+      "atis",
+      "interland",
+      "rejestr",
+      "statków",
+      "scapping",
+      "movereover",
+      "barges",
+      "fairway",
+      "ordnance",
+      "preented",
+      "rina",
+      "undoing",
+      "enis",
+      "transponders",
+      "contrasts",
+      "navigable",
+      "riparian",
+      "navigability"
+    ],
+    "prompt_length": 1691,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

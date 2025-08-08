@@ -1,0 +1,63 @@
+{
+  "concept_id": "5248",
+  "concept_data": {
+    "title": "European Conference of Postal and Telecommunications Administrations",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "CEPT",
+    "relation_type": "USE"
+  },
+  "summary": "The European Conference of Postal and Telecommunications Administrations (CEPT) is a pivotal entity within EU regulatory frameworks, facilitating the coordination of postal and telecommunications services across member states. CEPT mandates the efficient utilisation of radio frequency bands, ensuring that spectrum availability is harmonised to meet the growing demand for telecommunications services. The conference examines approaches to enhance service delivery, benefiting people with disabilities by promoting accessibility. CEPT also designates channels for paging and other services, allowing for the quick adaptation of regulatory plans. By fostering cooperation, CEPT plays a crucial role in preparing and implementing strategies that fulfil the EU's objectives in telecommunications and postal services.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:05:00.752759",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 140,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 140,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1725.307142857143
+    },
+    "related_words": [
+      "impairments",
+      "paging",
+      "ermes",
+      "occupy",
+      "disabilities",
+      "cept",
+      "mhz",
+      "mandated",
+      "preferred",
+      "band",
+      "bands",
+      "spectrum",
+      "postal",
+      "pan",
+      "channels",
+      "utilised",
+      "approaches",
+      "radio",
+      "channel",
+      "telecommunications",
+      "designate",
+      "decreased",
+      "frequency",
+      "coordinated",
+      "efficiently",
+      "ceased",
+      "benefiting",
+      "quickly",
+      "mandate",
+      "prepare"
+    ],
+    "prompt_length": 1757,
+    "category": "7611 European organisations"
+  }
+}

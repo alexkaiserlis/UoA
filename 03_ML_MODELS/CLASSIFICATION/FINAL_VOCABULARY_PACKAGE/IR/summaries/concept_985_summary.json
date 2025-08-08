@@ -1,0 +1,63 @@
+{
+  "concept_id": "985",
+  "concept_data": {
+    "title": "ferryboat",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"ferryboat\" pertains to maritime and inland waterway transport within the EU regulatory framework. It encompasses vessels designed for the transportation of passengers and cargo across bodies of water, often between regions like Angleterre and Irlande. Regulatory documents may address issues such as the propulsion systems of ferries, safety standards for deck design, and the responsibilities of shipowners regarding passenger rights. Criticism may arise over tonnages and the environmental impact of ferry operations, particularly in areas like Bretagne and Nazaire. The EU aims to ensure undistorted competition among ferry operators while fostering sustainable practices, thus inducing a vigorous dialogue on regulatory improvements.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:52:19.120773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 286,
+      "selected_avg_freq": 114.84
+    },
+    "related_words": [
+      "angleterre",
+      "irlande",
+      "chantier",
+      "nazaire",
+      "cgt",
+      "finnsailor",
+      "bulkhead",
+      "blanked",
+      "commenting",
+      "bai",
+      "alsthom",
+      "fictitious",
+      "sighted",
+      "partitioning",
+      "style",
+      "explicity",
+      "shipowner",
+      "cruise",
+      "francs",
+      "domiciled",
+      "remark",
+      "ism",
+      "criticism",
+      "intervened",
+      "undistorted",
+      "drain",
+      "bretagne",
+      "fide",
+      "aggravation",
+      "scarce"
+    ],
+    "prompt_length": 1663,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

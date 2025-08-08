@@ -1,0 +1,63 @@
+{
+  "concept_id": "3879",
+  "concept_data": {
+    "title": "construction industry",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "building industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"construction industry,\" redirected to the preferred term \"building industry,\" encompasses a broad spectrum of activities related to the development and maintenance of structures. In EU legal and regulatory contexts, it involves compliance with standards for compartmentation, safety, and environmental impact, particularly in projects involving prefabricated components and masonry. Developers must navigate regulations concerning subcontractors and ensure that allayed concerns about childproof designs and unnotified alterations are addressed. The industry also engages with innovative practices, such as the use of membrane technologies and advanced locking systems for balconies and shutters. Furthermore, legislation like the nderungsgesetz mandates adherence to specific building codes across regions, including Südtirol and Hertfordshire, ensuring identifiable quality and safety in construction practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:42:51.671436",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 1207,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 94,
+      "selected_avg_freq": 33.806666666666665
+    },
+    "related_words": [
+      "compartmentation",
+      "indentifiable",
+      "ingenieur",
+      "gewerbebau",
+      "igb",
+      "hab",
+      "tab",
+      "gera",
+      "developer",
+      "lets",
+      "aec",
+      "welwyn",
+      "kolon",
+      "skc",
+      "hade",
+      "volulme",
+      "storey",
+      "flats",
+      "disengaged",
+      "devises",
+      "abgabenă",
+      "nderungsgesetz",
+      "erp",
+      "balcony",
+      "childproof",
+      "unnotified",
+      "hereas",
+      "allayed",
+      "balconies",
+      "stx"
+    ],
+    "prompt_length": 1691,
+    "category": "6831 building and public works"
+  }
+}

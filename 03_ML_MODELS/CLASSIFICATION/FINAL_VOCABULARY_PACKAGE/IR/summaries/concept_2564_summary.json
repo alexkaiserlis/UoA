@@ -1,0 +1,63 @@
+{
+  "concept_id": "2564",
+  "concept_data": {
+    "title": "regions of Portugal",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Portugal\" pertains to the administrative divisions within the country, categorized under the broader EU framework of regions of Member States. Portugal's regions, including the Algarve and Lisboa, are further divided into freguesias and distritos, which play a crucial role in local governance. These regions are recognized for their unique geographical indicators, such as the vinho produced in the Tejo and the triticale cultivated in the norte. Regulatory frameworks often reference these regions for agricultural policies, including the protection of traditional products like vino and landwein. Understanding these regions is essential for effective EU policy implementation and regional development strategies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:49.955240",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 587,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 394,
+      "selected_avg_freq": 160.50666666666666
+    },
+    "related_words": [
+      "favroured",
+      "freguesias",
+      "esfs",
+      "fermo",
+      "região",
+      "ragusa",
+      "ascoli",
+      "regiões",
+      "warmińsko",
+      "biella",
+      "distritos",
+      "triticale",
+      "enna",
+      "kujawsko",
+      "mazurskie",
+      "splits",
+      "voivodships",
+      "lisboa",
+      "tejo",
+      "indicazione",
+      "geografica",
+      "tipica",
+      "piceno",
+      "algarve",
+      "catania",
+      "powiaty",
+      "asti",
+      "wielkopolskie",
+      "pomorskie",
+      "vale"
+    ],
+    "prompt_length": 1634,
+    "category": "7211 regions of EU Member States"
+  }
+}

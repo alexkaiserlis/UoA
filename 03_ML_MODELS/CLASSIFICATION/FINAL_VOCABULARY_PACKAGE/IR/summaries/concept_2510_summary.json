@@ -1,0 +1,63 @@
+{
+  "concept_id": "2510",
+  "concept_data": {
+    "title": "money policy",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "monetary policy",
+    "relation_type": "USE"
+  },
+  "summary": "Monetary policy, often redirected from \"money policy,\" encompasses the strategies employed by the European Central Bank (ECB) and national central banks (NCBs) to oversee economic stability within the EU. This policy addresses the multiplicity of financial challenges, including inflation and refinancing conditions. The ECB conducts simulations to anticipate outcomes and ensure that monetary conditions suffice for economic growth. Empowering overseers like the European Systemic Risk Board (ESRB) and Bundesbank, the policy harmonises regulations across member states. By mandating conditionality and overseeing the issuance of currency, monetary policy plays a crucial role in rebuilding trust among citizens and financial markets alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:52:53.976352",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 854,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 284,
+      "selected_avg_freq": 125.02666666666667
+    },
+    "related_words": [
+      "denominating",
+      "oversees",
+      "addressable",
+      "overseer",
+      "larosière",
+      "simulations",
+      "pssc",
+      "lengthen",
+      "overseers",
+      "haircuts",
+      "esrb",
+      "bundesbank",
+      "simulator",
+      "bic",
+      "recruited",
+      "overseeing",
+      "multiplicity",
+      "jacques",
+      "broadest",
+      "cbs",
+      "organizational",
+      "realise",
+      "conditionality",
+      "banca",
+      "quantifying",
+      "supervisors",
+      "harmonises",
+      "rebuilding",
+      "emi",
+      "banque"
+    ],
+    "prompt_length": 1723,
+    "category": "2411 monetary economics"
+  }
+}

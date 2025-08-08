@@ -1,0 +1,63 @@
+{
+  "concept_id": "3480",
+  "concept_data": {
+    "title": "official visit",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"official visit\" in the context of EU legal and regulatory frameworks refers to formal travel undertaken by representatives of EU member states or institutions, aimed at fostering international relations and cooperation. These visits often involve consultations and negotiations regarding agreements that govern foreign policy initiatives, such as those under the Common Foreign and Security Policy (CFSP). During such visits, host countries assess the impact of existing policies and potential modifications, addressing threats and challenges, including those posed by assaults on human rights in regions like Myanmar. The visits contribute to a network of communication, enhancing the EU's capacity to respond to global issues and ensuring that standards are upheld in international affairs.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:18:43.227986",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 113,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 113,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1776.9911504424779
+    },
+    "related_words": [
+      "assaults",
+      "manuals",
+      "visiting",
+      "attacks",
+      "burma",
+      "myanmar",
+      "govern",
+      "threats",
+      "debate",
+      "channel",
+      "jha",
+      "travel",
+      "host",
+      "appointment",
+      "apart",
+      "cfsp",
+      "modifications",
+      "threat",
+      "network",
+      "restrictive",
+      "formal",
+      "solely",
+      "figures",
+      "assessing",
+      "protective",
+      "foreign",
+      "update",
+      "exist",
+      "excluded",
+      "initiative"
+    ],
+    "prompt_length": 1673,
+    "category": "0806 international affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5317",
+  "concept_data": {
+    "title": "personal luggage",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "personal effects",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"personal luggage,\" redirected to \"personal effects,\" encompasses items travellers carry during their journey. This concept is crucial for customs (douane) regulations, where the screening of baggage is essential to mitigate risks, particularly concerning concealed explosives or improvised devices. The layout of airports and the proximity of security measures, such as dogs and screening technologies, standardize the process of identifying potential threats. Regulations aim to minimize the risk of diversion by terrorists while ensuring a clearer passage for travellers. The terminology surrounding personal effects also includes provisions for remission and reliefs, addressing issues like the diminishment of rights when incurring additional baggage fees. Ultimately, the effective management of personal effects contributes to a safer travel experience across EU airports.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:34:24.802121",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 544,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 574,
+      "selected_avg_freq": 267.00666666666666
+    },
+    "related_words": [
+      "diminuation",
+      "douane",
+      "cpd",
+      "concealments",
+      "improvised",
+      "minimalising",
+      "wtmd",
+      "etd",
+      "terrorists",
+      "traveller",
+      "walk",
+      "posters",
+      "carnets",
+      "concealed",
+      "refine",
+      "explosive",
+      "cabin",
+      "baggage",
+      "successively",
+      "standardize",
+      "incurring",
+      "journey",
+      "trying",
+      "computers",
+      "reliefs",
+      "remission",
+      "luggage",
+      "originated",
+      "passage",
+      "layout"
+    ],
+    "prompt_length": 1703,
+    "category": "2026 consumption"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6379",
+  "concept_data": {
+    "title": "military secret",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"military secret\" pertains to classified information essential for the security and defense of the European Union and its member states. In accordance with various treaties and decisions, including those concerning Bosnia and Herzegovina, the EU has established procedures for the protection and exchange of such sensitive information. The Council often meets to negotiate and conclude agreements that authorize the classification of military secrets, ensuring their confidentiality. Following recommendations from the presidency, these classified details are managed under strict regulations, with specific articles outlining the responsibilities of member states in safeguarding military secrets. The official journal documents these decisions, reinforcing the EU's commitment to security and cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:53:41.214024",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 38,
+      "requested_words": 150,
+      "min_frequency_found": 215,
+      "max_frequency_found": 4108,
+      "selected_words": 38,
+      "selected_min_freq": 215,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2175.2894736842104
+    },
+    "related_words": [
+      "presidency",
+      "bosnia",
+      "herzegovina",
+      "assisted",
+      "conclude",
+      "negotiated",
+      "authorise",
+      "classified",
+      "recommendation",
+      "authorisation",
+      "negotiations",
+      "open",
+      "security",
+      "exchange",
+      "meeting",
+      "decided",
+      "conclusion",
+      "approved",
+      "procedures",
+      "agreement",
+      "third",
+      "following",
+      "articles",
+      "information",
+      "november",
+      "concerning",
+      "july",
+      "certain",
+      "order",
+      "journal"
+    ],
+    "prompt_length": 1558,
+    "category": "0821 defence"
+  }
+}

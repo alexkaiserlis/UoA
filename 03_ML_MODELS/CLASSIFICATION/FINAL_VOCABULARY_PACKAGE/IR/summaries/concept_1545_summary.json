@@ -1,0 +1,63 @@
+{
+  "concept_id": "1545",
+  "concept_data": {
+    "title": "police court",
+    "category_code": "1226",
+    "category_name": "organisation of the legal system",
+    "category_full": "1226 organisation of the legal system",
+    "is_redirect": true,
+    "preferred_term": "criminal court",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"police court\" is a redirect to the preferred term \"criminal court,\" which is integral to the organisation of the legal system within the EU. Criminal courts are authorised bodies that handle cases concerning violations of law, ensuring the rule of law is upheld. In accordance with EU directives, these courts operate under a strategic framework that includes decisions made by the Council and relevant committees. The appointment of judges and their roles are governed by specific treaties, ensuring a fair and integrated approach to justice. This system is crucial for maintaining security and political stability within the Union, particularly in foreign affairs and third-country relations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:43.408115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 48,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 48,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1803.6458333333333
+    },
+    "related_words": [
+      "huszár",
+      "lászló",
+      "eujust",
+      "lex",
+      "brigadier",
+      "iraq",
+      "appoint",
+      "direction",
+      "appointment",
+      "head",
+      "strategic",
+      "mission",
+      "cfsp",
+      "affairs",
+      "political",
+      "foreign",
+      "integrated",
+      "rule",
+      "representative",
+      "authorised",
+      "proposed",
+      "security",
+      "law",
+      "paragraph",
+      "control",
+      "decisions",
+      "high",
+      "purpose",
+      "policy",
+      "including"
+    ],
+    "prompt_length": 1664,
+    "category": "1226 organisation of the legal system"
+  }
+}

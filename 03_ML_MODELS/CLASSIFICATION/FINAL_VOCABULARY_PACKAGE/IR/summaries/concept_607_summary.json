@@ -1,0 +1,63 @@
+{
+  "concept_id": "607",
+  "concept_data": {
+    "title": "drinking water",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"drinking water\" within EU legal and regulatory frameworks encompasses the protection of watercourses from harmful substances, including endocrine disrupters and nitrosamines, which can bioaccumulate and pose ecotoxicological risks to aquatic life, such as salmonids and shrimps. The prioritisation of water quality standards involves the modelling of pollutants like polyaromatic hydrocarbons (PAHs) and tolylfluanid, ensuring their fate is monitored through expeditious methodologies. Regulatory bodies, such as HELCOM and OSPAR, facilitate the synchronisation of efforts across member states to address diffuse discharges and leaching from agricultural practices. This comprehensive approach aims to safeguard public health and the environment, reflecting the desirability of clean drinking water.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:36.153131",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 700,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 298,
+      "selected_avg_freq": 127.49333333333334
+    },
+    "related_words": [
+      "diffuse",
+      "commps",
+      "helcom",
+      "dynamec",
+      "ptbs",
+      "disrupters",
+      "synchronisation",
+      "eurparen",
+      "ozonisation",
+      "nitrosamine",
+      "ndma",
+      "dimethylsulfamide",
+      "abstraction",
+      "polyaromatic",
+      "lallemand",
+      "harmfulness",
+      "pediococcus",
+      "acidilactici",
+      "parametric",
+      "tolylfluanid",
+      "ecotoxicological",
+      "pahs",
+      "modelling",
+      "watercourses",
+      "ospar",
+      "fate",
+      "prioritisation",
+      "cncm",
+      "bioaccumulate",
+      "weaned"
+    ],
+    "prompt_length": 1738,
+    "category": "5211 natural environment"
+  }
+}

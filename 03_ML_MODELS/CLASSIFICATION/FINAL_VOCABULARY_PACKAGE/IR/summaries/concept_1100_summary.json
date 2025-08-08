@@ -1,0 +1,63 @@
+{
+  "concept_id": "1100",
+  "concept_data": {
+    "title": "Friuli-Venezia Giulia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Friuli-Venezia Giulia, a region of Italy, plays a crucial role in the EU's regulatory framework, particularly in areas such as intermodal transport and financial services. The region's strategic location, encompassing cities like Trieste and Udine, stimulates multimodal logistics, enhancing cabotage and freight transport efficiency. Its steelworks and manufacturing sectors, including the revival of traditional industries, are supported by EU financing and programming initiatives. The region's diverse economy, which includes services and insurance sectors, indisputably contributes to national and EU-wide economic growth. Ongoing investments in infrastructure aim to curb inefficiencies and revive local economies, ensuring that Friuli-Venezia Giulia remains a pivotal player in EU development.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:11:26.513325",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1060,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 173,
+      "selected_avg_freq": 70.12666666666667
+    },
+    "related_words": [
+      "finanziari",
+      "assicurativi",
+      "revive",
+      "sparing",
+      "slavic",
+      "hardest",
+      "revival",
+      "servola",
+      "torpedoes",
+      "resurfacing",
+      "invests",
+      "haemotopoietic",
+      "udine",
+      "tren",
+      "venizia",
+      "intermodally",
+      "amply",
+      "bispa",
+      "indisputable",
+      "servizi",
+      "bunkers",
+      "gva",
+      "multimodal",
+      "indisputably",
+      "dusts",
+      "pps",
+      "modal",
+      "trieste",
+      "nationwide",
+      "sintering"
+    ],
+    "prompt_length": 1678,
+    "category": "7211 regions of EU Member States"
+  }
+}

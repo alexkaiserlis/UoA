@@ -1,0 +1,63 @@
+{
+  "concept_id": "1520",
+  "concept_data": {
+    "title": "regions of Italy",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Italy\" pertains to the administrative divisions within Italy, which are recognized in EU legal and regulatory frameworks. These regions, such as Ligurian and Adriatic, possess autonomous governance structures that allow for localized decision-making. The regions are essential in the context of EU policies, particularly in areas like regional development and compatibility with EU regulations. For instance, the deliberazione of regional authorities can influence funding allocations for geothermal projects or cultural initiatives, such as the preservation of local delicacies like torta and ficodindia. Each region, including Teramane and Rieti, is tasked with updating their policies to align with EU guidelines, ensuring that their unique aspects, such as the picturesque colline of Perugia or the historical significance of Ragusa, are adequately represented in broader EU strategies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:30.119714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 1375,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 19.0
+    },
+    "related_words": [
+      "utilizable",
+      "recapitulatory",
+      "apsects",
+      "equest",
+      "guidange",
+      "npci",
+      "posses",
+      "deed",
+      "followd",
+      "trasimeno",
+      "ligurian",
+      "reparation",
+      "suring",
+      "autonomus",
+      "deliberazione",
+      "bunches",
+      "updatings",
+      "perugia",
+      "pretuziano",
+      "teramane",
+      "torta",
+      "casar",
+      "manzana",
+      "girona",
+      "poma",
+      "discase",
+      "geothermal",
+      "reffered",
+      "arezzo",
+      "grossetto"
+    ],
+    "prompt_length": 1664,
+    "category": "7211 regions of EU Member States"
+  }
+}

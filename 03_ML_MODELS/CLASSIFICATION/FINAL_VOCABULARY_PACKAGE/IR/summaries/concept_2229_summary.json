@@ -1,0 +1,63 @@
+{
+  "concept_id": "2229",
+  "concept_data": {
+    "title": "Papua New Guinea",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Papua New Guinea\" within the EU legal and regulatory framework pertains to its economic geography, particularly in relation to fisheries and trade. The EU empowers vessels to engage in fisheries activities, ensuring that consignments of fishery products are hygienic and effectively stored in freezers. Establishments must be equipped to fulfil hygiene standards, with packages affixed with certificates verifying compliance. The registration of vessels and the inspection of fishery products are crucial for maintaining the status of these operations. Additionally, the language of documentation must accompany each consignment, ensuring clarity in the chain of responsibility and compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:25:41.401117",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 134,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 134,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1723.1940298507463
+    },
+    "related_words": [
+      "nfa",
+      "papua",
+      "hygienic",
+      "freezer",
+      "affixed",
+      "guinea",
+      "stores",
+      "caught",
+      "store",
+      "equipped",
+      "accompany",
+      "sign",
+      "drafted",
+      "packages",
+      "assurances",
+      "cold",
+      "dispatched",
+      "factory",
+      "languages",
+      "vessel",
+      "verifying",
+      "mark",
+      "hygiene",
+      "frozen",
+      "stored",
+      "language",
+      "fulfilment",
+      "consignments",
+      "establishments",
+      "vessels"
+    ],
+    "prompt_length": 1648,
+    "category": "7231 economic geography"
+  }
+}

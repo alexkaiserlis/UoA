@@ -1,0 +1,63 @@
+{
+  "concept_id": "5427",
+  "concept_data": {
+    "title": "European Agency for Safety and Health at Work",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Agency for Safety and Health at Work (EU-OSHA) is a pivotal institution within the EU framework, focusing on workplace safety and hygiene. Established to promote a culture of risk prevention, it serves as a secretariat for various stakeholders, including employers and employees, represented by organizations such as ETUC and BusinessEurope. The agency's president, appointed through a nomination process, oversees a diverse team, including alternates from member states like Latvia, Malta, and Croatia. EU-OSHA's role includes filling vacant posts and addressing issues related to resignations and appointments, ensuring that the original objectives of workplace safety are upheld across all languages and regions.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:56:33.176839",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 125,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 125,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1433.32
+    },
+    "related_words": [
+      "leodegario",
+      "beegan",
+      "sylvia",
+      "barrefelt",
+      "sánchez",
+      "tom",
+      "businesseurope",
+      "fernández",
+      "resignations",
+      "etuc",
+      "alternates",
+      "nominations",
+      "resignation",
+      "vacant",
+      "alternate",
+      "filled",
+      "seat",
+      "employers",
+      "seats",
+      "house",
+      "nomination",
+      "candidates",
+      "fallen",
+      "wood",
+      "posts",
+      "latvian",
+      "appointing",
+      "occurs",
+      "languages",
+      "employees"
+    ],
+    "prompt_length": 1729,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

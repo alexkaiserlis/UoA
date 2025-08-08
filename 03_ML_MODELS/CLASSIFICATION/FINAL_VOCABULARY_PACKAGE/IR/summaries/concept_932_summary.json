@@ -1,0 +1,63 @@
+{
+  "concept_id": "932",
+  "concept_data": {
+    "title": "zero duty",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "tariff exemption",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"zero duty,\" also referred to as \"tariff exemption,\" pertains to the 2011 tariff policy within the EU regulatory framework. This exemption allows for the importation of specific goods without incurring customs duties, thereby enhancing flexibility in trade management. For instance, items such as unsalted hydrates or specialized bikes like pedelecs may qualify under this regime. The implementation of zero duty is governed by articles that establish criteria for acceptable requests, ensuring compliance with EU regulations. This policy aims to facilitate trade while maintaining responsible oversight, particularly for unique products from regions like Tohoku or Sendai, thus fostering independent economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:56:30.891812",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2132,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 42,
+      "selected_avg_freq": 19.953333333333333
+    },
+    "related_words": [
+      "imporation",
+      "tohoku",
+      "tsc",
+      "sendai",
+      "considerd",
+      "accorance",
+      "itemized",
+      "licneces",
+      "taht",
+      "aapply",
+      "estabslihing",
+      "seco",
+      "rmsponsible",
+      "managemetn",
+      "aticles",
+      "lfexibility",
+      "hydrates",
+      "suffixes",
+      "pedelecs",
+      "eurocycles",
+      "ensilage",
+      "cbera",
+      "implemention",
+      "particual",
+      "inns",
+      "acceptablerequests",
+      "madirom",
+      "splaiul",
+      "independentei",
+      "schersweide"
+    ],
+    "prompt_length": 1694,
+    "category": "2011 tariff policy"
+  }
+}

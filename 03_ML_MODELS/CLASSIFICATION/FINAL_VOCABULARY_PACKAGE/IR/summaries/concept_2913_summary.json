@@ -1,0 +1,63 @@
+{
+  "concept_id": "2913",
+  "concept_data": {
+    "title": "admissibility",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"admissibility\" refers to the criteria that determine whether a complaint or submission can be accepted for consideration. This concept is essential for streamlining the handling of complaints, ensuring that only those that meet mandatory requirements are lodged. Admissibility assessments often involve detecting unlawful conduct, identifying violations, and addressing the concerns of complainants. Investigations into alleged misuse of resources or confidential information must demonstrate certainty in their findings. The growth of regulatory initiatives necessitates a clear strategy for assessing admissibility, thereby consolidating efforts to render justice effectively while avoiding excessively burdensome processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:39:08.942781",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 156,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 38,
+      "selected_max_freq": 3565,
+      "selected_avg_freq": 1534.9733333333334
+    },
+    "related_words": [
+      "misused",
+      "secrets",
+      "streamline",
+      "modernisation",
+      "unlawful",
+      "detecting",
+      "misuse",
+      "burdensome",
+      "complaints",
+      "complainants",
+      "receives",
+      "violations",
+      "confidential",
+      "consolidation",
+      "excessively",
+      "alleged",
+      "render",
+      "participants",
+      "lodging",
+      "mandatory",
+      "submitting",
+      "investigations",
+      "handling",
+      "demonstrate",
+      "events",
+      "sought",
+      "conduct",
+      "starting",
+      "identify",
+      "source"
+    ],
+    "prompt_length": 1699,
+    "category": "1221 justice"
+  }
+}

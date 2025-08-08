@@ -1,0 +1,63 @@
+{
+  "concept_id": "926",
+  "concept_data": {
+    "title": "surplus of agricultural products",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "agricultural surplus",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"surplus of agricultural products,\" redirected to \"agricultural surplus,\" pertains to the excess production of agricultural goods within the EU framework. This surplus can disrupt market stability, leading to unpredictable fluctuations in prices and supply. Regulatory measures aim to standardise production levels to avoid shortfalls and manage excesses effectively. Historically, such surpluses have been a worrying trend, particularly for less developed countries (LDCs) reliant on stable exports. Forecasted estimations indicate that without intervention, the fluidity of markets may worsen, resulting in tighter constraints on producers. Charitable outlets and distilleries may also be affected, as the cumulated surplus disturbs traditional market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:46.787030",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 741,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 387,
+      "selected_avg_freq": 202.26
+    },
+    "related_words": [
+      "disrupts",
+      "constrain",
+      "toallow",
+      "suplus",
+      "ofregulation",
+      "ldcs",
+      "extraordinarily",
+      "substantiates",
+      "moderately",
+      "forecasted",
+      "disturbs",
+      "estimations",
+      "unpredictable",
+      "fluidity",
+      "standardise",
+      "historically",
+      "proofs",
+      "distillers",
+      "stabilized",
+      "persisting",
+      "worrying",
+      "deterrent",
+      "futures",
+      "potable",
+      "distilleries",
+      "sweeteners",
+      "cumulated",
+      "nectarines",
+      "upwards",
+      "commit"
+    ],
+    "prompt_length": 1781,
+    "category": "5611 agricultural structures and production"
+  }
+}

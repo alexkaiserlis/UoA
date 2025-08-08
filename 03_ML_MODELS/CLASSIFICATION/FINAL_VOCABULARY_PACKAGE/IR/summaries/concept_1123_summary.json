@@ -1,0 +1,63 @@
+{
+  "concept_id": "1123",
+  "concept_data": {
+    "title": "thermonuclear fusion",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear fusion",
+    "relation_type": "USE"
+  },
+  "summary": "Nuclear fusion, often referred to as thermonuclear fusion, represents a promising and inexhaustible energy source that EU regulatory frameworks aim to harness for peaceful applications. This concept is central to projects like ITER, which employs advanced reactors such as tokamaks and stellarators to achieve plasma confinement. The EU's roadmap for nuclear fusion embraces a quadripartite approach, integrating research and innovation across member states. The European Atomic Energy Community (EAEC) plays a pivotal role in this, facilitating trilogue discussions and reassessments of fusion technologies. By focusing on benign energy solutions, the EU seeks to realize a sustainable energy future, complementing existing fission methods while fostering excellence in physics and engineering.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:21.626627",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 542,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 542,
+      "selected_avg_freq": 251.56666666666666
+    },
+    "related_words": [
+      "inexhaustible",
+      "benign",
+      "quadripartite",
+      "tokamak",
+      "propject",
+      "predesign",
+      "pinches",
+      "stellarators",
+      "muon",
+      "catalysed",
+      "autonomic",
+      "embraces",
+      "conceptual",
+      "cce",
+      "trilogue",
+      "torus",
+      "fission",
+      "confinement",
+      "physics",
+      "iter",
+      "touch",
+      "cabinet",
+      "realize",
+      "universally",
+      "thermonuclear",
+      "capped",
+      "reversed",
+      "concentrating",
+      "reactor",
+      "plasma"
+    ],
+    "prompt_length": 1727,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

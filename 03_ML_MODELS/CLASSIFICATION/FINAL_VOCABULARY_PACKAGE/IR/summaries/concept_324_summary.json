@@ -1,0 +1,63 @@
+{
+  "concept_id": "324",
+  "concept_data": {
+    "title": "production of fresh vegetables",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "market gardening",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"production of fresh vegetables,\" redirected to \"market gardening,\" encompasses various horticultural activities within the EU agricultural framework. This sector is characterized by unpredictable cycles, where the harvesting and planting of crops like carciofo, limone, and cauliflower can fluctuate significantly. Regulatory bodies, such as the CPVO and UPOV, oversee the catalogues of eligible varieties, ensuring compliance with standards. Failings in production can trigger crises, leading to withdrawals from the market. The cyclical nature of this activity necessitates intelligence in managing lots and affording stability, while occasional disruptions can render certain operations ineligible. Thus, effective communication and examination of practices are essential for sustaining this vital agricultural activity.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:42:23.295841",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 494,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 732,
+      "selected_avg_freq": 345.99333333333334
+    },
+    "related_words": [
+      "horticultal",
+      "spinoso",
+      "inversely",
+      "fagiolo",
+      "addentum",
+      "failings",
+      "peaks",
+      "cpvo",
+      "fluctuates",
+      "carciofo",
+      "limone",
+      "cauliflower",
+      "cool",
+      "cuneo",
+      "siracusa",
+      "upov",
+      "intelligence",
+      "unpredictable",
+      "sardegna",
+      "tally",
+      "cauliflowers",
+      "posteriori",
+      "catalogues",
+      "deferring",
+      "sealing",
+      "occasional",
+      "horticultural",
+      "renders",
+      "quotation",
+      "affording"
+    ],
+    "prompt_length": 1754,
+    "category": "5631 agricultural activity"
+  }
+}

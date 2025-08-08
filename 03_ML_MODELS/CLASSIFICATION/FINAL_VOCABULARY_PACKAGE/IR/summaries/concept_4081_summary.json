@@ -1,0 +1,63 @@
+{
+  "concept_id": "4081",
+  "concept_data": {
+    "title": "seed",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"seed\" refers to the essential means of agricultural production, encompassing various plant species, including monoecious and dioecious varieties. The regulatory framework governs the resealing and refastening of seed packages to ensure quality, including those of rare species like lupulina and flavescens. Specific regulations also address the cultivation of seedling varieties such as festulolium and arrhenatherum, which are vital for sustainable agriculture. Additionally, the EU promotes the marketing of oleoginous seeds and the conservation of unique cultivars like spelta and cumin. Compliance with these regulations supports biodiversity and agricultural resilience, reflecting the EU's commitment to environmental sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:37:08.982879",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 3375,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.74
+    },
+    "related_words": [
+      "lupulina",
+      "resealing",
+      "refastening",
+      "lieselotte",
+      "tannin",
+      "trypsic",
+      "alban",
+      "entrar",
+      "stalked",
+      "meadowgrass",
+      "poapratensis",
+      "foxtail",
+      "alopecurus",
+      "arrhenatherum",
+      "elatius",
+      "trisetum",
+      "flavescens",
+      "tresor",
+      "festulolium",
+      "spelta",
+      "monoecious",
+      "dioecious",
+      "oleoginous",
+      "convar",
+      "acephala",
+      "raphanus",
+      "catalpa",
+      "bushreal",
+      "desirabel",
+      "negerkop"
+    ],
+    "prompt_length": 1676,
+    "category": "5626 means of agricultural production"
+  }
+}

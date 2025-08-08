@@ -1,0 +1,63 @@
+{
+  "concept_id": "2321",
+  "concept_data": {
+    "title": "inward processing traffic",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "inward processing",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU tariff policy, \"inward processing traffic,\" redirected to \"inward processing,\" refers to a customs procedure allowing the importation of goods for processing without incurring duties. This mechanism enhances trade by enabling declarants to reimport unmodified products, such as lactose or cocoa, after processing. The procedure is advantageous, easing burdensome regulations and allowing for the placement of goods, like powdered milk or malt, into the EU market. It facilitates the circulation of processed items, such as pasta and butteroil, while ensuring that unaltered goods are cleared efficiently. The notional drawback system further supports this by offsetting duties, thus attracting businesses and easing financial debts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:18:41.777847",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 893,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 344,
+      "selected_avg_freq": 193.05333333333334
+    },
+    "related_words": [
+      "grancommiss",
+      "inf",
+      "handover",
+      "unmodified",
+      "disappears",
+      "placement",
+      "notional",
+      "splitting",
+      "airline",
+      "declarant",
+      "reimported",
+      "conflicting",
+      "drawback",
+      "afterwards",
+      "lactose",
+      "rare",
+      "butteroil",
+      "digit",
+      "happen",
+      "powdered",
+      "roasted",
+      "enhances",
+      "ratios",
+      "gluten",
+      "whey",
+      "devoid",
+      "circulate",
+      "lactalbumin",
+      "easing",
+      "relaxation"
+    ],
+    "prompt_length": 1717,
+    "category": "2011 tariff policy"
+  }
+}

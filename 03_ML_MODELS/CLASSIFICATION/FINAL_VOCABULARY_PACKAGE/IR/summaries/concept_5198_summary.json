@@ -1,0 +1,26 @@
+{
+  "concept_id": "5198",
+  "concept_data": {
+    "title": "file transfer",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "downloading",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"file transfer,\" often redirected to the preferred term \"downloading,\" pertains to the transmission of digital files over networks, a critical aspect of information technology and data processing within the EU regulatory framework. This process is governed by various legal provisions, including data protection regulations, which ensure the secure handling of personal data during downloading activities. The European Union emphasizes compliance with directives such as the General Data Protection Regulation (GDPR), which mandates that file transfers, including downloading, respect individuals' privacy rights and data security. Understanding these legal implications is essential for organizations engaged in digital file transactions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:24:03.963457",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1226,
+    "category": "3236 information technology and data processing"
+  }
+}

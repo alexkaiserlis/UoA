@@ -1,0 +1,63 @@
+{
+  "concept_id": "4479",
+  "concept_data": {
+    "title": "treaties of the European Union",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "European treaties",
+    "relation_type": "USE"
+  },
+  "summary": "The \"treaties of the European Union,\" commonly referred to as \"European treaties,\" are foundational legal instruments that govern the functioning of the EU. These treaties, such as the TEU and TFEU, integrate various aspects of EU law, including the conferral of powers and the safeguarding of rights. They are subject to declassification processes, ensuring transparency while protecting confidential information. The treaties also establish frameworks for administering policies on visas, travel, and intellectual property, including copyright and phonograms. As the EU evolves, treaties are finalized through unanimous assent, reflecting the collective will of member states, including those from Kosovo, Albania, and Montenegro.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:54:17.654712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 364,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1036,
+      "selected_avg_freq": 473.04
+    },
+    "related_words": [
+      "wct",
+      "wppt",
+      "declassify",
+      "restreint",
+      "declassifying",
+      "wipo",
+      "declassified",
+      "phonograms",
+      "sirene",
+      "referrred",
+      "downgraded",
+      "thirteen",
+      "sch",
+      "tec",
+      "copyright",
+      "consular",
+      "conferral",
+      "finalized",
+      "performances",
+      "rev",
+      "stood",
+      "teu",
+      "geneva",
+      "kosovo",
+      "visas",
+      "nothing",
+      "derive",
+      "incumbent",
+      "prohibitions",
+      "integrating"
+    ],
+    "prompt_length": 1731,
+    "category": "1011 European Union law"
+  }
+}

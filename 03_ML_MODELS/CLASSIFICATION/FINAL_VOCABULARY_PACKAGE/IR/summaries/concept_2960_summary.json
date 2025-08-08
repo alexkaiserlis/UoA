@@ -1,0 +1,63 @@
+{
+  "concept_id": "2960",
+  "concept_data": {
+    "title": "revaluation",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Revaluation in the context of EU monetary economics refers to the process of adjusting the valuation of currencies, such as the krona, lira, or pound sterling, to reflect their true market value. This may occur through revaluations stipulated by the European Central Bank (ECB) or in response to economic events affecting currencies. Such adjustments can appreciably impact incomes, particularly for farmers receiving compensatory aids linked to agrimonetary policies. The cancellation of previous valuations can lead to the issuance of new tranches of securities or adjustments in instalments. Committees often oversee these processes, ensuring that ceilings on depreciation are respected and that the operative statutes are adhered to.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:52:58.867428",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 247,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 1871,
+      "selected_avg_freq": 912.24
+    },
+    "related_words": [
+      "revalued",
+      "revaluations",
+      "krona",
+      "lira",
+      "revaluation",
+      "pound",
+      "sterling",
+      "cancellation",
+      "tranches",
+      "valuation",
+      "cancel",
+      "tranche",
+      "appreciably",
+      "depreciation",
+      "clarifications",
+      "cancelled",
+      "instalment",
+      "observation",
+      "agrimonetary",
+      "incomes",
+      "occasions",
+      "appreciable",
+      "ecb",
+      "occurring",
+      "operative",
+      "comprise",
+      "currencies",
+      "irish",
+      "vis",
+      "compensate"
+    ],
+    "prompt_length": 1670,
+    "category": "2411 monetary economics"
+  }
+}

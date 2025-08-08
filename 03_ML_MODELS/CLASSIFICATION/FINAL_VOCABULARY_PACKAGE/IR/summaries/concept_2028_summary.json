@@ -1,0 +1,63 @@
+{
+  "concept_id": "2028",
+  "concept_data": {
+    "title": "Province of Namur",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Province of Namur,\" a designated region within Belgium, plays a critical role in the EU's regulatory framework. Recognizing its unique status, authorities in the province are tasked with maintaining compliance with EU directives, particularly concerning public health and veterinary regulations. For instance, the province has instigated plans for the eradication of diseases such as swine fever, ensuring that protective measures are authentically rendered. The classical texts of EU law lay down conditions for the development of areas like Namur, which must keep conformity with broader EU objectives. This territory is officially recognized as part of Belgium's commitment to free movement and public health protection, reflecting the EU's overarching goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:49.003072",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 71,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 71,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1889.8450704225352
+    },
+    "related_words": [
+      "instigate",
+      "recognizing",
+      "stopped",
+      "classical",
+      "vaccination",
+      "fever",
+      "eradication",
+      "render",
+      "swine",
+      "detected",
+      "belgian",
+      "officially",
+      "disease",
+      "recognized",
+      "keep",
+      "maintenance",
+      "dutch",
+      "texts",
+      "veterinary",
+      "designated",
+      "approving",
+      "maintained",
+      "led",
+      "belgium",
+      "status",
+      "parts",
+      "conformity",
+      "designed",
+      "plan",
+      "presented"
+    ],
+    "prompt_length": 1670,
+    "category": "7211 regions of EU Member States"
+  }
+}

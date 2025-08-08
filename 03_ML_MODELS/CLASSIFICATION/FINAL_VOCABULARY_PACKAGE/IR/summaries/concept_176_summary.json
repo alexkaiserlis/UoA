@@ -1,0 +1,63 @@
+{
+  "concept_id": "176",
+  "concept_data": {
+    "title": "European Free Trade Association",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "EFTA",
+    "relation_type": "USE"
+  },
+  "summary": "The European Free Trade Association (EFTA) is a regional organization that includes Norway, Iceland, Liechtenstein, and Switzerland, facilitating dynamic trade relations within Europe. EFTA's legal framework aims to abolish barriers to intra-European exchanges, creating a simplified mechanism for the transit of goods, including wines and agricultural products. The association's protocols, signed by ministers from member states, express a commitment to enhance cooperation and approve regulations that follow EU standards. EFTA's role is crucial in negotiating agreements that replace previous confederation arrangements, ensuring the completion of trade agreements that benefit all parties involved, including Croatia and Luxembourg.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:45:26.537756",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 171,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 23,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1521.0266666666666
+    },
+    "related_words": [
+      "ans",
+      "oporto",
+      "bottles",
+      "norwegian",
+      "dynamic",
+      "principality",
+      "expressing",
+      "efta",
+      "liechtenstein",
+      "space",
+      "carriage",
+      "wines",
+      "ministers",
+      "consequent",
+      "accompanying",
+      "iceland",
+      "grants",
+      "became",
+      "protocols",
+      "transit",
+      "exchanges",
+      "creating",
+      "barriers",
+      "signing",
+      "confederation",
+      "abolition",
+      "swiss",
+      "wine",
+      "croatia",
+      "switzerland"
+    ],
+    "prompt_length": 1733,
+    "category": "7611 European organisations"
+  }
+}

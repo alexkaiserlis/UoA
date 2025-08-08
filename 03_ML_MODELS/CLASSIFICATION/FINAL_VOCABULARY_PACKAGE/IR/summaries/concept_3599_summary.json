@@ -1,0 +1,26 @@
+{
+  "concept_id": "3599",
+  "concept_data": {
+    "title": "private insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Private insurance refers to insurance policies provided by non-governmental entities, offering coverage for various risks such as health, property, and liability. Within the EU legal framework, private insurance is regulated to ensure consumer protection, financial stability, and market integrity. The Solvency II Directive exemplifies regulatory measures aimed at enhancing the resilience of insurers while safeguarding policyholders' interests. Additionally, the Insurance Distribution Directive (IDD) establishes standards for the distribution of insurance products, promoting transparency and fair competition. These regulations facilitate cross-border insurance operations, fostering a single market while ensuring compliance with EU standards and consumer rights.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:54:57.031944",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1166,
+    "category": "2431 insurance"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "434",
+  "concept_data": {
+    "title": "diabetes",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Diabetes, categorized under health in EU legal and regulatory frameworks, encompasses a range of metabolic disorders characterized by chronic hyperglycemia. The European Union has established various regulations and directives aimed at addressing diabetes management, prevention, and research funding. These include the regulation of medical devices, such as insulin pumps and glucose monitoring systems, which are essential for effective diabetes care. Furthermore, EU health policies promote public awareness and education initiatives to mitigate the prevalence of diabetes. The regulatory landscape also supports the development of innovative treatments and ensures patient access to necessary healthcare services, thereby enhancing overall public health outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:09:45.383409",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1154,
+    "category": "2841 health"
+  }
+}

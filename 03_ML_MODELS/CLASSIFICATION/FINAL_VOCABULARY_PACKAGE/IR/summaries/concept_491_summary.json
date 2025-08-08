@@ -1,0 +1,63 @@
+{
+  "concept_id": "491",
+  "concept_data": {
+    "title": "customs document",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"customs document\" serves as a crucial instrument for the facilitation of international trade. It encompasses various forms, including the ATA carnet, which simplifies customs procedures for travelers and goods. These documents are essential for ensuring compliance with regulations, such as the EORI number, and preventing misrepresentation during customs clearance. By employing incoterms, traders can clarify responsibilities, while customs documents also aid in the elimination of barriers and enhance the exchange of goods between nations. Their proper use strengthens the integrity of trade operations and supports licit activities across countries, thereby fostering economic advancement.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:41.040277",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1614,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 118,
+      "selected_avg_freq": 54.12
+    },
+    "related_words": [
+      "eliminations",
+      "incoterm",
+      "incoterms",
+      "unseparated",
+      "hinquarters",
+      "weighers",
+      "travelers",
+      "misrepresentation",
+      "impressed",
+      "bacause",
+      "sagfrole",
+      "piperonal",
+      "isosafrole",
+      "nationsl",
+      "internation",
+      "avance",
+      "anticipatively",
+      "douane",
+      "cpd",
+      "bottler",
+      "commun",
+      "licit",
+      "aeo",
+      "exhange",
+      "possibilites",
+      "paricular",
+      "regulaiton",
+      "eori",
+      "prefinanced",
+      "alien"
+    ],
+    "prompt_length": 1693,
+    "category": "2011 tariff policy"
+  }
+}

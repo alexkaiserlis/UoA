@@ -1,0 +1,63 @@
+{
+  "concept_id": "2752",
+  "concept_data": {
+    "title": "desiccated product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"desiccated product\" refers to foodstuffs that have undergone processes such as drying or dehydration, which may include techniques like sun drying or the use of evaporated methods. These products, such as sultanas, figs, and mushrooms, are often cultivated in specific regions, including the Benelux, and must adhere to strict quality standards. The treatment of these commodities involves uninterrupted processes to prevent irregularities, ensuring that the final product is suitable for consumption. Additionally, desiccated products can be utilized in spirituous beverages or as fodder, with processors required to maintain accurate records of harvesting and cultivation percentages.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:07:36.298158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 457,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 827,
+      "selected_avg_freq": 436.85333333333335
+    },
+    "related_words": [
+      "evaporated",
+      "muscatel",
+      "sultanas",
+      "monday",
+      "fumigation",
+      "dehydrated",
+      "sun",
+      "roughly",
+      "currants",
+      "onions",
+      "figs",
+      "ethylene",
+      "mushrooms",
+      "spirituous",
+      "vines",
+      "planted",
+      "reproduced",
+      "devoted",
+      "oxide",
+      "commencement",
+      "begins",
+      "harvesting",
+      "drying",
+      "distillation",
+      "treatments",
+      "uninterrupted",
+      "unprocessed",
+      "cultivated",
+      "grape",
+      "subdivisions"
+    ],
+    "prompt_length": 1691,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4236",
+  "concept_data": {
+    "title": "farm price support",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Farm price support is a critical element of EU agricultural policy aimed at stabilizing market prices for various commodities, including legumes like lentils and soyabeans. This regulatory framework seeks to neutralize unpredictable market fluctuations that can adversely affect farmers. By guaranteeing minimum prices, the policy widens the safety net for producers, ensuring their economic viability even during periods of market peaks or downturns. The system operates under stringent guidelines, allowing for carryover provisions and the merging of support mechanisms. Furthermore, it addresses failings in market dynamics, providing a stabilizer for crops such as cauliflowers and chick varieties, while also considering the desirability of products like caseinates. Ultimately, farm price support serves to relax the pressures of market volatility, ensuring that agricultural dealings remain robust and sustainable.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:56.684671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 886,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 248,
+      "selected_avg_freq": 109.62666666666667
+    },
+    "related_words": [
+      "neutrilize",
+      "stingent",
+      "preprinted",
+      "soyabeans",
+      "inversely",
+      "guaranted",
+      "widens",
+      "lentils",
+      "vetches",
+      "gnq",
+      "supersedes",
+      "failings",
+      "wrappers",
+      "peaks",
+      "tracers",
+      "hereunder",
+      "fluctuates",
+      "ginned",
+      "piraeus",
+      "cauliflower",
+      "chick",
+      "strikes",
+      "fide",
+      "dough",
+      "uncooked",
+      "subordinate",
+      "bona",
+      "ginning",
+      "legumes",
+      "stabilizer"
+    ],
+    "prompt_length": 1671,
+    "category": "5606 agricultural policy"
+  }
+}

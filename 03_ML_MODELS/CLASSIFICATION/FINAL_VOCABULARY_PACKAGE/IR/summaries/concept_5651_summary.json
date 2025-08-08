@@ -1,0 +1,63 @@
+{
+  "concept_id": "5651",
+  "concept_data": {
+    "title": "heredity",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "genetics",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"heredity,\" redirected to \"genetics,\" encompasses the study of genetic transmission and variation, crucial for biodiversity and species propagation. In EU regulatory frameworks, particularly regarding animal health, the understanding of genotypes is vital for managing transmissible spongiform encephalopathies (TSEs) like BSE and scrapie. Regulations often favour equitable sourcing and the preservation of breeds, ensuring genetic resistance to infections. Collaborative efforts, such as those with the FAO and CBD, aim to enhance genetic diversity and unity among ruminant populations. The deposition of genetic material and diagnostic techniques are routinely employed to monitor and challenge emerging threats, ensuring a swift response to potential outbreaks.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:03.095767",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 336,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1036,
+      "selected_avg_freq": 421.6
+    },
+    "related_words": [
+      "interbull",
+      "cbd",
+      "simoultaneously",
+      "contradicted",
+      "nagoya",
+      "deposition",
+      "genotypes",
+      "prion",
+      "arr",
+      "fear",
+      "ssc",
+      "orally",
+      "characters",
+      "collaborating",
+      "sourcing",
+      "propagation",
+      "favours",
+      "scrapie",
+      "breed",
+      "ruminant",
+      "biodiversity",
+      "challenged",
+      "tse",
+      "provenance",
+      "breeds",
+      "infections",
+      "unity",
+      "rome",
+      "genetically",
+      "endeavour"
+    ],
+    "prompt_length": 1713,
+    "category": "3606 natural and applied sciences"
+  }
+}

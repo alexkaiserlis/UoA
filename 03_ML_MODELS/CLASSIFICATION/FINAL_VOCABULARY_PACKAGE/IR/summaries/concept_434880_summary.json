@@ -1,0 +1,63 @@
+{
+  "concept_id": "434880",
+  "concept_data": {
+    "title": "EU Emissions Trading Scheme",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU Emissions Trading Scheme (ETS) is a cornerstone of the EU's environmental policy, designed to reduce greenhouse gas emissions through a market-based approach. It involves tradable allowances auctioned by auctioneers, where bidders can procure emissions rights. The scheme manifests a regulatory framework that challenges emitters to lower their carbon footprints, thereby mitigating leakage in various subsectors. Auctioning processes are organised to ensure transparency, disclosing information about allowances and cancellations. The ETS incorporates intangible assets, allowing for the trading of emissions credits, which can be disaggregated into smaller units, such as pellets or flakes, facilitating participation from diverse industrial sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:51:29.761413",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 596,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 379,
+      "selected_avg_freq": 154.64
+    },
+    "related_words": [
+      "crankshafts",
+      "anwil",
+      "cuf",
+      "industriais",
+      "arkema",
+      "tradable",
+      "auctioneer",
+      "auctioneers",
+      "eex",
+      "cranks",
+      "camshafts",
+      "cancellations",
+      "shafts",
+      "organises",
+      "bidders",
+      "forged",
+      "challenging",
+      "quimicos",
+      "webpage",
+      "plaster",
+      "auctioned",
+      "calendars",
+      "disclosing",
+      "procuring",
+      "auctioning",
+      "insider",
+      "emitters",
+      "flakes",
+      "inaccessible",
+      "disaggregated"
+    ],
+    "prompt_length": 1703,
+    "category": "5206 environmental policy"
+  }
+}

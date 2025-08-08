@@ -1,0 +1,63 @@
+{
+  "concept_id": "3268",
+  "concept_data": {
+    "title": "unit price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"unit price\" in EU legal and regulatory contexts refers to a transparent and unambiguous pricing mechanism that facilitates comparisons among goods and services. Customarily expressed per kilogramme, litre, or cubic metre, it supports businesses in making informed choices without confusion. This pricing standardisation is crucial for ensuring healthy competition, particularly in sectors like retail and bulk commodities, such as bananas from Guadeloupe and Martinique. By employing degressive pricing strategies, suppliers can optimize their offerings while compensating for unloading and packing costs. Hitherto, regulatory advances have aimed to shed light on unit price variations, ensuring that consumers can easily glean necessary information and refrain from overly complex comparisons.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:23:39.662470",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 327,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1293,
+      "selected_avg_freq": 625.12
+    },
+    "related_words": [
+      "easiest",
+      "overly",
+      "shed",
+      "gleaned",
+      "metre",
+      "customarily",
+      "kilogramme",
+      "unambiguous",
+      "cubic",
+      "unloaded",
+      "ranges",
+      "square",
+      "choices",
+      "abandon",
+      "homogenous",
+      "compare",
+      "healthy",
+      "martinique",
+      "banana",
+      "unloading",
+      "litre",
+      "guadeloupe",
+      "degressive",
+      "waive",
+      "compensated",
+      "comparisons",
+      "bananas",
+      "packing",
+      "refrain",
+      "conciliation"
+    ],
+    "prompt_length": 1659,
+    "category": "2451 prices"
+  }
+}

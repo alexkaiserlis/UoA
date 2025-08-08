@@ -1,0 +1,63 @@
+{
+  "concept_id": "717",
+  "concept_data": {
+    "title": "right to stand for election",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"right to stand for election\" is a fundamental aspect of EU citizens' rights and freedoms, ensuring that nationals can participate in the democratic process by submitting their candidacy for elections. This right entails the admissibility of candidates, who must meet specific criteria, including residency and age requirements. Disqualification may occur due to legal barriers, such as prior criminal convictions, which can lead to the deprivation of this right. The process involves formal nominations and the certifying of candidates, with electoral rolls confirming eligibility. The EU Charter emphasizes the importance of exercising this right without unjustified restrictions, thereby promoting democratic representation and accountability among elected legislators.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:37.454909",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 274,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1389,
+      "selected_avg_freq": 716.1733333333333
+    },
+    "related_words": [
+      "disqualification",
+      "candidacy",
+      "substitutions",
+      "deletions",
+      "deprivation",
+      "legislator",
+      "municipal",
+      "citizen",
+      "precluded",
+      "roll",
+      "residing",
+      "elected",
+      "explaining",
+      "birth",
+      "rejecting",
+      "elections",
+      "admissibility",
+      "vote",
+      "deprived",
+      "drew",
+      "attestation",
+      "nomination",
+      "barrier",
+      "candidates",
+      "residence",
+      "candidate",
+      "explanatory",
+      "additions",
+      "exercising",
+      "certifying"
+    ],
+    "prompt_length": 1740,
+    "category": "1236 rights and freedoms"
+  }
+}

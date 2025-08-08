@@ -1,0 +1,63 @@
+{
+  "concept_id": "4585",
+  "concept_data": {
+    "title": "value added tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "VAT",
+    "relation_type": "USE"
+  },
+  "summary": "Value Added Tax (VAT), a pivotal element in EU taxation, is designed to harmonize tax systems across member states, facilitating seamless transactions and reducing compliance burdens. This indirect tax is levied on the turnover of goods and services, allowing businesses to deduct VAT paid on inputs, thereby combating tax avoidance. The VAT framework extends to various sectors, including hospitality and gaming, where specific regulations apply to lessors and leasees. The role of commissioners is crucial in ensuring compliance and addressing issues of inoperability within VAT systems. By establishing clear guidelines, the EU aims to mitigate complications arising from undervalued transactions and enhance representational equity among member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:32.948279",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2515,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 10.846666666666666
+    },
+    "related_words": [
+      "exetending",
+      "harmanization",
+      "transactins",
+      "unted",
+      "turover",
+      "laughtons",
+      "commissioners",
+      "habe",
+      "resund",
+      "aversely",
+      "deducts",
+      "representational",
+      "hospitality",
+      "caretaking",
+      "gaming",
+      "leasehold",
+      "lessors",
+      "multipart",
+      "connivance",
+      "complicity",
+      "leasee",
+      "neisse",
+      "guben",
+      "gubinek",
+      "forgoes",
+      "estimatates",
+      "ueberlassung",
+      "instandhaltung",
+      "endstelleneinrichtungen",
+      "bundespost"
+    ],
+    "prompt_length": 1715,
+    "category": "2446 taxation"
+  }
+}

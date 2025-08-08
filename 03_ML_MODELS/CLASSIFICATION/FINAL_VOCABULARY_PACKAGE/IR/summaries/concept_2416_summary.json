@@ -1,0 +1,63 @@
+{
+  "concept_id": "2416",
+  "concept_data": {
+    "title": "root crop",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"root crop\" refers to a category of plant products essential for agricultural cooperations and food security. This includes various cultivars such as tuberosum and chufa, which are valued for their nutritional and economic benefits. Regulatory frameworks oversee the gradings and classifications of these crops, ensuring quality and safety standards. The cultivation of specific species, like allium and solanum, is regulated to prevent diseases, including those caused by pathogens like clavibacter michiganensis and epitrix cucumeris. Additionally, the fluidity of market arrangements for root crops, including their display and unloading processes, is crucial for maintaining an unchanging supply chain. The inclusion of rare species such as fritillaria and chionodoxa enriches biodiversity, contributing to the beauty and ecological balance of agricultural landscapes.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:28:54.044835",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 727,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 373,
+      "selected_avg_freq": 146.92
+    },
+    "related_words": [
+      "cooperations",
+      "chufa",
+      "fallling",
+      "gradings",
+      "anemone",
+      "coronaria",
+      "chionodoxa",
+      "endymion",
+      "fritillaria",
+      "puschkinia",
+      "tigridia",
+      "triteleia",
+      "scilla",
+      "atrocaerulea",
+      "beauty",
+      "epitrix",
+      "cucumeris",
+      "similaris",
+      "gentner",
+      "subcrinita",
+      "lec",
+      "tuberis",
+      "cultivar",
+      "unchanging",
+      "sibirica",
+      "cultivars",
+      "harris",
+      "corms",
+      "essentials",
+      "spieckerman"
+    ],
+    "prompt_length": 1683,
+    "category": "6006 plant product"
+  }
+}

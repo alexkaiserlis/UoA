@@ -1,0 +1,63 @@
+{
+  "concept_id": "85",
+  "concept_data": {
+    "title": "social situation",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"social situation\" within the EU legal framework encompasses the diverse challenges faced by populations, particularly in underdeveloped and rural areas, such as Mayotte. It addresses the need for concertation among stakeholders, including UEAPME, BusinessEurope, and ETUC, to assist disadvantaged inhabitants. The TFEU emphasizes the importance of progressively improving social conditions, particularly in regions characterized by remoteness and insularity. Committees may seek to draw attention to the social crisis affecting fisheries and aquaculture sectors, while considering the topography and demographics of these areas. The EU aims to cease destabilising factors and progressively enhance the quality of life for all citizens, ensuring that priorities are met through collaborative efforts.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:45:30.120042",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 211,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 2534,
+      "selected_avg_freq": 1175.7666666666667
+    },
+    "related_words": [
+      "destabilise",
+      "ueapme",
+      "businesseurope",
+      "underdeveloped",
+      "ceep",
+      "etuc",
+      "topography",
+      "iib",
+      "concertation",
+      "parental",
+      "insularity",
+      "mayotte",
+      "inhabitants",
+      "remoteness",
+      "iia",
+      "genuinely",
+      "disadvantaged",
+      "draws",
+      "nuts",
+      "outermost",
+      "leave",
+      "assent",
+      "climate",
+      "facing",
+      "listing",
+      "concentrated",
+      "tfeu",
+      "seriously",
+      "seek",
+      "progressively"
+    ],
+    "prompt_length": 1682,
+    "category": "2821 social framework"
+  }
+}

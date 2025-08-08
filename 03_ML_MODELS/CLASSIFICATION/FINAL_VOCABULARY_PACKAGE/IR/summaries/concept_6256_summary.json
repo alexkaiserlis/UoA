@@ -1,0 +1,63 @@
+{
+  "concept_id": "6256",
+  "concept_data": {
+    "title": "OLAF",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Anti-fraud Office",
+    "relation_type": "USE"
+  },
+  "summary": "The European Anti-fraud Office (OLAF) operates within the framework of EU institutions, tasked with investigating and prosecuting irregularities such as corruption and counterfeiting, particularly concerning EU funds and banknotes. OLAF's mandate includes advising legislators and councils on reinforcing anti-fraud measures, while ensuring the inviolability of its archives and maintaining secrecy around ongoing investigations. The office conducts interventions and transmits complaints to relevant authorities, acting as a prosecutor against dereliction of duty by EU servants. OLAF's headquarters coordinate with supervisors and senior managers to implement prudential measures, safeguarding the integrity of the European civil service and its privileges.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:01:32.685740",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 443,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 759,
+      "selected_avg_freq": 347.6
+    },
+    "related_words": [
+      "prosecutor",
+      "dereliction",
+      "servant",
+      "circumscribed",
+      "privilege",
+      "archives",
+      "inviolability",
+      "pericles",
+      "suspicions",
+      "disciplinary",
+      "legislator",
+      "supervisors",
+      "advising",
+      "attach",
+      "olaf",
+      "corruption",
+      "prosecution",
+      "counterfeiting",
+      "banknotes",
+      "disclose",
+      "headquarters",
+      "senior",
+      "managers",
+      "exchanging",
+      "prudential",
+      "immunities",
+      "fighting",
+      "secrecy",
+      "diplomatic",
+      "escb"
+    ],
+    "prompt_length": 1805,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1690",
+  "concept_data": {
+    "title": "residential building",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "housing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"residential building,\" redirected to the preferred term \"housing,\" encompasses various legal and regulatory frameworks within the EU, particularly in construction and town planning. This term is crucial for understanding methodologies related to the collection and dissemination of data, such as censuses and Eurostat reports, which fostered accountability and integrity in housing policies. The periodic scrutiny of housing conditions ensures objectivity and impartiality in assessing accommodation needs. Furthermore, councils are tasked with enhancing mobility and cohesion through lawful housing practices, while maintaining confidentiality and reliability in the data posted. This concept is integral to the EU's commitment to subsidiarity and the independence of its officials in addressing family housing issues.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:05.019398",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 251,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 1806,
+      "selected_avg_freq": 816.5933333333334
+    },
+    "related_words": [
+      "overviews",
+      "posting",
+      "fostered",
+      "metadata",
+      "censuses",
+      "posted",
+      "rent",
+      "impair",
+      "objectivity",
+      "accommodation",
+      "impartiality",
+      "logical",
+      "enhancement",
+      "disseminated",
+      "methodological",
+      "accountability",
+      "rotation",
+      "unlawful",
+      "councils",
+      "methodologies",
+      "servants",
+      "seats",
+      "housing",
+      "compilation",
+      "mobility",
+      "confidential",
+      "independence",
+      "integrity",
+      "faced",
+      "eurostat"
+    ],
+    "prompt_length": 1784,
+    "category": "2846 construction and town planning"
+  }
+}

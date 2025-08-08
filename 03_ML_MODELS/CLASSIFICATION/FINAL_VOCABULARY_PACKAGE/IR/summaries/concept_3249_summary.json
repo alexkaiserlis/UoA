@@ -1,0 +1,63 @@
+{
+  "concept_id": "3249",
+  "concept_data": {
+    "title": "work-related accident insurance",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "occupational accident insurance",
+    "relation_type": "USE"
+  },
+  "summary": "\"Work-related accident insurance,\" also known as \"occupational accident insurance,\" is a critical component of social protection within the EU legal framework. Established under various regulations, this insurance aims to provide emoluments to workers who suffer injuries during the course of their employment. The European Commission, in collaboration with member states, has appointed authorities to determine the specific coverage and benefits. This insurance is governed by treaties and regulations that ceased to evolve under the former EEC framework, now integrated into the broader context of economic communities. The official journal of the EU regularly publishes updates on relevant regulations, ensuring compliance with the high standards set forth by Euratom and the energy sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:17.634865",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 30,
+      "requested_words": 150,
+      "min_frequency_found": 58,
+      "max_frequency_found": 4108,
+      "selected_words": 30,
+      "selected_min_freq": 58,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2126.366666666667
+    },
+    "related_words": [
+      "emoluments",
+      "eaec",
+      "commissions",
+      "hold",
+      "ceased",
+      "appointed",
+      "atomic",
+      "former",
+      "office",
+      "energy",
+      "euratom",
+      "determining",
+      "authority",
+      "determine",
+      "members",
+      "single",
+      "high",
+      "july",
+      "eec",
+      "economic",
+      "communities",
+      "journal",
+      "official",
+      "regulation",
+      "community",
+      "establishing",
+      "commission",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1528,
+    "category": "2836 social protection"
+  }
+}

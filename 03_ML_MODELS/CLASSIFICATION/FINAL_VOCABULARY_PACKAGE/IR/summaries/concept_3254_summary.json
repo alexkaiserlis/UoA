@@ -1,0 +1,63 @@
+{
+  "concept_id": "3254",
+  "concept_data": {
+    "title": "general budget",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"general budget\" of the European Union constitutes a multiannual financial framework that establishes the budgetary discipline necessary for sound management of resources. It is an instrument containing revenue and expenditure proposals submitted by the Commission, examined and adopted by the Parliament and the Council. This budget, established pursuant to interinstitutional agreements, defines the financial position of the Union for each year, ensuring consistency with applicable regulations. The absence of a budget can disrupt the functioning of the Union, affecting various sectors, including energy and Euratom. The official journal publishes decisions related to the budget, reinforcing transparency and accountability within the communities.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:07.812809",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 379,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 379,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2069.2075471698113
+    },
+    "related_words": [
+      "revenue",
+      "side",
+      "discipline",
+      "interinstitutional",
+      "multiannual",
+      "defining",
+      "atomic",
+      "instrument",
+      "budgetary",
+      "sound",
+      "containing",
+      "budget",
+      "examined",
+      "adopting",
+      "absence",
+      "consistent",
+      "expenditure",
+      "energy",
+      "euratom",
+      "own",
+      "constitutes",
+      "draft",
+      "resources",
+      "conjunction",
+      "currently",
+      "position",
+      "management",
+      "submitted",
+      "financial",
+      "year"
+    ],
+    "prompt_length": 1705,
+    "category": "2436 public finance and budget policy"
+  }
+}

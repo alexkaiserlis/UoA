@@ -1,0 +1,26 @@
+{
+  "concept_id": "1307",
+  "concept_data": {
+    "title": "business location",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"business location\" pertains to the geographical site where a business operates, which is crucial in the context of EU legal and regulatory frameworks. It influences various aspects such as taxation, compliance with local laws, and access to markets. The choice of business location can affect a company's competitive advantage and operational efficiency. Additionally, EU regulations may impose specific requirements on businesses based on their location, impacting areas like environmental standards and labor laws. Understanding the implications of business location is essential for organizations seeking to navigate the complexities of the EU single market effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:45:55.183931",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1178,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2962",
+  "concept_data": {
+    "title": "raisin",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "dried product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"raisin\" is redirected to the preferred term \"dried product,\" encompassing various dehydrated fruits, including currants and muscatels. These foodstuffs, often used as condiments or in culinary applications, must adhere to strict regulations regarding quality and safety. The EU's framework ensures that products like pitted prunes and passas meet standards for biodegrading and protective packaging. Additionally, the classification of dried products includes diverse varieties such as the boreogadus and the unique atina. Regulatory bodies conduct stocktaking to monitor compliance, ensuring that all products, including those derived from stevia rebaudiana, are safe for consumption.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:04.581766",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1491,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 72,
+      "selected_avg_freq": 23.813333333333333
+    },
+    "related_words": [
+      "biodegrading",
+      "stackable",
+      "plaintains",
+      "boreogadus",
+      "saida",
+      "currant",
+      "jugdment",
+      "cannellino",
+      "atina",
+      "ξηρά",
+      "σύκα",
+      "ταξιάρχη",
+      "xira",
+      "syka",
+      "taxiarchi",
+      "pylias",
+      "bern",
+      "repuced",
+      "moscatel",
+      "condiment",
+      "tørrfisk",
+      "lofoten",
+      "stevia",
+      "rebaudiana",
+      "bertoni",
+      "geuns",
+      "pluri",
+      "korczyńska",
+      "pasas",
+      "fagiolo"
+    ],
+    "prompt_length": 1645,
+    "category": "6026 foodstuff"
+  }
+}

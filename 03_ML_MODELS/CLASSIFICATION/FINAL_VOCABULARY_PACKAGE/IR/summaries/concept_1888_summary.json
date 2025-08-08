@@ -1,0 +1,63 @@
+{
+  "concept_id": "1888",
+  "concept_data": {
+    "title": "slaughter animal",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"slaughter animal\" refers to livestock designated for processing in abattoirs, where regulations ensure humane treatment and minimize cruelty. In the EU, compliance with veterinary standards is critical, encompassing aspects such as stunning methods to prevent suffering. The concept intersects with public health (volksgezondheid) and food safety (verbraucherschutz), necessitating rigorous monitoring of diseases like piroplasmosis and seropositive conditions in equi and caballi species. Regulatory bodies, including the bundesgesundheitsamt and rijksinstituut, oversee the conveyance and residency of these animals, ensuring adherence to hygiene (milieuhygiene) and medication protocols, including the use of sulphonamides. Additionally, religious rites and cultural practices must be respected within legal frameworks, reflecting the EU's commitment to diverse societal values.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:02.013587",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 596,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 431,
+      "selected_avg_freq": 169.08
+    },
+    "related_words": [
+      "cruelty",
+      "rites",
+      "markedet",
+      "coggins",
+      "volksgezonderheid",
+      "refrigerating",
+      "piroplasmosis",
+      "equi",
+      "caballi",
+      "shortlasting",
+      "seronegativity",
+      "bundesgesundheitsamt",
+      "routines",
+      "conveyance",
+      "residency",
+      "milieuhygiene",
+      "médicaments",
+      "fougères",
+      "superiore",
+      "sanità",
+      "veterinaermedizin",
+      "sulphonamides",
+      "roma",
+      "gesundheitlichen",
+      "verbraucherschutz",
+      "caddia",
+      "stunning",
+      "religious",
+      "abattoirs",
+      "bundesinstitut"
+    ],
+    "prompt_length": 1777,
+    "category": "5631 agricultural activity"
+  }
+}

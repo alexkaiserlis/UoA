@@ -1,0 +1,63 @@
+{
+  "concept_id": "4218",
+  "concept_data": {
+    "title": "sulphur",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sulphur\" is critical within the EU's regulatory framework, particularly concerning coal and mining industries. Sulphur compounds, including sulphuric dioxides, contribute to acidification and ecosystem degradation, necessitating stringent desulphurization measures. The EU prioritises reducing exceedances of sulphur emissions, particularly from marine bunkers and kerosenes, to mitigate their impact on air quality and sediment deposition in estuaries. Regulatory bodies negotiate standards that influence emissions from coal combustion, thereby optimising environmental protection. Monitoring programmes, such as the European Monitoring and Evaluation Programme (EMEP), map sulphur levels, ensuring compliance with legal thresholds and addressing exceedances that depress local ecosystems and public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:34.873960",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1155,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 177,
+      "selected_avg_freq": 82.98
+    },
+    "related_words": [
+      "eshaust",
+      "kerosenes",
+      "outstrips",
+      "dockside",
+      "attica",
+      "squares",
+      "exceedances",
+      "exceedance",
+      "prioritise",
+      "boil",
+      "propelling",
+      "emep",
+      "dioxides",
+      "negotiates",
+      "mapping",
+      "cce",
+      "rejoin",
+      "sulphuric",
+      "soap",
+      "deposition",
+      "didecyldimethylammonium",
+      "depress",
+      "refusals",
+      "berth",
+      "desulphurization",
+      "dwelling",
+      "noticeably",
+      "bunker",
+      "difenacoum",
+      "passes"
+    ],
+    "prompt_length": 1692,
+    "category": "6611 coal and mining industries"
+  }
+}

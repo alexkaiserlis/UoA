@@ -1,0 +1,63 @@
+{
+  "concept_id": "3316",
+  "concept_data": {
+    "title": "parental responsibility",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Parental responsibility, a concept governed by EU law, pertains to the rights and duties of parents towards their children, particularly in the context of marriage and family law. It is essential for ensuring the welfare of children and is often enforced through judicial tribunals. In matters of parental responsibility, courts retain exclusive jurisdiction to adjudicate disputes, with enforceability of judgments being a priority. The Hague Convention plays a significant role in international cases, as it facilitates cooperation among acceding states. This framework allows for the redress of issues related to parental rights, ensuring that children’s interests are prioritized across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:27:18.869590",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 219,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2257,
+      "selected_avg_freq": 1025.58
+    },
+    "related_words": [
+      "marriage",
+      "concordats",
+      "canonical",
+      "marriages",
+      "ecclesiastical",
+      "enumerate",
+      "holy",
+      "spouses",
+      "matrimonial",
+      "tribunals",
+      "enforceability",
+      "invalidity",
+      "enforceable",
+      "parental",
+      "redress",
+      "appeals",
+      "sovereign",
+      "hague",
+      "ratify",
+      "enforced",
+      "valuable",
+      "acceding",
+      "courts",
+      "judgments",
+      "sign",
+      "secondary",
+      "children",
+      "accede",
+      "mention",
+      "judicial"
+    ],
+    "prompt_length": 1680,
+    "category": "2806 family"
+  }
+}

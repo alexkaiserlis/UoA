@@ -1,0 +1,63 @@
+{
+  "concept_id": "6699",
+  "concept_data": {
+    "title": "gas field",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"gas field\" within EU energy policy encompasses offshore installations critical for natural gas extraction and production. These installations face various risks, including environmental hazards and accidents, which necessitate robust preventive measures and transparency in reporting. The EU emphasizes the sharing of lessons learned and indicators of performance to enhance the integrity and effectiveness of gas field operations. Periodically published comparisons and assessments aim to minimise the deterioration of safety standards and build public confidence. Moreover, cross-border cooperation is essential to address the challenges posed by unreliable energy sources and to develop advanced strategies for environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:11.242658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 119,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 119,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1597.453781512605
+    },
+    "related_words": [
+      "misses",
+      "lessons",
+      "learned",
+      "offshore",
+      "unreliable",
+      "easy",
+      "environmentally",
+      "warning",
+      "hazard",
+      "periodically",
+      "accidents",
+      "rendered",
+      "integrity",
+      "minimise",
+      "owners",
+      "indicators",
+      "installations",
+      "critical",
+      "publicly",
+      "preventive",
+      "confidence",
+      "dissemination",
+      "sharing",
+      "advanced",
+      "marine",
+      "format",
+      "deterioration",
+      "near",
+      "publish",
+      "gas"
+    ],
+    "prompt_length": 1681,
+    "category": "6606 energy policy"
+  }
+}

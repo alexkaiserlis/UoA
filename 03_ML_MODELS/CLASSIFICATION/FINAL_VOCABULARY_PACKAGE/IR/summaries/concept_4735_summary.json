@@ -1,0 +1,63 @@
+{
+  "concept_id": "4735",
+  "concept_data": {
+    "title": "river canal",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "inland waterway",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"river canal,\" categorized under maritime and inland waterway transport, is a redirect to the preferred term \"inland waterway.\" This term encompasses a network of waterways that are crucial for the carriage of goods and passengers, thereby improving transport efficiency. In EU regulatory frameworks, inland waterways are subject to intercalibration and standardised specifications to ensure comparability across member states. The creation of harmonised networks facilitates the monitoring of transport modes, empowering authorities to achieve regulatory objectives. Additionally, the promotion of inland waterway transport corresponds with principles of subsidiarity and proportionality, ensuring that deadlines for compliance are practicable and transparent.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:24.303102",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 194,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2759,
+      "selected_avg_freq": 1322.8066666666666
+    },
+    "related_words": [
+      "intercalibration",
+      "fullest",
+      "waterways",
+      "domain",
+      "mode",
+      "modes",
+      "improves",
+      "concepts",
+      "practicable",
+      "transposed",
+      "returns",
+      "inland",
+      "standardised",
+      "trans",
+      "deleting",
+      "sites",
+      "carriage",
+      "comparability",
+      "delete",
+      "extends",
+      "networks",
+      "paper",
+      "white",
+      "scrutiny",
+      "corresponds",
+      "subsidiarity",
+      "deadlines",
+      "exists",
+      "empowered",
+      "network"
+    ],
+    "prompt_length": 1755,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

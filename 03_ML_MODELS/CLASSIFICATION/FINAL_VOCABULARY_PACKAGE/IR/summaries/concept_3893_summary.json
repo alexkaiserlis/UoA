@@ -1,0 +1,63 @@
+{
+  "concept_id": "3893",
+  "concept_data": {
+    "title": "natural fibre",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"natural fibre\" pertains to materials derived from plants or animals, crucial in the leather and textile industries. In EU regulatory frameworks, natural fibres, such as cotton and elastolefin, are subject to thorough scrutiny to ensure compliance with standards that prevent damaging practices, such as dumping. Complainants from countries like Pakistan and India have alleged that subsidized fibres from regions like Brazil and Thailand are unfairly competing in the market. The EU undertook hearings to address these complaints, aiming to terminate any damaging trade practices. Accurate labelling of fabrics and mixtures is essential for transparency and consumer protection, ensuring that all parties are mutually accorded fair treatment in this complex regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:20.868968",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 384,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 969,
+      "selected_avg_freq": 509.55333333333334
+    },
+    "related_words": [
+      "elastolefin",
+      "eurocoton",
+      "binary",
+      "allied",
+      "woven",
+      "fabric",
+      "fabrics",
+      "allegedly",
+      "deflection",
+      "pakistan",
+      "complainants",
+      "shipped",
+      "damaging",
+      "mutually",
+      "cotton",
+      "fibres",
+      "indonesia",
+      "detect",
+      "withdrew",
+      "thorough",
+      "benelux",
+      "generalized",
+      "complainant",
+      "thailand",
+      "gathered",
+      "label",
+      "subsidized",
+      "fibre",
+      "mixtures",
+      "india"
+    ],
+    "prompt_length": 1676,
+    "category": "6841 leather and textile industries"
+  }
+}

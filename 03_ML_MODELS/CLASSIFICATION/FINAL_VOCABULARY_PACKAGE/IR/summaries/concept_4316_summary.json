@@ -1,0 +1,63 @@
+{
+  "concept_id": "4316",
+  "concept_data": {
+    "title": "raw sugar",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"raw sugar\" refers to unrefined sugar derived from sugarcane or sugar beet, which undergoes a refining process to produce granulate sugar. The regulation of raw sugar encompasses various aspects, including its equalization in trade practices and compliance with sustainability standards. Notably, refiners must adhere to specific subparagraphs in trade agreements to avoid penalties for subpararaph violations. Additionally, the scheduling of shipments in lorries and waggons is crucial for managing quantities and ensuring that the product remains undenatured during transport. The community's efforts to reactivate local production aim to benefit the economy while addressing unforeseen challenges, such as supply ruptures caused by natural disasters like cyclones. Overall, raw sugar plays a significant role in the EU's beverage sector, influencing market dynamics and regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:11:35.579621",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 1471,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 119,
+      "selected_avg_freq": 58.653333333333336
+    },
+    "related_words": [
+      "ald",
+      "refinining",
+      "ission",
+      "waggons",
+      "refiner",
+      "subpararaph",
+      "refinettes",
+      "limitted",
+      "penality",
+      "reducd",
+      "rupture",
+      "equalise",
+      "unforseeable",
+      "equalising",
+      "comm",
+      "cacao",
+      "tshe",
+      "caseinate",
+      "belated",
+      "lading",
+      "sustainably",
+      "cyclone",
+      "candy",
+      "pectin",
+      "attributing",
+      "răšunion",
+      "likened",
+      "unpacked",
+      "undenatured",
+      "elapses"
+    ],
+    "prompt_length": 1673,
+    "category": "6021 beverages and sugar"
+  }
+}

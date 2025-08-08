@@ -1,0 +1,63 @@
+{
+  "concept_id": "3295",
+  "concept_data": {
+    "title": "distribution of aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"distribution of aid\" within the EU's cooperation policy framework encompasses the allocation of financial resources to support various regions, including those like Norrlandskusten and Ångermanlandskusten, which may require targeted assistance. This process is vital for addressing disparities in areas such as Götaland and Örebro, ensuring that inhabited regions like Västerbotten and Norrbotten receive necessary support. Aid distribution is often influenced by geographic factors, with specific attention to regions like Jämtland and Västernorrland. Legal frameworks guide the equitable distribution to ensure that municipalities, such as Luleå and Umeå, benefit from EU initiatives, fostering sustainable development across diverse landscapes, including the lakes of Vänern and Vättern.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:10.865294",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1176,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 21.56
+    },
+    "related_words": [
+      "bergslagen",
+      "norrlandskusten",
+      "ångermanlandskusten",
+      "fyrstad",
+      "västra",
+      "örebro",
+      "götaland",
+      "skogslänen",
+      "jämtland",
+      "västernorrland",
+      "ljusdal",
+      "malung",
+      "älvdalen",
+      "venjan",
+      "öarna",
+      "gotland",
+      "inhabited",
+      "vänern",
+      "vättern",
+      "hjälmaren",
+      "mälaren",
+      "ostrobothnia",
+      "pirkanmaa",
+      "norrbotten",
+      "västerbotten",
+      "jämtlands",
+      "län",
+      "norrbottens",
+      "västerbottens",
+      "västernorrlands"
+    ],
+    "prompt_length": 1731,
+    "category": "0811 cooperation policy"
+  }
+}

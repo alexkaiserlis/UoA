@@ -1,0 +1,63 @@
+{
+  "concept_id": "6320",
+  "concept_data": {
+    "title": "fuel crop",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "energy crop",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"fuel crop\" is a redirect to \"energy crop,\" which is categorized under agricultural activity within EU regulations. Energy crops are specifically cultivated for energy production, and their management is governed by detailed regulations that establish eligibility for various support schemes. Farmers can claim payments based on the area of land dedicated to these crops, with a maximum amount fixed proportionately to production levels. The latest communications from the EU emphasize the importance of reducing raw material dependency and enhancing energy efficiency. Consequently, farmers are encouraged to adopt energy crops, which are eligible for aid that supports sustainable agricultural practices and contributes to overall policy objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:04.753674",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 86,
+      "requested_words": 150,
+      "min_frequency_found": 87,
+      "max_frequency_found": 4108,
+      "selected_words": 86,
+      "selected_min_freq": 87,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2146.9883720930234
+    },
+    "related_words": [
+      "iva",
+      "proportionately",
+      "farmer",
+      "titles",
+      "aside",
+      "coefficient",
+      "crops",
+      "claimed",
+      "communications",
+      "exceeds",
+      "farmers",
+      "guaranteed",
+      "raw",
+      "land",
+      "communicated",
+      "fix",
+      "materials",
+      "latest",
+      "payments",
+      "schemes",
+      "fixing",
+      "energy",
+      "establishes",
+      "eligible",
+      "per",
+      "direct",
+      "reduced",
+      "reduction",
+      "aid",
+      "maximum"
+    ],
+    "prompt_length": 1656,
+    "category": "5631 agricultural activity"
+  }
+}

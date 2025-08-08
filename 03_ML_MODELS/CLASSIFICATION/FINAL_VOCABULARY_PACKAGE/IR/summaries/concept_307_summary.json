@@ -1,0 +1,26 @@
+{
+  "concept_id": "307",
+  "concept_data": {
+    "title": "criminology",
+    "category_code": "3611",
+    "category_name": "humanities",
+    "category_full": "3611 humanities",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Criminology, as a discipline within the humanities, examines the complex interplay between crime, societal norms, and legal frameworks. In the context of EU legal and regulatory documents, criminology informs policies aimed at crime prevention, rehabilitation, and the administration of justice. It encompasses various methodologies, including qualitative and quantitative analyses, to understand criminal behavior and its impact on communities. The insights derived from criminological research are vital for shaping EU legislation, enhancing cooperation among member states in combating transnational crime, and ensuring the protection of fundamental rights. Thus, criminology serves as a foundational element in the development of effective legal responses to crime within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:13.169219",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1161,
+    "category": "3611 humanities"
+  }
+}

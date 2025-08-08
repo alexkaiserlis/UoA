@@ -1,0 +1,63 @@
+{
+  "concept_id": "6749",
+  "concept_data": {
+    "title": "entrepreneurship",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Entrepreneurship within the EU legal and regulatory framework emphasizes the necessity of fostering innovative ventures, particularly among SMEs and micro-enterprises. The ECIP and NIS initiatives aim to enhance the performance of actors in the biotech and sciences sectors, promoting transnational collaboration and dialogue. By reforming existing regulations, the EU seeks to overcome barriers faced by entrepreneurs, particularly in CEECs, where expectations for job creation and economic scaling are high. The emphasis on careful observance of horizontal policies ensures that funding mechanisms, such as ETFs, effectively support innovative projects. Ultimately, the goal is to create a reality where entrepreneurship thrives, driving economic growth and job creation across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:49:37.636049",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 332,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1012,
+      "selected_avg_freq": 514.8266666666667
+    },
+    "related_words": [
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "jev",
+      "jop",
+      "ceecs",
+      "ups",
+      "biotechnologies",
+      "nis",
+      "scaled",
+      "etf",
+      "performs",
+      "sme",
+      "reforming",
+      "entrepreneurship",
+      "sciences",
+      "venture",
+      "ventures",
+      "careful",
+      "latin",
+      "failures",
+      "intermediaries",
+      "losing",
+      "barcelona",
+      "transnational",
+      "money",
+      "craft",
+      "reality",
+      "actors",
+      "asia"
+    ],
+    "prompt_length": 1649,
+    "category": "4006 business organisation"
+  }
+}

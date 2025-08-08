@@ -1,0 +1,63 @@
+{
+  "concept_id": "3772",
+  "concept_data": {
+    "title": "diesel oil",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "diesel fuel",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"diesel oil\" is a redirect to the preferred term \"diesel fuel,\" which encompasses various specifications for this essential product in the oil industry. The regulation of diesel fuel involves complex practicalities, including the neutralization of harmful emissions and the decolourization of the fuel to meet environmental standards. The EU's commitment to renewables has prompted a shift towards cleaner alternatives, impacting the market dynamics reflected in Nymex and Brent pricing. Additionally, the arduous process of ensuring compliance with EU directives includes monitoring the percolation of pollutants and the use of additives like antifreeze. This regulatory framework aims to balance economic efficiency with environmental protection, reminding stakeholders of their responsibilities in the broader context of sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:10:40.555691",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 1687,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 63,
+      "selected_avg_freq": 23.66
+    },
+    "related_words": [
+      "neutralization",
+      "percolation",
+      "decolourization",
+      "bauxite",
+      "postcode",
+      "northumberland",
+      "argyll",
+      "bute",
+      "hawes",
+      "antifreeze",
+      "detours",
+      "statistique",
+      "economiques",
+      "insee",
+      "reminding",
+      "smoothing",
+      "denies",
+      "arduous",
+      "momentarily",
+      "repetitively",
+      "abundantly",
+      "ipe",
+      "nymex",
+      "barge",
+      "brent",
+      "sullom",
+      "voe",
+      "eshaust",
+      "kerosenes",
+      "colder"
+    ],
+    "prompt_length": 1710,
+    "category": "6616 oil industry"
+  }
+}

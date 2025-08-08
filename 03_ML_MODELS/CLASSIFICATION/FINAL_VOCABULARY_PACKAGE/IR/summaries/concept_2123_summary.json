@@ -1,0 +1,63 @@
+{
+  "concept_id": "2123",
+  "concept_data": {
+    "title": "European Patent Office",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Patent Office (EPO) is a centralised authority that furthers the protection of intellectual property rights across EU member states through the granting of patents. It plays a pivotal role in fostering innovation by providing a unitary patent system, which simplifies the filing process and reduces territorial barriers. The EPO reinforces the legal framework by ensuring translations are available in multiple languages, thus respecting linguistic diversity. This institution also addresses disputes related to patents, seeking to maintain unanimity among member states. By distributing knowledge and resources, the EPO aims to enhance competences in patent law, thereby supporting the acquis communautaire and promoting a simple, effective approach to intellectual property across borders.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:49:03.955855",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 330,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1091,
+      "selected_avg_freq": 551.3666666666667
+    },
+    "related_words": [
+      "epo",
+      "furthers",
+      "proprietor",
+      "unitary",
+      "patents",
+      "insurmountable",
+      "translations",
+      "reinforces",
+      "filing",
+      "unanimity",
+      "protects",
+      "patent",
+      "unaffected",
+      "centralised",
+      "filed",
+      "resort",
+      "distributing",
+      "translation",
+      "fostering",
+      "ahead",
+      "teu",
+      "machine",
+      "compromise",
+      "wished",
+      "willing",
+      "attaining",
+      "barrier",
+      "purely",
+      "intellectual",
+      "presidency"
+    ],
+    "prompt_length": 1697,
+    "category": "7611 European organisations"
+  }
+}

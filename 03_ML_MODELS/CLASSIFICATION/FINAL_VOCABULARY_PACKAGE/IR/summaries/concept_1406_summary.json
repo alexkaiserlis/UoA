@@ -1,0 +1,63 @@
+{
+  "concept_id": "1406",
+  "concept_data": {
+    "title": "dairy industry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"dairy industry\" within the EU regulatory framework encompasses a wide range of activities related to the production and distribution of dairy products, including caseine and various milk derivatives. Regulatory bodies oversee standards of calitatea (quality) to ensure compliance with EU directives. Companies like biomilk and romfulda contribute to the sector, while brands such as carmo and lact play significant roles in market dynamics. The industry also includes niche producers like harghita and bucovina, which emphasize regional specialties. Compliance with regulations such as the PDPA is crucial for entities like mlekoprodukt and agrotranscomex, ensuring that products meet safety and quality standards. The interplay of these regulations shapes the competitive landscape, influencing firms like promilch, primalact, and others in the pursuit of excellence in dairy production.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:16.564547",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 1117,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 115,
+      "selected_avg_freq": 25.313333333333333
+    },
+    "related_words": [
+      "caseine",
+      "pdpa",
+      "calitatea",
+      "biomilk",
+      "romfulda",
+      "carmo",
+      "lact",
+      "carmolact",
+      "primulact",
+      "harghita",
+      "bomilact",
+      "paulact",
+      "promilch",
+      "eurocheese",
+      "mirdatod",
+      "primalact",
+      "niro",
+      "serv",
+      "bucovina",
+      "suceava",
+      "marian",
+      "vranlact",
+      "mih",
+      "binco",
+      "nic",
+      "costi",
+      "totallact",
+      "duvadi",
+      "tocar",
+      "zada"
+    ],
+    "prompt_length": 1609,
+    "category": "6031 agri-foodstuffs"
+  }
+}

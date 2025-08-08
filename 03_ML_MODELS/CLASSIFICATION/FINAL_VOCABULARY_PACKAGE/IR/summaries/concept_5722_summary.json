@@ -1,0 +1,63 @@
+{
+  "concept_id": "5722",
+  "concept_data": {
+    "title": "wild mammal",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wild mammal\" within EU legal and regulatory frameworks encompasses various species that inhabit natural environments across member states, including regions like Rimavská, Piešť, and Hlohovec. These mammals, such as bats and the pteropus, play crucial roles in biodiversity and ecosystem stability. Regulatory measures aim to ensure their protection, particularly in areas like Banská Bystrica and Brezno, where habitats are threatened. The characterization of these species is vital for transparency in conservation efforts. Additionally, the presence of diseases, such as Nipah and Hendra, necessitates monitoring to prevent outbreaks. Efforts in regions like Varna and Trnava highlight the EU's commitment to safeguarding these vital components of the natural environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:32.390563",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 662,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 250,
+      "selected_avg_freq": 72.10666666666667
+    },
+    "related_words": [
+      "wmi",
+      "rimavská",
+      "piešť",
+      "hlohovec",
+      "banská",
+      "bystrica",
+      "brezno",
+      "žiar",
+      "hronom",
+      "žarnovica",
+      "štiavnica",
+      "karlovac",
+      "moslavina",
+      "slavonski",
+      "posavina",
+      "vukovar",
+      "srijem",
+      "trasparency",
+      "nógrád",
+      "westfalia",
+      "yambol",
+      "shumen",
+      "pteropus",
+      "incriminated",
+      "reconvalescent",
+      "characterization",
+      "trenčín",
+      "bánovce",
+      "bebravou",
+      "prievidza"
+    ],
+    "prompt_length": 1636,
+    "category": "5211 natural environment"
+  }
+}

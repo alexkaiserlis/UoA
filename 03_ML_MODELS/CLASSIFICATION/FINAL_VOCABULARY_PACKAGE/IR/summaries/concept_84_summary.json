@@ -1,0 +1,63 @@
+{
+  "concept_id": "84",
+  "concept_data": {
+    "title": "economic conditions",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"economic conditions\" within EU legal and regulatory frameworks encompasses the multifaceted factors influencing economic performance across member states. It necessitates a concerted effort to strengthen transnational networking and awareness-raising initiatives among various players. The EU recognizes the importance of sustainability and the need for coordinated responses to emerging challenges, such as climate change and urban development. Through interinstitutional resolutions and multiannual agendas, the EU aims to guide beneficiaries in undertaking responsibilities that combat economic disparities. This framework also emphasizes the principle of subsidiarity, ensuring that decisions are made at the most effective level, thereby enhancing economic output and prospects for populations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:49.620141",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 228,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2015,
+      "selected_avg_freq": 970.2866666666666
+    },
+    "related_words": [
+      "procides",
+      "relay",
+      "transfrontier",
+      "networking",
+      "rio",
+      "earth",
+      "summit",
+      "players",
+      "transnational",
+      "urban",
+      "consensus",
+      "exchanged",
+      "emerging",
+      "necessitate",
+      "populations",
+      "agenda",
+      "recognises",
+      "concerted",
+      "consultative",
+      "withdrawing",
+      "sustainability",
+      "awareness",
+      "raising",
+      "prospects",
+      "resolutions",
+      "climate",
+      "chosen",
+      "strengthened",
+      "guide",
+      "networks"
+    ],
+    "prompt_length": 1745,
+    "category": "1611 economic conditions"
+  }
+}

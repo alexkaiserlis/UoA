@@ -1,0 +1,63 @@
+{
+  "concept_id": "4520",
+  "concept_data": {
+    "title": "international road transport",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"international road transport\" encompasses the legal frameworks governing the movement of goods and passengers across borders within the EU and beyond. It facilitates the assignment of haulage rights and the use of carnets, such as the TIR (Transports Internationaux Routiers) system, which simplifies customs procedures. Regulations aim to attenuate disadvantages faced by drivers, ensuring homogeneity in transport standards. Prohibitions against fraudulent practices and evasion of duties are enforced to maintain integrity. The EU's commitment to tourism and occasional transport services is reflected in its enactment of policies that promote efficient loading and waiting times, while diversions and embargoes are managed to ensure smooth transit.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:13:13.832325",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 377,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 912,
+      "selected_avg_freq": 367.3933333333333
+    },
+    "related_words": [
+      "asor",
+      "pantone",
+      "pink",
+      "fontainebleau",
+      "crossed",
+      "attenuate",
+      "carnet",
+      "diversions",
+      "carnets",
+      "tir",
+      "attitude",
+      "breaking",
+      "manifest",
+      "coach",
+      "bus",
+      "enact",
+      "assigning",
+      "haulage",
+      "occasional",
+      "homogeneity",
+      "tourist",
+      "confine",
+      "colours",
+      "diverted",
+      "embargo",
+      "passing",
+      "facilitation",
+      "ece",
+      "disadvantages",
+      "waiting"
+    ],
+    "prompt_length": 1663,
+    "category": "4816 land transport"
+  }
+}

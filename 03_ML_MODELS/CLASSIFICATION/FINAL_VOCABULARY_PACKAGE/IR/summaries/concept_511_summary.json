@@ -1,0 +1,63 @@
+{
+  "concept_id": "511",
+  "concept_data": {
+    "title": "Drenthe",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Drenthe, a region in the Netherlands, is categorized under the EU Member States' regions, specifically within the context of structural funds such as the European Regional Development Fund (ERDF) and the European Social Fund (ESF). This region's development plans are indicative of the EU's commitment to fostering regional readiness and investment. The Dutch authorities have prepared frameworks that include budgetary commitments and tasks aimed at enhancing effectiveness. Coordination with the European Investment Bank (EIB) facilitates lending and conversion of funds, ensuring that Drenthe's priorities align with broader EU objectives. Subsequent evaluations will examine the partnership's impact on regional growth and development.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:33:26.534784",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 132,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 132,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1757.5530303030303
+    },
+    "related_words": [
+      "zuidoost",
+      "membe",
+      "groningen",
+      "drenthe",
+      "esf",
+      "readiness",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "loan",
+      "statute",
+      "indicative",
+      "contributing",
+      "priorities",
+      "indication",
+      "source",
+      "selected",
+      "partnership",
+      "dutch",
+      "prepared",
+      "plans",
+      "commitments",
+      "examine",
+      "description",
+      "estimated",
+      "approving",
+      "preparation"
+    ],
+    "prompt_length": 1665,
+    "category": "7211 regions of EU Member States"
+  }
+}

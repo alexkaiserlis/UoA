@@ -1,0 +1,63 @@
+{
+  "concept_id": "3816",
+  "concept_data": {
+    "title": "Saint Martin",
+    "category_code": "7241",
+    "category_name": "overseas countries and territories",
+    "category_full": "7241 overseas countries and territories",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Saint Martin, categorized under \"overseas countries and territories,\" is an autonomous region within the Caribbean that includes municipalities such as Sint Maarten. It is part of the larger context of the Antilles, alongside territories like Bonaire, Eustatius, and Saba. The EU's legal framework ensures that products exported from Saint Martin, including marine resources like molluscs and gastropods, meet stringent sanitary controls. This includes verification processes to guarantee the welfare of consumers. The region's fishery practices are subject to reform and updating to satisfy EU regulations, ensuring that only chilled or frozen products are permitted in the market, thereby protecting both the ecosystem and business interests.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:14:20.684910",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3361,
+      "selected_avg_freq": 1565.6533333333334
+    },
+    "related_words": [
+      "gastropodes",
+      "bonaire",
+      "eustatius",
+      "saba",
+      "sint",
+      "maarten",
+      "curaçao",
+      "antilles",
+      "echinoderms",
+      "tunicates",
+      "gastropods",
+      "municipalities",
+      "bivalve",
+      "deletion",
+      "chilled",
+      "sanitary",
+      "molluscs",
+      "delete",
+      "equivalence",
+      "welfare",
+      "marine",
+      "frozen",
+      "became",
+      "ceased",
+      "prove",
+      "performed",
+      "autonomous",
+      "updating",
+      "conduct",
+      "feed"
+    ],
+    "prompt_length": 1670,
+    "category": "7241 overseas countries and territories"
+  }
+}

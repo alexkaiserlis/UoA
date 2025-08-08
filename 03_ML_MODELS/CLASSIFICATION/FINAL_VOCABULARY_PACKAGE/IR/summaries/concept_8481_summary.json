@@ -1,0 +1,63 @@
+{
+  "concept_id": "8481",
+  "concept_data": {
+    "title": "European Union police operation",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EU police mission",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Union police operation,\" also referred to as \"EU police mission,\" encompasses various deployable missions under the Common Security and Defence Policy (CSDP). These operations, such as EUPOL and EUCAP, focus on enhancing security sector reform (SSR) in regions like Mali and the Sahel. The missions involve the secondment of personnel, including superintendents and forensic experts, to support local law enforcement. The European External Action Service (EEAS) oversees these initiatives, which aim to deepen cooperation and stability. Notable missions, like EUAM in BiH, illustrate the EU's commitment to fostering security through strategic planning and recruitment of specialized staff.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:53:39.101712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 547,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 443,
+      "selected_avg_freq": 160.9
+    },
+    "related_words": [
+      "oplan",
+      "roghe",
+      "kalman",
+      "csfp",
+      "chg",
+      "deployable",
+      "albrecht",
+      "conze",
+      "antti",
+      "juhani",
+      "hartikainen",
+      "åke",
+      "rikir",
+      "feller",
+      "superintendent",
+      "congolese",
+      "mizsei",
+      "stefan",
+      "forensic",
+      "euam",
+      "esdp",
+      "eubam",
+      "foresaw",
+      "copps",
+      "eeas",
+      "sahel",
+      "relocated",
+      "karl",
+      "posting",
+      "ssr"
+    ],
+    "prompt_length": 1630,
+    "category": "1016 European construction"
+  }
+}

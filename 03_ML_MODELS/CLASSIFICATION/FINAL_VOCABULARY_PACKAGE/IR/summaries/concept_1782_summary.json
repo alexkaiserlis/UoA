@@ -1,0 +1,63 @@
+{
+  "concept_id": "1782",
+  "concept_data": {
+    "title": "balance-sheet analysis",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Balance-sheet analysis is a critical process in EU financial regulation, focusing on the measurement and assessment of a bank's assets and liabilities. This analysis involves the calculation of recoverable amounts and the identification of impaired assets, ensuring compliance with International Accounting Standards (IAS). It encompasses the evaluation of derivatives and hedging transactions, particularly in over-the-counter (OTC) markets, where counterparties may engage in novation. Regular disclosures are mandated, often on a quarterly basis, to provide transparency regarding reserves and potential impairments. The European Central Bank (ECB) monitors these practices, confirming that banks adhere to statutory requirements and interpretations, thereby facilitating effective risk management and financial stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:34.728892",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 186,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2833,
+      "selected_avg_freq": 1123.8933333333334
+    },
+    "related_words": [
+      "novated",
+      "novation",
+      "hedge",
+      "hedging",
+      "counterparty",
+      "otc",
+      "recoverable",
+      "disclosures",
+      "ias",
+      "impairment",
+      "counterparties",
+      "derivative",
+      "impaired",
+      "discontinuation",
+      "interpretations",
+      "clearing",
+      "derivatives",
+      "compliant",
+      "starts",
+      "sheet",
+      "relief",
+      "ecb",
+      "quarterly",
+      "classes",
+      "confirms",
+      "cycle",
+      "week",
+      "comprise",
+      "weeks",
+      "agree"
+    ],
+    "prompt_length": 1680,
+    "category": "4021 management"
+  }
+}

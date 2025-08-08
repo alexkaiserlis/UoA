@@ -1,0 +1,63 @@
+{
+  "concept_id": "831",
+  "concept_data": {
+    "title": "upkeep",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "maintenance",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"upkeep,\" redirected to \"maintenance,\" encompasses the systematic repairs and renovations necessary for ensuring the airworthiness of aircrafts and the operational integrity of motorways and highways. This term is crucial for seafarers and those involved in the maritime sector, where the maintenance of vessels, including coasters and tankers, is dictated by stringent regulations. The implications of inadequate upkeep can affect journeys across boundaries, such as the Danube and Mosel rivers. Regulatory bodies like EASA promote standards for maintenance, emphasizing the importance of subsystems and the acquisition of appropriate diplomas for engineers and trainers involved in upkeep activities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:38:20.289085",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 685,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 373,
+      "selected_avg_freq": 159.72666666666666
+    },
+    "related_words": [
+      "ela",
+      "mate",
+      "stuurman",
+      "kleine",
+      "handelsvaart",
+      "aanvulling",
+      "coaster",
+      "motordrijver",
+      "trunk",
+      "deeming",
+      "deepest",
+      "calafat",
+      "motorways",
+      "vidin",
+      "engineer",
+      "csm",
+      "toll",
+      "highways",
+      "condominium",
+      "tolls",
+      "seafaring",
+      "promulgated",
+      "subsystems",
+      "misses",
+      "dictated",
+      "mosel",
+      "boundary",
+      "repairs",
+      "aircrafts",
+      "implication"
+    ],
+    "prompt_length": 1678,
+    "category": "6406 production"
+  }
+}

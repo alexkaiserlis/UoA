@@ -1,0 +1,63 @@
+{
+  "concept_id": "2803",
+  "concept_data": {
+    "title": "sales promotion",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sales promotion, within the EU regulatory framework, refers to strategies designed to enhance the marketability of products, particularly in the agricultural and horticultural sectors. These promotions can involve various tactics, including the implementation of specialty products like yogurt and goatmeet, which are often scrutinized for compliance with EU standards. The concept encompasses the equitable distribution of resources among communities, ensuring that all stakeholders, including beekeepers and interprofessional associations, are considered. Transformations in consumer behavior, such as reluctance to purchase underfished products, necessitate targeted promotions that pinpoint market trends. The legal landscape also addresses the coresponsibility of producers to maintain quality and sustainability in their offerings, fostering a balanced intertrade environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:30:38.925715",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1796,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 82,
+      "selected_avg_freq": 35.16
+    },
+    "related_words": [
+      "tsgs",
+      "qualifiable",
+      "underfished",
+      "layed",
+      "furnishes",
+      "pointers",
+      "dăšbouchăšs",
+      "débouchés",
+      "fomed",
+      "prvided",
+      "fristly",
+      "horticiles",
+      "hulst",
+      "siergewassen",
+      "consumpion",
+      "cba",
+      "comsumption",
+      "beekeepers",
+      "coresponsibility",
+      "marketability",
+      "thematically",
+      "commuities",
+      "euorpean",
+      "yogurt",
+      "ondah",
+      "agricoles",
+      "horticoles",
+      "pdos",
+      "pgis",
+      "clash"
+    ],
+    "prompt_length": 1718,
+    "category": "2031 marketing"
+  }
+}

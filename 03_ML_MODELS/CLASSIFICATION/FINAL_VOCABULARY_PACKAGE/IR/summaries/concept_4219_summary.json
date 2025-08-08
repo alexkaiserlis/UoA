@@ -1,0 +1,63 @@
+{
+  "concept_id": "4219",
+  "concept_data": {
+    "title": "tendering",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tendering, within the EU's trade policy framework, characterises the structured process through which public contracts are awarded to candidates, often involving multiple tenderers. This procurement method aims to propagate competition and ensure optimal resource allocation. Invitations to tender are issued, allowing candidates to submit proposals that are evaluated based on predefined criteria. The process is tightly regulated to restrict unsuccessful bids and ensure admissible submissions. By standardising procedures, the EU enhances fluidity in procurement, facilitating swift reactions to market demands. Extensions may be granted to complete necessary documentation, while judgments on tenders are made to stabilise and refine procurement practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:29:12.613670",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 458,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 864,
+      "selected_avg_freq": 447.46
+    },
+    "related_words": [
+      "propagate",
+      "banknote",
+      "substantiates",
+      "tightness",
+      "moderately",
+      "disturbs",
+      "unsuccessful",
+      "fluidity",
+      "standardise",
+      "get",
+      "interdependence",
+      "auxiliary",
+      "syrups",
+      "uncontrolled",
+      "ncbs",
+      "signal",
+      "shorten",
+      "pace",
+      "licenses",
+      "worse",
+      "tackle",
+      "extensions",
+      "swiftly",
+      "react",
+      "tenderers",
+      "thirds",
+      "restricts",
+      "copies",
+      "candidates",
+      "judgments"
+    ],
+    "prompt_length": 1677,
+    "category": "2006 trade policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5274",
+  "concept_data": {
+    "title": "catalogue",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"catalogue\" serves as a systematic index that integrates various classifications of items, such as genetically modified organisms or horticultural products. These catalogues are essential for establishing uniformity in the examination and importation of agricultural goods, including chlorosilanes and silicones. They ensure the distinctness and persistence of species like lolium and avena, facilitating trials and cultivation practices. Moreover, catalogues play a crucial role in the management of hazardous wastes and the display of edible plants, with provisions for the revocation of entries that fail to meet regulatory standards. Such documentation supports the ongoing efforts of the CPVO and UPOV in maintaining agricultural integrity and environmental safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:32.521492",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 454,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 885,
+      "selected_avg_freq": 428.3333333333333
+    },
+    "related_words": [
+      "chlorosilanes",
+      "silicones",
+      "grease",
+      "clasification",
+      "integrates",
+      "distinctness",
+      "strigosa",
+      "schreb",
+      "cpvo",
+      "perenne",
+      "cultivating",
+      "lolium",
+      "upov",
+      "etablishing",
+      "drained",
+      "avena",
+      "asbestos",
+      "catalogues",
+      "continuance",
+      "chaired",
+      "wastes",
+      "liquids",
+      "indefinite",
+      "maturity",
+      "persistence",
+      "separation",
+      "genetically",
+      "catalogue",
+      "edible",
+      "revoked"
+    ],
+    "prompt_length": 1690,
+    "category": "3221 documentation"
+  }
+}

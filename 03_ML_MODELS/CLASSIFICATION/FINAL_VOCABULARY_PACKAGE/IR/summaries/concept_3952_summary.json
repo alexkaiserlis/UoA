@@ -1,0 +1,63 @@
+{
+  "concept_id": "3952",
+  "concept_data": {
+    "title": "earth sciences",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"earth sciences\" encompasses a multidisciplinary approach, integrating fields such as glaciology, geology, and oceanography. In EU legal and regulatory frameworks, earth sciences are pivotal for analyzing environmental impacts and managing natural resources. Regulatory bodies often invoke advanced technologies, including satellites and telemetering apparatus, to monitor changes in the earth's systems. Educational programs are designed to equip experts with requisite skills for manipulating data and conducting experimental research. The importation of materials related to earth sciences is subject to specific duties, ensuring that only compliant and suitable products are admitted into the EU market. This comprehensive approach supports sustainable development and informed policymaking.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:29:31.997447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1576.6788990825687
+    },
+    "related_words": [
+      "esl",
+      "idims",
+      "glaciology",
+      "telemetering",
+      "geology",
+      "oceanography",
+      "satellites",
+      "aircrafts",
+      "analyzer",
+      "interactive",
+      "analyzing",
+      "biology",
+      "manipulation",
+      "image",
+      "digital",
+      "channel",
+      "affirmative",
+      "invoke",
+      "experimental",
+      "educational",
+      "apparatus",
+      "principally",
+      "confer",
+      "suited",
+      "requisite",
+      "multi",
+      "admission",
+      "cultural",
+      "alone",
+      "showed"
+    ],
+    "prompt_length": 1698,
+    "category": "3606 natural and applied sciences"
+  }
+}

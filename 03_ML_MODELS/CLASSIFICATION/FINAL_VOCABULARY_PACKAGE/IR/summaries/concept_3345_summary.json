@@ -1,0 +1,63 @@
+{
+  "concept_id": "3345",
+  "concept_data": {
+    "title": "replanting",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Replanting, within the EU regulatory framework, refers to the process of reconstituting agricultural land, particularly vineyards, to enhance marketability and address issues such as phylloxera and frost damage. This practice is essential for maintaining the landscape and ensuring the sustainability of grapevine production. Exceptionally tailored replanting strategies may involve the use of seedlings from nurseries, promoting the growth of specific varieties like sultana and muscatel. The implications of replanting extend to reparcelling and restructuring land to solve imbalances in production. Moreover, effective irrigation and management of overheads are crucial for the success of new plantings, thereby supporting the overall vitality of the agricultural sector in regions like Languedoc and Provence.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:09.271567",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 665,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 203.98
+    },
+    "related_words": [
+      "exceptionnaly",
+      "marketability",
+      "protracted",
+      "reparcelling",
+      "sultana",
+      "reconstitution",
+      "ascription",
+      "phylloxera",
+      "muscatel",
+      "grove",
+      "frost",
+      "transplantation",
+      "reconstitute",
+      "replant",
+      "seedlings",
+      "implication",
+      "conveyed",
+      "commisscommission",
+      "grapevine",
+      "groves",
+      "plantings",
+      "azur",
+      "sultanas",
+      "thethe",
+      "alpes",
+      "languedoc",
+      "provence",
+      "nurseries",
+      "roussillon",
+      "currants"
+    ],
+    "prompt_length": 1737,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

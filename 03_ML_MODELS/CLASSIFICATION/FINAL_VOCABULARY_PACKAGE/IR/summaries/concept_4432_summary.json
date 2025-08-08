@@ -1,0 +1,63 @@
+{
+  "concept_id": "4432",
+  "concept_data": {
+    "title": "television",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"television\" within EU legal and regulatory frameworks encompasses a broad spectrum of broadcasting undertakings, including both traditional and narrowband communications. It involves the transparent regulation of content, ensuring proportionality and non-discrimination among various broadcasters, such as EBU and Rai. The sector is characterized by diverse professional artistes and singers, contributing to cultural events like the Gala and sporting competitions, including MotoGP and tennis. The regulation also addresses issues of commercializing content and optimizing transmission technologies, such as chromatic aberration and halfpixel submodels. As the landscape evolves, the EU aims to support innovative communication methods while safeguarding the rights of all stakeholders involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:08:18.752806",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1982,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 6.2
+    },
+    "related_words": [
+      "ebu",
+      "breoadcasting",
+      "rai",
+      "unitel",
+      "radiotelevisione",
+      "gala",
+      "verdi",
+      "mondovision",
+      "fernseh",
+      "singers",
+      "artistes",
+      "indiscretion",
+      "artiste",
+      "commercializing",
+      "disparties",
+      "discrimintory",
+      "narrowband",
+      "conjunciton",
+      "undertkaings",
+      "thansparent",
+      "proprotionality",
+      "communiction",
+      "telecoms",
+      "envolve",
+      "profesionnal",
+      "exporers",
+      "motogp",
+      "prix",
+      "riders",
+      "basketball"
+    ],
+    "prompt_length": 1694,
+    "category": "3226 communications"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1649",
+  "concept_data": {
+    "title": "Principality of Liechtenstein",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Liechtenstein",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Principality of Liechtenstein,\" often referred to simply as \"Liechtenstein,\" is a significant entity in EU political geography, particularly within the context of immigration and mobility regulations. As a member of the European Free Trade Association (EFTA), Liechtenstein engages in various agreements that enriches its relationship with the EU, particularly concerning visas and residence permits. The principality's immigration policies, including asylum procedures, are influenced by EU frameworks, such as the Schengen Area (SCH) and the Justice and Home Affairs (JHA) directives. Liechtenstein's involvement in SIS and SISNET systems enhances police cooperation, while its educational exchanges, like the Erasmus program, facilitate student mobility. The country’s unilateral decisions on immigration can impact proportional burdens on neighboring states, necessitating careful reasoning and compliance with EU law, mutatis mutandis.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:34:53.440231",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 610,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 630,
+      "selected_avg_freq": 323.29333333333335
+    },
+    "related_words": [
+      "erasmus",
+      "def",
+      "criminality",
+      "enriches",
+      "consulates",
+      "sisnet",
+      "installing",
+      "students",
+      "sch",
+      "skill",
+      "deputy",
+      "preconditions",
+      "sis",
+      "asylum",
+      "university",
+      "transitory",
+      "reasoning",
+      "immigration",
+      "inserting",
+      "exchanging",
+      "chronological",
+      "europol",
+      "latters",
+      "teu",
+      "director",
+      "visas",
+      "visa",
+      "proportional",
+      "unilaterally",
+      "builds"
+    ],
+    "prompt_length": 1712,
+    "category": "7236 political geography"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5351",
+  "concept_data": {
+    "title": "decentralised information",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": true,
+    "preferred_term": "centralisation of information",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"decentralised information\" refers to the distribution of data across various independent sources rather than centralising it within a single repository. This approach is crucial in the context of EU legal and regulatory frameworks, where the integration of information systems is essential for effective supervision and coordination among member nations. The harmonization of documentation and the creation of a network of centres facilitate constant updating and access to quality data. Experts propose that a decentralised model enhances the preparation and integration of research projects, allowing for a more desirable environment for users. This concept is closely related to the \"centralisation of information,\" which aims to streamline data management but may limit the benefits of decentralisation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:12.159576",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 111,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 111,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1916.6486486486488
+    },
+    "related_words": [
+      "irs",
+      "referral",
+      "specialist",
+      "integrate",
+      "inventory",
+      "constant",
+      "scheduled",
+      "centres",
+      "documentation",
+      "propose",
+      "harmonized",
+      "harmonization",
+      "updating",
+      "seems",
+      "network",
+      "life",
+      "supervision",
+      "integration",
+      "sources",
+      "nations",
+      "permanent",
+      "users",
+      "experts",
+      "creation",
+      "independent",
+      "projects",
+      "preparation",
+      "forward",
+      "coordination",
+      "known"
+    ],
+    "prompt_length": 1768,
+    "category": "3231 information and information processing"
+  }
+}

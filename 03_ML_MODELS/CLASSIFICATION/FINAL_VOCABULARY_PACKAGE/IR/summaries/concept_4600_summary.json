@@ -1,0 +1,63 @@
+{
+  "concept_id": "4600",
+  "concept_data": {
+    "title": "customs union",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"customs union\" within the EU framework represents an evolutionary integration that facilitates the unimpeded movement of goods across member states. It validly underpins trade relations by eliminating tariffs and establishing a common external tariff for non-member countries, thereby safeguarding economic ties. The customs union necessitates the regularisation of customs procedures, invoking simplifications such as the use of the EORI number for declarants. Additionally, it supports SMEs by delivering reliefs and furtherance of trade, including the use of carnets for reimported goods. This framework also addresses unanticipated challenges, ensuring that regulatory measures adapt to the dynamic nature of international trade, particularly in regions like Ceuta and Melilla.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:43.980890",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1005,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 282,
+      "selected_avg_freq": 134.72666666666666
+    },
+    "related_words": [
+      "foreshores",
+      "unanticipated",
+      "filmscreens",
+      "evolutionary",
+      "validly",
+      "eori",
+      "pushing",
+      "traveller",
+      "ata",
+      "sant",
+      "abbreviations",
+      "crossed",
+      "arranging",
+      "carnet",
+      "delivers",
+      "furtherance",
+      "carnets",
+      "cardiff",
+      "alphabetical",
+      "regularisation",
+      "suspensive",
+      "drilling",
+      "merit",
+      "declarant",
+      "telecom",
+      "reimported",
+      "pvc",
+      "airspace",
+      "underpinning",
+      "sme"
+    ],
+    "prompt_length": 1693,
+    "category": "2011 tariff policy"
+  }
+}

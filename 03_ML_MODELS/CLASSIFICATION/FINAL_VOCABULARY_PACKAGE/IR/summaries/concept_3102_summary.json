@@ -1,0 +1,63 @@
+{
+  "concept_id": "3102",
+  "concept_data": {
+    "title": "regulation of the European Parliament",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "regulation (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"regulation of the European Parliament,\" often redirected to \"regulation (EU),\" refers to a key legislative instrument within EU lawmaking. These regulations are binding across member states, ensuring uniformity in areas such as agricultural practices, including the milling of grains like manioc and durum, and the trade of products like goatmeat and sheepmeat from countries such as Morocco and Tunisia. They also address cooperative frameworks for agricultural sectors in regions like Surinam and Barbados. By renewing legal frameworks, the EU aims to enhance regulatory coherence, impacting nations from Zambia to Madagascar, and facilitating trade in goods like potatoes and starch.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:14:52.936234",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 262,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 1301,
+      "selected_avg_freq": 571.2066666666667
+    },
+    "related_words": [
+      "surinam",
+      "christopher",
+      "lawmaking",
+      "dog",
+      "barbados",
+      "trinidad",
+      "tobago",
+      "nevis",
+      "cat",
+      "sifting",
+      "malawi",
+      "bran",
+      "sharps",
+      "jamaica",
+      "zambia",
+      "belize",
+      "fiji",
+      "manioc",
+      "guyana",
+      "uganda",
+      "tanzania",
+      "ivoire",
+      "faroe",
+      "milling",
+      "swaziland",
+      "kenya",
+      "côte",
+      "madagascar",
+      "mauritius",
+      "grains"
+    ],
+    "prompt_length": 1665,
+    "category": "1011 European Union law"
+  }
+}

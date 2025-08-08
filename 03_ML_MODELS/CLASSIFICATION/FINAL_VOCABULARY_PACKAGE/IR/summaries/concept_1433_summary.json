@@ -1,0 +1,63 @@
+{
+  "concept_id": "1433",
+  "concept_data": {
+    "title": "transport infrastructure",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transport infrastructure\" within EU legal and regulatory frameworks encompasses the development and management of multimodal networks, essential for optimizing connectivity and decongestion across regions. Projects funded under the Connecting Europe Facility (CEF) aim to incentivise the creation of efficient transport corridors, addressing externalities such as noise and emissions. By promoting retrofitted solutions and innovative ticketing systems, the EU seeks to enhance the functionality of junctions and bypass routes, facilitating seamless interland movement. Additionally, the internalisation of costs related to transport externalities is crucial for sustainable development, particularly in landlocked areas like Timișoara and Cluj.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:11.491359",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1563,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 90,
+      "selected_avg_freq": 35.22
+    },
+    "related_words": [
+      "doirani",
+      "wexford",
+      "bypass",
+      "aternative",
+      "bimodal",
+      "projets",
+      "externality",
+      "incentivising",
+      "ndtac",
+      "quiet",
+      "internalisation",
+      "incentivise",
+      "domodossola",
+      "domodossolla",
+      "evzoni",
+      "volos",
+      "kleidi",
+      "axios",
+      "cef",
+      "interland",
+      "themn",
+      "incraese",
+      "decongestion",
+      "ticketing",
+      "retrofitted",
+      "mulhouse",
+      "amusement",
+      "carpatair",
+      "timișoara",
+      "cluj"
+    ],
+    "prompt_length": 1690,
+    "category": "4806 transport policy"
+  }
+}

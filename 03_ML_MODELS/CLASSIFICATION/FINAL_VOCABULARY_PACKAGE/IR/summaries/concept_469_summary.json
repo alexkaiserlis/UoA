@@ -1,0 +1,63 @@
+{
+  "concept_id": "469",
+  "concept_data": {
+    "title": "vehicle signals",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "signalling device",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"vehicle signals,\" redirected to the preferred term \"signalling device,\" encompasses various illuminating technologies essential for road safety. These devices, including halogen and LED options, enhance conspicuity through adaptive features that obviate glare and improve visibility in diverse conditions, such as fog or daytime. The design of signalling devices often incorporates polished facets and colourless glassware, enhancing their aesthetic appeal while ensuring functionality. Regulatory frameworks may specify requirements for octagonal shapes or reflective surfaces to maximize effectiveness. Additionally, the integration of audible signals and predefined light patterns ensures that these devices meet safety standards, facilitating mobility for all vehicle types, including quadricycles and mopeds.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:03:12.511937",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 952,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 130,
+      "selected_avg_freq": 44.78666666666667
+    },
+    "related_words": [
+      "rosettes",
+      "strass",
+      "octagonal",
+      "facets",
+      "symmetrically",
+      "pendants",
+      "apex",
+      "illuminating",
+      "optically",
+      "smallwares",
+      "reutlingen",
+      "refraction",
+      "fakt",
+      "glare",
+      "ecconomic",
+      "reciprocally",
+      "dippedbeam",
+      "conspicuity",
+      "daytime",
+      "clepa",
+      "signposting",
+      "polished",
+      "fancy",
+      "surmount",
+      "quadricycles",
+      "audible",
+      "mobilität",
+      "tales",
+      "balls",
+      "aerodynamic"
+    ],
+    "prompt_length": 1713,
+    "category": "4811 organisation of transport"
+  }
+}

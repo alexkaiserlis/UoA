@@ -1,0 +1,63 @@
+{
+  "concept_id": "5362",
+  "concept_data": {
+    "title": "stock certificate",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "share",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"stock certificate\" is commonly referred to as a \"share,\" representing ownership in a company. This concept is pivotal in the free movement of capital, facilitating diverse investment opportunities across jurisdictions. Shareholders, as investors, may subscribe to shares through various venues, including exchanges and over-the-counter (OTC) markets. The empowerment of issuers and the role of overseers, such as ESMA and ESRB, ensure robust regulatory frameworks. Additionally, the granularity of share structures, including convertible and exchangeable debentures, enhances market efficiency. Understanding these instruments aids in navigating complex financial landscapes and counterparty risks, ultimately fostering a more integrated capital market.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:58:15.732375",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 560,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 568,
+      "selected_avg_freq": 232.75333333333333
+    },
+    "related_words": [
+      "debentures",
+      "granularity",
+      "exchangeable",
+      "underlyings",
+      "offeror",
+      "venue",
+      "empowerment",
+      "overseers",
+      "aggregating",
+      "interpenetration",
+      "esrb",
+      "repository",
+      "convertible",
+      "notional",
+      "sofia",
+      "ccps",
+      "counterparty",
+      "granular",
+      "venues",
+      "repositories",
+      "otc",
+      "supervisors",
+      "swaps",
+      "acer",
+      "subscribe",
+      "uncovered",
+      "conversely",
+      "fuller",
+      "counterparties",
+      "esma"
+    ],
+    "prompt_length": 1731,
+    "category": "2421 free movement of capital"
+  }
+}

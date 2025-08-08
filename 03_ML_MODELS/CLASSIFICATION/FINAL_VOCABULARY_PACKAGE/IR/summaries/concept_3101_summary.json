@@ -1,0 +1,63 @@
+{
+  "concept_id": "3101",
+  "concept_data": {
+    "title": "transport price",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"transport price\" within EU transport policy encompasses the economic framework governing fares and surcharges for various transport undertakings. It is crucial for ensuring the attractiveness of crossfrontier journeys, particularly for hauliers and railways operating in regions like the Balearic archipelago and routes such as those connecting Tenerife and Las Palmas. The regulation of transport prices presupposes a theoretical understanding of market dynamics, where factors like distance in kilometres and the type of service—such as refrigerated wagons—play a significant role. By enacting fair pricing mechanisms, the EU aims to settle disputes among consignors and intermediaries, while also intensifying competition among transport providers, including Iberia and Transmediterranea. The legal framework ensures that all stakeholders, including lorry drivers and passengers, are treated fairly, avoiding penalization for unavoidable costs related to their journeys.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:51.900505",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 663,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 361,
+      "selected_avg_freq": 178.17333333333335
+    },
+    "related_words": [
+      "tavelling",
+      "underakings",
+      "stae",
+      "membr",
+      "similarily",
+      "transmediterranea",
+      "crossfrontier",
+      "interventing",
+      "sailings",
+      "tickets",
+      "iberia",
+      "palmas",
+      "wagon",
+      "hauliers",
+      "tenerife",
+      "surcharges",
+      "lorry",
+      "fares",
+      "fare",
+      "cruz",
+      "intensifying",
+      "argues",
+      "consignors",
+      "perfectly",
+      "bracket",
+      "remembered",
+      "arranged",
+      "construct",
+      "economics",
+      "attractiveness"
+    ],
+    "prompt_length": 1689,
+    "category": "4806 transport policy"
+  }
+}

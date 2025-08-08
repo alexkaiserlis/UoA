@@ -1,0 +1,63 @@
+{
+  "concept_id": "6406",
+  "concept_data": {
+    "title": "seal",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"seal\" within EU legal and regulatory frameworks pertains to the management and protection of these sentient beings, particularly in the context of hunting practices. The EU has implemented bans on the use of hakapiks and bludgeons for hunting seals, addressing concerns over the cruelty associated with such methods. Regulations also focus on the trade of seal furs, which are often derived from pups, and the impact of hunting on indigenous traditions, such as those practised by Inuit communities. The legislation aims to dissuade distress caused by hunting while ensuring that any subsistence hunting is conducted humanely and sustainably. The credibility of hunting practices is scrutinized, with a focus on minimizing pain and fear for seals, and promoting the use of substitutable materials for garments and leather products.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:34:49.155066",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 476,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 601,
+      "selected_avg_freq": 238.22
+    },
+    "related_words": [
+      "hakapiks",
+      "bludgeons",
+      "blubber",
+      "hunts",
+      "sentient",
+      "inuit",
+      "pups",
+      "harp",
+      "hooded",
+      "instantaneous",
+      "guns",
+      "hunters",
+      "furs",
+      "stunning",
+      "reassuring",
+      "hunt",
+      "skinned",
+      "skinning",
+      "substitutable",
+      "distress",
+      "kill",
+      "hunted",
+      "omega",
+      "recognisable",
+      "seals",
+      "cruel",
+      "garments",
+      "skins",
+      "pain",
+      "fear"
+    ],
+    "prompt_length": 1635,
+    "category": "5211 natural environment"
+  }
+}

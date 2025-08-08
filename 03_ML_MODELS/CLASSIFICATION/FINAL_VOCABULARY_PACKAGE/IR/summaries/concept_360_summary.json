@@ -1,0 +1,26 @@
+{
+  "concept_id": "360",
+  "concept_data": {
+    "title": "vote count",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": true,
+    "preferred_term": "counting of the votes",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vote count,\" which redirects to the preferred term \"counting of the votes,\" is a critical aspect of electoral procedure and voting within the European Union's legal framework. This process encompasses the systematic tallying of votes cast during elections, ensuring transparency and accuracy in determining electoral outcomes. The counting of the votes is governed by specific regulations that mandate the procedures to be followed, including the roles of electoral authorities and the safeguards against fraud. Adhering to these standards is essential for upholding democratic principles and maintaining public trust in the electoral system across EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:43:26.443886",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1221,
+    "category": "0416 electoral procedure and voting"
+  }
+}

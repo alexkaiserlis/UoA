@@ -1,0 +1,63 @@
+{
+  "concept_id": "1058",
+  "concept_data": {
+    "title": "European Monetary Fund",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Monetary Fund (EMF) is a proposed institution aimed at enhancing monetary stability within the EU, particularly in the context of changing economic conditions. It is designed to provide financial assistance to member states facing external shocks, thereby smoothing the adjustment process. The EMF would operate under a framework defined by treaties, stipulating criteria for accession and inclusion of member states. Its establishment involves a board of governors who oversee the fund's operations, ensuring that monetary relations are maintained. The EMF's role includes examining the value of currencies, adjusting weights, and revising monetary policies to support the euro's stability and resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:37:21.147404",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 93,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 93,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1933.720430107527
+    },
+    "related_words": [
+      "drachma",
+      "governors",
+      "weights",
+      "underlying",
+      "thereafter",
+      "currencies",
+      "hellenic",
+      "changing",
+      "sum",
+      "treaties",
+      "modify",
+      "currency",
+      "weight",
+      "smooth",
+      "greek",
+      "defines",
+      "specifies",
+      "monetary",
+      "revision",
+      "changed",
+      "inclusion",
+      "indicate",
+      "board",
+      "adjustments",
+      "unit",
+      "external",
+      "ecu",
+      "stipulates",
+      "revised",
+      "examined"
+    ],
+    "prompt_length": 1647,
+    "category": "2406 monetary relations"
+  }
+}

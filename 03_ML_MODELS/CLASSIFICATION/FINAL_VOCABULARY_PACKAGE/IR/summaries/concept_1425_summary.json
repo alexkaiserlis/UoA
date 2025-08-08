@@ -1,0 +1,63 @@
+{
+  "concept_id": "1425",
+  "concept_data": {
+    "title": "nutrition claim",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "consumer information",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"nutrition claim\" refers to specific assertions made about the nutritional properties of food products, which must comply with the provisions set forth in Regulation (EU) No 1924/2006. These claims are crucial for consumer information, guiding choices related to macronutrients and micronutrients. The regulation ensures that claims are not misleading and are supported by scientific evidence, promoting homeostasis and overall health. For instance, products like microfiltered milks or oatmeal snacks may highlight benefits such as improved microcirculation or reduced caries risk. The term \"nutrition claim\" redirects to \"consumer information,\" emphasizing the importance of transparent communication in food labeling.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:35:12.198430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 4265,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.3133333333333335
+    },
+    "related_words": [
+      "informtion",
+      "altimentarius",
+      "microfiltered",
+      "milks",
+      "polylactide",
+      "drawdown",
+      "deference",
+      "noisette",
+      "cervione",
+      "nuciola",
+      "cervioni",
+      "betafiber",
+      "barlivtm",
+      "valens",
+      "flowability",
+      "teas",
+      "homeostasis",
+      "høker",
+      "bajer",
+      "bajersk",
+      "cancers",
+      "equilateral",
+      "repackage",
+      "šunka",
+      "fining",
+      "brebis",
+      "snacks",
+      "macronutrients",
+      "micronutrients",
+      "raisio"
+    ],
+    "prompt_length": 1747,
+    "category": "2026 consumption"
+  }
+}

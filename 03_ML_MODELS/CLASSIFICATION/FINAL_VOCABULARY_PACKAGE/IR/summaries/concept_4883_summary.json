@@ -1,0 +1,63 @@
+{
+  "concept_id": "4883",
+  "concept_data": {
+    "title": "beer",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"beer\" within EU legal and regulatory frameworks encompasses a wide range of beverages, including specialty types like weizenbier and kölsch. Beer production involves processes such as fermenting malts and filtration, with careful attention to spoilage and conditioning to ensure quality. Various styles, such as pale ales and černá beers, are recognized, alongside regional specialties like českobudějovické and münchener. Regulatory measures address excisable products, ensuring compliance with standards for ingredients, such as hopfen and lysozyme, and production methods, including sterile filtration. The EU also regulates the labeling of beers, ensuring that terms like bajer and březnický signify specific characteristics, thereby protecting consumer interests.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:42.991356",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 889,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 174,
+      "selected_avg_freq": 56.446666666666665
+    },
+    "related_words": [
+      "rieser",
+      "weizenbier",
+      "českobudějovické",
+      "spoilage",
+      "whites",
+      "høker",
+      "bajer",
+      "bajersk",
+      "ale",
+      "černá",
+      "hora",
+      "březnický",
+      "ležák",
+      "brněnské",
+      "starobrněnské",
+      "fermenting",
+      "münchener",
+      "sahti",
+      "bierbrand",
+      "biă",
+      "tetrahydroxy",
+      "butylimidazole",
+      "analytically",
+      "kölsch",
+      "bier",
+      "pale",
+      "malts",
+      "pivo",
+      "breweries",
+      "tettnanger"
+    ],
+    "prompt_length": 1651,
+    "category": "6021 beverages and sugar"
+  }
+}

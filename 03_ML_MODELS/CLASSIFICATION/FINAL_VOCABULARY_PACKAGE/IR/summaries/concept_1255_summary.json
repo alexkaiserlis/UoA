@@ -1,0 +1,63 @@
+{
+  "concept_id": "1255",
+  "concept_data": {
+    "title": "Hungary",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hungary, a member state of the European Union, plays a significant role in the political geography of the region. The country's legal framework is influenced by various agreements that aim to address imbalanced economic conditions, particularly in agriculture, where products like kolbász and vöröshagyma are prominent. Key figures such as Gábor Demszky and Ferenc Kovácsné have contributed to shaping Hungary's regulatory landscape. The nation faces challenges, including the need for beneficiaries to adapt to EU standards. Moreover, Hungary's unique cultural elements, such as kalocsai paprika and makói hagyma, are integral to its identity within EU policies, impacting trade and regulatory measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:20:37.645813",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 3230,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 14,
+      "selected_avg_freq": 7.56
+    },
+    "related_words": [
+      "gábor",
+      "demszky",
+      "klára",
+      "kovácsné",
+      "lázár",
+      "bihary",
+      "beneficiairies",
+      "garai",
+      "ferenc",
+      "benkő",
+      "jószai",
+      "gyögy",
+      "ipkovich",
+      "andrás",
+      "szalay",
+      "bákonyi",
+      "károlyné",
+      "kocsis",
+      "zoltán",
+      "nagy",
+      "józsef",
+      "paizs",
+      "bóka",
+      "kiss",
+      "jános",
+      "istván",
+      "ákos",
+      "pető",
+      "pigfeed",
+      "szentesi"
+    ],
+    "prompt_length": 1611,
+    "category": "7236 political geography"
+  }
+}

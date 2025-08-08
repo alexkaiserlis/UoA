@@ -1,0 +1,63 @@
+{
+  "concept_id": "5033",
+  "concept_data": {
+    "title": "produce exchange",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "commodities exchange",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"produce exchange,\" redirected to \"commodities exchange,\" encompasses various regulatory frameworks governing the trading of agricultural and other commodities within the EU. This includes obligations for deliverers and payers, where transactions may involve negotiable instruments and are often transacted in units such as bushels or barrels. The exchange operates under secretariats that oversee compliance with standards, ensuring that offending practices are curtailed. Engaging in merchandising activities, participants may utilize platforms like the Winnipeg or Minneapolis exchanges, while also navigating complex logistics involving lorries and pipelines. The regulatory landscape aims to elicit transparency and protect the interests of all stakeholders, including transferees and directorships within associations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:19.937806",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 705,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 216,
+      "selected_avg_freq": 92.04666666666667
+    },
+    "related_words": [
+      "lgfm",
+      "winnipeg",
+      "bushels",
+      "wheresoever",
+      "lmfel",
+      "assoiation",
+      "lbs",
+      "coinsists",
+      "obligaiton",
+      "somfa",
+      "ipe",
+      "nymex",
+      "barge",
+      "brent",
+      "sullom",
+      "voe",
+      "deliverer",
+      "expels",
+      "offending",
+      "straddle",
+      "merchandizing",
+      "afbd",
+      "excused",
+      "sros",
+      "sib",
+      "gafta",
+      "merchandising",
+      "shoe",
+      "multiples",
+      "directorship"
+    ],
+    "prompt_length": 1665,
+    "category": "2006 trade policy"
+  }
+}

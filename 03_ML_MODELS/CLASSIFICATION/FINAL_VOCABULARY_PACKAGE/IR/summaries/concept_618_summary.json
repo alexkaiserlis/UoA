@@ -1,0 +1,63 @@
+{
+  "concept_id": "618",
+  "concept_data": {
+    "title": "extra-EU trade",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"extra-EU trade\" pertains to the legal framework governing trade dealings between the European Union (EU) and non-EU countries. This regulatory architecture is designed to strengthen the EU's position in international markets, ensuring that measures are operable and effectively address issues such as the localisation of goods and compliance with standards. The determination of trade policies involves intricate considerations, including the retrieval of data through systems like Intrastat, which tracks the movement of goods. Additionally, the architecture of these regulations must evolve to address demands such as the control of unrefined products and the management of crossings to prevent the spread of trichinella and other serious health risks. The EU's commitment to maintaining high standards in extra-EU trade reflects its dedication to safeguarding public health while fostering international friendship and cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:00:02.167028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 1272,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 200,
+      "selected_avg_freq": 102.74
+    },
+    "related_words": [
+      "determintion",
+      "seroiusly",
+      "jarlsberg",
+      "trifling",
+      "interspecific",
+      "retrieval",
+      "friendship",
+      "absolve",
+      "illegible",
+      "applicatory",
+      "operable",
+      "defect",
+      "slim",
+      "strenghtened",
+      "vinifera",
+      "draught",
+      "constitued",
+      "edicom",
+      "intrastat",
+      "unrefined",
+      "spiralis",
+      "hinders",
+      "alphabetical",
+      "graphical",
+      "delaying",
+      "trichinae",
+      "vitis",
+      "slovene",
+      "commisscommission",
+      "crossings"
+    ],
+    "prompt_length": 1693,
+    "category": "2006 trade policy"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "900",
+  "concept_data": {
+    "title": "Eurocurrency credit",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": true,
+    "preferred_term": "Eurocredit",
+    "relation_type": "USE"
+  },
+  "summary": "Eurocurrency credit, commonly referred to as Eurocredit, pertains to financial instruments that involve loans and deposits denominated in currencies not native to the country where the transaction occurs. In the context of EU legal and regulatory frameworks, Eurocredit transactions are significant for facilitating cross-border financing and investment. These instruments are often subject to specific regulatory oversight to ensure compliance with monetary policies and financial stability objectives within the EU. The term Eurocredit serves as the preferred nomenclature, encapsulating the broader category of Eurocurrency credit, which plays a pivotal role in international monetary economics and the integration of European financial markets.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:00:22.559877",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1207,
+    "category": "2411 monetary economics"
+  }
+}

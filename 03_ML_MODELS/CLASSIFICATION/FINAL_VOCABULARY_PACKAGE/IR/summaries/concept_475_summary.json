@@ -1,0 +1,63 @@
+{
+  "concept_id": "475",
+  "concept_data": {
+    "title": "energy distribution",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Energy distribution within the EU regulatory framework encompasses the management and flow of energy fluxes through interconnected systems, including pipelines and gasworks. This concept is critical for ensuring cleaner energy transitions, particularly in the context of biofuels and shale gas. The lifecycle of energy distribution involves refurbishing existing infrastructure and installing new generators to abate emissions of VOCs and other oxides. Regulatory measures address issues like acidification and eutrophication, promoting sustainable practices. The solemn prerogatives of member states include unbundling energy markets to enhance competition and efficiency. Consequently, energy distribution plays a pivotal role in transforming the EU's energy landscape while preserving environmental integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:16.007147",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 873,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 239,
+      "selected_avg_freq": 110.64666666666666
+    },
+    "related_words": [
+      "gasworks",
+      "classifed",
+      "fluxes",
+      "vocs",
+      "abate",
+      "refurbishing",
+      "gwh",
+      "solemn",
+      "refuelling",
+      "pipeline",
+      "fluctuates",
+      "fuelling",
+      "voc",
+      "shale",
+      "unbundling",
+      "gothenburg",
+      "lifecycle",
+      "vapour",
+      "broadest",
+      "eutrophication",
+      "cleaner",
+      "transforming",
+      "prerogatives",
+      "refurbishment",
+      "ovens",
+      "steam",
+      "isic",
+      "interconnected",
+      "benzene",
+      "warming"
+    ],
+    "prompt_length": 1685,
+    "category": "6606 energy policy"
+  }
+}

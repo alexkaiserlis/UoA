@@ -1,0 +1,63 @@
+{
+  "concept_id": "166",
+  "concept_data": {
+    "title": "work contract",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"work contract\" in the context of EU legal and regulatory frameworks serves as an indispensable tool for defining the relationships between employers and employees. This solemn agreement outlines the qualifications and responsibilities of workers, ensuring integrity in appointments and secondments. It governs various aspects, including remuneration and the rights of officials, such as those in telecommunications or specialized roles. The contract must comply with collective agreements and respond to the discretion of the employer while avoiding infringements. In cases of expatriation or appointments in institutions like the secretariat in Strasbourg, adherence to these contracts is crucial for maintaining professional standards and integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:44:53.084867",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 335,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1118,
+      "selected_avg_freq": 567.58
+    },
+    "related_words": [
+      "expatriation",
+      "schrรถder",
+      "telefonica",
+      "behave",
+      "gerhard",
+      "solemn",
+      "ast",
+      "bangemann",
+      "referral",
+      "secondment",
+      "appointments",
+      "employer",
+      "martin",
+      "strasbourg",
+      "auxiliary",
+      "lacking",
+      "eaec",
+      "employee",
+      "worker",
+      "induced",
+      "relationships",
+      "discretion",
+      "servants",
+      "sides",
+      "differs",
+      "specialised",
+      "qualifications",
+      "deriving",
+      "integrity",
+      "telecommunications"
+    ],
+    "prompt_length": 1729,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4663",
+  "concept_data": {
+    "title": "sale",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"sale\" encompasses various transactions involving the transfer of goods or services, often subject to stipulations that ensure compliance with market regulations. This includes the sale of commodities like charbonnière and freedingstuffs, where organizations must adhere to restrictive guidelines to prevent market distortions. The sale process may involve tenderes and publicising offers, ensuring transparency. Additionally, the concept relates to the trade of items such as vitaminized products and malsters, which must meet specific standards. Heretofore, the EU has focused on fostering competition, as seen in the activities of the kilpailuvirasto, while addressing shrinkage in certain sectors. The legal framework also supports the redevelopment of markets, ensuring that sales are conducted within a regulated environment that promotes fair practices across member states, including the deutsch and franzoesische markets.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:18:03.278813",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 2480,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 29,
+      "selected_avg_freq": 13.653333333333334
+    },
+    "related_words": [
+      "houillères",
+      "saarlor",
+      "lothringische",
+      "kohlenunion",
+      "deutsch",
+      "franzoesische",
+      "aktien",
+      "charbonnière",
+      "sarro",
+      "allemande",
+      "councl",
+      "peresent",
+      "bezirksbăźros",
+      "remodelled",
+      "landabsatz",
+      "heretofore",
+      "loosely",
+      "shrinkage",
+      "climatological",
+      "offred",
+      "adox",
+      "fotowerke",
+      "schleussner",
+      "radiography",
+      "restricitive",
+      "noon",
+      "freedingstuffs",
+      "tenderes",
+      "organzation",
+      "resells"
+    ],
+    "prompt_length": 1712,
+    "category": "2031 marketing"
+  }
+}

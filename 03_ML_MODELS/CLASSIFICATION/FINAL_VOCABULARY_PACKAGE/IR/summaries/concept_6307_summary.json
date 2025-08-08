@@ -1,0 +1,63 @@
+{
+  "concept_id": "6307",
+  "concept_data": {
+    "title": "traceability of products",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "traceability",
+    "relation_type": "USE"
+  },
+  "summary": "Traceability of products, often referred to simply as \"traceability,\" is a critical concept in EU legal and regulatory frameworks, particularly in research and intellectual property. It encompasses the ability to track the journey of products through various stages, ensuring compliance with safety and quality standards. This includes the use of technologies like RFID tags and transponders, which transmit data about senders and recipients. Traceability is vital for managing urgencies in food safety, addressing issues such as haemolytic uremic syndrome (HUS) and hypersensitivity reactions. It also plays a role in the donation and transplantation of biological materials, where precise tracking is essential to prevent disruption. The incorporation of terminological requisites and conformance standards ensures that all products, from farmyard items to pyrotechnic fuses, are properly documented and monitored throughout their itineraries.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:14:10.047430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 1599,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 81,
+      "selected_avg_freq": 38.81333333333333
+    },
+    "related_words": [
+      "fuses",
+      "primers",
+      "itineraries",
+      "filming",
+      "infused",
+      "tag",
+      "senders",
+      "urgencies",
+      "transplanted",
+      "incubator",
+      "pastern",
+      "tattoo",
+      "transmits",
+      "disrutption",
+      "forwarders",
+      "transponder",
+      "icar",
+      "transfusion",
+      "jccc",
+      "readers",
+      "requisites",
+      "donated",
+      "encephalophathies",
+      "hypersensitivity",
+      "reader",
+      "circus",
+      "circuses",
+      "improver",
+      "eartag",
+      "serogroups"
+    ],
+    "prompt_length": 1750,
+    "category": "6416 research and intellectual property"
+  }
+}

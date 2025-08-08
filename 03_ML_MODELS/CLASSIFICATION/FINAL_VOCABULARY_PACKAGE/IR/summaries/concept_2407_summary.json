@@ -1,0 +1,63 @@
+{
+  "concept_id": "2407",
+  "concept_data": {
+    "title": "territorial planning",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "regional planning",
+    "relation_type": "USE"
+  },
+  "summary": "Territorial planning, often redirected to \"regional planning,\" is a critical aspect of EU economic policy, focusing on the sustainable development of regions such as Västerbotten and Norrbotten. This concept encompasses the strategic allocation of resources and infrastructure across diverse areas, including municipalities like Umeå and Skellefteå, ensuring that local needs are met while adhering to EU regulations. It addresses unique regional characteristics, such as those found in Gävleborgs and Jämtlands, promoting balanced growth. Effective territorial planning must consider the unmodulated needs of communities in places like Grevena and Douai, fostering collaboration among local authorities and stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:10:00.750835",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 803,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 47,
+      "selected_avg_freq": 15.72
+    },
+    "related_words": [
+      "andalucă",
+      "leăłn",
+      "trasimeno",
+      "grevena",
+      "liege",
+      "inflexibly",
+      "unmodulated",
+      "esfs",
+      "skogslänen",
+      "jämtland",
+      "västernorrland",
+      "ljusdal",
+      "malung",
+      "älvdalen",
+      "venjan",
+      "avesnes",
+      "douai",
+      "valenciennes",
+      "norrbotten",
+      "västerbotten",
+      "jämtlands",
+      "län",
+      "norrbottens",
+      "västerbottens",
+      "västernorrlands",
+      "gävleborgs",
+      "kopparbergs",
+      "värmlands",
+      "luleå",
+      "överluleå"
+    ],
+    "prompt_length": 1743,
+    "category": "1606 economic policy"
+  }
+}

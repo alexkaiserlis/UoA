@@ -1,0 +1,63 @@
+{
+  "concept_id": "3969",
+  "concept_data": {
+    "title": "legal assistance",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "legal aid",
+    "relation_type": "USE"
+  },
+  "summary": "\"Legal assistance,\" commonly referred to as \"legal aid,\" is a crucial element within the EU's justice framework, aimed at ensuring access to judicial processes for individuals, particularly in cross-border disputes. The latest directives establish minimum standards for legal aid, facilitating applications across member states. This concept is bound by articles that provide guidelines for authorities to improve the position of applicants in need of legal support. The adoption of protocols and documents relating to legal aid aims to enhance the effectiveness of justice systems. Consequently, legal aid plays a vital role in promoting equitable access to justice, as outlined in various EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:29:49.457023",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 65,
+      "requested_words": 150,
+      "min_frequency_found": 198,
+      "max_frequency_found": 4108,
+      "selected_words": 65,
+      "selected_min_freq": 198,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2236.1692307692306
+    },
+    "related_words": [
+      "disputes",
+      "judicial",
+      "sub",
+      "bound",
+      "cross",
+      "border",
+      "participate",
+      "justice",
+      "latest",
+      "transmission",
+      "denmark",
+      "advisory",
+      "virtue",
+      "consulting",
+      "standard",
+      "give",
+      "annexed",
+      "improve",
+      "aid",
+      "access",
+      "protocol",
+      "applications",
+      "minimum",
+      "facilitate",
+      "position",
+      "paragraph",
+      "establish",
+      "adoption",
+      "legal",
+      "document"
+    ],
+    "prompt_length": 1671,
+    "category": "1221 justice"
+  }
+}

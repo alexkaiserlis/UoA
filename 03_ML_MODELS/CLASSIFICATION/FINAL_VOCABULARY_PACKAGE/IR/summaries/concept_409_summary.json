@@ -1,0 +1,63 @@
+{
+  "concept_id": "409",
+  "concept_data": {
+    "title": "capital depreciation",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Capital depreciation refers to the systematic reduction in the recorded value of an asset over time, reflecting its economic decline. In the context of EU legal and regulatory frameworks, particularly within the agricultural sector, depreciation is crucial for assessing the financial viability of products such as tobacco, beef, and cereals. Relevant rules established under EEC regulations guide the intervention measures for public stocks, enabling the financing of necessary expenditures. The European Agricultural Guidance and Guarantee Fund (EAGGF) plays a pivotal role in this process, ensuring that amounts claimed for depreciation are met according to detailed conditions laid out in specific sections. Such financial guidance is essential for maintaining economic stability in agricultural markets.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:41.958453",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 60,
+      "requested_words": 150,
+      "min_frequency_found": 165,
+      "max_frequency_found": 4108,
+      "selected_words": 60,
+      "selected_min_freq": 165,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2144.233333333333
+    },
+    "related_words": [
+      "depreciation",
+      "interventions",
+      "tobacco",
+      "butter",
+      "alcohol",
+      "tonne",
+      "claimed",
+      "eaggf",
+      "beef",
+      "cereals",
+      "stocks",
+      "guidance",
+      "intervention",
+      "ecu",
+      "expenditure",
+      "fund",
+      "section",
+      "held",
+      "per",
+      "financing",
+      "met",
+      "amounts",
+      "guarantee",
+      "corresponding",
+      "enable",
+      "agricultural",
+      "public",
+      "detailed",
+      "august",
+      "subparagraph"
+    ],
+    "prompt_length": 1638,
+    "category": "4026 accounting"
+  }
+}

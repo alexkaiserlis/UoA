@@ -1,0 +1,63 @@
+{
+  "concept_id": "3454",
+  "concept_data": {
+    "title": "nuclear non-proliferation",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nuclear non-proliferation is a critical element of international security, particularly within EU legal frameworks. It encompasses treaties and agreements, such as the CTBT (Comprehensive Nuclear-Test-Ban Treaty) and the IAEA (International Atomic Energy Agency) safeguards, aimed at mitigating the proliferation of nuclear weapons. The EU actively engages as a negotiator in multilateral discussions, reinforcing commitments to sustainment and the characterisation of nuclear capabilities. The implications of proliferation are profound, affecting regional stability, particularly concerning Iranian ballistic missile development. The EU’s regulatory measures, including sanctions under UNSCR (United Nations Security Council Resolutions), seek to broaden non-proliferation efforts and ensure compliance with international norms, while addressing unforeseen challenges in arms control.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:43:48.811475",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 473,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 790,
+      "selected_avg_freq": 355.3933333333333
+    },
+    "related_words": [
+      "ctbto",
+      "radioxenon",
+      "sustainment",
+      "irisl",
+      "ctbt",
+      "irgc",
+      "tenfold",
+      "nsg",
+      "ims",
+      "supersedes",
+      "ballistic",
+      "negotiator",
+      "materiel",
+      "missile",
+      "dec",
+      "iranian",
+      "atm",
+      "opcw",
+      "petrochemical",
+      "deepening",
+      "implication",
+      "reinsurance",
+      "iaea",
+      "precious",
+      "totals",
+      "characterisation",
+      "generations",
+      "broaden",
+      "auxiliary",
+      "unscr"
+    ],
+    "prompt_length": 1670,
+    "category": "0816 international security"
+  }
+}

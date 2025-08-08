@@ -1,0 +1,63 @@
+{
+  "concept_id": "2872",
+  "concept_data": {
+    "title": "quantity of fish landed",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"quantity of fish landed\" refers to the total volume of fish caught and brought to quayside by various fishing vessels, including palangreros and deepsea buques. This metric is crucial for fisheries management under the purview of the EU's Common Fisheries Policy (CFP), which aims to prevent overfishing and ensure the survivability of fish stocks like micromesistius and engraulis. Regulatory frameworks, including Regional Fisheries Management Organizations (RFMOs), multilaterally address issues such as highgrading and crowding. Accurate reporting of landed quantities is essential to avoid unjustifiable practices that could violate sustainability principles, thereby nullifying conservation efforts and impacting the fishing community's livelihood.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:25:42.503754",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1237,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 72,
+      "selected_avg_freq": 34.18666666666667
+    },
+    "related_words": [
+      "anapa",
+      "asociaciăłn",
+      "armadores",
+      "buques",
+      "palangreros",
+      "altura",
+      "acuicultura",
+      "oficio",
+      "incommensurate",
+      "crowding",
+      "dying",
+      "micromesistius",
+      "poutassou",
+      "midwater",
+      "ptm",
+      "encrasicolus",
+      "quayside",
+      "multilaterally",
+      "boxing",
+      "rfmo",
+      "purview",
+      "jaw",
+      "creels",
+      "fyke",
+      "baltfish",
+      "entangling",
+      "hooking",
+      "theses",
+      "mcrs",
+      "communigy"
+    ],
+    "prompt_length": 1668,
+    "category": "5641 fisheries"
+  }
+}

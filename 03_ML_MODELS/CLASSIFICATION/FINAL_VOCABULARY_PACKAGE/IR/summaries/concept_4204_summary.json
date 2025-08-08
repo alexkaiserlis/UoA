@@ -1,0 +1,63 @@
+{
+  "concept_id": "4204",
+  "concept_data": {
+    "title": "non-profit organization",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "non-profit organisation",
+    "relation_type": "USE"
+  },
+  "summary": "A \"non-profit organisation\" is a legal form of organisation within the EU, primarily focused on profitmaking activities that are not intended for personal gain. These entities play a crucial role in empowering communities and addressing societal needs, often involving volunteers and donations. In the context of EU regulations, non-profit organisations are subject to specific governance frameworks, ensuring transparency and accountability. They may engage in activities such as providing meals or educational services, and are often involved in the categorization of social initiatives. The legal status of these organisations can affect their ability to register domains, impacting their online presence and visibility. Non-profits must navigate complex regulatory landscapes, including compliance with ICANN guidelines for domain registries and the management of virtual resources, to avoid abusive practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:12:52.651398",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 904,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 283,
+      "selected_avg_freq": 126.75333333333333
+    },
+    "related_words": [
+      "tld",
+      "tlds",
+      "cctlds",
+      "topology",
+      "cctld",
+      "query",
+      "registrars",
+      "queries",
+      "icann",
+      "delegable",
+      "gac",
+      "vacantia",
+      "governements",
+      "calender",
+      "categorization",
+      "smartly",
+      "profitmaking",
+      "sunrise",
+      "empowerment",
+      "armies",
+      "servers",
+      "naming",
+      "accommodating",
+      "abusive",
+      "provisioning",
+      "www",
+      "unprepared",
+      "arbitrarily",
+      "locate",
+      "registries"
+    ],
+    "prompt_length": 1718,
+    "category": "4016 legal form of organisations"
+  }
+}

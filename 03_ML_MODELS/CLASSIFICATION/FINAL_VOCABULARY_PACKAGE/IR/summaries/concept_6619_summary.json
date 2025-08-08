@@ -1,0 +1,63 @@
+{
+  "concept_id": "6619",
+  "concept_data": {
+    "title": "injunction",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"injunction\" is a judicial order issued by courts in the EU, compelling plaintiffs or defendants to act or refrain from specific actions. This legal instrument facilitates the resolution of disputes by creating a standard procedure for enforcement. Injunctions are particularly relevant in matters involving electronic contracts and payment disputes, where modifications may be necessary to incorporate compliance. The adoption of injunctions is bound by articles of EU legislation, which update and improve judicial processes across member states, including Bulgaria and Romania. Since October, the need for effective injunctions has become apparent, ensuring that parties participating in legal matters can achieve timely resolutions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:03.799412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 61,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 61,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1895.8688524590164
+    },
+    "related_words": [
+      "plaintiffs",
+      "defendants",
+      "atlas",
+      "fill",
+      "courts",
+      "judicial",
+      "currencies",
+      "incorporate",
+      "easier",
+      "apparent",
+      "creating",
+      "modifications",
+      "electronic",
+      "participating",
+      "bound",
+      "update",
+      "bulgaria",
+      "romania",
+      "practical",
+      "forms",
+      "denmark",
+      "payment",
+      "matters",
+      "annexes",
+      "become",
+      "standard",
+      "annexed",
+      "improve",
+      "protocol",
+      "facilitate"
+    ],
+    "prompt_length": 1638,
+    "category": "1221 justice"
+  }
+}

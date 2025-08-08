@@ -1,0 +1,63 @@
+{
+  "concept_id": "2614",
+  "concept_data": {
+    "title": "medium-term outlook",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": true,
+    "preferred_term": "medium-term forecast",
+    "relation_type": "USE"
+  },
+  "summary": "The \"medium-term outlook,\" often referred to as the \"medium-term forecast,\" is a critical concept in EU economic analysis, particularly in assessing the dynamics of economic performance over a horizon of several years. This forecast aims to project future economic conditions, underpinning policy decisions and financial commitments. It addresses potential stagnation or contraction in economic activities, highlighting the need for recapitalisation in sectors like telecom and banking, as evidenced by cases such as Dexia and Fortis. The medium-term outlook also considers exogenous factors that may impact growth, such as wage dynamics and tightening fiscal policies, which can lead to a deadlock in recovery efforts. By analyzing these projections, the EU can better manage its Economic and Monetary Union (EMU) and avoid breaching the Excessive Deficit Procedure (EDP). The forecast serves as a tool for member states to navigate economic challenges autonomously, ensuring that substantial injections of capital are directed towards segments of the economy that require support, thus preventing a prolonged slowdown.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:47:47.745435",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 161,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 129.84666666666666
+    },
+    "related_words": [
+      "recapitalise",
+      "dexia",
+      "impacted",
+      "counciladopted",
+      "stagnate",
+      "amnesty",
+      "fortis",
+      "targetting",
+      "committment",
+      "deadlock",
+      "expectancy",
+      "diminution",
+      "mto",
+      "outturn",
+      "exogenous",
+      "missed",
+      "injections",
+      "dividend",
+      "tightening",
+      "recapitalisation",
+      "ample",
+      "projection",
+      "telecom",
+      "hypothesis",
+      "grew",
+      "underpinning",
+      "park",
+      "ages",
+      "featuring",
+      "merge"
+    ],
+    "prompt_length": 1728,
+    "category": "1631 economic analysis"
+  }
+}

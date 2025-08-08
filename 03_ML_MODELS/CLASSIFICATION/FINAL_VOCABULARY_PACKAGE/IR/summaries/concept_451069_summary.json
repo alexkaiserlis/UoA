@@ -1,0 +1,63 @@
+{
+  "concept_id": "451069",
+  "concept_data": {
+    "title": "industrial accident",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"industrial accident\" refers to incidents occurring within industrial installations that pose significant hazards, particularly in sectors such as offshore oil and gas. The EU regulatory framework emphasizes the need for preventive measures and effective controls to minimize risks and ensure the integrity of these critical installations. Lessons learned from past accidents have led to the dissemination of advanced strategies aimed at enhancing environmental performance and transparency. Regular reporting and sharing of indicators are essential for maintaining public confidence and demonstrating the effectiveness of safety barriers. Moreover, cross-border cooperation is vital for addressing the challenges posed by such accidents, particularly in marine environments.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:12.355021",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 119,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 119,
+      "selected_min_freq": 21,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1597.453781512605
+    },
+    "related_words": [
+      "misses",
+      "lessons",
+      "learned",
+      "offshore",
+      "unreliable",
+      "easy",
+      "environmentally",
+      "warning",
+      "hazard",
+      "periodically",
+      "accidents",
+      "rendered",
+      "integrity",
+      "minimise",
+      "owners",
+      "indicators",
+      "installations",
+      "critical",
+      "publicly",
+      "preventive",
+      "confidence",
+      "dissemination",
+      "sharing",
+      "advanced",
+      "marine",
+      "format",
+      "deterioration",
+      "near",
+      "publish",
+      "gas"
+    ],
+    "prompt_length": 1710,
+    "category": "6806 industrial structures and policy"
+  }
+}

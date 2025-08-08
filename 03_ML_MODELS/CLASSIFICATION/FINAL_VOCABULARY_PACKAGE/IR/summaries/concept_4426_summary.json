@@ -1,0 +1,63 @@
+{
+  "concept_id": "4426",
+  "concept_data": {
+    "title": "remote sensing",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Remote sensing refers to the technological process of acquiring information about objects or areas from a distance, typically using electromagnetic radars and aerial pictures. In the context of EU legal and regulatory frameworks, remote sensing plays a crucial role in agrometeorological forecasting and monitoring environmental interactions. Programs utilizing remote sensing data help quantify agricultural acreages and enhance the Common Agricultural Policy (CAP) through improved objectivity in data collection. Logbooks and recorders are essential for documenting these activities, while tailored methodologies address weaknesses in data accuracy. The EU's commitment to overcoming unproven methodologies ensures effective regional governance and compliance with environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:33:02.908135",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 811,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 342,
+      "selected_avg_freq": 165.14666666666668
+    },
+    "related_words": [
+      "sepcific",
+      "aftermarket",
+      "unproven",
+      "acreages",
+      "technologial",
+      "agrometeorological",
+      "dispensable",
+      "logbooks",
+      "adjunct",
+      "areal",
+      "radars",
+      "ers",
+      "patrol",
+      "pictures",
+      "utilising",
+      "perfect",
+      "vms",
+      "refusals",
+      "framing",
+      "coc",
+      "radar",
+      "ais",
+      "localisation",
+      "reorganised",
+      "sensing",
+      "quantify",
+      "embarked",
+      "ghz",
+      "meteorological",
+      "overcoming"
+    ],
+    "prompt_length": 1709,
+    "category": "3236 information technology and data processing"
+  }
+}

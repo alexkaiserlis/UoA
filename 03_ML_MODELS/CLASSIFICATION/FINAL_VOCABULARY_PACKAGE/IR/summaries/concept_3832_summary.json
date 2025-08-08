@@ -1,0 +1,63 @@
+{
+  "concept_id": "3832",
+  "concept_data": {
+    "title": "special steels",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"special steels\" pertains to a category within the iron, steel, and other metal industries, specifically focusing on products that meet onerous specifications for safety and performance. In the EU regulatory framework, manufacturers must ensure compliance with established guidelines and obtain necessary approvals through a certification body. Continuous surveillance of production methods is mandated to identify any deviations from conformity. The existence of detailed regulations allows for the specification of desirable characteristics in special steels, which are essential for construction and other applications. Thus, the implementation of these regulations gives manufacturers clear responsibilities to maintain product quality and safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:52:23.667818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 110,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 110,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1876.7454545454545
+    },
+    "related_words": [
+      "continous",
+      "onerous",
+      "approvals",
+      "guideline",
+      "mandates",
+      "attestation",
+      "attesting",
+      "select",
+      "preference",
+      "factory",
+      "manufacturer",
+      "detail",
+      "corresponds",
+      "seven",
+      "construction",
+      "possibilities",
+      "gives",
+      "specifications",
+      "continuous",
+      "identify",
+      "certification",
+      "approximation",
+      "clearly",
+      "surveillance",
+      "existence",
+      "intervention",
+      "body",
+      "responsibility",
+      "condition",
+      "described"
+    ],
+    "prompt_length": 1738,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

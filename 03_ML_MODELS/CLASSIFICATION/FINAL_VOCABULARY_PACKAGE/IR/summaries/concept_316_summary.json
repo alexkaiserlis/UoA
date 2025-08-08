@@ -1,0 +1,63 @@
+{
+  "concept_id": "316",
+  "concept_data": {
+    "title": "copper",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Copper, categorized under the iron, steel, and other metal industries, plays a pivotal role in EU regulatory frameworks. Its applications range from fabricators producing brass components to the manufacturing of fusible valves and calibrated tubes. The inelastic demand for copper necessitates careful management of resources, particularly in light of scarcity and overbidding in markets. Regulatory measures often address the environmental impact of copper processing, including the management of sediments and ash from melting processes. Furthermore, copper’s versatility allows for its use in diverse applications, such as in boilers and as conduits for various substances. The EU emphasizes sustainable practices in copper production, ensuring that processes like spraying and casting are environmentally compliant.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:40:18.889097",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 743,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 277,
+      "selected_avg_freq": 116.22666666666667
+    },
+    "related_words": [
+      "fabricators",
+      "inelastic",
+      "overbidding",
+      "brass",
+      "eutectic",
+      "inset",
+      "melts",
+      "spurting",
+      "deflector",
+      "fusible",
+      "strut",
+      "dispersing",
+      "taps",
+      "preferenres",
+      "manoeuvre",
+      "conduit",
+      "wrought",
+      "shells",
+      "screwing",
+      "calibrated",
+      "getting",
+      "valves",
+      "projecting",
+      "chelate",
+      "capsule",
+      "boiler",
+      "casing",
+      "methionine",
+      "extinguishing",
+      "cocks"
+    ],
+    "prompt_length": 1655,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

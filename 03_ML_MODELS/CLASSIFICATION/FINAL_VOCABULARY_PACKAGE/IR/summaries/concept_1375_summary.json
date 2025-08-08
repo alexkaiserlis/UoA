@@ -1,0 +1,63 @@
+{
+  "concept_id": "1375",
+  "concept_data": {
+    "title": "pulp and paper industry",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"pulp and paper industry\" within the EU legal framework encompasses various sectors involved in the production of cellulose-based products, including absorbent materials like napkins, towels, and bandages. Regulatory documents often address the environmental impact of this industry, particularly concerning the use of adhesives and the management of waste, such as the disposal of honeycombed and porous materials. The industry also includes the production of newsprint and notebooks, which are essential for publishers and publicise information through gazzetta ufficiale. Compliance with EU standards ensures that products, from diapers for babies to stiffeners in folders, meet safety and quality requirements, promoting sustainability and innovation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:26:28.603948",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 522,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 385,
+      "selected_avg_freq": 114.65333333333334
+    },
+    "related_words": [
+      "spine",
+      "stiffeners",
+      "folder",
+      "stiffness",
+      "blotting",
+      "cellulosa",
+      "carta",
+      "encc",
+      "unfiorm",
+      "pants",
+      "incontinent",
+      "honeycombed",
+      "pruposes",
+      "explantory",
+      "rectangles",
+      "absorbent",
+      "plasters",
+      "poultices",
+      "undergarments",
+      "folding",
+      "incontinence",
+      "napkins",
+      "bandages",
+      "rectangle",
+      "minds",
+      "publicise",
+      "gauze",
+      "notebooks",
+      "gazzetta",
+      "ufficiale"
+    ],
+    "prompt_length": 1669,
+    "category": "6836 wood industry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3118",
+  "concept_data": {
+    "title": "travel agency",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"travel agency\" within EU legal and regulatory frameworks involves entities authorized to facilitate travel transactions, accruing turnover through various services. These agencies must comply with precise authorizations and tax regulations, including VAT obligations. The harmonization of laws across member states aims to relieve the burden of unjustified discrepancies in taxation and operational standards. Agencies are required to maintain accurate records and breakdowns of transactions, with earlier estimates influencing definitive calculations for contributions to national statistics. In cases where operations cease, agencies may seek renewal of authorizations or replacement under specific categories, ensuring compliance with federal and EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:20:26.408405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 124,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 124,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1709.991935483871
+    },
+    "related_words": [
+      "graduated",
+      "approximate",
+      "accruing",
+      "authorizations",
+      "relief",
+      "unjustified",
+      "vat",
+      "calculate",
+      "turnover",
+      "taxes",
+      "recording",
+      "breakdown",
+      "ceased",
+      "renewed",
+      "estimates",
+      "earlier",
+      "sixth",
+      "harmonization",
+      "exempt",
+      "authorizing",
+      "replacement",
+      "precise",
+      "contributions",
+      "accounts",
+      "base",
+      "figures",
+      "unable",
+      "tax",
+      "opinions",
+      "transactions"
+    ],
+    "prompt_length": 1680,
+    "category": "2826 social affairs"
+  }
+}

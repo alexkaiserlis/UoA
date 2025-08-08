@@ -1,0 +1,63 @@
+{
+  "concept_id": "172",
+  "concept_data": {
+    "title": "airway",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "air traffic control",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"airway\" is a redirect to \"air traffic control,\" a critical component of EU transport policy. Air traffic control (ATC) encompasses the management of airspaces, ensuring safe and efficient airborne operations. The regulatory framework, including SESAR and Eurocontrol initiatives, strives to enhance connectivity and reduce incompatibilities in aeronautics. Collaborative efforts involve leveraging advanced computing technologies to optimize trajectory management and mitigate collision encounters. The periodicity of ATC interactions is essential for maintaining safety standards. Additionally, the integration of EATCHIP and the development of specialized portals for data sharing exemplify the EU's commitment to upgrading air traffic management systems and fostering academic partnerships in this interrelated field.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:52:25.234464",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 916,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 232,
+      "selected_avg_freq": 103.67333333333333
+    },
+    "related_words": [
+      "airspaces",
+      "alphabetically",
+      "vfr",
+      "eatchip",
+      "logon",
+      "yaizu",
+      "überlingen",
+      "acas",
+      "eniac",
+      "artemis",
+      "tcp",
+      "ses",
+      "eatmn",
+      "aeronautics",
+      "esif",
+      "demonstrations",
+      "ecac",
+      "leveraging",
+      "sesar",
+      "atm",
+      "referenced",
+      "ipr",
+      "connectivity",
+      "incompatibilities",
+      "academia",
+      "trajectory",
+      "encounters",
+      "aeronautical",
+      "specialisation",
+      "portal"
+    ],
+    "prompt_length": 1695,
+    "category": "4806 transport policy"
+  }
+}

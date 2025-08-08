@@ -1,0 +1,63 @@
+{
+  "concept_id": "2615",
+  "concept_data": {
+    "title": "budget forecast",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": true,
+    "preferred_term": "budget estimate",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"budget forecast,\" redirected to \"budget estimate,\" encompasses projections of future financial outturns essential for effective fiscal planning. These estimates are crucial for addressing potential recessionary impacts and ensuring that budgeted expenditures align with economic realities. The forecasting process involves analyzing interconnected variables, including economic slowdown and contraction, which can unexpectedly alter budgetary needs. By employing stabilisers and stimulus measures, policymakers aim to mitigate the fallout from economic declines. The backdrop of these estimates often involves assessing the weakening of autochthonous sectors, such as agriculture, where specific breeds like Mertolenga and Alentejana may face challenges. Accurate projections help avoid misunderstandings and ensure that resources are allocated efficiently, thereby boosting overall economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:08.162536",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 941,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 174,
+      "selected_avg_freq": 85.96666666666667
+    },
+    "related_words": [
+      "pbr",
+      "unfolded",
+      "frontloading",
+      "recessionary",
+      "brava",
+      "lide",
+      "autochthonous",
+      "alentejana",
+      "churra",
+      "quente",
+      "pasturing",
+      "shrink",
+      "mertolenga",
+      "serrana",
+      "fallout",
+      "eerp",
+      "climb",
+      "declines",
+      "loosening",
+      "slowed",
+      "outturn",
+      "backdrop",
+      "estrela",
+      "serra",
+      "terra",
+      "foregone",
+      "stabilisers",
+      "converging",
+      "females",
+      "unexpectedly"
+    ],
+    "prompt_length": 1706,
+    "category": "2441 budget"
+  }
+}

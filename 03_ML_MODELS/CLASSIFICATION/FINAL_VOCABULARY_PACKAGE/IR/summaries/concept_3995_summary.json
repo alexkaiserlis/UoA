@@ -1,0 +1,63 @@
+{
+  "concept_id": "3995",
+  "concept_data": {
+    "title": "policing the high seas",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "maritime surveillance",
+    "relation_type": "USE"
+  },
+  "summary": "\"Policing the high seas,\" a concept under international law, is redirected to \"maritime surveillance,\" emphasizing the EU's regulatory framework for monitoring maritime activities. This entails the use of advanced technologies like radionavigation systems (e.g., Loran, Decca, Omega) and AIS for effective localisation of vessels. The European Maritime Safety Agency (EMSA) plays a crucial role in overseeing incidents and ensuring compliance with MARPOL and SOLAS regulations. The coastguard's responsibilities include incident management, salvage operations, and ensuring the eligibility of crews. Programs like Safeseanet and updates on VDRs enhance maritime safety, while the oversight of voyages along coastlines, such as the Iberian Peninsula, remains vital for preventing jeopardised situations and ensuring excellent maritime governance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:45.300986",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 489,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 595,
+      "selected_avg_freq": 258.2733333333333
+    },
+    "related_words": [
+      "radionavigation",
+      "chayka",
+      "decca",
+      "loran",
+      "lighthouse",
+      "vdr",
+      "vdrs",
+      "towage",
+      "navigator",
+      "coastguard",
+      "eligiblity",
+      "safeseanet",
+      "incoherence",
+      "salvage",
+      "emsa",
+      "voyage",
+      "crews",
+      "omega",
+      "mou",
+      "marpol",
+      "coastline",
+      "ais",
+      "localisation",
+      "voyages",
+      "msc",
+      "iberian",
+      "programmed",
+      "upgraded",
+      "solas",
+      "recorders"
+    ],
+    "prompt_length": 1682,
+    "category": "1231 international law"
+  }
+}

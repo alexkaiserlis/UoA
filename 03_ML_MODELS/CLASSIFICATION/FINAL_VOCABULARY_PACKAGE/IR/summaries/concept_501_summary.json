@@ -1,0 +1,26 @@
+{
+  "concept_id": "501",
+  "concept_data": {
+    "title": "legacy",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "gift",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, the concept of \"legacy\" is redirected to the preferred term \"gift.\" A legacy typically refers to property or assets bequeathed to an individual through a will, embodying civil law principles regarding inheritance. In contrast, a gift denotes a voluntary transfer of ownership without compensation, often governed by specific regulations to ensure the donor's intent and the recipient's acceptance. Understanding the distinction between these terms is crucial for legal practitioners and regulators, as they navigate issues related to property rights, taxation, and the formalities required for valid transfers under EU law.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:33:56.113550",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1179,
+    "category": "1211 civil law"
+  }
+}

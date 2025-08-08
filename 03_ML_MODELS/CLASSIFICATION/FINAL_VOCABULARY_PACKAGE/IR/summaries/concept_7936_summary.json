@@ -1,0 +1,63 @@
+{
+  "concept_id": "7936",
+  "concept_data": {
+    "title": "European Maritime Safety Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Maritime Safety Agency (EMSA) plays a crucial role in enhancing maritime safety and environmental protection within the EU. Its remit includes responding to incidents involving hazardous substances, such as oil spills from tankers and offshore installations, which can have devastating ecological impacts. EMSA optimises preparedness and response capabilities through initiatives like the CleanSeaNet satellite system, which monitors spills in real-time. The agency collaborates with member states to align maritime safety regulations and share best practices, ensuring timely responses to accidents. By acceding to international conventions, EMSA promotes the sustainable management of maritime resources, safeguarding tourism and vulnerable coastal neighbourhoods.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:55.415160",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 321,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1091,
+      "selected_avg_freq": 538.3
+    },
+    "related_words": [
+      "erika",
+      "cecis",
+      "dispersants",
+      "cleanseanet",
+      "timeliness",
+      "noxious",
+      "spills",
+      "devastating",
+      "prestige",
+      "offshore",
+      "incident",
+      "tankers",
+      "discharges",
+      "pool",
+      "releases",
+      "platforms",
+      "neighbourhood",
+      "remit",
+      "optimise",
+      "responding",
+      "clean",
+      "preparedness",
+      "basin",
+      "capabilities",
+      "envelope",
+      "accidental",
+      "incidents",
+      "tourism",
+      "partner",
+      "satellite"
+    ],
+    "prompt_length": 1733,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

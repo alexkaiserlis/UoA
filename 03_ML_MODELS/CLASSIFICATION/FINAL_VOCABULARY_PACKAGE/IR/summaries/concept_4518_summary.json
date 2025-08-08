@@ -1,0 +1,63 @@
+{
+  "concept_id": "4518",
+  "concept_data": {
+    "title": "inland transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"inland transport\" encompasses the organization and facilitation of cargo and passenger movement across land routes, including rail and road networks. This concept is crucial for shippers and carriers, as it involves licensing and authorizations that ensure compliance with cabotage regulations. The liberalization of inland transport has led to expanded routes and improved logistical efficiency, enabling residents and citizens to cope with traffic saturation. Scheduled services and pricing structures are regulated to enhance competition while ensuring safety, particularly for dangerous goods. The integration of inland transport with airports and waterways further optimizes transport links across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:25.731026",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 297,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 1383,
+      "selected_avg_freq": 686.9066666666666
+    },
+    "related_words": [
+      "shippers",
+      "chartering",
+      "fares",
+      "saturation",
+      "cabotage",
+      "oporto",
+      "groupings",
+      "citizen",
+      "insufficiently",
+      "haulage",
+      "waterways",
+      "rotation",
+      "liberalization",
+      "facilitation",
+      "cope",
+      "waterway",
+      "logistical",
+      "resident",
+      "airport",
+      "saving",
+      "routes",
+      "airports",
+      "cargo",
+      "carriers",
+      "mail",
+      "save",
+      "expanded",
+      "passengers",
+      "inland",
+      "pricing"
+    ],
+    "prompt_length": 1678,
+    "category": "4811 organisation of transport"
+  }
+}

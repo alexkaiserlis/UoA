@@ -1,0 +1,63 @@
+{
+  "concept_id": "4691",
+  "concept_data": {
+    "title": "sheepmeat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sheepmeat\" within EU legal and regulatory frameworks encompasses various aspects of sheep farming, including lambing practices and the roles of shepherds in maintaining herds. Regulatory measures address the processes of destocking and the management of fattener operations, ensuring compliance with standards for meat quality. The term also relates to the functioning of smaller slachterijen (slaughterhouses) across regions such as Lurgan and Harlingen, where practices like transhumanc (seasonal migration of livestock) are observed. Additionally, the EU regulates the trade of sheepmeat products, including goatmeal and specific breeds like Herdwick and Loaghtan, to ensure food safety and traceability, reflecting the importance of compliance in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:24:47.126849",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2380,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 9.906666666666666
+    },
+    "related_words": [
+      "lambing",
+      "couvert",
+      "certai",
+      "fattener",
+      "shepherd",
+      "disbanding",
+      "dat",
+      "walved",
+      "accordinace",
+      "destocked",
+      "segureño",
+      "destocking",
+      "goatmeal",
+      "transhumanc",
+      "carlow",
+      "norther",
+      "abbatoir",
+      "lurgan",
+      "donemana",
+      "pice",
+      "allams",
+      "weigting",
+      "boucherie",
+      "slachtlammeren",
+      "nenagh",
+      "camolin",
+      "camolins",
+      "harlingen",
+      "sluis",
+      "bodegraven"
+    ],
+    "prompt_length": 1660,
+    "category": "6011 animal product"
+  }
+}

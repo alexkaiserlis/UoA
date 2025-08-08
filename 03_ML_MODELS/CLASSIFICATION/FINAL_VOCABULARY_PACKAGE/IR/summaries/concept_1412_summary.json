@@ -1,0 +1,63 @@
+{
+  "concept_id": "1412",
+  "concept_data": {
+    "title": "nuclear industry",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"nuclear industry\" encompasses the production and management of nuclear energy, including the operation of kernkraftwerk (nuclear power plants) and the associated regulatory frameworks within the EU. Key aspects include the decommissioning of reactors, such as the dismantling of outdated facilities, and the implementation of safety criteria to prevent incidents. The industry is governed by statutes that conferring responsibilities on operators, including the management of radioactive waste and the promotion of thermonuclear fusion experiments. Moreover, the shift towards sustainable energy necessitates the evaluation of performance metrics and the exploration of alternatives, such as high-temperature reactors. The societal impact, including kapitalverkehrsteuer implications and public perception, remains critical as the sector evolves.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:26.440543",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 365,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 987,
+      "selected_avg_freq": 428.7
+    },
+    "related_words": [
+      "decommission",
+      "gesellschaftsvertrag",
+      "nersa",
+      "cray",
+      "peformance",
+      "phénix",
+      "kapitalverkehrsteuer",
+      "gesellschaftsteuer",
+      "schnell",
+      "brüter",
+      "kernkraftwerksgesellschaft",
+      "sbk",
+      "bayernwerk",
+      "krb",
+      "critera",
+      "hochtemperatur",
+      "hkg",
+      "rwe",
+      "kernkraftwerk",
+      "torus",
+      "lightening",
+      "replacements",
+      "promoter",
+      "decommissioning",
+      "effecting",
+      "dismantled",
+      "coils",
+      "thermonuclear",
+      "shut",
+      "devolving"
+    ],
+    "prompt_length": 1745,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

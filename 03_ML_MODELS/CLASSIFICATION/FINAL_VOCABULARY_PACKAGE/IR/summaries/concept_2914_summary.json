@@ -1,0 +1,63 @@
+{
+  "concept_id": "2914",
+  "concept_data": {
+    "title": "research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"research\" within EU legal and regulatory frameworks encompasses a broad spectrum of activities aimed at advancing knowledge across various fields, including biology and physics. It serves as a pillar for innovation, contributing to the development of specialized sectors. Research is often supported by funding mechanisms, such as auctions and veiling procedures, which ensure that resources are allocated efficiently. Regulatory frameworks may impose heffingen and specific heffingverordening to manage financial contributions to research initiatives. Additionally, academia plays a crucial role in disseminating findings through symposiums and publications, while ensuring that methodologies remain intact and merit-based. The evolution of research practices is influenced by pandemics and other societal changes, requiring adaptability and a focus on emerging subtypes of inquiry.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:54.267118",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 748,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 291,
+      "selected_avg_freq": 123.02
+    },
+    "related_words": [
+      "erab",
+      "honorary",
+      "bucks",
+      "sovereigns",
+      "pgt",
+      "veevoeder",
+      "bett",
+      "halifax",
+      "wycombe",
+      "produktschappen",
+      "bedrijfsorganisatie",
+      "hoofdproduktschap",
+      "heffingen",
+      "heffingverordening",
+      "algemene",
+      "specifieke",
+      "veilingen",
+      "hfl",
+      "pandemics",
+      "repurchase",
+      "symposium",
+      "produktschap",
+      "punishable",
+      "skeleton",
+      "intact",
+      "dispersive",
+      "parafiscal",
+      "oilcake",
+      "academia",
+      "mutate"
+    ],
+    "prompt_length": 1719,
+    "category": "6416 research and intellectual property"
+  }
+}

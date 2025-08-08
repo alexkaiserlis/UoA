@@ -1,0 +1,63 @@
+{
+  "concept_id": "5645",
+  "concept_data": {
+    "title": "European Investment Fund",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Investment Fund (EIF) plays a pivotal role in fostering innovation and supporting SMEs across the EU. Founded to enhance access to finance, the EIF articulates its rationale through various financial instruments, including venture capital and lending schemes. With a subscribed capital of billions, it aims to stimulate job creation and sustainable growth. By aligning its strategies with the European Structural and Investment Funds (ESIF) and the European Maritime and Fisheries Fund (EMFF), the EIF boosts resource allocation for climate initiatives and inclusive economic development. The EIF’s directors emphasize a compact approach, utilizing indicators to measure milestones and ensure effective exploitation of assets.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:46:18.194466",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 295,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1200,
+      "selected_avg_freq": 609.66
+    },
+    "related_words": [
+      "esif",
+      "emff",
+      "milestone",
+      "articulated",
+      "dividends",
+      "rationale",
+      "numbering",
+      "venture",
+      "compact",
+      "recalling",
+      "enhancement",
+      "promotional",
+      "weightings",
+      "smart",
+      "boost",
+      "subscribed",
+      "restoring",
+      "emphasized",
+      "fostering",
+      "directors",
+      "statutes",
+      "indicator",
+      "shareholders",
+      "vote",
+      "discretion",
+      "asset",
+      "participated",
+      "nominal",
+      "resource",
+      "billion"
+    ],
+    "prompt_length": 1708,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

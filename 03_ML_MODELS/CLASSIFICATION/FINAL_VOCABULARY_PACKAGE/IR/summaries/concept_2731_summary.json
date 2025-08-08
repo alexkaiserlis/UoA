@@ -1,0 +1,63 @@
+{
+  "concept_id": "2731",
+  "concept_data": {
+    "title": "vegetable pulp",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "vegetable product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"vegetable pulp\" is a term that redirects to the preferred term \"vegetable product.\" This encompasses a variety of processed items derived from vegetables, including juiced, stoned, or unstoned forms. The regulation of these products is crucial for ensuring food safety and competitivity within the market. Specific processes, such as the crush of arrowroot or the creation of choucroute, must adhere to established standards. Additionally, the interests of innovators in the field are protected through stringent guidelines, which may include the use of refractometric analysis to assess quality. Variance in product types, including unmanufactured and unroasted options, is also recognized, ensuring comprehensive lists of permissible vegetable products.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:24.035589",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 2041,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 24.08
+    },
+    "related_words": [
+      "superflous",
+      "nonfixing",
+      "proces",
+      "poducts",
+      "listes",
+      "prviously",
+      "vcegetables",
+      "veg",
+      "etables",
+      "partricular",
+      "juiced",
+      "theinterests",
+      "spontaneously",
+      "reapplied",
+      "verge",
+      "acibenzolar",
+      "stoned",
+      "unstoned",
+      "arrowroot",
+      "salep",
+      "refractometric",
+      "choucroute",
+      "sunny",
+      "nights",
+      "garnie",
+      "thrown",
+      "variance",
+      "requried",
+      "seaweeds",
+      "muesli"
+    ],
+    "prompt_length": 1718,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1267",
+  "concept_data": {
+    "title": "petroleum oil",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "mineral oil",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"petroleum oil,\" categorized under the oil industry, is redirected to the preferred term \"mineral oil\" in EU legal and regulatory frameworks. Mineral oil encompasses various hydrocarbons, including unscented and uncoloured variants, which are utilized in diverse applications, from propellants to antifreeze. Regulatory documents often address the environmental implications of bituminous substances and their emulsions, necessitating careful oversight. The use of organostannic compounds and surfactants in formulations raises concerns about health disorders, prompting authorities to reexamine safety protocols. Additionally, the presence of compounds like cyclohexanol and butanol in mineral oil products can arouse curiosity regarding their effects on human aspiration and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:54.798554",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1023,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 150,
+      "selected_avg_freq": 60.52
+    },
+    "related_words": [
+      "theat",
+      "scented",
+      "unscented",
+      "uncoloured",
+      "arouse",
+      "curiosity",
+      "famae",
+      "tricks",
+      "antifreeze",
+      "reexamine",
+      "pfennigs",
+      "jokes",
+      "bituminous",
+      "isobutoxyethoxy",
+      "propellant",
+      "suction",
+      "slows",
+      "cyclohexanol",
+      "butanediol",
+      "nonane",
+      "laurate",
+      "polyphosphate",
+      "tetramer",
+      "nonanol",
+      "octanol",
+      "mistaken",
+      "phenylazo",
+      "aspiration",
+      "grill",
+      "kerosene"
+    ],
+    "prompt_length": 1719,
+    "category": "6616 oil industry"
+  }
+}

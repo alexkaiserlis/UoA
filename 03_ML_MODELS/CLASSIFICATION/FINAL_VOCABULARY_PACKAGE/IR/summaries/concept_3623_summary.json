@@ -1,0 +1,63 @@
+{
+  "concept_id": "3623",
+  "concept_data": {
+    "title": "retired worker",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "retired person",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"retired worker,\" redirected to \"retired person,\" is pivotal in EU employment policy, particularly concerning the ageing population. The EU emphasizes the need for comprehensive strategies that support the transition from active employment to retirement, ensuring financial sustainability through pensions and social solidarity. Guidelines launched by the EU aim to evaluate and monitor the processes affecting retired individuals, focusing on variables that influence their quality of life. By developing modules that promote inclusion and provide advice on retirement, the EU seeks to maximize the potentiality of retired persons, ensuring they remain active participants in society while addressing unemployment and related affairs.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:33:05.260050",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 160,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1558.8266666666666
+    },
+    "related_words": [
+      "potentiality",
+      "laeken",
+      "looking",
+      "maximise",
+      "module",
+      "modules",
+      "ageing",
+      "emphasis",
+      "guideline",
+      "retirement",
+      "variables",
+      "pensions",
+      "financially",
+      "solidarity",
+      "unemployment",
+      "supports",
+      "prolongation",
+      "hoc",
+      "incentive",
+      "sample",
+      "launched",
+      "specification",
+      "survey",
+      "strong",
+      "processes",
+      "evaluate",
+      "labour",
+      "advice",
+      "affairs",
+      "priorities"
+    ],
+    "prompt_length": 1720,
+    "category": "4406 employment"
+  }
+}

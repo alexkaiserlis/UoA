@@ -1,0 +1,63 @@
+{
+  "concept_id": "4654",
+  "concept_data": {
+    "title": "motor vehicle",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"motor vehicle\" within EU legal and regulatory frameworks encompasses a wide range of vehicles, including those with typeapproved features aimed at optimizing safety and reducing emissions. Regulations address critical aspects such as uninsured vehicles, ensuring compliance with standards that prevent pollution, including emissions of carbon monoxide (monixide). The design of motor vehicles, including backrests and bumpers, is scrutinized for manoeuvrability and safety, particularly in scenarios involving dummies during crash tests. Furthermore, regulations mandate the installation of advanced driver assistance systems (AEBs) to enhance safety. The management of idle times and the use of alternative fuels like CNG are also significant in reducing environmental impact.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:00:16.283403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2755,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 7.06
+    },
+    "related_words": [
+      "uninsured",
+      "optimization",
+      "backrest",
+      "submarining",
+      "typeapproved",
+      "wuold",
+      "manoeuvrability",
+      "cispr",
+      "editions",
+      "transposes",
+      "arches",
+      "supplemantary",
+      "cita",
+      "conomic",
+      "ralating",
+      "idling",
+      "dpf",
+      "otls",
+      "dummies",
+      "aebs",
+      "conservatively",
+      "sparkignition",
+      "cng",
+      "bumpers",
+      "sidecar",
+      "reclined",
+      "reutlingen",
+      "refraction",
+      "fakt",
+      "tilt"
+    ],
+    "prompt_length": 1681,
+    "category": "4811 organisation of transport"
+  }
+}

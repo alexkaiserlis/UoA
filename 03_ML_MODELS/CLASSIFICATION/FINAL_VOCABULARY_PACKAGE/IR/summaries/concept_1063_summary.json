@@ -1,0 +1,63 @@
+{
+  "concept_id": "1063",
+  "concept_data": {
+    "title": "woodland",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": true,
+    "preferred_term": "forest",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"woodland,\" categorized under forestry, is a redirect to the preferred term \"forest.\" In EU legal and regulatory frameworks, forests are crucial for maintaining ecological equilibria, especially in the context of biodiversity and climate change. The management of forested tracts involves various activities such as hauling, excavating, and seeding, which must adhere to strictest environmental standards. Regulations also address issues like the impact of catastrophic events, including fires and frosts, on conifers like Pinus radiata and Pinus pinaster. Innovative practices in upkeep, such as debarking and kiln drying, are essential for sustainable forestry. The EU emphasizes the need to standardize practices across regions, including the Iberian Peninsula and Languedoc-Roussillon, to mitigate risks from pests like Bursaphelenchus xylophilus. Thus, the term \"woodland\" encapsulates a broader regulatory context that ensures the protection and sustainable management of forests.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:20:59.694964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 846,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 313,
+      "selected_avg_freq": 135.21333333333334
+    },
+    "related_words": [
+      "hauling",
+      "excavating",
+      "equilibria",
+      "espcially",
+      "tracts",
+      "forested",
+      "burnt",
+      "pinaster",
+      "efics",
+      "seeding",
+      "propelling",
+      "woodland",
+      "monochamus",
+      "ait",
+      "catastrophic",
+      "pushing",
+      "radiata",
+      "frosts",
+      "innovatory",
+      "felled",
+      "ordinate",
+      "upkeep",
+      "debarking",
+      "attachments",
+      "kiln",
+      "conifers",
+      "levelling",
+      "pinus",
+      "azur",
+      "strictest"
+    ],
+    "prompt_length": 1673,
+    "category": "5636 forestry"
+  }
+}

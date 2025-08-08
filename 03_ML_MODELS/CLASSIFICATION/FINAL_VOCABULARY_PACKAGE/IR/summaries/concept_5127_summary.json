@@ -1,0 +1,63 @@
+{
+  "concept_id": "5127",
+  "concept_data": {
+    "title": "national law - European Union law",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU law - national law",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU law - national law\" highlights the interdependency between European Union regulations and member states' legal frameworks. This relationship is crucial as it restates the supremacy of EU law while allowing national laws to coexist, provided they do not endanger EU objectives. In various sectors, such as athletics, the EU commands compliance from sportsmen and institutions, ensuring that tournaments, like UEFA and IAAF events, adhere to established regulations. This bureaucratic interplay facilitates a cohesive legal environment, where national laws are faceted by EU directives. The concept underscores the importance of harmonization in legal practices across member states, ultimately benefiting audiences and athletes alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:19:47.213459",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 887,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 135,
+      "selected_avg_freq": 52.45333333333333
+    },
+    "related_words": [
+      "interdependency",
+      "bureaucratic",
+      "restates",
+      "dash",
+      "cooks",
+      "bennekom",
+      "morellato",
+      "atral",
+      "methylthioamphetamine",
+      "methylenedioxymethamphetamine",
+      "overdosage",
+      "hospitalisation",
+      "serval",
+      "testifies",
+      "pride",
+      "winner",
+      "infront",
+      "laxative",
+      "hockey",
+      "iihf",
+      "fis",
+      "iaaf",
+      "elite",
+      "mdma",
+      "faceted",
+      "mta",
+      "athletes",
+      "skiing",
+      "eaa",
+      "tournaments"
+    ],
+    "prompt_length": 1763,
+    "category": "1011 European Union law"
+  }
+}

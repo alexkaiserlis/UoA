@@ -1,0 +1,63 @@
+{
+  "concept_id": "815",
+  "concept_data": {
+    "title": "distribution enterprise",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "distribution business",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"distribution enterprise,\" redirected to \"distribution business,\" encompasses entities engaged in wholesaling goods, including hardware and other products. In the EU regulatory context, such businesses are subject to scrutiny regarding their operational practices, particularly concerning budgeted wages and the treatment of creditors. Notably, distribution businesses may face challenges like bankruptcies or mergers that could distort market competition. The legal framework mandates compliance with various regulations, ensuring that wholesalers operate transparently and avoid omissions in their financial reporting. Additionally, chambers of commerce often appraise the performance of these enterprises, which are integral to the economic landscape, especially in regions like Lombardy and Mülheim.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:46.651023",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 621,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 414,
+      "selected_avg_freq": 192.96
+    },
+    "related_words": [
+      "kühl",
+      "kgh",
+      "wholesaling",
+      "reigned",
+      "rpoceed",
+      "kiel",
+      "stinnes",
+      "mülheim",
+      "lange",
+      "veba",
+      "hugo",
+      "ruhr",
+      "appraised",
+      "something",
+      "subscriptions",
+      "modulated",
+      "bankrupt",
+      "wholesaler",
+      "lighten",
+      "budgeted",
+      "chambers",
+      "itl",
+      "brescia",
+      "privileged",
+      "aktiengesellschaft",
+      "arose",
+      "hardware",
+      "evade",
+      "enquiry",
+      "wages"
+    ],
+    "prompt_length": 1710,
+    "category": "4011 business classification"
+  }
+}

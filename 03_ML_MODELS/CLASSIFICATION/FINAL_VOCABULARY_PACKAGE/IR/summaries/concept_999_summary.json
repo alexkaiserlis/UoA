@@ -1,0 +1,63 @@
+{
+  "concept_id": "999",
+  "concept_data": {
+    "title": "joint subsidiary",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"joint subsidiary\" in EU legal and regulatory contexts refers to a business organization formed by two or more parent companies, each holding a vested interest in the subsidiary. This structure allows for shared resources and risks, particularly in sectors like petrochemicals and refining, where companies like Chevron and Calpam might collaborate. Joint subsidiaries can compete in markets, such as diesel and kerosene, while also addressing monopolies and ensuring compliance with EU regulations. They may derive benefits from economies of scale, enabling them to operate as wholesalers or retailers. Such arrangements are crucial for exploring new markets and optimizing household products like fertilizers and lubricating oils.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:21:31.920852",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 293,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 990,
+      "selected_avg_freq": 396.86
+    },
+    "related_words": [
+      "shv",
+      "chevron",
+      "steenkolen",
+      "handelsvereeniging",
+      "calpam",
+      "happening",
+      "socal",
+      "imaginably",
+      "kerosene",
+      "lubricating",
+      "asphalt",
+      "delaware",
+      "utrecht",
+      "monopolies",
+      "wholesaler",
+      "petrochemicals",
+      "california",
+      "paraffin",
+      "vested",
+      "possesses",
+      "disappear",
+      "fertilizers",
+      "returning",
+      "really",
+      "ceases",
+      "refineries",
+      "diesel",
+      "inc",
+      "ever",
+      "page"
+    ],
+    "prompt_length": 1662,
+    "category": "4006 business organisation"
+  }
+}

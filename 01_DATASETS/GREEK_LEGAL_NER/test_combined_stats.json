@@ -1,0 +1,90 @@
+{
+  "dataset_info": {
+    "total_sequences": 8926,
+    "total_tokens": 252775,
+    "average_sequence_length": 28.32,
+    "min_sequence_length": 1,
+    "max_sequence_length": 2593
+  },
+  "label_distribution": {
+    "B-LEG-REFS": 852,
+    "I-LEG-REFS": 1793,
+    "O": 238725,
+    "B-GPE": 1313,
+    "I-GPE": 2547,
+    "B-ORG": 1161,
+    "I-ORG": 3649,
+    "B-PERSON": 441,
+    "I-PERSON": 473,
+    "B-PUBLIC-DOCS": 254,
+    "I-PUBLIC-DOCS": 880,
+    "B-FACILITY": 111,
+    "I-FACILITY": 343,
+    "B-LOCATION-UNK": 67,
+    "I-LOCATION-UNK": 143,
+    "B-LOCATION-NAT": 7,
+    "I-LOCATION-NAT": 16
+  },
+  "entity_statistics": {
+    "LEG-REFS": {
+      "B_count": 852,
+      "I_count": 1793,
+      "total_tokens": 2645
+    },
+    "GPE": {
+      "B_count": 1313,
+      "I_count": 2547,
+      "total_tokens": 3860
+    },
+    "ORG": {
+      "B_count": 1161,
+      "I_count": 3649,
+      "total_tokens": 4810
+    },
+    "PERSON": {
+      "B_count": 441,
+      "I_count": 473,
+      "total_tokens": 914
+    },
+    "PUBLIC-DOCS": {
+      "B_count": 254,
+      "I_count": 880,
+      "total_tokens": 1134
+    },
+    "FACILITY": {
+      "B_count": 111,
+      "I_count": 343,
+      "total_tokens": 454
+    },
+    "LOCATION-UNK": {
+      "B_count": 67,
+      "I_count": 143,
+      "total_tokens": 210
+    },
+    "LOCATION-NAT": {
+      "B_count": 7,
+      "I_count": 16,
+      "total_tokens": 23
+    }
+  },
+  "unique_labels": [
+    "B-LEG-REFS",
+    "I-LEG-REFS",
+    "O",
+    "B-GPE",
+    "I-GPE",
+    "B-ORG",
+    "I-ORG",
+    "B-PERSON",
+    "I-PERSON",
+    "B-PUBLIC-DOCS",
+    "I-PUBLIC-DOCS",
+    "B-FACILITY",
+    "I-FACILITY",
+    "B-LOCATION-UNK",
+    "I-LOCATION-UNK",
+    "B-LOCATION-NAT",
+    "I-LOCATION-NAT"
+  ],
+  "num_unique_labels": 17
+}

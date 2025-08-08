@@ -1,0 +1,63 @@
+{
+  "concept_id": "2130",
+  "concept_data": {
+    "title": "International Labour Organization",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "International Labour Organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The International Labour Organisation (ILO), a specialized agency of the United Nations, embodies the principles of decent work and fairer labour standards globally. In the context of EU legal and regulatory frameworks, the ILO governs the ratifications of conventions that seek to address substandard working conditions, particularly for migrant workers, seafarers, and fishers. The EU actively engages with the ILO, urging member states to ratify and implement these conventions, which are foundational for ensuring rights and protections. Delegations convened at ILO meetings often analyse issues related to immigration and nationality, responding to the needs of diverse worker populations, including those from Sri Lanka and Salvador. The ILO's constitution plays a supreme role in shaping labour policies, and its input is crucial for enhancing the welfare of all workers, including those in shipboard occupations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:23:26.570867",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 485,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 780,
+      "selected_avg_freq": 361.2133333333333
+    },
+    "related_words": [
+      "desiring",
+      "ratifications",
+      "fatigue",
+      "fishers",
+      "ecsa",
+      "substandard",
+      "lankan",
+      "etf",
+      "shipboard",
+      "supreme",
+      "fairer",
+      "embodies",
+      "decent",
+      "seafarers",
+      "announcing",
+      "ilo",
+      "migrant",
+      "foundations",
+      "voted",
+      "governs",
+      "convened",
+      "delegations",
+      "asylum",
+      "salvador",
+      "sri",
+      "lanka",
+      "responded",
+      "immigration",
+      "urged",
+      "imo"
+    ],
+    "prompt_length": 1724,
+    "category": "7606 United Nations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "893",
+  "concept_data": {
+    "title": "labelling",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"labelling\" refers to the mandatory requirements for product information, ensuring clarity and compliance within diverse communities. This includes the accurate representation of ingredients, such as diacylglycerol and hydroxybenzyl compounds, which are essential for consumer safety. Labelling regulations also address complexing agents like ethylenediamine and diacetic acid, ensuring that products are safe and beneficial, particularly in sectors like food and pharmaceuticals. Moreover, labelling must consider neurotoxicological data and the flowability of substances, such as polylactide and methylpyrazole, to prevent adverse effects. Compliance with these standards promotes transparency and supports informed consumer choices, aligning with the EU's commitment to health and safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:38.838115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 6438,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.766666666666667
+    },
+    "related_words": [
+      "diacylglycerol",
+      "enovatm",
+      "paddock",
+      "sekt",
+      "clearest",
+      "comunities",
+      "neurotoxicological",
+      "complexing",
+      "lignosulfonic",
+      "hydroxybenzyl",
+      "ethylenediamine",
+      "diacetic",
+      "hbed",
+      "chlorosis",
+      "methylpyrazole",
+      "nitrophenyl",
+      "triamide",
+      "npt",
+      "packagers",
+      "kunsthonig",
+      "kunsthonning",
+      "nutriments",
+      "benefic",
+      "altimentarius",
+      "applciation",
+      "microfiltered",
+      "milks",
+      "plantseed",
+      "childresistant",
+      "südzucker"
+    ],
+    "prompt_length": 1726,
+    "category": "2031 marketing"
+  }
+}

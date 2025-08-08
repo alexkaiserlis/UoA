@@ -1,0 +1,63 @@
+{
+  "concept_id": "936",
+  "concept_data": {
+    "title": "winegrower",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "farmer",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"winegrower\" is redirected to the preferred term \"farmer,\" encompassing a broader category of agricultural producers. Winegrowers engage in farming systems that are subject to various regulations, including those governing the acidification and deacidifying processes of wine production. These regulations are crucial for ensuring quality and sustainability in regions like Württemberg and Castile. The EU promotes the fortunella and poncirus varieties, which are integral to enriching farmland. Additionally, policies may involve repayable incentives for elderly farmers, ensuring their participation in extensification and intensification efforts. This framework supports the scheduling of agricultural activities and the dispatching of products, while addressing challenges such as uncultivated land and infestations. Overall, the legal framework aims to neutralize adverse effects on agriculture, fostering a resilient farming community across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:50:51.014534",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 1014,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 249,
+      "selected_avg_freq": 111.29333333333334
+    },
+    "related_words": [
+      "foerderung",
+      "baeuerlichen",
+      "wuerttemburg",
+      "operatives",
+      "deacidifying",
+      "castille",
+      "landwirtschaft",
+      "interlocutors",
+      "gesetz",
+      "exploits",
+      "acidifying",
+      "hundreds",
+      "ducal",
+      "enriching",
+      "farmland",
+      "irrespectively",
+      "tens",
+      "reagard",
+      "increments",
+      "determing",
+      "zur",
+      "uncultivated",
+      "castile",
+      "constrained",
+      "freed",
+      "wuerttemberg",
+      "decoupled",
+      "fortunella",
+      "swingle",
+      "poncirus"
+    ],
+    "prompt_length": 1743,
+    "category": "5616 farming systems"
+  }
+}

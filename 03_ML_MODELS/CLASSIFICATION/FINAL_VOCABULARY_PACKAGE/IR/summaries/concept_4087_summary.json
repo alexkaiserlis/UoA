@@ -1,0 +1,63 @@
+{
+  "concept_id": "4087",
+  "concept_data": {
+    "title": "possession of arms",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "personal weapon",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"possession of arms,\" redirected to \"personal weapon,\" is crucial in EU legal and regulatory frameworks concerning public safety and politics. The EU emphasizes the need for disarmament and the control of stockpiles of civilian weapons to counter destabilising effects on society. Initiatives like the Wassenaar Arrangement and OSCE conventions promote the tracing and documentation of arms trafficking, thereby enhancing transparency. The biennial meetings convened in Stockholm focus on addressing illicit accumulation and proliferation of ammunition. By collaborating with international bodies, the EU aims to positively influence reconciliation efforts in conflict zones, underlining the importance of responsible arms possession in fostering security and countering terrorism.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:52.557115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 345,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 687,
+      "selected_avg_freq": 286.38666666666666
+    },
+    "related_words": [
+      "ossetia",
+      "codun",
+      "sitcen",
+      "sipri",
+      "biennial",
+      "devising",
+      "cit",
+      "wassenaar",
+      "convening",
+      "salw",
+      "topic",
+      "osce",
+      "stockpile",
+      "stockpiles",
+      "res",
+      "brokers",
+      "sponsored",
+      "disarmament",
+      "ammunition",
+      "emphasises",
+      "destabilising",
+      "collaborating",
+      "countering",
+      "positively",
+      "map",
+      "stockholm",
+      "convened",
+      "atmosphere",
+      "matching",
+      "lakes"
+    ],
+    "prompt_length": 1741,
+    "category": "0431 politics and public safety"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4122",
+  "concept_data": {
+    "title": "non-market service",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "free service",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"non-market service,\" which redirects to \"free service,\" encompasses a range of accessible offerings that citizens can utilise without expense. These services often include helplines and emergency communications, which are crucial for vulnerable groups, such as disabled individuals and victims of crime. The harmonisation of these services across member states aims to create a recognisable framework, ensuring that citizens can access essential functions, like medical assistance, through reserved numbers. This patchwork of regulations obliges operators to maintain accessible networks, dialling codes, and support systems, thus enhancing the overall identity and safety of European travellers and residents.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:24:42.178020",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2398,
+      "selected_avg_freq": 1092.6133333333332
+    },
+    "related_words": [
+      "patchwork",
+      "dialling",
+      "dialled",
+      "freephone",
+      "helpline",
+      "accessed",
+      "recognisable",
+      "websites",
+      "citizen",
+      "disabled",
+      "attach",
+      "numbering",
+      "reserving",
+      "telephone",
+      "ever",
+      "travellers",
+      "victims",
+      "assignment",
+      "threatening",
+      "pan",
+      "expense",
+      "crime",
+      "accessible",
+      "hours",
+      "controlling",
+      "identity",
+      "week",
+      "know",
+      "reserves",
+      "medical"
+    ],
+    "prompt_length": 1704,
+    "category": "2026 consumption"
+  }
+}

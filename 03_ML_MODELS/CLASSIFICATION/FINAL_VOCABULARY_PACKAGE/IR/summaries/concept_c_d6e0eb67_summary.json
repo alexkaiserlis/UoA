@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_d6e0eb67",
+  "concept_data": {
+    "title": "bank resolution",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Bank resolution refers to the legal and regulatory framework established within the European Union to manage the orderly restructuring or closure of failing banks, thereby safeguarding financial stability. This process is governed by the Bank Recovery and Resolution Directive (BRRD), which mandates that banks develop recovery plans and outlines the resolution tools available to authorities. Key objectives include minimizing taxpayer exposure, maintaining critical functions, and ensuring the continuity of essential banking services. The resolution process is designed to protect depositors and mitigate systemic risks, thereby reinforcing confidence in the financial system and promoting a resilient banking sector across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:46.795922",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1188,
+    "category": "2416 financial institutions and credit"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3304",
+  "concept_data": {
+    "title": "distribution of production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"distribution of production\" in EU legal and regulatory contexts refers to the apportionment of agricultural outputs, such as cotton, tomatoes, and vegetables, across member states. This concept is crucial for ensuring that production meets guaranteed quotas while adhering to established criteria. Each crop's yield is calculated in tonnes and allocated to respective producers, with notifications required for any reductions or overshoot of limits. The regulations aim to recognise fair practices, ensuring that all parties comply with contracts and that the distribution remains sound. This framework is essential for managing the production of merchantable goods and maintaining a balanced agricultural market.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:16.179833",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 163,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 3458,
+      "selected_avg_freq": 1521.7866666666666
+    },
+    "related_words": [
+      "reckoned",
+      "overshoot",
+      "onward",
+      "unginned",
+      "merchantable",
+      "apportionment",
+      "apportioned",
+      "hectares",
+      "cotton",
+      "fibres",
+      "tomatoes",
+      "disregarded",
+      "recognise",
+      "fibre",
+      "crop",
+      "guide",
+      "yield",
+      "allocating",
+      "vegetable",
+      "sum",
+      "exclusion",
+      "criterion",
+      "vary",
+      "exceeds",
+      "next",
+      "vegetables",
+      "notifications",
+      "reductions",
+      "consisting",
+      "guaranteed"
+    ],
+    "prompt_length": 1667,
+    "category": "6406 production"
+  }
+}

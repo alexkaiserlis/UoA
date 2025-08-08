@@ -1,0 +1,63 @@
+{
+  "concept_id": "4028",
+  "concept_data": {
+    "title": "social-security harmonization",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "social-security harmonisation",
+    "relation_type": "USE"
+  },
+  "summary": "Social-security harmonisation refers to the EU's regulatory framework aimed at ensuring that workers, including both salarati and autonomi, enjoy equal rights and protections across member states. This concept governs the coordination of social security systems, facilitating the mobility of migrants and ensuring that their rights, such as pensions and sickness benefits, are preserved regardless of their nationality. It enshrines the principle that insured individuals, including the unemployed and selfemployed, can seamlessly register and renew their entitlements while residing in different countries. By combining various national systems, social-security harmonisation aims to create a vigorous and modernised approach to social protection, ultimately benefiting families and workers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:41:24.348133",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 511,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 706,
+      "selected_avg_freq": 340.46
+    },
+    "related_words": [
+      "lavoratori",
+      "subordinati",
+      "salariati",
+      "autonomi",
+      "inaccuracy",
+      "selfemployed",
+      "seeker",
+      "renumbered",
+      "survivors",
+      "waivers",
+      "dealings",
+      "vigorous",
+      "invalidity",
+      "reside",
+      "goes",
+      "migrants",
+      "insured",
+      "migrant",
+      "unemployed",
+      "governs",
+      "enshrined",
+      "residing",
+      "combining",
+      "overview",
+      "geared",
+      "sickness",
+      "registering",
+      "prerequisite",
+      "worker",
+      "families"
+    ],
+    "prompt_length": 1744,
+    "category": "2836 social protection"
+  }
+}

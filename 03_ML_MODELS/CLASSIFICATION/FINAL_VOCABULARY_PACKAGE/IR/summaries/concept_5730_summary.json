@@ -1,0 +1,63 @@
+{
+  "concept_id": "5730",
+  "concept_data": {
+    "title": "Mecklenburg-Western Pomerania (Land)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Mecklenburg-Western Pomerania",
+    "relation_type": "USE"
+  },
+  "summary": "Mecklenburg-Western Pomerania, a prominent Land in Germany, is distinguished by its boundaries with Brandenburg and Saxony. This region, historically known as Pomerania, has faced various struggles, including the management of viral infections such as rhinotracheitis and herpesvirus. The EU regulatory framework often addresses regionalisation, particularly in the context of eradicating contagious diseases affecting livestock. The commune of Greifswald, surrounded by lush landscapes, exemplifies the lucrative agricultural potential of the area. In legal documents, references to Mecklenburg often describe its role in combating pathogenic outbreaks and ensuring the welfare of captive animals, thereby contributing to broader EU health initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:39:50.239656",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 369,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 950,
+      "selected_avg_freq": 374.64666666666665
+    },
+    "related_words": [
+      "mecklemburg",
+      "verden",
+      "struggle",
+      "heinrichswalde",
+      "greifswald",
+      "emsland",
+      "sheltering",
+      "graze",
+      "virulence",
+      "thuringia",
+      "rhinotracheitis",
+      "prominent",
+      "herpesvirus",
+      "vorpommern",
+      "pomerania",
+      "lucrative",
+      "commune",
+      "aujeszky",
+      "surrounded",
+      "anhalt",
+      "belt",
+      "brandenburg",
+      "enlarge",
+      "mecklenburg",
+      "disappeared",
+      "eradicating",
+      "symptoms",
+      "floods",
+      "subtype",
+      "bavaria"
+    ],
+    "prompt_length": 1794,
+    "category": "7211 regions of EU Member States"
+  }
+}

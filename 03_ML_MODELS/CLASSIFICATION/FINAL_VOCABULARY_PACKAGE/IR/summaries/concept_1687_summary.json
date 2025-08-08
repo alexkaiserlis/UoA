@@ -1,0 +1,63 @@
+{
+  "concept_id": "1687",
+  "concept_data": {
+    "title": "rent",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "property leasing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rent,\" redirected to \"property leasing,\" encompasses the legal framework governing leasehold agreements between lessors and lessees in the EU. This framework facilitates the acquisition of immovable property, allowing lessors to authorize the use of their property while lessees hold rights under the lease. The transaction often involves considerations of taxation, including VAT, where variations in tax treatment may arise. Harmonization efforts aim to ensure coherence across member states, addressing issues such as abandonment, assignment, and the ultimate expectation of both parties. The regulatory landscape also addresses the discretion of suppliers in charging taxes and the potential for avoidance strategies, ensuring a proportionate approach to compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:08.381505",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 205,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2257,
+      "selected_avg_freq": 993.38
+    },
+    "related_words": [
+      "leasehold",
+      "lessors",
+      "lessees",
+      "lessor",
+      "acquirer",
+      "lessee",
+      "progressing",
+      "surrender",
+      "expectation",
+      "immovable",
+      "acquiring",
+      "lease",
+      "abandonment",
+      "assignment",
+      "carries",
+      "evasion",
+      "discretion",
+      "taxable",
+      "avoidance",
+      "treat",
+      "ultimate",
+      "accruing",
+      "deduction",
+      "charging",
+      "variations",
+      "unanimously",
+      "package",
+      "vat",
+      "operates",
+      "irish"
+    ],
+    "prompt_length": 1714,
+    "category": "2846 construction and town planning"
+  }
+}

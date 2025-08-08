@@ -1,0 +1,63 @@
+{
+  "concept_id": "1193",
+  "concept_data": {
+    "title": "group of undertakings",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "group of companies",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"group of undertakings,\" often redirected to \"group of companies,\" refers to a conglomerate of legally distinct entities operating under a unified management structure. This totality of companies may engage in wholesaling and various sectors, including crude oil refineries and heating solutions. Regulatory frameworks scrutinise these groups for accountability, particularly during mergers and takeovers, to prevent tax evasion and ensure compliance with prudential standards. The transferor and successor roles within such groups are crucial, as they may affect tax deductions and withholding obligations. Overall, the concept facilitates a comprehensive understanding of corporate structures and their regulatory implications in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:38:08.433946",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 440,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 770,
+      "selected_avg_freq": 367.5
+    },
+    "related_words": [
+      "kühl",
+      "kgh",
+      "wholesaling",
+      "reigned",
+      "kiel",
+      "stinnes",
+      "mülheim",
+      "lange",
+      "veba",
+      "transferor",
+      "hugo",
+      "ruhr",
+      "conglomerate",
+      "wholesaler",
+      "scrutinise",
+      "privileged",
+      "aktiengesellschaft",
+      "evade",
+      "wholesalers",
+      "withholding",
+      "takeover",
+      "totality",
+      "accountability",
+      "merger",
+      "totalled",
+      "refineries",
+      "prudential",
+      "sells",
+      "dual",
+      "picture"
+    ],
+    "prompt_length": 1721,
+    "category": "4006 business organisation"
+  }
+}

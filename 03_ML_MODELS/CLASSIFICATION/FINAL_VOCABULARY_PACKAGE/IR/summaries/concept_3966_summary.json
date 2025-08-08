@@ -1,0 +1,26 @@
+{
+  "concept_id": "3966",
+  "concept_data": {
+    "title": "trial",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "legal hearing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"trial,\" categorized under justice, is redirected to the preferred term \"legal hearing\" within EU legal and regulatory frameworks. A legal hearing refers to a formal proceeding where evidence is presented, and legal arguments are made before a competent authority, typically a court. Trials serve as a cornerstone of the judicial process, ensuring due process and the fair adjudication of disputes. In the EU context, legal hearings are governed by various regulations and directives that uphold the principles of justice, transparency, and the right to a fair trial, reflecting the Union's commitment to the rule of law and fundamental rights.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:37.915681",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1185,
+    "category": "1221 justice"
+  }
+}

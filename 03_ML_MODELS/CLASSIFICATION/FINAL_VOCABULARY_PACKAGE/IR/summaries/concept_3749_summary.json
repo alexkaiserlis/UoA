@@ -1,0 +1,63 @@
+{
+  "concept_id": "3749",
+  "concept_data": {
+    "title": "quarry",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "mining operation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"quarry\" is redirected to \"mining operation,\" encompassing various extractive activities, including the extraction of potasse and sylvinite. Mining operations are subject to stringent regulations concerning the safety of miners and the management of hazardous atmospheres, such as firedamp. The rationale behind these regulations includes ensuring lawful practices in the extraction and reprocessing of minerals, including potassium and chloride, while addressing the workforce's welfare. Enterprises involved in mining must adhere to directives from the conseil and comply with environmental management standards (EMC) to prevent unlawful shutdowns and facilitate the redeployment of resources. Additionally, the complexities of mining operations often require bridging strategies for the accommodation of outbuildings and the management of folded workings, ensuring that operations can be reopened or reorganised efficiently.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:00:24.622005",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 364,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 899,
+      "selected_avg_freq": 363.72
+    },
+    "related_words": [
+      "potasse",
+      "entreprise",
+      "mdpa",
+      "sylvinite",
+      "directoire",
+      "mpda",
+      "domaniales",
+      "outbuildings",
+      "reconverting",
+      "mulhouse",
+      "firedamp",
+      "potasses",
+      "emc",
+      "minière",
+      "shutdown",
+      "severance",
+      "folded",
+      "concurs",
+      "retired",
+      "reprocessing",
+      "chimique",
+      "atmospheres",
+      "injections",
+      "anonyme",
+      "wound",
+      "conseil",
+      "extractive",
+      "prematurely",
+      "bridging",
+      "redeployment"
+    ],
+    "prompt_length": 1727,
+    "category": "6611 coal and mining industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5021",
+  "concept_data": {
+    "title": "treasury bill",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A treasury bill is a short-term debt security issued by a government, serving as a crucial instrument in public finance and budget policy within the EU. As a marketable security, it is typically issued by a guarantor, such as a national treasury, to fulfill fiscal commitments. The Eurosystem and the European Central Bank (ECB) play pivotal roles in ensuring the soundness of these instruments, which are closely monitored for eligibility and credit quality. Treasury bills contribute to monetary stability by providing a reliable means for banks and other participants to retain reserves. Their swift execution and underlying documentation are essential for protecting investors and maintaining market confidence, irrespective of prevailing economic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:12:36.251117",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 156,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 3590,
+      "selected_avg_freq": 1419.6
+    },
+    "related_words": [
+      "soundness",
+      "guarantor",
+      "issuer",
+      "collateral",
+      "debtor",
+      "eurosystem",
+      "disrupted",
+      "marketable",
+      "escb",
+      "guideline",
+      "swift",
+      "lending",
+      "underlying",
+      "fiscal",
+      "ecb",
+      "publicly",
+      "assessments",
+      "perspective",
+      "debt",
+      "reserves",
+      "prevailing",
+      "customers",
+      "participants",
+      "retain",
+      "statute",
+      "protecting",
+      "banks",
+      "irrespective",
+      "fulfils",
+      "credit"
+    ],
+    "prompt_length": 1715,
+    "category": "2436 public finance and budget policy"
+  }
+}

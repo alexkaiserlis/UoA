@@ -1,0 +1,63 @@
+{
+  "concept_id": "7977",
+  "concept_data": {
+    "title": "Pomerania",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pomerania, a region within the EU Member States, exemplifies a strategic geographic enclave surrounded by Poland and the Russian oblast of Kaliningrad. This area is characterized by its diverse inhabitants and cultural heritage, contributing to the European acquis. The region's borders facilitate enhanced interchange and traffic, while preserving the unique identity of its districts. Pomerania lies within the Schengen space, allowing residents to enjoy the benefits of free movement, albeit with potential barriers created by neighboring countries. The roadmap for regional development emphasizes subsidiarity, aiming to avoid penalties associated with non-compliance. Pomerania's integration into the EU framework builds a homogeneous federation that supports cultural and economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:55:09.415179",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 212,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 18,
+      "selected_max_freq": 2134,
+      "selected_avg_freq": 959.8866666666667
+    },
+    "related_words": [
+      "facilitations",
+      "oblast",
+      "enclave",
+      "surrounded",
+      "kaliningrad",
+      "inhabitants",
+      "interchange",
+      "residents",
+      "roadmap",
+      "divide",
+      "districts",
+      "latters",
+      "shape",
+      "homogeneous",
+      "builds",
+      "artificially",
+      "city",
+      "preserving",
+      "principality",
+      "geographic",
+      "liechtenstein",
+      "schengen",
+      "space",
+      "neighbouring",
+      "russian",
+      "abuse",
+      "enjoy",
+      "acquis",
+      "federation",
+      "borders"
+    ],
+    "prompt_length": 1693,
+    "category": "7211 regions of EU Member States"
+  }
+}

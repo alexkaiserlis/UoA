@@ -1,0 +1,63 @@
+{
+  "concept_id": "337",
+  "concept_data": {
+    "title": "regions of Denmark",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Denmark\" pertains to the administrative divisions within Denmark, including notable areas such as Bornholm, Lolland, and Jutland. In the context of EU legal and regulatory frameworks, these regions are significant for the allocation of funds from the European Regional Development Fund (ERDF) and the European Social Fund (ESF). The Danish regions are tasked with preparing indicative plans that align with EU priorities, contributing to rural development and regional investment. The European Investment Bank (EIB) plays a role in financing these initiatives, ensuring that commitments are met through structured partnerships and budgetary frameworks. Coordination among regions is essential for effective implementation and examination of projects aimed at enhancing regional readiness and economic conversion.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:17:49.187611",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 157,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 3636,
+      "selected_avg_freq": 1646.2066666666667
+    },
+    "related_words": [
+      "bornholm",
+      "lolland",
+      "jutland",
+      "esf",
+      "readiness",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "west",
+      "loan",
+      "statute",
+      "indicative",
+      "eaggf",
+      "north",
+      "contributing",
+      "rural",
+      "priorities",
+      "danish",
+      "islands",
+      "indication",
+      "source",
+      "selected",
+      "partnership",
+      "prepared",
+      "plans",
+      "commitments",
+      "examine"
+    ],
+    "prompt_length": 1652,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3745",
+  "concept_data": {
+    "title": "coalmining policy",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"coalmining policy\" within the EU regulatory framework addresses the complexities of the coal and mining industries, focusing on sustainable practices and the transition away from fossil fuels. This policy aims to secure a competitive and environmentally safe energy supply while respecting the rights of indigenous stakeholders. It involves a consultative approach, encouraging dialogue among experts and individuals affected by mining activities. The strategy includes disclosing harmful practices and promoting the replacement of uncompetitive coal mines with sustainable alternatives. Regular meetings and constant engagement with stakeholders are essential for prolonging solidarity and addressing broader issues related to coal mining in the spirit of the TFEU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:08.272544",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 167,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1399.8266666666666
+    },
+    "related_words": [
+      "nce",
+      "duplicating",
+      "nominate",
+      "uncompetitive",
+      "fossil",
+      "indigenous",
+      "mines",
+      "prolonging",
+      "broader",
+      "stakeholder",
+      "hard",
+      "environmentally",
+      "expressing",
+      "solidarity",
+      "spirit",
+      "named",
+      "recognises",
+      "consultative",
+      "dialogue",
+      "constant",
+      "hoc",
+      "respecting",
+      "subsidies",
+      "fuel",
+      "tfeu",
+      "disclosure",
+      "secure",
+      "harmful",
+      "organised",
+      "meetings"
+    ],
+    "prompt_length": 1689,
+    "category": "6611 coal and mining industries"
+  }
+}

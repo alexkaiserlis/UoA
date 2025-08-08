@@ -1,0 +1,63 @@
+{
+  "concept_id": "5536",
+  "concept_data": {
+    "title": "administrative contract",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"administrative contract\" in the EU context refers to a legally binding agreement between public authorities and private entities, often presided over by regulatory bodies like ESMA. These contracts are crucial for executing public service mandates and ensuring compliance with overarching legal frameworks. They can involve various financial instruments, including derivatives and futures, where counterparties are assessed for systemic risks. Regulatory requirements may expose providers to fines if they fail to adhere to prescriptive standards. Such contracts often utilize automated processes and tiered capitalisation structures, ensuring that the jurisdictional aspects align with IOSCO and other international standards, thereby enhancing prudential oversight.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:37:30.133259",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 465,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 684,
+      "selected_avg_freq": 289.18666666666667
+    },
+    "related_words": [
+      "csso",
+      "hkma",
+      "presided",
+      "dac",
+      "sfo",
+      "sfc",
+      "rch",
+      "rchs",
+      "pfmis",
+      "jurisdictional",
+      "capitalisation",
+      "tiered",
+      "ats",
+      "cpss",
+      "ccp",
+      "exposes",
+      "notional",
+      "ccps",
+      "prescriptive",
+      "iosco",
+      "tier",
+      "venues",
+      "repositories",
+      "overarching",
+      "bigger",
+      "otc",
+      "oman",
+      "conducts",
+      "assesses",
+      "ordinance"
+    ],
+    "prompt_length": 1641,
+    "category": "0436 executive power and public service"
+  }
+}

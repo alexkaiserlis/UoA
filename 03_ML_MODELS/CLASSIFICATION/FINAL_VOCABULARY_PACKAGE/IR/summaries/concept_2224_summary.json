@@ -1,0 +1,63 @@
+{
+  "concept_id": "2224",
+  "concept_data": {
+    "title": "Republic of Panama",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Panama",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Panama,\" categorized under political geography, is redirected to the preferred term \"Panama.\" This Central American nation plays a significant role in EU legal and regulatory frameworks, particularly concerning environmental protection and the conservation of exhaustible marine resources. The EU endorses initiatives aimed at combating overfishing, notably through agreements with ICCAT to manage thunnus species. Panama's involvement in the Kimberley Process underscores its commitment to regulating the diamond trade. Additionally, the country engages in readmission agreements with EU member states to address migrant flows. These efforts reflect Panama's strategic position in regional cooperation and sustainable development initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:52:48.954072",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 475,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 642,
+      "selected_avg_freq": 261.9266666666667
+    },
+    "related_words": [
+      "departemento",
+      "protecciรณn",
+      "dpa",
+      "subscribes",
+      "alimentos",
+      "exhaustible",
+      "thynnus",
+      "salud",
+      "ministerio",
+      "readmission",
+      "endorses",
+      "undetermined",
+      "washington",
+      "native",
+      "mali",
+      "substantiating",
+      "overfishing",
+      "migrants",
+      "employs",
+      "kimberley",
+      "iccat",
+      "ssc",
+      "categorisation",
+      "fin",
+      "thunnus",
+      "conserve",
+      "diamonds",
+      "belize",
+      "cambodia",
+      "attempts"
+    ],
+    "prompt_length": 1704,
+    "category": "7236 political geography"
+  }
+}

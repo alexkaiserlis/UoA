@@ -1,0 +1,63 @@
+{
+  "concept_id": "1391",
+  "concept_data": {
+    "title": "toy industry",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"toy industry\" encompasses a broad spectrum of products designed for children's play, subject to stringent EU regulations to ensure safety and compliance. Legal frameworks, such as the Bedarfsgegenständeverordnung and GPSGV, mandate rigorous risk assessments (Risikobewertung) to prevent hazards like choking on projectiles or suffocation from balloons. Toys must be constructed with materials that are non-reprotoxic and safe for pediatrics. Features such as airtight encapsulation and the avoidance of harmful substances like butylbenzyl and nitrosatables are critical. Compliance with standards ensures that toys do not pose risks, such as perforation or ingestion, thereby safeguarding children's airway and overall health.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:13:54.799036",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1840,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 20,
+      "selected_avg_freq": 10.893333333333333
+    },
+    "related_words": [
+      "twist",
+      "gouge",
+      "submergence",
+      "chests",
+      "elliptical",
+      "airtight",
+      "hemispherical",
+      "nose",
+      "mouths",
+      "pretending",
+      "pediatrics",
+      "stuck",
+      "projectiles",
+      "detach",
+      "projectile",
+      "suffocated",
+      "sucked",
+      "bow",
+      "arrow",
+      "unsticking",
+      "airway",
+      "affixation",
+      "reprotoxic",
+      "conflictual",
+      "stairs",
+      "fronted",
+      "hardborard",
+      "sprigs",
+      "isopropylidenediphenol",
+      "medicional"
+    ],
+    "prompt_length": 1729,
+    "category": "6846 miscellaneous industries"
+  }
+}

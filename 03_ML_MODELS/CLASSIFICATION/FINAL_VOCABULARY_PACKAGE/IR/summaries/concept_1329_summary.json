@@ -1,0 +1,63 @@
+{
+  "concept_id": "1329",
+  "concept_data": {
+    "title": "regions of Germany",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"regions of Germany\" pertains to the diverse administrative areas within the Federal Republic of Germany, which are crucial in the context of EU regulations. These regions are subject to specific regulations aimed at the preservation of natural habitats (naturschutzes) and landscape protection (landschaftsschutzes). The EU promotes the sustainable management (bewirtschaftung) of these areas through funding mechanisms such as bewirtschaftungszuschuesse and zuwendungen for the protection of endangered species (gefährdeten) and habitats. Moreover, the regulation of private property (privateigentum) and the establishment of national parks (nationalparken) are essential for ensuring the ecological balance (naturhaushalt) and addressing the imminent threats (drohenden gefahren) to biodiversity. The regions also play a role in the implementation of directives (richtlinien) that justify the conservation efforts (erhaltung) and the management of agricultural land (dauergruenlandflaechen).",
+  "metadata": {
+    "generation_date": "2025-07-30T02:18:09.451744",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 1307,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 90,
+      "selected_avg_freq": 31.78
+    },
+    "related_words": [
+      "regulatons",
+      "justifiy",
+      "aprpoved",
+      "pflege",
+      "feuchtwiesenschutzgebieten",
+      "zwecke",
+      "naturschutzes",
+      "abwehr",
+      "unmittelbar",
+      "drohenden",
+      "gefahren",
+      "naturhaushalt",
+      "bewirtschaftungszuschuesse",
+      "steillagenweisbaus",
+      "gruenden",
+      "landschaftsschutzes",
+      "biotopschutz",
+      "durch",
+      "einschraenkung",
+      "bewirtschaftung",
+      "flaechen",
+      "saarlouis",
+      "exceeed",
+      "eines",
+      "erschwernisausgleichs",
+      "sicherung",
+      "dauergruenlandflaechen",
+      "naturschutzgebieten",
+      "nationalparken",
+      "forderung"
+    ],
+    "prompt_length": 1858,
+    "category": "7211 regions of EU Member States"
+  }
+}

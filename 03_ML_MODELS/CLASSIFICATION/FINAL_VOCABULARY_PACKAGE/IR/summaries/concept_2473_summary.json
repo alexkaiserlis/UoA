@@ -1,0 +1,63 @@
+{
+  "concept_id": "2473",
+  "concept_data": {
+    "title": "development of communications",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "communications policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"development of communications,\" redirecting to \"communications policy,\" encompasses the EU's regulatory framework aimed at fostering a liberalised telecommunications market. This policy promotes affordable access to broadband and telephony services, ensuring entrants can seize opportunities within the market. By unbundling services and facilitating collocation, the EU aims to enhance competition among providers. The ubiquity of multimedia and wireless technologies is supported through initiatives that address the costing of infrastructure, such as metallic loops and DSL connections. Additionally, the policy encourages innovative solutions for workstation setups and acoustic enhancements, ensuring that subscribers benefit from inexpensive and efficient communication services throughout the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:21:38.687030",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 674,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 380,
+      "selected_avg_freq": 165.14666666666668
+    },
+    "related_words": [
+      "timetabling",
+      "perq",
+      "communicative",
+      "twisted",
+      "subscriber",
+      "bit",
+      "dsl",
+      "collocation",
+      "summertime",
+      "ubiquity",
+      "workstation",
+      "squeeze",
+      "inexpensive",
+      "unbundled",
+      "secretarial",
+      "loops",
+      "unbundling",
+      "rents",
+      "locked",
+      "seize",
+      "entrant",
+      "ideally",
+      "onp",
+      "unspecified",
+      "isdn",
+      "loop",
+      "pair",
+      "affordable",
+      "acoustic",
+      "multimedia"
+    ],
+    "prompt_length": 1713,
+    "category": "3226 communications"
+  }
+}

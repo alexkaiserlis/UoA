@@ -1,0 +1,63 @@
+{
+  "concept_id": "1056",
+  "concept_data": {
+    "title": "European Regional Development Fund",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Regional Development Fund (ERDF) plays a crucial role in the EU's financial framework, aimed at realizing interregional cohesion and counterbalancing disparities among member states. It intervenes in regions lagging behind economically, focusing on marginalized areas such as Mezzogiorno and Roma communities. The Fund simplifies the execution of projects by providing financial support for infrastructure renovation, including hydro turbines and other green technologies. Through programmed investments, the ERDF seeks to double the attractiveness of these regions, ensuring that themes of desegregation and inclusion are encompassed. By leveraging funds effectively, the ERDF aims to redress insufficiencies and promote a prosperous Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:40:32.066028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1067,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 255,
+      "selected_avg_freq": 123.32666666666667
+    },
+    "related_words": [
+      "exexution",
+      "themn",
+      "incraese",
+      "suparagraph",
+      "reflow",
+      "turbines",
+      "esm",
+      "wants",
+      "roma",
+      "intervenes",
+      "desegregation",
+      "financier",
+      "realizing",
+      "interregional",
+      "prosperous",
+      "devote",
+      "intercreditor",
+      "refocusing",
+      "doubling",
+      "eni",
+      "marginalised",
+      "encompassed",
+      "insufficiency",
+      "strands",
+      "simplifies",
+      "mini",
+      "rebate",
+      "themes",
+      "leverage",
+      "token"
+    ],
+    "prompt_length": 1705,
+    "category": "1021 EU finance"
+  }
+}

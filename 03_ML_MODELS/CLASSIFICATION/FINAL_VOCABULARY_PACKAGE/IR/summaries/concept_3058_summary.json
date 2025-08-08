@@ -1,0 +1,63 @@
+{
+  "concept_id": "3058",
+  "concept_data": {
+    "title": "economic zone",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "economic region",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"economic zone,\" which redirects to \"economic region,\" pertains to the EU's regional policy framework aimed at fostering cohesion and growth across various territories. This term encompasses areas recognized for their unique economic characteristics, such as maritime zones or rural regions, which are capable of fulfilling specific goals related to job creation and income generation. The EU's multiannual funding programs specify eligibility criteria for these zones, ensuring transparent allocation of resources. By drawing on statistical data, the EU scrutinizes associations and units within these regions to achieve coherent development strategies, ultimately enhancing the economic landscape and supporting sectors like fisheries and agriculture.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:44.749648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 2836,
+      "selected_avg_freq": 1408.1066666666666
+    },
+    "related_words": [
+      "puerto",
+      "rico",
+      "merged",
+      "hops",
+      "drew",
+      "nuts",
+      "goal",
+      "rational",
+      "jobs",
+      "territorial",
+      "harvest",
+      "coherent",
+      "maritime",
+      "apparent",
+      "cohesion",
+      "fulfils",
+      "altered",
+      "scrutiny",
+      "communications",
+      "fulfilling",
+      "refunds",
+      "names",
+      "funding",
+      "zone",
+      "rural",
+      "destination",
+      "zones",
+      "multiannual",
+      "associations",
+      "capable"
+    ],
+    "prompt_length": 1688,
+    "category": "1616 regions and regional policy"
+  }
+}

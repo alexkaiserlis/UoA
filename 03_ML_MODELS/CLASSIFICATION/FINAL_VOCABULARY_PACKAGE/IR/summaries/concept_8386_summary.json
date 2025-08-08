@@ -1,0 +1,63 @@
+{
+  "concept_id": "8386",
+  "concept_data": {
+    "title": "United Nations regional commission",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN regional commission",
+    "relation_type": "USE"
+  },
+  "summary": "The \"UN regional commission,\" a preferred term for \"United Nations regional commission,\" plays a pivotal role in harmonising global regulatory frameworks, particularly in the context of vehicle standards. These commissions, founded to facilitate cooperation among member states, increasingly address issues related to motor vehicles, including the approval of standards for mopeds, motorcycles, and quadricycles. They work to ensure that emissions from powered vehicles are within permissible limits, thereby reducing noise and exhaust pollution. The commissions also assist in the development of sidecar and trailer regulations, ensuring that all wheeled vehicles meet standardised safety prescriptions. Their decisions often require assent from member states, fostering a reciprocal approach to regulatory compliance worldwide.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:41:15.211981",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 252,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1806,
+      "selected_avg_freq": 772.3533333333334
+    },
+    "related_words": [
+      "sidecar",
+      "gtr",
+      "quadricycles",
+      "mopeds",
+      "motorcycle",
+      "diode",
+      "pedestrian",
+      "emitting",
+      "tricycles",
+      "cab",
+      "occupants",
+      "pole",
+      "braking",
+      "wheel",
+      "prescriptions",
+      "tyres",
+      "lamp",
+      "signalling",
+      "powered",
+      "wheeled",
+      "exhaust",
+      "unece",
+      "therefor",
+      "noise",
+      "ece",
+      "cycles",
+      "approvals",
+      "trailers",
+      "driven",
+      "vote"
+    ],
+    "prompt_length": 1696,
+    "category": "7606 United Nations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2609",
+  "concept_data": {
+    "title": "Community loan",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"Community loan\" in the context of EU finance refers to a financial instrument designed to support multiregional economic recovery and strengthen member states' fiscal stability. These loans, often exceeding a trillion euros, are serviced through various EU mechanisms, aiming to mobilize resources for development projects. They address disincentives that may arise during economic shocks, facilitating deleveraging and normalising financial conditions. The loans are subject to rigorous assessments of worthiness and defaulting risks, ensuring that funds are disbursed effectively. By anticipating future challenges, the EU aims to provide a comforting safety net, fostering courageous investments in regions like Montenegrin and Twente.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:20:08.817750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1612,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 53,
+      "selected_avg_freq": 24.233333333333334
+    },
+    "related_words": [
+      "ordinator",
+      "serviced",
+      "rh么ne",
+      "fsal",
+      "glaring",
+      "peine",
+      "stf",
+      "bunching",
+      "ecomonic",
+      "multiregional",
+      "trillion",
+      "ifc",
+      "pfsac",
+      "ebpac",
+      "undisbursed",
+      "emden",
+      "courageous",
+      "comforting",
+      "sba",
+      "pirmasens",
+      "zweibruecken",
+      "normalising",
+      "shocks",
+      "strenghten",
+      "recoveries",
+      "disincentives",
+      "anticipating",
+      "deleveraging",
+      "ldr",
+      "nsfrs"
+    ],
+    "prompt_length": 1674,
+    "category": "1021 EU finance"
+  }
+}

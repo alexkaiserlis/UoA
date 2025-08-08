@@ -1,0 +1,63 @@
+{
+  "concept_id": "2247",
+  "concept_data": {
+    "title": "national means of execution",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "application of EU law",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"national means of execution,\" a redirect to \"application of EU law,\" pertains to how Member States implement EU regulations within their legal frameworks. This execution must adhere to the permissibility of EU directives, ensuring compliance without infringing on national sovereignty. Each Member State, such as those with landgericht or oberlandesgericht systems, must create a data structure that reflects the segmentstruktur of their legal requirements. The practical implementation may vary, yet it must not be unzulänglich or unjust. Therefore, the development of national laws must consider the gleichen Anforderungen and ensure that they are gerecht, thereby facilitating a coherent legal environment across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:06:08.143119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 4943,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 3.973333333333333
+    },
+    "related_words": [
+      "azyx",
+      "brick",
+      "permissibility",
+      "landgericht",
+      "magill",
+      "ladbroke",
+      "bronner",
+      "cinq",
+      "infringment",
+      "oberlandesgericht",
+      "beklagten",
+      "dritten",
+      "selbständige",
+      "entwicklung",
+      "einer",
+      "segmentstruktur",
+      "ebenfalls",
+      "einteilung",
+      "nach",
+      "landkreisen",
+      "kreisfreien",
+      "städten",
+      "postleitzahlbezirken",
+      "beruht",
+      "deshalb",
+      "ggfs",
+      "annähernd",
+      "gleichen",
+      "anzahl",
+      "segmenten"
+    ],
+    "prompt_length": 1757,
+    "category": "1011 European Union law"
+  }
+}

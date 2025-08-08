@@ -1,0 +1,63 @@
+{
+  "concept_id": "5294",
+  "concept_data": {
+    "title": "scrap metal",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "metal waste",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"scrap metal,\" redirected to the preferred term \"metal waste,\" encompasses various regulatory frameworks within the EU aimed at minimising environmental deterioration. This includes promoting the recyclability and recoverability of metals, such as cadmium, mercury, and chromium, which are often found in waste streams. The EU emphasizes the importance of standardised practices for the dismantling and refurbishment of metal products, ensuring that materials like polyurethane and chlorofluorocarbons are managed responsibly. Campaigns for the reuse and repair of metal components, alongside regulations on shipments and trailers, aim to enhance the beneficial impacts of recycling while balancing economic and environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:52:12.357406",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 284,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1477,
+      "selected_avg_freq": 638.0466666666666
+    },
+    "related_words": [
+      "recyclability",
+      "recoverability",
+      "shredder",
+      "reusability",
+      "meteorology",
+      "parings",
+      "inaccuracies",
+      "denominator",
+      "polyurethane",
+      "streams",
+      "refurbishment",
+      "hexavalent",
+      "credited",
+      "foam",
+      "tolerated",
+      "chlorofluorocarbons",
+      "balancing",
+      "saudi",
+      "arabia",
+      "scrap",
+      "reuse",
+      "readily",
+      "cadmium",
+      "wastes",
+      "mercury",
+      "chromium",
+      "spare",
+      "recycling",
+      "trailers",
+      "assumption"
+    ],
+    "prompt_length": 1740,
+    "category": "5216 deterioration of the environment"
+  }
+}

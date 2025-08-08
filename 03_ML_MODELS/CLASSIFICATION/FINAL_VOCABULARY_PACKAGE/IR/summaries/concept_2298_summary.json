@@ -1,0 +1,63 @@
+{
+  "concept_id": "2298",
+  "concept_data": {
+    "title": "member country",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"member country\" refers to a sovereign state that has entered into a cooperative agreement with the European Union, thereby tacitly committing to adhere to its policies and regulations. These countries engage in various collaborative efforts, such as negotiating treaties and authorizations that address issues like public health, including the management of norovirus outbreaks and the regulation of shellfish. Member countries are also involved in the collation of data related to bacteriological standards and morphological studies, ensuring compliance with EU directives. The federative nature of the EU allows for diverse varieties of governance, where member countries can subcontract responsibilities while remaining abreast of overarching regulations. This cooperation is crucial for addressing challenges such as the posting of workers and managing public health crises, like hepatitis outbreaks, ensuring that all parties are satisfied with the outcomes of their collaborative efforts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:47:57.764605",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 148,
+    "vocabulary_stats": {
+      "total_related_words": 945,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 227,
+      "selected_avg_freq": 101.1
+    },
+    "related_words": [
+      "subhending",
+      "theagainst",
+      "colonal",
+      "courbu",
+      "hambourg",
+      "binova",
+      "satisfactoy",
+      "norovirus",
+      "nvs",
+      "lest",
+      "petit",
+      "authorizaton",
+      "varieites",
+      "vibrios",
+      "clones",
+      "lengthen",
+      "muscat",
+      "nsg",
+      "blanc",
+      "morphological",
+      "rootstock",
+      "collating",
+      "weybridge",
+      "subcontracts",
+      "cefas",
+      "weymouth",
+      "betwen",
+      "wassenaar",
+      "negotiator",
+      "hepatitis"
+    ],
+    "prompt_length": 1661,
+    "category": "0811 cooperation policy"
+  }
+}

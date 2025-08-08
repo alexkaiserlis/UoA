@@ -1,0 +1,63 @@
+{
+  "concept_id": "1719",
+  "concept_data": {
+    "title": "farm machinery",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "agricultural machinery",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farm machinery,\" redirected to \"agricultural machinery,\" encompasses a wide range of appliances utilized in agricultural production within the EU. This includes equipment for hauling, excavating, and landscaping, such as grasscutters, mowers, and lawnmowers. These machines are classified based on their function, with attachments that enhance capabilities like digging and levelling. Regulatory frameworks govern the use of oscillating and reciprocating machinery, ensuring safety and efficiency in outdoor operations. The EU also addresses issues like scrapping and the electromagnetic properties of these machines, which are essential for propelling and motion. Overall, agricultural machinery plays a crucial role in modern farming practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:29.295149",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 459,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 474,
+      "selected_avg_freq": 170.3
+    },
+    "related_words": [
+      "hauling",
+      "excavating",
+      "grasscutters",
+      "mowers",
+      "avant",
+      "tecno",
+      "ylötie",
+      "ylöjärvi",
+      "digging",
+      "mtt",
+      "vakola",
+      "rops",
+      "oscillating",
+      "landscaping",
+      "ride",
+      "fops",
+      "disabling",
+      "propelling",
+      "shafts",
+      "gearing",
+      "stables",
+      "cutter",
+      "lawnmower",
+      "cutters",
+      "pushing",
+      "lateral",
+      "reciprocating",
+      "earthmoving",
+      "felled",
+      "lawnmowers"
+    ],
+    "prompt_length": 1713,
+    "category": "5626 means of agricultural production"
+  }
+}

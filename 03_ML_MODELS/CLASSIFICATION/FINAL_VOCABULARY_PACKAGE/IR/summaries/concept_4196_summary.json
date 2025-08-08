@@ -1,0 +1,63 @@
+{
+  "concept_id": "4196",
+  "concept_data": {
+    "title": "registered company",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "company with share capital",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"registered company,\" often referred to as a \"company with share capital,\" is a legal entity formed to raise capital through the issuance of shares. Such companies are regulated under specific directives that confer rights and obligations to holders of shares and debentures. They may issue convertible or exchangeable securities, allowing investors to obtain a fuller stake in the company. The admission of shares to regulated exchanges involves scrutiny of particulars and compliance with yearly reporting requirements. This structure facilitates the interpenetration of capital markets, permitting coordinated transactions while ensuring that assets are managed in a manner that satisfies regulatory standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:22:51.275926",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 221,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2010,
+      "selected_avg_freq": 1033.9333333333334
+    },
+    "related_words": [
+      "debentures",
+      "exchangeable",
+      "interpenetration",
+      "acquires",
+      "convertible",
+      "obtains",
+      "fuller",
+      "warrants",
+      "investors",
+      "reconstruction",
+      "seeks",
+      "appraisal",
+      "formed",
+      "genuine",
+      "varying",
+      "coordinating",
+      "confined",
+      "raising",
+      "holders",
+      "admitted",
+      "confer",
+      "listing",
+      "simultaneously",
+      "yearly",
+      "permitting",
+      "regulated",
+      "assets",
+      "equivalence",
+      "admission",
+      "derogate"
+    ],
+    "prompt_length": 1759,
+    "category": "4016 legal form of organisations"
+  }
+}

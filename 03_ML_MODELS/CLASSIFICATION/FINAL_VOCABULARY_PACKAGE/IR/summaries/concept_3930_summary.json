@@ -1,0 +1,26 @@
+{
+  "concept_id": "3930",
+  "concept_data": {
+    "title": "map",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "atlas",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"map\" is categorized under documentation, specifically relating to the preferred term \"atlas.\" In the context of EU legal and regulatory documents, an atlas serves as a comprehensive representation of geographical and thematic data, facilitating the visualization of complex information. This concept is essential for policymakers and legal practitioners who require precise spatial analysis to inform decisions and regulatory frameworks. Although \"map\" redirects to \"atlas,\" both terms signify tools that enhance understanding of EU policies and legislation through visual documentation. Such resources are crucial for effective communication and dissemination of information within the EU's regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:14:56.124973",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1181,
+    "category": "3221 documentation"
+  }
+}

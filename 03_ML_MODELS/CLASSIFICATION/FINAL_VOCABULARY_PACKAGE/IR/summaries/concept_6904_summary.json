@@ -1,0 +1,63 @@
+{
+  "concept_id": "6904",
+  "concept_data": {
+    "title": "medical report",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"medical report\" is a specialised document that reflects the findings of health assessments, often generated through participatory processes involving various stakeholders. In the EU regulatory context, these reports are crucial for the dissemination of knowledge regarding diseases and health challenges. They support strategic actions and recommendations by providing managers and experts with essential data for informed decision-making. The preparation of medical reports requires close collaboration among interested bodies, ensuring that the final document aligns with the overarching health strategy. Regular consultations and communication mechanisms are implemented to enhance the quality and relevance of these reports, thereby facilitating effective health management across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:29.292371",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1767.79
+    },
+    "related_words": [
+      "participatory",
+      "rare",
+      "managers",
+      "com",
+      "challenges",
+      "specialised",
+      "dissemination",
+      "generation",
+      "strategic",
+      "paper",
+      "parallel",
+      "stakeholders",
+      "white",
+      "diseases",
+      "hereafter",
+      "assisted",
+      "processes",
+      "reflected",
+      "fields",
+      "recommended",
+      "mechanisms",
+      "supported",
+      "knowledge",
+      "consultations",
+      "strategy",
+      "experts",
+      "priority",
+      "projects",
+      "conferred",
+      "preparation"
+    ],
+    "prompt_length": 1699,
+    "category": "2841 health"
+  }
+}

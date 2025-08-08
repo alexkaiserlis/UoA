@@ -1,0 +1,63 @@
+{
+  "concept_id": "7986",
+  "concept_data": {
+    "title": "European Union Agency for Law Enforcement Training",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "CEPOL",
+    "relation_type": "USE"
+  },
+  "summary": "The European Union Agency for Law Enforcement Training, commonly referred to as CEPOL, is a pivotal institution within the EU's framework for enhancing policing capabilities across member states. Established to foster mutual cooperation, CEPOL hosts training programs aimed at police forces, thereby ensuring a smooth exchange of knowledge and best practices. Its headquarters, located in Budapest, serves as the central site for coordinating these educational initiatives. Notwithstanding the diverse legal frameworks of member states, CEPOL operates under the principles of the Treaty on the Functioning of the European Union (TFEU) and the Justice and Home Affairs (JHA) agenda, supporting urgent needs in law enforcement training. The agency's selection of candidates for training programs is designed to reflect the varied policing models across the EU, promoting freedom and security while respecting the sovereignty of governments.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:04:54.898122",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 134,
+    "vocabulary_stats": {
+      "total_related_words": 198,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2334,
+      "selected_avg_freq": 1006.2933333333333
+    },
+    "related_words": [
+      "bramshill",
+      "policing",
+      "sincere",
+      "cepol",
+      "hosts",
+      "budapest",
+      "hosted",
+      "college",
+      "hosting",
+      "jeopardising",
+      "headquarters",
+      "seat",
+      "teu",
+      "director",
+      "wished",
+      "unilaterally",
+      "mutually",
+      "accord",
+      "emerged",
+      "candidates",
+      "starts",
+      "leaves",
+      "jha",
+      "police",
+      "deriving",
+      "elsewhere",
+      "site",
+      "host",
+      "run",
+      "lisbon"
+    ],
+    "prompt_length": 1691,
+    "category": "1016 European construction"
+  }
+}

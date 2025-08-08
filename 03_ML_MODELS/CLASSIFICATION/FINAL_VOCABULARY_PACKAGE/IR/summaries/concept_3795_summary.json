@@ -1,0 +1,63 @@
+{
+  "concept_id": "3795",
+  "concept_data": {
+    "title": "fermentation process",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "bioprocess",
+    "relation_type": "USE"
+  },
+  "summary": "The \"fermentation process,\" often redirected to the preferred term \"bioprocess,\" is a critical technology within EU regulatory frameworks, particularly in biochemistry and biotechnology. This process involves the use of microorganisms to convert substrates, such as carbohydrates, into valuable products, mitigating harmful byproducts. Regulatory documents may reference the kinetics of fermentation, including the role of ligands and lectins in metabolic pathways. Advanced techniques like spectrophotometers and spectrofluorometers are employed to analyze fluorescence and spectral characteristics of fermentation products. Understanding these processes is essential for ensuring the harmlessness of bioproducts, particularly in neonatal applications where erythrocytes may be affected by metabolic byproducts.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:55.637214",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 414,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 634,
+      "selected_avg_freq": 212.38
+    },
+    "related_words": [
+      "chart",
+      "erythrocytes",
+      "michaelis",
+      "neonatal",
+      "jaundice",
+      "spectroflurometer",
+      "ligands",
+      "lectins",
+      "tumorous",
+      "denaturations",
+      "erythrocyte",
+      "căšdex",
+      "nir",
+      "persulphide",
+      "charactistics",
+      "gilford",
+      "aminco",
+      "sfr",
+      "braintree",
+      "excitation",
+      "baird",
+      "biochemistry",
+      "disulphide",
+      "spectrofluorometer",
+      "pye",
+      "unicam",
+      "longjumeau",
+      "kinetics",
+      "fluorescence",
+      "jobin"
+    ],
+    "prompt_length": 1762,
+    "category": "6411 technology and technical regulations"
+  }
+}

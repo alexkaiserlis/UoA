@@ -1,0 +1,63 @@
+{
+  "concept_id": "1434",
+  "concept_data": {
+    "title": "industrial infrastructure",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"industrial infrastructure\" encompasses critical frameworks and facilities essential for economic activities within the EU. It includes various infrastructures that support industrial operations, allowing for improved cooperation among parties in different fields. The designation of specific areas for industrial use is often based on assessments and agreements that extend the scope of existing provisions. Regulatory documents, such as directives and proposals, may contain amendments that address the need for joint arrangements to protect these infrastructures. The functioning of the internal market relies on the effective implementation of such infrastructures, as outlined in relevant articles and protocols, ensuring the freedoms necessary for economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:00:11.829181",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 183,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 183,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2292.677966101695
+    },
+    "related_words": [
+      "infrastructures",
+      "freedoms",
+      "critical",
+      "designation",
+      "fields",
+      "attached",
+      "identification",
+      "contracting",
+      "four",
+      "contains",
+      "draft",
+      "amendment",
+      "extend",
+      "improve",
+      "protocol",
+      "joint",
+      "assessment",
+      "position",
+      "parties",
+      "extended",
+      "scope",
+      "area",
+      "allow",
+      "activities",
+      "cooperation",
+      "eea",
+      "protection",
+      "arrangements",
+      "need",
+      "including"
+    ],
+    "prompt_length": 1700,
+    "category": "6806 industrial structures and policy"
+  }
+}

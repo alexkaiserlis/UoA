@@ -1,0 +1,63 @@
+{
+  "concept_id": "3872",
+  "concept_data": {
+    "title": "optical medium",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"optical medium\" refers to a material used for the dissemination of information, particularly in the context of communications within the EU regulatory framework. This concept is critical for the production and distribution of educational and scientific materials, where the optical medium serves as a vehicle for the publication of research findings and welfare-related content. In proceedings related to health and veterinary legislation, optical media may be invoiced as part of the budget allocated for training and conferences. The EU undertakes initiatives to assist in the global dissemination of information, ensuring that materials produced are in line with expected standards and contribute effectively to the health and education sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:03:11.987039",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1795.2222222222222
+    },
+    "related_words": [
+      "rom",
+      "dissociated",
+      "disseminate",
+      "invoiced",
+      "elaboration",
+      "hard",
+      "credits",
+      "oie",
+      "copy",
+      "dissemination",
+      "education",
+      "welfare",
+      "distributed",
+      "publish",
+      "proceedings",
+      "undertake",
+      "conference",
+      "expired",
+      "financed",
+      "finance",
+      "produce",
+      "assist",
+      "veterinary",
+      "training",
+      "global",
+      "version",
+      "chain",
+      "materials",
+      "eur",
+      "expected"
+    ],
+    "prompt_length": 1661,
+    "category": "3226 communications"
+  }
+}

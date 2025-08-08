@@ -1,0 +1,63 @@
+{
+  "concept_id": "467",
+  "concept_data": {
+    "title": "steering mechanism",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "driving mechanism",
+    "relation_type": "USE"
+  },
+  "summary": "The \"steering mechanism,\" also referred to as the \"driving mechanism,\" is a critical concept within the EU's regulatory framework for the organization of transport. This mechanism entails various devices and components that ensure vehicles, including tractors and trailers, are aligned and controlled effectively. The standardization of steering systems, as per ISO specifications, adds clarity to the identification and classification of these devices. The interior fittings of vehicles must adhere to binding regulations to facilitate safe operation. Moreover, the reciprocal relationship between steering mechanisms and vehicle performance is essential for adapting to evolving forestry and transport needs, ensuring that all units meet recognized standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:50.992531",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 187,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2961,
+      "selected_avg_freq": 1419.96
+    },
+    "related_words": [
+      "devide",
+      "tales",
+      "tell",
+      "reversing",
+      "coupling",
+      "interior",
+      "fittings",
+      "wheeled",
+      "tractors",
+      "reverse",
+      "ece",
+      "trailers",
+      "device",
+      "steering",
+      "standardization",
+      "iso",
+      "indicators",
+      "subdivision",
+      "motor",
+      "entails",
+      "adds",
+      "contents",
+      "devices",
+      "vehicle",
+      "reciprocal",
+      "aligned",
+      "format",
+      "forestry",
+      "invoked",
+      "differ"
+    ],
+    "prompt_length": 1717,
+    "category": "4811 organisation of transport"
+  }
+}

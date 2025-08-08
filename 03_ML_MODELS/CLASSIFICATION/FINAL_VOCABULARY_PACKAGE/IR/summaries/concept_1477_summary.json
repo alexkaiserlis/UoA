@@ -1,0 +1,63 @@
+{
+  "concept_id": "1477",
+  "concept_data": {
+    "title": "trade intermediary",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"trade intermediary\" refers to entities that facilitate the exchange of goods and services between parties, playing a crucial role in distributive trades within the EU. These intermediaries are often involved in the adaptation of methods to meet evolving market demands, effectively replacing traditional models. They are defined by their acceptance of responsibilities in transactions, ensuring compliance with regional directives and conventions. The evolution of trade intermediaries has led to updated instruments that address concerns related to preferential treatment and political implications. Institutions in member states, such as Bulgaria and Romania, remain integral to this framework, drawing on original agreements signed at conferences.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:36.337845",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 128,
+      "requested_words": 150,
+      "min_frequency_found": 92,
+      "max_frequency_found": 4108,
+      "selected_words": 128,
+      "selected_min_freq": 92,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1898.5234375
+    },
+    "related_words": [
+      "depositary",
+      "pan",
+      "deposited",
+      "drew",
+      "traded",
+      "iceland",
+      "mediterranean",
+      "replacing",
+      "evolution",
+      "adaptations",
+      "replacement",
+      "preferential",
+      "concept",
+      "conference",
+      "original",
+      "refers",
+      "freedom",
+      "acceptance",
+      "political",
+      "attached",
+      "invited",
+      "euro",
+      "contracting",
+      "adapting",
+      "bulgaria",
+      "adaptation",
+      "romania",
+      "valid",
+      "effectively",
+      "unless"
+    ],
+    "prompt_length": 1691,
+    "category": "2036 distributive trades"
+  }
+}

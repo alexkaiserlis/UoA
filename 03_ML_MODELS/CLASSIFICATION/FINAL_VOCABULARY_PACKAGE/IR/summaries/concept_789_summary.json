@@ -1,0 +1,26 @@
+{
+  "concept_id": "789",
+  "concept_data": {
+    "title": "compulsory schooling",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "compulsory education",
+    "relation_type": "USE"
+  },
+  "summary": "Compulsory schooling, more commonly referred to as \"compulsory education,\" is a legal requirement within the European Union that mandates children to attend school for a specified period. This framework is designed to ensure that all children receive a minimum standard of education, contributing to their personal development and societal integration. The EU's regulatory documents emphasize the importance of compulsory education in promoting equal opportunities and combating social exclusion. Member States are tasked with implementing policies that align with this directive, ensuring that educational access is equitable and inclusive. This concept underscores the EU's commitment to fostering a knowledgeable and skilled populace.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:59.795671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1208,
+    "category": "3211 teaching"
+  }
+}

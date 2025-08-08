@@ -1,0 +1,63 @@
+{
+  "concept_id": "2769",
+  "concept_data": {
+    "title": "gross national product",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Gross National Product (GNP) is a crucial concept within EU national accounts, representing the total value of goods and services produced by a nation's residents, including income earned abroad. This theoretical construct presupposes a robust framework for compiling economic data, ensuring exhaustiveness in classifications. GNP is often compared to Gross Domestic Product (GDP), with notable discrepancies in their interpretations. The European System of Accounts (ESA) provides guidelines for GNP calculations, emphasizing the importance of accuracy in receipts and repayments. Understanding GNP is essential for addressing issues of complicity and evasion in economic policies, thereby enhancing representativity in fiscal intermediation and resource allocation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:12:49.046403",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 467,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 688,
+      "selected_avg_freq": 341.12
+    },
+    "related_words": [
+      "connivance",
+      "complicity",
+      "ucis",
+      "undistributed",
+      "notions",
+      "fisim",
+      "exhaustiveness",
+      "intermediation",
+      "gnpmp",
+      "interpret",
+      "gni",
+      "gnp",
+      "superseding",
+      "emi",
+      "repayments",
+      "endowed",
+      "representativity",
+      "compile",
+      "presupposes",
+      "receipts",
+      "submits",
+      "theoretical",
+      "governors",
+      "robust",
+      "solving",
+      "classifications",
+      "esa",
+      "precedent",
+      "reservations",
+      "ensuing"
+    ],
+    "prompt_length": 1701,
+    "category": "1626 national accounts"
+  }
+}

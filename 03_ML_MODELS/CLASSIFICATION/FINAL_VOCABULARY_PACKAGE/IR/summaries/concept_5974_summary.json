@@ -1,0 +1,63 @@
+{
+  "concept_id": "5974",
+  "concept_data": {
+    "title": "unemployment level",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "unemployment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"unemployment level,\" redirected to the preferred term \"unemployment,\" is crucial in EU legal and regulatory frameworks concerning employment. It consists of indicators derived from biennial censuses and surveys, which are harmonized across member states to ensure comparability. The ILO (International Labour Organization) provides guidelines for ascertaining unemployment, addressing disadvantaged populations and sectoral variances. Regularly conducted questionnaires and surveys facilitate the monitoring of unemployment trends, enabling departments to participate in policy formulation. The impossibility of null data necessitates synchronized efforts in data collection, ensuring that appropriations for employment initiatives are effectively assigned and that restructuring efforts are socially inclusive.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:27:30.996469",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 205,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2266,
+      "selected_avg_freq": 1077.8733333333332
+    },
+    "related_words": [
+      "biennial",
+      "acquainted",
+      "synchronized",
+      "censuses",
+      "null",
+      "dispensed",
+      "ilo",
+      "mezzogiorno",
+      "impossibility",
+      "socially",
+      "repetition",
+      "ascertaining",
+      "disadvantaged",
+      "void",
+      "variables",
+      "greenland",
+      "formulation",
+      "questionnaires",
+      "unemployment",
+      "meant",
+      "spring",
+      "indicators",
+      "sectoral",
+      "surveys",
+      "comparability",
+      "sample",
+      "economically",
+      "exceptionally",
+      "survey",
+      "questions"
+    ],
+    "prompt_length": 1762,
+    "category": "4406 employment"
+  }
+}

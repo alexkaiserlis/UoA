@@ -1,0 +1,63 @@
+{
+  "concept_id": "1738",
+  "concept_data": {
+    "title": "farm worker",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "agricultural labour force",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"farm worker,\" redirected to \"agricultural labour force,\" encompasses a diverse group of employees engaged in farming systems across the EU. This concept is significant for socio-economic analyses, as it represents the backbone of agricultural productivity. Surveys conducted on this labour force provide essential data on earnings, working conditions, and seasonal employment patterns. Observers note that the representativeness of these surveys is crucial for accurate comparisons and understanding of the workforce's dynamics. Employers must implement programs that ensure fair treatment, while periodicity in data collection helps transcribe changes in the agricultural landscape. Thus, the agricultural labour force is vital for the optimum functioning of the EU's farming sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:12.659570",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 320,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1313,
+      "selected_avg_freq": 658.06
+    },
+    "related_words": [
+      "sexes",
+      "insignificance",
+      "transcribe",
+      "transcription",
+      "tape",
+      "furniture",
+      "periodicity",
+      "representativeness",
+      "worker",
+      "magnetic",
+      "observers",
+      "economical",
+      "earnings",
+      "employers",
+      "comparisons",
+      "selective",
+      "random",
+      "program",
+      "outline",
+      "insignificant",
+      "conducting",
+      "distorted",
+      "implements",
+      "observation",
+      "certifying",
+      "continuously",
+      "meant",
+      "socio",
+      "thereafter",
+      "arisen"
+    ],
+    "prompt_length": 1738,
+    "category": "5616 farming systems"
+  }
+}

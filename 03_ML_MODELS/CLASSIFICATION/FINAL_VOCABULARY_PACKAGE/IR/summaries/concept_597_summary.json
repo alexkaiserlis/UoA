@@ -1,0 +1,63 @@
+{
+  "concept_id": "597",
+  "concept_data": {
+    "title": "water",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"water\" within EU legal and regulatory frameworks encompasses various aspects of the natural environment, particularly focusing on the management and quality of potable water. Regulations mandate the inspection and attestation of water sources to ensure they meet health standards, thereby lessening risks associated with contaminants. The EU's directives also explore the rational use of water resources, promoting practices that surpass mere compliance. This includes the use of thermal generators for heating and the implementation of HACCP principles in water treatment processes. Additionally, the conservation of aquatic ecosystems, including echinoderms and gastropods, is crucial for maintaining clean water bodies, thereby ensuring the sustainability of this vital resource.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:24.507335",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 579,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 636,
+      "selected_avg_freq": 300.46666666666664
+    },
+    "related_words": [
+      "lends",
+      "echinoderm",
+      "rationally",
+      "surpass",
+      "seawater",
+      "haccp",
+      "generator",
+      "fired",
+      "insulation",
+      "lessen",
+      "heated",
+      "washing",
+      "plate",
+      "rounded",
+      "thousand",
+      "nearest",
+      "potable",
+      "fluids",
+      "generators",
+      "interval",
+      "flavoured",
+      "recalculated",
+      "sweetening",
+      "echinoderms",
+      "tunicates",
+      "gastropods",
+      "gaseous",
+      "equivalents",
+      "upwards",
+      "jeopardizing"
+    ],
+    "prompt_length": 1667,
+    "category": "5211 natural environment"
+  }
+}

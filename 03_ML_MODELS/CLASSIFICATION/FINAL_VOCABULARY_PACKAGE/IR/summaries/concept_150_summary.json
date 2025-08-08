@@ -1,0 +1,63 @@
+{
+  "concept_id": "150",
+  "concept_data": {
+    "title": "incorporation",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"incorporation\" refers to the formation and establishment of organizations, particularly limited liability entities, which are crucial for the economy. This process involves meeting specified requirements and conditions, including administrative management and the correct application of laws. Incorporation facilitates the operation of various departments and encourages the development of market activities, such as the production and distribution of vegetables and fruit. Organizations must adhere to defined regulations, including grant aid provisions, to ensure compliance. The incorporation process typically requires a detailed definition of the organization’s structure and the amount of capital involved, with payments and operational costs being critical considerations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:57:16.106806",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 86,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 86,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2289.046511627907
+    },
+    "related_words": [
+      "appropriats",
+      "formation",
+      "correctly",
+      "vegetable",
+      "departments",
+      "overseas",
+      "vegetables",
+      "fruit",
+      "organizations",
+      "economy",
+      "encourage",
+      "condition",
+      "payments",
+      "right",
+      "exceed",
+      "actual",
+      "producers",
+      "five",
+      "definition",
+      "french",
+      "organization",
+      "grant",
+      "aid",
+      "determine",
+      "costs",
+      "operation",
+      "facilitate",
+      "specified",
+      "administrative",
+      "listed"
+    ],
+    "prompt_length": 1677,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5856",
+  "concept_data": {
+    "title": "distribution of European Union funding",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "distribution of EU funding",
+    "relation_type": "USE"
+  },
+  "summary": "The \"distribution of EU funding\" refers to the structured allocation of financial resources by the European Union to member states and regions, aimed at addressing necessities such as economic development and social cohesion. This process is governed by regulatory frameworks, including the European Structural and Investment Funds (ESIF), which foresaw targeted support for areas like demobilisation of combatants in post-conflict regions, such as the Caucasus. The distribution axes include personalized outputs for diverse sectors, from automobiles like Peugeot and Citroën to technology firms like Flextronics. Regularized funding mechanisms ensure that Luxembourgish and other regional needs are met, facilitating rejoining efforts for returnees and NEETs (Not in Education, Employment, or Training). The legal context mandates transparency and accountability, ensuring that fabricated claims are minimized and that funds are effectively utilized in regions like Gelderland and Cloppenburg.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:05.372201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 1859,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 83,
+      "selected_avg_freq": 36.24
+    },
+    "related_words": [
+      "axes",
+      "staying",
+      "ddrrr",
+      "astrazeneca",
+      "lefort",
+      "flextronics",
+      "salo",
+      "psa",
+      "citroën",
+      "zalco",
+      "zeeland",
+      "ecl",
+      "malian",
+      "gad",
+      "simplifiée",
+      "sprider",
+      "stx",
+      "euam",
+      "combatants",
+      "talk",
+      "peugeot",
+      "automobiles",
+      "ers",
+      "rauma",
+      "overijssel",
+      "olds",
+      "necessities",
+      "patrol",
+      "esif",
+      "cloppenburg"
+    ],
+    "prompt_length": 1696,
+    "category": "1021 EU finance"
+  }
+}

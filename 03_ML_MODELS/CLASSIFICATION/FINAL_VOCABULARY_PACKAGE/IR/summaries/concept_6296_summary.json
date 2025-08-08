@@ -1,0 +1,63 @@
+{
+  "concept_id": "6296",
+  "concept_data": {
+    "title": "transgenic plant",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"transgenic plant\" refers to a genetically modified organism (GMO) that has been deliberately transformed to express specific traits, such as pest resistance or herbicide tolerance. In the EU regulatory framework, transgenic plants are subject to rigorous biosafety assessments to ensure they do not pose risks to human health or the environment. The process encompasses the use of various reagents and methods, including the introduction of traits from other species, such as the incorporation of the btø11 trait for pest resistance in soybean (Glycine max). Regulatory bodies must consider potential adventitious spillage and the implications of coex (coexistence) with non-GM crops. The legal obligations for the labeling and traceability of transgenic plants are critical for transparency and consumer choice, ensuring that all stakeholders, including the addressee of regulatory disclosures, are informed.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:21.273789",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 713,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 209,
+      "selected_avg_freq": 86.19333333333333
+    },
+    "related_words": [
+      "gmhp",
+      "coex",
+      "transformant",
+      "inra",
+      "inbred",
+      "cytoplasmic",
+      "sterility",
+      "cytoplasm",
+      "ø15ø7xmon",
+      "gmøø6",
+      "eliberate",
+      "compositionally",
+      "trait",
+      "btø11",
+      "engl",
+      "retrievable",
+      "abbreviated",
+      "ir6ø4",
+      "øøø21",
+      "bioscience",
+      "syn",
+      "øø6ø3",
+      "agronomically",
+      "cms",
+      "pioneer",
+      "comprehensible",
+      "acs",
+      "napus",
+      "discloses",
+      "addressee"
+    ],
+    "prompt_length": 1683,
+    "category": "6411 technology and technical regulations"
+  }
+}

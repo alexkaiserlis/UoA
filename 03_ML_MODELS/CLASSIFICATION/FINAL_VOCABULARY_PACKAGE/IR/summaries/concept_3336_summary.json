@@ -1,0 +1,63 @@
+{
+  "concept_id": "3336",
+  "concept_data": {
+    "title": "slot machine",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "automatic game",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"slot machine,\" redirected to \"automatic game,\" refers to a category of gaming devices regulated under EU social affairs legislation. These machines are designed to yield scores based on player interactions, typically displayed on screens. The regulatory framework aims to harmonise functionalities across member states, ensuring that games meet ambitious ecodesign benchmarks and safety standards. Automatic games often incorporate proprietary software that can be programmed to prevent tampering and ensure fair play. Players engage in staged scenarios, with receipts and measurements of performance tracked by integrated calculators. The evolving landscape of gaming consoles and technologies necessitates ongoing assessments of their impact on social welfare and responsible gaming practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:18:21.713354",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 553,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 556,
+      "selected_avg_freq": 240.61333333333334
+    },
+    "related_words": [
+      "score",
+      "parlour",
+      "scored",
+      "gaming",
+      "calculator",
+      "monolithic",
+      "tampering",
+      "acpi",
+      "watt",
+      "consoles",
+      "clock",
+      "carousel",
+      "ideally",
+      "alarm",
+      "twh",
+      "phones",
+      "staged",
+      "merit",
+      "player",
+      "standby",
+      "redesign",
+      "aggressive",
+      "ecodesign",
+      "programmed",
+      "shifted",
+      "yielding",
+      "screen",
+      "coincides",
+      "games",
+      "crystal"
+    ],
+    "prompt_length": 1686,
+    "category": "2826 social affairs"
+  }
+}

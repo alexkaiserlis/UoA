@@ -1,0 +1,63 @@
+{
+  "concept_id": "2606",
+  "concept_data": {
+    "title": "loan",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"loan\" refers to borrowings provided by lenders, such as financial institutions and credit entities, to borrowers under specific conditions. Loans can be structured as mortgages or bonds, with provisions for prepayment and conditionality based on macrofinancial assessments. The European Communities endorse refinements in lending practices, including the implementation of TLTROs (Targeted Longer-Term Refinancing Operations) and MROs (Main Refinancing Operations) to support financial stability. These measures aim to enhance the prosperity of corporations and MFIs (Microfinance Institutions) across member states, including Armenian and Moldovan entities, while ensuring compliance with IFRS standards and EFRAG guidelines. The intercreditor relationships and haircuts applied in loan agreements are critical for managing risk, particularly in pooled financing scenarios. As the EU continues to adapt its regulatory landscape, the emphasis on supplemental frameworks will aid in achieving sustainable economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:27.144685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 790,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 311,
+      "selected_avg_freq": 125.80666666666667
+    },
+    "related_words": [
+      "prospectively",
+      "implented",
+      "premise",
+      "lenders",
+      "tltros",
+      "mros",
+      "tltro",
+      "refinements",
+      "adopters",
+      "provisioned",
+      "mfi",
+      "armenian",
+      "ifrss",
+      "kfw",
+      "mfis",
+      "georgian",
+      "reap",
+      "pooled",
+      "mortgages",
+      "teg",
+      "haircuts",
+      "moldovan",
+      "concessional",
+      "prepayment",
+      "macrofinancial",
+      "prosperous",
+      "esaf",
+      "premia",
+      "intercreditor",
+      "entrusting"
+    ],
+    "prompt_length": 1686,
+    "category": "2416 financial institutions and credit"
+  }
+}

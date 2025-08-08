@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_681e6d24",
+  "concept_data": {
+    "title": "unmanned combat aerial vehicle",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": true,
+    "preferred_term": "drone",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"unmanned combat aerial vehicle\" refers to a category of drones specifically designed for military operations. In the context of EU legal and regulatory frameworks, these vehicles are subject to stringent regulations concerning their use, development, and deployment. The preferred term \"drone\" encompasses a broader range of unmanned aerial systems, including both military and civilian applications. The EU has established guidelines to ensure that the deployment of drones, particularly in combat scenarios, adheres to international humanitarian law and ethical standards. This regulatory oversight aims to balance technological advancement with safety and accountability in air and space transport.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:57:41.848574",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1218,
+    "category": "4826 air and space transport"
+  }
+}

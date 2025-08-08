@@ -1,0 +1,63 @@
+{
+  "concept_id": "6756",
+  "concept_data": {
+    "title": "microenterprise",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "micro-enterprise",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"micro-enterprise\" refers to the smallest category of businesses, typically characterized by a negligible turnover ceiling and limited revenue. These enterprises, often classified under SMEs (small and medium-sized enterprises), are subject to specific regulations that aim to simplify their operational framework. The derogating provisions enacted for micro-enterprises allow for optional exemptions from certain tax obligations, such as VAT, thereby facilitating their growth. The aggregation of micro-enterprises in consultancy sectors can enhance their collective bargaining power, while the standstill clause in merger regulations ensures that these businesses can opt for simplified planning processes. By updating thresholds and releasing supplementary guidelines, the EU aims to support micro-enterprises in navigating the complexities of business regulations, thereby fostering a more inclusive economic environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:37.976785",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 220,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 26,
+      "selected_max_freq": 2028,
+      "selected_avg_freq": 1040.6666666666667
+    },
+    "related_words": [
+      "consultancy",
+      "valued",
+      "aggregation",
+      "standstill",
+      "smallest",
+      "merger",
+      "opt",
+      "enacted",
+      "derogates",
+      "block",
+      "taxable",
+      "accruing",
+      "decree",
+      "smes",
+      "optional",
+      "chapters",
+      "micro",
+      "aspect",
+      "acquisition",
+      "simplifying",
+      "vat",
+      "converted",
+      "businesses",
+      "clause",
+      "secretariat",
+      "negligible",
+      "revenue",
+      "turnover",
+      "planning",
+      "observations"
+    ],
+    "prompt_length": 1719,
+    "category": "4011 business classification"
+  }
+}

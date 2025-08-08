@@ -1,0 +1,63 @@
+{
+  "concept_id": "4227",
+  "concept_data": {
+    "title": "whey",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": true,
+    "preferred_term": "milk by-product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"whey,\" a milk by-product, is categorized under processed agricultural produce. This term redirects to \"milk by-product,\" emphasizing its role in valorization within the dairy industry. Whey contains valuable components such as caseins and lactoproteins, which can be utilized in various applications, including yoghourt production and as adjuvants in food processing. Regulatory frameworks dictate the quality and safety standards for whey, particularly concerning allergens and coliforms. The utilization of whey must comply with strict guidelines to avert penalties and ensure that products, like powdered whey, are properly labeled with pictograms for readability. Additionally, whey can be processed into defatted products or caseinates, contributing to sustainable practices in dairies.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:47:13.522960",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 964,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 281,
+      "selected_avg_freq": 122.73333333333333
+    },
+    "related_words": [
+      "valorization",
+      "penalities",
+      "deroagtion",
+      "casinates",
+      "utilizations",
+      "coliforms",
+      "allergens",
+      "adjuvants",
+      "transmits",
+      "yoghourt",
+      "lactoproteins",
+      "qualifiying",
+      "pictograms",
+      "defatted",
+      "rennet",
+      "encephalophathies",
+      "improver",
+      "caseins",
+      "schoolchildren",
+      "fil",
+      "regrouped",
+      "buttermilk",
+      "enumeration",
+      "grated",
+      "diluted",
+      "faithfully",
+      "rind",
+      "dictates",
+      "degraded",
+      "colostrum"
+    ],
+    "prompt_length": 1767,
+    "category": "6016 processed agricultural produce"
+  }
+}

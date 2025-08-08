@@ -1,0 +1,63 @@
+{
+  "concept_id": "1452",
+  "concept_data": {
+    "title": "financial institution",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"financial institution\" encompasses entities such as banks and investment firms that engage in activities involving capitalised assets and liquidity management. These institutions play a critical role in mitigating contagion risks during financial turmoil by ensuring the provisioned capital withstands defaults. Regulatory overseers, including the ESRB, implement regulations to facilitate the recapitalising of systemically important financial institutions (MFIs) and to manage payouts to depositors and savers. Furthermore, the disintermediation process and the use of tokens in financial transactions are reshaping traditional models, necessitating uncoordinated approaches to factoring and counterparty risks, while also addressing the complexities of renegotiations and deferment of obligations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:09:07.428616",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1315,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 112,
+      "selected_avg_freq": 51.08
+    },
+    "related_words": [
+      "regulaions",
+      "capitalised",
+      "recapitalising",
+      "liquidating",
+      "contagion",
+      "delocation",
+      "disintermediation",
+      "payout",
+      "savers",
+      "depositors",
+      "depositor",
+      "payouts",
+      "siis",
+      "provisioned",
+      "isins",
+      "mfi",
+      "underlyings",
+      "offeror",
+      "monegasque",
+      "engender",
+      "serene",
+      "highness",
+      "multitude",
+      "uncoordinated",
+      "mfis",
+      "overseers",
+      "factoring",
+      "counterclaims",
+      "aggregating",
+      "deferment"
+    ],
+    "prompt_length": 1728,
+    "category": "2416 financial institutions and credit"
+  }
+}

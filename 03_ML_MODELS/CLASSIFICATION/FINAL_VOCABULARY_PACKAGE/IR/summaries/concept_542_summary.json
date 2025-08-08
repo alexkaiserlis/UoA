@@ -1,0 +1,63 @@
+{
+  "concept_id": "542",
+  "concept_data": {
+    "title": "law of the sea",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"law of the sea,\" categorized under international law, encompasses regulations governing maritime activities, including the rights and responsibilities of states regarding seabed resources and navigational freedoms. It aims to dissuade polluting practices by shipowners and charterers, ensuring compliance with standards set by organizations like the IMO and MEPC. The United Nations Convention on the Law of the Sea (UNCLOS) serves as a foundational framework, promoting responsible use of marine resources and addressing offences such as negligent discharges. The EU actively participates in promulgating regulations that reestablish protections for migratory species and prevent substandard practices, thus safeguarding marine environments and victims of maritime negligence.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:14:36.115951",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 551,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 506,
+      "selected_avg_freq": 227.66
+    },
+    "related_words": [
+      "recklessly",
+      "manned",
+      "circ",
+      "reestablish",
+      "expelling",
+      "excercise",
+      "charterers",
+      "disapproval",
+      "polluters",
+      "expulsion",
+      "responsibly",
+      "unclos",
+      "promulgating",
+      "declines",
+      "urge",
+      "substandard",
+      "seabed",
+      "dissuade",
+      "mepc",
+      "straddling",
+      "depositing",
+      "universally",
+      "msc",
+      "merchant",
+      "detention",
+      "polluting",
+      "depository",
+      "kattegat",
+      "ilo",
+      "offence"
+    ],
+    "prompt_length": 1673,
+    "category": "1231 international law"
+  }
+}

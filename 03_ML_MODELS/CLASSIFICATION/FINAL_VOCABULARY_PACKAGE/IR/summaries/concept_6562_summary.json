@@ -1,0 +1,63 @@
+{
+  "concept_id": "6562",
+  "concept_data": {
+    "title": "European cultural event",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European cultural event\" encompasses initiatives that explore and heighten cultural creativity across EU member states. These events serve as a pedagogical tool, fostering entrepreneurship and shaping the identities of cities and their inhabitants. By harnessing the synergy of diverse cultural expressions, they aim to reward and amplify the contributions of both sportswomen and sportsmen, while also addressing issues like racism and xenophobia. Such events are pivotal in disseminating knowledge and promoting lifelong learning among youth, thereby creating a fuller understanding of European values. They forge connections and cater to the ideal of a united Europe through cultural engagement.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:03:40.615058",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 542,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 389,
+      "selected_avg_freq": 171.88
+    },
+    "related_words": [
+      "explored",
+      "pedagogical",
+      "sportswomen",
+      "heighten",
+      "harnessed",
+      "triangle",
+      "entrepreneurial",
+      "creativity",
+      "prize",
+      "forges",
+      "sportsmen",
+      "capitals",
+      "creative",
+      "shaping",
+      "disparate",
+      "psychological",
+      "boys",
+      "oversee",
+      "learn",
+      "reward",
+      "cities",
+      "devise",
+      "ideal",
+      "something",
+      "pecuniary",
+      "conveyed",
+      "racism",
+      "xenophobia",
+      "boosting",
+      "underline"
+    ],
+    "prompt_length": 1707,
+    "category": "2831 culture and religion"
+  }
+}

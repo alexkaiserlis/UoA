@@ -1,0 +1,63 @@
+{
+  "concept_id": "3387",
+  "concept_data": {
+    "title": "Rioja",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"Rioja\" refers to a designated region within the EU, specifically recognized for its unique agricultural products, particularly wine. This designation reflects statutory priorities in the context of EU regulatory frameworks, such as the European Regional Development Fund (ERDF) and the European Investment Bank (EIB). Rioja's inclusion in these frameworks ensures that allocations are indexed and supplemented by additionality principles. The region's protected status qualifies it for specific programming patterns that fulfill eligibility criteria. Partners involved in Rioja's development must prepare statements that indicate compliance with regulatory requirements, ensuring that foodstuffs produced meet acceptable standards and are registered appropriately. This systematic approach ensures that the entire region benefits from strategic investments while maintaining the integrity of its cultural and agricultural heritage.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:51:10.338331",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 193,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 2704,
+      "selected_avg_freq": 1229.5333333333333
+    },
+    "related_words": [
+      "brioche",
+      "vendéenne",
+      "peras",
+      "rincón",
+      "soto",
+      "rioja",
+      "additionality",
+      "indexed",
+      "esf",
+      "seq",
+      "erdf",
+      "supplements",
+      "eib",
+      "inflation",
+      "perspective",
+      "statutory",
+      "allocations",
+      "designations",
+      "programming",
+      "pattern",
+      "objection",
+      "preparing",
+      "breakdown",
+      "ground",
+      "fulfilling",
+      "names",
+      "designation",
+      "partners",
+      "priorities",
+      "reserve"
+    ],
+    "prompt_length": 1693,
+    "category": "7211 regions of EU Member States"
+  }
+}

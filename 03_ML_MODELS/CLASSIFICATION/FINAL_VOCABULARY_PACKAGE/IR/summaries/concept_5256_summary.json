@@ -1,0 +1,63 @@
+{
+  "concept_id": "5256",
+  "concept_data": {
+    "title": "catch by species",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"catch by species\" is pivotal in EU fisheries regulations, addressing the quantitive management of fishstocks within exclusive economic zones, such as the Skaggerak and the North Sea. This framework aims to prevent overuse and ensure sustainable practices, particularly concerning species like solea and elasmobranchs. Regulations stipulate measures to mitigate bycatches, including the use of creels and fyke nets, and to address issues of crowding and predation among species like horsemackerel and pollack. The legal framework also encompasses monitoring activities, such as the assessment of nasco and micromesistius populations, to foresee potential declines and implement corrective measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:49.824743",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1434,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 31,
+      "selected_avg_freq": 15.34
+    },
+    "related_words": [
+      "skaggerak",
+      "mourne",
+      "jorse",
+      "acivities",
+      "fishstocks",
+      "exlusive",
+      "quantitive",
+      "neterlands",
+      "ăş1",
+      "copace",
+      "rthwest",
+      "predation",
+      "nasco",
+      "leander",
+      "adspersus",
+      "solea",
+      "commiss",
+      "statlant",
+      "crowding",
+      "dying",
+      "micromesistius",
+      "poutassou",
+      "midwater",
+      "ptm",
+      "encrasicolus",
+      "ferrer",
+      "pseudaphia",
+      "ferreri",
+      "lowbody",
+      "picarel"
+    ],
+    "prompt_length": 1647,
+    "category": "5641 fisheries"
+  }
+}

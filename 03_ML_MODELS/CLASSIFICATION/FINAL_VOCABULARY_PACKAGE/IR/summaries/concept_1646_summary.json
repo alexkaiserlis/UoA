@@ -1,0 +1,63 @@
+{
+  "concept_id": "1646",
+  "concept_data": {
+    "title": "firing",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "dismissal",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"firing\" is commonly referred to as \"dismissal,\" a term that encompasses various forms of termination of employment. Dismissal regulations are crucial for protecting workers' rights across member states, including regions like Cataluña and Noord. The legal framework addresses issues such as unjustified dismissal, ensuring compliance with labor laws in sectors like automobile manufacturing, where companies like Opel and Renault operate. Dismissal must adhere to procedural fairness, reflecting principles upheld in jurisdictions from Waterford to Odense. Understanding dismissal is vital for employers, such as Unilever and Nokia, to navigate complex labor relations effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:06.945409",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1096,
+      "selected_avg_freq": 296.62
+    },
+    "related_words": [
+      "snaigė",
+      "glasfiber",
+      "mura",
+      "arnsberg",
+      "cegielski",
+      "midtjylland",
+      "bortex",
+      "azambuja",
+      "alcoa",
+      "fujikura",
+      "portalegre",
+      "delphi",
+      "alytaus",
+      "tekstile",
+      "podkarpackie",
+      "benq",
+      "perlos",
+      "automoción",
+      "danfoss",
+      "qimonda",
+      "odense",
+      "opel",
+      "peugeot",
+      "seixal",
+      "renault",
+      "plaiting",
+      "waterford",
+      "oyj",
+      "poznań",
+      "johnson"
+    ],
+    "prompt_length": 1653,
+    "category": "4406 employment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2604",
+  "concept_data": {
+    "title": "single parent allowance",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "family benefit",
+    "relation_type": "USE"
+  },
+  "summary": "The \"single parent allowance,\" now redirected to \"family benefit,\" is a crucial aspect of social protection within the EU, aimed at supporting families, particularly those with a single parent. This allowance addresses the complexities faced by lavoratori, including both subordinati and selfemployed individuals, who may incur additional costs related to child-rearing. Enshrined in various EU regulations, it seeks to lighten the financial burden on families, especially in cases of maternity or sickness. Advocates argue that such benefits are essential for migrant families, as they help stabilize their economic dealings and ensure fair remunerations. The allowance is designed to be inclusive, reserving rights for all workers, regardless of marital status or employment type, thereby promoting social equity across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:31:10.024199",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 735,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 378,
+      "selected_avg_freq": 178.91333333333333
+    },
+    "related_words": [
+      "lavoratori",
+      "subordinati",
+      "salariati",
+      "autonomi",
+      "selfemployed",
+      "married",
+      "culham",
+      "proclaimed",
+      "promises",
+      "seeker",
+      "maternity",
+      "renumbered",
+      "complexities",
+      "remunerations",
+      "garment",
+      "pecuniary",
+      "waivers",
+      "salary",
+      "lighten",
+      "isolate",
+      "dealings",
+      "appealed",
+      "registrar",
+      "diverge",
+      "crafts",
+      "employer",
+      "advocates",
+      "reside",
+      "rent",
+      "emoluments"
+    ],
+    "prompt_length": 1737,
+    "category": "2836 social protection"
+  }
+}

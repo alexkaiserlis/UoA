@@ -1,0 +1,63 @@
+{
+  "concept_id": "2192",
+  "concept_data": {
+    "title": "electronic device",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electronic device\" encompasses a wide range of products integral to modern electronics and electrical engineering within the EU regulatory framework. These devices, including amplifiers, chromatographs, and spectrometers, are subject to stringent compliance standards. Notably, manufacturers like Nakajima and Ishida must ensure that their subassemblies meet EU directives. The integration of polymerized dispersoids in devices enhances functionality, while the use of microscopical techniques, such as stereoscan, aids in quality control. Regulatory bodies assess compliance through detailed printouts and documentation, ensuring that products from companies like Brother and Juki adhere to safety and performance standards, thereby facilitating seamless trade across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:43.535552",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1725,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 15,
+      "selected_avg_freq": 7.78
+    },
+    "related_words": [
+      "nakajima",
+      "cecip",
+      "printout",
+      "ishida",
+      "seikosno",
+      "yamato",
+      "fromjapanese",
+      "keylard",
+      "weegschalen",
+      "esselte",
+      "moreau",
+      "kraut",
+      "preston",
+      "subassembly",
+      "subassembled",
+      "jdk",
+      "triumph",
+      "adler",
+      "nuernberg",
+      "mvb",
+      "verkoop",
+      "bedrijfsmachines",
+      "rosmalen",
+      "wihtout",
+      "amplifiers",
+      "integrators",
+      "chromatographs",
+      "spectrometers",
+      "logarithmic",
+      "cardinal"
+    ],
+    "prompt_length": 1705,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

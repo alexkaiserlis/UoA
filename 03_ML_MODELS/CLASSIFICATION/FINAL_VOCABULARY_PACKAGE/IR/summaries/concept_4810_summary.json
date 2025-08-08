@@ -1,0 +1,63 @@
+{
+  "concept_id": "4810",
+  "concept_data": {
+    "title": "zoology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Zoology, as a branch of natural and applied sciences, encompasses the study of animal life, including their ontogenetic development and neurosecretory functions. In the context of EU legal and regulatory frameworks, zoology plays a crucial role in biodiversity conservation and environmental protection. Regulatory measures often require the quantitation of species populations using tools like flowmeters and spectrofluorometers to assess ecological impacts. The characterization of habitats involves the use of ultramicrotome techniques for detailed tissue analysis, while bioélectronique methods may be employed in monitoring animal health. Additionally, the study of olfactory responses in animals can inform welfare regulations, ensuring humane treatment and ethical standards in research.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:06.926129",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 528,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 206,
+      "selected_avg_freq": 53.1
+    },
+    "related_words": [
+      "biotronex",
+      "flowmeter",
+      "myocardial",
+      "ontogenetic",
+      "olfactory",
+      "bulbus",
+      "olfacorius",
+      "scents",
+      "wmi",
+      "docmentation",
+      "untested",
+      "sorvall",
+      "ultramicrotome",
+      "neurosecretory",
+      "microtome",
+      "colons",
+      "electrophorus",
+      "couplé",
+      "bioéléctronique",
+      "bretonneux",
+      "unigon",
+      "waterfall",
+      "sonogram",
+      "evoked",
+      "catechol",
+      "glyco",
+      "genolysis",
+      "gentry",
+      "phillipson",
+      "microbomb"
+    ],
+    "prompt_length": 1725,
+    "category": "3606 natural and applied sciences"
+  }
+}

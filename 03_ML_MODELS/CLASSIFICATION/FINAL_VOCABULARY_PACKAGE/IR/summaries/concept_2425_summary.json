@@ -1,0 +1,63 @@
+{
+  "concept_id": "2425",
+  "concept_data": {
+    "title": "plaster",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"plaster\" encompasses various materials and products, including plasterboard and gypsum, essential for building and public works. The term relates to the manufacturing and application of plaster products, such as partition panels and insulation kits, which are critical for thermal separation in construction. Regulatory bodies, including CEN, oversee approvals for these materials, ensuring compliance with safety standards, such as fire resistance. The market dynamics in regions like Madrid and Zaragoza reflect the consumption patterns of plaster products, with manufacturers often engaged in comparisons and hearings regarding rebates and approvals. Additionally, issues of stagnation and undercutting in the industry have prompted complaints from stakeholders, highlighting the need for effective regulation in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:39:59.239108",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 454,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 610,
+      "selected_avg_freq": 302.2866666666667
+    },
+    "related_words": [
+      "plasterboard",
+      "kingscourt",
+      "espaăąola",
+      "placas",
+      "yeso",
+      "quinto",
+      "placos",
+      "ojec",
+      "plasterboards",
+      "undumped",
+      "zaragoza",
+      "geotextiles",
+      "ebro",
+      "gypsum",
+      "partition",
+      "stagnation",
+      "aggregates",
+      "iberian",
+      "insulation",
+      "kits",
+      "manufactures",
+      "consuming",
+      "commented",
+      "dublin",
+      "panels",
+      "undercut",
+      "transposing",
+      "sells",
+      "fighting",
+      "blocks"
+    ],
+    "prompt_length": 1681,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2299",
+  "concept_data": {
+    "title": "least-developed country",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"least-developed country\" (LDC) refers to nations characterized by significant economic challenges, such as low earnings and limited diversification of industries. In EU legal and regulatory frameworks, LDCs like Sudan and Haiti are often granted preferential treatment under schemes like GSP (Generalised Scheme of Preferences) and EBA (Everything But Arms). These frameworks aim to support LDCs in attaining sustainable development and economic stability. The Doha Development Round outlines commitments to enhance trade relations, while waivers and licenses may be provided to facilitate market access. The EU's reliance on these measures underscores its commitment to addressing the needs of the most hampered economies, ensuring that they can participate fully in global trade.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:32:58.136325",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 661,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 526,
+      "selected_avg_freq": 244.54666666666665
+    },
+    "related_words": [
+      "soudan",
+      "croatiashould",
+      "thailandshould",
+      "maldivesfrom",
+      "maldivesshould",
+      "thrid",
+      "attains",
+      "stabex",
+      "fairest",
+      "admitting",
+      "bonaire",
+      "eustatius",
+      "saba",
+      "sint",
+      "doha",
+      "waivers",
+      "correspondingly",
+      "maarten",
+      "curaçao",
+      "res",
+      "maldives",
+      "eba",
+      "haiti",
+      "fullest",
+      "outlines",
+      "dissolved",
+      "antilles",
+      "everything",
+      "burma",
+      "marrakesh"
+    ],
+    "prompt_length": 1667,
+    "category": "1611 economic conditions"
+  }
+}

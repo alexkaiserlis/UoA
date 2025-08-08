@@ -1,0 +1,63 @@
+{
+  "concept_id": "5646",
+  "concept_data": {
+    "title": "office supplies",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"office supplies\" encompasses a diverse range of products essential for administrative functions within the EU. This category includes items such as notebooks, diaries, and binders, which often feature specific design elements like chamfered edges and stiffeners to enhance functionality. Regulatory frameworks may classify these supplies based on their materials, such as paperboard or plastic, ensuring compliance with environmental standards like those outlined in the Kyoto Protocol and the UNFCCC. Additionally, the alliance of manufacturers cooperates to develop innovative solutions, such as welded strips and ringbuchtechnik, which protect documents and streamline organization. Examples of office supplies include folders with slots for easy access and pads designed for efficient note-taking, reflecting an ambitious approach to enhancing workplace efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:18:18.927191",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 729,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 132.69333333333333
+    },
+    "related_words": [
+      "spine",
+      "stiffeners",
+      "folder",
+      "stiffness",
+      "blotting",
+      "băźrowaren",
+      "rectangles",
+      "ecesb",
+      "folding",
+      "chamfered",
+      "indentations",
+      "ringbuchtechnik",
+      "rectangle",
+      "notebooks",
+      "pulling",
+      "handelsgesellschaft",
+      "pads",
+      "diaries",
+      "folded",
+      "slots",
+      "twin",
+      "rings",
+      "alliance",
+      "classifies",
+      "welded",
+      "paperboard",
+      "lao",
+      "standby",
+      "unfccc",
+      "thick"
+    ],
+    "prompt_length": 1676,
+    "category": "6846 miscellaneous industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4257",
+  "concept_data": {
+    "title": "agricultural statistics",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Agricultural statistics, a vital component within the EU's farming systems framework, involves the systematic collection and analysis of data related to agricultural production, including acreages, overproduction, and viticultural practices. These statistics are crucial for framing policies that address constraints faced by farmers, such as technological advancements and agrometeorological factors. The EU endeavors to maintain synchronized data through updated methodologies like FADN and EAA, ensuring that information is coded and transcribed accurately. This regulatory approach facilitates intermediation between various stakeholders, allowing for perfect alignment with fiscalis objectives and the effective management of resources across regions, including Közép, Dunántúl, and Alföld in Hungary.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:59.631832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1601,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 112,
+      "selected_avg_freq": 52.04
+    },
+    "related_words": [
+      "sgm",
+      "sgms",
+      "scas",
+      "individualized",
+      "erase",
+      "overproduction",
+      "contraints",
+      "acreages",
+      "technologial",
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél",
+      "magyarország",
+      "észak",
+      "alföld",
+      "agrometeorological",
+      "updatings",
+      "bdt",
+      "fadn",
+      "modinis",
+      "bullocks",
+      "tabular",
+      "eaa",
+      "viticultural",
+      "areal",
+      "fisim",
+      "esu",
+      "concordance",
+      "endeavouring"
+    ],
+    "prompt_length": 1696,
+    "category": "5616 farming systems"
+  }
+}

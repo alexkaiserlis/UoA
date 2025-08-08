@@ -1,0 +1,63 @@
+{
+  "concept_id": "1086",
+  "concept_data": {
+    "title": "French overseas department and region",
+    "category_code": "7241",
+    "category_name": "overseas countries and territories",
+    "category_full": "7241 overseas countries and territories",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"French overseas department and region\" refers to territories that are integral parts of France, yet located outside the European mainland. These regions, such as Guadeloupe and Martinique, are characterized by rugged landscapes and diverse agricultural outputs, including cassava and ylang. In EU legal and regulatory frameworks, they are treated as regions eligible for specific funding and development initiatives aimed at addressing underdevelopment and promoting economic rejuvenation. The EU's policies focus on equalising opportunities for these territories, ensuring access to resources like electrification and plant health measures. Regulatory documents often include provisions for the conveyance of goods, such as breads and pastries, while also addressing industrially relevant sectors. The inclusion of these regions in EU law underscores their importance in fostering economic growth and social stability amidst challenges like unrest and environmental vulnerabilities.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:10:52.667717",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 2088,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 49,
+      "selected_avg_freq": 21.633333333333333
+    },
+    "related_words": [
+      "fench",
+      "electrification",
+      "cassava",
+      "husks",
+      "cubicles",
+      "gutters",
+      "agicultural",
+      "doms",
+      "pebbles",
+      "icing",
+      "breads",
+      "pastries",
+      "cordials",
+      "doorframes",
+      "remunerative",
+      "underdevelopment",
+      "appropriats",
+      "deparments",
+      "archipelagoes",
+      "rugged",
+      "subpararaph",
+      "replantation",
+      "rejuvenating",
+      "rejuvenation",
+      "planthealth",
+      "fods",
+      "unrest",
+      "equalise",
+      "woods",
+      "guianese"
+    ],
+    "prompt_length": 1754,
+    "category": "7241 overseas countries and territories"
+  }
+}

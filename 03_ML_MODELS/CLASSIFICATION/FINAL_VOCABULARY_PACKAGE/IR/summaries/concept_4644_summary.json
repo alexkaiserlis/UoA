@@ -1,0 +1,63 @@
+{
+  "concept_id": "4644",
+  "concept_data": {
+    "title": "balance-of-payments deficit",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"balance-of-payments deficit\" refers to a glaring imbalance where a country's total imports of goods, services, and capital exceed its exports, thereby influencing its creditworthiness. In the context of EU regulations, such deficits can lead to acute economic challenges, prompting institutional responses to cope with the gravity of the situation. The EU endeavours to formulate policies that address these deficits, particularly during periods of enlargement or economic downturns. Borrowings may be necessary to manage these deficits, with lending often structured in instalments. If not addressed, deficits can sharply decline GDP and reverse economic stability, necessitating orderly abrogation of unsustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:29.108065",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 388,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 898,
+      "selected_avg_freq": 443.61333333333334
+    },
+    "related_words": [
+      "glaring",
+      "apt",
+      "abrogate",
+      "thereupon",
+      "enlargements",
+      "borrow",
+      "weaker",
+      "creditworthiness",
+      "borrowings",
+      "abrogating",
+      "reversed",
+      "markedly",
+      "percent",
+      "borrowing",
+      "develops",
+      "abrogation",
+      "deficits",
+      "abrogated",
+      "downwards",
+      "rose",
+      "cope",
+      "maturity",
+      "stood",
+      "acute",
+      "influenced",
+      "gravity",
+      "endeavour",
+      "prevail",
+      "heavily",
+      "projected"
+    ],
+    "prompt_length": 1703,
+    "category": "2406 monetary relations"
+  }
+}

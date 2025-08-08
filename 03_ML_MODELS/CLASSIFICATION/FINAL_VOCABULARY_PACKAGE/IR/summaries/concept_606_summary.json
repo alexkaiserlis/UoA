@@ -1,0 +1,63 @@
+{
+  "concept_id": "606",
+  "concept_data": {
+    "title": "mineral water",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Mineral water, categorized under beverages and sugar, encompasses a variety of hydrogeological sources, such as mineralquellen like Sachsenquelle and Teinacher. EU regulations rigorously define mineral water's composition, addressing concerns like fluoride and boron levels to prevent issues such as fluorosis. The essence of mineral water is its natural mineral content, which can vary significantly, necessitating thorough appraisals of sources like Löwensteiner and Eilenburger. Regulatory frameworks also consider the demineralisation and disinfectant processes to ensure safety. The variability in mineral content, including alumina and barium, influences consumer health, particularly regarding teeth. Thus, compliance with EU standards is essential for producers like FrieslandCampina and others in the industry.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:55:04.745872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 842,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 278,
+      "selected_avg_freq": 108.93333333333334
+    },
+    "related_words": [
+      "eilenburger",
+      "sachsenquelle",
+      "sanusquelle",
+      "redoployment",
+      "höllen",
+      "sprudel",
+      "löwensteiner",
+      "mineralquelle",
+      "niedernauer",
+      "quelle",
+      "kisslegger",
+      "teinacher",
+      "lieler",
+      "gemminger",
+      "überkinger",
+      "hydrogeological",
+      "appraisals",
+      "moritz",
+      "hagenmeyer",
+      "hahn",
+      "alumina",
+      "fluorosis",
+      "frieslandcampina",
+      "invert",
+      "mineralquellen",
+      "teeth",
+      "demineralisation",
+      "boron",
+      "dehydration",
+      "disinfectant"
+    ],
+    "prompt_length": 1729,
+    "category": "6021 beverages and sugar"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1603",
+  "concept_data": {
+    "title": "shallot",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "bulb vegetable",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"shallot,\" categorized under the EU plant product classification 6006, is a redirect to the preferred term \"bulb vegetable.\" This classification encompasses various bulbous crops, including cebolla (onion) and aglio (garlic), which are traditionally cultivated across Europe. In regulatory contexts, bulb vegetables like the shallot are subject to specific grading standards to ensure quality and compliance for imported products. The presence of distinct varieties, such as roscoff and höri, highlights the diversity within this category. Legal frameworks also address issues like reoccurrence of pests, ensuring that bulb vegetables maintain their beauty and culinary value, particularly in regions like Voghiera and Steirischer.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:44:10.025182",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1275,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 114,
+      "selected_avg_freq": 39.88666666666666
+    },
+    "related_words": [
+      "presenttion",
+      "cebolla",
+      "fuentes",
+      "fumé",
+      "arleux",
+      "jinxiang",
+      "suan",
+      "roscoff",
+      "höri",
+      "bülle",
+      "comusum",
+      "makói",
+      "vöröshagyma",
+      "hagyma",
+      "onion",
+      "ptujski",
+      "lük",
+      "chronologically",
+      "traditonal",
+      "imorted",
+      "voghiera",
+      "doubting",
+      "danfordiae",
+      "ail",
+      "polesano",
+      "reoccurrence",
+      "simón",
+      "lomagne",
+      "steirischer",
+      "gradings"
+    ],
+    "prompt_length": 1679,
+    "category": "6006 plant product"
+  }
+}

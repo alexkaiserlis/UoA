@@ -1,0 +1,26 @@
+{
+  "concept_id": "4711",
+  "concept_data": {
+    "title": "new town",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"new town\" refers to planned urban developments established to alleviate urban congestion and promote sustainable living. In the context of EU legal and regulatory frameworks, new towns are often subject to specific construction and town planning regulations aimed at ensuring compliance with environmental standards and social integration. These developments typically involve comprehensive planning processes, including zoning laws and infrastructure development, to foster economic growth and community cohesion. The EU encourages member states to adopt innovative approaches in the creation of new towns, facilitating the harmonization of urban policies across the region while addressing demographic and environmental challenges.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:09:46.111665",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1178,
+    "category": "2846 construction and town planning"
+  }
+}

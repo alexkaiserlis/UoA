@@ -1,0 +1,63 @@
+{
+  "concept_id": "1413",
+  "concept_data": {
+    "title": "spectacles",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "optical industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"spectacles,\" categorized under mechanical engineering, is redirected to the preferred term \"optical industry.\" This encompasses a range of products, including goggles, lorgnettes, and pince-nez, which are essential for enhancing visual acuity. The optical industry involves sophisticated manufacturing processes, including the judicious use of lenses and frames, often assessed for originality and dimensional accuracy. Regulatory frameworks may address the costing of materials, such as screws and rollers, and the environmental impact of production, particularly in regions like Doubs and Besançon. The industry also faces challenges related to photocopying and the uncorrected vision of users, necessitating ongoing innovation and reconversion strategies to meet evolving objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:36:18.749724",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 659,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 278,
+      "selected_avg_freq": 115.94666666666667
+    },
+    "related_words": [
+      "harness",
+      "photocopy",
+      "mountings",
+      "pince",
+      "nez",
+      "lorgnettes",
+      "goggles",
+      "besançon",
+      "aménagement",
+      "reconverted",
+      "nominally",
+      "oust",
+      "objecitives",
+      "judiciously",
+      "acuity",
+      "dioptres",
+      "diplopia",
+      "concurring",
+      "photocopying",
+      "drum",
+      "uncorrected",
+      "unreservedly",
+      "inconsiderable",
+      "originality",
+      "territoire",
+      "doubs",
+      "spectacles",
+      "optics",
+      "photography",
+      "binocular"
+    ],
+    "prompt_length": 1732,
+    "category": "6821 mechanical engineering"
+  }
+}

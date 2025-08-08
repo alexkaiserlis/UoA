@@ -1,0 +1,63 @@
+{
+  "concept_id": "1340",
+  "concept_data": {
+    "title": "bronze",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": true,
+    "preferred_term": "alloy",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"bronze\" is a redirect term for \"alloy,\" which encompasses various metal compositions, including brass and ferroligas. The alloying process involves the careful calibration of elements to achieve desired properties, such as fusible characteristics and enhanced strength. Notably, eutectic alloys can decompose under specific conditions, impacting their application in industries like electrométallurgie. Producers in the metal sector, including those in Belo Horizonte and the indústria portuguesa, must adhere to regulations governing the use of materials like silicide and cored alloys. This ensures compliance and mitigates jeopardy from competitors. The community benefits from multichannel approaches in alloy production, fostering innovation and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:14.643327",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 857,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 146,
+      "selected_avg_freq": 51.053333333333335
+    },
+    "related_words": [
+      "fermi",
+      "brass",
+      "eutectic",
+      "inset",
+      "melts",
+      "spurting",
+      "deflector",
+      "fusible",
+      "strut",
+      "dispersing",
+      "taps",
+      "scorpio",
+      "silicide",
+      "economique",
+      "fornos",
+      "electricos",
+      "bozel",
+      "mineração",
+      "ferroligas",
+      "hofflinghouse",
+      "commu",
+      "nity",
+      "cored",
+      "silicie",
+      "competitiors",
+      "brasilian",
+      "intertechnique",
+      "plaisir",
+      "decompose",
+      "electrométallurgie"
+    ],
+    "prompt_length": 1730,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

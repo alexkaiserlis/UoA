@@ -1,0 +1,63 @@
+{
+  "concept_id": "3251",
+  "concept_data": {
+    "title": "banking supervision",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Banking supervision within the EU context refers to the institutional framework entrusted with overseeing banks and financial firms to ensure stability and compliance with regulatory standards. Supervisors, organized under various committees, engage in extensive discussions and consultations to advocate for timely reforms and convergence across member states. The chairmanship of these committees often rotates, allowing diverse perspectives to shape supervisory practices. Observers from different fields, including insurance and pensions, are invited to participate in debates that reflect on the responsibilities of regulators. This transparent process aims to enhance the links between banks and credit institutions, ensuring that they are supervised effectively and confidentially, thereby fostering stability in the financial system.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:28.770539",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 164,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 3248,
+      "selected_avg_freq": 1290.1466666666668
+    },
+    "related_words": [
+      "chairmanship",
+      "wise",
+      "supervisors",
+      "groupe",
+      "advocated",
+      "extensively",
+      "voting",
+      "observers",
+      "supervised",
+      "debate",
+      "invite",
+      "regulators",
+      "men",
+      "pensions",
+      "occupational",
+      "reflection",
+      "banking",
+      "confidential",
+      "organise",
+      "institutional",
+      "supervisory",
+      "whenever",
+      "resolutions",
+      "consult",
+      "convergence",
+      "links",
+      "participants",
+      "insurance",
+      "reserved",
+      "responsibilities"
+    ],
+    "prompt_length": 1731,
+    "category": "2416 financial institutions and credit"
+  }
+}

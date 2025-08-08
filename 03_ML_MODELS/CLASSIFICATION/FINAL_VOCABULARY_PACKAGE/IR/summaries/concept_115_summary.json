@@ -1,0 +1,63 @@
+{
+  "concept_id": "115",
+  "concept_data": {
+    "title": "executive board",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "board of directors",
+    "relation_type": "USE"
+  },
+  "summary": "The \"executive board,\" commonly referred to as the \"board of directors,\" is a pivotal organ in business organizations within the EU regulatory framework. This board is responsible for overseeing the governance of entities such as the European Medicines Agency (EMA) and Europol, ensuring compliance with mandates and regulations. Directors are nominated through a rigorous process involving candidatures and engagement from various stakeholders, including member states and regulatory bodies. The board's responsibilities include approving remunerations, managing vacancies, and addressing issues of gender balance among nominees. Additionally, it plays a crucial role in the reallocation of resources and privileges, thereby influencing entrepreneurship and innovation across sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:53:02.547606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 532,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 557,
+      "selected_avg_freq": 240.19333333333333
+    },
+    "related_words": [
+      "ema",
+      "thapper",
+      "cde",
+      "busan",
+      "emea",
+      "ambassadors",
+      "candidatures",
+      "recruited",
+      "karin",
+      "nairobi",
+      "cepol",
+      "remunerations",
+      "nominees",
+      "broadest",
+      "etuc",
+      "nominate",
+      "college",
+      "resigned",
+      "commences",
+      "entrepreneurship",
+      "deputy",
+      "emoluments",
+      "eighteen",
+      "alternates",
+      "fifteen",
+      "finish",
+      "agreeing",
+      "nominations",
+      "engagement",
+      "resignation"
+    ],
+    "prompt_length": 1725,
+    "category": "4006 business organisation"
+  }
+}

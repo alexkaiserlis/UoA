@@ -1,0 +1,63 @@
+{
+  "concept_id": "2519",
+  "concept_data": {
+    "title": "tariff policy",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"tariff policy\" within the EU's regulatory framework encompasses the strategic approach to customs duties on goods, influencing trade dynamics among community members and neighbouring countries. This policy is crucial for managing the importation of perishable items like cherries and cucumbers, ensuring a speedy reintroduction of products into the market. It also addresses volatile sectors, such as those involving dichromium and trioxide, which require careful oversight. The policy aims to promote agricultural interests while balancing the needs of diverse stakeholders, including those involved in the cultivation of roses and carnations. Ultimately, it seeks to foster economic growth and democratisation across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:54:17.291338",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 691,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 466,
+      "selected_avg_freq": 221.52666666666667
+    },
+    "related_words": [
+      "dichromium",
+      "ned",
+      "arid",
+      "combi",
+      "gonzalez",
+      "agricultual",
+      "commmunity",
+      "vember",
+      "trioxide",
+      "democratisation",
+      "neighbours",
+      "multiflorous",
+      "uniflorous",
+      "bloom",
+      "subdivide",
+      "flowered",
+      "roses",
+      "carnations",
+      "denounced",
+      "buds",
+      "recordings",
+      "flower",
+      "invoking",
+      "cucumbers",
+      "sour",
+      "warehouse",
+      "reintroducing",
+      "baby",
+      "speedy",
+      "perishable"
+    ],
+    "prompt_length": 1665,
+    "category": "2011 tariff policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1896",
+  "concept_data": {
+    "title": "system of measurement",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "metrology",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"system of measurement,\" redirected to \"metrology,\" is crucial in EU legal and regulatory frameworks, particularly in standardizing measurements for trade and safety. Metrology consolidates various units, such as the millimetre and kilopascal, ensuring that measurements are universally understood and accepted. This includes the use of prefixes and symbols that facilitate clear communication across member states. The EU's commitment to metrological accuracy is evident in regulations governing checkweighing and the acknowledgment of metrological principles by the CGPM. By harmonising measurement standards, the EU curtails contradictions in trade, benefiting SMEs and enhancing utility in seagoing operations, such as chartering and voyage assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:48.977867",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 905,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 240,
+      "selected_avg_freq": 104.14666666666666
+    },
+    "related_words": [
+      "millimetre",
+      "kilopascal",
+      "cgpm",
+      "checkweighing",
+      "mpe",
+      "conférence",
+      "poids",
+      "submultiples",
+      "bcr",
+      "ceding",
+      "acknowledgment",
+      "biased",
+      "barn",
+      "prefixes",
+      "bareboat",
+      "charterer",
+      "expelled",
+      "abolishment",
+      "cluster",
+      "flagging",
+      "multiples",
+      "chartered",
+      "chartering",
+      "lessee",
+      "irl",
+      "upturn",
+      "metrology",
+      "consolidates",
+      "générale",
+      "flies"
+    ],
+    "prompt_length": 1715,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2384",
+  "concept_data": {
+    "title": "fish farming",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Fish farming, or pisciculture, is a significant aspect of the EU's fisheries sector, serving as a mainstay for sustainable seafood production. This practice encompasses the breeding and rearing of various fish species, including catfish and bassan, within controlled environments. EU regulations address health concerns, such as haemorrhagic diseases, ensuring that uninfected stocks are maintained. Justifications for fish farming include economic viability and environmental sustainability, with entities like havfisk and nordlaks contributing to the industry. The regulatory framework also encompasses aspects of trade, with countrvailing measures applied to imported products. Overall, fish farming is integral to the EU's strategy for sustainable fisheries management.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:13:01.850771",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1670,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 14.213333333333333
+    },
+    "related_words": [
+      "catfish",
+      "mainstay",
+      "haemopoletic",
+      "ørum",
+      "haermorrhagic",
+      "hattop",
+      "uninfected",
+      "presumably",
+      "justifcations",
+      "norman",
+      "norwell",
+      "seanor",
+      "empted",
+      "skaarfish",
+      "countrvailing",
+      "pisciculture",
+      "sangheen",
+      "artois",
+      "haemorraghic",
+      "bacino",
+      "taverone",
+      "sessera",
+      "bondo",
+      "fosso",
+      "melga",
+      "fabrique",
+      "valence",
+      "dră",
+      "marstein",
+      "westmarine"
+    ],
+    "prompt_length": 1650,
+    "category": "5641 fisheries"
+  }
+}

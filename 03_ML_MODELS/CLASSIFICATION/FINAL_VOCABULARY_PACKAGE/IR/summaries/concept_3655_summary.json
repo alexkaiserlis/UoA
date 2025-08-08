@@ -1,0 +1,63 @@
+{
+  "concept_id": "3655",
+  "concept_data": {
+    "title": "researcher",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "research staff",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"researcher\" redirects to \"research staff,\" encompassing a diverse group of individuals, including scientists and fellows engaged in various studies across institutes and universities. These professionals contribute to the advancement of knowledge in fields such as economics and ICT, often utilizing microdata and aggregated indicators to analyze socioeconomic relationships. Research staff may be involved in projects funded by entities like the ECB, which authorizes funding for research initiatives. Their work stimulates learning and innovation, while also addressing fiscal and employment issues. The role of research staff is crucial for developing policies that enhance skills and support adult education across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:23:45.410440",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 273,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1220,
+      "selected_avg_freq": 517.52
+    },
+    "related_words": [
+      "fellows",
+      "harvard",
+      "estudios",
+      "fiscales",
+      "ief",
+      "massachusetts",
+      "aes",
+      "microdata",
+      "johannesburg",
+      "enumeration",
+      "enumerates",
+      "fss",
+      "instituto",
+      "silc",
+      "ess",
+      "economics",
+      "college",
+      "employer",
+      "attitudes",
+      "ict",
+      "holiday",
+      "researchers",
+      "scientists",
+      "sciences",
+      "adults",
+      "associating",
+      "university",
+      "interchange",
+      "aggregated",
+      "learning"
+    ],
+    "prompt_length": 1722,
+    "category": "6416 research and intellectual property"
+  }
+}

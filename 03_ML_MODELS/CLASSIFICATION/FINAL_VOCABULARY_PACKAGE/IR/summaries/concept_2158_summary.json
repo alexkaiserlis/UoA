@@ -1,0 +1,63 @@
+{
+  "concept_id": "2158",
+  "concept_data": {
+    "title": "ordinance",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, an \"ordinance\" refers to a legislative act issued by a competent authority, often laying down specific requirements for the implementation of EU law. Such documents are crucial for enabling the effective application of regulations across member countries. Ordinances may cover various subjects, including import restrictions and authorisation processes for transactions involving overseas territories. They are typically issued by the president of a regulatory body and can include annexes detailing qualifying criteria for products, such as sugar or other goods. In addition, ordinances are subject to judicial review by the court, ensuring compliance with overarching legal frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:22:42.678848",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2122.225
+    },
+    "related_words": [
+      "rii",
+      "emesa",
+      "octs",
+      "oct",
+      "observe",
+      "president",
+      "acp",
+      "ground",
+      "instance",
+      "suspending",
+      "qualifying",
+      "zone",
+      "overseas",
+      "sugar",
+      "issuing",
+      "licences",
+      "transactions",
+      "codes",
+      "court",
+      "territories",
+      "restrictions",
+      "authorisation",
+      "association",
+      "called",
+      "originating",
+      "import",
+      "carry",
+      "authorised",
+      "received",
+      "enable"
+    ],
+    "prompt_length": 1650,
+    "category": "1206 sources and branches of the law"
+  }
+}

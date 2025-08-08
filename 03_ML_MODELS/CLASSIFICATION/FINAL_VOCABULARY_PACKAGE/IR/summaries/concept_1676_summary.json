@@ -1,0 +1,63 @@
+{
+  "concept_id": "1676",
+  "concept_data": {
+    "title": "money-market liquidity",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Money-market liquidity\" refers to the capacity of financial institutions to access liquid assets in the money market, crucial for maintaining stability and preventing contagion in the EU's financial system. Regulatory frameworks, such as those established by ESMA and EBA, aim to ensure that counterparties can withstand defaults and efficiently manage their exposures. This involves prudent capitalisation and the use of collateral to mitigate risks associated with OTC derivatives. Additionally, the interoperability of CCPs and the effectiveness of clearing mechanisms are vital for liquidating positions during market stress. By quantifying liquidity risks and revising benchmarks, stakeholders can better navigate potential bankruptcies and enhance the overall resilience of the financial portfolio.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:08.544685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 322,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1055,
+      "selected_avg_freq": 413.17333333333335
+    },
+    "related_words": [
+      "capitalised",
+      "recapitalising",
+      "liquidating",
+      "contagion",
+      "cpss",
+      "ccp",
+      "withstand",
+      "defaults",
+      "reorganise",
+      "ccps",
+      "counterparty",
+      "iosco",
+      "repositories",
+      "otc",
+      "quantifying",
+      "eba",
+      "winding",
+      "ifrs",
+      "posted",
+      "merging",
+      "inefficient",
+      "conservative",
+      "impair",
+      "portfolio",
+      "counterparties",
+      "esma",
+      "assumes",
+      "default",
+      "exposures",
+      "expose"
+    ],
+    "prompt_length": 1704,
+    "category": "2411 monetary economics"
+  }
+}

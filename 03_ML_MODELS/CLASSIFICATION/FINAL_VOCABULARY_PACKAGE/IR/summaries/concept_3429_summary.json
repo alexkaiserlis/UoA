@@ -1,0 +1,63 @@
+{
+  "concept_id": "3429",
+  "concept_data": {
+    "title": "warships",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"warships\" within the EU legal and regulatory framework pertains to the defense category, specifically addressing the authorizations and taxation related to military vessels. The harmonization of laws across member states should involve precise calculations of turnover and taxes accruing from transactions involving warships. For instance, the collection of VAT on these vessels may be subject to exemptions under specific conditions. The European Atomic Energy Community (Euratom) and the European Coal and Steel Community (ECSC) may also have relevant regulations. Advisory opinions on the burden of taxation and the determination of authorizing bodies are crucial for compliance, particularly in countries like Greece, where laws may differ.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:29.234904",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 110,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 110,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1759.1272727272728
+    },
+    "related_words": [
+      "authoritzes",
+      "shoud",
+      "approximate",
+      "accruing",
+      "authorizations",
+      "unjustified",
+      "vat",
+      "hellenic",
+      "taxation",
+      "calculate",
+      "turnover",
+      "taxes",
+      "recording",
+      "ceased",
+      "renewed",
+      "estimates",
+      "sixth",
+      "harmonization",
+      "exempt",
+      "authorizing",
+      "replacement",
+      "precise",
+      "contributions",
+      "base",
+      "tax",
+      "opinions",
+      "transactions",
+      "greek",
+      "atomic",
+      "definitive"
+    ],
+    "prompt_length": 1648,
+    "category": "0821 defence"
+  }
+}

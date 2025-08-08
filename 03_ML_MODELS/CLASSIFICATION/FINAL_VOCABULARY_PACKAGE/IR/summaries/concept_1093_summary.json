@@ -1,0 +1,63 @@
+{
+  "concept_id": "1093",
+  "concept_data": {
+    "title": "electoral fraud",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Electoral fraud refers to violations of democratic principles during elections, undermining the integrity of electoral processes. In the context of EU legal and regulatory frameworks, it encompasses tangible infringements such as vote manipulation, suppression of opposition, and the repression of dissenting voices. The EU has imposed sanctions on officials and entities involved in electoral fraud, particularly in cases like the Belarusian presidential elections under Lukashenko, where crackdowns on civil society and targeted travel restrictions have been prevalent. These actions aim to align with democratic values and lift the gravity of electoral violations, ensuring that individuals and assets benefiting from such fraud face liability and potential freezing of their resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:39:50.780957",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 2534,
+      "selected_avg_freq": 1124.1
+    },
+    "related_words": [
+      "crackdown",
+      "reapply",
+      "disappearances",
+      "lukashenko",
+      "belarusian",
+      "republished",
+      "electoral",
+      "presidential",
+      "tangible",
+      "repression",
+      "iiia",
+      "elections",
+      "gravity",
+      "democracy",
+      "lift",
+      "violations",
+      "belarus",
+      "sphere",
+      "freezing",
+      "opposition",
+      "travel",
+      "infringements",
+      "owned",
+      "targeted",
+      "president",
+      "sanctions",
+      "officials",
+      "assets",
+      "align",
+      "liability"
+    ],
+    "prompt_length": 1700,
+    "category": "0416 electoral procedure and voting"
+  }
+}

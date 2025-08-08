@@ -1,0 +1,63 @@
+{
+  "concept_id": "1398",
+  "concept_data": {
+    "title": "vacuum industry",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"vacuum industry\" encompasses various sectors involved in the production and management of vacuum-related products and technologies. This industry is governed by EU regulations that set conditions for market entry and product standards. Agencies oversee the automation of processes, including the packing and storage of goods, which may involve manual labour in certain contexts. The industry has developed detailed rules regarding the application of vacuum technology in sectors such as food processing, where products like skimmed milk powder are common. The EU's economic opinion on this industry is reflected in annexes that outline technical requirements and management practices, ensuring public safety and product quality.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:56.963606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 53,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 53,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2193.1290322580644
+    },
+    "related_words": [
+      "automation",
+      "packing",
+      "sometimes",
+      "skimmed",
+      "manual",
+      "bought",
+      "powder",
+      "involves",
+      "labour",
+      "milk",
+      "agencies",
+      "offered",
+      "storage",
+      "intervention",
+      "good",
+      "developed",
+      "progress",
+      "annexes",
+      "authorised",
+      "industry",
+      "full",
+      "governing",
+      "organisation",
+      "public",
+      "detailed",
+      "point",
+      "form",
+      "until",
+      "technical",
+      "management"
+    ],
+    "prompt_length": 1625,
+    "category": "6846 miscellaneous industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1902",
+  "concept_data": {
+    "title": "microphotograph",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "microform",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"microphotograph,\" categorized under documentation, is a redirect to the preferred term \"microform.\" In the context of EU legal and regulatory documents, microform refers to a method of recording and displaying information through microfilm and microfiches. This technique involves photographing documents at reduced sizes, enabling efficient storage and transcribing of extensive data. Utilizing specialized machines, such as cameras and apparatus, the process incorporates elements like magnetic tape and cathode ray tubes for automatic copying and recording. The resulting microforms are legible, facilitating the preservation and retrieval of legal texts while ensuring essential functions like indexing and displaying headings are performed effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:53.571786",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 128,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 128,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1410.8828125
+    },
+    "related_words": [
+      "microfilm",
+      "transcribing",
+      "flashlight",
+      "photographing",
+      "microfiches",
+      "perfoms",
+      "photograph",
+      "cathode",
+      "copying",
+      "deck",
+      "cameras",
+      "camera",
+      "displaying",
+      "legible",
+      "photographic",
+      "tape",
+      "characters",
+      "ray",
+      "tube",
+      "displayed",
+      "film",
+      "magnetic",
+      "printing",
+      "playing",
+      "transferring",
+      "machine",
+      "machines",
+      "incorporating",
+      "performing",
+      "apparatus"
+    ],
+    "prompt_length": 1727,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5415",
+  "concept_data": {
+    "title": "criminal proceedings",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Criminal proceedings\" within the EU legal framework encompass the judicial processes involved in the prosecution of crime, including terrorism and transnational offenses. Governed by a complex acquis, these proceedings are designed to ensure mutual cooperation among member states, facilitating extradition and the exchange of judicial information. The Lisbon Treaty has enhanced the EU's capacity to combat crime through coordinated efforts, allowing for the signing of conventions that bind states to common standards. The presidency plays a crucial role in overseeing these processes, ensuring that solutions are carefully negotiated and that all parties consent to the terms of bilateral treaties, thereby reinforcing judicial relations across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:58.768148",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 166,
+      "requested_words": 150,
+      "min_frequency_found": 21,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 21,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1429.0533333333333
+    },
+    "related_words": [
+      "extradition",
+      "precedent",
+      "terrorism",
+      "latters",
+      "transnational",
+      "exchanged",
+      "foresee",
+      "carefully",
+      "crime",
+      "substantive",
+      "presidency",
+      "jha",
+      "criminal",
+      "schengen",
+      "conventions",
+      "coordinate",
+      "consult",
+      "judicial",
+      "acquis",
+      "read",
+      "solutions",
+      "lisbon",
+      "japan",
+      "signature",
+      "determines",
+      "find",
+      "iceland",
+      "consent",
+      "assisted",
+      "cooperate"
+    ],
+    "prompt_length": 1664,
+    "category": "1221 justice"
+  }
+}

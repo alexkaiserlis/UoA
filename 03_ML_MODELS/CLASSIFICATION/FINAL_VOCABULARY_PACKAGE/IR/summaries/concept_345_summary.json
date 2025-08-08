@@ -1,0 +1,63 @@
+{
+  "concept_id": "345",
+  "concept_data": {
+    "title": "sifting residue",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "industrial waste",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sifting residue,\" redirected to \"industrial waste,\" pertains to the deterioration of the environment within EU legal frameworks. This term encompasses various hazardous materials, including toxic substances like chlorofluorocarbons and sulphur compounds, often found in industrial discharges. Examples include ash from extractive processes and polyurethane foam, which can pose significant ecological hazards. The regulation of these wastes is crucial, as improper management can lead to accidents and environmental degradation. The EU's presidency emphasizes the importance of adaptable strategies for waste management, ensuring that shipments of industrial by-products, such as ferrous scrap and copper, adhere to stringent parametric standards to mitigate risks associated with nitrate and ammonium discharges.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:14.144460",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 420,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 820,
+      "selected_avg_freq": 370.24
+    },
+    "related_words": [
+      "meteorology",
+      "parings",
+      "trioxide",
+      "parametric",
+      "chlorate",
+      "tipping",
+      "polyurethane",
+      "extractive",
+      "titanium",
+      "adaptable",
+      "foam",
+      "oxygen",
+      "chlorofluorocarbons",
+      "inorganic",
+      "ash",
+      "saudi",
+      "arabia",
+      "environments",
+      "examples",
+      "discharges",
+      "scrap",
+      "unaffected",
+      "ferrous",
+      "injection",
+      "oppose",
+      "wastes",
+      "nitrate",
+      "usefulness",
+      "copper",
+      "ensuing"
+    ],
+    "prompt_length": 1728,
+    "category": "5216 deterioration of the environment"
+  }
+}

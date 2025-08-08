@@ -1,0 +1,63 @@
+{
+  "concept_id": "3386",
+  "concept_data": {
+    "title": "Balearic Islands",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Balearic Islands,\" categorized under regions of EU Member States, encompass Mallorca, Menorca, and the surrounding isles. These islands are notable for their unique cultural heritage, including the traditional ensaimada and the local gastronomy of Mahón cheese. In the context of EU regulations, the Balearic Islands are significant for maritime undertakings, particularly concerning transmediterranea sailings and the regulation of ferry services connecting these islands to mainland Iberia. Legal frameworks also address environmental concerns, such as the protection of seabed ecosystems and the management of fisheries, including species like cephalopods and gobies. The islands' spatial planning and tourism regulations are crucial for sustainable development, foreseeing impacts on local communities and ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:51:15.551620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 518,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 397,
+      "selected_avg_freq": 158.4
+    },
+    "related_words": [
+      "ensaimada",
+      "mallorquina",
+      "disaese",
+      "mahón",
+      "menorca",
+      "tavelling",
+      "underakings",
+      "stae",
+      "membr",
+      "similarily",
+      "transmediterranea",
+      "ferrer",
+      "pseudaphia",
+      "ferreri",
+      "lowbody",
+      "picarel",
+      "spicara",
+      "smaris",
+      "foreseeing",
+      "mallorca",
+      "sailings",
+      "majorca",
+      "minorca",
+      "tickets",
+      "gobies",
+      "iberia",
+      "palmas",
+      "aphia",
+      "minuta",
+      "hauled"
+    ],
+    "prompt_length": 1632,
+    "category": "7211 regions of EU Member States"
+  }
+}

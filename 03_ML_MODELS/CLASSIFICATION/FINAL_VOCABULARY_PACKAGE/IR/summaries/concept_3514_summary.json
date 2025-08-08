@@ -1,0 +1,63 @@
+{
+  "concept_id": "3514",
+  "concept_data": {
+    "title": "Vienna Conference",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": true,
+    "preferred_term": "OSCE",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Vienna Conference,\" a term redirecting to the \"OSCE,\" represents a pivotal forum for addressing conflicts and reinforcing peace in Europe. Established to ensure the inviolability of borders and promote democratic values, the OSCE engages in various missions aimed at resolving issues faced by minorities and fostering stability in Eastern Europe. Through inquiries and contributions from member states, the conference facilitates dialogue on excessive deficits and classifications of security threats. Its inaugural sessions have been instrumental in building confidence and addressing problems related to taxes and borrowing. The OSCE's efforts are crucial for maintaining lasting peace and secure frontiers across the continent.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:55:32.806002",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 168,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 3430,
+      "selected_avg_freq": 1299.16
+    },
+    "related_words": [
+      "tagliavini",
+      "heidi",
+      "inviolability",
+      "cmfb",
+      "inaugural",
+      "minorities",
+      "staple",
+      "spc",
+      "idea",
+      "peaceful",
+      "borrowing",
+      "commit",
+      "classifications",
+      "inquiry",
+      "esa",
+      "conflicts",
+      "pact",
+      "reinforcing",
+      "georgia",
+      "calling",
+      "lending",
+      "resolve",
+      "deficit",
+      "conflict",
+      "ready",
+      "confidence",
+      "comparability",
+      "head",
+      "frontiers",
+      "lasting"
+    ],
+    "prompt_length": 1695,
+    "category": "7621 world organisations"
+  }
+}

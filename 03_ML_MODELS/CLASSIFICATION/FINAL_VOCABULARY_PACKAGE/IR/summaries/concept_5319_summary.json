@@ -1,0 +1,63 @@
+{
+  "concept_id": "5319",
+  "concept_data": {
+    "title": "electromagnetic radiation",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "electromagnetic interference",
+    "relation_type": "USE"
+  },
+  "summary": "Electromagnetic radiation, often redirected to \"electromagnetic interference,\" is a critical concept in EU legal and regulatory frameworks concerning environmental deterioration. It encompasses various frequencies, including those utilized by RFIDs, radars, and UWB technologies. The EU harmonises standards through bodies like CENELEC and ICNIRP, ensuring that emissions from equipment, such as handheld devices and luminaires, are regulated to tolerate safe levels. This regulatory endeavour quantifies radiated densities and anticipates potential theft or interference in dense urban towns. The impact of electromagnetic radiation on imaging and sensor technologies is also considered, particularly in legacy constructions and during renewals of electrotechnical equipment.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:48.049128",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 761,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 282,
+      "selected_avg_freq": 104.70666666666666
+    },
+    "related_words": [
+      "cispr",
+      "editions",
+      "icnirp",
+      "rfids",
+      "listen",
+      "fréquences",
+      "daa",
+      "bma",
+      "uwb",
+      "starters",
+      "uhf",
+      "anticipating",
+      "radiated",
+      "tte",
+      "radars",
+      "talk",
+      "reader",
+      "luminaires",
+      "wideband",
+      "equipement",
+      "handheld",
+      "tolerate",
+      "renewals",
+      "seconds",
+      "endeavouring",
+      "utilising",
+      "theft",
+      "reusing",
+      "rfid",
+      "dense"
+    ],
+    "prompt_length": 1700,
+    "category": "5216 deterioration of the environment"
+  }
+}

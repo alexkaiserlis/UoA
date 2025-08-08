@@ -1,0 +1,63 @@
+{
+  "concept_id": "447917",
+  "concept_data": {
+    "title": "European Union Agency for the Cooperation of Energy Regulators",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Union Agency for the Cooperation of Energy Regulators (ACER) is an independent agency established to enhance cooperation among national energy regulators. It operates under a mandate provided by the EU regulation, ensuring the effective functioning of the internal energy market. ACER's board consists of five members appointed by the Council and Parliament, with terms lasting six years, allowing for alternates in case of resignation or expiry. The agency's primary interest lies in promoting regulatory consistency and transparency across member states. Its decisions are published in the Official Journal, reflecting its commitment to public accountability and adherence to EU treaties.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:28:02.410885",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 46,
+      "requested_words": 150,
+      "min_frequency_found": 66,
+      "max_frequency_found": 4108,
+      "selected_words": 46,
+      "selected_min_freq": 66,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1961.7173913043478
+    },
+    "related_words": [
+      "alternates",
+      "resignation",
+      "alternate",
+      "objectively",
+      "regulators",
+      "mandates",
+      "independently",
+      "appoint",
+      "appointing",
+      "mandate",
+      "appointed",
+      "expiry",
+      "board",
+      "replace",
+      "agency",
+      "six",
+      "energy",
+      "five",
+      "four",
+      "members",
+      "interest",
+      "administrative",
+      "public",
+      "three",
+      "cooperation",
+      "act",
+      "years",
+      "year",
+      "following",
+      "provides"
+    ],
+    "prompt_length": 1695,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

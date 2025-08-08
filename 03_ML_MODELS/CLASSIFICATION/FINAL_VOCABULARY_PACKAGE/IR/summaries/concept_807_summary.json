@@ -1,0 +1,63 @@
+{
+  "concept_id": "807",
+  "concept_data": {
+    "title": "food aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"food aid\" within EU legal and regulatory frameworks pertains to the provision of assistance to individuals and communities facing food insecurity. This aid is often implemented through various programs that apportions resources to ensure the availability of essential nutrition, particularly in regions experiencing underconsumption and distress. The EU's interventions, as stipulated in relevant articles, aim to guarantee that beneficiaries receive vitaminized food products. Organizations such as Oxfam and local entities, including those in Bamako and Douala, play a critical role in this solidarity effort. The legal framework supports adoptions of measures that enhance food security, fostering fellowship among nations and communities, while addressing the needs of vulnerable populations in places like Koudougou and Bobodioulasso.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:22.135248",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 1997,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 49,
+      "selected_avg_freq": 18.773333333333333
+    },
+    "related_words": [
+      "lrcs",
+      "shoudl",
+      "benenfit",
+      "undischarged",
+      "artiucle",
+      "implementating",
+      "apportions",
+      "availaable",
+      "downgeneral",
+      "fac",
+      "spetember",
+      "crediting",
+      "gurantee",
+      "bamako",
+      "douala",
+      "djamena",
+      "cohafa",
+      "vitaminized",
+      "stipualted",
+      "volta",
+      "koudougou",
+      "bobodioulasso",
+      "espressing",
+      "wre",
+      "underconsumption",
+      "durban",
+      "fellowship",
+      "adoptions",
+      "interventon",
+      "théosophique"
+    ],
+    "prompt_length": 1682,
+    "category": "0811 cooperation policy"
+  }
+}

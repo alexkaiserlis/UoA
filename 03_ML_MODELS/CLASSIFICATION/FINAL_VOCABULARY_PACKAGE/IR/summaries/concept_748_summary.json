@@ -1,0 +1,63 @@
+{
+  "concept_id": "748",
+  "concept_data": {
+    "title": "wind power",
+    "category_code": "6626",
+    "category_name": "soft energy",
+    "category_full": "6626 soft energy",
+    "is_redirect": true,
+    "preferred_term": "wind energy",
+    "relation_type": "USE"
+  },
+  "summary": "Wind power, classified under the category of soft energy, is redirected to the preferred term \"wind energy\" in EU legal and regulatory contexts. This renewable energy source plays a crucial role in the EU's commitment to sustainability and combating globalisation effects on energy markets. Denmark, a leader in wind energy, has submitted proposals to mobilise resources for reintegration of redundant workers affected by structural changes in the energy sector. The European Globalisation Adjustment Fund (EGF) assists enterprises in adapting to these changes, ensuring compliance with binding regulations. This includes budgetary contributions that support the development of major wind energy projects, classified under specific nomenclature tables. The EU's commitment to sound energy patterns allows for a combined approach to energy transition, invoking necessary adjustments to existing tariffs and structural frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:32:36.742253",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1947.5942028985507
+    },
+    "related_words": [
+      "denmarksubmitted",
+      "vestas",
+      "egf",
+      "redundancies",
+      "reintegration",
+      "globalisation",
+      "mobilised",
+      "mobilise",
+      "mobilisation",
+      "redundant",
+      "enterprise",
+      "proposes",
+      "subdivision",
+      "adds",
+      "patterns",
+      "discipline",
+      "invoked",
+      "interinstitutional",
+      "holder",
+      "labour",
+      "column",
+      "wholly",
+      "partly",
+      "contributions",
+      "workers",
+      "complies",
+      "interpretation",
+      "binding",
+      "ceiling",
+      "assist"
+    ],
+    "prompt_length": 1720,
+    "category": "6626 soft energy"
+  }
+}

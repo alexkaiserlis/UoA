@@ -1,0 +1,63 @@
+{
+  "concept_id": "3140",
+  "concept_data": {
+    "title": "monitoring of pollution",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental monitoring",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"monitoring of pollution,\" redirected to \"environmental monitoring,\" encompasses the systematic assessment of pollutants to ensure compliance with EU environmental policy. This includes intercomparison studies among laboratories to validate results and address exceedences of pollutant thresholds. The monitoring process involves spatial and temporal data collection, utilizing advanced techniques to analyze particulates and volatile organic compounds (VOCs). Regulatory frameworks, such as the Basel Convention, guide the management of transfrontier pollution, while tools like the European Monitoring and Evaluation Programme (EMEP) facilitate data sharing. Effective monitoring hampers nuisances and informs refinishing strategies for cleaner environments, ultimately influencing policy decisions and public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:23.522211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1093,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 176,
+      "selected_avg_freq": 81.20666666666666
+    },
+    "related_words": [
+      "intercomparison",
+      "gems",
+      "exceedences",
+      "spilt",
+      "diluents",
+      "scoring",
+      "refinishing",
+      "manifested",
+      "threefold",
+      "emep",
+      "temporal",
+      "reactive",
+      "interlaboratory",
+      "siting",
+      "vember",
+      "planet",
+      "gmes",
+      "voc",
+      "parametric",
+      "amber",
+      "hampers",
+      "elaborating",
+      "tipping",
+      "particulates",
+      "accomplish",
+      "une",
+      "sediments",
+      "emas",
+      "iec",
+      "verbale"
+    ],
+    "prompt_length": 1719,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1837",
+  "concept_data": {
+    "title": "polyvinyl chloride",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "plastics",
+    "relation_type": "USE"
+  },
+  "summary": "Polyvinyl chloride (PVC) is a significant thermoplastic material categorized under \"plastics\" in EU regulatory frameworks. As a versatile polymer, PVC is utilized in various applications, including packaging (envases) and construction. The EU has established regulations to manage PVC's environmental impact, addressing issues such as littering and wastage. Beneficiaries of these regulations include manufacturers and consumers, ensuring that products are safe and compliant. The use of additives, such as styrenated fillers and diglycidyl compounds, is regulated to prevent harmful effects, including encephalopathies. Additionally, the EU promotes the development of compostable alternatives and monitors the lifecycle of PVC products to mitigate environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:52:27.730405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 3341,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.286666666666667
+    },
+    "related_words": [
+      "beneficiairies",
+      "milligram",
+      "bicoloured",
+      "envases",
+      "intrested",
+      "poins",
+      "ono",
+      "monoplast",
+      "injelec",
+      "cedap",
+      "cobelplast",
+      "coexpan",
+      "fées",
+      "dairyland",
+      "ivel",
+      "ffs",
+      "thermoformed",
+      "lucent",
+      "bicolou",
+      "folllowing",
+      "bitratex",
+      "elegant",
+      "gokak",
+      "indah",
+      "bumi",
+      "kanindo",
+      "sulindafin",
+      "permai",
+      "sulindamills",
+      "organigram"
+    ],
+    "prompt_length": 1697,
+    "category": "6811 chemistry"
+  }
+}

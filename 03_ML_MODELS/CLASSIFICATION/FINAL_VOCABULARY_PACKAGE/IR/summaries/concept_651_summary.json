@@ -1,0 +1,63 @@
+{
+  "concept_id": "651",
+  "concept_data": {
+    "title": "forestry economics",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Forestry economics encompasses the governance and regulatory frameworks surrounding the sustainable management and trade of forest resources within the EU. This includes the enforcement of laws against illegal logging and the licensing of timber products. The EU has established partnerships with countries like the Republic of Congo to address issues of illegal imports through agreements such as the FLEGT (Forest Law Enforcement, Governance and Trade) initiative. These agreements, which are often initialled and later signed, aim to ensure that timber products are derived from sustainably managed forests. The conclusions of negotiations lead to the implementation of schemes that promote responsible forestry practices, thereby contributing to the overall development of the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:21:39.774974",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 22,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1842.532258064516
+    },
+    "related_words": [
+      "flegt",
+      "logging",
+      "timber",
+      "congo",
+      "forest",
+      "governance",
+      "licensing",
+      "illegal",
+      "initialled",
+      "signing",
+      "voluntary",
+      "enforcement",
+      "derived",
+      "producing",
+      "partnership",
+      "address",
+      "entitled",
+      "negotiations",
+      "called",
+      "conclusions",
+      "open",
+      "plan",
+      "scheme",
+      "later",
+      "signed",
+      "communication",
+      "imports",
+      "agreements",
+      "authorised",
+      "conjunction"
+    ],
+    "prompt_length": 1671,
+    "category": "5636 forestry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2944",
+  "concept_data": {
+    "title": "membership organisation",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "association",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"membership organisation,\" also referred to as an \"association,\" plays a crucial role in social affairs. These organizations often operate under specific statutes that govern their activities, which may include charitable purposes or the promotion of particular interests. They are involved in various operations, such as providing aid, examining eligibility for compensatory payments, and approving refunds for exported goods. Furthermore, these associations may be exempted from certain regulations, thereby widening their operational margins. In fluctuating economic conditions, they can also influence monetary policies, particularly in agriculture and food sectors, by representing their members' interests in committees and consultations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:14:00.034782",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1842.969387755102
+    },
+    "related_words": [
+      "théosophique",
+      "ordre",
+      "conjunctural",
+      "charitable",
+      "fluctuation",
+      "statutes",
+      "widening",
+      "henceforth",
+      "exempting",
+      "margins",
+      "currencies",
+      "powder",
+      "retroactive",
+      "levied",
+      "quarter",
+      "intends",
+      "consignments",
+      "compensatory",
+      "refunds",
+      "committees",
+      "exempted",
+      "opinions",
+      "milk",
+      "approve",
+      "organizations",
+      "monetary",
+      "exported",
+      "approving",
+      "exports",
+      "service"
+    ],
+    "prompt_length": 1719,
+    "category": "2826 social affairs"
+  }
+}

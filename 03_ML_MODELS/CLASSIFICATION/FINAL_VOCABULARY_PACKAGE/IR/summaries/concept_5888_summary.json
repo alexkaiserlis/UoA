@@ -1,0 +1,63 @@
+{
+  "concept_id": "5888",
+  "concept_data": {
+    "title": "security services",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"security services\" encompasses a range of operations aimed at safeguarding individuals, property, and information within the EU framework. These services are subject to specific provisions and agreements that govern their functioning. The EU has established a programme for cooperation among member states, ensuring that security services operate in conjunction with national laws and freedoms. Initial drafts and amendments to relevant protocols have been proposed, with monitoring arrangements entered into force to enhance compliance. The parties involved are tasked with deciding on the appropriate measures to extend these services, which include joint operations and economic arrangements, thereby ensuring comprehensive security across various fields.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:55:36.861478",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 60,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 60,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2237.866666666667
+    },
+    "related_words": [
+      "gmes",
+      "earth",
+      "freedoms",
+      "fields",
+      "attached",
+      "others",
+      "contracting",
+      "initial",
+      "decide",
+      "four",
+      "contains",
+      "thereto",
+      "draft",
+      "amendment",
+      "extend",
+      "monitoring",
+      "entered",
+      "protocol",
+      "joint",
+      "conjunction",
+      "amend",
+      "operations",
+      "position",
+      "parties",
+      "include",
+      "area",
+      "programme",
+      "cooperation",
+      "eea",
+      "arrangements"
+    ],
+    "prompt_length": 1669,
+    "category": "6846 miscellaneous industries"
+  }
+}

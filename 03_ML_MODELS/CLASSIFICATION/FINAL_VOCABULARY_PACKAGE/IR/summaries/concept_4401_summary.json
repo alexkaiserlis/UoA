@@ -1,0 +1,63 @@
+{
+  "concept_id": "4401",
+  "concept_data": {
+    "title": "stamp tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "stamp duty",
+    "relation_type": "USE"
+  },
+  "summary": "Stamp tax, commonly referred to as \"stamp duty,\" is a financial charge imposed on specific legal documents and transactions within the EU. This tax varies in amount, depending on the nature of the transaction, and is payable at the time of issuance. The stamp duty serves as a safeguard for rights related to property and financial operations, ensuring that holders of documents are recognized in legal proceedings. Administrative provisions fix the fees charged, which may be increased or decreased based on legislative amendments. Despite its transitional nature, stamp duty remains a critical element of taxation, expected to continue impacting financial operations for years to come.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:54:20.225730",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 184,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 184,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2040.0674157303372
+    },
+    "related_words": [
+      "copies",
+      "examinations",
+      "fee",
+      "fees",
+      "holders",
+      "decreased",
+      "prolonged",
+      "variety",
+      "decrease",
+      "exceeds",
+      "payable",
+      "proceedings",
+      "fixes",
+      "reserve",
+      "issuing",
+      "despite",
+      "safeguard",
+      "continuity",
+      "foreseen",
+      "charged",
+      "plant",
+      "office",
+      "expected",
+      "short",
+      "reached",
+      "exceed",
+      "paid",
+      "reason",
+      "sets",
+      "consulting"
+    ],
+    "prompt_length": 1653,
+    "category": "2446 taxation"
+  }
+}

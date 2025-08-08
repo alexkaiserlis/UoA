@@ -1,0 +1,63 @@
+{
+  "concept_id": "2151",
+  "concept_data": {
+    "title": "exchange transaction",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"exchange transaction\" refers to a financial operation where currency units are transferred between parties, often involving foreign currencies. In the EU regulatory context, these transactions are governed by specific authorisations and codes that facilitate liberalisation of capital movements. The process requires permission from relevant authorities, ensuring that residents can engage in such transactions effectively. Monthly reporting and classification of these transactions are crucial for maintaining transparency and compliance. The liberalising measures aim to enhance the freedom of capital flows, allowing for quicker and more efficient transfers. This concept is vital for understanding the dynamics of financial institutions and credit markets within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:54:34.329398",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 187,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2931,
+      "selected_avg_freq": 1453.2466666666667
+    },
+    "related_words": [
+      "whereal",
+      "invisible",
+      "liberalising",
+      "booking",
+      "residents",
+      "permission",
+      "spent",
+      "subdivisions",
+      "liberalisation",
+      "adds",
+      "advances",
+      "widely",
+      "specifying",
+      "transfers",
+      "monthly",
+      "authorisations",
+      "abolished",
+      "effected",
+      "eaggf",
+      "connected",
+      "quickly",
+      "column",
+      "comparison",
+      "wholly",
+      "element",
+      "currency",
+      "governed",
+      "partly",
+      "participating",
+      "transactions"
+    ],
+    "prompt_length": 1715,
+    "category": "2416 financial institutions and credit"
+  }
+}

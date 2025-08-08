@@ -1,0 +1,63 @@
+{
+  "concept_id": "5839",
+  "concept_data": {
+    "title": "tax on polluting product",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "environmental tax",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax on polluting product,\" redirected to \"environmental tax,\" is pivotal in EU environmental policy. This taxation aims to incentivize eco-friendly practices by imposing fees on conventional motorbränslen, such as petrol and two-stroke engines, which contribute to pollution. By differentiating taxation rates, the EU encourages innovation among SMEs and providers of alternative fuels, such as alkylate and specialbensin. The regulatory framework reviews the impact on households and retail sectors, ensuring that the taxation is proportionate and does not hinder competitiveness. Ultimately, this environmental tax reinforces sustainable practices while addressing overcompensation and promoting a greener economy across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:59:37.194349",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 304,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1264,
+      "selected_avg_freq": 631.8333333333334
+    },
+    "related_words": [
+      "alkylate",
+      "motorbränslen",
+      "specialbensin",
+      "för",
+      "motordrivna",
+      "arbetsredskap",
+      "tvåtaktsbränsle",
+      "stroke",
+      "sek",
+      "emas",
+      "counterparts",
+      "equates",
+      "uncompetitive",
+      "pump",
+      "overcompensation",
+      "households",
+      "footing",
+      "engines",
+      "litre",
+      "petrol",
+      "eco",
+      "heating",
+      "providers",
+      "excise",
+      "fee",
+      "fees",
+      "maltese",
+      "smes",
+      "mineral",
+      "reviews"
+    ],
+    "prompt_length": 1721,
+    "category": "5206 environmental policy"
+  }
+}

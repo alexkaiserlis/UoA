@@ -1,0 +1,63 @@
+{
+  "concept_id": "1317",
+  "concept_data": {
+    "title": "regional taxation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "local tax",
+    "relation_type": "USE"
+  },
+  "summary": "Regional taxation, often redirected to \"local tax,\" encompasses various fiscal measures applied by local authorities within the EU. This concept is crucial for funding public services, akin to how cassava husks might be utilized in industrial processes. Local taxes can affect diverse sectors, from the production of pastries and liqueurs to the construction of doorframes and joinery. The regulatory framework addresses how these taxes are levied, ensuring compliance and equitable distribution of dues. However, challenges arise, exacerbating disparities in outlying areas, where resources like gravel and peat may be limited. Ultimately, regional taxation plays a vital role in the economic landscape, influencing everything from yogurt production to the sale of spectacles.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:35:34.286910",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 793,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 191,
+      "selected_avg_freq": 72.18666666666667
+    },
+    "related_words": [
+      "cassava",
+      "husks",
+      "cubicles",
+      "gutters",
+      "doms",
+      "pebbles",
+      "icing",
+      "breads",
+      "pastries",
+      "cordials",
+      "doorframes",
+      "woods",
+      "guianese",
+      "industrially",
+      "dom",
+      "conveyance",
+      "shower",
+      "sodas",
+      "ylang",
+      "joinery",
+      "cements",
+      "yogurt",
+      "prostheses",
+      "miscellaneous",
+      "vanilla",
+      "spectacles",
+      "husk",
+      "gravel",
+      "exacerbating",
+      "outlying"
+    ],
+    "prompt_length": 1647,
+    "category": "2446 taxation"
+  }
+}

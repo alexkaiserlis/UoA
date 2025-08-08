@@ -1,0 +1,63 @@
+{
+  "concept_id": "2571",
+  "concept_data": {
+    "title": "push towing",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Push towing\" refers to a method of transporting vessels, particularly tankers and cargo craft, along inland waterways. In the context of EU legal and regulatory frameworks, this concept involves the use of pusher vessels that actively maneuver and tow other vessels, enhancing fleet efficiency and addressing overcapacity issues. The modernization of push towing techniques is crucial for improving the appearance and functionality of aging vessels, with implications for scrapping and restoring old craft. Regulatory commitments may include quarterly assessments of the fleet's size and performance, ensuring shared responsibilities among stakeholders. The urgency to initiate improvements in this sector is a priority for EU experts, as it fosters coordinated efforts to enhance waterway transport systems.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:28.999748",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 177,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 2836,
+      "selected_avg_freq": 1268.8266666666666
+    },
+    "related_words": [
+      "pusher",
+      "scrapped",
+      "scrapping",
+      "bracket",
+      "tanker",
+      "waterways",
+      "restored",
+      "overcapacity",
+      "waiting",
+      "waterway",
+      "ahead",
+      "transporting",
+      "attractive",
+      "craft",
+      "cargo",
+      "reintroduced",
+      "passed",
+      "appearance",
+      "inland",
+      "ranging",
+      "formula",
+      "fleet",
+      "modernization",
+      "dry",
+      "quarterly",
+      "premiums",
+      "lowest",
+      "vessel",
+      "panel",
+      "lodging"
+    ],
+    "prompt_length": 1672,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

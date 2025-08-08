@@ -1,0 +1,63 @@
+{
+  "concept_id": "5741",
+  "concept_data": {
+    "title": "aquatic environment",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"aquatic environment\" encompasses various water bodies and their ecological systems, crucial for maintaining biodiversity and supporting recreational activities. In EU regulatory frameworks, such as the Water Framework Directive, the management of aquatic environments addresses issues like ecotoxicity from industrialization and the discharge of chlorinated and phosphoric substances. Legal measures aim to minimize the impact of pollutants, including fertilizers and heavy metals, on aquatic life, such as molluscs. Additionally, regulations consider the effects of drifting currents and tides, which can lead to entrapment or capsizing incidents. The protection of groundwater and the management of recreational activities are also prioritized to ensure sustainable use of these vital resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:07:36.030417",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 528,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 618,
+      "selected_avg_freq": 233.95333333333335
+    },
+    "related_words": [
+      "metalworking",
+      "esos",
+      "upload",
+      "capsizing",
+      "entrapment",
+      "phosphatic",
+      "buoyancy",
+      "entanglement",
+      "parcom",
+      "chlorides",
+      "chlor",
+      "drifting",
+      "currents",
+      "tides",
+      "sccps",
+      "guam",
+      "drowning",
+      "electrolysis",
+      "paraffins",
+      "sparsely",
+      "twentieth",
+      "mariana",
+      "leisure",
+      "samoa",
+      "winds",
+      "alkali",
+      "industrialization",
+      "chlorinated",
+      "phosphoric",
+      "rock"
+    ],
+    "prompt_length": 1686,
+    "category": "5211 natural environment"
+  }
+}

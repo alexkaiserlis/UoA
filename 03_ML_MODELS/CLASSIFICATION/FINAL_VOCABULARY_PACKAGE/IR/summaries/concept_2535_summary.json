@@ -1,0 +1,63 @@
+{
+  "concept_id": "2535",
+  "concept_data": {
+    "title": "pollution of the seas",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "marine pollution",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"pollution of the seas,\" commonly referred to as \"marine pollution,\" encompasses the detrimental effects of spilled substances, including noxious materials, on marine environments. EU regulations, such as MARPOL and OSPAR, prioritize the prevention and management of such pollution, emphasizing the need for timely responses to spills and the responsibilities of polluters. The devastating impact of industrialization and maritime collisions necessitates the use of dispersants and effective watchkeeping practices by seafarers. Legal frameworks aim to accomplish the cleansing of coasts and the protection of marine biodiversity, while also addressing emergencies related to hazardous and noxious substances (HNS). The EU actively ratifies agreements to optimise marine safety and mitigate pollution risks, reflecting a commitment to safeguarding marine ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:33.996253",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1067,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 174,
+      "selected_avg_freq": 85.42666666666666
+    },
+    "related_words": [
+      "spilled",
+      "syracuse",
+      "spilt",
+      "sahara",
+      "erika",
+      "cecis",
+      "dispersants",
+      "prioritise",
+      "hns",
+      "phosphatic",
+      "cleanseanet",
+      "fills",
+      "collisions",
+      "timeliness",
+      "noxious",
+      "northeast",
+      "ratifying",
+      "ism",
+      "bunker",
+      "exhaustively",
+      "plenipotentiaries",
+      "victim",
+      "accomplish",
+      "sparsely",
+      "emphasizes",
+      "industrialization",
+      "tacitly",
+      "watchkeeping",
+      "ospar",
+      "prefer"
+    ],
+    "prompt_length": 1733,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "665",
+  "concept_data": {
+    "title": "euro",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"euro,\" as a pivotal concept in EU monetary relations, centralises the economic framework of member states, facilitating a singular currency system. This system contemplates issuances that include commemorative coins and notes, celebrating significant events. The euro's minting process is governed by strict regulations to prevent counterfeits and ensure the integrity of transactions. Divergencies in national currencies, such as korunas and litas, have been overruled in favor of a unified approach. The euro's algorithm for computations and its role in vending systems reflect its adaptability. Announcements regarding its reissued forms and jubilee editions highlight its significance in both economic and cultural contexts, while the perceptions of its stability are crucial for attracting investments and supporting collectivités territoriales.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:53:24.865488",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 2238,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 32,
+      "selected_avg_freq": 15.566666666666666
+    },
+    "related_words": [
+      "surrogates",
+      "diner",
+      "skk",
+      "korunas",
+      "alphabet",
+      "minting",
+      "divergencies",
+      "communiquăšs",
+      "centralises",
+      "interpol",
+      "alphabets",
+      "rebuttable",
+      "algorithm",
+      "computations",
+      "perceptions",
+      "kroon",
+      "commemorative",
+      "celebrate",
+      "tolars",
+      "issuances",
+      "cnacs",
+      "rename",
+      "nccs",
+      "ncc",
+      "overruled",
+      "mtl",
+      "plurality",
+      "reissued",
+      "vending",
+      "cyp"
+    ],
+    "prompt_length": 1679,
+    "category": "2406 monetary relations"
+  }
+}

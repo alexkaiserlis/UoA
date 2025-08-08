@@ -1,0 +1,63 @@
+{
+  "concept_id": "4548",
+  "concept_data": {
+    "title": "part-time work",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "part-time employment",
+    "relation_type": "USE"
+  },
+  "summary": "Part-time employment, a concept within the EU's employment framework, is crucial for fostering flexible work arrangements. It is often discussed in the context of directives aimed at improving workers' rights and reducing discrimination. The Amsterdam Protocol seeks to incorporate principles that affect part-time workers, ensuring they are not disadvantaged compared to full-time employees. Notably, the European Trade Union Confederation (ETUC) and UNICE have pointed out the need for member states to comply with regulations that extend benefits to part-time workers. This includes the aim to achieve equal treatment in terms of pay and working conditions, thereby enhancing the internal labor market. The conclusions of various intergovernmental conferences have noted the importance of extending protections to this group, ensuring that future directives adequately address their needs.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:29:16.936667",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 108,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 108,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1915.4814814814815
+    },
+    "related_words": [
+      "ceep",
+      "unice",
+      "etuc",
+      "intergovernmental",
+      "seeks",
+      "construed",
+      "mutatis",
+      "mutandis",
+      "amsterdam",
+      "incorporate",
+      "enters",
+      "pointed",
+      "affects",
+      "britain",
+      "discrimination",
+      "wish",
+      "accept",
+      "workers",
+      "conference",
+      "northern",
+      "great",
+      "noted",
+      "bring",
+      "ireland",
+      "directives",
+      "directly",
+      "conclusions",
+      "extending",
+      "aim",
+      "found"
+    ],
+    "prompt_length": 1655,
+    "category": "4406 employment"
+  }
+}

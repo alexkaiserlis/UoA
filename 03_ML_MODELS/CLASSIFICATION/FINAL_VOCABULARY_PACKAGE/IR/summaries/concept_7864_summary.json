@@ -1,0 +1,63 @@
+{
+  "concept_id": "7864",
+  "concept_data": {
+    "title": "Riga",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Riga,\" as a concept within the EU legal framework, pertains to the regions of EU Member States, specifically Latvia. It is significant in the context of agricultural products and foodstuffs, particularly those with geographical indications and designations of origin. The European Commission, pursuant to various regulations, has published statements and applications regarding the quality of these products, ensuring they meet the standards set forth by the Council and Parliament. Notably, the register of protected geographical indications includes items like \"carnikavas nēģi,\" which highlights the region's unique offerings. The functioning of these schemes is essential for maintaining the integrity and reputation of Latvian agricultural products within the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:00:18.274205",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 37,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 37,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1907.3513513513512
+    },
+    "related_words": [
+      "carnikavas",
+      "nēģi",
+      "pgi",
+      "opposition",
+      "designations",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "latvia",
+      "statement",
+      "name",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "implementing",
+      "february",
+      "functioning",
+      "pursuant",
+      "november",
+      "application",
+      "parliament",
+      "journal"
+    ],
+    "prompt_length": 1558,
+    "category": "7211 regions of EU Member States"
+  }
+}

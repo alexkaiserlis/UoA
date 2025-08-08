@@ -1,0 +1,63 @@
+{
+  "concept_id": "2974",
+  "concept_data": {
+    "title": "milk quota",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "agricultural quota",
+    "relation_type": "USE"
+  },
+  "summary": "The \"milk quota,\" now redirected to \"agricultural quota,\" is a regulatory mechanism within EU agricultural structures aimed at controlling milk production quantities. This system was designed to prevent overproduction, which could exhaust resources and lead to market destabilization. By establishing fixed quotas, the EU sought to neutralize the risk of spontaneous market fluctuations and ensure appropriate supply levels. The quotas correspondingly reflect regional variations, allowing for specialisation in dairy production. Additionally, the system has faced criticism for being discriminatory towards less developed countries (LDCs) and for its complex regulations, which can conceal the true extent of production capacities. As such, the agricultural quota template has undergone numerous revisions to address these issues, including the incorporation of new varieties and the consideration of substitutions in production methods, such as the use of starches in dairy processing.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:32.556858",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 1508,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 123,
+      "selected_avg_freq": 60.42666666666667
+    },
+    "related_words": [
+      "isomerization",
+      "resultiang",
+      "exeed",
+      "conceal",
+      "spontaneously",
+      "reapplied",
+      "neutralized",
+      "appropriatiate",
+      "fixede",
+      "reducting",
+      "extents",
+      "mavra",
+      "tsebelia",
+      "narrowed",
+      "ldcs",
+      "extraordinarily",
+      "grained",
+      "exhausts",
+      "refractometry",
+      "understate",
+      "geudertheimer",
+      "forchheimer",
+      "havanna",
+      "cots",
+      "varities",
+      "reagard",
+      "substitutions",
+      "storer",
+      "indicazione",
+      "geografica"
+    ],
+    "prompt_length": 1776,
+    "category": "5611 agricultural structures and production"
+  }
+}

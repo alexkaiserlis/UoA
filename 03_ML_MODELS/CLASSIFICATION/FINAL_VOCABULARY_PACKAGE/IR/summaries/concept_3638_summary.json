@@ -1,0 +1,63 @@
+{
+  "concept_id": "3638",
+  "concept_data": {
+    "title": "low-carbon technology",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "clean technology",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"low-carbon technology,\" redirected to the preferred term \"clean technology,\" encompasses innovations aimed at reducing greenhouse gas emissions within the EU regulatory framework. This includes advancements in powertrain systems, such as alternators and stators, which utilize efficient energy sources and minimize the environmental footprint. Technologies like encapsulation and lamination enhance the performance of components, including luminaires and halogen systems, while ensuring compliance with stringent regulations like WLTP and NEDC. The integration of UVC and directional technologies in automotive applications, alongside the development of oilshale alternatives, exemplifies the EU's commitment to ameliorate climate impacts and promote sustainable mobility through advanced, low-carbon solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:25.751430",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1134,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 82,
+      "selected_avg_freq": 31.44
+    },
+    "related_words": [
+      "ormulsion",
+      "oilshale",
+      "reutlingen",
+      "refraction",
+      "fakt",
+      "directional",
+      "uvc",
+      "socket",
+      "denso",
+      "valeo",
+      "vca",
+      "clepa",
+      "hed",
+      "lamination",
+      "rotor",
+      "melco",
+      "gxi",
+      "utac",
+      "ceram",
+      "encapsulation",
+      "grille",
+      "radiator",
+      "powertrain",
+      "hsb",
+      "alternators",
+      "alternator",
+      "stator",
+      "mosfet",
+      "vda",
+      "webasto"
+    ],
+    "prompt_length": 1668,
+    "category": "6411 technology and technical regulations"
+  }
+}

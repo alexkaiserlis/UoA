@@ -1,0 +1,63 @@
+{
+  "concept_id": "928",
+  "concept_data": {
+    "title": "project management",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Project management within the EU legal and regulatory framework encompasses the systematic planning, execution, and oversight of initiatives aimed at achieving specific objectives. This discipline steers diverse projects, from environmental sustainability to public health immunization programs. Effective project management accommodates various techniques and resources, ensuring the workforce is equipped with the necessary capabilities to mitigate risks, such as the proliferation of weapons or the spread of rabies. By employing auxiliary methods like sensing and characterisation, professionals can enhance project outcomes. The integration of disciplines, such as midwifery and atmospheric studies, illustrates the multifaceted nature of project management, ultimately affording greater societal benefit and resource efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:59:42.274156",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 555,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 580,
+      "selected_avg_freq": 287.44
+    },
+    "related_words": [
+      "ctbto",
+      "radioxenon",
+      "sustainment",
+      "ctbt",
+      "areal",
+      "ims",
+      "immunization",
+      "midwifery",
+      "steered",
+      "foxes",
+      "atm",
+      "discontinuing",
+      "sensing",
+      "seines",
+      "characterisation",
+      "generations",
+      "weaken",
+      "trawls",
+      "affording",
+      "auxiliary",
+      "accommodate",
+      "disciplines",
+      "mesh",
+      "neighbourhood",
+      "diplomas",
+      "describing",
+      "gears",
+      "beam",
+      "professionals",
+      "atmospheric"
+    ],
+    "prompt_length": 1693,
+    "category": "4021 management"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3659",
+  "concept_data": {
+    "title": "income",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"income\" encompasses various forms of remuneration, including wages, salaries, and pensions, which significantly impact socioeconomic conditions across different domains. Researchers utilize longitudinal studies and fieldwork to trace income disparities, particularly focusing on intergenerational gaps and the effects of deprivation during childhood and adulthood. The EU's statistical framework, such as the SILC (Statistics on Income and Living Conditions), compiles data on income variables, facilitating the assessment of poverty and the socio-economic profile of populations. Advocates for social justice emphasize the need for policies addressing income inequalities, necessitating comprehensive approaches to understanding income dynamics and their implications for employment, housing, and overall well-being.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:56:44.769376",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 309,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1123,
+      "selected_avg_freq": 460.2266666666667
+    },
+    "related_words": [
+      "childhood",
+      "impacting",
+      "adulthood",
+      "fieldwork",
+      "aes",
+      "imputation",
+      "intergenerational",
+      "deprivation",
+      "silc",
+      "longitudinal",
+      "registrar",
+      "sectional",
+      "attitudes",
+      "advocates",
+      "ict",
+      "emoluments",
+      "researchers",
+      "judges",
+      "parental",
+      "domains",
+      "wages",
+      "unemployed",
+      "adults",
+      "compile",
+      "encompassing",
+      "module",
+      "identifiers",
+      "salaries",
+      "capita",
+      "tracing"
+    ],
+    "prompt_length": 1689,
+    "category": "1626 national accounts"
+  }
+}

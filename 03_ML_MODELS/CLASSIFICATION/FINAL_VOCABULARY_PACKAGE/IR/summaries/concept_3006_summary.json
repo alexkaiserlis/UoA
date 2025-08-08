@@ -1,0 +1,63 @@
+{
+  "concept_id": "3006",
+  "concept_data": {
+    "title": "exclusive purchasing agreement",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An exclusive purchasing agreement, within EU competition law, refers to a vertical restraint where a supplier compels a distributor to purchase exclusively from them. This can raise significant legal debates, particularly regarding its impact on competition among competing firms. For instance, a complainant may assert that such agreements preclude market access for other suppliers, potentially infringing on the principles established by the European Court of Justice (ECR). The directorate may impose fines on firms that negligently maintain these agreements if deemed to create a dominant market position. Thus, clarifying the significance of these contracts is crucial for compliance and avoiding penalties.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:35.104610",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 306,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1116,
+      "selected_avg_freq": 491.74666666666667
+    },
+    "related_words": [
+      "castrol",
+      "complains",
+      "brasserie",
+      "haecht",
+      "brouwerij",
+      "franchising",
+      "asserts",
+      "castro",
+      "concordia",
+      "vertriebsgesellschaft",
+      "franchise",
+      "lubricants",
+      "proprietor",
+      "negligently",
+      "compel",
+      "restraints",
+      "ecr",
+      "deutsche",
+      "workshop",
+      "valued",
+      "mbh",
+      "intentionally",
+      "infringe",
+      "weak",
+      "vertical",
+      "fines",
+      "litres",
+      "answer",
+      "debate",
+      "maintains"
+    ],
+    "prompt_length": 1697,
+    "category": "4031 competition"
+  }
+}

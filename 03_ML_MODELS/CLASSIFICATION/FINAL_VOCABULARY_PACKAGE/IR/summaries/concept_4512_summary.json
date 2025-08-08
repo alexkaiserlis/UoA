@@ -1,0 +1,26 @@
+{
+  "concept_id": "4512",
+  "concept_data": {
+    "title": "public transportation",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "public transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"public transportation,\" redirected to the preferred term \"public transport,\" encompasses the organization of transport services provided to the general public within the EU. This regulatory framework aims to ensure accessibility, efficiency, and sustainability in urban and intercity travel. EU legislation, such as the Public Transport Regulation, establishes guidelines for service quality, fare structures, and operational standards, promoting competition and innovation among transport operators. Public transport is integral to achieving the EU's mobility objectives, enhancing connectivity, and reducing environmental impact, thereby supporting the overarching goals of the European Green Deal and the Digital Agenda for Europe.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:44:32.935793",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1222,
+    "category": "4811 organisation of transport"
+  }
+}

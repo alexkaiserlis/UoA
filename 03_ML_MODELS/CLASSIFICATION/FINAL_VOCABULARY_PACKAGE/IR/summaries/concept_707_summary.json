@@ -1,0 +1,63 @@
+{
+  "concept_id": "707",
+  "concept_data": {
+    "title": "electrochemistry",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Electrochemistry, a pivotal field within natural and applied sciences, encompasses the study of chemical processes that involve the movement of electrons. In the context of EU legal and regulatory frameworks, it is crucial for regulating accumulators and batteries, particularly concerning their recycling and disposal. The European Union enshrined regulations to mitigate the environmental hazards posed by spent batteries, emphasizing the need for qualitative assessments of recycling processes. This includes the recovery of metals and the safe handling of materials like mercury. Furthermore, educational initiatives focus on the implications of electrochemical technologies in household appliances, ensuring compliance with environmental standards while addressing disparities in waste management practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:20.371992",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 307,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1257,
+      "selected_avg_freq": 593.76
+    },
+    "related_words": [
+      "accumulator",
+      "electrochemical",
+      "jsm",
+      "psem",
+      "removable",
+      "jeol",
+      "microscope",
+      "emulsions",
+      "boschdijk",
+      "electron",
+      "accumulators",
+      "scanning",
+      "polluter",
+      "photographic",
+      "eindhoven",
+      "philips",
+      "symbol",
+      "batteries",
+      "battery",
+      "inorganic",
+      "nederland",
+      "enshrined",
+      "disparity",
+      "plastics",
+      "temperatures",
+      "mercury",
+      "instructed",
+      "appliances",
+      "recycling",
+      "spent"
+    ],
+    "prompt_length": 1709,
+    "category": "3606 natural and applied sciences"
+  }
+}

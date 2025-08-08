@@ -1,0 +1,63 @@
+{
+  "concept_id": "1250",
+  "concept_data": {
+    "title": "prepared foodstuff",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"prepared foodstuff\" refers to food products that are processed and packaged for consumption, often incorporating various additives and seasonings. These items may include spiced dishes, emulsions, and even pastilles, catering to diverse dietary needs. The regulatory framework ensures that such foodstuffs, including those containing allergenic ingredients or hydrolysates, are safe for consumers. The use of advanced techniques, such as refractometric analysis, is crucial for quality control. Additionally, prepared foodstuffs can be revitalising options for caterers and canteens, promoting convenience and nutritional value while adhering to established dosage guidelines and safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:39:21.780999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1417,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 107,
+      "selected_avg_freq": 49.9
+    },
+    "related_words": [
+      "spiced",
+      "vingegar",
+      "additivies",
+      "virute",
+      "kunserva",
+      "kbar",
+      "arrowroot",
+      "salep",
+      "refractometric",
+      "pastilles",
+      "fondues",
+      "pills",
+      "seaweeds",
+      "headless",
+      "seasoning",
+      "fnacv",
+      "fungible",
+      "canteens",
+      "articled",
+      "diced",
+      "citrate",
+      "kupiškis",
+      "frigate",
+      "verdean",
+      "paradigm",
+      "wilkings",
+      "revitalising",
+      "revitalise",
+      "caterers",
+      "cryogenic"
+    ],
+    "prompt_length": 1666,
+    "category": "6026 foodstuff"
+  }
+}

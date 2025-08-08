@@ -1,0 +1,63 @@
+{
+  "concept_id": "6146",
+  "concept_data": {
+    "title": "trade-related aspects of intellectual property rights",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "TRIPS",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"trade-related aspects of intellectual property rights,\" commonly referred to as \"TRIPS,\" is pivotal in EU legal and regulatory frameworks concerning international trade. TRIPS, under the auspices of the WTO, aims to harmonize intellectual property protections, addressing issues such as trademarks and generic names. It establishes clauses that hinder infringements and threats to property rights, particularly in sectors like wines and spirits. The EU's approach includes bilateral agreements, which can lead to complaints from complainants alleging violations. The initialled agreements often consist of subsections that address specific obstacles, ensuring that sales and indications of origin are protected against adverse claims, thereby eliminating potential disputes.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:13:34.092078",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 159,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 3511,
+      "selected_avg_freq": 1462.9733333333334
+    },
+    "related_words": [
+      "interprofessionnel",
+      "subsections",
+      "civb",
+      "médoc",
+      "medoc",
+      "conseil",
+      "bordeaux",
+      "vin",
+      "trademarks",
+      "trips",
+      "hindered",
+      "standstill",
+      "spirits",
+      "violated",
+      "generic",
+      "canadian",
+      "deprived",
+      "intellectual",
+      "marks",
+      "complainant",
+      "auspices",
+      "threatens",
+      "infringements",
+      "terminate",
+      "obstacle",
+      "initialled",
+      "wines",
+      "wto",
+      "complaint",
+      "clause"
+    ],
+    "prompt_length": 1744,
+    "category": "2021 international trade"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "323",
+  "concept_data": {
+    "title": "industrial crop",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "agro-industrial cropping",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"industrial crop,\" redirected to \"agro-industrial cropping,\" pertains to agricultural activities regulated under EU law. This includes the cultivation of crops such as tobacco, which requires stringent regulations to prevent fraud and ensure quality. Producers must engage in registering their operations and adhere to deadlines for declarations and preparations. The EU framework allows for exceptional circumstances, authorizing agencies to defer or postpone certain requirements. In this context, operational contracts are crucial, as they create a structured approach to managing raw materials and harvests. The transition to agro-industrial cropping reflects ongoing reforms aimed at enhancing sustainability and efficiency in agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:49:43.768743",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1713.8466666666666
+    },
+    "related_words": [
+      "reguation",
+      "beds",
+      "availed",
+      "registering",
+      "leaf",
+      "defer",
+      "engage",
+      "tobacco",
+      "delayed",
+      "stop",
+      "postpone",
+      "cultivation",
+      "space",
+      "weather",
+      "grown",
+      "harvest",
+      "stringent",
+      "concluding",
+      "premium",
+      "seed",
+      "particulars",
+      "fraud",
+      "preparations",
+      "option",
+      "authorize",
+      "declarations",
+      "deadlines",
+      "instead",
+      "owing",
+      "reform"
+    ],
+    "prompt_length": 1697,
+    "category": "5631 agricultural activity"
+  }
+}

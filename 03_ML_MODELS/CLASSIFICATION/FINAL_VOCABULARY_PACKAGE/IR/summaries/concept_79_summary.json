@@ -1,0 +1,63 @@
+{
+  "concept_id": "79",
+  "concept_data": {
+    "title": "mustard",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "condiment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"mustard\" is categorized under the broader term \"condiment,\" reflecting its role as a seasoned foodstuff. This redirect emphasizes the importance of distinguishing mustard from other condiments like \"moutarde\" and \"senf,\" which may vary in preparation, such as \"düsseldorfer\" or \"aechter\" styles. Mustard's applications in recipes, sauces, and soups are undeniable, often enhanced by ingredients like \"vinagre\" or \"aceto balsamico.\" The sensory experience of tasting mustard can fluctuate based on its preparation methods, invoking distinct flavouring profiles. Regulatory frameworks address ambiguities in labeling, ensuring clarity for consumers regarding these diverse condiments.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:30:09.899659",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 558,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 477,
+      "selected_avg_freq": 190.06666666666666
+    },
+    "related_words": [
+      "düsseldorfer",
+      "mostert",
+      "senf",
+      "urtyp",
+      "aechter",
+      "vinagre",
+      "condado",
+      "xiang",
+      "moutarde",
+      "condiment",
+      "seasoned",
+      "aceto",
+      "balsamico",
+      "balsamessig",
+      "tradizionale",
+      "balsamic",
+      "balsamon",
+      "recipes",
+      "qualifiers",
+      "seasoning",
+      "zhenjiang",
+      "tasting",
+      "hundreds",
+      "soups",
+      "undeniable",
+      "modena",
+      "jerez",
+      "concurs",
+      "bourgogne",
+      "condiments"
+    ],
+    "prompt_length": 1686,
+    "category": "6026 foodstuff"
+  }
+}

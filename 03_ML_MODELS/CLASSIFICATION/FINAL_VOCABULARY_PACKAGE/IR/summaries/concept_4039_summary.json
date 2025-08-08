@@ -1,0 +1,63 @@
+{
+  "concept_id": "4039",
+  "concept_data": {
+    "title": "worker safety",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "occupational safety",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"worker safety,\" redirected to \"occupational safety,\" encompasses the legal frameworks ensuring safe working conditions across the EU. It addresses various hazards, including exposure to substances like monochlorobenzene and hexachloroethane, which necessitate stringent regulations such as the IOELVs (Indicative Occupational Exposure Limit Values). The EU emphasizes the importance of scaffolding safety and the management of risks associated with heightening work environments. Regulations also cover health risks linked to malignant conditions, such as angiosarcoma and scleroderma, ensuring that employers provide protective measures. The integration of colorimetric and photometric assessments aids in monitoring workplace safety, while provisions for breastfeeding and emergency arrangements enhance worker welfare.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:58.145779",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1983,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 42,
+      "selected_avg_freq": 20.446666666666665
+    },
+    "related_words": [
+      "ioelvs",
+      "monochlorobenzene",
+      "ioelv",
+      "stel",
+      "twa",
+      "icnirp",
+      "homogeneously",
+      "scaffolding",
+      "reevaluated",
+      "heightening",
+      "acro",
+      "osteolysis",
+      "scleroderma",
+      "angiosarcoma",
+      "printable",
+      "persona",
+      "arranements",
+      "mergency",
+      "zapi",
+      "cca",
+      "playground",
+      "developmet",
+      "colorimetric",
+      "oels",
+      "kwizda",
+      "signposting",
+      "sbi",
+      "organostanic",
+      "scoel",
+      "hulls"
+    ],
+    "prompt_length": 1773,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

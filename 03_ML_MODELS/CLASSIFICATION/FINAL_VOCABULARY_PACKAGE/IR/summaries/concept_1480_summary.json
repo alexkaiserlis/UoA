@@ -1,0 +1,26 @@
+{
+  "concept_id": "1480",
+  "concept_data": {
+    "title": "psychiatric confinement",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Psychiatric confinement refers to the legal practice of detaining individuals with mental health disorders in secure facilities for treatment and safety. Within the EU's regulatory framework, this concept is governed by various directives and regulations aimed at protecting the rights of individuals while ensuring public safety. The European Convention on Human Rights and the Charter of Fundamental Rights of the European Union emphasize the necessity of lawful procedures and humane conditions in such confinement. Additionally, EU member states must adhere to principles of proportionality and necessity, ensuring that psychiatric confinement is a last resort and that individuals receive appropriate care and support.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:02:47.731247",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "2841 health"
+  }
+}

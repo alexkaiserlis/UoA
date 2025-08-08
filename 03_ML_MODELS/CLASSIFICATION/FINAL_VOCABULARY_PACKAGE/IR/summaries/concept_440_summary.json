@@ -1,0 +1,63 @@
+{
+  "concept_id": "440",
+  "concept_data": {
+    "title": "international dispute",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"international dispute\" pertains to conflicts involving entities across national borders, often requiring the involvement of foreign affairs and security policies. Within the EU framework, such disputes can arise in contexts like the crisis in Libya or negotiations regarding Colombia and Korea. The Common Foreign and Security Policy (CFSP) plays a crucial role in authorising operations aimed at managing these situations. The EU may adopt restrictive measures against persons or entities involved in an international dispute, with the aim of facilitating negotiations and ensuring security. The future of these operations often hinges on the conclusion of agreements that define the roles of concerned parties and their participation in the resolution process.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:13:29.786090",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 79,
+      "requested_words": 150,
+      "min_frequency_found": 71,
+      "max_frequency_found": 4108,
+      "selected_words": 79,
+      "selected_min_freq": 71,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2138.9620253164558
+    },
+    "related_words": [
+      "libya",
+      "colombia",
+      "gravity",
+      "georgia",
+      "entity",
+      "korea",
+      "cfsp",
+      "signing",
+      "affairs",
+      "entities",
+      "restrictive",
+      "crisis",
+      "negotiated",
+      "foreign",
+      "person",
+      "authorising",
+      "opening",
+      "participation",
+      "negotiations",
+      "representative",
+      "persons",
+      "security",
+      "future",
+      "conjunction",
+      "operations",
+      "operation",
+      "conclusion",
+      "included",
+      "regarding",
+      "defined"
+    ],
+    "prompt_length": 1681,
+    "category": "0816 international security"
+  }
+}

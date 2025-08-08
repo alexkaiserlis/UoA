@@ -1,0 +1,63 @@
+{
+  "concept_id": "2492",
+  "concept_data": {
+    "title": "records management",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "archives",
+    "relation_type": "USE"
+  },
+  "summary": "Records management, often redirected to \"archives,\" is a crucial aspect of EU legal and regulatory frameworks, governing the accumulation, preservation, and accessibility of documents. It encompasses the digitised storage of vast repositories, ensuring that declassified materials are promptly available for inquiry and deliberations. The CJEU and the Ombudsman play significant roles in overseeing compliance with regulations that govern the ownership and confidentiality of these records. Renowned academic institutions, such as those in Birmingham and Edinburgh, contribute to the history and evolution of records management practices. This concept strengthens the reputation of the EU by adhering to principles of transparency and accountability, thereby enhancing its governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:08:58.320510",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 393,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 865,
+      "selected_avg_freq": 364.67333333333335
+    },
+    "related_words": [
+      "eui",
+      "cjeu",
+      "declassification",
+      "declassified",
+      "archives",
+      "digitised",
+      "repository",
+      "birmingham",
+      "emanating",
+      "ombudsman",
+      "renowned",
+      "depositing",
+      "roles",
+      "emi",
+      "florence",
+      "academic",
+      "deliberations",
+      "emphasises",
+      "personality",
+      "strengthens",
+      "history",
+      "succession",
+      "reputation",
+      "university",
+      "adhere",
+      "accumulated",
+      "edinburgh",
+      "went",
+      "proves",
+      "deposits"
+    ],
+    "prompt_length": 1721,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5077",
+  "concept_data": {
+    "title": "maritime cabotage",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Maritime cabotage refers to the transport of goods or passengers between ports within the same country, governed by specific legal frameworks in the EU. This concept is enshrined in EU regulations to ensure fair competition and efficiencies in maritime trades. The regulatory landscape assumes a careful balance between member states' jurisdictions, addressing anomalies such as dependency on foreign fleets. Cabotage policies can fluctuate, impacting liner services and tramp shipping operations. The abolishment of restrictive practices aims to create a more integrated market, allowing for tailored services and alliances among operators. Consequently, cabotage plays a pivotal role in enhancing gateway efficiencies across geographically partitioned lanes.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:59.677166",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 650,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 336,
+      "selected_avg_freq": 161.64
+    },
+    "related_words": [
+      "abovementional",
+      "alreday",
+      "possibilty",
+      "partitioned",
+      "clinker",
+      "reefer",
+      "chemcial",
+      "canaray",
+      "tenuous",
+      "cumulating",
+      "comunicated",
+      "tramp",
+      "feeder",
+      "abolishment",
+      "alliances",
+      "gateway",
+      "efficiencies",
+      "tailor",
+      "surcharges",
+      "lanes",
+      "anomaly",
+      "canaries",
+      "cabotage",
+      "dependency",
+      "weakening",
+      "cement",
+      "transhipped",
+      "segmentation",
+      "liner",
+      "manning"
+    ],
+    "prompt_length": 1718,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3723",
+  "concept_data": {
+    "title": "whole life assurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": true,
+    "preferred_term": "life assurance",
+    "relation_type": "USE"
+  },
+  "summary": "Whole life assurance, a variant of life assurance, constitutes a crucial class of insurance within the EU regulatory framework. This concept ensures that policyholders receive a defined payout upon death, thus providing financial security. Regulatory bodies supervise the solvency of insurers, ensuring they maintain acceptable margins to meet obligations. The terminology surrounding whole life assurance is often adapted in drafting regulatory instruments to clarify definitions and ensure compliance. Committees are empowered to confer guidelines that facilitate smooth operations, while protocols may involve adjustments in response to market dynamics. Overall, whole life assurance plays a significant role in the pursuit of financial stability and risk spreading in occupational pensions and investments.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:46:29.705615",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 182,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 3127,
+      "selected_avg_freq": 1486.5266666666666
+    },
+    "related_words": [
+      "relaxations",
+      "maxima",
+      "reinsurance",
+      "solvency",
+      "variant",
+      "matching",
+      "supervise",
+      "terminology",
+      "pensions",
+      "transposed",
+      "occupational",
+      "deleting",
+      "drafting",
+      "assurance",
+      "spreading",
+      "classes",
+      "supervisory",
+      "pursuit",
+      "confer",
+      "assets",
+      "insurance",
+      "items",
+      "constituting",
+      "protocols",
+      "margin",
+      "scrutiny",
+      "committees",
+      "useful",
+      "task",
+      "definitions"
+    ],
+    "prompt_length": 1729,
+    "category": "2431 insurance"
+  }
+}

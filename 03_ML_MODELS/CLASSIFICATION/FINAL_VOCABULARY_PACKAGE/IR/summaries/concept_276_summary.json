@@ -1,0 +1,63 @@
+{
+  "concept_id": "276",
+  "concept_data": {
+    "title": "storage cost",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"storage cost\" refers to the pecuniary outgoings associated with the immobilized inventory of goods, such as sugarbeet or parmigiano reggiano, within various departments. These costs can arise from the need to store products in waggons or lorries, and may involve reimbursable expenses linked to their marketing and distribution. The crystallization of these costs is crucial for equalization in financial reporting, particularly in sectors like coking or mining. Delays in storage can lead to belated removals, prejudicing market stability. Thus, effective management of storage costs is essential for ensuring smooth operations in EUromarkets.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:57:13.073559",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1099,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 221,
+      "selected_avg_freq": 105.36
+    },
+    "related_words": [
+      "waggons",
+      "resultiang",
+      "refiner",
+      "merketing",
+      "baken",
+      "storagecost",
+      "rrc",
+      "departements",
+      "interst",
+      "crystallization",
+      "outgoings",
+      "crystallizing",
+      "immobilized",
+      "cots",
+      "belated",
+      "enlarging",
+      "invervention",
+      "provolone",
+      "candy",
+      "euromarkets",
+      "patagonica",
+      "lapses",
+      "bag",
+      "equalization",
+      "loligo",
+      "justifiably",
+      "lorries",
+      "eased",
+      "removals",
+      "pecuniary"
+    ],
+    "prompt_length": 1670,
+    "category": "4026 accounting"
+  }
+}

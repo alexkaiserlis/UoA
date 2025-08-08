@@ -1,0 +1,63 @@
+{
+  "concept_id": "5481",
+  "concept_data": {
+    "title": "Community certification",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Community certification\" refers to the process by which products, particularly in the technology and technical regulations domain, are typeapproved for compliance with EU standards. This certification ensures that vehicles, such as vans and professional transport vehicles, meet safety and environmental requirements, including those related to overheating and overfilling. The certification process involves various verifiers and may include the use of devices like tachygraphs and opacimeters to assess performance. Additionally, manufacturers must ensure proper compartmentation and bodywork design, enhancing manoeuvrability and conspicuity. Community certification also encompasses aspects like daytime visibility and the encapsulation of components, ensuring that products are both efficient and compliant with the umweltauditgesetz.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:41.379441",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 2534,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 10.286666666666667
+    },
+    "related_words": [
+      "bracts",
+      "tracked",
+      "typeapproved",
+      "wuold",
+      "manoeuvrability",
+      "compartmentation",
+      "hartkäse",
+      "innsbruck",
+      "limes",
+      "livret",
+      "conducteur",
+      "professionnel",
+      "văšhicules",
+      "tachygraph",
+      "opacimeter",
+      "coasters",
+      "swivel",
+      "clevis",
+      "dpf",
+      "otls",
+      "dummies",
+      "ecshould",
+      "gtr",
+      "lap",
+      "retractors",
+      "hscsd",
+      "multislot",
+      "profiled",
+      "manuafacturer",
+      "polynomial"
+    ],
+    "prompt_length": 1731,
+    "category": "6411 technology and technical regulations"
+  }
+}

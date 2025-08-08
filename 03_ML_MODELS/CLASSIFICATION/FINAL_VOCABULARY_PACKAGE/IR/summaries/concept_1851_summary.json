@@ -1,0 +1,63 @@
+{
+  "concept_id": "1851",
+  "concept_data": {
+    "title": "support mechanism",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"support mechanism\" within EU finance refers to a regulatory framework designed to provide compensatory aids to farmers, ensuring their incomes are maintained during periods of market disturbance. This mechanism authorizes the allocation of funds to support agricultural sectors affected by significant changes, such as the termination of previous subsidies or the introduction of new taxes. It entails a degressive approach, where aid is progressively reduced over time, thereby promoting a harmonious transition. The mechanism also evaluates revenue turnover and compensates for losses incurred during the changeover, ensuring that farmers can continue to operate effectively within the EU's legal and regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:08:14.353671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 242,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1706,
+      "selected_avg_freq": 909.68
+    },
+    "related_words": [
+      "accuring",
+      "conveniently",
+      "twentieth",
+      "radically",
+      "dismantlement",
+      "changeover",
+      "sunflower",
+      "degressive",
+      "purchaser",
+      "accruing",
+      "drop",
+      "pursuance",
+      "disturb",
+      "incomes",
+      "authorizes",
+      "butter",
+      "harmonious",
+      "vat",
+      "weighted",
+      "harvested",
+      "revenue",
+      "prolonged",
+      "compensate",
+      "farm",
+      "termination",
+      "fats",
+      "seed",
+      "turnover",
+      "taxes",
+      "consist"
+    ],
+    "prompt_length": 1671,
+    "category": "1021 EU finance"
+  }
+}

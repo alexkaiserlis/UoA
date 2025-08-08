@@ -1,0 +1,63 @@
+{
+  "concept_id": "4730",
+  "concept_data": {
+    "title": "revolution",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "political violence",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"revolution,\" as categorized under politics and public safety, is redirected to the preferred term \"political violence.\" This term encompasses acts of intimidation and violence aimed at undermining democratic processes, such as elections. In contexts like Zimbabwe, where the gravity of political violence has escalated, observers have cited violations of freedom of expression and media rights. The EU's legal framework, including the Cotonou Agreement, emphasizes the need for fair elections and the protection of civil liberties. Recent events in Syria illustrate the serious consequences of political violence, prompting consultations among EU governments to uphold commitments to democratic principles and ensure adequate responses to such challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:39:30.747688",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 3824,
+      "selected_avg_freq": 1636.3533333333332
+    },
+    "related_words": [
+      "intimidation",
+      "opponents",
+      "zimbabwean",
+      "escalation",
+      "violence",
+      "election",
+      "presidential",
+      "peaceful",
+      "syria",
+      "observers",
+      "violated",
+      "cotonou",
+      "elections",
+      "gravity",
+      "zimbabwe",
+      "cited",
+      "twelve",
+      "expression",
+      "media",
+      "explained",
+      "undermine",
+      "listing",
+      "assembly",
+      "concluding",
+      "acp",
+      "closed",
+      "adequately",
+      "ending",
+      "seriously",
+      "cfsp"
+    ],
+    "prompt_length": 1726,
+    "category": "0431 politics and public safety"
+  }
+}

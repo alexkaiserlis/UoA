@@ -1,0 +1,63 @@
+{
+  "concept_id": "2129",
+  "concept_data": {
+    "title": "takeover bid",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"takeover bid\" refers to an offer made by an entity to acquire control over another company, typically through the purchase of its securities. In the EU regulatory framework, such bids are subject to rigorous scrutiny to ensure accountability and transparency. The process requires a detailed prospectus that elaborates on the offer's contents, including the specification of terms and conditions. Regulatory agencies are empowered to evaluate the proposals and intervene if necessary, ensuring compliance with democratic principles. The procedural aspects include defined intervals for acceptance and the potential for reductions or increases in the offer. This regulatory oversight aims to provide satisfactory solutions for all stakeholders involved in the trading of securities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:17:57.062300",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 208,
+      "requested_words": 150,
+      "min_frequency_found": 40,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 40,
+      "selected_max_freq": 2671,
+      "selected_avg_freq": 1309.0
+    },
+    "related_words": [
+      "prospectus",
+      "scrutinise",
+      "elaborate",
+      "accountability",
+      "sorghum",
+      "remedied",
+      "delegation",
+      "transposed",
+      "ends",
+      "deleting",
+      "grain",
+      "outlets",
+      "admitted",
+      "maize",
+      "contents",
+      "cereal",
+      "horizontal",
+      "buying",
+      "procedural",
+      "specification",
+      "intervals",
+      "levy",
+      "scrutiny",
+      "securities",
+      "evaluate",
+      "definitions",
+      "increases",
+      "reductions",
+      "wish",
+      "rapidly"
+    ],
+    "prompt_length": 1707,
+    "category": "4006 business organisation"
+  }
+}

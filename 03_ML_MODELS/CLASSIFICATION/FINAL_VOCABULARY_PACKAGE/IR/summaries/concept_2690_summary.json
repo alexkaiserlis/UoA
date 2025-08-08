@@ -1,0 +1,63 @@
+{
+  "concept_id": "2690",
+  "concept_data": {
+    "title": "social unrest",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "social problem",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"social unrest,\" categorized under social affairs, is redirected to the preferred term \"social problem\" within EU legal and regulatory contexts. Social problems encompass various issues affecting families, traders, and farmers, often requiring consolidated responses from organizations and associations. In drafting policies, the EU seeks to represent the views and opinions of various members, ensuring that the interests of rural producers are directly addressed. The increased number of social problems necessitates an advisory procedure, allowing concerned parties to participate actively. This dynamic setting provides an opportunity for stakeholders to apply their perspectives and adjust strategies, particularly in agriculture and trade, following the last accession discussions in January.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:48:03.366417",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 66,
+      "requested_words": 150,
+      "min_frequency_found": 116,
+      "max_frequency_found": 4108,
+      "selected_words": 66,
+      "selected_min_freq": 116,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1839.8939393939395
+    },
+    "related_words": [
+      "reallocated",
+      "families",
+      "seats",
+      "drafting",
+      "traders",
+      "questions",
+      "seek",
+      "consolidated",
+      "farmers",
+      "rural",
+      "associations",
+      "replacement",
+      "views",
+      "opinions",
+      "represent",
+      "organizations",
+      "times",
+      "difficult",
+      "participate",
+      "opportunity",
+      "affecting",
+      "agriculture",
+      "adjusted",
+      "advisory",
+      "representatives",
+      "producers",
+      "directly",
+      "become",
+      "replaced",
+      "increased"
+    ],
+    "prompt_length": 1713,
+    "category": "2826 social affairs"
+  }
+}

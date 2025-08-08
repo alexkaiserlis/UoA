@@ -1,0 +1,63 @@
+{
+  "concept_id": "2128",
+  "concept_data": {
+    "title": "supply and demand",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"supply and demand\" within EU trade law encapsulates the intricate balance between the availability of goods, such as vino and pigmeat, and the market's need for these products. Regulatory frameworks often address imbalances, particularly in sectors like hops and grain, where unforeseen harvests can lead to shortages or surpluses. The Common Agricultural Policy (CAP) employs procedures for tendering and securing outlets for cultivated varieties, ensuring that farmers receive requisite support. Additionally, geographic indications, such as landwein and vino, enhance market recognition, while measures like headage payments and PSR (Payment for Sustainable Rural Development) aim to stabilize prices and promote qualitative production across diverse agricultural landscapes.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:11.708559",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 282,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1424,
+      "selected_avg_freq": 653.24
+    },
+    "related_words": [
+      "prcedure",
+      "indicazione",
+      "geografica",
+      "tipica",
+      "landwein",
+      "headage",
+      "vino",
+      "convinced",
+      "vinho",
+      "tierra",
+      "vin",
+      "obliging",
+      "milled",
+      "vines",
+      "psr",
+      "unforeseeable",
+      "hop",
+      "harvests",
+      "recognizing",
+      "ensuing",
+      "hops",
+      "pays",
+      "releasing",
+      "planting",
+      "vine",
+      "shortage",
+      "returns",
+      "cultivated",
+      "securing",
+      "differs"
+    ],
+    "prompt_length": 1621,
+    "category": "2016 trade"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1159",
+  "concept_data": {
+    "title": "management of fish resources",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "fishery management",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"management of fish resources,\" redirected to \"fishery management,\" encompasses the regulatory frameworks established by the EU to ensure sustainable fishing practices. This involves principles that address issues such as misreporting of catches, which can imperil fish stocks. The management strategies are formatted to reallocate resources effectively, particularly in regions like the Oeresund and around hydrothermal vents. Regularisations are crucial for maintaining timelines that prevent overfishing of species like octopus and codend. Additionally, the management of midwater species, such as micromesistius and poutassou, is vital for preserving biodiversity in seamounts. Consequently, proper oversight is necessary to avoid crowding and ensure that fish resources remain replaceable for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:13:34.988223",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 2718,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 11.713333333333333
+    },
+    "related_words": [
+      "seawards",
+      "reorientating",
+      "prinicples",
+      "communciated",
+      "oeresund",
+      "imperil",
+      "possesson",
+      "misreporting",
+      "expediture",
+      "formatted",
+      "reallocates",
+      "consequentially",
+      "ortder",
+      "guadaloupe",
+      "dangerously",
+      "replaceable",
+      "significants",
+      "januar",
+      "sessional",
+      "spitzbergen",
+      "otter",
+      "seamounts",
+      "hydrothermal",
+      "vents",
+      "unassessed",
+      "erasure",
+      "particularised",
+      "sargasso",
+      "kilowatts",
+      "inhabits"
+    ],
+    "prompt_length": 1760,
+    "category": "5641 fisheries"
+  }
+}

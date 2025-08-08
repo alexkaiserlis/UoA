@@ -1,0 +1,63 @@
+{
+  "concept_id": "6271",
+  "concept_data": {
+    "title": "qualitative analysis",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Qualitative analysis in the context of EU legal and regulatory frameworks pertains to the systematic examination of non-numerical data, often involving substances like seaweeds, algae, and bioethanol. This method employs advanced techniques such as chromatography and spectrometry to quantify analytes, ensuring compliance with standards set by organizations like EUNETHTA and IUPAC. The analysis may involve the use of specialized equipment, including refractometers, to assess properties of substances, such as vapour and isotopic composition. Regulatory bodies may disapply certain methodologies, necessitating proficient engagement with libraries and databanks to ensure repeatability and accuracy in findings, particularly when addressing complex issues like PAHs and GMP compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:07:39.685902",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 878,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 206,
+      "selected_avg_freq": 85.98666666666666
+    },
+    "related_words": [
+      "hta",
+      "acronym",
+      "eunethta",
+      "arrowroot",
+      "salep",
+      "refractometric",
+      "proficient",
+      "condensates",
+      "incalculable",
+      "tentative",
+      "seaweeds",
+      "irmm",
+      "disapplied",
+      "cuvee",
+      "analytes",
+      "abu",
+      "dhabi",
+      "gmp",
+      "isotopic",
+      "refractometer",
+      "outwith",
+      "disapply",
+      "aoac",
+      "cpvo",
+      "libraries",
+      "inks",
+      "cayman",
+      "hplc",
+      "iupac",
+      "bermuda"
+    ],
+    "prompt_length": 1670,
+    "category": "6416 research and intellectual property"
+  }
+}

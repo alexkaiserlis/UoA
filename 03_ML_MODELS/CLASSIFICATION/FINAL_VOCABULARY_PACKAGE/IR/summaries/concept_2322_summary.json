@@ -1,0 +1,63 @@
+{
+  "concept_id": "2322",
+  "concept_data": {
+    "title": "outward processing traffic",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "outward processing",
+    "relation_type": "USE"
+  },
+  "summary": "Outward processing traffic, also referred to as outward processing, is a crucial aspect of EU tariff policy, facilitating the temporary export of goods for processing outside the EU, followed by their reimportation. This process allows for the assimilation of materials, such as fabrics and yarns, which undergo texturizing or other modifications, before being reimported as identifiable products. The regulatory framework includes provisions for drawback, enabling participants to benefit from reduced tariffs on reimported goods. However, it also precludes certain practices, ensuring compliance with community standards. The triangular trade dynamics can lead to advantageous outcomes, redistributing benefits among involved parties while maintaining legal integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:24:43.611934",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 793,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 430,
+      "selected_avg_freq": 223.25333333333333
+    },
+    "related_words": [
+      "cabling",
+      "texturizing",
+      "assimilating",
+      "throwing",
+      "twisting",
+      "initials",
+      "reimports",
+      "underwent",
+      "appended",
+      "reimported",
+      "communiy",
+      "redistributed",
+      "conflicting",
+      "eua",
+      "drawback",
+      "triangular",
+      "yarns",
+      "precluding",
+      "iiib",
+      "blocked",
+      "reimportation",
+      "subjecting",
+      "bones",
+      "everything",
+      "hake",
+      "fillets",
+      "mongolia",
+      "woven",
+      "exhaust",
+      "identifiable"
+    ],
+    "prompt_length": 1742,
+    "category": "2011 tariff policy"
+  }
+}

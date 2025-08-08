@@ -1,0 +1,63 @@
+{
+  "concept_id": "5935",
+  "concept_data": {
+    "title": "processing under customs control",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Processing under customs control\" refers to a regulatory framework within the EU's 2011 tariff policy, designed to facilitate the inward and outward movement of goods while ensuring compliance with customs duties. This concept involves the acceptance of goods for processing, which may include adaptations or compensating measures that are governed by specific directives. Such processing is treated as a sole operation, where goods are released from customs duties under stipulated conditions. The aim is to simplify and harmonize customs procedures, allowing for the circulation of products that originate from or are destined for EU member states, such as Portugal. Restrictions may apply, and reservations are often necessary to ensure compliance with respective regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:28.891921",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 94,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 94,
+      "selected_max_freq": 3824,
+      "selected_avg_freq": 1847.5466666666666
+    },
+    "related_words": [
+      "outward",
+      "reservations",
+      "advantageous",
+      "compensating",
+      "inward",
+      "save",
+      "construed",
+      "relief",
+      "originate",
+      "accepting",
+      "stipulate",
+      "home",
+      "division",
+      "levied",
+      "abolished",
+      "involves",
+      "sole",
+      "cease",
+      "labour",
+      "constituted",
+      "released",
+      "harmonization",
+      "simplification",
+      "adaptations",
+      "governed",
+      "release",
+      "finally",
+      "acceptance",
+      "references",
+      "suspension"
+    ],
+    "prompt_length": 1710,
+    "category": "2011 tariff policy"
+  }
+}

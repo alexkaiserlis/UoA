@@ -1,0 +1,63 @@
+{
+  "concept_id": "89",
+  "concept_data": {
+    "title": "wind",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "atmospheric conditions",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wind,\" categorized under the natural environment, is redirected to the preferred term \"atmospheric conditions\" in EU legal and regulatory contexts. Wind plays a crucial role in various environmental assessments, influencing factors such as acidification and the transfer of pollutants, which can implicitly affect agricultural practices across regions like Umbria and Liguria. For instance, wind patterns can impact the flowering of crops, such as carrots and parsnips, and the vinification processes in areas like Saar and Tuscany. Understanding these atmospheric conditions is essential for validly managing land use and ensuring the preservation of subregions, while also addressing issues like acidify and upset ecosystems. The interplay of wind with other elements, such as cyclones and frost, further complicates agricultural sowings and the management of groves, necessitating comprehensive regulatory frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:50.661071",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 722,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 302,
+      "selected_avg_freq": 133.84
+    },
+    "related_words": [
+      "hamp",
+      "delco",
+      "inertial",
+      "transfering",
+      "acidify",
+      "saarländischer",
+      "rotten",
+      "pyruvate",
+      "acetaldehyde",
+      "ketoglutaric",
+      "ruwer",
+      "validly",
+      "subregion",
+      "piacenza",
+      "parsnips",
+      "xva",
+      "cyclone",
+      "agrigento",
+      "rain",
+      "frost",
+      "milligrams",
+      "carousel",
+      "mosel",
+      "upset",
+      "implicitly",
+      "verona",
+      "landwein",
+      "sowings",
+      "stricken",
+      "saar"
+    ],
+    "prompt_length": 1679,
+    "category": "5211 natural environment"
+  }
+}

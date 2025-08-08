@@ -1,0 +1,63 @@
+{
+  "concept_id": "262",
+  "concept_data": {
+    "title": "share price",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "price of securities",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"share price\" is redirected to the preferred term \"price of securities,\" which encompasses various financial instruments traded on venues. The price of securities reflects the underlying value of corporate and sovereign issuers, influenced by factors such as liquidity, yield, and default risk. Regulatory bodies like ESMA conduct analyses to ensure consistency and enforce compliance among participants in the market. This includes specifying thresholds for trading and the use of derivatives, which can impact the pricing curve. Stakeholders benefit from a clear understanding of these dynamics, which are essential for informed decision-making in capital markets.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:52:15.403681",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1558.8759124087592
+    },
+    "related_words": [
+      "illiquid",
+      "venue",
+      "curve",
+      "swaps",
+      "esma",
+      "issuer",
+      "default",
+      "issuers",
+      "usefully",
+      "sovereign",
+      "corporate",
+      "stakeholder",
+      "money",
+      "derivatives",
+      "traded",
+      "underlying",
+      "supervisory",
+      "ways",
+      "liquid",
+      "debt",
+      "yield",
+      "thresholds",
+      "analysed",
+      "read",
+      "participants",
+      "specifying",
+      "shares",
+      "credit",
+      "securities",
+      "sole"
+    ],
+    "prompt_length": 1719,
+    "category": "2421 free movement of capital"
+  }
+}

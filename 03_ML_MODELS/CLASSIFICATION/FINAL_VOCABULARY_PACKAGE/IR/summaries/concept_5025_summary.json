@@ -1,0 +1,63 @@
+{
+  "concept_id": "5025",
+  "concept_data": {
+    "title": "intervention buying",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Intervention buying refers to a regulatory mechanism within EU trade policy, particularly concerning agricultural products. This practice involves the European Union purchasing surplus goods, such as forequarter and hindquarter meat, to stabilize market prices and ensure quality. By acting as an offerer in the market, the EU aims to mitigate severe fluctuations in yields and maintain compliance with established standards. The intervention process includes categorization of products, such as various preparations and qualities of meat, often packaged in cardboard cartons. This largescale buying strategy is crucial for sustaining market equilibrium and addressing the persistent challenges faced by producers, especially during periods of overproduction.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:16:49.719185",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 2270,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 40,
+      "selected_avg_freq": 16.986666666666668
+    },
+    "related_words": [
+      "forequarter",
+      "hindquarter",
+      "amd",
+      "fortifier",
+      "perisitence",
+      "couvert",
+      "mediocre",
+      "compance",
+      "rgards",
+      "outiets",
+      "sovakia",
+      "acccordance",
+      "lurmaeket",
+      "smoer",
+      "foerste",
+      "kvalitet",
+      "severeal",
+      "sundays",
+      "ochsen",
+      "preprations",
+      "varrious",
+      "givern",
+      "yiels",
+      "marque",
+      "première",
+      "bying",
+      "cartons",
+      "largescale",
+      "slaugtherings",
+      "poweder"
+    ],
+    "prompt_length": 1659,
+    "category": "2006 trade policy"
+  }
+}

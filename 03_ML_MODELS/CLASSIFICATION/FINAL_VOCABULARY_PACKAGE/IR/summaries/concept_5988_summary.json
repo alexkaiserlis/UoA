@@ -1,0 +1,63 @@
+{
+  "concept_id": "5988",
+  "concept_data": {
+    "title": "chromium",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Chromium, a critical element in the iron, steel, and other metal industries, is subject to stringent EU regulations due to its potential health risks, including dermatitis and sensitised reactions. The legal framework monitors the use of chromium in various applications, such as photocathodes and thermoelectric devices, ensuring compliance with safety standards. Notably, the production processes, including soldering and tanning in tanneries, are regulated to mitigate environmental impacts. The EU's focus on sustainable practices has led to initiatives promoting the recuperation of chromium from waste, while companies like Sandvik and Euroalliages are encouraged to adopt innovative technologies. Compliance with these regulations is essential for market access and to avoid penalties.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:52.188766",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1082,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 121,
+      "selected_avg_freq": 51.67333333333333
+    },
+    "related_words": [
+      "theregainst",
+      "photocathodes",
+      "negligable",
+      "eww",
+      "lcfc",
+      "clifa",
+      "nococarbon",
+      "syncret",
+      "sandvik",
+      "sandviken",
+      "venete",
+      "alz",
+      "privatise",
+      "subunits",
+      "monitorability",
+      "elektrowerk",
+      "weisweiler",
+      "mri",
+      "thermoelectric",
+      "recuperation",
+      "elicitation",
+      "kazakh",
+      "understate",
+      "intensifiers",
+      "sensitised",
+      "dermatitis",
+      "refurbished",
+      "euroalliages",
+      "padova",
+      "seac"
+    ],
+    "prompt_length": 1699,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

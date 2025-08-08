@@ -1,0 +1,26 @@
+{
+  "concept_id": "443048",
+  "concept_data": {
+    "title": "temperament",
+    "category_code": "3611",
+    "category_name": "humanities",
+    "category_full": "3611 humanities",
+    "is_redirect": true,
+    "preferred_term": "personality",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"temperament,\" categorized under humanities, is a redirect to the preferred term \"personality.\" In the context of EU legal and regulatory documents, personality encompasses the psychological traits and characteristics that influence individual behavior and decision-making. Understanding personality is crucial in various legal frameworks, particularly in areas such as employment law, where personality assessments may inform recruitment processes and workplace dynamics. Additionally, personality considerations can play a role in the evaluation of individuals in legal proceedings, ensuring that assessments are fair and reflective of diverse human behaviors. Thus, the term \"temperament\" is effectively subsumed under the broader concept of personality within EU regulatory discourse.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:59.519918",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1192,
+    "category": "3611 humanities"
+  }
+}

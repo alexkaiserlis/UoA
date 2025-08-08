@@ -1,0 +1,63 @@
+{
+  "concept_id": "3261",
+  "concept_data": {
+    "title": "taxation treaty",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax convention",
+    "relation_type": "USE"
+  },
+  "summary": "A \"taxation treaty,\" also referred to as a \"tax convention,\" is a legal framework negotiated between states to prevent double taxation and facilitate cross-border economic activities. Such treaties are crucial for entrepreneurs and contractors operating in multiple jurisdictions, including regions like Andorra and the Principality of Monaco. They address complications arising from differing national tax systems, ensuring that taxes on income, savings, and turnover are fairly allocated. The treaties often reflect a harmonization of VAT and other taxes, securing a stable environment for construction and building projects across frontiers. The negotiation process typically involves memoranda and requires unanimous agreement among parties, with minor adjustments to accommodate local laws. For instance, treaties may define the incidence of taxes on specific routes, such as the motorway linking Baden and Rheinfelden, thereby facilitating smoother economic interactions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:15:51.337972",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 212,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2114,
+      "selected_avg_freq": 968.4733333333334
+    },
+    "related_words": [
+      "neisse",
+      "guben",
+      "gubinek",
+      "rheinfelden",
+      "aargau",
+      "entrepreneurs",
+      "motorway",
+      "wăźrttemberg",
+      "monaco",
+      "nationale",
+      "complications",
+      "contractors",
+      "andorra",
+      "bridge",
+      "baden",
+      "rhine",
+      "incidence",
+      "route",
+      "securing",
+      "principality",
+      "accruing",
+      "negotiating",
+      "savings",
+      "unanimously",
+      "memorandum",
+      "vat",
+      "reflects",
+      "simple",
+      "secretariat",
+      "negotiate"
+    ],
+    "prompt_length": 1702,
+    "category": "2446 taxation"
+  }
+}

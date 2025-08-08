@@ -1,0 +1,63 @@
+{
+  "concept_id": "5336",
+  "concept_data": {
+    "title": "export of waste",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"export of waste\" concept pertains to the transfrontier movement of waste materials, governed by EU regulations to mitigate environmental deterioration. This includes the management of undesired waste streams, such as polyurethane foam and chlorofluorocarbons, which require careful characterisation and balancing to ensure compliance with the Basel Convention. The EU's Waste Shipment Regulation (WGWPR) obliges exporters to adhere to strict guidelines, featuring recommendations for the reuse and recycling of scrap materials. Discrepancies in waste classification can lead to inaccuracies, necessitating revisions in documentation. Countries like Liberia and Paraguay are involved in these regulatory frameworks, emphasizing the need for international cooperation in waste management.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:49:45.911863",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 591,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 479,
+      "selected_avg_freq": 208.26666666666668
+    },
+    "related_words": [
+      "shredder",
+      "wgwpr",
+      "unclassified",
+      "subindents",
+      "meteorology",
+      "parings",
+      "threefold",
+      "recommandation",
+      "amber",
+      "inaccuracies",
+      "basle",
+      "denominator",
+      "undesired",
+      "polyurethane",
+      "verbale",
+      "streams",
+      "nepal",
+      "computing",
+      "credited",
+      "featuring",
+      "transfrontier",
+      "basel",
+      "iiib",
+      "annexe",
+      "depository",
+      "foam",
+      "eleventh",
+      "characterisation",
+      "displays",
+      "chlorofluorocarbons"
+    ],
+    "prompt_length": 1714,
+    "category": "5216 deterioration of the environment"
+  }
+}

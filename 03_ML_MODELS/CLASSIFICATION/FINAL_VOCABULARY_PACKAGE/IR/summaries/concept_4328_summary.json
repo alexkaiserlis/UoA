@@ -1,0 +1,63 @@
+{
+  "concept_id": "4328",
+  "concept_data": {
+    "title": "alternate",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"alternate\" refers to an individual designated to assume the responsibilities of a primary representative, particularly within parliamentary settings. This concept is crucial for ensuring continuity and representation, as exemplified by figures such as Nathalie Serclaes and Leonidas Kouris, who may serve as alternates during critical sessions. The role of alternates, akin to the contributions of Wolter Lemstra and Evangelos Kouloumbis, facilitates legislative processes, ensuring that discussions remain robust. Notably, the involvement of alternates like Haby Nilsson and Ingela Watz underscores the collaborative nature of EU governance, where diverse perspectives, including those from members like Tadeusz Kropiwnicki and Sergejs Dolgopolovs, enrich deliberations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:41.577701",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 584,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.246666666666667
+    },
+    "related_words": [
+      "wolter",
+      "lemstra",
+      "băźhrmann",
+      "westerink",
+      "nathalie",
+      "serclaes",
+      "holl",
+      "leonidas",
+      "kouris",
+      "evangelos",
+      "kouloumbis",
+      "senff",
+      "kaiser",
+      "christof",
+      "zernatto",
+      "cañal",
+      "kessen",
+      "sluijs",
+      "verbeek",
+      "vlietstra",
+      "haveman",
+      "dales",
+      "wallhager",
+      "neckman",
+      "alvendal",
+      "haby",
+      "nilsson",
+      "ingela",
+      "nylund",
+      "watz"
+    ],
+    "prompt_length": 1618,
+    "category": "0421 parliament"
+  }
+}

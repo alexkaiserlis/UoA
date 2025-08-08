@@ -1,0 +1,63 @@
+{
+  "concept_id": "6195",
+  "concept_data": {
+    "title": "Upper Austria",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Upper Austria (Oberösterreich) is a significant region within the EU Member State of Austria, categorized under NUTS (Nomenclature of Territorial Units for Statistics) as a key area for regional development and economic analysis. It plays a crucial role in the context of EU regulatory frameworks, particularly in relation to structural funds and the European Globalisation Fund (EGF), which assists workers facing redundancies due to globalisation. The region's enterprises are mobilised to comply with budgetary contributions, allowing for sound economic adjustments. Upper Austria's transport infrastructure, including pipelines, is vital for interinstitutional cooperation, directly impacting labour patterns and regional development strategies.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:20:56.276425",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1712.178947368421
+    },
+    "related_words": [
+      "oberösterreich",
+      "niederösterreich",
+      "pipelines",
+      "egf",
+      "redundancies",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "mobilise",
+      "nuts",
+      "mobilisation",
+      "redundant",
+      "proposes",
+      "division",
+      "patterns",
+      "discipline",
+      "interinstitutional",
+      "labour",
+      "contributions",
+      "workers",
+      "crisis",
+      "complies",
+      "via",
+      "land",
+      "enterprises",
+      "revision",
+      "ceiling",
+      "assist"
+    ],
+    "prompt_length": 1706,
+    "category": "7211 regions of EU Member States"
+  }
+}

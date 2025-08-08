@@ -1,0 +1,63 @@
+{
+  "concept_id": "1863",
+  "concept_data": {
+    "title": "molasses",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"molasses\" refers to a byproduct of sugar production, primarily derived from cane or beet. This foodstuff is subject to inflexible regulations that govern its marketable status and exportation. Variations in crop yields can trigger deviations in supply, leading to shortfalls that are periodically assessed. The centralized monitoring of molasses ensures that quoted prices remain consistent across member states, such as those in the Benelux region. Additionally, alterations in production methods may convert molasses into syrups, which are also regulated. Any incorrectly reported deposits may result in forfeited quotas, impacting market dynamics. Thus, molasses serves as a critical component in the EU's agricultural framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:58:21.150404",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 487,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 859,
+      "selected_avg_freq": 442.24
+    },
+    "related_words": [
+      "inflexible",
+      "repeats",
+      "converts",
+      "centralized",
+      "latitude",
+      "fuller",
+      "molasses",
+      "deviations",
+      "syrups",
+      "forfeited",
+      "incorrectly",
+      "forth",
+      "upwards",
+      "lomăš",
+      "deposits",
+      "downwards",
+      "marketable",
+      "oct",
+      "shortfall",
+      "quoted",
+      "cumulation",
+      "sudden",
+      "trigger",
+      "cane",
+      "alteration",
+      "cif",
+      "disregarded",
+      "quotations",
+      "beet",
+      "altering"
+    ],
+    "prompt_length": 1644,
+    "category": "6026 foodstuff"
+  }
+}

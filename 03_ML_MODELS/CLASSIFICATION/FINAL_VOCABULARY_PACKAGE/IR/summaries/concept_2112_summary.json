@@ -1,0 +1,63 @@
+{
+  "concept_id": "2112",
+  "concept_data": {
+    "title": "Pacific Region",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "Pacific Ocean",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Pacific Region,\" a redirect to \"Pacific Ocean,\" is critical in EU legal and regulatory frameworks concerning fisheries management and conservation. This area is home to various migratory species, including albacore and swordfish, necessitating sustainable fishing practices. The EU actively participates in international meetings, such as those organized by the Indian Ocean Tuna Commission (IOTC), to address the exploitation of tuna stocks. Regulatory measures include limitations on tonnage and catch to ensure the conservation of fish resources. The EU's legal framework aims to balance fishing opportunities with the need for sustainable practices, ensuring that vessels operating in these waters adhere to strict controls and allocations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:52:33.411395",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 90,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 90,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1718.5222222222221
+    },
+    "related_words": [
+      "iotc",
+      "albacore",
+      "swordfish",
+      "tunas",
+      "migratory",
+      "tropical",
+      "indian",
+      "ocean",
+      "tonnage",
+      "tuna",
+      "catch",
+      "fleet",
+      "historical",
+      "limitations",
+      "exploitation",
+      "conservation",
+      "gross",
+      "patterns",
+      "waters",
+      "length",
+      "meetings",
+      "exclusive",
+      "fishing",
+      "zone",
+      "limitation",
+      "opportunities",
+      "fixes",
+      "fish",
+      "highly",
+      "vessels"
+    ],
+    "prompt_length": 1688,
+    "category": "5211 natural environment"
+  }
+}

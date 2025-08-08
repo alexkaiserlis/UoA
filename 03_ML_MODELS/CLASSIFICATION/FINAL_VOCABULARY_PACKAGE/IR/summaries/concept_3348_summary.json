@@ -1,0 +1,63 @@
+{
+  "concept_id": "3348",
+  "concept_data": {
+    "title": "criminality",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "crime",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"criminality,\" redirected to the preferred term \"crime,\" encompasses a multidisciplinary approach to understanding and managing criminal phenomena within the EU. It highlights the complexity of crime, including organized and cross-border offenses, and emphasizes the need for diverse strategies in prevention and intervention. The EU's Justice and Home Affairs (JHA) framework facilitates exchanges among member states, supporting projects that create optimum conditions for fighting crime. Victims of crime are central to this discourse, with compensation and support mechanisms being crucial. The Tampere Programme confirms the commitment to enhancing citizens' freedom and safety through effective legal measures and training initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:02.617675",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1580.4333333333334
+    },
+    "related_words": [
+      "hippokrates",
+      "falcone",
+      "oisin",
+      "victim",
+      "familiarity",
+      "multidisciplinary",
+      "tampere",
+      "stepped",
+      "phenomenon",
+      "herein",
+      "victims",
+      "studied",
+      "approaches",
+      "incentives",
+      "residence",
+      "crime",
+      "jha",
+      "fight",
+      "diversity",
+      "optimum",
+      "complexity",
+      "confirms",
+      "home",
+      "extends",
+      "managing",
+      "citizens",
+      "discipline",
+      "organised",
+      "interinstitutional",
+      "exchanges"
+    ],
+    "prompt_length": 1706,
+    "category": "2826 social affairs"
+  }
+}

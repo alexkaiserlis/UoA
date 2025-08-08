@@ -1,0 +1,63 @@
+{
+  "concept_id": "827",
+  "concept_data": {
+    "title": "industrial undertaking",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "industrial enterprise",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"industrial undertaking,\" redirected to \"industrial enterprise,\" pertains to entities engaged in manufacturing or production activities within the EU. This classification, under the business nomenclatures of the ISIC system, encompasses a diverse sphere of operations, including craft and wholesale activities. Industrial enterprises are crucial for economic synthesis, influencing wages and salaries across various sectors. Regulatory frameworks prescribe standards for safety, addressing hazards associated with inorganic substances like sodium and ammonium. Employers must recognize their obligations, ensuring compliance with budgets and environmental considerations, such as the use of eco-friendly practices. The census of industrial enterprises aids in comparing national outputs and informing policy decisions.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:58:28.059995",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 647,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 475,
+      "selected_avg_freq": 244.66666666666666
+    },
+    "related_words": [
+      "rpoceed",
+      "opticians",
+      "optician",
+      "overtaken",
+      "trioxide",
+      "chlorate",
+      "une",
+      "dkk",
+      "sight",
+      "decimal",
+      "lighten",
+      "isic",
+      "bus",
+      "nomenclatures",
+      "papers",
+      "oxygen",
+      "census",
+      "synthesis",
+      "inorganic",
+      "insufficiently",
+      "wages",
+      "examples",
+      "ordination",
+      "liberalised",
+      "salaries",
+      "nitrate",
+      "subscribed",
+      "recognize",
+      "litres",
+      "nice"
+    ],
+    "prompt_length": 1700,
+    "category": "4011 business classification"
+  }
+}

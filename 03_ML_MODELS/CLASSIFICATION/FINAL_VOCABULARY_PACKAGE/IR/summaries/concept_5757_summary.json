@@ -1,0 +1,63 @@
+{
+  "concept_id": "5757",
+  "concept_data": {
+    "title": "European Monitoring Centre for Drugs and Drug Addiction",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) plays a crucial role in the EU's response to drug-related issues, focusing on the neurochemistry of substances such as opioids, hallucinogens, and psychopharmacological agents. It provides comprehensive data on emerging drugs, including methylenedioxypyrovalerone and methoxetamine, which are often associated with overdoses and psychosis. The Centre analyzes trends in drug use, including the use of benzamide derivatives and arylcyclohexylamines like ketamine, which can induce disorientation and hallucinations. By monitoring substances like LSD and phencyclidine, the EMCDDA informs policy, aiming to mitigate the adverse effects of drug use, such as trauma and agitation, particularly in environments like nightclubs.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:33.944836",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 575,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 135,
+      "selected_avg_freq": 39.26
+    },
+    "related_words": [
+      "reitox",
+      "nbome",
+      "benzamide",
+      "methylenedioxypyrovalerone",
+      "mdpv",
+      "methoxyphenyl",
+      "ethylamino",
+      "cyclohexanone",
+      "methoxetamine",
+      "neurochemistry",
+      "serotonergic",
+      "hallucinogen",
+      "auditory",
+      "hallucinations",
+      "trauma",
+      "lsd",
+      "opioid",
+      "analgesic",
+      "doxylam",
+      "doxylamine",
+      "antihistaminic",
+      "sedative",
+      "hypnotic",
+      "overdoses",
+      "opioids",
+      "euphoria",
+      "itchiness",
+      "medicating",
+      "injecting",
+      "pyrovalerone"
+    ],
+    "prompt_length": 1868,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

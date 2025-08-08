@@ -1,0 +1,63 @@
+{
+  "concept_id": "3813",
+  "concept_data": {
+    "title": "medicinal product",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"medicinal product\" encompasses substances like hydrobromide, sulfonamide, and benzylalcohol, which are intended for therapeutic use. These products may include macromolecular therapies and anthroposophic remedies, such as calendula and pimpinella. The regulation of medicinal products ensures safety and efficacy, requiring prescribers and pharmacists to adhere to strict guidelines. For instance, medications like theophylline and levamisole are regulated to treat conditions ranging from spasticity to menopausal symptoms. The repackaging of these products must comply with EU directives, ensuring that clinicians can confidently prescribe therapies like buserelin and melatonin, enhancing patient outcomes across diverse health needs.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:47:04.688016",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1709,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.606666666666667
+    },
+    "related_words": [
+      "zygis",
+      "loefl",
+      "calendula",
+      "pimpinella",
+      "anisum",
+      "hydrobromide",
+      "stenorol",
+      "vet",
+      "foeniculum",
+      "dulce",
+      "thellung",
+      "mentha",
+      "piperita",
+      "equilateral",
+      "repackage",
+      "eleutherococcus",
+      "senticosus",
+      "rupr",
+      "epivir",
+      "combivir",
+      "prescriber",
+      "sulfonamide",
+      "gonadotrophin",
+      "dihydrostrep",
+      "tomycin",
+      "melatonin",
+      "medicional",
+      "macromolecular",
+      "centriscan",
+      "lecirelin"
+    ],
+    "prompt_length": 1737,
+    "category": "2841 health"
+  }
+}

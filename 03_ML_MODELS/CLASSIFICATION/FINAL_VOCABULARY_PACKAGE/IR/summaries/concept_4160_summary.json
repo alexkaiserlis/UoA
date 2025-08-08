@@ -1,0 +1,63 @@
+{
+  "concept_id": "4160",
+  "concept_data": {
+    "title": "Commonwealth of Australia",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Australia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Commonwealth of Australia,\" redirected to the preferred term \"Australia,\" is a significant entity in political geography relevant to EU legal and regulatory frameworks. Australia, as a member of various international agreements, negotiates on issues ranging from trade to environmental protection. The jurisdictional aspects of Australian law, including antisubsidy measures and compliance with EU standards, manifest in its regulatory practices. Notably, Australia addresses health concerns related to paramyxovirus and morbillivirus outbreaks, impacting trade regulations. The Australian Quarantine and Inspection Service (AQIS) plays a crucial role in managing diseased imports, while the Reserve Bank of Australia (RBA) oversees economic stability. Additionally, the country’s unique fauna, such as bats and echinoderms, necessitates specific regulatory measures to prevent the spread of virulent diseases like Hendra and Nipah.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:50:06.514928",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 1850,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 68,
+      "selected_avg_freq": 32.346666666666664
+    },
+    "related_words": [
+      "memberr",
+      "negociate",
+      "austral",
+      "paramyxovirus",
+      "ceremonial",
+      "buried",
+      "antisubsidy",
+      "badu",
+      "mulgrave",
+      "strait",
+      "replicated",
+      "endows",
+      "morbillivirus",
+      "asic",
+      "pteropus",
+      "incriminated",
+      "reconvalescent",
+      "avirulent",
+      "lentogenic",
+      "velogenic",
+      "aqis",
+      "pfmis",
+      "milliequivalents",
+      "sydney",
+      "cras",
+      "nipah",
+      "echinoderm",
+      "criminality",
+      "tshe",
+      "torres"
+    ],
+    "prompt_length": 1714,
+    "category": "7236 political geography"
+  }
+}

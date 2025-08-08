@@ -1,0 +1,63 @@
+{
+  "concept_id": "4079",
+  "concept_data": {
+    "title": "customs inspection",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Customs inspection is a critical component of the EU's 2011 tariff policy, ensuring compliance with international trade regulations and safety standards. This process involves the examination of containerised goods, often in hangars at strategic locations such as Heiligenkreuz and Genève. It aims to prevent the importation of prohibited items, including substances like isosafrole and piperonal, which can mislead regulatory authorities. Customs inspections also facilitate the immobilization of goods that do not meet safety requirements, echoing the EU's commitment to protecting nationsl interests. By reinforcing compliance, these inspections contribute to the restabilization of trade flows, promoting reinvestment in sectors like polysilicon and curcuma.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:53:21.101404",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 2824,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 10.16
+    },
+    "related_words": [
+      "babassu",
+      "immobilization",
+      "echoing",
+      "fatf",
+      "saftey",
+      "viana",
+      "kybartai",
+      "misleads",
+      "extinguished",
+      "deparments",
+      "bips",
+      "hangar",
+      "laxe",
+      "coruña",
+      "protea",
+      "marín",
+      "sagfrole",
+      "piperonal",
+      "isosafrole",
+      "nationsl",
+      "internation",
+      "ginger",
+      "curcuma",
+      "fenaval",
+      "modality",
+      "hinterland",
+      "containerised",
+      "revocable",
+      "heiligenkreuz",
+      "restabilize"
+    ],
+    "prompt_length": 1668,
+    "category": "2011 tariff policy"
+  }
+}

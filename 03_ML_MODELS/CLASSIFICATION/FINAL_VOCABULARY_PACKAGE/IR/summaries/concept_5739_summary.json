@@ -1,0 +1,63 @@
+{
+  "concept_id": "5739",
+  "concept_data": {
+    "title": "transposition of European directives",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "national implementing measure",
+    "relation_type": "USE"
+  },
+  "summary": "The \"transposition of European directives\" refers to the process through which EU member states implement directives into national law, often through national implementing measures. This legal framework empowers states to operationally adapt EU legislation, ensuring compliance with overarching EU objectives. The transposition process can involve various complexities, such as the need for bibliographical references to existing laws, and may require adjustments in areas like pharmacotoxicological regulations or postmarketing surveillance of substances like methylthioamphetamine. Member states must anticipate potential challenges, such as the abate of non-compliance, while addressing specific issues related to sectors like agriculture, where pests like anthonomus grandis may impact national policies. The relationship between transposition and national implementing measures is crucial, as the latter serves as the primary vehicle for fulfilling EU directives, ensuring that legal obligations are met effectively and efficiently.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:24.702935",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 134,
+    "vocabulary_stats": {
+      "total_related_words": 1512,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 62,
+      "selected_avg_freq": 24.626666666666665
+    },
+    "related_words": [
+      "empowerments",
+      "nectrotic",
+      "prepackaging",
+      "rands",
+      "curtobacterium",
+      "flaccumfaciens",
+      "sternochetus",
+      "mangiferae",
+      "fabricius",
+      "bibliographical",
+      "bibliographic",
+      "postmarketing",
+      "methylthioamphetamine",
+      "methylenedioxymethamphetamine",
+      "overdosage",
+      "hospitalisation",
+      "serval",
+      "operationally",
+      "easiest",
+      "seaward",
+      "landward",
+      "beetles",
+      "mdma",
+      "fluxes",
+      "vocs",
+      "abate",
+      "mezzocorona",
+      "mta",
+      "omnibus",
+      "boerner"
+    ],
+    "prompt_length": 1852,
+    "category": "1011 European Union law"
+  }
+}

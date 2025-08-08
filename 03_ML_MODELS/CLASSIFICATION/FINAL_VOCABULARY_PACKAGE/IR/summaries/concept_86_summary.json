@@ -1,0 +1,63 @@
+{
+  "concept_id": "86",
+  "concept_data": {
+    "title": "socioeconomic conditions",
+    "category_code": "2821",
+    "category_name": "social framework",
+    "category_full": "2821 social framework",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"socioeconomic conditions\" within the EU legal framework encompasses various factors influencing societal dynamics, including the status of horticulturalists and miners in regions like Saarland and Hainaut. It addresses the shortness of resources and the need for retraining programs for skilled workers, particularly in troubled areas such as Limburg and the collieries of the Rhineland. EU directives and circulars aim to enhance proficiency and advancement through educational initiatives in colleges and vocational training. By attending to socioeconomic disparities, the EU seeks to foster dynamism and support local economies, ensuring that all arrondissements benefit from equitable development and support from counsellors and leaders.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:49:21.015286",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 614,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 381,
+      "selected_avg_freq": 147.74666666666667
+    },
+    "related_words": [
+      "horticulturalists",
+      "shortness",
+      "brevity",
+      "hasselt",
+      "maaseik",
+      "troubled",
+      "fonds",
+      "liă",
+      "counsellor",
+      "tongeren",
+      "flanking",
+      "trainees",
+      "dynamism",
+      "counsellors",
+      "colleges",
+      "tide",
+      "concomitantly",
+      "arrondissements",
+      "modem",
+      "retraining",
+      "instructors",
+      "circulars",
+      "leaders",
+      "collieries",
+      "hainaut",
+      "classic",
+      "miners",
+      "saar",
+      "averaging",
+      "advancement"
+    ],
+    "prompt_length": 1694,
+    "category": "2821 social framework"
+  }
+}

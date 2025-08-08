@@ -1,0 +1,63 @@
+{
+  "concept_id": "5201",
+  "concept_data": {
+    "title": "self-sufficiency in energy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Self-sufficiency in energy refers to the EU's strategic objective to enhance endogenous energy production and reduce reliance on external sources. This concept is crucial for improving energy efficiency and lowering carbon dioxide emissions, thereby addressing climate change. Legislative frameworks encourage investments in renewable energy technologies, targeting specific regions like Greece, Portugal, and Italy, which have unique potentials. The EU proposes interventions to save energy and support member states in instituting effective policies. By approving grants and financing developments, the EU aims to foster a fair and balanced energy market, ensuring that all parties can meet their energy needs while reducing uneven emissions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:06:00.777948",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 115,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 115,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1804.8608695652174
+    },
+    "related_words": [
+      "ineffectual",
+      "valoren",
+      "endogenous",
+      "overtaken",
+      "uneven",
+      "exploiting",
+      "instituting",
+      "save",
+      "dioxide",
+      "fairly",
+      "carbon",
+      "favoured",
+      "targeted",
+      "hellenic",
+      "emissions",
+      "aforesaid",
+      "propose",
+      "investments",
+      "greek",
+      "approve",
+      "favour",
+      "english",
+      "enabling",
+      "portuguese",
+      "encourage",
+      "intervention",
+      "approving",
+      "show",
+      "efficiency",
+      "legislative"
+    ],
+    "prompt_length": 1673,
+    "category": "6606 energy policy"
+  }
+}

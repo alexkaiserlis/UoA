@@ -1,0 +1,63 @@
+{
+  "concept_id": "5705",
+  "concept_data": {
+    "title": "disc drive",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"disc drive\" concept, categorized under information technology and data processing, encompasses devices that reproduce and store data on optical media such as CDs and DVDs. In the EU regulatory context, disc drives are significant for their role in multimedia systems, where they facilitate the playback of audio and video content. The admissibility of digital evidence from disc drives has been a subject of legal scrutiny, particularly in cases involving the reproduction of copyrighted materials. Various corporations, including Japanese manufacturers, have cooperated in developing standards for these drives, ensuring their compliance with EU regulations. The merits of these systems often hinge on their ability to save and process digital images efficiently.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:03:17.351348",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 378,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 865,
+      "selected_avg_freq": 425.26
+    },
+    "related_words": [
+      "roms",
+      "eximation",
+      "systeme",
+      "kronberg",
+      "taunus",
+      "disk",
+      "oem",
+      "rom",
+      "asahi",
+      "analog",
+      "cds",
+      "reproducing",
+      "photo",
+      "multimedia",
+      "disc",
+      "discs",
+      "anything",
+      "discounted",
+      "audio",
+      "seemed",
+      "logical",
+      "drive",
+      "compact",
+      "optical",
+      "image",
+      "players",
+      "admissibility",
+      "cooperated",
+      "machines",
+      "comparing"
+    ],
+    "prompt_length": 1663,
+    "category": "3236 information technology and data processing"
+  }
+}

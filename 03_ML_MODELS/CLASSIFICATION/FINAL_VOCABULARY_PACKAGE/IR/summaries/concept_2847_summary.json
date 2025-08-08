@@ -1,0 +1,63 @@
+{
+  "concept_id": "2847",
+  "concept_data": {
+    "title": "milk protein",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"milk protein\" encompasses various lactoproteins, including caseins, whey, and albumins, which are integral to processed agricultural produce within the EU. Regulatory frameworks govern the pasteurization and compositional standards of these products to ensure safety and readability for consumers, particularly concerning allergens. The European Communities codify standards for milk protein derivatives, such as hydrolysates and concentrates, which are often used in infant nutrition. Tarification policies may apply to these products, influencing their market dynamics. Additionally, pictograms and multilingual labeling facilitate consumer understanding, addressing potential confusion regarding lactose and other components like lactoferrin and ovalbumin.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:09.836410",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 829,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 352,
+      "selected_avg_freq": 172.34
+    },
+    "related_words": [
+      "pasteurization",
+      "tarification",
+      "shelling",
+      "producdts",
+      "allergens",
+      "adjuvants",
+      "lactoproteins",
+      "pictograms",
+      "lactoferrin",
+      "frieslandcampina",
+      "caseins",
+      "yolk",
+      "kcal",
+      "albumins",
+      "hydrolysates",
+      "xib",
+      "multilingual",
+      "dispense",
+      "europeancommunities",
+      "sluice",
+      "isolates",
+      "readability",
+      "hydrolysed",
+      "brans",
+      "compositional",
+      "lactose",
+      "aricle",
+      "sharps",
+      "albumin",
+      "powdered"
+    ],
+    "prompt_length": 1723,
+    "category": "6016 processed agricultural produce"
+  }
+}

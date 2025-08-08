@@ -1,0 +1,63 @@
+{
+  "concept_id": "3085",
+  "concept_data": {
+    "title": "impact study",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"impact study\" in the context of EU legal and regulatory frameworks serves as a critical tool for assessing the potential consequences of proposed policies or regulations. It involves the multidimensional analysis of various levers, including economic, social, and environmental factors. Such studies often materialise through rigorous methodologies, testing hypotheses related to issues like CSR, bribery, and internationalisation. They can convey lessons learned from previous initiatives, such as the G20 commitments or Eurodac regulations. By evaluating the implications of herbicides like glufosinate and phosphinotricin, impact studies guide decision-making, ensuring diligence in subcontracting and compliance with standards. Ultimately, they rejoin stakeholders in a constructive dialogue about policy effectiveness and societal benefits.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:14.709241",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 917,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 233,
+      "selected_avg_freq": 104.47333333333333
+    },
+    "related_words": [
+      "levers",
+      "csr",
+      "bribery",
+      "materialisation",
+      "gmms",
+      "constructively",
+      "rewarding",
+      "phosphinotricin",
+      "phosphotransferase",
+      "multidimensional",
+      "hypotheses",
+      "metzg",
+      "lesson",
+      "divulging",
+      "oleifera",
+      "rejoin",
+      "rejoining",
+      "transferase",
+      "g20",
+      "rejoins",
+      "internationalisation",
+      "prüm",
+      "napus",
+      "backgrounds",
+      "eurodac",
+      "emas",
+      "unavoidably",
+      "milestone",
+      "materialised",
+      "glufosinate"
+    ],
+    "prompt_length": 1708,
+    "category": "1631 economic analysis"
+  }
+}

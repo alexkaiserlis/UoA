@@ -1,0 +1,63 @@
+{
+  "concept_id": "1891",
+  "concept_data": {
+    "title": "meslin",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Meslin, categorized under plant products, refers to a mixture of different cereals, primarily wheat and rye, used in various food applications such as flours, meals, and pasta. In the context of EU legal and regulatory frameworks, meslin is subject to specific regulations that govern its production, trade, and quality standards. The EU aims to differentiate meslin from other cereals to prevent market disturbance and ensure stable pricing. Regulations may penalize the use of misleading quotations or labels regarding meslin's composition. Additionally, precautionary measures are in place to address any threats to its quality, enabling refunds for deteriorated products and adjusting taxes accordingly.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:15.699002",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 283,
+      "requested_words": 150,
+      "min_frequency_found": 39,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 39,
+      "selected_max_freq": 1567,
+      "selected_avg_freq": 799.26
+    },
+    "related_words": [
+      "spelt",
+      "penalize",
+      "groats",
+      "roasted",
+      "meals",
+      "flours",
+      "meslin",
+      "spirituous",
+      "wheres",
+      "pasta",
+      "upwards",
+      "jeopardised",
+      "malt",
+      "flour",
+      "disturbing",
+      "threatening",
+      "differentiate",
+      "meal",
+      "speculation",
+      "durum",
+      "deteriorate",
+      "quotations",
+      "beverages",
+      "disturb",
+      "maize",
+      "assumed",
+      "wheat",
+      "cereal",
+      "settlement",
+      "precautionary"
+    ],
+    "prompt_length": 1638,
+    "category": "6006 plant product"
+  }
+}

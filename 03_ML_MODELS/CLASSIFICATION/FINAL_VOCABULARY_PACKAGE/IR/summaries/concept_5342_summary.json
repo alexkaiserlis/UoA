@@ -1,0 +1,63 @@
+{
+  "concept_id": "5342",
+  "concept_data": {
+    "title": "European Centre for the Development of Vocational Training",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Cedefop",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Centre for the Development of Vocational Training,\" commonly known as Cedefop, plays a pivotal role in shaping vocational education and training (VET) across the EU. Established to enhance the quality of VET, Cedefop's regulatory framework supports member states in aligning their educational policies with EU standards. Key figures such as Józef and Beata have contributed to its mission, fostering collaboration among diverse stakeholders, including Andrea, Garijo, and Hurtado. Cedefop's research informs policy decisions, ensuring that training systems adapt to labor market needs, as emphasized by experts like Hylander and Olszewski. This institution exemplifies the EU's commitment to lifelong learning, as articulated in various legal documents, promoting a skilled workforce across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:10:26.009320",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 400,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 284,
+      "selected_avg_freq": 55.406666666666666
+    },
+    "related_words": [
+      "tsoutsoplidis",
+      "ozolina",
+      "józef",
+      "hordejuk",
+      "alfaya",
+      "hurtado",
+      "andrea",
+      "montanino",
+      "kafel",
+      "pankova",
+      "delcroix",
+      "beata",
+      "jakubova",
+      "bogdan",
+      "olszewski",
+      "attard",
+      "conceição",
+      "leslie",
+      "manasseh",
+      "hylander",
+      "jenny",
+      "hayes",
+      "gunars",
+      "krusts",
+      "mamo",
+      "garijo",
+      "equiza",
+      "gregor",
+      "miklic",
+      "engel"
+    ],
+    "prompt_length": 1702,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

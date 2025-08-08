@@ -1,0 +1,63 @@
+{
+  "concept_id": "2626",
+  "concept_data": {
+    "title": "polluter pays principle",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"polluter pays principle\" is a foundational concept in EU environmental policy, urging that those responsible for pollution should bear the costs of managing it to prevent environmental damage. This principle aims to eliminate substandard practices by establishing liability for emissions, thereby ensuring that polluters, including shipowners, are held accountable for their actions. Regulatory frameworks, such as the Integrated Pollution Prevention and Control (IPPC), reestablish modalities for emissions inventory and monitoring. By publishing penalties for infringements and providing certificates of compliance, the EU promotes responsible pollution prevention. This principle reflects the EU's commitment to proportionality and subsidiarity in environmental governance, ensuring that victims of pollution can claim damages effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:43:57.868310",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 167,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3411,
+      "selected_avg_freq": 1475.8933333333334
+    },
+    "related_words": [
+      "eper",
+      "reestablish",
+      "expelling",
+      "expulsion",
+      "responsibly",
+      "urge",
+      "substandard",
+      "ippc",
+      "pollutant",
+      "merchant",
+      "detention",
+      "insured",
+      "dissuasive",
+      "shipowners",
+      "victims",
+      "formats",
+      "inventory",
+      "recast",
+      "ship",
+      "rectified",
+      "shipping",
+      "modalities",
+      "unanimously",
+      "ships",
+      "emission",
+      "infringements",
+      "emissions",
+      "port",
+      "insurance",
+      "liability"
+    ],
+    "prompt_length": 1711,
+    "category": "5206 environmental policy"
+  }
+}

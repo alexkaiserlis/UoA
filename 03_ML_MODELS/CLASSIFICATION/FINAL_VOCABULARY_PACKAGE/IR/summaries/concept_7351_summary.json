@@ -1,0 +1,63 @@
+{
+  "concept_id": "7351",
+  "concept_data": {
+    "title": "tax refund",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax rebate",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"tax refund,\" commonly referred to as a \"tax rebate,\" pertains to the recovery of overpaid taxes by taxpayers. This process enables individuals or entities to obtain a correction of errors in their tax assessments, particularly concerning VAT and other taxes. The right to a tax rebate is grounded in the requirement to ensure that taxable amounts are accurate and reflect factual circumstances. Various versions of tax regulations exist across member states, including Denmark and Bulgaria, which may introduce specific authorising letters for recovery requests. Combatting tax fraud remains a priority, necessitating clear communication and connected processes to facilitate the recovery of funds while adhering to legal frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:49.408236",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1744.7985611510792
+    },
+    "related_words": [
+      "öresund",
+      "tolls",
+      "taxpayers",
+      "immovable",
+      "deduct",
+      "taxable",
+      "words",
+      "recover",
+      "factual",
+      "accruing",
+      "appraisal",
+      "bulgarian",
+      "vat",
+      "secretariat",
+      "versions",
+      "correction",
+      "combating",
+      "refund",
+      "language",
+      "connected",
+      "fraud",
+      "property",
+      "error",
+      "link",
+      "correcting",
+      "continues",
+      "payable",
+      "recovery",
+      "requiring",
+      "tax"
+    ],
+    "prompt_length": 1671,
+    "category": "2446 taxation"
+  }
+}

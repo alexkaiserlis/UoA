@@ -1,0 +1,63 @@
+{
+  "concept_id": "899",
+  "concept_data": {
+    "title": "economic aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic aid within the EU framework pertains to financial assistance aimed at fostering cooperation and development across member states and regions. This concept serves as a cornerstone for policies that address ethnic disparities and promote sustainable growth. Economic aid mechanisms, such as ISPA and SAPARD, are designed to support infrastructure and agricultural development, ensuring durable economic structures. The credibility of these initiatives is often anchored in their ability to manage inflows and outflows effectively, with disbursement strategies that mitigate risks associated with economic weakening. By establishing buffers and promoting foreign direct investment (FDI), the EU aims to sustain economic stability, while addressing contexts of neglect and ensuring that aid moves towards maturing sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:31:29.975789",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 783,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 255,
+      "selected_avg_freq": 116.37333333333333
+    },
+    "related_words": [
+      "sentiment",
+      "pisg",
+      "kfor",
+      "nbr",
+      "fdi",
+      "rollover",
+      "buffers",
+      "neglect",
+      "peg",
+      "anchor",
+      "ethnic",
+      "pinewood",
+      "intervened",
+      "outflows",
+      "efc",
+      "ispa",
+      "steiner",
+      "buhrer",
+      "nickle",
+      "firmly",
+      "cornerstone",
+      "orientations",
+      "pwn",
+      "borrow",
+      "contexts",
+      "basing",
+      "nematode",
+      "empt",
+      "unmik",
+      "durable"
+    ],
+    "prompt_length": 1626,
+    "category": "0811 cooperation policy"
+  }
+}

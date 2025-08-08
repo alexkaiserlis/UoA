@@ -1,0 +1,63 @@
+{
+  "concept_id": "497",
+  "concept_data": {
+    "title": "material damage",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "damage",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"material damage\" refers to harm suffered by victims that can be objectively assessed and remedied through judicial processes. This concept, often synonymous with \"damage,\" encompasses various incidents where liability is established, such as overfishing in exclusive waters or nuclear accidents. The enforcement of compensation claims may involve complex jurisdictional issues, particularly when dealing with non-EU entities like Norway. Courts may halt proceedings if consent is not granted or if the claims are prejudiced. The division of liability is critical, as it improves the clarity of judicial judgments and ensures that affected vessels and parties retain their rights to compensation.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:56:46.954296",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 224,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1937,
+      "selected_avg_freq": 942.1333333333333
+    },
+    "related_words": [
+      "precedence",
+      "prejudiced",
+      "pout",
+      "halted",
+      "overfished",
+      "halting",
+      "dissociated",
+      "overfishing",
+      "eel",
+      "sand",
+      "remedying",
+      "ratify",
+      "ices",
+      "victims",
+      "deductions",
+      "objectively",
+      "norwegian",
+      "incidents",
+      "vienna",
+      "improves",
+      "judgments",
+      "stopped",
+      "additions",
+      "twelve",
+      "paris",
+      "accede",
+      "suffered",
+      "judicial",
+      "nuclear",
+      "authorises"
+    ],
+    "prompt_length": 1680,
+    "category": "1211 civil law"
+  }
+}

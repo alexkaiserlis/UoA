@@ -1,0 +1,63 @@
+{
+  "concept_id": "4125",
+  "concept_data": {
+    "title": "European Union control",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU control",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU control\" encompasses the regulatory frameworks and conditionalities established by the European Union to ensure compliance with its laws and policies. This control mechanism facilitates the monitoring of member states and entities, addressing issues such as misconduct and reinforcing adherence to EU standards. In various sectors, including agriculture and environmental protection, tools like EIA (Environmental Impact Assessment) and SCIPs (Substances of Concern In articles as such or in complex objects) are employed to mitigate risks, such as reinfestation or pollution. The EU's regulatory landscape is intricate, with protagonists navigating through legal ditches and leveraging technologies, including computersed systems for data management. Overall, EU control is pivotal in maintaining the integrity of the Union’s legal order, ensuring that all actors operate within established frameworks, thereby preventing dearth in compliance and fostering a cohesive regulatory environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:17:52.110801",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 3972,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.54
+    },
+    "related_words": [
+      "conditionalities",
+      "scips",
+      "scip",
+      "facilitator",
+      "ditches",
+      "computersed",
+      "mefenoxam",
+      "ecogen",
+      "cationic",
+      "hardener",
+      "attractions",
+      "transduction",
+      "viana",
+      "kybartai",
+      "lia",
+      "idexx",
+      "herdchek",
+      "eia",
+      "reated",
+      "reinfestation",
+      "clefoxydim",
+      "novaritis",
+      "neudorff",
+      "suiker",
+      "maastschappij",
+      "eminating",
+      "tiense",
+      "suikerraffinaderij",
+      "orkem",
+      "minuted"
+    ],
+    "prompt_length": 1705,
+    "category": "1011 European Union law"
+  }
+}

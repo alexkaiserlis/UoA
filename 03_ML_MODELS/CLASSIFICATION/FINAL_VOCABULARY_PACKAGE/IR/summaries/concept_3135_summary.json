@@ -1,0 +1,63 @@
+{
+  "concept_id": "3135",
+  "concept_data": {
+    "title": "toxicity",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "toxic substance",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"toxicity\" is often redirected to the preferred term \"toxic substance,\" which encompasses a wide range of hazardous materials, including those with ecotoxicity implications. Toxic substances can lead to severe health issues such as angiosarcoma and nephropathy, and their assessment is crucial for environmental protection. Regulatory frameworks evaluate substances like diethofencarb and tetraconazole, which may contain aldehyde or sulphonatophenyl compounds. The EU emphasizes the importance of elucidating the effects of these substances on ecosystems, particularly in relation to scleroderma and osteolysis. Additionally, substances like dimethylammoniumchloride and various terpenoids must be monitored to prevent deterioration of the environment, ensuring that technological advancements do not compromise safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:45.039288",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 3716,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 6.206666666666667
+    },
+    "related_words": [
+      "brazing",
+      "jewelleries",
+      "reenact",
+      "verbena",
+      "lippia",
+      "citriodora",
+      "kunth",
+      "phenethyl",
+      "terpene",
+      "terpenoids",
+      "sinpine",
+      "dsp",
+      "lecithins",
+      "aldehyde",
+      "natrolite",
+      "phonolite",
+      "mls",
+      "achieavable",
+      "proximal",
+      "byssochlamys",
+      "pmtdi",
+      "technicological",
+      "ugilec",
+      "condensers",
+      "ecotoxcity",
+      "dbbt",
+      "maket",
+      "acro",
+      "osteolysis",
+      "scleroderma"
+    ],
+    "prompt_length": 1769,
+    "category": "5216 deterioration of the environment"
+  }
+}

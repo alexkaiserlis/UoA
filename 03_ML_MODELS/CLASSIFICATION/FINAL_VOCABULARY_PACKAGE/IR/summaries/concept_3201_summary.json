@@ -1,0 +1,63 @@
+{
+  "concept_id": "3201",
+  "concept_data": {
+    "title": "intermediate consumption",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Intermediate consumption refers to the use of goods and services in the production process within the EU regulatory framework. This concept encompasses various inputs, including chemicals such as hydrobromofluorocarbons and hydrochlorofluorocarbons, which are subject to strict regulations due to their harmful effects on the ozone layer. The methodology for allocating these resources often involves invoicing and preshipment processes, ensuring equitable distribution among suppliers. Importers must adhere to regulations regarding the destruction of harmful gases, with a focus on recycling and reclaiming materials. Understanding intermediate consumption is crucial for achieving sustainability goals and compliance with historical commitments under the Montreal Protocol.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:59:00.160761",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 236,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1814,
+      "selected_avg_freq": 835.9066666666666
+    },
+    "related_words": [
+      "hydrobromoflurocarbons",
+      "hydrochloroflurocarbons",
+      "preshipment",
+      "quantiative",
+      "hydrobromofluorocarbons",
+      "dispersive",
+      "hydrochlorofluorocarbons",
+      "reclaimed",
+      "feedstock",
+      "bromide",
+      "invoicing",
+      "deplete",
+      "recycled",
+      "ozone",
+      "montreal",
+      "virgin",
+      "intending",
+      "downwards",
+      "quarantine",
+      "layer",
+      "methyl",
+      "reality",
+      "equitable",
+      "destroyed",
+      "replies",
+      "harm",
+      "chemicals",
+      "equality",
+      "recovered",
+      "historical"
+    ],
+    "prompt_length": 1758,
+    "category": "2026 consumption"
+  }
+}

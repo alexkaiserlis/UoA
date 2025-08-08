@@ -1,0 +1,63 @@
+{
+  "concept_id": "6755",
+  "concept_data": {
+    "title": "unicorn",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "start-up",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"unicorn\" is a redirect to \"start-up,\" specifically referring to innovative enterprises that achieve significant valuation milestones. These ventures, often in sectors like biotech and digital technologies, are crucial for enhancing entrepreneurship and job creation across Europe. The European Commission supports these SMEs through initiatives aimed at overcoming barriers to funding and fostering transnational collaboration. By reforming regulations and encouraging dialogue among actors in the innovation ecosystem, the EU aims to create a supportive environment for scaled ventures. This includes addressing failures and facilitating access to venture capital, thereby ensuring that the expectations of these enterprises are met.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:54:50.883714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 318,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1020,
+      "selected_avg_freq": 518.18
+    },
+    "related_words": [
+      "ecip",
+      "alamedsa",
+      "biotech",
+      "jev",
+      "jop",
+      "ceecs",
+      "ups",
+      "biotechnologies",
+      "nis",
+      "scaled",
+      "etf",
+      "performs",
+      "sme",
+      "reforming",
+      "entrepreneurship",
+      "sciences",
+      "venture",
+      "ventures",
+      "careful",
+      "latin",
+      "failures",
+      "intermediaries",
+      "losing",
+      "barcelona",
+      "transnational",
+      "money",
+      "craft",
+      "reality",
+      "actors",
+      "asia"
+    ],
+    "prompt_length": 1670,
+    "category": "4011 business classification"
+  }
+}

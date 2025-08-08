@@ -1,0 +1,63 @@
+{
+  "concept_id": "3107",
+  "concept_data": {
+    "title": "traffic management",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "traffic control",
+    "relation_type": "USE"
+  },
+  "summary": "Traffic management, often referred to as traffic control, is a critical aspect of EU transport policy aimed at ensuring the safety and efficiency of transportation systems. It encompasses various regulatory measures, including the use of tachographs to monitor driving hours and compliance with fitness standards for drivers. Stricter regulations are necessary to detect violations related to driver health conditions such as diabetes and epilepsy, which can undermine road safety. Additionally, traffic management involves the categorisation of vehicles and the licensing of carriers, ensuring that mobile cargo operations are performed fairly. This comprehensive approach is vital for preventing manipulation and ensuring the convenience of transportation across airports and highways, ultimately contributing to a fairer and more efficient transport network.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:16:37.811455",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1153,
+      "selected_avg_freq": 534.0066666666667
+    },
+    "related_words": [
+      "tachographs",
+      "eyesight",
+      "diabetes",
+      "epilepsy",
+      "defraud",
+      "brokering",
+      "tachograph",
+      "fairer",
+      "roadside",
+      "convenience",
+      "precious",
+      "syrian",
+      "breaks",
+      "fitness",
+      "categorisation",
+      "coincides",
+      "manipulation",
+      "diamonds",
+      "drive",
+      "officers",
+      "gold",
+      "complements",
+      "flights",
+      "rating",
+      "repression",
+      "specialists",
+      "syria",
+      "deteriorating",
+      "comprised",
+      "gravity"
+    ],
+    "prompt_length": 1724,
+    "category": "4806 transport policy"
+  }
+}

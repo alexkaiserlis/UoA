@@ -1,0 +1,26 @@
+{
+  "concept_id": "5195",
+  "concept_data": {
+    "title": "transmissions tariff",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "telephone charges",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"transmissions tariff,\" which redirects to the preferred term \"telephone charges,\" pertains to the regulatory framework governing the pricing structures for telecommunications services within the European Union. These tariffs are crucial for ensuring fair competition and transparency in the communications market. The EU regulatory bodies establish guidelines that dictate how these charges are calculated, aiming to protect consumers and promote accessibility. By standardizing telephone charges, the EU seeks to facilitate cross-border communications and enhance market integration, thereby fostering a more cohesive digital single market across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:02.320198",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 89,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1211,
+    "category": "3226 communications"
+  }
+}

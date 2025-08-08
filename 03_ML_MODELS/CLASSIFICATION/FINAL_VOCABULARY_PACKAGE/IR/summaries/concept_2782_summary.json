@@ -1,0 +1,63 @@
+{
+  "concept_id": "2782",
+  "concept_data": {
+    "title": "deep-frozen product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"deep-frozen product\" refers to foodstuffs subjected to cryogenic processes to ensure durability and maintain organoleptic properties. This method is crucial for preserving items like theragra and chalcogramma, which are often utilized in restaurants and canteens. The rapidity of freezing inhibits the growth of destructive microorganisms, thus safeguarding against allergies and impairing lipid degradation. Regulatory frameworks dictate that deep-frozen wares must be stored in inert cabinets with precise thermometers to monitor temperatures. The inclusion of euphausia superba and pollack in diets reflects a commitment to bioressources, ensuring a proportionally balanced and dietetic approach to food safety across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:00:40.600377",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 808,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 300,
+      "selected_avg_freq": 136.37333333333333
+    },
+    "related_words": [
+      "theragra",
+      "chalcogramma",
+      "dash",
+      "cooks",
+      "bennekom",
+      "morellato",
+      "atral",
+      "salvadorian",
+      "euphausia",
+      "superba",
+      "neptune",
+      "bioressources",
+      "canteens",
+      "pollack",
+      "destructive",
+      "caterers",
+      "cryogenic",
+      "alaska",
+      "bakers",
+      "indiscriminately",
+      "krill",
+      "endangers",
+      "cabinets",
+      "thermometers",
+      "wares",
+      "lipid",
+      "dough",
+      "impart",
+      "rapidity",
+      "inert"
+    ],
+    "prompt_length": 1669,
+    "category": "6026 foodstuff"
+  }
+}

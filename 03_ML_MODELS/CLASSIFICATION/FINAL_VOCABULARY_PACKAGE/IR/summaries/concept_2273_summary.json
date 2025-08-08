@@ -1,0 +1,63 @@
+{
+  "concept_id": "2273",
+  "concept_data": {
+    "title": "pasteurization",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": true,
+    "preferred_term": "pasteurisation",
+    "relation_type": "USE"
+  },
+  "summary": "Pasteurisation, a critical process in food technology, involves the heat treatment of foodstuffs to eliminate pathogenic microorganisms, ensuring safety and extending shelf life. In the EU regulatory context, pasteurised products, such as those from Danone, must meet stringent safety standards to mitigate allergenic risks. The European Food Safety Authority (EFSA) often forwards scientific explanations and reasoned opinions regarding the potential risks associated with novel ingredients. Consultation with experts is essential, as objections may arise during the marketing authorisation process. The treatment, generally applied to dairy and fruit preparations, is crucial for safely placing these foods on the market, addressing both consumer safety and regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:30:20.234643",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1822.8119658119658
+    },
+    "related_words": [
+      "kbar",
+      "danone",
+      "allergenic",
+      "pasteurisation",
+      "bacteriological",
+      "groupe",
+      "pasteurised",
+      "explanation",
+      "novel",
+      "safely",
+      "ingredient",
+      "reasoned",
+      "minutes",
+      "ingredients",
+      "foods",
+      "heat",
+      "came",
+      "pressure",
+      "preparations",
+      "objections",
+      "instead",
+      "fruit",
+      "foodstuffs",
+      "forwarded",
+      "raised",
+      "comments",
+      "generally",
+      "response",
+      "experts",
+      "placing"
+    ],
+    "prompt_length": 1691,
+    "category": "6036 food technology"
+  }
+}

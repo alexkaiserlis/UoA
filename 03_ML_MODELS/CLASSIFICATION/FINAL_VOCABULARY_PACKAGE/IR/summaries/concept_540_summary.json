@@ -1,0 +1,63 @@
+{
+  "concept_id": "540",
+  "concept_data": {
+    "title": "family law",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Family law within the EU encompasses a range of legal matters related to matrimonial relationships, parental responsibilities, and the rights of children. It aims to ensure the enforceability of judgments across member states, facilitating the recognition and enforcement of decisions regarding maintenance and custody. Courts in acceding countries, such as Slovakia, Slovenia, Latvia, and Lithuania, are required to accept and deal with applications that indicate the intention to seek redress. The legal framework includes protocols and annexes that enumerate obligations for interested parties, ensuring that judgments issued in one jurisdiction are enforceable in another. Amendments to family law reflect the evolving position of spouses and children, promoting a positive legal environment for all involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:50.495026",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 15,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1844.3265306122448
+    },
+    "related_words": [
+      "enumerate",
+      "spouses",
+      "matrimonial",
+      "enforceability",
+      "enforceable",
+      "parental",
+      "redress",
+      "appeals",
+      "acceding",
+      "courts",
+      "judgments",
+      "children",
+      "jurisdiction",
+      "judgment",
+      "deal",
+      "slovakia",
+      "enforcement",
+      "accept",
+      "gave",
+      "maintenance",
+      "slovenia",
+      "latvia",
+      "positive",
+      "participate",
+      "lithuania",
+      "recognition",
+      "indicate",
+      "intention",
+      "declared",
+      "responsibility"
+    ],
+    "prompt_length": 1679,
+    "category": "2806 family"
+  }
+}

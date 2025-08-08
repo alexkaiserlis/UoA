@@ -1,0 +1,26 @@
+{
+  "concept_id": "5732",
+  "concept_data": {
+    "title": "legal medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "forensic medicine",
+    "relation_type": "USE"
+  },
+  "summary": "Legal medicine, often referred to as forensic medicine, is a specialized field at the intersection of health and law within the EU regulatory framework. It encompasses the application of medical knowledge to legal issues, particularly in criminal investigations and court proceedings. Forensic medicine plays a crucial role in the assessment of injuries, determination of cause of death, and evaluation of mental competency, thereby providing essential evidence in legal contexts. The term \"legal medicine\" redirects to \"forensic medicine,\" highlighting its primary focus on the intersection of medical expertise and legal standards. This discipline is vital for ensuring justice and upholding public health regulations across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:19:38.182718",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1197,
+    "category": "2841 health"
+  }
+}

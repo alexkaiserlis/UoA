@@ -1,0 +1,63 @@
+{
+  "concept_id": "3924",
+  "concept_data": {
+    "title": "municipal law",
+    "category_code": "1206",
+    "category_name": "sources and branches of the law",
+    "category_full": "1206 sources and branches of the law",
+    "is_redirect": true,
+    "preferred_term": "local legislation",
+    "relation_type": "USE"
+  },
+  "summary": "Municipal law, often redirected to \"local legislation,\" encompasses the legal frameworks established by local authorities within the EU. This category of law includes regulations that govern local institutions and their interactions with wider EU directives. Local legislation is crucial for the allocation of funds and the treatment of various financial risks, particularly in banking and credit sectors. It provides a consolidated definition of local governance procedures, ensuring compliance with international standards. Discussions within relevant fora often include the implementation of these laws, which are calculated to meet the specific needs of communities. The final results of such legislation are expressed in annual reports, reflecting the ongoing evolution of local governance since its original inception.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:47:51.080418",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 67,
+      "requested_words": 150,
+      "min_frequency_found": 68,
+      "max_frequency_found": 4108,
+      "selected_words": 67,
+      "selected_min_freq": 68,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2039.5671641791046
+    },
+    "related_words": [
+      "fora",
+      "banking",
+      "item",
+      "wider",
+      "banks",
+      "discussions",
+      "credit",
+      "propose",
+      "consolidated",
+      "accounts",
+      "gives",
+      "original",
+      "calculated",
+      "category",
+      "risks",
+      "allocation",
+      "funds",
+      "advisory",
+      "six",
+      "institutions",
+      "definition",
+      "fund",
+      "own",
+      "treatment",
+      "expressed",
+      "final",
+      "total",
+      "results",
+      "meaning",
+      "annual"
+    ],
+    "prompt_length": 1694,
+    "category": "1206 sources and branches of the law"
+  }
+}

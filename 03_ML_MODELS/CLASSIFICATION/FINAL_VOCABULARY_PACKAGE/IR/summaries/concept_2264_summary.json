@@ -1,0 +1,63 @@
+{
+  "concept_id": "2264",
+  "concept_data": {
+    "title": "shareholding",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"shareholding\" pertains to the ownership of shares in a company, influencing governance and decision-making. It encompasses various entities, including whollyowned subsidiaries like Italgas and Italsider, and extends to industriali and minerarie sectors. Shareholders, or stockholders, may engage in initiatives that affect corporate strategies, such as divests or investments in coalproducing enterprises like Gelsenberg or Rheinisch-Westfälische Elektrizitätswerk. Regulatory frameworks govern these relationships, ensuring compliance with laws that affect the distribution of shares and the financial dotazione of companies. This concept is vital for understanding the dynamics of business organisation within the EU's market landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:38:46.680970",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1387,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 48,
+      "selected_avg_freq": 16.38
+    },
+    "related_words": [
+      "pétroles",
+      "unico",
+      "hauts",
+      "mately",
+      "framtek",
+      "springs",
+      "fram",
+      "egam",
+      "vetrocoke",
+      "cokapuania",
+      "isai",
+      "iniziative",
+      "attivită",
+      "industriali",
+      "autonomo",
+      "minerarie",
+      "metallurgiche",
+      "fondo",
+      "dotazione",
+      "italgas",
+      "cokitalia",
+      "iri",
+      "enel",
+      "efim",
+      "italsider",
+      "blume",
+      "stockholder",
+      "streckengeschă",
+      "gelsenberg",
+      "elektrizitäts"
+    ],
+    "prompt_length": 1702,
+    "category": "4006 business organisation"
+  }
+}

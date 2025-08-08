@@ -1,0 +1,63 @@
+{
+  "concept_id": "6824",
+  "concept_data": {
+    "title": "diesel engine",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"diesel engine\" concept is pivotal in EU mechanical engineering regulations, particularly concerning emissions and environmental standards. Diesel engines are widely used in vehicles and trailers, necessitating compliance with directives that measure pollutants and exhaust opacity. The ECE regulations set forth requirements for the approval of diesel engines, focusing on emission measurement systems and their technical equivalence across member nations. These laws aim to adapt and align with international standards, ensuring that emissions from diesel engines are within permitted limits. Consequently, the EU emphasizes progress in reducing pollutants, reinforcing the relevance of stringent regulations and standards for diesel engine components and systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:10:34.593233",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 85,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 85,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1982.9882352941177
+    },
+    "related_words": [
+      "opacimeter",
+      "opacity",
+      "exhaust",
+      "diesel",
+      "ece",
+      "engines",
+      "trailers",
+      "pollutants",
+      "emission",
+      "measuring",
+      "motor",
+      "fuel",
+      "vehicle",
+      "emissions",
+      "measurement",
+      "equivalence",
+      "align",
+      "vehicles",
+      "components",
+      "source",
+      "approximation",
+      "nations",
+      "units",
+      "adapting",
+      "adaptation",
+      "separate",
+      "permitted",
+      "laws",
+      "type",
+      "europe"
+    ],
+    "prompt_length": 1668,
+    "category": "6821 mechanical engineering"
+  }
+}

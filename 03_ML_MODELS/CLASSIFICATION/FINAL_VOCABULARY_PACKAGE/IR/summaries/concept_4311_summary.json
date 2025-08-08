@@ -1,0 +1,63 @@
+{
+  "concept_id": "4311",
+  "concept_data": {
+    "title": "sugar substitute",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "food substitute",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"sugar substitute,\" also referred to as a \"food substitute,\" encompasses various sweeteners, including aspartame, saccharin, and nutrasweet, which are utilized to reduce caloric intake. These substitutes may exhibit immunoreactive properties and can be derived from elemental sources such as beetroot or phyto compounds like curcumin and carotenes. Regulatory frameworks govern their use, ensuring that products containing these sweeteners, including caramels and anthocyanins, meet safety standards. The inclusion of polyphosphates and chlorophylls in formulations may enhance visual appeal, while the argumentation for their use often involves considerations of bitterness and ornamentation in food products.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:13.495420",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 765,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 193,
+      "selected_avg_freq": 63.193333333333335
+    },
+    "related_words": [
+      "immunoreactive",
+      "elemental",
+      "asparmate",
+      "nutrasweet",
+      "nsc",
+      "ajinomoto",
+      "vof",
+      "deerfield",
+      "supra",
+      "bitterness",
+      "garniture",
+      "ornamentation",
+      "curcumin",
+      "carotenal",
+      "betanin",
+      "anthocyanins",
+      "caramels",
+      "operaă",
+      "oes",
+      "comăšrcio",
+      "phyto",
+      "riboflavins",
+      "roe",
+      "carminic",
+      "carmines",
+      "chlorophylls",
+      "chlorophyllins",
+      "capsorubin",
+      "polyphosphates",
+      "hsc"
+    ],
+    "prompt_length": 1726,
+    "category": "6026 foodstuff"
+  }
+}

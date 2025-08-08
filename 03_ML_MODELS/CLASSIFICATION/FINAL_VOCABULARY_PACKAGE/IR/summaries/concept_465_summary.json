@@ -1,0 +1,26 @@
+{
+  "concept_id": "465",
+  "concept_data": {
+    "title": "food supply",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "food resources",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"food supply,\" categorized under health, is redirected to the preferred term \"food resources\" within EU legal and regulatory frameworks. This term encompasses the comprehensive range of materials and provisions necessary for the sustenance of populations, emphasizing the importance of sustainable sourcing and equitable distribution. In EU legislation, food resources are critical for ensuring food security, public health, and environmental sustainability. Regulatory measures often address the management of food resources to mitigate risks associated with supply chain disruptions, promote agricultural innovation, and enhance consumer protection. Understanding this relationship is vital for effective policy formulation and implementation in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:02.450325",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1191,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4322",
+  "concept_data": {
+    "title": "universal suffrage",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Universal suffrage is a fundamental principle in EU electoral procedures, ensuring that all citizens have the right to vote in elections for representatives in the European Parliament and other institutions. This concept proves essential for the legitimacy of democratic processes within the European Communities. The European Council has set fixed periods for elections, with decisions made in accordance with the acts of the EEC and EURATOM. Universal suffrage facilitates direct participation in governance, making it impossible to exclude any eligible voter. The corresponding regulations, established in various subparagraphs, reflect the commitment to uphold democratic values since the inception of the ECSC in July and September.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:13:29.044895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 30,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 30,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2032.8333333333333
+    },
+    "related_words": [
+      "suffrage",
+      "election",
+      "proves",
+      "universal",
+      "hold",
+      "impossible",
+      "ecsc",
+      "representatives",
+      "fixing",
+      "euratom",
+      "another",
+      "direct",
+      "corresponding",
+      "fixed",
+      "subparagraph",
+      "act",
+      "third",
+      "september",
+      "period",
+      "set",
+      "concerning",
+      "parliament",
+      "july",
+      "eec",
+      "june",
+      "opinion",
+      "communities",
+      "decision",
+      "council",
+      "european"
+    ],
+    "prompt_length": 1470,
+    "category": "0416 electoral procedure and voting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "365",
+  "concept_data": {
+    "title": "tax relief",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tax relief, a critical concept within EU taxation policy, refers to measures that reduce the tax burden on individuals and businesses, thereby promoting economic revival and combating financial inoperability. This includes provisions for depreciable assets, which allow leasees to recover costs over time, and specific exemptions that can be geographically targeted, such as in regions like Catanzaro, Crotone, and Potenza. Tax relief can also address overcompensated sectors, ensuring a sparing approach to fiscal policy. By facilitating financial support in tougher economic climates, tax relief plays a vital role in the revival of local economies, including areas like Foggia and Vibo Valentia, while also enhancing the EU's overall financial stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:20:43.708828",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2628,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 18,
+      "selected_avg_freq": 10.266666666666667
+    },
+    "related_words": [
+      "depreciable",
+      "catanzaro",
+      "crotone",
+      "foggia",
+      "potenza",
+      "vibo",
+      "valentia",
+      "tivoli",
+      "formia",
+      "sora",
+      "cassino",
+      "ojfr",
+      "octies",
+      "tough",
+      "postcode",
+      "northumberland",
+      "argyll",
+      "bute",
+      "hawes",
+      "multipart",
+      "leasee",
+      "antifreeze",
+      "fame",
+      "incl",
+      "overcompensated",
+      "phénix",
+      "finanziari",
+      "assicurativi",
+      "revive",
+      "sparing"
+    ],
+    "prompt_length": 1637,
+    "category": "2446 taxation"
+  }
+}

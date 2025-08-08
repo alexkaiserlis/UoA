@@ -1,0 +1,63 @@
+{
+  "concept_id": "5451",
+  "concept_data": {
+    "title": "sales ban",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "market approval",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory frameworks, a \"sales ban\" often relates to the need for \"market approval\" of products, particularly in the context of agricultural chemicals and biocontrol agents. This approval process includes a thorough reevaluation of substances like triazamate and bixafen, assessing their impact on pathogens such as cydia pomonella. Regulatory bodies address concerns regarding inhalatory and ocular toxicants, ensuring stewardship of substances like fluazuron and mandipropamid. The mechanistic understanding of these chemicals, including their metabolisation and potential sublethal effects on non-target organisms, is crucial. Additionally, the use of natural compounds like margosa from azadirachta highlights the EU's commitment to sustainable practices, balancing efficacy with environmental safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:22:55.841930",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 7263,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.6133333333333333
+    },
+    "related_words": [
+      "pitch",
+      "adress",
+      "triazamate",
+      "isaria",
+      "fumosorosea",
+      "daphnid",
+      "pathogenes",
+      "sewages",
+      "bixafen",
+      "cydia",
+      "pomonella",
+      "cpgv",
+      "silthiofam",
+      "terbuthylazine",
+      "tralopyril",
+      "propham",
+      "reevaluation",
+      "ocular",
+      "inhalatory",
+      "hares",
+      "sublethal",
+      "stewardship",
+      "thiosulfate",
+      "fluazuron",
+      "bue",
+      "chlorophenoxy",
+      "margosa",
+      "azadirachta",
+      "metabolisation",
+      "netherlandsreceived"
+    ],
+    "prompt_length": 1726,
+    "category": "2031 marketing"
+  }
+}

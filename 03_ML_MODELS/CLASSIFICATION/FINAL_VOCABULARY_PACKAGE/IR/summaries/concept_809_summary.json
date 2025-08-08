@@ -1,0 +1,63 @@
+{
+  "concept_id": "809",
+  "concept_data": {
+    "title": "non-tariff restriction",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": true,
+    "preferred_term": "non-tariff barrier",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"non-tariff restrictions,\" also known as \"non-tariff barriers,\" represent obstacles to trade that do not involve tariffs. These barriers can include blockades, circulars, and suspensory measures that affect the importation of products such as fragile courgettes, strawberries, and aubergines. Non-tariff barriers can arise from various regulations, including those concerning agricultural standards and food safety, which may insist on specific conditions for growers. Such regulations can lead to contention among member states, particularly when they affect the interior market. The EU aims to mitigate these barriers to ensure smooth trade flows, allowing for the free movement of goods like peppers and melons across borders.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:13:28.886342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 470,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 518,
+      "selected_avg_freq": 193.04666666666665
+    },
+    "related_words": [
+      "blockade",
+      "representive",
+      "guyot",
+      "salaried",
+      "blockades",
+      "dockets",
+      "capolongo",
+      "maya",
+      "lorenz",
+      "steinike",
+      "weinlig",
+      "extérieur",
+      "slips",
+      "deufil",
+      "carmine",
+      "agricola",
+      "suspensory",
+      "azienda",
+      "gebrüder",
+      "produits",
+      "likened",
+      "strikes",
+      "insist",
+      "circulars",
+      "contention",
+      "sliding",
+      "alimentaires",
+      "salary",
+      "empt",
+      "wait"
+    ],
+    "prompt_length": 1708,
+    "category": "2021 international trade"
+  }
+}

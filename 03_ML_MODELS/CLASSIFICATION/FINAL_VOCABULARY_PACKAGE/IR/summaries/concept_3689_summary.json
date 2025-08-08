@@ -1,0 +1,63 @@
+{
+  "concept_id": "3689",
+  "concept_data": {
+    "title": "new materials",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "advanced materials",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"new materials,\" redirected to \"advanced materials,\" pertains to a category within EU technology and technical regulations. This framework includes a subprogramme, EURAM, which authorizes research and cooperation among member states, such as Austria, to negotiate agreements concerning advanced materials. These materials are essential for scientific advancements and economic development, involving raw and processed components. The EU's decision-making bodies, including the Parliament, play a critical role in establishing necessary agreements and providing opinions on proposals related to this field. The conclusion of these negotiations aims to enhance the community's technical capabilities and foster innovation in related sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:40:43.349096",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2105.4814814814813
+    },
+    "related_words": [
+      "euram",
+      "subprogramme",
+      "associating",
+      "authorizes",
+      "negotiate",
+      "advanced",
+      "wholly",
+      "partly",
+      "negotiated",
+      "raw",
+      "others",
+      "materials",
+      "research",
+      "includes",
+      "austria",
+      "scientific",
+      "cost",
+      "behalf",
+      "agreements",
+      "involved",
+      "powers",
+      "conclusion",
+      "field",
+      "programme",
+      "related",
+      "approved",
+      "cooperation",
+      "republic",
+      "technical",
+      "framework"
+    ],
+    "prompt_length": 1722,
+    "category": "6411 technology and technical regulations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4821",
+  "concept_data": {
+    "title": "database",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"database\" serves as a crucial tool for computerising and managing vast amounts of information. It is infused with data related to various sectors, including the tracking of counterfeits through systems like EMCS and NCTS. Databases facilitate the reidentification of tagged items, such as passeports and eartags, ensuring compliance with regulations. They also support the evaluation of deficiencies in areas like epidemiologie and viruskrankheiten. Trustworthy databases, such as EUDAMED and EUDR, are essential for simulations and the supervision of excisable goods, enhancing the plausibility of data integrity across EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:28.273014",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1871,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 54,
+      "selected_avg_freq": 23.626666666666665
+    },
+    "related_words": [
+      "falsely",
+      "detentions",
+      "infused",
+      "computerising",
+      "emcs",
+      "ncts",
+      "rename",
+      "nccs",
+      "ncc",
+      "deficiences",
+      "eudr",
+      "eureg",
+      "informatic",
+      "eudamed",
+      "searched",
+      "habitual",
+      "reidentification",
+      "passeports",
+      "bundesforschungsanstalt",
+      "tiere",
+      "epidemiologie",
+      "plausibility",
+      "tagged",
+      "counterfeits",
+      "enis",
+      "transponders",
+      "contrasts",
+      "thetis",
+      "simulations",
+      "ris"
+    ],
+    "prompt_length": 1709,
+    "category": "3236 information technology and data processing"
+  }
+}

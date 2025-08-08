@@ -1,0 +1,63 @@
+{
+  "concept_id": "6067",
+  "concept_data": {
+    "title": "virtual library",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of a \"virtual library\" within EU legal and regulatory frameworks refers to an interoperable platform that facilitates the structured storage and retrieval of documentation. This digital repository plays a pivotal role in modernising access to legal texts, ensuring fairness and objectivity in information dissemination. By employing extensible markup languages (XML) and electronic data interchange (EDI), these libraries enhance accessibility and promote the advancement of cultural heritage. They serve as flagship resources for consortia and fora, enabling the referencing of deliverables while safeguarding copyright and royalty rights. The virtual library exemplifies the EU's vision for openness and specificity in information sharing, fostering a flowering of knowledge across diverse ICT environments.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:55:12.497037",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 329,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 839,
+      "selected_avg_freq": 347.3
+    },
+    "related_words": [
+      "annuls",
+      "ubl",
+      "ebxml",
+      "extensible",
+      "orphan",
+      "plug",
+      "referencing",
+      "markup",
+      "libraries",
+      "edi",
+      "royalty",
+      "procuring",
+      "library",
+      "fore",
+      "deliverables",
+      "repositories",
+      "lock",
+      "print",
+      "underline",
+      "advancement",
+      "cultures",
+      "assigns",
+      "ict",
+      "flagship",
+      "copyright",
+      "online",
+      "interoperable",
+      "openness",
+      "objectivity",
+      "hardware"
+    ],
+    "prompt_length": 1660,
+    "category": "3221 documentation"
+  }
+}

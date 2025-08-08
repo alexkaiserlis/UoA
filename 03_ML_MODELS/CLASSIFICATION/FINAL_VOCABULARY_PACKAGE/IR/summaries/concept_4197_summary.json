@@ -1,0 +1,63 @@
+{
+  "concept_id": "4197",
+  "concept_data": {
+    "title": "motor coach",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "bus",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"motor coach\" is a redirect to the preferred term \"bus,\" which encompasses various forms of autobus used for transporting tourists and clientele across Europe. This category of land transport is crucial for facilitating reizen and tours, often involving bookings managed by exploitants. Regulations may govern aspects such as waybills, refreshments, and operational standards for companies like luxavia and transline. The backbone of this sector includes manufacturers like Iveco and Klöckner, ensuring compliance with safety and environmental standards. Legal frameworks also address the rights of passengers, enhancing the overall travel experience in regions like Trier and Minden.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:44:45.910309",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 984,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 89,
+      "selected_avg_freq": 32.74
+    },
+    "related_words": [
+      "asor",
+      "reizen",
+      "tourists",
+      "vermaat",
+      "autobedrijf",
+      "ferne",
+      "cliff",
+      "burlington",
+      "hardwick",
+      "lemgo",
+      "minden",
+      "detmold",
+      "voss",
+      "transline",
+      "worthless",
+      "sysem",
+      "waybill",
+      "luxavia",
+      "canach",
+      "luxembourgeoise",
+      "exploitants",
+      "autobus",
+      "regierungspraesident",
+      "trier",
+      "refreshments",
+      "militating",
+      "articulator",
+      "milllion",
+      "humboldt",
+      "khd"
+    ],
+    "prompt_length": 1686,
+    "category": "4816 land transport"
+  }
+}

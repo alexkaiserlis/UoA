@@ -1,0 +1,63 @@
+{
+  "concept_id": "530",
+  "concept_data": {
+    "title": "registration tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"registration tax\" refers to a fee payable in the context of national taxation regimes concerning the registration of various entities, such as trade marks and designs. This tax is often implemented as part of a broader harmonization effort within the EU, ensuring that rules and procedures are consistently applied across member states. The amount of the registration tax may vary, with fixed fees established by national offices. According to relevant EU measures, applicants may appeal decisions related to registration, and additional fees may apply for continued proceedings. The implementation of this tax is crucial for maintaining internal market integrity and fostering compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:19:34.586303",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 64,
+      "requested_words": 150,
+      "min_frequency_found": 107,
+      "max_frequency_found": 4108,
+      "selected_words": 64,
+      "selected_min_freq": 107,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2176.828125
+    },
+    "related_words": [
+      "designs",
+      "search",
+      "boards",
+      "fee",
+      "marks",
+      "fees",
+      "appeal",
+      "optional",
+      "division",
+      "mark",
+      "becomes",
+      "payable",
+      "proceedings",
+      "harmonization",
+      "continuation",
+      "registration",
+      "regime",
+      "reports",
+      "office",
+      "amounts",
+      "implemented",
+      "internal",
+      "fixed",
+      "paragraph",
+      "relevance",
+      "eea",
+      "according",
+      "trade",
+      "additional",
+      "date"
+    ],
+    "prompt_length": 1647,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4387",
+  "concept_data": {
+    "title": "port tax",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "charges for use of infrastructure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"port tax,\" redirected to \"charges for use of infrastructure,\" pertains to the EU's transport policy framework. These charges are designed to internalise externalities associated with transport, incentivising efficient use of infrastructure while ensuring that costs reflect the true impact of noisy, retrofitted transport systems. By implementing a malus and bonus system, the EU aims to encourage quieter, more sustainable journeys, particularly during night hours. This regulatory approach addresses the need for localised solutions, such as ticketing systems for trains and wagons, which can enhance the overall efficiency of transiting through tunnels and stops. Ultimately, these measures seek to create a more vigorous and tolerable transport environment, balancing the needs of keepers and users alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:37.936887",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 813,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 273,
+      "selected_avg_freq": 125.12
+    },
+    "related_words": [
+      "externality",
+      "incentivising",
+      "ndtac",
+      "quiet",
+      "internalisation",
+      "incentivise",
+      "ticketing",
+      "retrofitted",
+      "csts",
+      "nrvs",
+      "nrv",
+      "cst",
+      "retrofit",
+      "contrasting",
+      "silent",
+      "localised",
+      "retrofitting",
+      "ticket",
+      "wagon",
+      "malus",
+      "bonus",
+      "doubling",
+      "axle",
+      "deny",
+      "brake",
+      "bonuses",
+      "night",
+      "noisy",
+      "surcharge",
+      "pick"
+    ],
+    "prompt_length": 1684,
+    "category": "4806 transport policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2432",
+  "concept_data": {
+    "title": "United Nations Environment Programme",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN Environment Programme",
+    "relation_type": "USE"
+  },
+  "summary": "The \"United Nations Environment Programme\" (UNEP) plays a crucial role in global environmental governance, particularly concerning hazardous substances and chemicals. In the EU regulatory framework, UNEP's guidelines influence the authorisations and labelling of dangerous agents, including pesticides like parathion and formulations involving tetraethyl and tetramethyl compounds. The Rotterdam Convention, which UNEP supports, facilitates the inclusion and withdrawal of hazardous substances from international trade, ensuring that dangerous chemicals are appropriately managed. The EU often reflects UNEP's principles in its legislation, promoting the approximation of standards for chemical safety, thereby enhancing the protection of human health and the environment against severely hazardous materials.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:17:20.940740",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 152,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4073,
+      "selected_avg_freq": 1655.9266666666667
+    },
+    "related_words": [
+      "tetraethyl",
+      "knock",
+      "tetramethyl",
+      "parathion",
+      "unep",
+      "formulations",
+      "pic",
+      "rotterdam",
+      "diesel",
+      "petrol",
+      "pesticide",
+      "pesticides",
+      "severely",
+      "banned",
+      "fao",
+      "hazardous",
+      "chemicals",
+      "fuels",
+      "dangerous",
+      "secretariat",
+      "agents",
+      "authorisations",
+      "consent",
+      "minor",
+      "packaging",
+      "chemical",
+      "labelling",
+      "exemptions",
+      "anti",
+      "reflected"
+    ],
+    "prompt_length": 1742,
+    "category": "7606 United Nations"
+  }
+}

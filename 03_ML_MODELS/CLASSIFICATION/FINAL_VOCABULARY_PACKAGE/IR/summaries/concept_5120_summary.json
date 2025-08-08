@@ -1,0 +1,63 @@
+{
+  "concept_id": "5120",
+  "concept_data": {
+    "title": "regional government",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regional government\" within the EU legal framework refers to the establishment of governance structures that operate at a sub-national level, aimed at managing local interests and resources. Regional governments, such as those in Belgium, France, Spain, the Netherlands, and Ireland, play a crucial role in the sustainable exploitation and conservation of regional resources, including fisheries and waters. These bodies are tasked with operational responsibilities, declaring principles that ensure conformity with EU regulations. They engage with various councils and groups, transmitting recommendations and evaluating the interests of their regions, thereby becoming key players in the exploration and management of regional sectors.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:02:14.452894",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 109,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 109,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1937.6951219512196
+    },
+    "related_words": [
+      "ices",
+      "councils",
+      "exploration",
+      "declaring",
+      "seas",
+      "ready",
+      "western",
+      "exploitation",
+      "conservation",
+      "waters",
+      "evaluated",
+      "north",
+      "excluding",
+      "transmitted",
+      "fisheries",
+      "sustainable",
+      "operational",
+      "aims",
+      "belgium",
+      "recommendation",
+      "interested",
+      "considers",
+      "groups",
+      "netherlands",
+      "advisory",
+      "representatives",
+      "conformity",
+      "ireland",
+      "establishes",
+      "france"
+    ],
+    "prompt_length": 1713,
+    "category": "0436 executive power and public service"
+  }
+}

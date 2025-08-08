@@ -1,0 +1,63 @@
+{
+  "concept_id": "5715",
+  "concept_data": {
+    "title": "obesity",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "nutritional disease",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"obesity\" is redirected to the preferred term \"nutritional disease,\" encompassing a range of dietary issues, including gluten intolerance and coeliac disease. This concept is crucial for formulating appropriate dietary guidelines and regulations, particularly for infants and children who may possess sensitivities to grains like wheat (triticum), barley, and oats. The Codex Alimentarius provides a framework for labelling foods, ensuring that descriptions do not mislead consumers regarding the suitability of ingredients. Campaigns aimed at fostering awareness about nutritional diseases are essential, as they help address dietary challenges and promote healthy eating habits, particularly among vulnerable populations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:16:00.846256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 261,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1338,
+      "selected_avg_freq": 611.22
+    },
+    "related_words": [
+      "intolerant",
+      "coeliac",
+      "kamut",
+      "tolerate",
+      "fostered",
+      "triticum",
+      "intolerance",
+      "spelt",
+      "confusing",
+      "gluten",
+      "infant",
+      "possesses",
+      "alimentarius",
+      "baby",
+      "oats",
+      "suggesting",
+      "codex",
+      "mislead",
+      "infants",
+      "diet",
+      "dietary",
+      "substituted",
+      "scientifically",
+      "grains",
+      "rye",
+      "nutritional",
+      "suitability",
+      "labelled",
+      "formulae",
+      "harvesting"
+    ],
+    "prompt_length": 1697,
+    "category": "2841 health"
+  }
+}

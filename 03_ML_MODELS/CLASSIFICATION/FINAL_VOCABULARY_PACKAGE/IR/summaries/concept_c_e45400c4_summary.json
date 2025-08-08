@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_e45400c4",
+  "concept_data": {
+    "title": "application programming interface",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An application programming interface (API) is a set of protocols and tools enabling software applications to communicate and interact seamlessly. In the context of EU legal and regulatory frameworks, APIs play a crucial role in ensuring interoperability among digital services, particularly in data processing and information technology sectors. They facilitate compliance with regulations such as the General Data Protection Regulation (GDPR) by allowing secure data exchanges while maintaining user privacy. Furthermore, APIs are integral to the implementation of the Digital Single Market strategy, promoting innovation and enhancing access to digital services across member states, thereby fostering a competitive digital economy.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:38:36.684260",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1215,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4658",
+  "concept_data": {
+    "title": "truck",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "commercial vehicle",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"truck\" is redirected to \"commercial vehicle,\" encompassing a range of vehicles designed for transporting goods. Regulations address aspects such as emissions, including carbon monoxide (monixide), and vehicle safety features like braked systems and conspicuity measures for pedestrians, cyclists, and motorcyclists. The design of commercial vehicles often includes swivel backrests and handholds for driver comfort, while intermodality is encouraged at junctions and roundabouts to enhance traffic flow. Compliance with standards on leaktightness and retrofitting for environmental considerations is essential, particularly for the heaviest vehicles like semitrailers. These regulations aim to ensure safety and efficiency in land transport, reflecting the EU's commitment to sustainable mobility.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:19:51.569875",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 2016,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 25,
+      "selected_avg_freq": 12.906666666666666
+    },
+    "related_words": [
+      "backrest",
+      "junctions",
+      "roundabouts",
+      "halving",
+      "transposes",
+      "intermodality",
+      "exent",
+      "ralating",
+      "swivel",
+      "clevis",
+      "idling",
+      "cng",
+      "reclined",
+      "appoximation",
+      "ambulances",
+      "heaviest",
+      "emisison",
+      "monixide",
+      "obds",
+      "devide",
+      "semitrailer",
+      "braked",
+      "decelerations",
+      "skid",
+      "knife",
+      "testers",
+      "articulator",
+      "milllion",
+      "humboldt",
+      "khd"
+    ],
+    "prompt_length": 1717,
+    "category": "4816 land transport"
+  }
+}

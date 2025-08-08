@@ -1,0 +1,63 @@
+{
+  "concept_id": "2402",
+  "concept_data": {
+    "title": "planning",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "economic planning",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"planning,\" redirected to \"economic planning,\" is pivotal in EU economic policy, particularly concerning the allocation of funds and the establishment of multiannual frameworks. Economic planning involves assessing commitments made by member governments and the performance of financial mechanisms, such as those outlined in the Cotonou Agreement and partnerships with ACP countries. Meetings in Luxembourg often focus on the exact disbursements necessary for the realisation of agreed protocols. This process is conducted in conjunction with representatives from various regions, including the Caribbean and Pacific, ensuring that all members are aligned on the degree of financial support required for effective implementation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:13:59.771147",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 33,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 33,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1887.5853658536585
+    },
+    "related_words": [
+      "edf",
+      "ouagadougou",
+      "disbursements",
+      "realisation",
+      "cotonou",
+      "caribbean",
+      "things",
+      "exact",
+      "pacific",
+      "ministers",
+      "acp",
+      "protocols",
+      "african",
+      "multiannual",
+      "assessing",
+      "governments",
+      "degree",
+      "partnership",
+      "commitments",
+      "luxembourg",
+      "followed",
+      "conducted",
+      "allocated",
+      "mechanism",
+      "performance",
+      "funds",
+      "representatives",
+      "five",
+      "fund",
+      "together"
+    ],
+    "prompt_length": 1697,
+    "category": "1606 economic policy"
+  }
+}

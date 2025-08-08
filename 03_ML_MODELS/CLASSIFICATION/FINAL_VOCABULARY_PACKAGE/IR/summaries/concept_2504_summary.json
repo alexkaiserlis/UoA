@@ -1,0 +1,63 @@
+{
+  "concept_id": "2504",
+  "concept_data": {
+    "title": "taxation policy",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "fiscal policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"taxation policy,\" redirected to \"fiscal policy,\" encompasses the strategies employed by EU member states to ameliorate economic conditions and stimulate growth. It rests on the idea that effective fiscal measures can connect households and taxpayers with governmental objectives, minimising evasion and avoidance. Through strictest regulations, the EU advises on differentiation in tax systems, ensuring that existing frameworks afford equitable treatment across districts. The impetus for reform often emerges from seminars and exercises that informally discuss the advisability of various approaches. By shifting focus to sustainable practices, such as reducing sulphur in diesel and petrol, the EU aims to address environmental concerns while supporting economic cycles.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:12:46.747561",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 558,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 622,
+      "selected_avg_freq": 308.8666666666667
+    },
+    "related_words": [
+      "vies",
+      "ameliorate",
+      "matthaeus",
+      "fiscalis",
+      "converge",
+      "stimulated",
+      "rests",
+      "informally",
+      "ideal",
+      "taxpayers",
+      "strictest",
+      "ppm",
+      "ideas",
+      "connect",
+      "emerge",
+      "advising",
+      "impetus",
+      "stimulus",
+      "seminars",
+      "suggestions",
+      "affording",
+      "minimising",
+      "residing",
+      "connections",
+      "existent",
+      "households",
+      "switch",
+      "diesel",
+      "advisability",
+      "exhaustion"
+    ],
+    "prompt_length": 1705,
+    "category": "2446 taxation"
+  }
+}

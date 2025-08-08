@@ -1,0 +1,63 @@
+{
+  "concept_id": "5676",
+  "concept_data": {
+    "title": "locust",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "insect",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"locust,\" categorized under the natural environment, is redirected to the preferred term \"insect.\" In EU legal and regulatory frameworks, locusts, akin to other lepidopteran species, can impact monoculture farming, particularly in regions with chestnuts and hills. Their trophic interactions are significant, as they may affect the populations of gall wasps and other pests like the oriental rhynchophorus. Effective management methods, including the use of pheromones and aspirators, are essential for minimizing damage. Regulatory measures often involve surveying and capturing these insects to prevent outbreaks, ensuring ecological balance and protecting woody plant species such as Castanea.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:27:18.843364",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 786,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 246,
+      "selected_avg_freq": 84.12
+    },
+    "related_words": [
+      "vac",
+      "aspirator",
+      "timelimits",
+      "cryptic",
+      "malasiaca",
+      "yasumatsu",
+      "chestnuts",
+      "hills",
+      "gall",
+      "wasp",
+      "dicotyledonous",
+      "quadraspidiotus",
+      "perniciosus",
+      "comst",
+      "monoculture",
+      "methodically",
+      "lepidoptera",
+      "olivier",
+      "epitrix",
+      "cucumeris",
+      "similaris",
+      "gentner",
+      "subcrinita",
+      "lec",
+      "tuberis",
+      "forster",
+      "castanea",
+      "pheromones",
+      "harris",
+      "trophic"
+    ],
+    "prompt_length": 1707,
+    "category": "5211 natural environment"
+  }
+}

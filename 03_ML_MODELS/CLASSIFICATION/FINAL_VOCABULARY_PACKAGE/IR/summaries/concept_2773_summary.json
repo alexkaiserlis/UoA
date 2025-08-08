@@ -1,0 +1,63 @@
+{
+  "concept_id": "2773",
+  "concept_data": {
+    "title": "pharmaceutical speciality",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "pharmaceutical product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"pharmaceutical speciality\" is a redirect to the preferred term \"pharmaceutical product.\" This encompasses a wide array of substances, including interferon and biologischer agents, which are crucial for treating various conditions. Regulatory frameworks necessitate comprehensive dossiers for approval, detailing ingredients such as dextrose, carrageenate, and thickener compounds. The community's focus on safety includes monitoring substances like thiametoxam and algaecides, ensuring they meet health standards. Additionally, products may involve complex formulations, including mucilages and hydrogencarbonate, to enhance efficacy. Thus, understanding these terms is vital for compliance and effective pharmaceutical development within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:57.095206",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 3089,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.026666666666666
+    },
+    "related_words": [
+      "interferon",
+      "qrd",
+      "polymethine",
+      "staining",
+      "leukocytes",
+      "sysmex",
+      "halburg",
+      "hafen",
+      "pmpa",
+      "groundwatr",
+      "develping",
+      "commununity",
+      "biologischer",
+      "pflanzenschutz",
+      "szx",
+      "inprovalicarb",
+      "nicobifen",
+      "thiametoxam",
+      "giocladium",
+      "tecnazene",
+      "hickson",
+      "welch",
+      "penoxsulam",
+      "pethoxamide",
+      "asu",
+      "tkc",
+      "stahler",
+      "tomen",
+      "ciel",
+      "lantmännen"
+    ],
+    "prompt_length": 1733,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6547",
+  "concept_data": {
+    "title": "European association",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European association\" pertains to the legal and regulatory frameworks that facilitate partnerships among EU member states and candidate countries, particularly in the Balkans. This association aims to affirm shared values and commitments while addressing specificities related to membership prospects. The EU's agenda includes intensifying reforms in countries like Albania, Bosnia and Herzegovina, and North Macedonia, moving closer to integration through coherent programming and endorsed timetables. Summits in Zagreb and Thessaloniki have enriched discussions, focusing on challenges and the stabilisation of the wider region. The association serves as an integral checklist for candidates, identifying ways to overcome obstacles and enhance cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:09.905176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 185,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2486,
+      "selected_avg_freq": 971.28
+    },
+    "related_words": [
+      "checklist",
+      "zagreb",
+      "affirming",
+      "mainstream",
+      "intensifying",
+      "feira",
+      "fullest",
+      "balkan",
+      "enriched",
+      "informal",
+      "timetables",
+      "commit",
+      "thessaloniki",
+      "revisions",
+      "summit",
+      "specificities",
+      "prospect",
+      "partnerships",
+      "balkans",
+      "copenhagen",
+      "serving",
+      "candidates",
+      "albania",
+      "agenda",
+      "challenges",
+      "reforms",
+      "identifies",
+      "observe",
+      "heads",
+      "stabilisation"
+    ],
+    "prompt_length": 1684,
+    "category": "2826 social affairs"
+  }
+}

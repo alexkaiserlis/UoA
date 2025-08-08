@@ -1,0 +1,63 @@
+{
+  "concept_id": "6361",
+  "concept_data": {
+    "title": "strength of materials",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "resistance of materials",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"strength of materials,\" redirected to \"resistance of materials,\" is crucial in EU legal and regulatory frameworks concerning construction and building technology. It defines the specifications for materials used in various applications, including windows, doors, and roofs, ensuring they meet safety and performance standards. Manufacturers are responsible for attesting to the compliance of their products, which may include waterproofing membranes and adhesives. The existence of continuous surveillance and certification mandates guarantees that materials correspond to defined conditions. This concept supports the construction industry's responsibility to select desirable materials, thus enhancing the overall integrity and safety of buildings.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:04:55.995033",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 133,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 133,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1726.0
+    },
+    "related_words": [
+      "shutters",
+      "gates",
+      "translucent",
+      "waterproofing",
+      "blinds",
+      "responsability",
+      "adhesives",
+      "membranes",
+      "windows",
+      "roof",
+      "doors",
+      "kits",
+      "hardware",
+      "onerous",
+      "mandates",
+      "attestation",
+      "attesting",
+      "select",
+      "glass",
+      "preference",
+      "factory",
+      "liquid",
+      "family",
+      "manufacturer",
+      "self",
+      "detail",
+      "corresponds",
+      "building",
+      "construction",
+      "possibilities"
+    ],
+    "prompt_length": 1781,
+    "category": "6411 technology and technical regulations"
+  }
+}

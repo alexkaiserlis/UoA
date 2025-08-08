@@ -1,0 +1,63 @@
+{
+  "concept_id": "919",
+  "concept_data": {
+    "title": "search for resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "evaluation of resources",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"search for resources,\" a redirect to \"evaluation of resources,\" pertains to the EU's environmental policy framework. It encompasses the prospecting and mining of natural resources, including uranium, while emphasizing the need for strict evaluations and calculations of their environmental impact. This process is fundamental for achieving sustainable resource management and harmonization across member states. The EU authorizes projects that secure supplies and minimize dependence on external sources, often involving taxation mechanisms such as VAT. Evaluating resources also includes recording turnover and contributions to ensure compliance with treaties and regulations, thus promoting responsible resource utilization and expansion within the Hellenic context.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:52:23.463952",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 157,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 3636,
+      "selected_avg_freq": 1532.94
+    },
+    "related_words": [
+      "prospecting",
+      "uranium",
+      "taxed",
+      "confine",
+      "dependence",
+      "tend",
+      "mining",
+      "evaluating",
+      "approximate",
+      "avail",
+      "accruing",
+      "prime",
+      "calculations",
+      "inherent",
+      "authorizes",
+      "vat",
+      "expansion",
+      "hellenic",
+      "taxation",
+      "expressly",
+      "turnover",
+      "taxes",
+      "recording",
+      "supplying",
+      "secure",
+      "ceased",
+      "instance",
+      "treaties",
+      "estimates",
+      "strictly"
+    ],
+    "prompt_length": 1734,
+    "category": "5206 environmental policy"
+  }
+}

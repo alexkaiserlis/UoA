@@ -1,0 +1,63 @@
+{
+  "concept_id": "7126",
+  "concept_data": {
+    "title": "European Food Safety Authority",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Food Safety Authority (EFSA) is a pivotal EU institution responsible for ensuring food safety through scientific assessments and risk management. It engages in diverse fields such as bacteriology, virology, and mycology, addressing issues related to foodborne parasites like anisakids and pathogens such as Salmonella enteritidis. EFSA's role includes evaluating the prevalences of antimicrobial resistance in food products and highlighting the importance of nutrient profiles in aquaculture, including both freshwater and seawater environments. By providing templates for regulatory frameworks, EFSA supports member states in implementing effective food safety measures, ensuring that food products are bacteriologically safe and compliant with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:45:14.429520",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 926,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 235,
+      "selected_avg_freq": 102.81333333333333
+    },
+    "related_words": [
+      "dictionaries",
+      "larval",
+      "anisakids",
+      "entomology",
+      "mycology",
+      "botany",
+      "agronomy",
+      "buchneri",
+      "eaten",
+      "candidatures",
+      "bacteriology",
+      "cfu",
+      "ensile",
+      "bacteriologically",
+      "refit",
+      "prevalences",
+      "flagging",
+      "shedding",
+      "plantarum",
+      "recurrent",
+      "onshore",
+      "parasites",
+      "seawater",
+      "virology",
+      "atcc",
+      "antimicrobials",
+      "blocking",
+      "aerobic",
+      "broadest",
+      "moderately"
+    ],
+    "prompt_length": 1729,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

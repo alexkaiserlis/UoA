@@ -1,0 +1,26 @@
+{
+  "concept_id": "7358",
+  "concept_data": {
+    "title": "railway station",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"railway station\" is a critical infrastructure component within the EU's land transport framework, facilitating the movement of passengers and goods across member states. It serves as a nexus for various transport modalities, enhancing connectivity and promoting sustainable mobility. In the context of EU legal and regulatory documents, railway stations are subject to directives that govern interoperability, safety standards, and accessibility, ensuring compliance with the European Single Railway Area. The regulatory framework aims to foster competition, improve service quality, and support the integration of rail transport into the broader transport network, ultimately contributing to the EU's environmental and economic objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:30.854796",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "4816 land transport"
+  }
+}

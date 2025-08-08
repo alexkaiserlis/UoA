@@ -1,0 +1,63 @@
+{
+  "concept_id": "1569",
+  "concept_data": {
+    "title": "raw milk",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Raw milk, categorized under processed agricultural produce (6016), is subject to stringent EU regulations to ensure calitatea (quality) and safety for consumers. The legal framework encompasses various aspects, including the handling and processing of milk from species such as camelus and dromedarius. Notable entities like biomilk and eurocheese contribute to the market, while local producers like harghita and bucovina emphasize regional specialties. Compliance with standards set by organizations such as mlekoprodukt and agrotranscomex is essential. Additionally, terms like albumines and lacto are critical in assessing nutritional value. The regulatory landscape also involves monitoring by firms like milkkomm and bulmilk, ensuring adherence to EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:11:29.799171",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 757,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 167,
+      "selected_avg_freq": 35.11333333333334
+    },
+    "related_words": [
+      "albumines",
+      "pdpa",
+      "calitatea",
+      "biomilk",
+      "romfulda",
+      "carmo",
+      "lact",
+      "carmolact",
+      "primulact",
+      "harghita",
+      "bomilact",
+      "paulact",
+      "promilch",
+      "eurocheese",
+      "mirdatod",
+      "primalact",
+      "niro",
+      "serv",
+      "bucovina",
+      "suceava",
+      "marian",
+      "vranlact",
+      "mih",
+      "binco",
+      "nic",
+      "costi",
+      "totallact",
+      "duvadi",
+      "tocar",
+      "zada"
+    ],
+    "prompt_length": 1625,
+    "category": "6016 processed agricultural produce"
+  }
+}

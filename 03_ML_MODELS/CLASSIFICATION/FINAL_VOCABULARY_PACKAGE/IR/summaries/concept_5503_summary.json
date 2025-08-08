@@ -1,0 +1,63 @@
+{
+  "concept_id": "5503",
+  "concept_data": {
+    "title": "industrial heat",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "heating",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"industrial heat,\" redirected to the preferred term \"heating,\" encompasses various applications in EU legal and regulatory frameworks related to building and public works. This includes the use of heaters and circulators for processes such as pasteurising, sterilising, and vaporising. Regulations often address the efficiency of heating appliances, including standalone units and those integrated with thermostats, to ensure responsible energy consumption measured in MWh or TWh. Furthermore, guidelines may cover the installation of systems like immersion heaters and condensing boilers, which must be designed to prevent leaks and ensure reproducible performance. The EU promotes rationally designed systems that seamlessly integrate into diverse settings, from campsites to industrial facilities, ensuring optimal thermal management.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:20:02.815020",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1111,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 142,
+      "selected_avg_freq": 60.11333333333334
+    },
+    "related_words": [
+      "lends",
+      "thermostat",
+      "agitator",
+      "sterilising",
+      "evaporating",
+      "vaporising",
+      "condensing",
+      "thermostats",
+      "hung",
+      "cisterns",
+      "immersed",
+      "pierceable",
+      "cartridges",
+      "camping",
+      "burner",
+      "campsites",
+      "tents",
+      "colder",
+      "circulator",
+      "oven",
+      "narrows",
+      "pasteurising",
+      "applicances",
+      "cartridge",
+      "steaming",
+      "glandless",
+      "standalone",
+      "circulators",
+      "instantaneous",
+      "leaks"
+    ],
+    "prompt_length": 1724,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "844",
+  "concept_data": {
+    "title": "ecological balance",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"ecological balance\" within EU legal and regulatory frameworks fundamentally pertains to the maintenance of biodiversity and the sustainable management of habitats. It encompasses the interactions among flora, fauna, and their surroundings, aiming to minimize damage from alien species introductions and exploitation of natural resources. Regulatory measures often include translocations of wildlife to restore ecological integrity, while discussions on climate impacts focus on beneficial solutions for local farmers and aquaculture. By exercising transparent informatics and maintaining registers of species density, the EU seeks to attain a harmonious coexistence of living organisms, ensuring that ecological factors are prioritized in environmental policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:30:24.849016",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 256,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1794,
+      "selected_avg_freq": 894.84
+    },
+    "related_words": [
+      "translocations",
+      "alien",
+      "informatics",
+      "surroundings",
+      "introductions",
+      "wildlife",
+      "absent",
+      "habitats",
+      "peoples",
+      "fundamentally",
+      "biodiversity",
+      "fauna",
+      "flora",
+      "locally",
+      "weighting",
+      "nitrogen",
+      "greenland",
+      "participated",
+      "registers",
+      "ecological",
+      "exercising",
+      "birds",
+      "minimise",
+      "density",
+      "aquatic",
+      "focus",
+      "beneficial",
+      "island",
+      "climate",
+      "wild"
+    ],
+    "prompt_length": 1695,
+    "category": "5211 natural environment"
+  }
+}

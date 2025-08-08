@@ -1,0 +1,63 @@
+{
+  "concept_id": "1034",
+  "concept_data": {
+    "title": "International Atomic Energy Agency",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The International Atomic Energy Agency (IAEA) is a pivotal world organization that plays a crucial role in the regulation of atomic energy and the promotion of safe nuclear technology. Within the EU legal framework, the IAEA's safeguards are essential for ensuring that nuclear installations operate seamlessly and responsibly. The agency's mandate includes overseeing the design and engineering of reactors, monitoring radioactivity and radiation intensity, and facilitating international cooperation through networks and memoranda. The IAEA's commitment to strengthening global relations on nuclear safety is reflected in its continuous efforts to communicate timely updates and proven technologies, thereby reinforcing the understanding of radiological implications for member states, including those in Europe, America, Japan, and Russia.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:34:55.934495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 171,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3113,
+      "selected_avg_freq": 1287.0466666666666
+    },
+    "related_words": [
+      "eurdep",
+      "iter",
+      "mature",
+      "thermonuclear",
+      "iaea",
+      "seamless",
+      "reactor",
+      "excellent",
+      "radioactivity",
+      "radiological",
+      "radiation",
+      "dose",
+      "platform",
+      "engineering",
+      "intensity",
+      "internet",
+      "experimental",
+      "proven",
+      "transmit",
+      "installations",
+      "safeguards",
+      "russian",
+      "memorandum",
+      "worldwide",
+      "expansion",
+      "reinforce",
+      "federation",
+      "participants",
+      "japan",
+      "networks"
+    ],
+    "prompt_length": 1730,
+    "category": "7621 world organisations"
+  }
+}

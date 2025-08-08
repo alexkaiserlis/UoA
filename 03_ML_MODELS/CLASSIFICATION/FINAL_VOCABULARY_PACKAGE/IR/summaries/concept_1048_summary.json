@@ -1,0 +1,63 @@
+{
+  "concept_id": "1048",
+  "concept_data": {
+    "title": "staff of the EC",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European official",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"staff of the EC\" redirects to \"European official,\" encompassing individuals engaged in the European Commission's operations. These officials adhere to the tenets of EU law, ensuring compliance with applicable regulations. Their roles include interpreting treaties and facilitating communication among colleagues, such as interpreters and clerks. Recruitment processes involve assessing candidatures and managing probationary periods, with a focus on seniority and necessary qualifications. The remuneration structure is designed to reflect the diverse roles, including conciliators and forensic experts, while also considering shiftwork and subsistence needs. This framework supports the establishment of a competent and effective European civil service.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:38:20.702849",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1574,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 67,
+      "selected_avg_freq": 29.02
+    },
+    "related_words": [
+      "tenets",
+      "physentzides",
+      "eugenio",
+      "ceccotti",
+      "iaa",
+      "teaty",
+      "naka",
+      "hotel",
+      "subsistance",
+      "sigle",
+      "applicaple",
+      "horstpeter",
+      "kreppel",
+      "sean",
+      "raepenbusch",
+      "retiring",
+      "horeca",
+      "overnight",
+      "conciliator",
+      "cents",
+      "colleagues",
+      "interpreters",
+      "establising",
+      "renumeration",
+      "weigthing",
+      "conflicted",
+      "consejo",
+      "telefónica",
+      "clerks",
+      "cunsulting"
+    ],
+    "prompt_length": 1756,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

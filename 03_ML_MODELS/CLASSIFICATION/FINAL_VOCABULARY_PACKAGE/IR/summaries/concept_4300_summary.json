@@ -1,0 +1,63 @@
+{
+  "concept_id": "4300",
+  "concept_data": {
+    "title": "organizational structure",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "company structure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"organizational structure,\" redirected to \"company structure,\" encompasses the framework through which businesses, including SMEs and larger corporations, are organized and governed within the EU. This structure is crucial for managing various variables, such as employee roles, partnerships, and investor relations. It plays a significant role in facilitating mergers and takeovers, influencing the dynamics of entrepreneurship and venture capital. Regulatory frameworks, including those governing UCITS and banking, require companies to maintain clear identifiers and registers to ensure compliance. Moreover, the organizational structure must adapt to demographic changes and financial instruments like bonds and mortgages, which can pose costly challenges for companies. Understanding this totality is essential for effective governance and strategic planning in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:22:45.641249",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 710,
+      "selected_avg_freq": 338.74
+    },
+    "related_words": [
+      "demography",
+      "takeovers",
+      "reconciling",
+      "lightening",
+      "ucits",
+      "outs",
+      "affiliates",
+      "mortgage",
+      "bond",
+      "dominated",
+      "overhaul",
+      "conflicting",
+      "entrepreneurship",
+      "extrapolation",
+      "issuer",
+      "ventures",
+      "identifiers",
+      "totality",
+      "mergers",
+      "investor",
+      "outward",
+      "employee",
+      "pension",
+      "bonds",
+      "partnerships",
+      "expenditures",
+      "transferable",
+      "track",
+      "invest",
+      "resident"
+    ],
+    "prompt_length": 1736,
+    "category": "4006 business organisation"
+  }
+}

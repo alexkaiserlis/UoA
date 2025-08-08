@@ -1,0 +1,63 @@
+{
+  "concept_id": "2845",
+  "concept_data": {
+    "title": "animal protein",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"animal protein\" within EU legal and regulatory frameworks pertains to processed agricultural produce derived from animal sources. This includes proteinaceous materials such as meat and bone meal (MBM), which must adhere to strict regulations to prevent transmissibility of diseases, including encephalopathies. The processing methods, such as pasteurization and hydrolysates production, are critical for ensuring safety and digestibility. Regulatory measures also encompass the use of colostral components and the prohibition of certain feed practices. Additionally, the labeling of petfoods and other products often employs pictograms to inform consumers, reflecting the importance of transparency in food safety and nutritional standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:23.877103",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1286,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 137,
+      "selected_avg_freq": 57.873333333333335
+    },
+    "related_words": [
+      "pasteurization",
+      "shelling",
+      "biomerx",
+      "sterreichischer",
+      "serei",
+      "encephopathies",
+      "proteinaceous",
+      "spicules",
+      "prpsc",
+      "histopathological",
+      "immunohistochemical",
+      "immunochemical",
+      "digested",
+      "replacers",
+      "colostral",
+      "died",
+      "pictograms",
+      "colostrums",
+      "molkerei",
+      "burial",
+      "overpayments",
+      "petfoods",
+      "untanned",
+      "prohibiton",
+      "verband",
+      "yolk",
+      "epidemio",
+      "cra",
+      "kcal",
+      "hermetically"
+    ],
+    "prompt_length": 1742,
+    "category": "6016 processed agricultural produce"
+  }
+}

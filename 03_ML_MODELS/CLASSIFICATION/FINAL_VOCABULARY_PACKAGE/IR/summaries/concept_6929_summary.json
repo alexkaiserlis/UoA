@@ -1,0 +1,26 @@
+{
+  "concept_id": "6929",
+  "concept_data": {
+    "title": "telemedicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Telemedicine refers to the provision of healthcare services through digital communication technologies, enabling remote diagnosis, treatment, and monitoring of patients. Within the EU legal and regulatory framework, telemedicine is increasingly recognized as a vital component of health services, particularly in enhancing access to care and improving patient outcomes. The European Commission has initiated various regulatory measures to ensure the safe and effective implementation of telemedicine, focusing on data protection, interoperability, and quality standards. This evolving landscape necessitates compliance with EU directives and regulations, which aim to harmonize telemedicine practices across member states while safeguarding patient rights and privacy.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:18:21.032542",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1158,
+    "category": "2841 health"
+  }
+}

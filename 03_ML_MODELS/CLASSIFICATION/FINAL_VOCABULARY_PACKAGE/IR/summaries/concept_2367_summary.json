@@ -1,0 +1,63 @@
+{
+  "concept_id": "2367",
+  "concept_data": {
+    "title": "pharmacology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pharmacology, a critical domain within natural and applied sciences, encompasses the study of drug synthesis, pharmacological effects, and the pharmacotoxicological profiles of substances. In the EU regulatory framework, pharmacology is essential for developing monographs within the pharmacopoeia, ensuring that drugs, including narcotics and proprietary formulations, meet stringent safety standards. Regulatory bodies utilize spectrophotometric and chromatograph techniques to assess the adequacy of thickening agents like carrageenate and mucilages in drug formulations. Updates to pharmacological guidelines aim to minimise risks for addicts and ensure that extracted compounds, such as dextrose and sucrose, are safe for circulation in the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:50.112022",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 438,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 625,
+      "selected_avg_freq": 258.12
+    },
+    "related_words": [
+      "mucilages",
+      "dextrose",
+      "carrageenate",
+      "thickener",
+      "heterocycles",
+      "pharmaceutic",
+      "justifed",
+      "adquate",
+      "thickening",
+      "spectrophotometric",
+      "pharmaco",
+      "narcotics",
+      "heterocyclic",
+      "addicts",
+      "pharmacotoxicological",
+      "agar",
+      "chromatograph",
+      "monographs",
+      "perkin",
+      "elmer",
+      "riding",
+      "thickeners",
+      "repetitive",
+      "locust",
+      "pharmacological",
+      "detector",
+      "pharmacopoeia",
+      "assembling",
+      "minimised",
+      "deprive"
+    ],
+    "prompt_length": 1750,
+    "category": "3606 natural and applied sciences"
+  }
+}

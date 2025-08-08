@@ -1,0 +1,63 @@
+{
+  "concept_id": "1797",
+  "concept_data": {
+    "title": "negotiated contract",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"negotiated contract\" within the EU trade policy framework refers to agreements concluded through a flexible tendering process, allowing for the direct awarding of contracts to suppliers. This approach is particularly beneficial in addressing sudden shortages of essential goods, such as maize, tomatoes, and vegetables, which are often transported to local ports like Douala and Durban. By recognizing the welfare of refugees and mobilizing resources efficiently, the EU can ensure that food supplies, including cereals and fruit, are delivered to destinations like Lusaka and Djamena. These contracts are designed to be responsive and adaptable, ultimately supporting the economic stability of nations involved.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:08:33.023420",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 154,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 3824,
+      "selected_avg_freq": 1606.5133333333333
+    },
+    "related_words": [
+      "benevolent",
+      "douala",
+      "djamena",
+      "durban",
+      "perish",
+      "lusaka",
+      "quicker",
+      "shortages",
+      "brief",
+      "commissioner",
+      "zambia",
+      "refugees",
+      "mobilization",
+      "sudden",
+      "awarding",
+      "meal",
+      "tomatoes",
+      "cif",
+      "tendering",
+      "transported",
+      "maize",
+      "destined",
+      "port",
+      "flexible",
+      "concentrated",
+      "welfare",
+      "invitation",
+      "awarded",
+      "concluding",
+      "supplying"
+    ],
+    "prompt_length": 1661,
+    "category": "2006 trade policy"
+  }
+}

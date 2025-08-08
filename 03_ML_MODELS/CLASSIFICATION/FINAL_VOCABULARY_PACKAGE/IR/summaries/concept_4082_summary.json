@@ -1,0 +1,63 @@
+{
+  "concept_id": "4082",
+  "concept_data": {
+    "title": "weights and measures",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"weights and measures\" within EU legal and regulatory frameworks pertains to the standardization of measurement units, crucial for ensuring fair trade and consumer protection. This includes the regulation of instruments such as weighers and alcoholometers, which must adhere to specifications set by the CGPM. The EU mandates compliance with conventions that define measurement prefixes and submultiples, ensuring that results from checkweighing and volumetric assessments are consistent. The regulation also encompasses agricultural products, such as graminae and legumes like lupinus and plantago, where precise measurements are vital for cropping and trade. Compliance with these standards fosters acknowledgment of value and promotes equitable market practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:23:34.558427",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1253,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 88,
+      "selected_avg_freq": 30.953333333333333
+    },
+    "related_words": [
+      "millimetre",
+      "kilopascal",
+      "cgpm",
+      "weighers",
+      "checkweighing",
+      "isf",
+      "graminae",
+      "valeur",
+      "conventionnelle",
+      "résultat",
+      "pesées",
+      "plantago",
+      "lanceolata",
+      "biserrula",
+      "pelecinus",
+      "glaber",
+      "uliginosus",
+      "italica",
+      "murex",
+      "rugosa",
+      "scutelatta",
+      "truncatula",
+      "ornithopus",
+      "compressus",
+      "fragiferum",
+      "glanduliferum",
+      "hirtum",
+      "michelianum",
+      "squarrosum",
+      "subterraneum"
+    ],
+    "prompt_length": 1739,
+    "category": "6411 technology and technical regulations"
+  }
+}

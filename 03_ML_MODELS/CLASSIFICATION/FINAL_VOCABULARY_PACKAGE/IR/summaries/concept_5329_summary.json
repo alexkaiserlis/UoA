@@ -1,0 +1,63 @@
+{
+  "concept_id": "5329",
+  "concept_data": {
+    "title": "retirement conditions",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"retirement conditions\" within EU legal and regulatory frameworks encompasses various domains that underpin the sustainability of pension systems. It addresses the activation of entitlements for ageing entrants into the workforce, aiming to secure financial stability for vulnerable populations. The reconciliation of career earnings and pension rights is crucial, as is the indexation of pensions to inflation. Modernising retirement conditions may involve the postponement of retirement age, thereby reducing disincentives to work longer. Additionally, the EU's liaison with financial institutions, such as the ECB, aims to safeguard the finances of public servants and ensure the stabilisation of banking systems, ultimately restoring confidence in retirement provisions.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:25:26.124625",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 195,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 2481,
+      "selected_avg_freq": 919.9133333333333
+    },
+    "related_words": [
+      "disincentives",
+      "career",
+      "streams",
+      "domains",
+      "underpin",
+      "entrants",
+      "domestically",
+      "imf",
+      "reconciliation",
+      "modules",
+      "pension",
+      "modernising",
+      "activation",
+      "postponement",
+      "restoring",
+      "ageing",
+      "linking",
+      "entitlements",
+      "stress",
+      "earnings",
+      "retirement",
+      "pensions",
+      "servants",
+      "indexation",
+      "finances",
+      "securing",
+      "banking",
+      "accelerated",
+      "unemployment",
+      "vulnerable"
+    ],
+    "prompt_length": 1696,
+    "category": "4406 employment"
+  }
+}

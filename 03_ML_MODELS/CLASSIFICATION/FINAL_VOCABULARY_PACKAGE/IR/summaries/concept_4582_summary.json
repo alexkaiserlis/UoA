@@ -1,0 +1,63 @@
+{
+  "concept_id": "4582",
+  "concept_data": {
+    "title": "strawberry",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "soft fruit",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"strawberry,\" categorized under the EU plant product classification (6006), redirects to the preferred term \"soft fruit.\" This encompasses a variety of berries, including boysenberries, blackcurrants, and raspberries, which are integral to EU agricultural assessments. The regulation of these fruits involves considerations of quality, such as imperfections and the presence of pests like Drosophila suzukii. Notably, strawberries, particularly varieties like Gariguette and Truskawka, are often used in products like jam and distillate. Regulatory frameworks also address supplementary aspects, including maceration processes and the impact of climate on fruit quality, ensuring that the EU market maintains high standards for these valued products.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:29:48.232144",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1166,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 184,
+      "selected_avg_freq": 75.46
+    },
+    "related_words": [
+      "boysenberries",
+      "jam",
+      "primella",
+      "gariguette",
+      "strowberries",
+      "presentated",
+      "blackcurrants",
+      "fraises",
+      "abovemntioned",
+      "talking",
+      "truskawka",
+      "kaszubska",
+      "kaszëbskô",
+      "malëna",
+      "counry",
+      "chelčicko",
+      "lhenické",
+      "ovoce",
+      "xde",
+      "drosophila",
+      "suzukii",
+      "blueberries",
+      "assesment",
+      "kaki",
+      "ribera",
+      "xúquer",
+      "aop",
+      "imperfections",
+      "suppelementary",
+      "spinetoram"
+    ],
+    "prompt_length": 1716,
+    "category": "6006 plant product"
+  }
+}

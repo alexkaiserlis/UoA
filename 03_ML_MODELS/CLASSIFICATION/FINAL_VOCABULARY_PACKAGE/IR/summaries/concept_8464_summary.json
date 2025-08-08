@@ -1,0 +1,63 @@
+{
+  "concept_id": "8464",
+  "concept_data": {
+    "title": "fowl plague",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "avian influenza",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"fowl plague\" is a redirect to \"avian influenza,\" a virulent disease affecting birds, notably in hatcheries across regions like Minnesota and Oregon. In EU regulatory frameworks, avian influenza is monitored due to its potential impact on agricultural activity and public health. The disease can mutate, leading to heightened virulence, which may affect densely populated areas and transited regions such as Ferrara and Cloppenburg. Regulatory measures often involve surveillance in prominent poultry hubs, including Vila and Békés, to prevent unnoticed outbreaks. The EU's response includes tailored biosecurity protocols to mitigate risks associated with this pathogen, ensuring the safety of the agricultural community.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:49:14.763190",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1191,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 115,
+      "selected_avg_freq": 51.50666666666667
+    },
+    "related_words": [
+      "portomaggiore",
+      "hatchery",
+      "ferrara",
+      "mordano",
+      "minnesota",
+      "heinrichswalde",
+      "greifswald",
+      "békés",
+      "cvet",
+      "wgm",
+      "avain",
+      "jalisco",
+      "aguascalientes",
+      "guanajuato",
+      "idaho",
+      "communit",
+      "ostellato",
+      "hatched",
+      "mallard",
+      "barquinha",
+      "douglas",
+      "hobby",
+      "unnoticed",
+      "ahaw",
+      "oregon",
+      "virulent",
+      "golan",
+      "mutated",
+      "cloppenburg",
+      "vila"
+    ],
+    "prompt_length": 1676,
+    "category": "5631 agricultural activity"
+  }
+}

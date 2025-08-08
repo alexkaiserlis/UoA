@@ -1,0 +1,63 @@
+{
+  "concept_id": "2505",
+  "concept_data": {
+    "title": "forestry programme",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": true,
+    "preferred_term": "forestry policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"forestry programme,\" redirected to \"forestry policy,\" encompasses EU regulations aimed at promoting sustainable woodland management and afforestation practices. It seeks to densify forests, enhance ecosystems, and ensure the productive use of woodlands while adhering to strictest environmental standards. This policy encourages afforestation and the sustainable felling of trees, particularly species like populus and nigra, to maintain genetic diversity. By instituting guidelines and budgets, the EU aims to neutralize threats to forest ecosystems and support profitable forestry practices. The policy also emphasizes the importance of complementarity among member states, facilitating reactions to pressing environmental challenges and promoting the occupation of forested areas.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:21:59.441236",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 537,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 697,
+      "selected_avg_freq": 321.38666666666666
+    },
+    "related_words": [
+      "densify",
+      "felling",
+      "efics",
+      "woodland",
+      "populus",
+      "afforested",
+      "accompaniment",
+      "woodlands",
+      "ordinate",
+      "nigra",
+      "cork",
+      "furthering",
+      "afforestation",
+      "oak",
+      "strictest",
+      "neutralize",
+      "standardize",
+      "alters",
+      "practising",
+      "rio",
+      "intermediary",
+      "compile",
+      "forests",
+      "chaired",
+      "jeopardizing",
+      "cap",
+      "pressing",
+      "unsatisfactory",
+      "complementarity",
+      "ecosystems"
+    ],
+    "prompt_length": 1732,
+    "category": "5636 forestry"
+  }
+}

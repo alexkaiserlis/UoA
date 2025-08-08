@@ -1,0 +1,63 @@
+{
+  "concept_id": "2314",
+  "concept_data": {
+    "title": "death penalty",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"death penalty\" is a contentious issue within EU criminal law, where the European Union strictly disapproves of its use, viewing it as an inhumane and degrading form of punishment. The EU Charter of Fundamental Rights emphasizes the respect for human dignity, advocating for the abolition of capital punishment. This stance is attributed to concerns over cruel methods of execution, such as lethal injection or electric shock, which can cause severe suffering. The EU imposes a ban on the death penalty, promoting universal human rights and objecting to practices that involve torture or pain. Member states are encouraged to publish their commitment to these principles, ensuring that any devices or methods used in law enforcement, such as cuffs or batons, do not contravene these standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:51:25.360946",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 198,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2385,
+      "selected_avg_freq": 906.7
+    },
+    "related_words": [
+      "overdose",
+      "disapproves",
+      "anaesthesia",
+      "sedation",
+      "cuffs",
+      "spiked",
+      "batons",
+      "riot",
+      "sleeves",
+      "inhumane",
+      "spikes",
+      "involuntary",
+      "lethal",
+      "inhuman",
+      "degrading",
+      "worn",
+      "cruel",
+      "punishment",
+      "shock",
+      "torture",
+      "pain",
+      "dignity",
+      "numbering",
+      "broaden",
+      "belts",
+      "diverted",
+      "injection",
+      "universal",
+      "objected",
+      "observes"
+    ],
+    "prompt_length": 1644,
+    "category": "1216 criminal law"
+  }
+}

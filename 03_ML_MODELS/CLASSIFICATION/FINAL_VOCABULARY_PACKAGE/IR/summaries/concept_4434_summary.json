@@ -1,0 +1,26 @@
+{
+  "concept_id": "4434",
+  "concept_data": {
+    "title": "witness",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "evidence",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"witness\" is redirected to the preferred term \"evidence.\" A witness is an individual who provides testimony regarding facts pertinent to a case, thereby contributing to the establishment of evidence. The role of a witness is crucial in judicial proceedings, as their statements can substantiate claims or defenses. The collection and assessment of evidence, including witness testimonies, are governed by specific legal frameworks to ensure fairness and integrity in the justice system. Understanding the relationship between witnesses and evidence is vital for effective legal analysis and the administration of justice within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:54:03.110646",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1182,
+    "category": "1221 justice"
+  }
+}

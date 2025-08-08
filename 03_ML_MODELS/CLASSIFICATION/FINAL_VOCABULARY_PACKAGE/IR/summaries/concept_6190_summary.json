@@ -1,0 +1,26 @@
+{
+  "concept_id": "6190",
+  "concept_data": {
+    "title": "optical reading",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "optical character recognition",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"optical reading\" in the context of EU legal and regulatory documents refers to \"optical character recognition\" (OCR), which is a technology that converts different types of documents, such as scanned paper documents or PDFs, into editable and searchable data. This process is essential for enhancing the accessibility and efficiency of legal documentation within EU institutions. By employing OCR, regulatory bodies can streamline the management of vast amounts of documentation, ensuring compliance with transparency and accessibility standards. As a redirect, \"optical reading\" is synonymous with \"optical character recognition,\" emphasizing the importance of accurate data processing in the legal framework of the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:48:58.913984",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1217,
+    "category": "3221 documentation"
+  }
+}

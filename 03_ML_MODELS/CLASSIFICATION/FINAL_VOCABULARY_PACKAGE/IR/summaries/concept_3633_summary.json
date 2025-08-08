@@ -1,0 +1,63 @@
+{
+  "concept_id": "3633",
+  "concept_data": {
+    "title": "reduction of production",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": true,
+    "preferred_term": "production quota",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reduction of production,\" often redirected to \"production quota,\" plays a pivotal role in EU regulatory frameworks aimed at managing resources and ensuring sustainable practices. This concept encompasses various activities, including the discontinuation of certain production lines, such as those involving chlorofluorocarbons and hydrobromofluorocarbons, to mitigate environmental impacts. The transitionary measures may involve assignments of quotas to different territories, ensuring that production remains resilient and compliant with EU standards. Additionally, the regulation of intangibles, such as the recycling of inerting materials, is crucial. The EU's approach often includes public consultations and nominations for adjustments to quotas, reflecting an epic shift towards sustainable production practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:33:52.986924",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2508,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 11.293333333333333
+    },
+    "related_words": [
+      "kaba",
+      "koulak",
+      "nostrano",
+      "brenta",
+      "resistente",
+      "gojano",
+      "areticle",
+      "eigth",
+      "disconinuation",
+      "assignments",
+      "augment",
+      "chlorofluorocarbones",
+      "transitionary",
+      "elassona",
+      "publics",
+      "floated",
+      "activitiy",
+      "drocourt",
+      "fluoropolymers",
+      "agc",
+      "tetrafluoroethylene",
+      "etfe",
+      "wiring",
+      "recycles",
+      "cyanocobalamin",
+      "torritory",
+      "inerting",
+      "fighter",
+      "hydrobromoflurocarbons",
+      "hydrochloroflurocarbons"
+    ],
+    "prompt_length": 1778,
+    "category": "6406 production"
+  }
+}

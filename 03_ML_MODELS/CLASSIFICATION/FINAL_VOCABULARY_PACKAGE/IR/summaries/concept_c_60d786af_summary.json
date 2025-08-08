@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_60d786af",
+  "concept_data": {
+    "title": "novel food (EU)",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "novel food",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"novel food\" refers to food products that have not been significantly consumed within the European Union prior to May 1997. This concept is crucial in EU legal and regulatory frameworks, particularly under Regulation (EU) 2015/2283, which governs the safety assessment and authorization of novel foods. These foods may include new sources of protein, genetically modified organisms, or innovative processing techniques. The regulatory process ensures that novel foods meet safety standards before entering the market, protecting consumer health and promoting innovation. As a redirect, \"novel food\" serves as the preferred term for this category of foodstuff, encapsulating its unique legal status within EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:13:58.276829",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4074",
+  "concept_data": {
+    "title": "environmental risk prevention",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Environmental risk prevention within the EU legal framework emphasizes proactive measures to mitigate hazards associated with various substances, including hazardous nuclides and chemicals like bromine and helium. Regulatory documents focus on the flammability and irritancy of materials, ensuring registrants comply with safety standards to prevent overfilling and overheating in industrial processes. The concept encompasses arrangements for testing and monitoring emissions, particularly in glasshouse environments, to address issues like volatilisation and fallout. Additionally, risk assessments consider the degradation of materials, including compost and magnesia, to protect ecosystems, such as deciduous forests in regions like Hérault and Treviso, thereby promoting sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:50.136508",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1344,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 76,
+      "selected_avg_freq": 32.72
+    },
+    "related_words": [
+      "gmhp",
+      "helium",
+      "xenon",
+      "galactose",
+      "frits",
+      "flammability",
+      "irritancy",
+      "arranements",
+      "mergency",
+      "dnel",
+      "pnec",
+      "dispensations",
+      "sentene",
+      "bromine",
+      "saperda",
+      "cornuda",
+      "testings",
+      "ortenaukreis",
+      "bodenseekreis",
+      "overfilling",
+      "overheating",
+      "tsmax",
+      "tsmin",
+      "volatilisation",
+      "registrant",
+      "registrants",
+      "omit",
+      "glasshouse",
+      "focussing",
+      "nuclides"
+    ],
+    "prompt_length": 1696,
+    "category": "5206 environmental policy"
+  }
+}

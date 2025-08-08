@@ -1,0 +1,63 @@
+{
+  "concept_id": "5356",
+  "concept_data": {
+    "title": "documentation service",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "documentation centre",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"documentation service,\" redirected to \"documentation centre,\" pertains to a structured body within the EU framework responsible for the assessment and rendering of information related to various species, including bovine animals. This centre collaborates with designated authorities to ensure uniform methods of testing and acceptance of breeding practices. Established under relevant directives and treaties, such as the EEC Treaty, it plays a crucial role in the documentation and dissemination of results and experiences gained in animal breeding. The centre's duties include defining reference standards and rendering support for proposals aimed at enhancing community practices, thereby contributing to the overall objectives of the European Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:22:01.289846",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 47,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 47,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1875.468085106383
+    },
+    "related_words": [
+      "interbull",
+      "collaborating",
+      "bred",
+      "rendering",
+      "designating",
+      "pure",
+      "breeding",
+      "render",
+      "centre",
+      "bovine",
+      "testing",
+      "acceptance",
+      "species",
+      "designated",
+      "gained",
+      "body",
+      "animals",
+      "accepted",
+      "duties",
+      "responsible",
+      "methods",
+      "powers",
+      "uniform",
+      "experience",
+      "assessment",
+      "results",
+      "reference",
+      "defined",
+      "purposes",
+      "light"
+    ],
+    "prompt_length": 1664,
+    "category": "3221 documentation"
+  }
+}

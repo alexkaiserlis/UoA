@@ -1,0 +1,63 @@
+{
+  "concept_id": "325",
+  "concept_data": {
+    "title": "permanent crop",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"permanent crop\" refers to agricultural plantations that produce crops such as olives and fruits, which are cultivated over several years without the need for replanting. This concept justifies specific derogations within agricultural directives, allowing for adaptations in production standards. The framework requires member states to provide statistical data on permanent crops, ensuring comparability across regions, including Germany and France. Relevant texts outline the structure and transmission of information related to these crops, addressing potential problems and granting necessary permissions. Such regulations are significant for maintaining agricultural sustainability and enhancing the authenticity of EU agricultural statistics.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:33:28.615561",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 82,
+      "requested_words": 150,
+      "min_frequency_found": 91,
+      "max_frequency_found": 4108,
+      "selected_words": 82,
+      "selected_min_freq": 91,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2072.5975609756097
+    },
+    "related_words": [
+      "plantations",
+      "olive",
+      "justifies",
+      "format",
+      "crops",
+      "adaptations",
+      "fruit",
+      "permanent",
+      "texts",
+      "statistics",
+      "comparable",
+      "practical",
+      "requests",
+      "cause",
+      "federal",
+      "derogations",
+      "german",
+      "structure",
+      "transmission",
+      "points",
+      "major",
+      "likely",
+      "derogation",
+      "statistical",
+      "constitutes",
+      "french",
+      "germany",
+      "problems",
+      "standard",
+      "significant"
+    ],
+    "prompt_length": 1695,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

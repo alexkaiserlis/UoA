@@ -1,0 +1,26 @@
+{
+  "concept_id": "6321",
+  "concept_data": {
+    "title": "oil crop",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"oil crop\" pertains to agricultural activities within the EU, specifically focusing on the cultivation of plants that produce oil-rich seeds. These crops are significant for the production of vegetable oils, which are essential for both food and industrial applications. The EU regulatory framework addresses the cultivation, processing, and marketing of oil crops to ensure sustainable agricultural practices and compliance with environmental standards. This includes directives on crop rotation, biodiversity, and the use of genetically modified organisms (GMOs). Understanding oil crops is crucial for stakeholders in the agricultural sector, as they navigate compliance with EU policies and market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:06.566186",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1169,
+    "category": "5631 agricultural activity"
+  }
+}

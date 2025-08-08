@@ -1,0 +1,63 @@
+{
+  "concept_id": "1216",
+  "concept_data": {
+    "title": "Republic of Guinea",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": true,
+    "preferred_term": "Guinea",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Republic of Guinea,\" redirected to the preferred term \"Guinea,\" encompasses significant economic geography relevant to EU legal and regulatory frameworks. The region's maritime activities, particularly in pêche and the management of trawlers, are critical for sustainable fishing practices. Recent events, including violent protests in Conakry against the junta's governance, exacerbate tensions and raise concerns over human rights and repression. The EU's response may involve an embargo on certain products, impacting trade benchmarks and the quality of exported goods. Additionally, the need for hygienic standards in food products, such as rapeseed and sunflower, remains paramount, as the country embarks on electoral reforms amidst a chilling crackdown on demonstrators.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:16:30.927465",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 644,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 464,
+      "selected_avg_freq": 210.54666666666665
+    },
+    "related_words": [
+      "exacerbates",
+      "demonstrators",
+      "fpa",
+      "tragic",
+      "crowds",
+      "dnpm",
+      "siaqppa",
+      "gutting",
+      "protesting",
+      "pêches",
+      "pêche",
+      "crackdown",
+      "qualité",
+      "conakry",
+      "junta",
+      "revolutionary",
+      "maritimes",
+      "produits",
+      "chilling",
+      "supreme",
+      "guinean",
+      "ministère",
+      "embarked",
+      "equatorial",
+      "violent",
+      "boats",
+      "ouagadougou",
+      "electoral",
+      "presidential",
+      "nationale"
+    ],
+    "prompt_length": 1708,
+    "category": "7231 economic geography"
+  }
+}

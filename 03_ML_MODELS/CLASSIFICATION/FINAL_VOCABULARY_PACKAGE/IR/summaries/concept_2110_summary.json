@@ -1,0 +1,63 @@
+{
+  "concept_id": "2110",
+  "concept_data": {
+    "title": "Gulf Stream",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "Atlantic Ocean",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Gulf Stream,\" categorized under the natural environment, redirects to \"Atlantic Ocean,\" reflecting its significance in EU legal and regulatory frameworks. The Gulf Stream underlies various marine ecosystems, influencing anadromous species like thunnus and elasmobranchs. Regulatory bodies, such as NWWRAC, emphasize sustainable fishing practices, including the management of baitboats and trolling methods to prevent overexploitation of exhaustible resources like boarfish and yellowtail. The EU's Common Fisheries Policy aims to totalize fish stocks, ensuring that catches do not exceed Maximum Sustainable Yield (MSY). This regulatory approach is crucial for preserving biodiversity in regions like Biscay and Cadiz, where sedentary and migratory species interact.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:49:35.632734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1509,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 46,
+      "selected_avg_freq": 24.266666666666666
+    },
+    "related_words": [
+      "statlant",
+      "reykjavik",
+      "anadromous",
+      "fourths",
+      "sedentary",
+      "sahara",
+      "nwwrac",
+      "windhoek",
+      "excl",
+      "baitboats",
+      "trolling",
+      "scrs",
+      "caging",
+      "thunnnus",
+      "vias",
+      "dcommon",
+      "lager",
+      "crashes",
+      "elasmobranch",
+      "underlies",
+      "nullified",
+      "unutilised",
+      "totalizes",
+      "subtracted",
+      "stereoscopic",
+      "msy",
+      "viij",
+      "lastest",
+      "finfish",
+      "positioned"
+    ],
+    "prompt_length": 1676,
+    "category": "5211 natural environment"
+  }
+}

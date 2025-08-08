@@ -1,0 +1,63 @@
+{
+  "concept_id": "3291",
+  "concept_data": {
+    "title": "acoustics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Acoustics, a pivotal concept within natural and applied sciences, encompasses the study of sound, its propagation, and interaction with materials. In the EU regulatory framework, acoustics plays a crucial role in assessing noise pollution and its impact on health, particularly concerning inhalable particles and radioactivities such as radon and thoron. Regulatory bodies may utilize advanced analyzers and broadband amplifiers to measure sound levels, ensuring compliance with standards that mitigate instabilities in urban environments. The modulation of sound waves through techniques like chemisorption and tunnelling is essential for developing innovative technologies, including ultrasonic transceivers and multichannel amplifiers, which enhance communication systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:47.288753",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 291,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 549,
+      "selected_avg_freq": 113.51333333333334
+    },
+    "related_words": [
+      "chemisorption",
+      "vanishingly",
+      "instabilities",
+      "matec",
+      "modulator",
+      "vrf",
+      "attenuation",
+      "dividers",
+      "tunnelling",
+      "velocity",
+      "circuity",
+      "harmonics",
+      "manufacured",
+      "tekelec",
+      "airtronic",
+      "carle",
+      "vernet",
+      "vres",
+      "brookdeal",
+      "doncaster",
+      "berks",
+      "heterodyne",
+      "broadbandamplifier",
+      "oligoatomic",
+      "aerovironment",
+      "ithaco",
+      "dynatrac",
+      "radioactivities",
+      "centrifugal",
+      "inhalable"
+    ],
+    "prompt_length": 1723,
+    "category": "3606 natural and applied sciences"
+  }
+}

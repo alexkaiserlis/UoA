@@ -1,0 +1,63 @@
+{
+  "concept_id": "3860",
+  "concept_data": {
+    "title": "telephone cable",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "telecommunications equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"telephone cable,\" categorized under communications, is redirected to the preferred term \"telecommunications equipment\" within EU legal and regulatory frameworks. This encompasses a range of devices and systems, including radiotelephone and shipborne communications, essential for broadcasting and conferencing. The regulatory landscape addresses various aspects, such as the maintenance (instandhaltung) of endstelleneinrichtungen and the identification (indentifying) of telecommunications standards like ATIS and HSCSD. Additionally, the use of navigational beacons, EPIRBs, and Cospas-Sarsat systems highlights the importance of reliable communication in emergency situations. The EU's approach also considers the integration of unstructured data (dcs) and multislot technologies, ensuring effective telecommunications infrastructure.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:12:03.829319",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1205,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 84,
+      "selected_avg_freq": 32.013333333333335
+    },
+    "related_words": [
+      "conferencing",
+      "ebu",
+      "breoadcasting",
+      "diskettes",
+      "indentifying",
+      "tfts",
+      "telesat",
+      "tcts",
+      "electrospace",
+      "tcam",
+      "avalanche",
+      "radiotelephone",
+      "atis",
+      "hscsd",
+      "multislot",
+      "tray",
+      "estimatates",
+      "ueberlassung",
+      "instandhaltung",
+      "endstelleneinrichtungen",
+      "bundespost",
+      "telekom",
+      "acta",
+      "pcn",
+      "mess",
+      "telecomunications",
+      "cospas",
+      "sarsat",
+      "locator",
+      "radiobeacons"
+    ],
+    "prompt_length": 1696,
+    "category": "3226 communications"
+  }
+}

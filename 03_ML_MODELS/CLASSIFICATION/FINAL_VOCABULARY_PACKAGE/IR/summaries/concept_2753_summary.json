@@ -1,0 +1,63 @@
+{
+  "concept_id": "2753",
+  "concept_data": {
+    "title": "foods for particular nutritional uses",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "dietary product",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"foods for particular nutritional uses,\" also known as \"dietary products,\" encompass specialized formulations designed to meet specific dietary needs, such as those for convalescence or pathological conditions like hyperthyroidism. These products often contain tailored macronutrients and micronutrients, enhancing digestibility and assimilation. Regulatory frameworks ensure that such foods, including snacks and bolus forms, are safe and effective for ingestion, particularly in vulnerable populations like suckling pets or equines. Reformulation may be necessary to address nutrient insufficiencies, while compliance with standards regarding polyols and other additives is critical for consumer safety and efficacy.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:53:24.377362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 649,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 277,
+      "selected_avg_freq": 107.34
+    },
+    "related_words": [
+      "convalescence",
+      "bolus",
+      "trotters",
+      "snacks",
+      "macronutrients",
+      "micronutrients",
+      "urine",
+      "polyglycitol",
+      "medicated",
+      "feedingsuffs",
+      "ingest",
+      "amy",
+      "lanthanum",
+      "octahydrate",
+      "polyol",
+      "feedingstufffs",
+      "reformulation",
+      "polyols",
+      "excretion",
+      "assimilation",
+      "hyperthyroidism",
+      "oestrus",
+      "renal",
+      "suckling",
+      "opacity",
+      "rumen",
+      "equines",
+      "reformulated",
+      "expands",
+      "pathological"
+    ],
+    "prompt_length": 1774,
+    "category": "6026 foodstuff"
+  }
+}

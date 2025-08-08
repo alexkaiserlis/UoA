@@ -1,0 +1,63 @@
+{
+  "concept_id": "5441",
+  "concept_data": {
+    "title": "information technology applications",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information technology applications\" encompasses a range of systems and programs designed to enhance data processing within the EU legal framework. These applications facilitate the computerisation of processes, such as the management of excisable goods through EMCS and NCTS, while ensuring compliance with regulations. By leveraging cloud hosting and automation, they aim to reduce downtime and improve outcomes in various sectors, including zootechnics and aircrafts. The architecture of these applications often involves metadata and syntax that are unambiguous and readable, catering to the needs of academics and practitioners alike. Furthermore, they provide remedies for unbalanced data and facilitate transcription and localisation efforts, thus protecting the integrity of information.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:41.560704",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 870,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 281,
+      "selected_avg_freq": 135.42666666666668
+    },
+    "related_words": [
+      "computerising",
+      "emcs",
+      "ncts",
+      "unleashing",
+      "downtime",
+      "sdmx",
+      "syntax",
+      "reluctant",
+      "ers",
+      "markup",
+      "excisable",
+      "patrol",
+      "cloud",
+      "cure",
+      "unbalanced",
+      "vms",
+      "academics",
+      "adns",
+      "sanco",
+      "aircrafts",
+      "vague",
+      "ais",
+      "localisation",
+      "computerisation",
+      "metadata",
+      "computing",
+      "responds",
+      "unaware",
+      "transcription",
+      "templates"
+    ],
+    "prompt_length": 1697,
+    "category": "3236 information technology and data processing"
+  }
+}

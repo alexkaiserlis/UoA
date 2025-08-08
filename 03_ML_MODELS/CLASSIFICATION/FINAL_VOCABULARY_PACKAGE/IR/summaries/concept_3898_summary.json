@@ -1,0 +1,63 @@
+{
+  "concept_id": "3898",
+  "concept_data": {
+    "title": "buckwheat",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Buckwheat, categorized under plant products (6006), is significant in EU agricultural regulation and marketing. The European Economic Community (EEC) has established regulations to encourage the production of alternative cereals, including buckwheat, which is often sown alongside millet and canary seed. The objective is to maintain a surplus of these crops, thereby fixing the market level for these products. In October, the Commission proposes amendments to existing regulations, ensuring that the requirements for production aid are met. The Council and Parliament play a crucial role in this process, providing opinions that shape the economic landscape of the community.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:40:37.755734",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 51,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 51,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2190.235294117647
+    },
+    "related_words": [
+      "buckwheat",
+      "millet",
+      "sown",
+      "canary",
+      "surplus",
+      "seed",
+      "attained",
+      "permits",
+      "cereals",
+      "alternative",
+      "encourage",
+      "proportion",
+      "maintained",
+      "actual",
+      "fixing",
+      "marketing",
+      "organization",
+      "aid",
+      "resulting",
+      "objective",
+      "production",
+      "amount",
+      "end",
+      "social",
+      "year",
+      "requirements",
+      "same",
+      "last",
+      "level",
+      "market"
+    ],
+    "prompt_length": 1631,
+    "category": "6006 plant product"
+  }
+}

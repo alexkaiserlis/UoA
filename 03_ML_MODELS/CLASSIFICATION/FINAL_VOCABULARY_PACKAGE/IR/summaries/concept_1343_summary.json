@@ -1,0 +1,63 @@
+{
+  "concept_id": "1343",
+  "concept_data": {
+    "title": "severance pay",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Severance pay, a critical aspect of employment law within the EU, refers to the compensation provided to employees upon dismissal. This payment can be divisible and is often subject to tapering based on the duration of employment and the employee's age. In sectors like coalmining, particularly in regions such as the coalfields of Asturias, severance packages may include inherited rights or pensioning benefits. Regulatory frameworks, such as those established by agencies overseeing employment standards, reiterate the importance of fair treatment during reorganisations. The legal context often involves complex calculations, including degression based on tenure, ensuring that dismissed employees receive equitable compensation reflective of their contributions and circumstances.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:39:57.613209",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 748,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 290,
+      "selected_avg_freq": 122.08666666666667
+    },
+    "related_words": [
+      "divisible",
+      "ofico",
+      "tapering",
+      "minero",
+      "ponferrada",
+      "pejão",
+      "sharper",
+      "backward",
+      "aie",
+      "scholarships",
+      "asturian",
+      "carbonífera",
+      "electricidade",
+      "tapada",
+      "outeiro",
+      "germunde",
+      "figaredo",
+      "camocha",
+      "longannet",
+      "siderúrgica",
+      "paiva",
+      "subdivides",
+      "castelo",
+      "hunosa",
+      "agencia",
+      "mina",
+      "estado",
+      "cova",
+      "tce",
+      "inherited"
+    ],
+    "prompt_length": 1644,
+    "category": "4406 employment"
+  }
+}

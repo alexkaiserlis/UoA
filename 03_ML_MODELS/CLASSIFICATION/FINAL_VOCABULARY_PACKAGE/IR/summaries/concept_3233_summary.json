@@ -1,0 +1,63 @@
+{
+  "concept_id": "3233",
+  "concept_data": {
+    "title": "stock market",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "stock exchange",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"stock market,\" redirected to \"stock exchange,\" is pivotal in the EU's framework for the free movement of capital. Stock exchanges facilitate the trading of securities, including debentures and convertible instruments, while adhering to GAAP and IFRS standards. Regulatory bodies, such as the IASB and CESR, outline disclosure requirements in prospectuses to ensure transparency and mitigate tensions between issuers and investors. The narrative of financial history reveals a convergence of regulations aimed at harmonizing practices globally. Hostile takeovers and malfunctioning markets underscore the need for robust remedies and unreserved disclosures. Ultimately, the stock exchange serves as a critical platform for accessing capital and reconciling interests among counterparties.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:56:31.830955",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 746,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 332,
+      "selected_avg_freq": 157.68
+    },
+    "related_words": [
+      "debentures",
+      "hostile",
+      "gaaps",
+      "restating",
+      "forma",
+      "restatement",
+      "exchangeable",
+      "restate",
+      "asbj",
+      "unreserved",
+      "setters",
+      "narrative",
+      "interpenetration",
+      "prospectuses",
+      "malfunctioning",
+      "conceivable",
+      "iasb",
+      "convertible",
+      "gaap",
+      "cesr",
+      "converge",
+      "restated",
+      "advertisements",
+      "outright",
+      "atypical",
+      "converging",
+      "hereof",
+      "disclosures",
+      "tensions",
+      "prospectus"
+    ],
+    "prompt_length": 1730,
+    "category": "2421 free movement of capital"
+  }
+}

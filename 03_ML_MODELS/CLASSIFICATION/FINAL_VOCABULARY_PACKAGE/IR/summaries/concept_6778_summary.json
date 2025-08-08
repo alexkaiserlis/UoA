@@ -1,0 +1,26 @@
+{
+  "concept_id": "6778",
+  "concept_data": {
+    "title": "cryptography",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cryptography is a critical component in the realm of information technology and data processing within the EU legal framework. It encompasses techniques for secure communication and data protection, ensuring confidentiality, integrity, and authenticity of information. The EU has established various regulations, such as the General Data Protection Regulation (GDPR), that emphasize the importance of cryptographic measures in safeguarding personal data. Additionally, the European Union Agency for Cybersecurity (ENISA) provides guidelines on cryptographic standards to enhance cybersecurity across member states. As digital threats evolve, the regulatory landscape continues to adapt, underscoring the necessity of robust cryptographic practices in compliance with EU law.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:50:35.837442",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4382",
+  "concept_data": {
+    "title": "railway tariff",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"railway tariff\" within EU transport policy refers to the fixed charges imposed for the use of railway services, which are crucial for the restructuring of the transport sector. These tariffs are authorized by national governments and must comply with EU regulations to ensure fair competition among producers, particularly in industries such as coal and steel. The examination of these tariffs is thorough, with a focus on their adjustment and reduction to favor efficiency. In Germany, for instance, the federal authority oversees the completion of tariff schedules, ensuring they remain authentic and enforceable throughout the duration of their application. This regulatory framework aims to extend the benefits of scheduled services while maintaining high standards of service delivery.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:10:36.133924",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 80,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 80,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1726.05
+    },
+    "related_words": [
+      "bundesbahn",
+      "saar",
+      "deutsche",
+      "abolishing",
+      "enforce",
+      "thorough",
+      "scheduled",
+      "tariffs",
+      "nos",
+      "coal",
+      "seems",
+      "restructuring",
+      "normally",
+      "steel",
+      "industries",
+      "favour",
+      "authorization",
+      "ecsc",
+      "aforementioned",
+      "permitted",
+      "federal",
+      "completion",
+      "authorized",
+      "german",
+      "fourth",
+      "duration",
+      "adjustment",
+      "producers",
+      "remain",
+      "tariff"
+    ],
+    "prompt_length": 1654,
+    "category": "4806 transport policy"
+  }
+}

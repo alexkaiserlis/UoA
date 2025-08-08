@@ -1,0 +1,63 @@
+{
+  "concept_id": "2757",
+  "concept_data": {
+    "title": "smoked product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"smoked product\" refers to foodstuffs that have undergone a smoking process, which can impart distinctive flavours and preservation qualities. The characterisation of these products, such as Schwarzwälder Schinken or Suska, involves analysing polycyclic aromatic hydrocarbons (PAHs) and other analytes through validated spectrometry methods. The quantification of these compounds is crucial to ensure compliance with dietary safety standards, as some may be carcinogenic or genotoxic. Collaborative trials and sourcing practices are essential for achieving repeatability in measurements, while the elaboration of regulations, including PGI designations, supports the protection of traditional smoked products across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:45:07.344623",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 337,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1003,
+      "selected_avg_freq": 440.64666666666665
+    },
+    "related_words": [
+      "schwarzwälder",
+      "schinken",
+      "condensates",
+      "incalculable",
+      "tentative",
+      "suska",
+      "sechlońska",
+      "grimsby",
+      "irmm",
+      "analytes",
+      "aoac",
+      "libraries",
+      "iupac",
+      "spectral",
+      "pahs",
+      "spectrometry",
+      "repeatability",
+      "spectra",
+      "quantifying",
+      "pah",
+      "smoke",
+      "polycyclic",
+      "scf",
+      "characterisation",
+      "collaborative",
+      "impractical",
+      "sourcing",
+      "quantification",
+      "portions",
+      "fillets"
+    ],
+    "prompt_length": 1698,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5307",
+  "concept_data": {
+    "title": "medical examination",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"medical examination\" within EU legal and regulatory frameworks encompasses a systematic evaluation of patients to assess health conditions, including chronic diseases such as diabetes and epilepsy. These examinations are crucial for recognizing conditions like impotence or renal issues, which can be linked to broader health concerns. Medical examinations may involve specialized tests for infectious diseases, including viral infections, and are often ordered to ensure fitness for specific activities, such as driving. Stricter licensing regulations may invoke the need for comprehensive assessments, particularly in clinical settings. The apparatus used in these evaluations must be suited for accurate diagnosis, thereby contributing to the eradication of widespread health issues.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:20.028519",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 263,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1398,
+      "selected_avg_freq": 673.7933333333333
+    },
+    "related_words": [
+      "browne",
+      "nocturnale",
+      "penile",
+      "tumescence",
+      "playback",
+      "impotence",
+      "eyesight",
+      "diabetes",
+      "epilepsy",
+      "renal",
+      "sleep",
+      "haemopoietic",
+      "printer",
+      "recorder",
+      "salmonids",
+      "ihn",
+      "fitness",
+      "vhs",
+      "septicaemia",
+      "necrosis",
+      "drive",
+      "haemorrhagic",
+      "patients",
+      "chronic",
+      "specialists",
+      "recognize",
+      "recognizing",
+      "comprised",
+      "recognizes",
+      "driving"
+    ],
+    "prompt_length": 1678,
+    "category": "2841 health"
+  }
+}

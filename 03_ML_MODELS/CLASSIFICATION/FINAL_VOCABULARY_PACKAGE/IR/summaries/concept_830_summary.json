@@ -1,0 +1,63 @@
+{
+  "concept_id": "830",
+  "concept_data": {
+    "title": "state sector",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "public sector",
+    "relation_type": "USE"
+  },
+  "summary": "The \"state sector,\" redirected to the preferred term \"public sector,\" encompasses entities engaged in various activities, including those related to coalproducing and elektrizitäts enterprises. In the EU regulatory framework, public sector undertakings, such as the Ruhrkohle and Saarbergwerke, play a crucial role in energy distribution and resource management. These whollyowned companies, like Veba and RWE, engage in uncoordinated operations that may lead to prejudices against smaller competitors. The legal landscape mandates sufficient oversight to ensure equitable practices among proprietors. Additionally, public sector entities often participate in shareholding arrangements, impacting market dynamics in regions like Braunschweigische and Mülheim.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:11:25.180986",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 713,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 233,
+      "selected_avg_freq": 92.52666666666667
+    },
+    "related_words": [
+      "gelsenberg",
+      "elektrizitäts",
+      "bergwerks",
+      "coalproducing",
+      "unternehmungen",
+      "viag",
+      "braunschweigische",
+      "kohlenbergwerke",
+      "bkb",
+      "helmstedt",
+      "stromeyer",
+      "rheinisch",
+      "westfälische",
+      "elektrizitätswerk",
+      "whollyowned",
+      "distri",
+      "bution",
+      "neuerburg",
+      "pointer",
+      "raab",
+      "karcher",
+      "sufficently",
+      "stinnes",
+      "mülheim",
+      "saarbrücken",
+      "prejudices",
+      "uncoordinated",
+      "factoring",
+      "veba",
+      "bayerische"
+    ],
+    "prompt_length": 1767,
+    "category": "4011 business classification"
+  }
+}

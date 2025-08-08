@@ -1,0 +1,63 @@
+{
+  "concept_id": "2917",
+  "concept_data": {
+    "title": "energy research",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"energy research\" within EU legal and regulatory frameworks encompasses the exploration of inexhaustible and environmentally benign energy sources. It embraces innovative projects such as the ITER initiative, which focuses on thermonuclear fusion through advanced reactor designs like tokamaks and stellarators. The EU promotes cooperation among member states to pursue rational energy solutions, actively involving research institutions like the JRC. This quadripartite approach facilitates the development of experimental technologies, including laser and jet confinement methods. Financially oriented assessments and extensions of energy research projects aim to realize optimum energy mobility, ensuring accessible and sustainable solutions for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:13.386390",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 267,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1210,
+      "selected_avg_freq": 525.0666666666667
+    },
+    "related_words": [
+      "inexhaustible",
+      "benign",
+      "quadripartite",
+      "tokamak",
+      "propject",
+      "predesign",
+      "pinches",
+      "stellarators",
+      "muon",
+      "catalysed",
+      "embraces",
+      "conceptual",
+      "torus",
+      "confinement",
+      "iter",
+      "touch",
+      "realize",
+      "universally",
+      "thermonuclear",
+      "reversed",
+      "concentrating",
+      "reactor",
+      "laser",
+      "jet",
+      "jrc",
+      "fusion",
+      "reassessment",
+      "assignment",
+      "extensions",
+      "oriented"
+    ],
+    "prompt_length": 1707,
+    "category": "6606 energy policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3876",
+  "concept_data": {
+    "title": "microelectronics",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Microelectronics, a critical category within electronics and electrical engineering, encompasses technologies such as microcircuits and transistors, pivotal for modern devices. The EU regulatory framework addresses microelectronics to mitigate risks of undersupply and downturns in production, particularly in light of global events like the Tohoku earthquake and the Sendai disaster, which impacted supply chains. Companies like Intel, Fujitsu, and Toshiba are key players, utilizing advanced technologies such as SRAMs, DRAMs, and flash memory. The EU's focus on innovation aims to outstrip global competitors, ensuring a robust market for microelectronics, while practitioners analyze trends in synchronous and pseudo technologies to predict future developments.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:58.570055",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1040,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 106,
+      "selected_avg_freq": 41.82666666666667
+    },
+    "related_words": [
+      "tohoku",
+      "tsc",
+      "sendai",
+      "considerd",
+      "roms",
+      "sgs",
+      "intel",
+      "sanyo",
+      "telefonaktiebolaget",
+      "byte",
+      "predicts",
+      "undefined",
+      "downturns",
+      "outstripping",
+      "oki",
+      "eproms",
+      "erasable",
+      "otps",
+      "eprom",
+      "fujitsu",
+      "eeca",
+      "cmos",
+      "bicmos",
+      "vrams",
+      "srams",
+      "mdrams",
+      "multibank",
+      "rambus",
+      "nec",
+      "crash"
+    ],
+    "prompt_length": 1649,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

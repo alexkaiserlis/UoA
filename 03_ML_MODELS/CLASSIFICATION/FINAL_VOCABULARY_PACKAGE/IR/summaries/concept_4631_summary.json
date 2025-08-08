@@ -1,0 +1,63 @@
+{
+  "concept_id": "4631",
+  "concept_data": {
+    "title": "peaceful use of energy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"peaceful use of energy\" concept within EU energy policy emphasizes the safe and responsible application of energy technologies, particularly nuclear energy, in a manner that contributes to scientific advancement and human welfare. This necessitates the approval of various agreements and the designation of institutions, such as the Euratom, which sets standards for nuclear reactors and their safe operation. The EU cabinet, through its ministers, engages in consultations with member states like France, Germany, and the Netherlands, to adopt supplementary measures that enhance energy safety. This collaborative approach aims to ensure that energy research and technology are implemented effectively, promoting peaceful uses while addressing global challenges, including those posed by countries like Kazakhstan and Ukraine.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:32:05.697880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 38,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1692.221052631579
+    },
+    "related_words": [
+      "cabinet",
+      "reactors",
+      "peaceful",
+      "kazakhstan",
+      "medicine",
+      "science",
+      "necessitates",
+      "sign",
+      "australia",
+      "ukraine",
+      "nuclear",
+      "ministers",
+      "designate",
+      "medical",
+      "signature",
+      "centre",
+      "safe",
+      "contributes",
+      "principal",
+      "target",
+      "testing",
+      "contributions",
+      "uses",
+      "technology",
+      "atomic",
+      "supplementary",
+      "person",
+      "come",
+      "approving",
+      "research"
+    ],
+    "prompt_length": 1682,
+    "category": "6606 energy policy"
+  }
+}

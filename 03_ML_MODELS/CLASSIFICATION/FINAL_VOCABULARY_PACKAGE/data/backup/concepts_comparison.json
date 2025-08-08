@@ -1,0 +1,48 @@
+{
+  "comparison_info": {
+    "analysis_date": "2025-07-29T12:57:24.128540",
+    "total_concepts_analyzed": 3,
+    "total_vocabulary_size": 40431
+  },
+  "concepts_summary": [
+    {
+      "id": "1309",
+      "title": "import",
+      "words": 10233,
+      "percentage": 25.309787044594493,
+      "avg_length": 7.723932375647415
+    },
+    {
+      "id": "192",
+      "title": "health control",
+      "words": 7953,
+      "percentage": 19.67054982562885,
+      "avg_length": 7.958003269206588
+    },
+    {
+      "id": "1318",
+      "title": "Germany",
+      "words": 7384,
+      "percentage": 18.263213870544877,
+      "avg_length": 7.949891657638137
+    }
+  ],
+  "detailed_comparison": {
+    "most_words": {
+      "id": "1309",
+      "title": "import",
+      "words": 10233,
+      "percentage": 25.309787044594493,
+      "avg_length": 7.723932375647415
+    },
+    "least_words": {
+      "id": "1318",
+      "title": "Germany",
+      "words": 7384,
+      "percentage": 18.263213870544877,
+      "avg_length": 7.949891657638137
+    },
+    "average_words_per_concept": 8523.333333333334,
+    "average_coverage_percentage": 21.081183580256074
+  }
+}

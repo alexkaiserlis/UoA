@@ -1,0 +1,63 @@
+{
+  "concept_id": "4836",
+  "concept_data": {
+    "title": "tariff agreement",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"tariff agreement\" within the context of EU legal and regulatory frameworks refers to a negotiated framework that governs the import and export duties between signatory nations. Such agreements often involve complex negotiations, where parties may invoke conventions to address issues like unbinding certain tariffs or scaling back duties on specific goods, such as semiconductors and horticultural products. The initialling of these agreements typically opens accessions for countries like Morocco, Peru, and Colombia, while maintaining schedules that administer tariff concessions. Erroneous clauses may lead to renegotiation, and depositary roles are crucial for authenticating the minutes of negotiations. Ultimately, these agreements aim to reduce trade barriers and foster governance in international trade relations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:04:09.833458",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 434,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 813,
+      "selected_avg_freq": 394.4266666666667
+    },
+    "related_words": [
+      "gams",
+      "unbinding",
+      "mcps",
+      "scaled",
+      "restart",
+      "semiconductors",
+      "authenticated",
+      "chip",
+      "andean",
+      "abstain",
+      "cuba",
+      "depository",
+      "moroccan",
+      "invoking",
+      "renegotiation",
+      "accessions",
+      "argentine",
+      "horticultural",
+      "circuits",
+      "ecuador",
+      "initialling",
+      "depositary",
+      "erroneous",
+      "herein",
+      "eliminates",
+      "hectolitres",
+      "colombia",
+      "probably",
+      "peru",
+      "maintains"
+    ],
+    "prompt_length": 1683,
+    "category": "2011 tariff policy"
+  }
+}

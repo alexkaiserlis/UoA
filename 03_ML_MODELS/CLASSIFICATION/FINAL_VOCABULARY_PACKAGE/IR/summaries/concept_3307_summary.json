@@ -1,0 +1,63 @@
+{
+  "concept_id": "3307",
+  "concept_data": {
+    "title": "sperm donor",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "artificial reproduction",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sperm donor,\" as a redirect to \"artificial reproduction,\" encompasses various legal and regulatory frameworks within the EU. It involves the procurement and use of semen for artificial insemination, which must adhere to strict microbiological and diagnostic standards to prevent the transmission of contagious diseases, such as HIV. Regulatory bodies emphasize the importance of counselling and informed consent, ensuring that donors are trained and aware of the implications of their contributions. Precautions, including disinfection and the use of specialized kits, are mandated to uphold the regularity and safety of procedures. The legal profession often relies on these regulations to mitigate potential offences and ensure compliance with EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:39.296399",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 447,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 775,
+      "selected_avg_freq": 368.96
+    },
+    "related_words": [
+      "aujeszkys",
+      "omtv",
+      "szekszárd",
+      "állomás",
+      "gtc",
+      "costwold",
+      "insémination",
+      "prim",
+      "procine",
+      "aurora",
+      "advertise",
+      "counselling",
+      "rapidity",
+      "kit",
+      "reads",
+      "hiv",
+      "fault",
+      "cleansing",
+      "precautions",
+      "kits",
+      "suspect",
+      "offence",
+      "inadmissible",
+      "underpin",
+      "relied",
+      "disinfection",
+      "profession",
+      "australian",
+      "stocking",
+      "transitory"
+    ],
+    "prompt_length": 1698,
+    "category": "2806 family"
+  }
+}

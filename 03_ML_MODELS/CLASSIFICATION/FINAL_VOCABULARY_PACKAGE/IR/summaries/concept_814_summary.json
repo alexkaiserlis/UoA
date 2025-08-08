@@ -1,0 +1,63 @@
+{
+  "concept_id": "814",
+  "concept_data": {
+    "title": "craft business",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"craft business\" within the EU legal framework refers to enterprises engaged in artisanal production, often characterized by their small scale and local significance. These businesses, which may include sectors such as opticians and pharmaceutical firms, are essential for fostering economic diversity and alleviating regional disparities. The ISIC nomenclatures classify craft businesses, ensuring uniformity in data collection and analysis across member states. Regulatory frameworks aim to liberalise the market, enabling nationals to join and operate within this sphere without unnecessary obstacles. Surveys and census data help identify deficiencies in coverage and support, guiding policymakers in the pursuit of adequate safeguards for employees and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:45:15.898121",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 351,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 955,
+      "selected_avg_freq": 508.6666666666667
+    },
+    "related_words": [
+      "opticians",
+      "optician",
+      "sight",
+      "decimal",
+      "isic",
+      "nomenclatures",
+      "papers",
+      "census",
+      "synthesis",
+      "insufficiently",
+      "ordination",
+      "liberalised",
+      "subscribed",
+      "nice",
+      "nationality",
+      "extract",
+      "prescribe",
+      "branches",
+      "concepts",
+      "craft",
+      "sphere",
+      "preclude",
+      "join",
+      "pharmaceutical",
+      "uniformity",
+      "residence",
+      "analyse",
+      "evident",
+      "liberalisation",
+      "altering"
+    ],
+    "prompt_length": 1699,
+    "category": "4011 business classification"
+  }
+}

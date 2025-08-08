@@ -1,0 +1,63 @@
+{
+  "concept_id": "650",
+  "concept_data": {
+    "title": "housekeeping economy",
+    "category_code": "1621",
+    "category_name": "economic structure",
+    "category_full": "1621 economic structure",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"housekeeping economy\" refers to the economic activities primarily undertaken by households, encompassing transactions that incur various liabilities and payables. In EU regulatory frameworks, this concept is crucial for understanding the composition and reliability of household expenditures, including the impact of discounts and subsidies on purchasing behavior. The Harmonised Index of Consumer Prices (HICP) serves as a key index for monitoring inflation, with methodological specifications ensuring comparability across member states. Households engage in bulk purchases, affecting timing and delivery patterns, while also navigating taxes and procedural deductions. This economy reflects the relationship between sellers and purchasers, influencing overall economic stability and population welfare.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:18.312097",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 161,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 3511,
+      "selected_avg_freq": 1466.1733333333334
+    },
+    "related_words": [
+      "payables",
+      "incurs",
+      "hicp",
+      "hicps",
+      "spc",
+      "seller",
+      "households",
+      "discounts",
+      "esa",
+      "indices",
+      "peak",
+      "deductions",
+      "purchaser",
+      "failing",
+      "timing",
+      "purchases",
+      "index",
+      "bulk",
+      "subsidies",
+      "comparability",
+      "reliability",
+      "extra",
+      "liability",
+      "procedural",
+      "pattern",
+      "specification",
+      "taxes",
+      "methodology",
+      "credit",
+      "definitions"
+    ],
+    "prompt_length": 1674,
+    "category": "1621 economic structure"
+  }
+}

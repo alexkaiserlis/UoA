@@ -1,0 +1,63 @@
+{
+  "concept_id": "1761",
+  "concept_data": {
+    "title": "pneumoconiosis",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "occupational disease",
+    "relation_type": "USE"
+  },
+  "summary": "Pneumoconiosis, classified as an occupational disease, pertains to health conditions arising from prolonged exposure to dusts, particularly in industries like mining and quarrying. This condition exemplifies the EU's focus on worker safety and health regulations, addressing the carcinogenicity of certain dust particles, which are considered probable carcinogens. The legal framework promotes adaptability in working conditions, ensuring that workers, including immigrants and migrants, are protected from harmful exposures. The EU's emphasis on flexicurity reflects a commitment to balancing job security with the need for a responsive labor market. Ongoing debates about emerging mutagens and their effects on worker health highlight the necessity for continuous monitoring and regulation, ensuring that the experiences of workers are matched with effective protective measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:12:43.690134",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 368,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 958,
+      "selected_avg_freq": 410.36
+    },
+    "related_words": [
+      "descendent",
+      "daughter",
+      "beech",
+      "esaw",
+      "eods",
+      "immigrants",
+      "phenotypic",
+      "spur",
+      "dusts",
+      "relaunched",
+      "flexicurity",
+      "hardwood",
+      "quarrying",
+      "germ",
+      "obtainable",
+      "mutagens",
+      "oak",
+      "vinyl",
+      "skill",
+      "carcinogenicity",
+      "migrants",
+      "adaptability",
+      "carcinogens",
+      "monomer",
+      "carcinogen",
+      "probable",
+      "shortages",
+      "dust",
+      "migrant",
+      "realisation"
+    ],
+    "prompt_length": 1714,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

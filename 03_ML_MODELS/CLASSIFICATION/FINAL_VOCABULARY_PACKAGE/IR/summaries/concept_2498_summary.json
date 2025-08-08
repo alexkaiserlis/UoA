@@ -1,0 +1,63 @@
+{
+  "concept_id": "2498",
+  "concept_data": {
+    "title": "energy policy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"energy policy\" concept within the EU legal framework is anchored in the promotion of sustainable and multifunctional energy solutions. It lends itself to the integration of renewables, such as geothermal and hydroelectric sources, while facilitating dialogues among member states to address backwardness in energy infrastructure. The policy devotes attention to rationally managing hydrocarbon resources and commissioning innovative technologies, including turbines and sensors. The EU's approach seeks to understand the distinctions between various energy sources, ensuring ecologically sound practices that mitigate the impacts of climate change, as highlighted by the IPCC. This regulatory framework aims to refocus efforts on energy efficiency, while addressing the needs of motorists and urbanism, ultimately realizing a more sustainable energy future.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:53.174095",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 1717,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 75,
+      "selected_avg_freq": 36.63333333333333
+    },
+    "related_words": [
+      "lends",
+      "poetter",
+      "rbmk",
+      "vver",
+      "conciliators",
+      "archive",
+      "urbanism",
+      "intimately",
+      "anchored",
+      "ieea",
+      "geothermal",
+      "ignited",
+      "motorists",
+      "petro",
+      "turbines",
+      "renewables",
+      "regrets",
+      "ecologically",
+      "firewood",
+      "discernible",
+      "hydroelectric",
+      "iee",
+      "devotes",
+      "understandings",
+      "sinks",
+      "multifunctional",
+      "altener",
+      "commissioning",
+      "kozloduy",
+      "rationally"
+    ],
+    "prompt_length": 1675,
+    "category": "6606 energy policy"
+  }
+}

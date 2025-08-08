@@ -1,0 +1,63 @@
+{
+  "concept_id": "2531",
+  "concept_data": {
+    "title": "food contamination",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Food contamination refers to the presence of harmful substances in food products, which can lead to health issues such as nephropathy and immunotoxic dysfunction. In the EU regulatory framework, food safety enforcers are tasked with monitoring contaminants like zearalenone, fumonisins, and trichothecenes in various food categories, including starchy products, confectionary items like chocolates, and seafood such as mullet and anguilla. The legal standards aim to ensure that achievable maximum levels (MLs) of contaminants are not exceeded, thereby protecting consumers. Regular reevaluation of these standards is essential, especially concerning emerging contaminants like epoxidised gallate and their potential nephrotoxic effects.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:51.657471",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 2343,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 9.866666666666667
+    },
+    "related_words": [
+      "yiels",
+      "mls",
+      "achieavable",
+      "proximal",
+      "starchy",
+      "confectionary",
+      "chocolates",
+      "horseradish",
+      "banded",
+      "diplodus",
+      "anguilla",
+      "mullet",
+      "mugil",
+      "labrosus",
+      "louvar",
+      "luvarus",
+      "imperialis",
+      "dicologoglossa",
+      "cuneata",
+      "bullet",
+      "auxis",
+      "bichique",
+      "sicyopterus",
+      "lagocephalus",
+      "nephropathy",
+      "raisins",
+      "zearalenone",
+      "fumonisins",
+      "trichothecenes",
+      "deoxynivalenol"
+    ],
+    "prompt_length": 1719,
+    "category": "5216 deterioration of the environment"
+  }
+}

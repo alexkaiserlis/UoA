@@ -1,0 +1,63 @@
+{
+  "concept_id": "2785",
+  "concept_data": {
+    "title": "veterinary product",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "veterinary medicinal product",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"veterinary product\" is redirected to the preferred term \"veterinary medicinal product.\" This encompasses a wide range of pharmaceutically active substances, including sulfonamide, gonadotrophin, and carbetocin, used for the treatment of animals. Regulatory oversight ensures that products like isoflurane and levamisole meet safety and efficacy standards. The European Medicines Agency (EMA) evaluates proposals for new veterinary medicinal products, including those containing melatonin or praziquantel, to ensure compliance with EU directives. These regulations also address the use of substances such as clenbuterol and ketoprofen, ensuring responsible veterinary practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:22:11.430688",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 754,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 42,
+      "selected_avg_freq": 15.086666666666666
+    },
+    "related_words": [
+      "sulfonamide",
+      "gonadotrophin",
+      "peracetic",
+      "carbetocin",
+      "quillaia",
+      "heptaminol",
+      "phloroglucinol",
+      "thylphloroglucinol",
+      "colchicine",
+      "isoflurane",
+      "luteinizing",
+      "neostigmine",
+      "dihydrostrep",
+      "tomycin",
+      "melatonin",
+      "pharmaceutically",
+      "prodcucts",
+      "etiproston",
+      "proposwal",
+      "lecirelin",
+      "dichloroisocyanurate",
+      "benzylalcohol",
+      "cefazolin",
+      "lini",
+      "betain",
+      "ketanserin",
+      "fertirelin",
+      "menopausal",
+      "bundesgesundheitsamt",
+      "cetrimide"
+    ],
+    "prompt_length": 1846,
+    "category": "2841 health"
+  }
+}

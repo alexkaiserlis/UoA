@@ -1,0 +1,63 @@
+{
+  "concept_id": "1383",
+  "concept_data": {
+    "title": "production of plastics",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "plastics industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"production of plastics,\" redirected to the preferred term \"plastics industry,\" encompasses the synthesis and processing of synthetic materials, notably polyvinyl and polyurethane. This sector is governed by EU regulations addressing environmental impacts, including oversupply and waste management. Legal frameworks often comment on the need for sustainable practices, particularly regarding elastane and other substitutable materials. Regional initiatives, such as the bayerisches foerderprogramm, aim to bolster investment in innovative technologies. The industry faces challenges like stagnant demand and disinvestments, necessitating a sympathetic approach from governments. Additionally, the production of threads for hosiery and carpets illustrates the diverse applications of plastics in modern economies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:38:34.541917",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1050,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 166,
+      "selected_avg_freq": 71.88666666666667
+    },
+    "related_words": [
+      "butyral",
+      "investitionszulagengesetz",
+      "disinvestments",
+      "elastane",
+      "alutechnik",
+      "repays",
+      "doubly",
+      "vanden",
+      "berghe",
+      "desselgem",
+      "desseigem",
+      "acrutiny",
+      "synethetic",
+      "contibuting",
+      "regionales",
+      "foerderprogramm",
+      "negligent",
+      "jiangyin",
+      "chengsheng",
+      "threads",
+      "commenting",
+      "hosiery",
+      "deufil",
+      "bug",
+      "dumfries",
+      "survived",
+      "monomers",
+      "goverment",
+      "sympathetic",
+      "oversupply"
+    ],
+    "prompt_length": 1752,
+    "category": "6811 chemistry"
+  }
+}

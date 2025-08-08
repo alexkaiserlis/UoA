@@ -1,0 +1,63 @@
+{
+  "concept_id": "255",
+  "concept_data": {
+    "title": "European Court of Justice",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Court of Justice of the European Union",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Court of Justice,\" redirecting to the \"Court of Justice of the European Union,\" serves as the supreme tribunal within the EU legal framework. It exercises jurisdiction over cases involving member states, institutions, and individuals, ensuring the uniform application of EU law. Judges, nominated by member states, take an oath to uphold the law unequivocally. The court hears cases on various occasions, including those related to intellectual property and emoluments. It plays a pivotal role in redrafting legal interpretations and ruling on the suitability of candidates for vacant seats. The court's decisions, often published for public scrutiny, are crucial in shaping EU jurisprudence, thereby influencing the legal landscape across jurisdictions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:05:58.206111",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 406,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 844,
+      "selected_avg_freq": 363.87333333333333
+    },
+    "related_words": [
+      "keld",
+      "brixtofte",
+      "oath",
+      "alleweldt",
+      "amelie",
+      "buntenbach",
+      "redraft",
+      "unequivocally",
+      "advocate",
+      "whreas",
+      "karin",
+      "reproduces",
+      "regained",
+      "lawyers",
+      "supreme",
+      "elect",
+      "slovene",
+      "registrar",
+      "appointments",
+      "nominate",
+      "advocates",
+      "tendered",
+      "emoluments",
+      "judges",
+      "tribunal",
+      "jurisdictions",
+      "resignation",
+      "eaec",
+      "vacant",
+      "judge"
+    ],
+    "prompt_length": 1743,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

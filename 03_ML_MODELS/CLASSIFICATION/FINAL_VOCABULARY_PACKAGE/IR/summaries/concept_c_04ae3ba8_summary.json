@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_04ae3ba8",
+  "concept_data": {
+    "title": "network and Internet security",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "information security",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"network and Internet security,\" redirected to the preferred term \"information security,\" encompasses the legal and regulatory frameworks established by the European Union to safeguard digital environments. This includes directives and regulations aimed at enhancing the resilience of information systems against cyber threats and ensuring the confidentiality, integrity, and availability of data. The EU emphasizes the importance of harmonized security measures across member states, promoting cooperation and information sharing among stakeholders. This regulatory landscape is crucial for protecting citizens and businesses from cyber risks, thereby fostering trust in digital services and contributing to the overall security of the internal market.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:27:26.258235",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1251,
+    "category": "3236 information technology and data processing"
+  }
+}

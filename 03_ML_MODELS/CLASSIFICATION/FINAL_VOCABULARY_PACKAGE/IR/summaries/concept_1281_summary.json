@@ -1,0 +1,63 @@
+{
+  "concept_id": "1281",
+  "concept_data": {
+    "title": "mortgage",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"mortgage\" within EU civil law pertains to the legal framework governing the intermediation of credit secured against immovable property. Mortgages serve as a critical financial instrument, allowing stakeholders, including insurers and banking intermediaries, to manage liability and risk. The stipulation of mortgage agreements often involves complex methodologies, with historical precedents influencing current practices across various jurisdictions. Regulatory bodies analyze the resultant claims and options available to borrowers, ensuring consumer protection against negligence and detriment. As residential property markets evolve, the penetration of novel mortgage products necessitates ongoing supervisory oversight to maintain stability and protect credit interests.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:59:50.642412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 164,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1222.02
+    },
+    "related_words": [
+      "intemediaries",
+      "pii",
+      "intermediated",
+      "mortgages",
+      "intermediation",
+      "stipulation",
+      "mortgage",
+      "correlated",
+      "insurers",
+      "residential",
+      "indemnity",
+      "immovable",
+      "exhibit",
+      "history",
+      "jurisdictions",
+      "negligence",
+      "intermediaries",
+      "familiar",
+      "detriment",
+      "novel",
+      "methodologies",
+      "penetration",
+      "stakeholder",
+      "banking",
+      "resultant",
+      "underlying",
+      "regulating",
+      "historical",
+      "supervisory",
+      "analysed"
+    ],
+    "prompt_length": 1697,
+    "category": "1211 civil law"
+  }
+}

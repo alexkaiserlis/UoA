@@ -1,0 +1,63 @@
+{
+  "concept_id": "4572",
+  "concept_data": {
+    "title": "Kingdom of Bahrain",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Bahrain",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Kingdom of Bahrain,\" categorized under political geography, is a redirect to the preferred term \"Bahrain.\" This small island nation, located nearby Qatar and Saudi Arabia, plays a significant role in regionalisation efforts within the Gulf Cooperation Council. In EU legal and regulatory contexts, Bahrain is often referenced in discussions regarding trade agreements, visa regulations, and the enforcement of standards related to equine health, particularly concerning diseases like glanders, which can derive from interactions with neighboring countries like Oman and Kuwait. Additionally, Bahrain's participation in international expos and racing events highlights its metropolitan influence, necessitating structured regulatory frameworks for tourism and transportation, including airport operations. The EU's engagement with Bahrain also involves considerations of notifiability for various regulatory measures, ensuring compliance with veterinary standards and regional delimitation protocols.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:53:48.503042",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 464,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 677,
+      "selected_avg_freq": 280.18
+    },
+    "related_words": [
+      "burkholderia",
+      "mallei",
+      "expo",
+      "notifiability",
+      "tour",
+      "distrito",
+      "goiás",
+      "champions",
+      "fei",
+      "nearby",
+      "qatar",
+      "regionalise",
+      "parking",
+      "methanol",
+      "racing",
+      "gerais",
+      "shanghai",
+      "oman",
+      "equestrian",
+      "janeiro",
+      "glanders",
+      "minas",
+      "bahrain",
+      "kuwait",
+      "derives",
+      "yemen",
+      "metropolitan",
+      "saudi",
+      "arabia",
+      "delimitation"
+    ],
+    "prompt_length": 1685,
+    "category": "7236 political geography"
+  }
+}

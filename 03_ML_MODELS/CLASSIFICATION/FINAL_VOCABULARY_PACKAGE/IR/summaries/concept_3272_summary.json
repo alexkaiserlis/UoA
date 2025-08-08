@@ -1,0 +1,63 @@
+{
+  "concept_id": "3272",
+  "concept_data": {
+    "title": "price of agricultural produce",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"price of agricultural produce\" is a critical component within EU regulatory frameworks, influencing the competitiveness of various agro sectors, including sugar and sugarbeet production. This concept encompasses a range of variables that governmental stakeholders must coordinate to ensure fair market conditions. The EU's agrimonetary policy foresees mechanisms to compensate for price fluctuations, encouraging stability among farmers and promoting sustainable practices. Initiatives are often drafted to address questions related to pricing, with a focus on horizontal cooperation among member states. Expert forums facilitate discussions, allowing individuals to disclose insights and share expertise, ultimately enhancing the roadmap for agricultural pricing strategies across diverse currencies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:51:57.872939",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 248,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1868,
+      "selected_avg_freq": 955.2733333333333
+    },
+    "related_words": [
+      "personalities",
+      "sugarbeet",
+      "agro",
+      "temporis",
+      "roadmap",
+      "governmental",
+      "agrimonetary",
+      "rata",
+      "competences",
+      "liaison",
+      "drafted",
+      "pro",
+      "forum",
+      "coordinate",
+      "discussion",
+      "variable",
+      "consult",
+      "converted",
+      "unused",
+      "foresees",
+      "currencies",
+      "horizontal",
+      "undertook",
+      "late",
+      "compensate",
+      "expertise",
+      "disclosure",
+      "encouraging",
+      "ten",
+      "initiatives"
+    ],
+    "prompt_length": 1694,
+    "category": "2451 prices"
+  }
+}

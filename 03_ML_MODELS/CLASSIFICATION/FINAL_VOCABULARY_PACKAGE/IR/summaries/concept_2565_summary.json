@@ -1,0 +1,63 @@
+{
+  "concept_id": "2565",
+  "concept_data": {
+    "title": "dominant position",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU competition law, a \"dominant position\" refers to a firm's ability to operate independently of competitive pressures, often leading to anti-competitive practices. This status can be attacked by regulators if it results in discrimination against competitors or consumers, as seen in cases involving major publishers like Wegener or Telegraaf. Dominance may arise in various sectors, including media, where generalistic omroeporganisatie like RTL and Endemol engage with viewers and advertisers. The concept is crucial for assessing patentable innovations and franchising agreements, ensuring that no entity, such as KPN or SBS, exploits its market power to the detriment of competition.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:29:18.353075",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1094,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 77,
+      "selected_avg_freq": 25.80666666666667
+    },
+    "related_words": [
+      "sygros",
+      "aăšriennes",
+      "ace",
+      "aime",
+      "rtl",
+      "endemol",
+      "omroeporganisatie",
+      "viewers",
+      "advertisers",
+      "sbs",
+      "attacked",
+      "kpn",
+      "arcade",
+      "newspaper",
+      "wegener",
+      "telegraaf",
+      "publisher",
+      "generalistic",
+      "bronbemaling",
+      "heidemaatschappij",
+      "grondboorbedrijf",
+      "reinders",
+      "wessemius",
+      "grondboorbedrijven",
+      "ruiter",
+      "boringen",
+      "bemalingen",
+      "lareco",
+      "grondboringen",
+      "steenbergen"
+    ],
+    "prompt_length": 1741,
+    "category": "4031 competition"
+  }
+}

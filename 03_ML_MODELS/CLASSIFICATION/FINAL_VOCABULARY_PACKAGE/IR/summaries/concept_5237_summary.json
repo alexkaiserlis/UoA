@@ -1,0 +1,63 @@
+{
+  "concept_id": "5237",
+  "concept_data": {
+    "title": "research and development",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"research and development\" (R&D) within EU legal and regulatory frameworks emphasizes the primacy of innovation in enhancing competitiveness and addressing societal challenges. R&D activities, often supported by subprogrammes under the Horizon Europe initiative, facilitate cooperation among diverse stakeholders, including academia and industry. The thematic thrust of R&D encompasses areas such as genomics, lignocellulose, and the development of advanced materials like polyurethanes and polybuthylene. Regulatory frameworks aim to disseminate findings and ensure the ethical employment of research, particularly in psychosocial contexts. By fostering an environment of exchange and collaboration, the EU seeks to bolster its position in global markets while addressing common health and environmental situations.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:22:58.925095",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2165,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 35,
+      "selected_avg_freq": 15.553333333333333
+    },
+    "related_words": [
+      "primacy",
+      "curie",
+      "contrastive",
+      "acpm",
+      "coun",
+      "gbaord",
+      "healh",
+      "thrust",
+      "psychosocial",
+      "reserch",
+      "eurotra",
+      "flair",
+      "ottignies",
+      "polyurethanes",
+      "polybuthylene",
+      "expansible",
+      "productsd",
+      "aticle",
+      "emnploying",
+      "pesons",
+      "propene",
+      "carburation",
+      "butenes",
+      "butadienes",
+      "methylbutadienes",
+      "ocmmon",
+      "situaitons",
+      "mast",
+      "coopearation",
+      "subprogrammes"
+    ],
+    "prompt_length": 1703,
+    "category": "6416 research and intellectual property"
+  }
+}

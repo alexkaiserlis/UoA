@@ -1,0 +1,63 @@
+{
+  "concept_id": "3373",
+  "concept_data": {
+    "title": "credit insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Credit insurance is a crucial financial instrument within the EU regulatory framework, designed to protect buyers against the risk of non-payment by debtors. This insurance encourages smoother transaction flows and supports smaller organizations by guaranteeing credits. Insurers play a powerful role in this interdependent market, where the negotiation of terms can influence competitiveness. The compulsory nature of credit insurance in certain sectors aims to mitigate distortions in finance and promote cooperative relationships among departments. By identifying primary factors affecting credit transactions, stakeholders can operate more effectively, ensuring that modifications to contracts are advisable and beneficial for all parties involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:31.534818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 204,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 2346,
+      "selected_avg_freq": 1099.2733333333333
+    },
+    "related_words": [
+      "subcontracts",
+      "subcontracting",
+      "insurers",
+      "powerful",
+      "idea",
+      "interdependence",
+      "confine",
+      "reject",
+      "cooperative",
+      "buyers",
+      "credits",
+      "decisive",
+      "negotiation",
+      "economies",
+      "reciprocal",
+      "insurance",
+      "transaction",
+      "influence",
+      "distortions",
+      "smaller",
+      "flows",
+      "credit",
+      "encouraged",
+      "departments",
+      "cooperate",
+      "useful",
+      "compulsory",
+      "primary",
+      "factor",
+      "modification"
+    ],
+    "prompt_length": 1706,
+    "category": "2431 insurance"
+  }
+}

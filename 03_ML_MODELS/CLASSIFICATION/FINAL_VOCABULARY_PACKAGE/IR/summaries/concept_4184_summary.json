@@ -1,0 +1,63 @@
+{
+  "concept_id": "4184",
+  "concept_data": {
+    "title": "marital status",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"marital status\" is governed by various EU legal frameworks, particularly in family law matters. It plays a crucial role in the streamlined recognition of rights and obligations across member states, facilitating mutual assistance in judicial processes. The Hague Convention on the Recognition of Divorces and Legal Separations allows for the enforcement of decisions regarding marital status, ensuring that declarations made in one jurisdiction are accepted in another. This integration is vital for child maintenance and recovery, as it provides a legal basis for families to exercise their rights. Countries like Denmark and Ireland have specific protocols that outline their obligations, thereby enhancing cooperation and security in family law across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:03:28.366988",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1767.5809523809523
+    },
+    "related_words": [
+      "streamlined",
+      "hague",
+      "reservations",
+      "child",
+      "virtually",
+      "sign",
+      "dealt",
+      "accede",
+      "worldwide",
+      "judicial",
+      "family",
+      "jurisdiction",
+      "alone",
+      "signing",
+      "declarations",
+      "enforcement",
+      "accept",
+      "competence",
+      "governed",
+      "recovery",
+      "freedom",
+      "approve",
+      "bound",
+      "integration",
+      "maintenance",
+      "mutual",
+      "recognition",
+      "justice",
+      "good",
+      "allows"
+    ],
+    "prompt_length": 1666,
+    "category": "2806 family"
+  }
+}

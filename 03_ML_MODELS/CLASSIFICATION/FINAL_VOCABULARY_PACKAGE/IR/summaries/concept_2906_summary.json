@@ -1,0 +1,63 @@
+{
+  "concept_id": "2906",
+  "concept_data": {
+    "title": "reinsurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Reinsurance is a crucial component of the insurance architecture within the EU, facilitating risk management by allowing insurers to transfer portions of their risk to other entities. This process involves complex relationships between various stakeholders, including supervisors and national regulators, who oversee compliance with solvency requirements. The European Insurance and Occupational Pensions Authority (EIOPA) plays a pivotal role in developing uniform regulations that empower insurers and reinsurance firms. By documenting agreements and premiums, reinsurance promotes stability in the market. Additionally, the liberalised environment encourages firms to specialise and innovate, while ensuring that overly burdensome regulations are postponed or deleted, thus enhancing operational efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:20:09.279111",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 378,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1038,
+      "selected_avg_freq": 502.73333333333335
+    },
+    "related_words": [
+      "retrocession",
+      "empowerments",
+      "documenting",
+      "omnibus",
+      "eiopa",
+      "overly",
+      "reinsurance",
+      "supervisors",
+      "solvency",
+      "specialising",
+      "papers",
+      "architecture",
+      "empowering",
+      "liberalised",
+      "develops",
+      "postponing",
+      "supervisor",
+      "subscribed",
+      "promotes",
+      "collectively",
+      "chronological",
+      "relationships",
+      "facilitates",
+      "burdensome",
+      "stakeholder",
+      "pensions",
+      "branches",
+      "converting",
+      "reasoned",
+      "realistic"
+    ],
+    "prompt_length": 1714,
+    "category": "2431 insurance"
+  }
+}

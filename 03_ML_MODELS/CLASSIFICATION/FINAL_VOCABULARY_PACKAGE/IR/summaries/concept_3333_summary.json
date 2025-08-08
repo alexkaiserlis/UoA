@@ -1,0 +1,26 @@
+{
+  "concept_id": "3333",
+  "concept_data": {
+    "title": "distribution per employed person",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"distribution per employed person\" pertains to the measurement of economic output and resource allocation within national accounts, specifically within the European Union's regulatory framework. This metric evaluates the distribution of income or wealth generated per employed individual, providing insights into economic equity and labor productivity. It is essential for policymakers and regulatory bodies to assess economic performance, inform fiscal policies, and ensure compliance with EU economic standards. By analyzing this distribution, the EU can better understand labor market dynamics and implement strategies aimed at enhancing employment and social cohesion across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:46.977305",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1189,
+    "category": "1626 national accounts"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_c4afa011",
+  "concept_data": {
+    "title": "healthcare industry",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"healthcare industry\" encompasses a broad spectrum of services and products aimed at maintaining and improving health. Within the EU legal and regulatory framework, this industry is subject to a myriad of directives and regulations designed to ensure patient safety, quality of care, and equitable access to healthcare services. Key legislation includes the General Medical Devices Regulation and the Pharmaceutical Regulation, which govern the approval and monitoring of medical products. Additionally, the EU promotes cross-border healthcare, enabling patients to seek medical services in different member states, thereby enhancing the overall efficacy and competitiveness of the healthcare industry across the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:43:51.776680",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1165,
+    "category": "2841 health"
+  }
+}

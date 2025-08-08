@@ -1,0 +1,63 @@
+{
+  "concept_id": "3770",
+  "concept_data": {
+    "title": "crude oil",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Crude oil, a fundamental hydrocarbon resource, is pivotal in the EU's oil industry, influencing various regulatory frameworks. Its combustion in engines propels economic activities but also raises concerns about emissions and environmental impacts. The EU's legal documents analyze the advisability of blending crude oil grades to diminish pollutants while honouring international agreements. The community's dependence on this resource necessitates stringent regulations to curtail deficits and manage supply chains, especially in light of geopolitical issues, such as those involving Syria. Furthermore, the revocation of certain listings may aggravate market anomalies, necessitating speedy adaptations in refinery operations and propulsion technologies.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:50:10.852682",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 741,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 385,
+      "selected_avg_freq": 187.97333333333333
+    },
+    "related_words": [
+      "fluorocomp",
+      "tls",
+      "luminescence",
+      "realizations",
+      "ignited",
+      "motorists",
+      "petro",
+      "baird",
+      "spectrofluorometer",
+      "commom",
+      "analyzed",
+      "gravely",
+      "listings",
+      "hydrocarbon",
+      "everywhere",
+      "ton",
+      "honouring",
+      "spark",
+      "anomalies",
+      "blended",
+      "curtail",
+      "propulsion",
+      "communty",
+      "propelled",
+      "blending",
+      "diminish",
+      "revocation",
+      "drawings",
+      "syrian",
+      "broadening"
+    ],
+    "prompt_length": 1680,
+    "category": "6616 oil industry"
+  }
+}

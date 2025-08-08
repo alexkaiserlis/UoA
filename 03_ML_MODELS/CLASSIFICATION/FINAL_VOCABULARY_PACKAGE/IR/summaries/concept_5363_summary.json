@@ -1,0 +1,63 @@
+{
+  "concept_id": "5363",
+  "concept_data": {
+    "title": "fodder cereals",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Fodder cereals\" refer to specific plant products categorized under EU regulations as essential for livestock feed, particularly in stockfarming. These cereals, such as millet and lupin, are crucial for the upkeep of various fowls, including ducks, geese, and chickens. The EU legal framework aims to guarantee the quality and safety of these products, ensuring they are free from contaminants. Regulations also address the reselling and distribution of fodder cereals, stipulating that consignors must comply with standards to prevent inequality in the market. Prophylactic measures are encouraged to alleviate health issues in livestock, while simplifications in regulatory processes aim to enhance efficiency for stockfarmers.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:56.543832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 632,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 333,
+      "selected_avg_freq": 148.83333333333334
+    },
+    "related_words": [
+      "stalling",
+      "resells",
+      "dehydrating",
+      "plucked",
+      "hearts",
+      "gizzards",
+      "bled",
+      "sealable",
+      "gaurantee",
+      "livers",
+      "subsidize",
+      "assimilate",
+      "boarding",
+      "upkeep",
+      "feet",
+      "chick",
+      "gutted",
+      "reselling",
+      "cocks",
+      "stockfarmers",
+      "stricken",
+      "lupin",
+      "overhead",
+      "inequality",
+      "prematurely",
+      "sluice",
+      "fowls",
+      "kilogramme",
+      "noticeable",
+      "weakened"
+    ],
+    "prompt_length": 1671,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5554",
+  "concept_data": {
+    "title": "coordination of funds",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "coordination of financing",
+    "relation_type": "USE"
+  },
+  "summary": "The \"coordination of funds,\" also referred to as \"coordination of financing,\" is a crucial concept within EU finance, emphasizing the importance of synchronizing financial resources across various sectors. This coordination aids in the effective allocation of subsidies and grants, ensuring that investments are made in a manner that respects the laws of individual member states, such as Belgium and the Netherlands. The process involves notifying relevant authorities about changes in funding structures, thereby fixing the value of assistance provided. By introducing sectoral units that encourage regional expansion, the EU aims to enhance the net impact of its financial aids, regardless of currency fluctuations.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:40:13.625802",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 43,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 43,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1791.8936170212767
+    },
+    "related_words": [
+      "eua",
+      "aided",
+      "coordinating",
+      "currencies",
+      "sectoral",
+      "expansion",
+      "regardless",
+      "subsidy",
+      "belgian",
+      "aforesaid",
+      "daily",
+      "aids",
+      "net",
+      "refers",
+      "industries",
+      "follows",
+      "dutch",
+      "ecsc",
+      "notify",
+      "units",
+      "texts",
+      "creation",
+      "whereby",
+      "encourage",
+      "unit",
+      "advance",
+      "investment",
+      "introducing",
+      "million",
+      "fixing"
+    ],
+    "prompt_length": 1680,
+    "category": "1021 EU finance"
+  }
+}

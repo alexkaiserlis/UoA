@@ -1,0 +1,63 @@
+{
+  "concept_id": "5078",
+  "concept_data": {
+    "title": "cocoa",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"cocoa\" within EU legal and regulatory frameworks pertains to its classification as a plant product, encompassing various subsectors such as confectionery and baked goods. Cocoa products, including unsweetened chocolate and gianduja, often utilize emulsifiers and stabilizers like lecithin to enhance texture and elasticity. Regulatory standards address the quality and safety of cocoa, ensuring truthful labeling of products like tablets and capsules. The presence of flavanols in cocoa has been studied for its health benefits, while the processing methods, including gelling and disaggregation, can affect the final product's characteristics. Compliance with EU directives is essential for manufacturers to avoid destabilising effects in cocoa dispersions and to manage potential leakage of harmful substances.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:15.244985",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 981,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 287,
+      "selected_avg_freq": 127.12666666666667
+    },
+    "related_words": [
+      "decaffeinated",
+      "succeeds",
+      "gianduja",
+      "neutralizing",
+      "profoundly",
+      "taza",
+      "callebaut",
+      "flavanols",
+      "barry",
+      "elasticity",
+      "throws",
+      "unsweetened",
+      "dispersions",
+      "citl",
+      "challenging",
+      "lecithin",
+      "destabilised",
+      "disaggregation",
+      "gelling",
+      "tiles",
+      "unpacked",
+      "baked",
+      "thickeners",
+      "fom",
+      "truthful",
+      "disaggregated",
+      "subdivide",
+      "emulsifiers",
+      "starches",
+      "phosphoric"
+    ],
+    "prompt_length": 1681,
+    "category": "6006 plant product"
+  }
+}

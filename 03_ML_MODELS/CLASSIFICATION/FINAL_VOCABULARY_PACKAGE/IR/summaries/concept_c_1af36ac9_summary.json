@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_1af36ac9",
+  "concept_data": {
+    "title": "food fraud",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Food fraud refers to the illicit practices that compromise the integrity of food products within the European Union. This encompasses a range of deceptive activities, including mislabeling, adulteration, and counterfeiting, which undermine consumer trust and public health. The EU has established stringent regulations and legal frameworks, such as the General Food Law Regulation (EC) No 178/2002, to combat food fraud and ensure food safety. Regulatory authorities are tasked with monitoring compliance, conducting inspections, and enforcing penalties for violations. The fight against food fraud is crucial for maintaining high standards of food quality and protecting consumers across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:01.994962",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1156,
+    "category": "2841 health"
+  }
+}

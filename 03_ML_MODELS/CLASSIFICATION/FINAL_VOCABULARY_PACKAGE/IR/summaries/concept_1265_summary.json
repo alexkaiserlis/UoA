@@ -1,0 +1,63 @@
+{
+  "concept_id": "1265",
+  "concept_data": {
+    "title": "fish oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Fish oil, categorized under processed agricultural produce (6016), is a lipid-rich product derived primarily from carnivorous fish. In the EU regulatory framework, its safety and quality are paramount, necessitating rigorous decontamination processes to eliminate contaminants such as persistent toxic substances and undesirable constituents. The bioaccumulation of harmful compounds in fish tissues can jeopardize human health, prompting the need for confirmatory testing and monitoring of toxicity levels. Regulations also address fraudulent practices in labeling, ensuring that fish oil products are accurately represented as edible and safe. Indicators of quality, including the persistence of beneficial fatty acids, are critical for consumer protection and market integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:13:06.820744",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 352,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1055,
+      "selected_avg_freq": 474.88
+    },
+    "related_words": [
+      "chb",
+      "biotransformation",
+      "carnivorous",
+      "camphechlor",
+      "smell",
+      "lipid",
+      "congeners",
+      "aniline",
+      "decontamination",
+      "accumulate",
+      "repellents",
+      "urea",
+      "insecticide",
+      "dilution",
+      "notifiers",
+      "sulphate",
+      "endangering",
+      "rich",
+      "confirmatory",
+      "tissues",
+      "systemic",
+      "bio",
+      "contaminants",
+      "liver",
+      "fed",
+      "constituents",
+      "fatty",
+      "persistence",
+      "indicator",
+      "ammonium"
+    ],
+    "prompt_length": 1712,
+    "category": "6016 processed agricultural produce"
+  }
+}

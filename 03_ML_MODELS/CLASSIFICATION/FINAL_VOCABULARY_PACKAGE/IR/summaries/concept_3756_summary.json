@@ -1,0 +1,63 @@
+{
+  "concept_id": "3756",
+  "concept_data": {
+    "title": "bituminous shale",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "bituminous materials",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"bituminous shale,\" categorized under the coal and mining industries, is redirected to the preferred term \"bituminous materials.\" In EU legal and regulatory contexts, bituminous materials encompass various constituents, including crude oils and derived fuels, which are essential for energy production. The classification of these materials is crucial for determining customs tariffs and statistical reporting, as established by the relevant nomenclature codes. Regulations clarify the methods for obtaining and processing these materials, ensuring compliance with environmental standards. Additionally, the volume and weight of bituminous materials are significant for assessing their value in trade, including preparations derived from vegetable and animal fats, as well as biodiesel.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:34:02.549992",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1710.0105263157895
+    },
+    "related_words": [
+      "famae",
+      "bituminous",
+      "alkyl",
+      "biodiesel",
+      "mono",
+      "minerals",
+      "acids",
+      "esters",
+      "constituents",
+      "fatty",
+      "crude",
+      "petroleum",
+      "elsewhere",
+      "fuel",
+      "fats",
+      "vegetable",
+      "subheading",
+      "preparations",
+      "oils",
+      "waste",
+      "note",
+      "add",
+      "kind",
+      "weight",
+      "derived",
+      "clarify",
+      "certainty",
+      "chairman",
+      "nomenclature",
+      "volume"
+    ],
+    "prompt_length": 1682,
+    "category": "6611 coal and mining industries"
+  }
+}

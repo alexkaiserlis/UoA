@@ -1,0 +1,63 @@
+{
+  "concept_id": "2191",
+  "concept_data": {
+    "title": "non-governmental world organization",
+    "category_code": "7626",
+    "category_name": "non-governmental organisations",
+    "category_full": "7626 non-governmental organisations",
+    "is_redirect": true,
+    "preferred_term": "non-governmental organisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"non-governmental world organization\" is a redirect to the preferred term \"non-governmental organisation\" (NGO), which encompasses entities that operate independently from government influence. In the EU legal and regulatory context, NGOs play a crucial role in fostering solidarité and addressing the needs of underprivileged populations. They engage in various activities, including providing aide to displaced individuals and promoting neighbourliness through initiatives like Oxfam and Caritas. These organizations often operate under frameworks that ensure responsiveness to social issues, such as détresse and macrofinancial challenges. Their assemblies are vital for promoting openness and collaboration, particularly in addressing the needs of the most vulnerable, including children and communities in distress. Asbls and other forms of NGOs contribute significantly to the EU's commitment to social justice and humanitarian efforts, reflecting a diverse spectrum of values from socialiste to libérale.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:43:37.952158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 620,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 425,
+      "selected_avg_freq": 166.84
+    },
+    "related_words": [
+      "shoudl",
+      "fellowship",
+      "underprivileged",
+      "croix",
+      "catholica",
+      "solidarité",
+      "socialiste",
+      "libérale",
+      "oxfam",
+      "riens",
+      "église",
+      "détresse",
+      "god",
+      "roede",
+      "kors",
+      "folkekirkens",
+      "noedhjaelp",
+      "barnet",
+      "folkehjaelp",
+      "komiteen",
+      "gladsaxe",
+      "hjaelper",
+      "koszalin",
+      "caritas",
+      "rouge",
+      "ngo",
+      "neighbourliness",
+      "royaumont",
+      "responsiveness",
+      "dansk"
+    ],
+    "prompt_length": 1747,
+    "category": "7626 non-governmental organisations"
+  }
+}

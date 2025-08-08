@@ -1,0 +1,26 @@
+{
+  "concept_id": "2127",
+  "concept_data": {
+    "title": "energy offer",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "available energy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"energy offer,\" categorized under energy policy, is redirected to the term \"available energy.\" In the context of EU legal and regulatory frameworks, \"available energy\" refers to the quantity of energy resources that can be supplied to consumers under specific conditions. This encompasses various forms of energy, including renewable and non-renewable sources, and is crucial for ensuring energy security and sustainability within the EU. Regulatory documents often outline the parameters governing energy offers, including pricing, availability, and compliance with environmental standards, thereby facilitating a transparent and competitive energy market across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:19:52.475281",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 94,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1201,
+    "category": "6606 energy policy"
+  }
+}

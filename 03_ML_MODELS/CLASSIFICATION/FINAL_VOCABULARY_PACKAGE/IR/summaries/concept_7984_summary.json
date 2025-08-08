@@ -1,0 +1,63 @@
+{
+  "concept_id": "7984",
+  "concept_data": {
+    "title": "European Chemicals Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Chemicals Agency (ECHA) is a pivotal EU institution that regulates chemicals under the REACH and CLP regulations. It firmly oversees the nomination and evaluation of substances of very high concern (SVHC), including pollutants like perfluorooctane sulfonates (PFOS) and pentabromodiphenyl ethers. ECHA reviews dossiers for chemical compounds, ensuring compliance with safety standards to mitigate risks associated with bioaccumulative and persistent (PBT) substances. The agency also addresses issues related to the volatilisation and leaching of chemicals in mixtures and coatings, promoting prosperity through sustainable practices. ECHA's role is crucial in transboundary chemical management and the differentiation of hazardous substances in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:41:48.849321",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 446,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 650,
+      "selected_avg_freq": 286.42
+    },
+    "related_words": [
+      "diphenylether",
+      "pentabromo",
+      "cop",
+      "volatilisation",
+      "pfos",
+      "svhc",
+      "compounding",
+      "sccps",
+      "sulfonates",
+      "perfluorooctane",
+      "sealants",
+      "paraffins",
+      "pbt",
+      "bioaccumulative",
+      "pentabromodiphenyl",
+      "firmly",
+      "chlorinated",
+      "appealed",
+      "leaching",
+      "nominate",
+      "prosperity",
+      "commences",
+      "heart",
+      "paints",
+      "fifteen",
+      "ether",
+      "regulates",
+      "coating",
+      "derivative",
+      "nominations"
+    ],
+    "prompt_length": 1745,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

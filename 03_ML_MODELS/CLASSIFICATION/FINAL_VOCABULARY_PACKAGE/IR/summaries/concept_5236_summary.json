@@ -1,0 +1,63 @@
+{
+  "concept_id": "5236",
+  "concept_data": {
+    "title": "European Cooperation in the field of Scientific and Technical Research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "COST",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"European Cooperation in the field of Scientific and Technical Research,\" commonly referred to as \"COST,\" emphasizes the importance of collaborative research efforts across EU member states. This initiative aims to bridge various sectors, integrating disciplines such as biotechnology and psychosocial studies to address health challenges, including cancer and HIV. COST authorizes the launching of subprogrammes that deal with pressing issues, such as renewable energy and sewage management, contributing to a harmonious approach in scientific advancement. Councils across Europe, including those from Milan and London, cooperate to raise awareness and fight deficiencies in research, ensuring an accelerated response to societal needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:07:05.545791",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 273,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1319,
+      "selected_avg_freq": 623.5466666666666
+    },
+    "related_words": [
+      "healh",
+      "thrust",
+      "psychosocial",
+      "reserch",
+      "flair",
+      "coopearation",
+      "euram",
+      "subprogramme",
+      "sludge",
+      "hiv",
+      "cork",
+      "sewage",
+      "assigns",
+      "immune",
+      "crest",
+      "syndrome",
+      "biotechnology",
+      "deficiency",
+      "associating",
+      "bridge",
+      "milan",
+      "cancer",
+      "associate",
+      "launching",
+      "expect",
+      "emphasized",
+      "councils",
+      "turkish",
+      "bis",
+      "integrate"
+    ],
+    "prompt_length": 1760,
+    "category": "6416 research and intellectual property"
+  }
+}

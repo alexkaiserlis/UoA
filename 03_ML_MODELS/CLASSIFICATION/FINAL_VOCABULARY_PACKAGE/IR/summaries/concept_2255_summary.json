@@ -1,0 +1,63 @@
+{
+  "concept_id": "2255",
+  "concept_data": {
+    "title": "European party",
+    "category_code": "0411",
+    "category_name": "political party",
+    "category_full": "0411 political party",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European party\" refers to political entities that operate within the framework of the European Union, specifically designed to participate in broader elections and engage citizens in the democratic process. These parties are subject to specificities outlined in EU regulations, including funding mechanisms that allow for donations and contributions from various sources, including foundations. They must adhere to rules regarding the transparency of accounts and the audit of their financial activities. Unspent sums may be reimbursable, while penalties can be imposed for infringements. The selection of candidates and campaign strategies must align with a coherent charter, ensuring that their activities are suited to the fundamental principles of EU governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:06:22.786405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 216,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1996,
+      "selected_avg_freq": 1021.9933333333333
+    },
+    "related_words": [
+      "unspent",
+      "idem",
+      "donations",
+      "prefinancing",
+      "reimbursable",
+      "lump",
+      "foundations",
+      "infringe",
+      "specificities",
+      "debts",
+      "broader",
+      "elections",
+      "bis",
+      "match",
+      "spent",
+      "officer",
+      "campaigns",
+      "expressing",
+      "recovered",
+      "auditors",
+      "awareness",
+      "sums",
+      "audit",
+      "suggested",
+      "forming",
+      "indirectly",
+      "charter",
+      "suited",
+      "coherent",
+      "awarded"
+    ],
+    "prompt_length": 1665,
+    "category": "0411 political party"
+  }
+}

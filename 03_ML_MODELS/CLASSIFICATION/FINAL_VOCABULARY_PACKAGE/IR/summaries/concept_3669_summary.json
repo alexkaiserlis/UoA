@@ -1,0 +1,63 @@
+{
+  "concept_id": "3669",
+  "concept_data": {
+    "title": "company research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"company research\" within the EU legal and regulatory framework encompasses efforts by organizations, particularly universities and research centres, to engage in technological advancements and innovation. This research is often implemented in conjunction with multiannual programmes that specify actions to encourage participation from small and medium-sized enterprises (SMEs). The European Commission sets out detailed principles and methods to determine the effectiveness of these research undertakings, ensuring that budget limitations are justified and sound. By cooperating with various participants, the EU aims to supplement the economy and enhance the coherence of research activities, ultimately fostering a more competitive environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:22:39.058341",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2011.1583333333333
+    },
+    "related_words": [
+      "rtd",
+      "universities",
+      "jrc",
+      "demonstration",
+      "limitations",
+      "centres",
+      "participants",
+      "coherent",
+      "sized",
+      "detail",
+      "justification",
+      "cooperate",
+      "centre",
+      "multiannual",
+      "normally",
+      "supplement",
+      "technological",
+      "organizations",
+      "specifies",
+      "economy",
+      "medium",
+      "encourage",
+      "efforts",
+      "sound",
+      "title",
+      "participation",
+      "budget",
+      "research",
+      "fourth",
+      "effectiveness"
+    ],
+    "prompt_length": 1692,
+    "category": "6416 research and intellectual property"
+  }
+}

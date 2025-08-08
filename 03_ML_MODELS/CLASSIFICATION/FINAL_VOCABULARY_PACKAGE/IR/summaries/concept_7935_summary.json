@@ -1,0 +1,63 @@
+{
+  "concept_id": "7935",
+  "concept_data": {
+    "title": "diplomatic protocol",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Diplomatic protocol constitutes a vital aspect of international affairs within the EU framework, particularly concerning the functioning of the Union's external relations. It involves the application of specific provisions regarding the issuance of passports and visas, ensuring that holders can travel in accordance with Schengen agreements. The diplomatic protocol is bound by negotiated agreements that require consent from member states, such as the United Kingdom and Ireland, particularly in the context of the Northern Ireland protocol. The adoption of these protocols is subject to parliamentary approval, and their development is documented in official journals. The conclusion of such agreements often takes place on behalf of the Union, reflecting its federative nature and commitment to international cooperation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:13:07.354101",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 54,
+      "requested_words": 150,
+      "min_frequency_found": 51,
+      "max_frequency_found": 4108,
+      "selected_words": 54,
+      "selected_min_freq": 51,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1890.9259259259259
+    },
+    "related_words": [
+      "federative",
+      "passports",
+      "waiver",
+      "diplomatic",
+      "visa",
+      "stay",
+      "schengen",
+      "holders",
+      "acquis",
+      "brazil",
+      "consent",
+      "britain",
+      "northern",
+      "negotiated",
+      "bound",
+      "great",
+      "service",
+      "short",
+      "ireland",
+      "constitutes",
+      "later",
+      "signed",
+      "behalf",
+      "conjunction",
+      "conclusion",
+      "kingdom",
+      "adoption",
+      "request",
+      "united",
+      "republic"
+    ],
+    "prompt_length": 1660,
+    "category": "0806 international affairs"
+  }
+}

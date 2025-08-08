@@ -1,0 +1,63 @@
+{
+  "concept_id": "5593",
+  "concept_data": {
+    "title": "catalytic converter",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "anti-pollution device",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"catalytic converter,\" redirected to \"anti-pollution device,\" refers to essential components in motor vehicles designed to reduce harmful emissions, including carbon monoxide and particulate matter. In the EU's environmental policy framework, these devices are subject to stringent standardisation and enforcement measures to ensure compliance with emissions thresholds. Regulations specify the technology's capability to filter and convert harmful gases during the ignition process in both petrol and diesel engines. Maintenance and diagnostic procedures are crucial for verifying the effectiveness of these converters. Additionally, the feasibility of replacing outdated components is often assessed during vehicle inspections at refuelling stations, ensuring adherence to EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:03:52.612680",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 173,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3248,
+      "selected_avg_freq": 1391.4933333333333
+    },
+    "related_words": [
+      "dpf",
+      "otls",
+      "refuelling",
+      "vapour",
+      "converters",
+      "monoxide",
+      "catalytic",
+      "wheel",
+      "compression",
+      "particulate",
+      "ignition",
+      "filter",
+      "inserting",
+      "diesel",
+      "engines",
+      "petrol",
+      "defer",
+      "cen",
+      "diagnostic",
+      "repair",
+      "carbon",
+      "stations",
+      "appendix",
+      "feasibility",
+      "mass",
+      "motor",
+      "vehicle",
+      "emissions",
+      "marking",
+      "standardisation"
+    ],
+    "prompt_length": 1710,
+    "category": "5206 environmental policy"
+  }
+}

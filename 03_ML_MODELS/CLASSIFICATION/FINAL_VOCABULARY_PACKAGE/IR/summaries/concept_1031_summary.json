@@ -1,0 +1,63 @@
+{
+  "concept_id": "1031",
+  "concept_data": {
+    "title": "flower-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "floriculture",
+    "relation_type": "USE"
+  },
+  "summary": "Floriculture, the preferred term for \"flower-growing,\" encompasses a diverse range of agricultural activities focused on the cultivation of ornamental plants, including hyacinthus, tulips, and dahlias. Within EU legal and regulatory frameworks, floriculture is subject to specific marketing and quality standards to ensure the viability of species such as ixia and lilium. The sector faces challenges, including the ailing market for certain varieties like sinningias and gladioli, necessitating readjustments in production strategies. Additionally, the promotion of unifloral and multifloral arrangements has implications for biodiversity and consumer preferences. Regulatory measures affirm the importance of sustainable practices in floriculture, addressing issues of environmental impact and market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:28.357752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1935,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 28,
+      "selected_avg_freq": 10.84
+    },
+    "related_words": [
+      "insignifiant",
+      "hyacinthus",
+      "caryophyllus",
+      "florigene",
+      "tazetta",
+      "isarael",
+      "tulips",
+      "begonias",
+      "sinningias",
+      "gladioli",
+      "dahlias",
+      "lueneberg",
+      "neapolitanum",
+      "ixia",
+      "eranthis",
+      "cilicica",
+      "hiemalis",
+      "meleagris",
+      "sparaxis",
+      "tricolor",
+      "irises",
+      "wedgwood",
+      "blaauw",
+      "tulipa",
+      "kaufmanniana",
+      "bellini",
+      "edwin",
+      "lady",
+      "kreisler",
+      "gaiety"
+    ],
+    "prompt_length": 1722,
+    "category": "5631 agricultural activity"
+  }
+}

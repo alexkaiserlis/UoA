@@ -1,0 +1,63 @@
+{
+  "concept_id": "5895",
+  "concept_data": {
+    "title": "monkey",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"monkey\" within the EU regulatory framework pertains to the natural environment category, particularly concerning the importation and protection of simiae and prosimiae species. The presence of these animals can pose serious dangers, such as the transmission of diseases like Ebola, which have been reported during outbreaks. Consequently, EU directives lay down principles governing the veterinary checks necessary for animals entering from third countries. Member states, including Finland, Sweden, and Austria, must adopt appropriate measures to suspend importation when risks are foreseen. The relevance of this concept is underscored by the need for amending existing regulations to ensure the protection of public health and animal welfare across the EEA.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:04:56.984201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 63,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 63,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1969.984126984127
+    },
+    "related_words": [
+      "simiae",
+      "prosimiae",
+      "apes",
+      "zaire",
+      "ebola",
+      "outbreaks",
+      "danger",
+      "suspend",
+      "rapidly",
+      "disease",
+      "reported",
+      "entering",
+      "coming",
+      "presence",
+      "foreseen",
+      "veterinary",
+      "importation",
+      "animals",
+      "checks",
+      "finland",
+      "sweden",
+      "austria",
+      "originating",
+      "directives",
+      "serious",
+      "constitutes",
+      "organization",
+      "principles",
+      "governing",
+      "standing"
+    ],
+    "prompt_length": 1634,
+    "category": "5211 natural environment"
+  }
+}

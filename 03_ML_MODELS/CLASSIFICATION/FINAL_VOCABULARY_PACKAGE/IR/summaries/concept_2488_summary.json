@@ -1,0 +1,63 @@
+{
+  "concept_id": "2488",
+  "concept_data": {
+    "title": "system of imports",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": true,
+    "preferred_term": "import policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"system of imports,\" redirected to \"import policy,\" encompasses the EU's regulatory framework governing the circulation of goods across member states. This policy is crucial for ensuring that products, such as stoneware and earthenware pottery, comply with safety and quality standards, thereby preventing unforeseeably harmful items from entering the market. Import agreements facilitate the propagation of trade, while consolidations of regulations streamline the process. The import policy also addresses specific concerns regarding products like trachemys scripta and rana catesbeiana, ensuring that licenses are appropriately issued. Ultimately, this framework supports the EU's trade objectives, enhancing economic stability and fostering fair competition among manufacturers, including brands like Adidas and Bata.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:19:22.632895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 4723,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.6466666666666665
+    },
+    "related_words": [
+      "rapily",
+      "juin",
+      "foolowing",
+      "circultation",
+      "insofor",
+      "ahaving",
+      "stoneware",
+      "earthenware",
+      "pottery",
+      "productuion",
+      "unforeseeably",
+      "agreeemnts",
+      "propagatingh",
+      "concernaing",
+      "trachemys",
+      "scripta",
+      "elegans",
+      "rana",
+      "catesbeiana",
+      "oxydemethon",
+      "dfar",
+      "ands",
+      "skipped",
+      "consolidations",
+      "liences",
+      "adidas",
+      "dettwiller",
+      "bata",
+      "moussey",
+      "bataville"
+    ],
+    "prompt_length": 1695,
+    "category": "2006 trade policy"
+  }
+}

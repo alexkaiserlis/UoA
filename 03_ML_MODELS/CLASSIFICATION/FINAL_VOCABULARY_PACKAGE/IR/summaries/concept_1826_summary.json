@@ -1,0 +1,63 @@
+{
+  "concept_id": "1826",
+  "concept_data": {
+    "title": "building materials",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"building materials\" encompasses a wide range of products used in construction and public works within the EU regulatory framework. This includes items such as asbeste, ciment, and eternit, which are subject to stringent safety and environmental regulations. Manufacturers like fiplasto and pavatex produce specialized materials, while companies such as Slovenijales and exportles focus on sustainable practices. Regulatory compliance is critical, particularly concerning chemicaliăťn substances and potential malfunction risks associated with materials like walling and claddings. The EU promotes innovation and safety standards, ensuring that products from usines and fabrieken meet professional benchmarks, as seen in initiatives involving brands like tafisa and isorel.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:23.779132",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1825,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 5.693333333333333
+    },
+    "related_words": [
+      "fiplasto",
+      "pavatex",
+      "cham",
+      "lesonit",
+      "slovenijales",
+      "illirska",
+      "bistrica",
+      "kopaonik",
+      "kur",
+      "sumlja",
+      "ipad",
+      "beveka",
+      "resim",
+      "exportles",
+      "ffl",
+      "malfunction",
+      "walling",
+      "claddings",
+      "corrugated",
+      "professionnelle",
+      "usines",
+      "asbeste",
+      "ciment",
+      "eternit",
+      "kapelle",
+      "bos",
+      "fabrecim",
+      "harmignies",
+      "balmatt",
+      "mol"
+    ],
+    "prompt_length": 1642,
+    "category": "6831 building and public works"
+  }
+}

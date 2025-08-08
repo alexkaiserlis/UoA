@@ -1,0 +1,63 @@
+{
+  "concept_id": "4422",
+  "concept_data": {
+    "title": "particle accelerators",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear technology",
+    "relation_type": "USE"
+  },
+  "summary": "Particle accelerators, a key aspect of nuclear technology, are sophisticated apparatuses used in various fields, including physics and medical applications. Within the EU regulatory framework, these technologies are subject to strict governance to ensure safety and compliance with international standards, such as those outlined in the Wassenaar Arrangement. The Joint Research Centre (JRC) conducts experiments utilizing cyclotron and thermonuclear methods to advance understanding of particle behavior and fusion processes. Regulatory measures also address the dual-use nature of these technologies, invoking sanctions against unauthorized suppliers. The Lisbon Treaty emphasizes the importance of safe and responsible use of nuclear technologies, particularly in educational contexts, ensuring that advancements in precision detectors and flux measurements are aligned with EU objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:14:59.932549",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 2298,
+      "selected_avg_freq": 1000.1
+    },
+    "related_words": [
+      "planar",
+      "hfr",
+      "cyclotron",
+      "ortec",
+      "flux",
+      "wassenaar",
+      "detectors",
+      "physics",
+      "thermonuclear",
+      "beams",
+      "depleted",
+      "reactor",
+      "jrc",
+      "fusion",
+      "silicon",
+      "particles",
+      "governors",
+      "experiments",
+      "dual",
+      "answer",
+      "barrier",
+      "ordered",
+      "specially",
+      "precision",
+      "affirmative",
+      "freezing",
+      "invoke",
+      "educational",
+      "apparatus",
+      "variable"
+    ],
+    "prompt_length": 1705,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

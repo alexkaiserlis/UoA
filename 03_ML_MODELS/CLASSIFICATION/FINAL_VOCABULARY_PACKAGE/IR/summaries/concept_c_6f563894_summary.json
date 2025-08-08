@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_6f563894",
+  "concept_data": {
+    "title": "orphan medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "orphan drug",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"orphan medicine,\" more commonly referred to as \"orphan drug,\" pertains to medicinal products developed for the diagnosis, prevention, or treatment of rare diseases affecting fewer than 5 in 10,000 individuals in the EU. The European Medicines Agency (EMA) oversees the designation of orphan drugs, which provides incentives such as market exclusivity, financial aid, and assistance in clinical trial design. This regulatory approach aims to stimulate research and development in areas where medical needs are unmet, thereby ensuring that patients with rare conditions have access to essential therapies.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:24:16.357646",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1192,
+    "category": "2841 health"
+  }
+}

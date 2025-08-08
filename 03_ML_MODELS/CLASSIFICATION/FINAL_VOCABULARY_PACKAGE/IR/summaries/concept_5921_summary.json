@@ -1,0 +1,63 @@
+{
+  "concept_id": "5921",
+  "concept_data": {
+    "title": "health care system",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"health care system\" within the EU framework is a multisectoral initiative aimed at enhancing the quality and accessibility of healthcare for patients. It involves a knowledgeable approach to standardise practices across member states, ensuring that care is responsive to the needs of senior populations. The system stresses the importance of periodic reflection on healthcare models and the advisability of investing in excellence. By coordinating efforts among various stakeholders, including policymakers and healthcare providers, the EU aims to generate success through initiatives that disseminate best practices. This includes measuring indicators of performance and fostering independence in healthcare delivery, thereby creating a sustainable environment for all.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:42.450667",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 231,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1643,
+      "selected_avg_freq": 771.3333333333334
+    },
+    "related_words": [
+      "knowledgeable",
+      "immense",
+      "multisectoral",
+      "reiterating",
+      "responsive",
+      "hospital",
+      "try",
+      "indemnities",
+      "standardise",
+      "disseminate",
+      "healthcare",
+      "topics",
+      "excellence",
+      "investing",
+      "makers",
+      "semester",
+      "patients",
+      "senior",
+      "advisability",
+      "invite",
+      "stresses",
+      "experiences",
+      "medicines",
+      "generate",
+      "reflection",
+      "modern",
+      "experienced",
+      "competences",
+      "recognise",
+      "independence"
+    ],
+    "prompt_length": 1705,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3227",
+  "concept_data": {
+    "title": "exchange restriction",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"exchange restriction\" in EU monetary economics pertains to regulatory measures that erect barriers to the inflow and outflow of currency, often in response to economic disequilibrium. Such restrictions can stem from a desire to restore equilibrium during periods of intense financial fluctuations or unemployment. When implemented, these measures may be perceived as austere, affecting residents and intermediaries engaged in settlements. The relaxation or reintroduction of these restrictions is justifiable only when it serves to stem sudden capital flights or restore stability. Investigating the implications of these restrictions is essential, as they can lead to unjustified economic imbalances and affect speculative markets, rendering them more expensive for captive investors.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:02.276126",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 357,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 994,
+      "selected_avg_freq": 487.3466666666667
+    },
+    "related_words": [
+      "erects",
+      "austere",
+      "outflow",
+      "invisible",
+      "rescinded",
+      "inflow",
+      "disequilibrium",
+      "inflows",
+      "settlements",
+      "ties",
+      "get",
+      "sterling",
+      "continuance",
+      "relaxation",
+      "subtype",
+      "flights",
+      "residents",
+      "captive",
+      "restored",
+      "intermediaries",
+      "combine",
+      "intensified",
+      "worse",
+      "expensive",
+      "investigating",
+      "restoring",
+      "promptly",
+      "reintroduce",
+      "stem",
+      "sudden"
+    ],
+    "prompt_length": 1712,
+    "category": "2411 monetary economics"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3005",
+  "concept_data": {
+    "title": "transnational corporation",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A transnational corporation (TNC) is a business entity that operates across borders, playing a crucial role in the context of globalization. These enterprises frequently encounter challenges and opportunities that span various jurisdictions, often requiring them to invest in technology and initiatives that strengthen their competitiveness. The EU has recognized the importance of TNCs in promoting economic growth and has implemented multiannual strategies to assist small and medium-sized enterprises (SMEs) in overcoming obstacles. By removing barriers and fostering partnerships, the EU aims to create a more suited environment for TNCs, benefiting job creation and overall economic development.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:16.683386",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 148,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 148,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1510.1554054054054
+    },
+    "related_words": [
+      "globalization",
+      "shrinking",
+      "observatory",
+      "overcoming",
+      "encounter",
+      "span",
+      "ventures",
+      "weaknesses",
+      "invest",
+      "transnational",
+      "played",
+      "job",
+      "presidency",
+      "smes",
+      "amsterdam",
+      "benefited",
+      "faced",
+      "removing",
+      "frequently",
+      "borders",
+      "suited",
+      "obstacles",
+      "stressed",
+      "initiatives",
+      "sized",
+      "few",
+      "assisted",
+      "partners",
+      "opportunities",
+      "wish"
+    ],
+    "prompt_length": 1699,
+    "category": "4011 business classification"
+  }
+}

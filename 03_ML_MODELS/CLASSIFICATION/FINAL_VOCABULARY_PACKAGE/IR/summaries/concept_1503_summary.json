@@ -1,0 +1,63 @@
+{
+  "concept_id": "1503",
+  "concept_data": {
+    "title": "arrangement of working time",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"arrangement of working time\" is a critical concept within the EU's regulatory framework, addressing the organization of work and working conditions. It encompasses various modules that promote flexibility and adaptability, aligning with the principles of flexicurity. This arrangement is essential for managing the workforce, particularly in sectors experiencing skill shortages, such as mining and quarrying. It also considers the legality of working hours, breaks, and the experiences of migrant workers. The debate surrounding this concept coincides with the emerging needs of an ageing population and the evolving demands of industries like airlines and waterway transport, ensuring that working conditions remain convenient and supportive for all workers.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:38.698129",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 437,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 807,
+      "selected_avg_freq": 332.41333333333336
+    },
+    "related_words": [
+      "aea",
+      "iaca",
+      "esaw",
+      "eods",
+      "immigrants",
+      "eca",
+      "cockpit",
+      "spur",
+      "relaunched",
+      "flexicurity",
+      "regression",
+      "quarrying",
+      "etf",
+      "obtainable",
+      "airline",
+      "convenience",
+      "skill",
+      "pillars",
+      "era",
+      "breaks",
+      "migrants",
+      "adaptability",
+      "shortages",
+      "coincides",
+      "migrant",
+      "pillar",
+      "legality",
+      "matching",
+      "predicted",
+      "module"
+    ],
+    "prompt_length": 1673,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

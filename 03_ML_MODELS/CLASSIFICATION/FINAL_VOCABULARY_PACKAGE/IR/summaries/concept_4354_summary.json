@@ -1,0 +1,63 @@
+{
+  "concept_id": "4354",
+  "concept_data": {
+    "title": "Syrian Arab Republic",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Syria",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Syrian Arab Republic,\" commonly referred to as \"Syria,\" is a significant focus in EU legal and regulatory frameworks, particularly regarding human rights and geopolitical stability. The ongoing conflict, waged under the regime of Bashar al-Assad, has led to widespread protests and discontent among civilians, resulting in a daunting humanitarian crisis. Reports of indiscriminate shootings and the murder of protestors have raised concerns over the repressive tactics employed by the regime. The EU has responded with sanctions, including listings of individuals involved in human rights violations, and has brokered communiqués emphasizing the universality of human rights. The situation in Damascus and other regions, such as Rif, remains critical, with reports of disappearances and persecution of dissenters like Khaled and Nidal. The EEAS continues to monitor these developments, advocating for the protection of humanity amidst the ongoing turmoil.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:12:20.049789",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 1111,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 109,
+      "selected_avg_freq": 43.53333333333333
+    },
+    "related_words": [
+      "samir",
+      "nedal",
+      "alchaar",
+      "nidal",
+      "shaar",
+      "aiman",
+      "jaber",
+      "khaled",
+      "kaddour",
+      "hamcho",
+      "neturality",
+      "hassan",
+      "mohamad",
+      "mohammad",
+      "scene",
+      "indivisibility",
+      "protests",
+      "discontent",
+      "uprising",
+      "protestors",
+      "murder",
+      "persecution",
+      "waged",
+      "bashar",
+      "protesters",
+      "defiant",
+      "outrage",
+      "rif",
+      "damascus",
+      "cwc"
+    ],
+    "prompt_length": 1690,
+    "category": "7236 political geography"
+  }
+}

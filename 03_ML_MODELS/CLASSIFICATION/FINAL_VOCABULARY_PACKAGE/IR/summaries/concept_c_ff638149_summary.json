@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_ff638149",
+  "concept_data": {
+    "title": "asylum seeker",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"asylum seeker\" is an individual who has fled their country of origin and seeks international protection due to a well-founded fear of persecution. Within the EU legal framework, the concept is governed by the Common European Asylum System (CEAS), which establishes standards for the treatment and processing of asylum applications. Asylum seekers are entitled to certain rights, including access to legal assistance and the right to appeal decisions regarding their status. The EU aims to ensure that the process is fair and efficient, balancing international security concerns with humanitarian obligations to protect vulnerable individuals.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:14:35.656256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1175,
+    "category": "0816 international security"
+  }
+}

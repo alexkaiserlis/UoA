@@ -1,0 +1,63 @@
+{
+  "concept_id": "1504",
+  "concept_data": {
+    "title": "Southern Ireland",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Ireland",
+    "relation_type": "USE"
+  },
+  "summary": "The concept \"Southern Ireland\" redirects to the preferred term \"Ireland,\" reflecting its political geography within the EU framework. Historically, the term may evoke figures such as Jim McCusker from Letterkenny, Donegal, who engaged in local governance discussions. Legal documents often reference Ireland in the context of EU regulations impacting regions like Wexford and Ulster. The horticultural sector, represented by individuals like Michelle Mulherin and Constance Hanniffy, illustrates the interplay of EU agricultural policies. Regulatory frameworks also address unincorporated entities, as seen in cases involving businesses like RSM and ATMs. Notably, the evolving legal landscape affects citizens, including those represented by figures like Gerry Breen and Siobhán Egan, as they navigate compliance and rights within the EU's jurisdiction.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:57:54.428999",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 4025,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 5.28
+    },
+    "related_words": [
+      "jim",
+      "mccusker",
+      "letterkenny",
+      "donegal",
+      "michelle",
+      "mulherin",
+      "landy",
+      "brennan",
+      "caseine",
+      "hurley",
+      "yore",
+      "gerry",
+      "breen",
+      "constance",
+      "hanniffy",
+      "meaney",
+      "barney",
+      "steele",
+      "freehill",
+      "rsm",
+      "farrell",
+      "sparks",
+      "mae",
+      "sexton",
+      "lougheed",
+      "siobhán",
+      "egan",
+      "padraig",
+      "walshe",
+      "jillian"
+    ],
+    "prompt_length": 1631,
+    "category": "7236 political geography"
+  }
+}

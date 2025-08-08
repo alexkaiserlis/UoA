@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_f7c1b2bd",
+  "concept_data": {
+    "title": "transactional data",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "dynamic data",
+    "relation_type": "USE"
+  },
+  "summary": "Transactional data, often referred to as dynamic data, encompasses information generated through various transactions in digital environments. In the context of EU legal and regulatory frameworks, this concept is pivotal for understanding data protection, privacy regulations, and compliance obligations under instruments such as the General Data Protection Regulation (GDPR). Dynamic data is characterized by its fluidity and real-time nature, necessitating robust mechanisms for its management and processing. The EU emphasizes the importance of safeguarding such data to protect individual rights while fostering innovation in information technology and data processing sectors. As a redirect, \"transactional data\" aligns with \"dynamic data,\" highlighting its evolving nature within regulatory discussions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:21.162561",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1232,
+    "category": "3236 information technology and data processing"
+  }
+}

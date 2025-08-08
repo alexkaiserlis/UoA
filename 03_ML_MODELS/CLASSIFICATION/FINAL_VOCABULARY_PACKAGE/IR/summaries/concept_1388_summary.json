@@ -1,0 +1,63 @@
+{
+  "concept_id": "1388",
+  "concept_data": {
+    "title": "tanning industry",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "leather industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"tanning industry,\" a term redirected to the \"leather industry,\" encompasses various regulatory frameworks within the EU, focusing on tanners and dressers who process hides into tanned leather. This sector faces challenges related to environmental impacts, including the use of nanomaterials and chemicals like propiconazole, which may elicit allergic reactions such as dermatitis. The EU monitors the industry’s compliance with regulations, ensuring the enforceability of standards that protect taxpayer interests and community health. Recent successes in liberalising trade with regions like Mercosur highlight an upswing in the industry, while ongoing discussions address the sensitisation of workers and the dimensional stability of leather products.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:29:14.530877",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 966,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 238,
+      "selected_avg_freq": 102.62666666666667
+    },
+    "related_words": [
+      "statistic",
+      "challengable",
+      "successes",
+      "polymerised",
+      "subunits",
+      "monitorability",
+      "upswing",
+      "cotance",
+      "tanners",
+      "dressers",
+      "tanned",
+      "admits",
+      "elicitation",
+      "looks",
+      "casual",
+      "taxpayer",
+      "sensitised",
+      "dermatitis",
+      "mercosur",
+      "seac",
+      "getting",
+      "elicit",
+      "tanning",
+      "enclose",
+      "allergy",
+      "hide",
+      "buenos",
+      "aires",
+      "liberalising",
+      "nanomaterials"
+    ],
+    "prompt_length": 1741,
+    "category": "6841 leather and textile industries"
+  }
+}

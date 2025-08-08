@@ -1,0 +1,63 @@
+{
+  "concept_id": "128",
+  "concept_data": {
+    "title": "European Council",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Council is a pivotal institution within the European Union, established by the Treaty of Lisbon. It transforms the EU's decision-making process by electing its president, a role held by Herman Van Rompuy from 2010 until 2014. The Council enters into force once the necessary procedures are adopted, providing a framework for the functioning of the Union. It adopts decisions that enable the adoption of new rules, laid down in official journals. The European Council meets regularly to discuss and decide on key issues, ensuring that the EU operates in accordance with its treaties and institutional mandates.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:24:14.672837",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 43,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 43,
+      "selected_min_freq": 2,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1922.3953488372092
+    },
+    "related_words": [
+      "transforms",
+      "rompuy",
+      "electing",
+      "herman",
+      "elected",
+      "van",
+      "institutes",
+      "enters",
+      "institution",
+      "president",
+      "lisbon",
+      "holder",
+      "written",
+      "once",
+      "immediately",
+      "office",
+      "adopting",
+      "day",
+      "enable",
+      "adoption",
+      "adopt",
+      "until",
+      "force",
+      "use",
+      "provide",
+      "new",
+      "procedure",
+      "functioning",
+      "adopted",
+      "period"
+    ],
+    "prompt_length": 1575,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

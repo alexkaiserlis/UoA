@@ -1,0 +1,63 @@
+{
+  "concept_id": "1386",
+  "concept_data": {
+    "title": "wood processing",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": true,
+    "preferred_term": "wood industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wood processing,\" redirected to the preferred term \"wood industry,\" encompasses a range of activities involving the treatment and utilization of wood and related materials, such as sughero and legno. In the EU regulatory framework, this sector is subject to stringent standards addressing environmental impacts, including the use of larvicides and chemicals like chlorides and cyanide, which may be ejected during processing. The interrelationships between woodworking practices and biodiversity, particularly concerning species like daphnia and coccidia, are critical. Regulatory bodies may require compliance with protocols like NEPCon for sustainable sourcing, ensuring that practices do not compromise community health or environmental integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:33:35.162609",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1136,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 99,
+      "selected_avg_freq": 32.413333333333334
+    },
+    "related_words": [
+      "diazenium",
+      "dioxy",
+      "consorzio",
+      "legno",
+      "sughero",
+      "meeuwenlaan",
+      "magna",
+      "nepcon",
+      "guldsmedgade",
+      "ddacarbonate",
+      "bunding",
+      "interrelationships",
+      "dimethylbenzyl",
+      "alkyldimethyl",
+      "cyclohexylhydroxydiazene",
+      "ejected",
+      "larvicides",
+      "synonymous",
+      "intermittent",
+      "chtwpcp",
+      "isothiazol",
+      "daphnia",
+      "fumigated",
+      "hdo",
+      "efics",
+      "cyanide",
+      "guazatine",
+      "woodworking",
+      "boring",
+      "wetting"
+    ],
+    "prompt_length": 1754,
+    "category": "6836 wood industry"
+  }
+}

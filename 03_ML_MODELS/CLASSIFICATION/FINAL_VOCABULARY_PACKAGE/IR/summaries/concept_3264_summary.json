@@ -1,0 +1,63 @@
+{
+  "concept_id": "3264",
+  "concept_data": {
+    "title": "special tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"special tax\" within EU legal and regulatory frameworks refers to a levy that is applied to specific sectors or activities, often to address interdependent economic components such as coal and steel industries. Special taxes may be negotiated to adjust the remuneration of officials or staff, ensuring that emoluments reflect the unique circumstances of their employment. The preamble of relevant legislation may reveal the rationale behind such taxes, which can include the promotion of justice and the protection of privileges and immunities for certain groups, including judges and advocates. As outlined in various subparagraphs, the application of these taxes is comprehensive, with specific dates for commencement and expiry incorporated into the legal texts. Notably, the role of auditors and registrars is crucial in overseeing compliance, ensuring that any deductions are justified mutatis mutandis to maintain fairness in the system.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:04:33.097250",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 145,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 145,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1698.9103448275862
+    },
+    "related_words": [
+      "conciliator",
+      "concomitantly",
+      "interdependent",
+      "remunerations",
+      "registrar",
+      "advocates",
+      "emoluments",
+      "judges",
+      "preamble",
+      "immunities",
+      "privileges",
+      "servants",
+      "commencement",
+      "reveal",
+      "subparagraphs",
+      "remuneration",
+      "mutatis",
+      "mutandis",
+      "deducted",
+      "auditors",
+      "president",
+      "officials",
+      "onwards",
+      "levy",
+      "instance",
+      "adjusting",
+      "staff",
+      "note",
+      "coal",
+      "sixth"
+    ],
+    "prompt_length": 1676,
+    "category": "2446 taxation"
+  }
+}

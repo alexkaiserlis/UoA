@@ -1,0 +1,63 @@
+{
+  "concept_id": "5615",
+  "concept_data": {
+    "title": "thermal equipment",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"thermal equipment\" encompasses various devices used in mechanical engineering, particularly in the context of energy efficiency and environmental regulation within the EU. This includes boilers, ovens, and modules designed for thermal management. Regulatory frameworks compel manufacturers to ensure that thermal equipment meets stringent calibration standards to mitigate emissions of harmful particles. Intentional negligence in adhering to these standards can incur significant fines. Moreover, refurbishment practices must be documented to avoid aggravating environmental impacts. The integration of advanced technologies, such as thermoluminescence sensors and compensators, is crucial for optimizing performance and ensuring compliance with EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:10:42.562983",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 494,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 563,
+      "selected_avg_freq": 237.29333333333332
+    },
+    "related_words": [
+      "daybreak",
+      "icepoint",
+      "compensator",
+      "terrestial",
+      "archaeological",
+      "leeds",
+      "northrup",
+      "thermoluminescence",
+      "ahlström",
+      "kpp",
+      "amg",
+      "oven",
+      "rack",
+      "pulping",
+      "kvaerner",
+      "hereunder",
+      "asa",
+      "nugatory",
+      "comp",
+      "boiler",
+      "attenuating",
+      "fined",
+      "textual",
+      "controller",
+      "aggravating",
+      "conglomerate",
+      "bin",
+      "mitsubishi",
+      "reminders",
+      "refurbishment"
+    ],
+    "prompt_length": 1684,
+    "category": "6821 mechanical engineering"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5364",
+  "concept_data": {
+    "title": "cereals of bread-making quality",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"cereals of bread-making quality\" refers to specific wheat varieties that possess desirable qualities for producing bread. In EU legal and regulatory frameworks, these cereals are subject to stringent quality standards to ensure that they meet the expectations of producers and consumers. The moisture content, for instance, must be stable to avoid encroaching on the quality of the final product. Purchases of these cereals may involve tendered invitations for bids, with suppliers required to provide samples for qualitative assessment. Resold cereals must maintain these standards throughout their lifecycle, ensuring that any delayed or excluded products are effectively managed to uphold economic stability in the market. The regulatory framework also addresses the storage and drying processes to prevent deterioration, thereby securing the interests of stakeholders involved in the supply chain.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:58:05.596763",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 307,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1293,
+      "selected_avg_freq": 678.04
+    },
+    "related_words": [
+      "encroaching",
+      "lodgment",
+      "imputable",
+      "breadmaking",
+      "tendered",
+      "bread",
+      "resort",
+      "resold",
+      "moisture",
+      "drying",
+      "locations",
+      "desire",
+      "instalment",
+      "purchases",
+      "resale",
+      "invitations",
+      "qualitative",
+      "doubt",
+      "delayed",
+      "favoured",
+      "qualities",
+      "bought",
+      "wishes",
+      "places",
+      "usually",
+      "wheat",
+      "cereal",
+      "harvest",
+      "tonne",
+      "samples"
+    ],
+    "prompt_length": 1667,
+    "category": "6006 plant product"
+  }
+}

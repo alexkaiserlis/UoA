@@ -1,0 +1,63 @@
+{
+  "concept_id": "6404",
+  "concept_data": {
+    "title": "marine ecosystem",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"marine ecosystem\" encompasses the intricate and diverse habitats found within the ocean, including seamounts, coral reefs, and hydrothermal vents. These ecosystems are instrumental in conserving biodiversity and supporting abundant marine life, yet they face pressing threats from human activities, such as destructive fishing fleets and pollution discharge. The EU's regulatory frameworks aim to protect these ecosystems by prescribing measures for spatial planning and managing migratory species. Observers have flagged gaps in current regimes, necessitating rectification to prevent irreparable impacts. The issuance of directives to regulate activities in these seas is imperative for safeguarding unassessed areas and ensuring sustainable use of marine resources.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:40:35.595671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 308,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1128,
+      "selected_avg_freq": 445.66
+    },
+    "related_words": [
+      "seamounts",
+      "hydrothermal",
+      "vents",
+      "unassessed",
+      "erasure",
+      "particularised",
+      "sponge",
+      "destructive",
+      "subregional",
+      "corals",
+      "flagged",
+      "irreparable",
+      "deserves",
+      "reefs",
+      "beds",
+      "blocking",
+      "encounters",
+      "straddling",
+      "instrumental",
+      "ecosystem",
+      "conserving",
+      "relocation",
+      "spatial",
+      "abundant",
+      "rectification",
+      "encounter",
+      "bottom",
+      "sizeable",
+      "forth",
+      "infringe"
+    ],
+    "prompt_length": 1695,
+    "category": "5211 natural environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5902",
+  "concept_data": {
+    "title": "medical specialization",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "medical specialisation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"medical specialisation\" encompasses various fields within healthcare, such as gynaecology, obstetrics, and oncology, which require specific training and diplomas for doctors. In the EU regulatory framework, medical specialisation is crucial for ensuring that healthcare professionals, including specialists in radiology, geriatrics, and paediatrics, are adequately prepared to address complex pathologies and chronic conditions. The implications of this specialization extend to patient care, where specialists respond to systemic issues and conduct screenings for conditions like cancer. Regulations also govern the teaching of specialties, ensuring that trainees in disciplines such as microbiology and enterology receive comprehensive education. This concept is essential for maintaining high standards in healthcare delivery across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:52.853751",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 186,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2817,
+      "selected_avg_freq": 883.74
+    },
+    "related_words": [
+      "gynaecology",
+      "obstetrics",
+      "ophthalmology",
+      "enterology",
+      "endocrinology",
+      "physiotherapy",
+      "radiology",
+      "geriatrics",
+      "radiotherpy",
+      "guk",
+      "lfv",
+      "trainee",
+      "oncology",
+      "fifths",
+      "genetics",
+      "foetal",
+      "paediatrics",
+      "pathologies",
+      "microbiology",
+      "bacteriology",
+      "radiotherapy",
+      "surgery",
+      "doctors",
+      "specialty",
+      "bgbl",
+      "gastro",
+      "nursing",
+      "sentences",
+      "implication",
+      "responds"
+    ],
+    "prompt_length": 1742,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4016",
+  "concept_data": {
+    "title": "secondary sector",
+    "category_code": "1621",
+    "category_name": "economic structure",
+    "category_full": "1621 economic structure",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"secondary sector\" encompasses various subsectors within the EU's economic structure, including manufacturing and construction. This sector is invaluable for employers, as it produces essential goods like forged crankshafts, tiles, and bricks. Regulatory frameworks, such as the umweltauditgesetz, govern environmental impacts, ensuring compliance through verifiers and environmental management systems (EMS). The sector faces challenging dynamics, including the disaggregation of production processes, where materials like clay and rock are transformed into products such as mattresses and plaster. The Prodcom database aids in tracking these subsectors, while ministries oversee compliance with economic ordinances, promoting sustainable practices across industries.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:02:29.871971",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 721,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 113.28666666666666
+    },
+    "related_words": [
+      "emloyers",
+      "crankshafts",
+      "invaluable",
+      "verifiers",
+      "umweltauditgesetz",
+      "voiles",
+      "slivers",
+      "migs",
+      "cranks",
+      "digits",
+      "webs",
+      "citl",
+      "camshafts",
+      "shafts",
+      "forged",
+      "slag",
+      "chopped",
+      "challenging",
+      "eac",
+      "wools",
+      "interpenetration",
+      "prodcom",
+      "plaster",
+      "rovings",
+      "disaggregation",
+      "tiles",
+      "baked",
+      "hoped",
+      "mats",
+      "regression"
+    ],
+    "prompt_length": 1650,
+    "category": "1621 economic structure"
+  }
+}

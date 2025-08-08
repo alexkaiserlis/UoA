@@ -1,0 +1,63 @@
+{
+  "concept_id": "715",
+  "concept_data": {
+    "title": "intensive livestock farming",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Intensive livestock farming, categorized under agricultural activity, involves the rearing of animals in confined spaces, often penned or housed in agglomerations. This method may utilize substances such as somatotropin (BST) to enhance growth rates, leading to fattening of calves and hens. However, the practice raises concerns regarding animal welfare, as it can result in undesirable living conditions, such as battery cages. EU regulations aim to administer standards that prevent unenriched environments and ensure the humane treatment of livestock. Deliberation on these policies is crucial to avoid prejudging the impacts on both animal health and environmental discharges into rivers and basins.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:23.467317",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 554,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 607,
+      "selected_avg_freq": 298.38666666666666
+    },
+    "related_words": [
+      "penned",
+      "somatotropin",
+      "gentleman",
+      "somatotrophin",
+      "bst",
+      "unenriched",
+      "subsist",
+      "agglomerations",
+      "housed",
+      "bathing",
+      "textual",
+      "prejudging",
+      "cages",
+      "calf",
+      "deliberation",
+      "quo",
+      "lying",
+      "studying",
+      "battery",
+      "mayotte",
+      "enriched",
+      "stuffs",
+      "discharges",
+      "anticipate",
+      "unequal",
+      "fundamentally",
+      "annulment",
+      "hens",
+      "deals",
+      "optical"
+    ],
+    "prompt_length": 1679,
+    "category": "5631 agricultural activity"
+  }
+}

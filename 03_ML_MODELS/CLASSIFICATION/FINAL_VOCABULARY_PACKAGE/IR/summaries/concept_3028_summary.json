@@ -1,0 +1,63 @@
+{
+  "concept_id": "3028",
+  "concept_data": {
+    "title": "data-processing law",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Data-processing law in the EU encompasses regulations governing the lawful handling of data, including pseudonymous and anonymous information. It underlies the protection of rightholders' intellectual property, particularly in software and algorithms. The law aims to avoid unauthorized copying and infringement of copyright, ensuring that authors retain control over their literary and artistic works. Jurisprudence in this area addresses conflicts arising from data exchange and the interoperability of programs. Enacted regulations facilitate lawful interaction between hardware and telecommunication interfaces, promoting mutual respect for rights while allowing for the decompilation necessary for software translation and program development.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:58:14.507447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 348,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 865,
+      "selected_avg_freq": 359.81333333333333
+    },
+    "related_words": [
+      "decompilation",
+      "pseudonymous",
+      "aesthetic",
+      "rightholder",
+      "prejudices",
+      "underlie",
+      "acquirer",
+      "copied",
+      "algorithms",
+      "literary",
+      "jurisprudence",
+      "fifty",
+      "author",
+      "logic",
+      "ideas",
+      "attributes",
+      "connect",
+      "berne",
+      "null",
+      "artistic",
+      "rental",
+      "anonymous",
+      "copyright",
+      "programs",
+      "telecommunication",
+      "hardware",
+      "interfaces",
+      "unauthorized",
+      "logical",
+      "interaction"
+    ],
+    "prompt_length": 1736,
+    "category": "3236 information technology and data processing"
+  }
+}

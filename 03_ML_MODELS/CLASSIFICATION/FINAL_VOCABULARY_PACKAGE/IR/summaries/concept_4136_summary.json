@@ -1,0 +1,63 @@
+{
+  "concept_id": "4136",
+  "concept_data": {
+    "title": "public service",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"public service\" within EU legal and regulatory frameworks encompasses a range of essential utilities and services, including aem, utilities, and teleservice provisions. It is crucial for ensuring that municipalizzate entities, such as agenzia and aziende, realize their obligations to citizens. The implementation of public services often involves compensations and fare structures that must be examined to avoid distortionary effects on the market. Additionally, the finalization of contracts may require discernment in preselection processes to ensure compliance with regulations. This includes the management of resources, such as cassa and depositi, and the oversight of misappropriated funds or seized assets. The portability of services, particularly in regions like Torino, Cluj, and Timișoara, is also a significant consideration, as is the need for effective facilitators to navigate these complexities.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:05:33.898581",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 941,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 197,
+      "selected_avg_freq": 73.58666666666667
+    },
+    "related_words": [
+      "aem",
+      "municipalizzate",
+      "agenzia",
+      "entrate",
+      "acea",
+      "depositi",
+      "prestiti",
+      "realizes",
+      "distortionary",
+      "reimbourse",
+      "dispelled",
+      "pstns",
+      "facilitators",
+      "preselection",
+      "dtmf",
+      "pstn",
+      "discernment",
+      "wil",
+      "pspdns",
+      "ccitt",
+      "caravans",
+      "carpatair",
+      "timișoara",
+      "cluj",
+      "napoca",
+      "sgei",
+      "aziende",
+      "handset",
+      "teleservice",
+      "cassa"
+    ],
+    "prompt_length": 1685,
+    "category": "0436 executive power and public service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2950",
+  "concept_data": {
+    "title": "medical plant",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"medical plant\" encompasses various herbal products recognized within EU legal and regulatory frameworks, particularly those listed in pharmacopoeias. These plants, such as calendula, echinacea, and hamamelis virginiana, are utilized for their medicinal properties in treating ailments. Regulatory documents emphasize the importance of dosage, application, and directions for use, ensuring that compositions are safe and efficacious. The classification of these plants often includes terms like officinalis and vulgaris, denoting their recognized medicinal status. Additionally, the use of herbal sachets and infusions is regulated to prevent duplications and contradictions in therapeutic claims, thereby safeguarding public health.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:34.529958",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 360,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 791,
+      "selected_avg_freq": 291.0
+    },
+    "related_words": [
+      "zygis",
+      "loefl",
+      "calendula",
+      "pimpinella",
+      "anisum",
+      "foeniculum",
+      "dulce",
+      "thellung",
+      "mentha",
+      "piperita",
+      "unmixed",
+      "eleutherococcus",
+      "senticosus",
+      "rupr",
+      "alföldi",
+      "kamillavirágzat",
+      "chamomillae",
+      "anthodium",
+      "camomile",
+      "pharmacopœia",
+      "bagged",
+      "pharmacopoeias",
+      "contradictions",
+      "moench",
+      "hamamelis",
+      "virginiana",
+      "echinacea",
+      "applicaiton",
+      "officinalis",
+      "maxim"
+    ],
+    "prompt_length": 1698,
+    "category": "6006 plant product"
+  }
+}

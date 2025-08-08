@@ -1,0 +1,63 @@
+{
+  "concept_id": "4274",
+  "concept_data": {
+    "title": "legal status",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"legal status\" in EU civil law pertains to the recognition and rights of entities, including undertakings involved in scientific and technological cooperation, such as those at the Kernforschungsanlage Jülich. This legal framework ensures transparent communication and proportionality in regulatory practices, particularly in sectors like telecommunications and energy. Discriminatory practices are scrutinized to prevent maladministration and uphold the rights of entrepreneurs. The legal status also encompasses the nullity of agreements that fail to meet EU standards, fostering an environment conducive to innovation and research, including investigations into tritium and deuterium management. This regulatory landscape is crucial for the Eurogroup's initiatives in sustainable energy development.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:29.049365",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1114,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 124,
+      "selected_avg_freq": 41.54
+    },
+    "related_words": [
+      "kernforschunsanlage",
+      "juelich",
+      "ricerca",
+      "energia",
+      "nucleare",
+      "enea",
+      "ambiente",
+      "disparties",
+      "discrimintory",
+      "narrowband",
+      "conjunciton",
+      "undertkaings",
+      "thansparent",
+      "proprotionality",
+      "communiction",
+      "telecoms",
+      "envolve",
+      "jülich",
+      "kfa",
+      "fzk",
+      "dcu",
+      "cooperação",
+      "científica",
+      "tecnológica",
+      "iccti",
+      "investigação",
+      "jnict",
+      "akademie",
+      "wissenschaften",
+      "öaw"
+    ],
+    "prompt_length": 1707,
+    "category": "1211 civil law"
+  }
+}

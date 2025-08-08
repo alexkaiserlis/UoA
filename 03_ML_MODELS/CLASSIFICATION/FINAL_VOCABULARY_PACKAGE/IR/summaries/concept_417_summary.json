@@ -1,0 +1,63 @@
+{
+  "concept_id": "417",
+  "concept_data": {
+    "title": "drying",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": true,
+    "preferred_term": "dehydration",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"drying,\" redirected to \"dehydration,\" is pivotal in the context of EU food technology regulations. Dehydration involves the removal of moisture from agricultural products, particularly cereals, to improve their shelf life and marketability. The European Union has established measures and requirements for the processing and distribution of dehydrated products, ensuring they meet specific standards. These regulations, updated through various amendments, aim to maintain the authenticity and quality of food products marketed within the EU. Furthermore, the approval of facilities for dehydration processes is subject to rigorous assessments, aligning with the common objectives of enhancing food safety and economic capacities across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:02:09.418137",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 59,
+      "requested_words": 150,
+      "min_frequency_found": 175,
+      "max_frequency_found": 4108,
+      "selected_words": 59,
+      "selected_min_freq": 175,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2196.491525423729
+    },
+    "related_words": [
+      "drying",
+      "capacities",
+      "involves",
+      "updating",
+      "cereals",
+      "greek",
+      "marketed",
+      "forwarded",
+      "facilities",
+      "approving",
+      "geographical",
+      "processed",
+      "distribution",
+      "greece",
+      "structure",
+      "consistent",
+      "extension",
+      "amendment",
+      "improve",
+      "authentic",
+      "applications",
+      "particularly",
+      "standing",
+      "meaning",
+      "agricultural",
+      "government",
+      "intended",
+      "programme",
+      "objectives",
+      "approved"
+    ],
+    "prompt_length": 1712,
+    "category": "6036 food technology"
+  }
+}

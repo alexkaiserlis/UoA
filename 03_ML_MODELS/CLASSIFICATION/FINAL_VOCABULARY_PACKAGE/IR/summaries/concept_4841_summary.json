@@ -1,0 +1,63 @@
+{
+  "concept_id": "4841",
+  "concept_data": {
+    "title": "British Honduras",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Belize",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"British Honduras\" is a historical reference that has been redirected to \"Belize,\" the preferred term in EU legal and regulatory contexts. This shift acknowledges Belize's status as an independent nation, which subscribes to various international agreements aimed at conserving exhaustible marine resources. The EU endorses programs that regulate the fishing of species such as thunnus and xiphias, addressing issues like overfishing and the prejudicial impacts on ecosystems. Belize, located in the Caribbean, is part of the Antilles and engages in sustainable fishing practices, attempting to balance economic needs with environmental conservation, particularly concerning bluefin tuna and bivalve molluscs. The EU's regulations, including ICCAT guidelines, instruct member states to observe and manage catches effectively, ensuring hygienic handling and storage of fish resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:55:38.711183",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 290,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1347,
+      "selected_avg_freq": 584.4066666666666
+    },
+    "related_words": [
+      "subscribes",
+      "baha",
+      "exhaustible",
+      "thynnus",
+      "xiphias",
+      "gladius",
+      "diminishes",
+      "polynesia",
+      "endorses",
+      "equatorial",
+      "swordfish",
+      "substantiating",
+      "overfishing",
+      "iccat",
+      "fin",
+      "antilles",
+      "thunnus",
+      "conserve",
+      "belize",
+      "attempts",
+      "panama",
+      "honduras",
+      "verde",
+      "fished",
+      "prejudicial",
+      "emirates",
+      "hygienic",
+      "freezer",
+      "encourages",
+      "cape"
+    ],
+    "prompt_length": 1687,
+    "category": "7236 political geography"
+  }
+}

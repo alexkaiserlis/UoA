@@ -1,0 +1,63 @@
+{
+  "concept_id": "435007",
+  "concept_data": {
+    "title": "EUA",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "EU emission allowance",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"EUA,\" a redirect to \"EU emission allowance,\" is a critical component of the EU Emissions Trading System (ETS), which facilitates the overarching goal of reducing anthropogenic greenhouse gas emissions. EUAs are auctioned entitlements that allow industries to emit a specified amount of gases, with methodologies for their allocation formulated to ensure predictability and fairness. The ETS interacts with international frameworks like the UNFCCC and Kyoto Protocol, addressing emissions from sectors including aviation, where flights are monitored under specific regulations. The cancellation of unused allowances and the potential for carbon sinks are essential for achieving climate targets, as outlined by intergovernmental bodies like the IPCC. The linear reduction of emissions is essential for mitigating warming effects, while accurate inventories of emitted gases are crucial for compliance and accountability.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:52:46.560431",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 511,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 644,
+      "selected_avg_freq": 278.11333333333334
+    },
+    "related_words": [
+      "anwil",
+      "cuf",
+      "industriais",
+      "arkema",
+      "hgcc",
+      "mbms",
+      "quimicos",
+      "sinks",
+      "gwp",
+      "dependencies",
+      "aerodromes",
+      "momentum",
+      "potentials",
+      "auctioned",
+      "mbm",
+      "ipcc",
+      "underestimated",
+      "removals",
+      "surrender",
+      "overarching",
+      "unfccc",
+      "anthropogenic",
+      "warming",
+      "unintentional",
+      "manifest",
+      "auctions",
+      "auction",
+      "ets",
+      "categorisation",
+      "kyoto"
+    ],
+    "prompt_length": 1719,
+    "category": "5206 environmental policy"
+  }
+}

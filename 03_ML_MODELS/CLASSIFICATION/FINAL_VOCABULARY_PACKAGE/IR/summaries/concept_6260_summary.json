@@ -1,0 +1,63 @@
+{
+  "concept_id": "6260",
+  "concept_data": {
+    "title": "deoxyribonucleic acid",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "DNA",
+    "relation_type": "USE"
+  },
+  "summary": "Deoxyribonucleic acid (DNA), commonly referred to as DNA, plays a significant role in EU legal and regulatory frameworks, particularly in the context of criminal justice and law enforcement. The Prüm framework facilitates the automated sharing of DNA files among member states, enhancing the detection of offences such as terrorism and serious crime. This collaborative approach necessitates prerequisites for data preservation and the successful rejoining of databases. Judicial offices across the EU, including those in Slovakia and Austria, are stepping up efforts to fight crime through DNA analysis. The significance of DNA in criminal investigations is unavoidably consequential, as it aids in identifying suspects and answering critical questions during investigations. The European Commission believes that effective DNA sharing can enhance the merits of cross-border cooperation, ultimately leading to a safer home for all citizens.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:31:00.201929",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 246,
+      "requested_words": 150,
+      "min_frequency_found": 15,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 15,
+      "selected_max_freq": 1491,
+      "selected_avg_freq": 713.1
+    },
+    "related_words": [
+      "rejoining",
+      "possiblity",
+      "searching",
+      "prüm",
+      "fingerprint",
+      "unavoidably",
+      "summarising",
+      "repay",
+      "dna",
+      "prerequisites",
+      "consequential",
+      "slovakian",
+      "offences",
+      "believes",
+      "answered",
+      "stepping",
+      "terrorism",
+      "files",
+      "automated",
+      "merits",
+      "team",
+      "crime",
+      "annulled",
+      "launch",
+      "jha",
+      "criminal",
+      "police",
+      "cessation",
+      "significance",
+      "decides"
+    ],
+    "prompt_length": 1706,
+    "category": "3606 natural and applied sciences"
+  }
+}

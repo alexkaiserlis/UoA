@@ -1,0 +1,63 @@
+{
+  "concept_id": "6402",
+  "concept_data": {
+    "title": "environmental statistics",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Environmental statistics in the EU context encompass the systematic collection, analysis, and reporting of data related to environmental policies. These statistics are crucial for monitoring compliance with prescribed targets, such as waste recovery and recycling rates across member states like Malta, Poland, and Iceland. They provide a framework to verify the effectiveness of municipal waste management practices, including the reuse and recycling of materials. By incorporating statistical data, the EU aims to clarify the burden of environmental impacts and reinforce adaptations in construction and demolition practices. This data-driven approach allows for flexibility in policy-making and ensures that environmental objectives are met efficiently.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:50:56.245567",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 3308,
+      "selected_avg_freq": 1571.7466666666667
+    },
+    "related_words": [
+      "demolition",
+      "icelandic",
+      "streams",
+      "municipal",
+      "materially",
+      "recycled",
+      "reuse",
+      "recycling",
+      "leaves",
+      "maltese",
+      "liechtenstein",
+      "recovered",
+      "targets",
+      "reinforce",
+      "options",
+      "polish",
+      "verifying",
+      "iceland",
+      "waste",
+      "prescribed",
+      "construction",
+      "flexibility",
+      "exempted",
+      "adaptations",
+      "reported",
+      "recovery",
+      "accounts",
+      "greek",
+      "verify",
+      "attached"
+    ],
+    "prompt_length": 1691,
+    "category": "5206 environmental policy"
+  }
+}

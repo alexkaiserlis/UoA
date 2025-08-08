@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_db56b1e0",
+  "concept_data": {
+    "title": "unreported fishing",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "illegal fishing",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"unreported fishing,\" classified under the category of fisheries, is primarily synonymous with \"illegal fishing.\" In the context of EU legal and regulatory frameworks, unreported fishing refers to activities that evade documentation and oversight, undermining sustainable fisheries management. This practice poses significant challenges to conservation efforts and the enforcement of fishing quotas. The European Union has established stringent regulations to combat illegal fishing, aiming to ensure the sustainability of marine resources. By addressing unreported fishing, the EU seeks to enhance compliance, promote transparency, and protect aquatic ecosystems, thereby reinforcing its commitment to responsible fisheries governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:25:10.293667",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1202,
+    "category": "5641 fisheries"
+  }
+}

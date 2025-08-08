@@ -1,0 +1,63 @@
+{
+  "concept_id": "1111",
+  "concept_data": {
+    "title": "processed cheese",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Processed cheese, categorized under processed agricultural produce (6016), refers to cheese products manufactured through the blending of cheeses, casein, and other ingredients. This category includes grated, powdered, and las varieties, which are often exported within the EU and beyond, including Switzerland. Regulatory frameworks distinguish processed cheese from other cheese types, as it may exclude certain traditional cheeses. The nomenclature for processed cheese is crucial for calculating levies and refunds in trade, ensuring compliance with treaties. Supervision of processed cheese production involves monitoring the quality of milk and caseinates used, facilitating easier communication between exporters and regulatory authorities.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:05.612575",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 192,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 2833,
+      "selected_avg_freq": 1372.38
+    },
+    "related_words": [
+      "ides",
+      "grated",
+      "las",
+      "powdered",
+      "caseinates",
+      "casein",
+      "inward",
+      "footnote",
+      "cheeses",
+      "excludes",
+      "cheese",
+      "computer",
+      "ingredients",
+      "lowest",
+      "distinguish",
+      "levies",
+      "hinder",
+      "entitlement",
+      "easier",
+      "frontier",
+      "nos",
+      "refund",
+      "exporters",
+      "subheading",
+      "communications",
+      "refunds",
+      "treaties",
+      "relatively",
+      "currency",
+      "switzerland"
+    ],
+    "prompt_length": 1697,
+    "category": "6016 processed agricultural produce"
+  }
+}

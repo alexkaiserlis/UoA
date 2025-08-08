@@ -1,0 +1,63 @@
+{
+  "concept_id": "4441",
+  "concept_data": {
+    "title": "terminology",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"terminology\" within EU legal and regulatory frameworks encompasses a structured vocabulary essential for precise communication among entities involved in information processing. This linguistic standardisation aids in the accurate description of various subjects, including medicinal products, procurement processes, and waste management. Terminology facilitates the coordination of documents, ensuring that references to chemical substances, therapeutic medicines, and related works are consistently rendered. By addressing errors and obsolete terms, the EU aims to improve clarity in legal texts. The use of illustrative tables and suggested vocabulary enhances understanding, thereby supporting effective correspondence and compliance across diverse sectors, including postal and environmental regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:09:23.049401",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 193,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2599,
+      "selected_avg_freq": 1108.18
+    },
+    "related_words": [
+      "anatomic",
+      "illustrative",
+      "cpc",
+      "prov",
+      "cpv",
+      "vocabulary",
+      "atc",
+      "cpa",
+      "standardise",
+      "suggestions",
+      "chaired",
+      "rev",
+      "therapeutic",
+      "wastes",
+      "linguistic",
+      "nace",
+      "postal",
+      "correspondence",
+      "medicines",
+      "describe",
+      "procurement",
+      "medicinal",
+      "rendered",
+      "descriptions",
+      "obsolete",
+      "coordinating",
+      "tables",
+      "pointed",
+      "errors",
+      "versions"
+    ],
+    "prompt_length": 1681,
+    "category": "3231 information and information processing"
+  }
+}

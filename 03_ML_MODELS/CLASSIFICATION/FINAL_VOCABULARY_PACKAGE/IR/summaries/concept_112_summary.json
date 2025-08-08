@@ -1,0 +1,63 @@
+{
+  "concept_id": "112",
+  "concept_data": {
+    "title": "short-term economic prospects",
+    "category_code": "1611",
+    "category_name": "economic conditions",
+    "category_full": "1611 economic conditions",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"short-term economic prospects\" within EU legal and regulatory frameworks refers to the cyclical assessment of economic conditions that can drastically influence policy-making. These prospects are invaluable for understanding the interdependence of member states and their economic aggregates. Regulatory bodies, such as the European Commission, compile projections that invite scrutiny of potential downturns and weaknesses. The analysis often includes variables like spending and deficits, which are crucial for maintaining compliance with the Stability and Growth Pact (SGP). As economic conditions worsen, suggestions for corrective measures may be proposed, aiming to avoid breaching established thresholds. This cyclical evaluation is rooted in the need for credible and transparent governance, ensuring that member states can navigate unusual economic challenges effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:35:26.502658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 423,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 707,
+      "selected_avg_freq": 321.48
+    },
+    "related_words": [
+      "invaluable",
+      "interpenetration",
+      "reversal",
+      "concurred",
+      "rooted",
+      "cpa",
+      "hoped",
+      "mto",
+      "regression",
+      "drastically",
+      "solemnly",
+      "cyclically",
+      "weakness",
+      "aggregates",
+      "abrogating",
+      "emu",
+      "edp",
+      "offs",
+      "headline",
+      "spending",
+      "suggestions",
+      "breaching",
+      "interdependence",
+      "worsening",
+      "fill",
+      "invites",
+      "conjunctural",
+      "stepped",
+      "weightings",
+      "deficits"
+    ],
+    "prompt_length": 1691,
+    "category": "1611 economic conditions"
+  }
+}

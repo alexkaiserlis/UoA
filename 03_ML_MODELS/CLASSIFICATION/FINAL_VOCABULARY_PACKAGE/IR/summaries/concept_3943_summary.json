@@ -1,0 +1,63 @@
+{
+  "concept_id": "3943",
+  "concept_data": {
+    "title": "crime against individuals",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"crime against individuals\" encompasses various offenses that threaten personal safety and freedom, including assaults and terrorist attacks. Within EU legal frameworks, such crimes are governed by comprehensive regulations aimed at protecting beings from violence and threats. Initiatives by Europol and JHA (Justice and Home Affairs) focus on countering these crimes through collaborative policing and information sharing. The implications of these offenses extend to property and life, necessitating formal discussions on staffing and resources for law enforcement. In assessing crime figures, the EU emphasizes the importance of protective measures and the need for a unified approach to deal with these serious threats.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:07.495439",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1452.6277372262773
+    },
+    "related_words": [
+      "assaults",
+      "instructing",
+      "conscious",
+      "limb",
+      "manuals",
+      "instruct",
+      "visiting",
+      "crimes",
+      "staffing",
+      "attacks",
+      "beings",
+      "recalling",
+      "terrorist",
+      "govern",
+      "terrorism",
+      "europol",
+      "threats",
+      "debate",
+      "crime",
+      "channel",
+      "jha",
+      "police",
+      "travel",
+      "discussion",
+      "host",
+      "apart",
+      "counter",
+      "traffic",
+      "preparatory",
+      "implications"
+    ],
+    "prompt_length": 1650,
+    "category": "1216 criminal law"
+  }
+}

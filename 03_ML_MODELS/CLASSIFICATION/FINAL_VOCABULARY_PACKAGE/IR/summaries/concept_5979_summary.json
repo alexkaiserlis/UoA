@@ -1,0 +1,26 @@
+{
+  "concept_id": "5979",
+  "concept_data": {
+    "title": "underemployment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "short-time working",
+    "relation_type": "USE"
+  },
+  "summary": "Underemployment, often referred to as \"short-time working\" in EU legal and regulatory contexts, pertains to situations where employees work fewer hours than they desire or are available for full-time employment. This concept is critical in discussions surrounding labor market flexibility and economic resilience, particularly during economic downturns. The EU has implemented various directives and regulations to address short-time working, enabling member states to support businesses and protect jobs. By facilitating temporary reductions in working hours, these measures aim to mitigate unemployment and stabilize the labor market, ensuring that workers retain their employment status while navigating economic challenges.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:42:05.100473",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "4406 employment"
+  }
+}

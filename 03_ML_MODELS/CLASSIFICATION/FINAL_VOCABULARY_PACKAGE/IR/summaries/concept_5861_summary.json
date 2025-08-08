@@ -1,0 +1,63 @@
+{
+  "concept_id": "5861",
+  "concept_data": {
+    "title": "energy network",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy grid",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"energy network,\" redirected to \"energy grid,\" encompasses the regulatory framework governing the interconnections and operational efficiencies of energy systems within the EU. It prioritises the synchronisation of transmission system operators (TSOs) across various regions, such as UCTE and Nordel, to tackle mismatches in energy supply and demand. The legal framework emphasises the need for rationally sited intermodal links and incremental setups that enhance grid firmness and reliability. By focusing on liberalizing markets and optimally managing intraday timeslots, EU policies aim to address backwardness in energy infrastructure. Therefore, the concept plays a crucial role in the securitisation and modelling of energy policies, ensuring that the energy grid operates efficiently and effectively across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:47:31.862343",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 1197,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 144,
+      "selected_avg_freq": 60.96666666666667
+    },
+    "related_words": [
+      "inertnal",
+      "prioritising",
+      "timeslots",
+      "synchronise",
+      "prioritises",
+      "locational",
+      "ucte",
+      "nordel",
+      "fragmenting",
+      "setup",
+      "entsos",
+      "entsog",
+      "prioritization",
+      "scoping",
+      "rft",
+      "intertransmission",
+      "sited",
+      "uncapped",
+      "intraday",
+      "incremental",
+      "polices",
+      "mismatches",
+      "entso",
+      "tsos",
+      "tackled",
+      "reinsert",
+      "therfore",
+      "rationally",
+      "imperatives",
+      "firmness"
+    ],
+    "prompt_length": 1752,
+    "category": "6606 energy policy"
+  }
+}

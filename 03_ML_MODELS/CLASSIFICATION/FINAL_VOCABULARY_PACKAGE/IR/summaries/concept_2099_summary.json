@@ -1,0 +1,63 @@
+{
+  "concept_id": "2099",
+  "concept_data": {
+    "title": "maintenance payments",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "maintenance obligation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"maintenance payments,\" redirected to \"maintenance obligation,\" pertains to the legal responsibilities arising from familial relationships, particularly in matrimonial contexts. In EU legal frameworks, maintenance obligations are governed by judicial mechanisms that ensure effective recovery of payments across jurisdictions. The Hague Convention facilitates streamlined enforcement, allowing member states to ratify agreements while expressing reservations. This integration affects parental rights and obligations, ensuring that maintenance obligations are upheld worldwide. By signing and acceding to relevant treaties, EU states create a binding relationship that amends existing laws, thereby enhancing the competence of national courts in dealing with maintenance issues and ensuring satisfactory outcomes for families.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:38:23.908872",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 235,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 31,
+      "selected_max_freq": 2028,
+      "selected_avg_freq": 1072.46
+    },
+    "related_words": [
+      "matrimonial",
+      "streamlined",
+      "abstain",
+      "parental",
+      "ineffective",
+      "hague",
+      "ratify",
+      "reservations",
+      "child",
+      "deposited",
+      "judgments",
+      "virtually",
+      "expressing",
+      "sign",
+      "undermine",
+      "dealt",
+      "accede",
+      "acceded",
+      "worldwide",
+      "ratification",
+      "judicial",
+      "contents",
+      "amends",
+      "render",
+      "affects",
+      "family",
+      "jurisdiction",
+      "alter",
+      "alone",
+      "signing"
+    ],
+    "prompt_length": 1718,
+    "category": "2806 family"
+  }
+}

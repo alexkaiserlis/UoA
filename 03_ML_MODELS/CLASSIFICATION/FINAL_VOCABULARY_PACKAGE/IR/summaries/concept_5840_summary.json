@@ -1,0 +1,63 @@
+{
+  "concept_id": "5840",
+  "concept_data": {
+    "title": "economic reform",
+    "category_code": "1621",
+    "category_name": "economic structure",
+    "category_full": "1621 economic structure",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic reform within the EU context refers to the systematic enactment of policies aimed at addressing macroeconomic vulnerabilities and restoring stability in troubled economies. This includes retrenchment measures to manage systemic weaknesses and imbalances, often articulated in response to pressures from entities such as the IMF or during crises like the Ukrainian conflict. Enhancements to fiscal frameworks, including the use of instruments like the EFSF and EFSM, are essential for liquidity management and debt rescheduling. The dynamics of economic reform also involve discretionary moves to regain investor confidence and mitigate volatility, ensuring that sovereign debts are manageable and deposits are secure, ultimately fostering a more resilient economic structure.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:59:05.325581",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 589,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 397,
+      "selected_avg_freq": 202.25333333333333
+    },
+    "related_words": [
+      "vulnerabilities",
+      "retrenchment",
+      "troubled",
+      "accrual",
+      "hedging",
+      "rescheduling",
+      "efc",
+      "regained",
+      "enhancements",
+      "efsm",
+      "subordinated",
+      "meda",
+      "efsf",
+      "articulated",
+      "enactment",
+      "abundant",
+      "moves",
+      "dynamics",
+      "dissolved",
+      "chernobyl",
+      "discretionary",
+      "deviations",
+      "catching",
+      "turkmenistan",
+      "volatility",
+      "easing",
+      "weaknesses",
+      "imf",
+      "ukrainian",
+      "lacking"
+    ],
+    "prompt_length": 1687,
+    "category": "1621 economic structure"
+  }
+}

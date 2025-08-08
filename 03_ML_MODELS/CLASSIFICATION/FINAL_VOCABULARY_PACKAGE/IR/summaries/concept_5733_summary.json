@@ -1,0 +1,26 @@
+{
+  "concept_id": "5733",
+  "concept_data": {
+    "title": "over-the-counter medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "over-the-counter drug",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"over-the-counter medicine,\" also referred to as \"over-the-counter drug,\" pertains to medicinal products that can be purchased without a prescription. These drugs are subject to specific regulations that ensure their safety, efficacy, and quality, as outlined in the EU's pharmacovigilance and medicinal product directives. The classification as over-the-counter allows for greater accessibility for consumers, while still adhering to rigorous standards set by the European Medicines Agency (EMA). This redirect to the preferred term highlights the common terminology used within regulatory documents, facilitating clearer communication in the health sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:50:02.989115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1212,
+    "category": "2841 health"
+  }
+}

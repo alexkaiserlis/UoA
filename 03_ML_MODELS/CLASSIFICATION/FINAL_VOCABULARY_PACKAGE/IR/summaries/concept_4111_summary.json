@@ -1,0 +1,63 @@
+{
+  "concept_id": "4111",
+  "concept_data": {
+    "title": "genetic manipulation",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "genetic engineering",
+    "relation_type": "USE"
+  },
+  "summary": "Genetic manipulation, commonly referred to as genetic engineering in EU legal and regulatory contexts, involves the deliberate alteration of organisms' genetic material. This process encompasses the recombination of genes and sequences, often utilizing techniques that affect chloroplasts or other cellular components. Regulatory frameworks govern the release of genetically modified organisms (GMOs), ensuring that their interactions with ecosystems are predictable and safe. Dossiers submitted by notifiers must detail the pathogenicity of modified strains, such as those resistant to herbicides like glyphosate. The EU emphasizes the importance of prerequisites for sowing GM crops, including assessments of accumulated effects on biodiversity and potential interactions with viruses and other organisms.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:02.852891",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 343,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 981,
+      "selected_avg_freq": 429.28
+    },
+    "related_words": [
+      "exidence",
+      "organsims",
+      "chloroplast",
+      "nobi",
+      "porvac",
+      "vemie",
+      "veterinaer",
+      "diluvac",
+      "forte",
+      "pseudorabies",
+      "begonia",
+      "pseudovaries",
+      "recombine",
+      "sequences",
+      "muscular",
+      "peptide",
+      "pathogenicity",
+      "glycine",
+      "dermal",
+      "ref",
+      "gmos",
+      "chemie",
+      "glyphosate",
+      "genes",
+      "gmo",
+      "max",
+      "herbicide",
+      "aujeszky",
+      "fractions",
+      "interactions"
+    ],
+    "prompt_length": 1734,
+    "category": "6411 technology and technical regulations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3090",
+  "concept_data": {
+    "title": "large vehicle",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"large vehicle\" within EU legal and regulatory frameworks pertains to heavy transport modes, including freight and passenger carriage. These vehicles, often fitted with advanced braking systems, are subject to stringent prescriptions and approvals to ensure safety and efficiency on infrastructures. The regulation of large vehicles encompasses tolling mechanisms and traffic levies, facilitating optimal redistribution of transport flows. As the EU increasingly prioritizes sustainable travel alternatives, large vehicles are integral to achieving lasting environmental goals. The UNECE guidelines further assist in harmonizing regulations worldwide, ensuring that large vehicles adhere to standards that promote genuine safety and efficiency in road and rail transport.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:44:12.036653",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 249,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1860,
+      "selected_avg_freq": 843.0333333333333
+    },
+    "related_words": [
+      "gtr",
+      "rplp",
+      "tolling",
+      "motorcycle",
+      "braking",
+      "unallocated",
+      "prescriptions",
+      "empty",
+      "laden",
+      "redistribution",
+      "alpine",
+      "wheeled",
+      "unece",
+      "distributing",
+      "travelling",
+      "approvals",
+      "fitted",
+      "infrastructures",
+      "passengers",
+      "organisational",
+      "trans",
+      "freight",
+      "returned",
+      "charging",
+      "optimal",
+      "simultaneous",
+      "rail",
+      "alternatives",
+      "genuine",
+      "thereafter"
+    ],
+    "prompt_length": 1676,
+    "category": "4811 organisation of transport"
+  }
+}

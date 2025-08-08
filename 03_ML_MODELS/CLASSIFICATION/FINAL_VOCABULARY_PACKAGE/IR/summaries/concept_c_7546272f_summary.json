@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7546272f",
+  "concept_data": {
+    "title": "spoofing",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "identity theft",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU criminal law, \"spoofing\" is often synonymous with \"identity theft,\" a term that encompasses the illicit acquisition and use of personal information to impersonate another individual. This fraudulent activity poses significant risks to data protection and privacy rights, as it undermines the integrity of personal identification systems. The European Union has established regulatory frameworks, such as the General Data Protection Regulation (GDPR), to combat identity theft and enhance cybersecurity measures. By addressing spoofing, the EU aims to safeguard citizens against the misuse of their identities, ensuring robust legal recourse and protection against such criminal activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:52:59.936708",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1194,
+    "category": "1216 criminal law"
+  }
+}

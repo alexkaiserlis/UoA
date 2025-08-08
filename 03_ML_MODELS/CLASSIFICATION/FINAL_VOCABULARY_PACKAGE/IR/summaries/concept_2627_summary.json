@@ -1,0 +1,63 @@
+{
+  "concept_id": "2627",
+  "concept_data": {
+    "title": "priority measure",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "economic priority",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, the concept of \"priority measure,\" redirected to \"economic priority,\" pertains to strategic initiatives aimed at enhancing economic performance across municipalities. These measures often focus on lagging regions, such as those in Lolland, Nordjylland, and Aquitaine, ensuring additionality in funding through indexed support from the European Social Fund (ESF) and the European Regional Development Fund (ERDF). By implementing reforms in areas like Hessen and Bavaria, the EU seeks to address disparities in economic production and development. The prioritization of specific regions, including Saarland and Lorraine, reflects a commitment to balanced growth and sustainable programming, fostering perspectives that align with the broader objectives of the EU's economic policy.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:33:54.346495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 468,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 882,
+      "selected_avg_freq": 422.7733333333333
+    },
+    "related_words": [
+      "pfatz",
+      "aubange",
+      "remotest",
+      "alzette",
+      "capellen",
+      "lolland",
+      "esch",
+      "nordjylland",
+      "programmation",
+      "aquitaine",
+      "pole",
+      "lagging",
+      "languedoc",
+      "roussillon",
+      "hessen",
+      "friuli",
+      "venezia",
+      "giulia",
+      "lorraine",
+      "productions",
+      "sur",
+      "saarland",
+      "bremen",
+      "rhineland",
+      "lazio",
+      "reformed",
+      "hamburg",
+      "schleswig",
+      "holstein",
+      "württemberg"
+    ],
+    "prompt_length": 1694,
+    "category": "1606 economic policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2525",
+  "concept_data": {
+    "title": "Argentine Republic",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Argentina",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Argentine Republic,\" commonly referred to as \"Argentina,\" is a significant entity in political geography relevant to EU legal and regulatory frameworks. This nation, characterized by its diverse landscapes such as the pampa and estero, plays a crucial role in international agreements and trade. Its regulatory landscape includes various commissions (comision) overseeing sectors like veterinary practices and environmental inspections (inspección). Argentina's legal system, influenced by traditional values, addresses issues such as habeas corpus and the examination of falsehoods in media. The country has achieved notable successes in areas like biodiversity, with species such as birdsfoot and crimson sainfoin. Understanding Argentina's political and legal context is essential for EU policymakers, particularly regarding challenges and responsibilities in bilateral agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:48:20.952565",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 2270,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 23,
+      "selected_avg_freq": 11.18
+    },
+    "related_words": [
+      "journalistic",
+      "dodecylbenzine",
+      "dodecylbenzene",
+      "comision",
+      "cnv",
+      "autopista",
+      "informacion",
+      "chronically",
+      "reverted",
+      "statistic",
+      "challengable",
+      "successes",
+      "pampa",
+      "estero",
+      "traditonal",
+      "orán",
+      "spekcies",
+      "downin",
+      "medico",
+      "dicision",
+      "responsibe",
+      "intorduced",
+      "northem",
+      "supsend",
+      "veterinay",
+      "agreedments",
+      "sipa",
+      "inspección",
+      "origen",
+      "habeas"
+    ],
+    "prompt_length": 1697,
+    "category": "7236 political geography"
+  }
+}

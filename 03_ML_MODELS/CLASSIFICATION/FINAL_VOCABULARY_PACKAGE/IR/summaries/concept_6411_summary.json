@@ -1,0 +1,63 @@
+{
+  "concept_id": "6411",
+  "concept_data": {
+    "title": "waste electrical and electronic equipment",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "electronic waste",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"waste electrical and electronic equipment\" (WEEE), commonly referred to as \"electronic waste,\" encompasses discarded devices that contain hazardous materials such as polybrominated diphenyl ethers (PBDEs) and hexabromocyclododecane (HBCDD). EU regulations mandate the minimisation of these substances, promoting recycling and safe disposal. Recyclers are tasked with managing components like capacitors and connectors, ensuring that materials such as plasticised polymers and diisobutyl phthalate (DIBP) are handled properly. The intricate design of electronic devices, including handcrafted and miniaturisation elements, necessitates careful dismantling to recover valuable materials while mitigating environmental deterioration. Compliance with these regulations is crucial for sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:04.226607",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 659,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 207,
+      "selected_avg_freq": 69.31333333333333
+    },
+    "related_words": [
+      "imcis",
+      "requalify",
+      "radiofrequency",
+      "crafted",
+      "luminous",
+      "hldts",
+      "artwork",
+      "handcrafted",
+      "interconnects",
+      "miniaturisation",
+      "unclassified",
+      "subindents",
+      "researched",
+      "photoresistors",
+      "electrons",
+      "neon",
+      "stacked",
+      "solder",
+      "minimisation",
+      "plasticised",
+      "digitizers",
+      "connector",
+      "handmade",
+      "tomography",
+      "retardants",
+      "optocouplers",
+      "svhc",
+      "hexabromocyclododecane",
+      "hbcdd",
+      "eee"
+    ],
+    "prompt_length": 1775,
+    "category": "5216 deterioration of the environment"
+  }
+}

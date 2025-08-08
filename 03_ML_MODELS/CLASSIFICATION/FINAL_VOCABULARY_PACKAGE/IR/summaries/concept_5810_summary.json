@@ -1,0 +1,63 @@
+{
+  "concept_id": "5810",
+  "concept_data": {
+    "title": "prevention of accidents",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "accident prevention",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"accident prevention,\" as categorized under health in EU legal and regulatory frameworks, focuses on minimising workplace incidents through standardising safety measures. Employers are tasked with creating ergonomically designed workstations, utilising scaffolding and ladders safely, and ensuring that loads are managed effectively. This involves investigating occurrences of accidents to attribute blame appropriately and streamline safety protocols. By benchmarking safety standards and disseminating pertinent information, the EU aims to maximise the usefulness of safety measures. The advancement of safety practices, including the use of ropes and screens, is essential in exposing potential hazards and affording a safer workplace environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:31:00.184257",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 654,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 431,
+      "selected_avg_freq": 210.61333333333334
+    },
+    "related_words": [
+      "scaffolding",
+      "workstations",
+      "safest",
+      "requestor",
+      "personally",
+      "workstation",
+      "screens",
+      "ergonomic",
+      "ladders",
+      "blame",
+      "repository",
+      "revealing",
+      "inspire",
+      "subordinated",
+      "extracting",
+      "streamlined",
+      "approximated",
+      "benchmarking",
+      "advancement",
+      "pipelines",
+      "workplace",
+      "employer",
+      "spatial",
+      "ropes",
+      "attribution",
+      "screen",
+      "loads",
+      "maximise",
+      "standardising",
+      "occurrences"
+    ],
+    "prompt_length": 1751,
+    "category": "2841 health"
+  }
+}

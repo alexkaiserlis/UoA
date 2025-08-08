@@ -1,0 +1,63 @@
+{
+  "concept_id": "1277",
+  "concept_data": {
+    "title": "nutrition of animals",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal nutrition",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"nutrition of animals,\" redirected to \"animal nutrition,\" encompasses the legal and regulatory frameworks governing the provision of nutriments essential for animal health within the EU. This includes the regulation of aminoacid profiles in poultryfeed, ensuring compliance with safety requirements for substances like dinitolmide and ipronidazole. The EU mandates responsible practices in animal nutrition to prevent issues such as encephalopaties and to promote benefic growth. Additionally, the use of specific additives, including sepiolite and hydrobromide, is regulated to ensure that all products meet necessary authorisation standards. Thus, the focus on animal nutrition is crucial for maintaining animal welfare and public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:00:46.970516",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 4411,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.233333333333333
+    },
+    "related_words": [
+      "manganomanganic",
+      "aaaa",
+      "violaxanthin",
+      "trders",
+      "aminoacid",
+      "moveover",
+      "punished",
+      "reasonabe",
+      "sepiolite",
+      "hydrobromide",
+      "stenorol",
+      "vet",
+      "responsable",
+      "poultryfeed",
+      "nutriments",
+      "benefic",
+      "methylpropionic",
+      "apecial",
+      "larnaca",
+      "encephalopaties",
+      "steatites",
+      "chlorites",
+      "sepiolitic",
+      "necessaary",
+      "hydrocloride",
+      "daltons",
+      "arprinocide",
+      "dinitolmide",
+      "ipronidazole",
+      "floriana"
+    ],
+    "prompt_length": 1781,
+    "category": "5631 agricultural activity"
+  }
+}

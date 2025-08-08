@@ -1,0 +1,63 @@
+{
+  "concept_id": "2420",
+  "concept_data": {
+    "title": "plasticizer",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "plasticiser",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"plasticizer,\" redirected to \"plasticiser,\" refers to substances used to enhance the flexibility and workability of materials, particularly in chemistry and manufacturing. In the EU regulatory context, plasticisers are scrutinized due to their potential to migrate from products, such as toys and food packaging, into the environment or human contact, raising concerns about inhalation and allergenic effects. Regulatory frameworks, including REACH, clarify tolerable limits for CMR (carcinogenic, mutagenic, reprotoxic) substances and establish safety standards for materials like gaskets and coatings. The deliberations surrounding plasticisers involve assessing their impact on health and the environment, ensuring that emitted substances do not exceed established smls (specific migration limits) during use.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:38:29.601736",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 404,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 707,
+      "selected_avg_freq": 250.15333333333334
+    },
+    "related_words": [
+      "smls",
+      "pestos",
+      "epoxidised",
+      "esbo",
+      "gaskets",
+      "lids",
+      "formamide",
+      "blowing",
+      "puzzle",
+      "unpacking",
+      "outgassing",
+      "plasticisers",
+      "plasticiser",
+      "simulants",
+      "jars",
+      "mat",
+      "sml",
+      "fragrances",
+      "tdi",
+      "contacting",
+      "nursery",
+      "mats",
+      "allergenic",
+      "tightness",
+      "substrate",
+      "subgroup",
+      "soybean",
+      "cmr",
+      "equals",
+      "confinement"
+    ],
+    "prompt_length": 1654,
+    "category": "6811 chemistry"
+  }
+}

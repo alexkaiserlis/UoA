@@ -1,0 +1,63 @@
+{
+  "concept_id": "2821",
+  "concept_data": {
+    "title": "mining research",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": true,
+    "preferred_term": "mineral prospecting",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"mining research,\" redirected to \"mineral prospecting,\" pertains to the systematic examination and analysis of geological materials to identify and evaluate mineral resources within the EU. This process involves the use of advanced apparatus, such as chromatographs and detectors, to conduct geochemical analyses of samples. Experts in the field invoke various methodologies to confer certainty regarding the character and composition of solid materials, including uranium and gas. Regulatory frameworks govern the importation and admission of mining projects, ensuring that educational and cultural considerations are addressed. The duty of representatives is to ensure compliance with federal and territorial regulations, thereby promoting sustainable mining practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:32:30.665522",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 130,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 130,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1663.5615384615385
+    },
+    "related_words": [
+      "ehg",
+      "tracor",
+      "geochemical",
+      "prospecting",
+      "chromatograph",
+      "hall",
+      "generator",
+      "uranium",
+      "detector",
+      "hydrogen",
+      "affirmative",
+      "solid",
+      "invoke",
+      "educational",
+      "apparatus",
+      "principally",
+      "analyses",
+      "confer",
+      "suited",
+      "samples",
+      "requisite",
+      "expressly",
+      "admission",
+      "cultural",
+      "gas",
+      "alone",
+      "ceased",
+      "showed",
+      "composed",
+      "character"
+    ],
+    "prompt_length": 1720,
+    "category": "6611 coal and mining industries"
+  }
+}

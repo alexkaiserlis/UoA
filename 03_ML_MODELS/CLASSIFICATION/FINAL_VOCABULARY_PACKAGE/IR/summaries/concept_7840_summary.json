@@ -1,0 +1,63 @@
+{
+  "concept_id": "7840",
+  "concept_data": {
+    "title": "South Bohemian Region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"South Bohemian Region\" (Jihočeská) is a significant geographical area within the Czech Republic, recognized in EU legal and regulatory frameworks. It is often associated with the production of protected geographical indications (PGI) for foodstuffs, ensuring that products like \"zlatá niva\" meet specific quality standards. The region's producers may submit requests for registration, which undergo examination and approval processes. Any opposition or objections to these designations can lead to rejection or cancellation of applications. The authenticity of the region's name is crucial, as it must be placed in the EU register, ensuring that the indicated products maintain their protected status.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:07:31.578661",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 103,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 103,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1761.7475728155339
+    },
+    "related_words": [
+      "zlatá",
+      "jihočeská",
+      "niva",
+      "rejection",
+      "cancellation",
+      "cancel",
+      "pgi",
+      "opposition",
+      "rejected",
+      "foregoing",
+      "apart",
+      "designations",
+      "specification",
+      "objection",
+      "minor",
+      "seven",
+      "slovak",
+      "slovakia",
+      "indications",
+      "protected",
+      "indication",
+      "foodstuffs",
+      "registration",
+      "register",
+      "sold",
+      "statement",
+      "czech",
+      "name",
+      "approving",
+      "placed"
+    ],
+    "prompt_length": 1684,
+    "category": "7211 regions of EU Member States"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6360",
+  "concept_data": {
+    "title": "participating country",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"participating country\" refers to a nation that engages in the monetary relations governed by the Eurosystem and the European System of Central Banks (ESCB). These countries, upon joining, subscribe to the principles of accrual accounting and are subject to the dynamics of economic forecasting and revenue collection. The national central banks (NCBs) of these countries play a crucial role in the issuance of banknotes and coins, ensuring stability and complementing the overall monetary policy. Participating countries must adhere to structured guidelines, including tracking deviations and unforeseen economic changes, while their governors frequently approve measures to enhance monetary stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:55:58.349848",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 511,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 649,
+      "selected_avg_freq": 315.97333333333336
+    },
+    "related_words": [
+      "communiquăšs",
+      "národná",
+      "oesterreichische",
+      "slovenska",
+      "nationalbank",
+      "slovenije",
+      "accrual",
+      "inverse",
+      "efc",
+      "collects",
+      "collector",
+      "banka",
+      "coin",
+      "unstable",
+      "economics",
+      "settlements",
+      "forecasting",
+      "ncb",
+      "subscription",
+      "dynamics",
+      "irrevocable",
+      "discretionary",
+      "deviations",
+      "joining",
+      "ncbs",
+      "coins",
+      "complements",
+      "banknotes",
+      "governors",
+      "weightings"
+    ],
+    "prompt_length": 1705,
+    "category": "2406 monetary relations"
+  }
+}

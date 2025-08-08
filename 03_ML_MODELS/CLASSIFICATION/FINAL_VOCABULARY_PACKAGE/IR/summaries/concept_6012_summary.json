@@ -1,0 +1,63 @@
+{
+  "concept_id": "6012",
+  "concept_data": {
+    "title": "ventilation",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "air conditioning",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"ventilation,\" categorized under building and public works, is redirected to the preferred term \"air conditioning.\" In EU legal and regulatory frameworks, air conditioning systems must be securely designed to prevent leakage of harmful gases, including fluorinated substances. Technicians enrolled in servicing programs are trained to handle stationary appliances, ensuring that they are properly ventilated and insulated. Regular maintenance is essential to avoid abnormal conditions that could lead to defective equipment. Regulatory compliance includes the use of labels for authentication and visibility, while attestation of repairs and servicing is crucial for safety. Furthermore, the desirability of effective air conditioning systems is heightened by their ability to recover and manage airborne pollutants, thus contributing to greenhouse gas reduction.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:52:13.247396",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 343,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 951,
+      "selected_avg_freq": 389.9866666666667
+    },
+    "related_words": [
+      "switchgear",
+      "blown",
+      "foams",
+      "escaping",
+      "securely",
+      "technicians",
+      "enrolled",
+      "ventilated",
+      "extinguishers",
+      "constrained",
+      "leak",
+      "repaired",
+      "insulated",
+      "conditioners",
+      "legible",
+      "authentication",
+      "fluorinated",
+      "warming",
+      "airborne",
+      "slowly",
+      "conditioning",
+      "pump",
+      "defective",
+      "stationary",
+      "leakage",
+      "foam",
+      "refrigeration",
+      "pumps",
+      "desirability",
+      "servicing"
+    ],
+    "prompt_length": 1747,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5842",
+  "concept_data": {
+    "title": "European Union customs procedure",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "EU customs procedure",
+    "relation_type": "USE"
+  },
+  "summary": "The \"EU customs procedure\" encompasses the regulatory framework governing the import and export of goods within the European Union, ensuring synchronicity in trade practices. This procedure involves milestones such as the deployment of computerised systems for tracking and notifying customs activities. It requires that all prerequisites, including invoices and proofs of compliance, be submitted manually or electronically. The procedure also addresses inward and outward movements of goods, facilitating the exchange of information across member states. Techniques for weighing and charging duties are meticulously defined, with provisions for cumulation and compensating measures to manage debts. The timing of returns and the handling of chargeable items are critical for maintaining an unaltered flow of trade, while ensuring that travellers and businesses adhere to established regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:18:02.950832",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 578,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 628,
+      "selected_avg_freq": 335.87333333333333
+    },
+    "related_words": [
+      "masp",
+      "synchronicity",
+      "med",
+      "toledo",
+      "milestones",
+      "manually",
+      "staged",
+      "diagonal",
+      "palermo",
+      "proofs",
+      "happen",
+      "prerequisites",
+      "outward",
+      "deployed",
+      "deploy",
+      "unaltered",
+      "interconnection",
+      "faroe",
+      "debts",
+      "occupied",
+      "travellers",
+      "postponement",
+      "maturity",
+      "barcelona",
+      "picture",
+      "technique",
+      "compensating",
+      "inward",
+      "cumulation",
+      "pan"
+    ],
+    "prompt_length": 1723,
+    "category": "2011 tariff policy"
+  }
+}

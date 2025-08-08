@@ -1,0 +1,63 @@
+{
+  "concept_id": "3563",
+  "concept_data": {
+    "title": "works canteen",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "catering",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"works canteen,\" redirected to \"catering,\" pertains to EU regulations concerning the provision of food services within organizations. This includes detailed management procedures for tenders issued by member states, such as Estonia, Latvia, and Lithuania, which must comply with common rules. The invitation to tender allows for the submission of applications based on fixed criteria, ensuring transparency and fairness in the awarding process. Refunds may be granted for certain events, excluding disturbances that affect operations. The measures laid down in EEC regulations, amended in June, provide a structured approach to market management, facilitating exports and ensuring maximum efficiency across countries.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:10.980405",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 61,
+      "requested_words": 150,
+      "min_frequency_found": 146,
+      "max_frequency_found": 4108,
+      "selected_words": 61,
+      "selected_min_freq": 146,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2197.590163934426
+    },
+    "related_words": [
+      "rye",
+      "tenders",
+      "invitation",
+      "refund",
+      "award",
+      "tender",
+      "refunds",
+      "disturbance",
+      "excluding",
+      "cereals",
+      "estonia",
+      "latvia",
+      "opened",
+      "lithuania",
+      "response",
+      "allows",
+      "event",
+      "export",
+      "decide",
+      "issued",
+      "granting",
+      "maximum",
+      "fixed",
+      "organisation",
+      "criteria",
+      "detailed",
+      "management",
+      "notified",
+      "make",
+      "countries"
+    ],
+    "prompt_length": 1641,
+    "category": "6031 agri-foodstuffs"
+  }
+}

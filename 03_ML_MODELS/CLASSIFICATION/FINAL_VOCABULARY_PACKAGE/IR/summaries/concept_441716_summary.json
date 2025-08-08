@@ -1,0 +1,63 @@
+{
+  "concept_id": "441716",
+  "concept_data": {
+    "title": "European Union loan",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "EU loan",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU loan,\" a redirect from \"European Union loan,\" pertains to financial instruments provided by the EU to member states, particularly during macroeconomic difficulties. These loans are often facilitated through mechanisms like the European Financial Stability Facility (EFSF) and the European Financial Stabilisation Mechanism (EFSM). The loans aim to strengthen stability and assist countries, such as Portugal, in adjusting their budgetary frameworks. The approval process involves a thorough review to assess the effectiveness and consistency of the programmes, ensuring that the funds are used to address serious economic challenges. Regular updates and surveillance are conducted to monitor progress and impact, reinforcing the EU's commitment to financial stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:53:13.915460",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 107,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 107,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1831.3084112149534
+    },
+    "related_words": [
+      "somes",
+      "efsm",
+      "efsf",
+      "macroeconomic",
+      "tenth",
+      "receives",
+      "ninth",
+      "experiencing",
+      "eighth",
+      "reviews",
+      "liaison",
+      "threatened",
+      "stabilisation",
+      "facility",
+      "receipt",
+      "done",
+      "strengthening",
+      "stability",
+      "monetary",
+      "euro",
+      "sources",
+      "update",
+      "portuguese",
+      "surveillance",
+      "consistency",
+      "approving",
+      "conducted",
+      "assess",
+      "bank",
+      "budgetary"
+    ],
+    "prompt_length": 1700,
+    "category": "1021 EU finance"
+  }
+}

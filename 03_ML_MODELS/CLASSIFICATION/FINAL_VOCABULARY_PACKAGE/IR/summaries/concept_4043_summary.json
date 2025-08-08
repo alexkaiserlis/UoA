@@ -1,0 +1,63 @@
+{
+  "concept_id": "4043",
+  "concept_data": {
+    "title": "member of the EC Court of Justice",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "member of the Court of Justice (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "A \"member of the Court of Justice (EU)\" refers to judges who occupy a supreme judicial role within the European Union's legal framework. These judges are elected to ensure a quorum in the tribunal, which adjudicates on matters affecting EU law. Members are appointed for a lengthy term and may be reappointed, ensuring continuity and expertise. They take an oath to uphold the law, with responsibilities that include presiding over cases involving advocates and lawyers. Their emoluments, salaries, and weightings are determined by the EU, reflecting the importance of their role in safeguarding the rights of citizens, including the unemployed and orphans. Resignation or retirement from this esteemed position necessitates a formal process, and the registrar manages appointments and related documentation.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:42:54.436673",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 432,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 681,
+      "selected_avg_freq": 255.92666666666668
+    },
+    "related_words": [
+      "alternately",
+      "keld",
+      "brixtofte",
+      "disablement",
+      "reappointed",
+      "personemployed",
+      "theunemployed",
+      "quorum",
+      "haris",
+      "tagaras",
+      "oath",
+      "orphans",
+      "horstpeter",
+      "kreppel",
+      "sean",
+      "raepenbusch",
+      "retiring",
+      "boruta",
+      "irena",
+      "advocate",
+      "sitting",
+      "presidents",
+      "lawyers",
+      "occupy",
+      "supreme",
+      "elect",
+      "fifty",
+      "appended",
+      "registrar",
+      "appointments"
+    ],
+    "prompt_length": 1764,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

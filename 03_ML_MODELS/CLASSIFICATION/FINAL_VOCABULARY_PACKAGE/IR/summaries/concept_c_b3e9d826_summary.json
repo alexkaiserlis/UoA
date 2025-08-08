@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_b3e9d826",
+  "concept_data": {
+    "title": "utility car",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "light-duty vehicle",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"utility car\" is a redirect to the preferred term \"light-duty vehicle\" within the EU regulatory framework concerning land transport. Light-duty vehicles are defined as motor vehicles designed primarily for the transport of passengers or goods, typically with a gross vehicle weight not exceeding 3.5 tonnes. In EU legal documents, these vehicles are subject to specific regulations aimed at ensuring safety, environmental standards, and emissions control. The classification of light-duty vehicles plays a crucial role in the implementation of transport policies, influencing aspects such as taxation, registration, and compliance with EU directives on vehicle emissions.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:02:55.453386",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "4816 land transport"
+  }
+}

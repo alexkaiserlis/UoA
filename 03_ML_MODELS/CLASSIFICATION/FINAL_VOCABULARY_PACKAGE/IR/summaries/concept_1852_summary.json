@@ -1,0 +1,63 @@
+{
+  "concept_id": "1852",
+  "concept_data": {
+    "title": "medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"medicine\" encompasses a broad spectrum of practices and products aimed at diagnosing, treating, and preventing illness. It acknowledges the role of practitioners, including doctors and specialists, who are taught to assess patients' conditions, such as visual acuity and diplopia. The regulation of medical devices, like glasses and lenses, is crucial to ensure they meet safety standards, as outlined by CENELEC. Additionally, the EU emphasizes the importance of universal access to effective treatments, which obviates disparities in health outcomes. This regulatory landscape is vital for maintaining fitness and safety in medical practice across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:47:10.458950",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 481,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 721,
+      "selected_avg_freq": 316.4
+    },
+    "related_words": [
+      "acuity",
+      "dioptres",
+      "diplopia",
+      "doctor",
+      "practitioner",
+      "uncorrected",
+      "taught",
+      "binocular",
+      "glasses",
+      "illness",
+      "converge",
+      "patient",
+      "electro",
+      "forcing",
+      "lenses",
+      "else",
+      "electrotechnical",
+      "emphasize",
+      "universally",
+      "mental",
+      "cenelec",
+      "obviate",
+      "immaterial",
+      "practise",
+      "fitness",
+      "tolerated",
+      "teaching",
+      "stronger",
+      "practitioners",
+      "widened"
+    ],
+    "prompt_length": 1650,
+    "category": "2841 health"
+  }
+}

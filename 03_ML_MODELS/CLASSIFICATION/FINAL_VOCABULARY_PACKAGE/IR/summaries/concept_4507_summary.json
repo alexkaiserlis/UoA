@@ -1,0 +1,63 @@
+{
+  "concept_id": "4507",
+  "concept_data": {
+    "title": "energy transport",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"energy transport\" within EU legal and regulatory frameworks pertains to the interconnected grids that facilitate the movement of energy across member states. This involves the unbundling of energy markets, allowing for partnerships among generators and investors to enhance efficiency. The regulatory landscape stresses the importance of credible interconnections, addressing challenges such as fluctuating demand and the impracticalities of remote energy generation in insular regions. As energy transport evolves, the eventual refurbishment of aging infrastructure, including termoelecttrica plants, becomes paramount. Legal documents often ratify mergers and bids that aim to optimize energy flow, ensuring that the system remains viable and capable of meeting future demands.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:53.891932",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 600,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 523,
+      "selected_avg_freq": 238.09333333333333
+    },
+    "related_words": [
+      "conciliators",
+      "termoelecttrica",
+      "miert",
+      "karel",
+      "refurbishing",
+      "gwh",
+      "edison",
+      "fluctuates",
+      "tens",
+      "shale",
+      "unbundling",
+      "distinctions",
+      "grids",
+      "denying",
+      "basing",
+      "interconnected",
+      "slowing",
+      "topography",
+      "unprofitable",
+      "impractical",
+      "insularity",
+      "generators",
+      "finalized",
+      "archipelago",
+      "grid",
+      "chaired",
+      "eventual",
+      "hardly",
+      "indigenous",
+      "connections"
+    ],
+    "prompt_length": 1704,
+    "category": "6606 energy policy"
+  }
+}

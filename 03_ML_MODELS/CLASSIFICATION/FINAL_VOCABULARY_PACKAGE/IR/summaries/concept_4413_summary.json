@@ -1,0 +1,63 @@
+{
+  "concept_id": "4413",
+  "concept_data": {
+    "title": "rationalization",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "management techniques",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"rationalization\" refers to the application of management techniques aimed at optimizing processes and reducing inefficiencies within various sectors, including mining and refining. This involves assessing outgoings and emissions, such as nitrogen oxides and sulphur dioxide, to stabilize operations and minimize pollutants. For instance, coking plants and refineries may implement rationalization strategies to lower their emissions, thereby enhancing admissibility under EU environmental regulations. By employing skilled miners and utilizing advanced techniques, these industries can achieve coherence in their operations, ensuring that deliveries and removals are efficiently apportioned while adhering to monthly emission limits and offsetting pollution effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:26.117012",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 275,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1454,
+      "selected_avg_freq": 684.2933333333333
+    },
+    "related_words": [
+      "outgoings",
+      "bat",
+      "nox",
+      "removals",
+      "miners",
+      "steam",
+      "pits",
+      "coking",
+      "ncb",
+      "skilled",
+      "coke",
+      "oxides",
+      "pic",
+      "attracting",
+      "apportioned",
+      "refineries",
+      "technique",
+      "admissibility",
+      "stabilize",
+      "scotland",
+      "nitrogen",
+      "pollutants",
+      "mining",
+      "receives",
+      "depreciation",
+      "runs",
+      "sulphur",
+      "refining",
+      "dioxide",
+      "station"
+    ],
+    "prompt_length": 1681,
+    "category": "4021 management"
+  }
+}

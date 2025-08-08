@@ -1,0 +1,63 @@
+{
+  "concept_id": "1074",
+  "concept_data": {
+    "title": "vocational training",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Vocational training, a critical component of EU employment policy, encompasses various educational programs designed to enhance skills and competencies for specific careers. It includes apprenticeships and refresher courses, ensuring that individuals, such as aircrew and slaughterpigs handlers, meet industry standards. The Europass framework facilitates recognition of qualifications across member states, promoting mobility. Legal instruments, like those from the senatsverwaltung, support initiatives for diverse groups, including marginalized individuals. Notable contributors to vocational training discourse include experts like Valentina deikova and Margarita Toledano, who advocate for inclusive practices. Overall, vocational training is essential for fostering a skilled workforce in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:18:33.223781",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 2687,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 5,
+      "selected_avg_freq": 4.333333333333333
+    },
+    "related_words": [
+      "refresher",
+      "senatsverwaltung",
+      "gesundheit",
+      "slaughterpigs",
+      "apprenticeship",
+      "europass",
+      "aircrew",
+      "papoutsakis",
+      "loukas",
+      "forakis",
+      "pissiotis",
+      "diplomes",
+      "matilde",
+      "ledesma",
+      "winship",
+      "elizabeth",
+      "mcanulty",
+      "kirker",
+      "prichard",
+      "valentina",
+      "deikova",
+      "carneiro",
+      "angenot",
+      "fontaine",
+      "heinrich",
+      "bottermann",
+      "nap",
+      "kothmann",
+      "leenmans",
+      "kirsten"
+    ],
+    "prompt_length": 1666,
+    "category": "4406 employment"
+  }
+}

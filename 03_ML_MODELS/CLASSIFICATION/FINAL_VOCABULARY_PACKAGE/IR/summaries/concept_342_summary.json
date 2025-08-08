@@ -1,0 +1,63 @@
+{
+  "concept_id": "342",
+  "concept_data": {
+    "title": "Southern Africa",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Southern Africa\" encompasses a region that includes countries such as Botswana, Namibia, Swaziland, and Zimbabwe, which are critical in EU legal and regulatory frameworks concerning immigration and consular affairs. The EU aims to address irregular immigration threats through enhanced cooperation with Southern African nations, deploying biometrics and fingerprint technologies to streamline visa processes. This includes the establishment of offices equipped with advanced systems like SIS (Schengen Information System) to manage immigration flows. The region's geopolitical dynamics, including the Palestinian situation and the occupation of territories, further complicate EU relations, necessitating a strategic approach to solve these challenges while ensuring the safety and feasibility of EU operations in these locations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:08:47.170130",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 322,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1350,
+      "selected_avg_freq": 556.4733333333334
+    },
+    "related_words": [
+      "roeland",
+      "geer",
+      "irregularly",
+      "fingerprint",
+      "biometrics",
+      "sequence",
+      "photographs",
+      "eusr",
+      "equipping",
+      "consular",
+      "sis",
+      "lakes",
+      "palestinian",
+      "immigration",
+      "botswana",
+      "fighting",
+      "occupied",
+      "van",
+      "boned",
+      "namibia",
+      "swaziland",
+      "kenya",
+      "irregular",
+      "europol",
+      "threats",
+      "latters",
+      "madagascar",
+      "visas",
+      "zimbabwe",
+      "solve"
+    ],
+    "prompt_length": 1643,
+    "category": "7221 Africa"
+  }
+}

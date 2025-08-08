@@ -1,0 +1,63 @@
+{
+  "concept_id": "3052",
+  "concept_data": {
+    "title": "underdeveloped region",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "less-favoured region",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"underdeveloped region\" is redirected to \"less-favoured region,\" which encompasses areas facing specificaid challenges such as economic disequilibria and limited landdevelopment opportunities. These regions often require recapitulatory measures to address issues like salinity in agriculture and the impact of commuting on local economies. The EU's regional policy aims to foster breakthrough initiatives through cooperazione among member states, ensuring that inhabitants of these areas, such as those in Landeck or Monaghan, benefit from financial instruments like the EDGGF. By enhancing digitalization and valoren of local products, such as caciocavallo and lambmeat, the EU seeks to reassure these communities and promote endogenous growth, thereby improving their socio-economic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:33.072949",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 1545,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 87,
+      "selected_avg_freq": 35.77333333333333
+    },
+    "related_words": [
+      "recapitulatory",
+      "breakthrough",
+      "appropriae",
+      "digitalization",
+      "commuting",
+      "landeck",
+      "habitants",
+      "specificaid",
+      "monaghan",
+      "masseik",
+      "arrondissement",
+      "coalmines",
+      "derogatiosn",
+      "salinity",
+      "millers",
+      "fierce",
+      "regionale",
+      "credito",
+      "cooperazione",
+      "ircac",
+      "chease",
+      "caciocavallo",
+      "siciliano",
+      "misto",
+      "disequilibria",
+      "themn",
+      "incraese",
+      "azf",
+      "toulouse",
+      "edggf"
+    ],
+    "prompt_length": 1749,
+    "category": "1616 regions and regional policy"
+  }
+}

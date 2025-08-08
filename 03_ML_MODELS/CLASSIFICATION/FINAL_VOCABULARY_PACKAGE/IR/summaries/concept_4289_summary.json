@@ -1,0 +1,63 @@
+{
+  "concept_id": "4289",
+  "concept_data": {
+    "title": "public stock",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"public stock\" within EU legal and regulatory frameworks encompasses the management and distribution of goods held in stock by public entities or charities. This includes stipualted measures for stockholding, where items such as parmigiano, reggiano, and butteroil are stored in depots. The simplest form of public stock may involve repackaged products, like vitaminized powders, which are remarketed to ensure profitmaking and ease access for the public. The regulatory framework aims to stimulate the market while ensuring that the quantity and quality of stock are maintained under strictest guidelines. This includes proper markings and management of storers to prevent depreciation and underfill.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:05:50.408927",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 955,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 288,
+      "selected_avg_freq": 134.29333333333332
+    },
+    "related_words": [
+      "councl",
+      "peresent",
+      "remarketed",
+      "foreseeabable",
+      "repackaged",
+      "vitaminized",
+      "stipualted",
+      "poweder",
+      "wrappings",
+      "ctd",
+      "trq",
+      "underfill",
+      "stockholding",
+      "profitmaking",
+      "simplest",
+      "increment",
+      "charities",
+      "rennet",
+      "measues",
+      "storers",
+      "quantitiy",
+      "mangement",
+      "oldest",
+      "reproduce",
+      "vinous",
+      "depot",
+      "bag",
+      "roller",
+      "encompasses",
+      "depots"
+    ],
+    "prompt_length": 1663,
+    "category": "2036 distributive trades"
+  }
+}

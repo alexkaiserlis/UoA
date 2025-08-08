@@ -1,0 +1,63 @@
+{
+  "concept_id": "5640",
+  "concept_data": {
+    "title": "operation of the Institutions",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"operation of the Institutions\" within the EU framework encompasses the presiding functions and interoperation of various bodies, ensuring the harmonization of regulatory processes. Institutions like the European Parliament and the European Commission engage in a caseload of legislative activities, addressing contemporary challenges such as radicalisation and globalised issues. The preparers of legal texts must prioritize understandability and clarity, utilizing hyperlinks for easy navigation. Representatives, including prosecutors and officials like Zygmunt and Galia, play crucial roles in this ecosystem. The MFF (Multiannual Financial Framework) is a key element, influencing institutional presences and their reputational dynamics in a rapidly evolving landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:21:42.882229",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 2550,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 12.766666666666667
+    },
+    "related_words": [
+      "preside",
+      "refereed",
+      "understandability",
+      "curie",
+      "epg",
+      "caseload",
+      "kikis",
+      "kazamias",
+      "kreiml",
+      "lempinen",
+      "hyperlinks",
+      "prosecutor",
+      "zygmunt",
+      "cybulski",
+      "galia",
+      "bozhanova",
+      "annuls",
+      "contemporary",
+      "alleweldt",
+      "amelie",
+      "buntenbach",
+      "harmonizaiton",
+      "preparers",
+      "engwirda",
+      "radicalisation",
+      "researching",
+      "stories",
+      "reputational",
+      "interoperation",
+      "hubert"
+    ],
+    "prompt_length": 1712,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

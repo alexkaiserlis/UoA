@@ -1,0 +1,63 @@
+{
+  "concept_id": "3806",
+  "concept_data": {
+    "title": "lard",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Lard, classified under the category of processed agricultural produce, refers to the fat derived from pigs, which is significant in EU regulations concerning food safety and trade. The nomenclature for lard is detailed in the relevant EU acts, ensuring uniformity in classification and customs requirements. This product must satisfy specific criteria regarding its characteristics and energy content, which are essential for commercial applications. The current regulations, annexed to the EU tariff schedule, require that lard be accurately described to retain transparency in the market. Research and technology advancements in this field aim to enhance the quality of lard, ensuring it meets the last standards set forth in the accession documents signed in January and March.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:26:22.465851",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 74,
+      "requested_words": 150,
+      "min_frequency_found": 25,
+      "max_frequency_found": 4108,
+      "selected_words": 74,
+      "selected_min_freq": 25,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2153.0675675675675
+    },
+    "related_words": [
+      "lard",
+      "fat",
+      "pig",
+      "simultaneously",
+      "retain",
+      "fats",
+      "subheading",
+      "brussels",
+      "refers",
+      "technology",
+      "atomic",
+      "classified",
+      "nomenclature",
+      "satisfy",
+      "classification",
+      "containing",
+      "research",
+      "contain",
+      "energy",
+      "characteristics",
+      "quantities",
+      "commercial",
+      "remain",
+      "tariff",
+      "signed",
+      "small",
+      "customs",
+      "uniform",
+      "annexed",
+      "goods"
+    ],
+    "prompt_length": 1646,
+    "category": "6016 processed agricultural produce"
+  }
+}

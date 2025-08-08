@@ -1,0 +1,63 @@
+{
+  "concept_id": "2749",
+  "concept_data": {
+    "title": "toffee",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "confectionery product",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"toffee\" is redirected to the preferred term \"confectionery product\" within EU legal and regulatory frameworks. Confectionery products encompass a variety of sweet treats, including karlovarské and karlsbader delicacies, as well as traditional items like pancakes and mantecados. The regulation of such products ensures compliance with food safety standards, addressing ingredients like polyalcohols and neutralizing agents. Celebratory sweets, such as baklavası and koufeta, must also adhere to specific labeling requirements. The diverse range of confectionery, from sklandrausis to gianduja, reflects the rich culinary heritage of the EU, necessitating clear definitions and standards for consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:33:46.071453",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 1473,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 14,
+      "selected_avg_freq": 7.64
+    },
+    "related_words": [
+      "pancakes",
+      "karlovarské",
+      "trojhránky",
+      "karlsbader",
+      "oblaten",
+      "salient",
+      "karlsbad",
+      "karlovy",
+      "kołocz",
+      "śląski",
+      "kołacz",
+      "oplatky",
+      "gianduja",
+      "mantecados",
+      "rosins",
+      "celebratory",
+      "kalakukko",
+      "žemaitiškas",
+      "kastinys",
+      "cornish",
+      "pasty",
+      "pukka",
+      "pies",
+      "shire",
+      "greggs",
+      "panforte",
+      "blaa",
+      "sklandrausis",
+      "chests",
+      "tentúgal"
+    ],
+    "prompt_length": 1683,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2109",
+  "concept_data": {
+    "title": "Arctic Ocean",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Arctic Ocean\" concept pertains to the natural environment category and is crucial for EU legal and regulatory frameworks concerning fisheries management. Within this context, the EU engages in international negotiations to establish fishing quotas and ensure compliance with regulations governing the catches of species like cod in these waters. The North Atlantic Fisheries Organization (NAFO) plays a significant role in controlling fishing activities, prohibiting the exhaustion of fish stocks. Member States, including Germany, are subject to rules that allocate fishing opportunities and fix quotas, thereby ensuring sustainable practices. The functioning of this system is vital for maintaining the ecological balance in the Arctic Ocean.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:48:15.919501",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 66,
+      "requested_words": 150,
+      "min_frequency_found": 68,
+      "max_frequency_found": 4108,
+      "selected_words": 66,
+      "selected_min_freq": 68,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1964.3939393939395
+    },
+    "related_words": [
+      "nafo",
+      "cod",
+      "greenland",
+      "flying",
+      "catches",
+      "flag",
+      "exhausted",
+      "waters",
+      "prohibit",
+      "fishing",
+      "opportunities",
+      "fish",
+      "vessels",
+      "stock",
+      "fisheries",
+      "quotas",
+      "prohibition",
+      "stocks",
+      "quota",
+      "therein",
+      "registered",
+      "allocated",
+      "groups",
+      "negotiations",
+      "fixing",
+      "germany",
+      "agreements",
+      "ensuring",
+      "received",
+      "compliance"
+    ],
+    "prompt_length": 1647,
+    "category": "5211 natural environment"
+  }
+}

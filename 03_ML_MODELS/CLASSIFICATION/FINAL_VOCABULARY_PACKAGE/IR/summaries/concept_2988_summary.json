@@ -1,0 +1,63 @@
+{
+  "concept_id": "2988",
+  "concept_data": {
+    "title": "rabies",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Rabies, categorized under agricultural activity, is a significant zoonotic disease regulated within the EU framework. The disease, primarily transmitted by bats and foxes, necessitates rigorous immunization protocols, including revaccination and booster doses for at-risk animals. The EU mandates veterinary oversight through vetcom systems to ensure compliance with health standards. Surveillance (vigilancia) and diagnostic measures are crucial for detecting rabies in sylvatic and domesticated populations. Regulatory documents emphasize the importance of antigenic titration and the reapproval of vaccines, addressing potential incursions of rabies from incriminated wildlife. Research institutions, such as Universidad Complutense and Cefas, contribute to understanding rabies dynamics, including seroconversion and the role of pteropus species in disease transmission.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:09:15.144836",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1014,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 113,
+      "selected_avg_freq": 48.10666666666667
+    },
+    "related_words": [
+      "revaccination",
+      "booster",
+      "vetcom",
+      "fort",
+      "diagnóstico",
+      "reapproval",
+      "dlr",
+      "changchun",
+      "antirabies",
+      "reinfection",
+      "pteropus",
+      "incriminated",
+      "reconvalescent",
+      "incursions",
+      "veterinaria",
+      "visavet",
+      "facultad",
+      "complutense",
+      "sam",
+      "nipah",
+      "sylvatic",
+      "aptitude",
+      "kiev",
+      "bats",
+      "hendra",
+      "diseased",
+      "disorder",
+      "exclave",
+      "rage",
+      "animaux"
+    ],
+    "prompt_length": 1692,
+    "category": "5631 agricultural activity"
+  }
+}

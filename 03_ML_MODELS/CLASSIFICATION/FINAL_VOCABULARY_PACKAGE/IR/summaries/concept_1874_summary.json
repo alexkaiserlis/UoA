@@ -1,0 +1,63 @@
+{
+  "concept_id": "1874",
+  "concept_data": {
+    "title": "Principality of Andorra",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Andorra",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Principality of Andorra,\" often referred to simply as \"Andorra,\" is a unique microstate situated between France and Spain, characterized by its political geography and historical governance structure. Governed by a parliamentary system, Andorra's legal framework enshrines privacy protections, particularly concerning dades personals, as stipulated in the llei qualificada LQPD. The principat's relationship with the EU involves transborder cooperation on issues such as counterfeiting and money laundering, where Andorra has ratified various covenants to align with EU standards. Additionally, Andorra's diplomatic ties, including its ambassador to the Vatican, reflect its commitment to international norms, while its distinct currency, coins, and banknotes are regulated to prevent disguised laundering activities. Popular referendums and initialling of agreements further clarify Andorra's democratic processes, ensuring that the rights of its citizens are protected against arbitrary actions.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:45:58.344224",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 619,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 469,
+      "selected_avg_freq": 200.04
+    },
+    "related_words": [
+      "surrogates",
+      "diner",
+      "carn",
+      "archbishop",
+      "princes",
+      "constitució",
+      "principat",
+      "llei",
+      "qualificada",
+      "protecció",
+      "dades",
+      "personals",
+      "lqpdp",
+      "inscription",
+      "andorran",
+      "ambassador",
+      "urgell",
+      "transborder",
+      "covenant",
+      "verbal",
+      "arbitrarily",
+      "registries",
+      "bureaux",
+      "collector",
+      "referendum",
+      "laundering",
+      "unjustifiably",
+      "insurers",
+      "therof",
+      "vatican"
+    ],
+    "prompt_length": 1731,
+    "category": "7236 political geography"
+  }
+}

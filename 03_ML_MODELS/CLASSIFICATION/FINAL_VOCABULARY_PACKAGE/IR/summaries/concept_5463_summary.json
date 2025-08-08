@@ -1,0 +1,63 @@
+{
+  "concept_id": "5463",
+  "concept_data": {
+    "title": "species diversity",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "biodiversity",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"species diversity,\" redirected to the preferred term \"biodiversity,\" encompasses the variety of life forms within ecosystems, crucial for maintaining ecological balance. In EU legal and regulatory frameworks, biodiversity is defended through instruments like the Convention on Biological Diversity (CBD) and the Nagoya Protocol, which promote the sustainable use of genetic resources. The EU's Natura 2000 network aims to protect habitats and species, fostering biogeographical unity across member states. Simultaneously, the OSPAR Convention addresses marine biodiversity, while initiatives encourage the translocations of endangered species. The dynamic interplay of flora and fauna is essential for resilient ecosystems, yielding benefits for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:31:35.199683",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 487,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 738,
+      "selected_avg_freq": 326.32666666666665
+    },
+    "related_words": [
+      "cbd",
+      "simoultaneously",
+      "translocations",
+      "biogeograpical",
+      "steppic",
+      "alien",
+      "defended",
+      "nagoya",
+      "biogeographical",
+      "deposition",
+      "natura",
+      "informatics",
+      "seventeenth",
+      "shark",
+      "ospar",
+      "introductions",
+      "habitat",
+      "depository",
+      "yielded",
+      "absent",
+      "hosting",
+      "favours",
+      "renamed",
+      "map",
+      "habitats",
+      "depositary",
+      "biodiversity",
+      "stems",
+      "appendices",
+      "ecosystems"
+    ],
+    "prompt_length": 1722,
+    "category": "5211 natural environment"
+  }
+}

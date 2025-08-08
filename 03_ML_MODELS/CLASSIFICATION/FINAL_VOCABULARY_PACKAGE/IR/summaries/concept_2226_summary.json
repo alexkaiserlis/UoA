@@ -1,0 +1,63 @@
+{
+  "concept_id": "2226",
+  "concept_data": {
+    "title": "bread-making",
+    "category_code": "6036",
+    "category_name": "food technology",
+    "category_full": "6036 food technology",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"bread-making\" within EU legal and regulatory frameworks encompasses various aspects of food technology, particularly the production and quality assessment of bread. This process involves the milling of cereals, such as wheat and maize, to produce flour, which is then combined with water, yeast, and other ingredients to create dough. The role of enzymes, like amylase, is crucial in enhancing the dough's behaviour during baking. Regulatory standards ensure that bread meets acceptable quality criteria, balancing nutritional content, including protein and starch levels. Producers must adhere to these regulations, which may involve testing in laboratories and maintaining relationships with suppliers to ensure premium ingredients. Additionally, the EU provides refunds for certain agricultural products, supporting sectors involved in bread-making and related activities, such as brewing and milling.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:26.755009",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 138,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 138,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1581.2028985507247
+    },
+    "related_words": [
+      "baking",
+      "quellmehl",
+      "dough",
+      "amylase",
+      "handing",
+      "bakery",
+      "groats",
+      "brewing",
+      "bread",
+      "beer",
+      "milling",
+      "flour",
+      "mechanical",
+      "potato",
+      "enjoyed",
+      "meal",
+      "starch",
+      "substitution",
+      "potatoes",
+      "protein",
+      "maize",
+      "broken",
+      "wheat",
+      "behaviour",
+      "laboratories",
+      "farm",
+      "rice",
+      "subjected",
+      "premium",
+      "aforesaid"
+    ],
+    "prompt_length": 1633,
+    "category": "6036 food technology"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4687",
+  "concept_data": {
+    "title": "poultrymeat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"poultrymeat\" pertains to animal products within the EU regulatory framework, encompassing various forms such as capon, seasoned, and plucked poultry. Regulations governing poultrymeat include provisions for deliveries, zoning, and guarantees of quality, ensuring compliance with health standards. The term is significant in treaties and organizational frameworks, addressing issues like serotyping and the classification of lentogenic and velogenic strains. The EU's approach to poultrymeat involves compensatory measures for producers, as well as tariffs that affect trade dynamics. This regulatory landscape is vital for maintaining the integrity of poultrymeat as a key agricultural product within the EU territory.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:46:52.192893",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 2940,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 24,
+      "selected_avg_freq": 12.753333333333334
+    },
+    "related_words": [
+      "peroid",
+      "poulrymeat",
+      "organistion",
+      "juin",
+      "confrontation",
+      "delivieries",
+      "regualtions",
+      "capon",
+      "compenatory",
+      "raties",
+      "porportion",
+      "poultrymet",
+      "territorry",
+      "aproducts",
+      "chongming",
+      "linyi",
+      "qindao",
+      "treay",
+      "poultymeat",
+      "ixb",
+      "tarfiff",
+      "seasoned",
+      "plucked",
+      "hearts",
+      "gizzards",
+      "bled",
+      "scopes",
+      "guaranteees",
+      "thereform",
+      "rubinum"
+    ],
+    "prompt_length": 1649,
+    "category": "6011 animal product"
+  }
+}

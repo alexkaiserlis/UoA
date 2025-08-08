@@ -1,0 +1,63 @@
+{
+  "concept_id": "1274",
+  "concept_data": {
+    "title": "xylene",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "hydrocarbon",
+    "relation_type": "USE"
+  },
+  "summary": "Xylene, a hydrocarbon, is categorized under the oil industry within EU legal and regulatory frameworks. As a redirect to \"hydrocarbon,\" it encompasses various chemical compounds essential in industrial applications. The regulatory landscape addresses concerns such as the dominance of certain producers like montedipe and montell, which can lead to rivalry in the market. The use of xylene in processes, including fluidized catalytic cracking, raises issues of environmental impact, particularly regarding asphaltene spilt and potential health risks like leukaemia. Regulatory bodies, including the FTC, oversee divestiture and licensing agreements, ensuring compliance with safety standards. Additionally, chromatographic methods are employed to monitor xylene levels, while companies like atochem and technipol develop safer alternatives. The EU's commitment to sustainable practices necessitates the exclusion of harmful additives, promoting innovations in extender technologies and addressing concerns related to substances like chlorobenzilate and isononyl.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:19.929362",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 138,
+    "vocabulary_stats": {
+      "total_related_words": 1489,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 61,
+      "selected_avg_freq": 25.80666666666667
+    },
+    "related_words": [
+      "essentialy",
+      "montedipe",
+      "montecatini",
+      "concentrative",
+      "montell",
+      "spheripol",
+      "unipol",
+      "ucc",
+      "rivalry",
+      "technipol",
+      "cua",
+      "shac",
+      "seadrift",
+      "ftc",
+      "divestiture",
+      "polyco",
+      "norco",
+      "westhollow",
+      "licensor",
+      "herma",
+      "topoietic",
+      "leukaemia",
+      "asphaltene",
+      "overcomes",
+      "spilt",
+      "fédérations",
+      "atochem",
+      "phosphamidon",
+      "pbbs",
+      "degreening"
+    ],
+    "prompt_length": 1691,
+    "category": "6616 oil industry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3408",
+  "concept_data": {
+    "title": "animal selection",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal breeding",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"animal selection,\" redirected to \"animal breeding,\" encompasses a range of agricultural activities governed by EU regulations. This process involves the artificial fertilization and manipulation of germinal materials to enhance hereditary traits in livestock. Documentation of breeding practices is crucial for clarity in deliveries and compliance with zootechnic standards. The EU framework addresses untested methods and speciesoj variations, ensuring that manipulated breeds, such as mares and smolt, meet health and welfare criteria. Regulatory oversight includes monitoring for parasitic infections like foulbrood and ensuring that fertilized eggs are cultured under optimal conditions. This comprehensive approach supports sustainable ranching practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:12.876573",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1780,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 15.466666666666667
+    },
+    "related_words": [
+      "clairty",
+      "delivieries",
+      "artifical",
+      "docmentation",
+      "untested",
+      "zootechnic",
+      "germinal",
+      "respection",
+      "breeg",
+      "haidu",
+      "bilhar",
+      "omtv",
+      "szekszárd",
+      "állomás",
+      "carol",
+      "ranch",
+      "tylord",
+      "belcam",
+      "qld",
+      "inseminated",
+      "govering",
+      "fertilized",
+      "cultured",
+      "honor",
+      "burchett",
+      "mares",
+      "trubschachen",
+      "trub",
+      "langnau",
+      "eggiwil"
+    ],
+    "prompt_length": 1689,
+    "category": "5631 agricultural activity"
+  }
+}

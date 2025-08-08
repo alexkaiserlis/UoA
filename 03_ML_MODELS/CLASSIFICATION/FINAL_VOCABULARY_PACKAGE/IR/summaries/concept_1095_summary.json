@@ -1,0 +1,63 @@
+{
+  "concept_id": "1095",
+  "concept_data": {
+    "title": "tax evasion",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tax evasion refers to the illegitimate practices employed by taxpayers to evade their tax obligations, often through methods such as undervaluation of assets or aggressive structuring of transactions. In the EU, combatting tax evasion involves counteracting complicity and connivance among resellers and vendors who may facilitate these actions. Regulatory frameworks aim for exhaustiveness in addressing issues like carousel fraud, where untaxed goods disappear from the market. The G20 has underscored the need for resilient measures against abusive tax schemes. Tax evasion not only leads to irreparable losses for public finances but also undermines the integrity of the tax system, necessitating robust enforcement and compliance strategies.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:04:54.008664",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1259,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 146,
+      "selected_avg_freq": 70.02666666666667
+    },
+    "related_words": [
+      "connivance",
+      "complicity",
+      "qrm",
+      "isobutoxyethoxy",
+      "propellant",
+      "recapitulative",
+      "untaxed",
+      "undervaluation",
+      "structuring",
+      "phenylazo",
+      "resilient",
+      "illegitimate",
+      "kerosene",
+      "taxpayer",
+      "consoles",
+      "exhaustiveness",
+      "vendor",
+      "g20",
+      "collectivity",
+      "evaded",
+      "barthélemy",
+      "combatting",
+      "irreparable",
+      "abusive",
+      "loses",
+      "letting",
+      "elapses",
+      "carousel",
+      "presumptions",
+      "counteracting"
+    ],
+    "prompt_length": 1723,
+    "category": "1216 criminal law"
+  }
+}

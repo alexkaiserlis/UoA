@@ -1,0 +1,63 @@
+{
+  "concept_id": "3172",
+  "concept_data": {
+    "title": "regulation of transactions",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"regulation of transactions\" within the EU trade policy framework addresses the complexities of cross-border economic interactions, particularly in the context of liberalization and stabilization. It aims to prevent destabilizing outflows of capital while promoting healthy investment portfolios. The regulation seeks to synchronize financial activities, ensuring that borrowing and indebtedness do not compromise economic equilibrium. By relaxing constraints on transactions, the EU facilitates the acquisition of assets abroad, thereby reinforcing economic partnerships. This liberalisation process, while addressing cyclical pressures, also involves the restoration of trust among residents and partners, ultimately lifting the barriers that may interrupt trade in sectors like petroleum and cheeses.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:19:54.548981",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 325,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1009,
+      "selected_avg_freq": 455.67333333333335
+    },
+    "related_words": [
+      "destabilizing",
+      "earning",
+      "outflow",
+      "synchronization",
+      "indebtedness",
+      "franc",
+      "viia",
+      "appreciation",
+      "dollar",
+      "pound",
+      "fragile",
+      "portfolio",
+      "acquiring",
+      "constraint",
+      "investing",
+      "estate",
+      "borrowing",
+      "pronounced",
+      "expose",
+      "widened",
+      "abrogation",
+      "liberalized",
+      "relaxation",
+      "interrupting",
+      "aggravated",
+      "relaxed",
+      "residents",
+      "pressures",
+      "liberalization",
+      "compromising"
+    ],
+    "prompt_length": 1716,
+    "category": "2006 trade policy"
+  }
+}

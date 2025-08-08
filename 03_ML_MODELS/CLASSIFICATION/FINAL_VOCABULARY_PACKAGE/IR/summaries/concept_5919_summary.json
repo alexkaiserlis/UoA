@@ -1,0 +1,26 @@
+{
+  "concept_id": "5919",
+  "concept_data": {
+    "title": "operating system",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"operating system\" refers to a foundational software that manages computer hardware and software resources, enabling user applications to function effectively. In the context of EU legal and regulatory frameworks, operating systems are pivotal in ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR). They facilitate secure data processing and storage, which is essential for safeguarding personal data. Moreover, the interoperability of operating systems is crucial for fostering innovation and competition within the digital single market. Thus, understanding the regulatory implications of operating systems is vital for stakeholders in the information technology sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:21:37.880878",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1198,
+    "category": "3236 information technology and data processing"
+  }
+}

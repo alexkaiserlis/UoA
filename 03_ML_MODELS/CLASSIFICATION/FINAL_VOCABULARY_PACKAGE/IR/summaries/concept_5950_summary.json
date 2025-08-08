@@ -1,0 +1,26 @@
+{
+  "concept_id": "5950",
+  "concept_data": {
+    "title": "non-food use of agricultural products",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "alternative use of agricultural products",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"non-food use of agricultural products,\" redirected to the preferred term \"alternative use of agricultural products,\" pertains to the utilization of agricultural outputs beyond traditional food applications. In the context of EU legal and regulatory frameworks, this concept encompasses a range of practices aimed at enhancing sustainability and resource efficiency within the agricultural sector. It includes the development of biofuels, bioplastics, and other innovative materials derived from crops. The EU promotes such alternative uses through various policies and funding mechanisms, encouraging agricultural diversification and contributing to environmental objectives while ensuring compliance with regulatory standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:56:27.146201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1275,
+    "category": "5611 agricultural structures and production"
+  }
+}

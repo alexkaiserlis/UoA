@@ -1,0 +1,63 @@
+{
+  "concept_id": "5287",
+  "concept_data": {
+    "title": "ionizing radiation",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "ionising radiation",
+    "relation_type": "USE"
+  },
+  "summary": "Ionising radiation, a critical concept within the EU's regulatory framework, pertains to energy emitted by atoms that can ionize matter. This includes applications in photoconductive technologies and holography, where precise measurements are essential. Regulatory documents address the safety and environmental impacts of ionising radiation, particularly in research and medical contexts. The EU emphasizes the need for accurate analysis and monitoring, utilizing advanced tools like microanalyzers and autospec devices. Compliance with standards ensures that the glow from ionising sources, such as those used in scintag and diffraction techniques, does not pose risks. The term \"ionizing radiation\" redirects to \"ionising radiation,\" highlighting its significance in EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:26:39.901720",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1144,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 7.826666666666667
+    },
+    "related_words": [
+      "glow",
+      "sustainer",
+      "acutronic",
+      "gyros",
+      "gyroscope",
+      "precisions",
+      "photoconductive",
+      "reesearch",
+      "photodissociation",
+      "fluorolog",
+      "frequence",
+      "autospec",
+      "scintag",
+      "reflexes",
+      "reflexion",
+      "diffraction",
+      "goniometric",
+      "gsd",
+      "seifert",
+      "bogenstrasse",
+      "ahrensburg",
+      "analyisis",
+      "egl",
+      "enertec",
+      "schlumberger",
+      "nieuport",
+      "photocathodes",
+      "jodon",
+      "micropositionable",
+      "mph"
+    ],
+    "prompt_length": 1776,
+    "category": "3606 natural and applied sciences"
+  }
+}

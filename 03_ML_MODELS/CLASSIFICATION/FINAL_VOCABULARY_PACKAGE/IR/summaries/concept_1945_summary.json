@@ -1,0 +1,63 @@
+{
+  "concept_id": "1945",
+  "concept_data": {
+    "title": "metal furniture",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"metal furniture\" falls under the category of iron, steel, and other metal industries, specifically classified within the EU's nomenclature for goods. This classification is essential for customs and trade, as it provides a uniform framework for the implementation of tariffs and statistical codes. The relevant regulations invoke specific subdivisions that describe the characteristics of metal furniture, ensuring that holders of such goods conform to binding standards. The present classification, issued in the last months, continues to evolve, reflecting additional reasons for trade adjustments. In this context, the annexed information aids in the interpretation of the applicable legal framework, ensuring compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:11:33.851889",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 206,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 206,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2341.1428571428573
+    },
+    "related_words": [
+      "subdivisions",
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "conform",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "codes",
+      "classification",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "statistical",
+      "code",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods",
+      "months",
+      "reasons"
+    ],
+    "prompt_length": 1665,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

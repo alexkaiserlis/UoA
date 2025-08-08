@@ -1,0 +1,63 @@
+{
+  "concept_id": "1598",
+  "concept_data": {
+    "title": "veterinary regulations",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "veterinary legislation",
+    "relation_type": "USE"
+  },
+  "summary": "Veterinary regulations, often referred to as veterinary legislation, encompass a comprehensive framework governing animal health and welfare within the EU. This legislation addresses various aspects, including the use of pharmaceuticals like fluazuron and tolfenamic, which are critical in treating conditions such as mastitis and debilitating infections caused by microbes like Perkinsus marinus. The regulations also cover practices like docking and clipping, ensuring humane treatment of animals. Additionally, they regulate the use of substances such as bismuth subcarbonate and ginseng tincture in veterinary medicine. Compliance with these regulations is essential to prevent irregularities and ensure the health of livestock, thus supporting agricultural policy objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:27:15.519849",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 3942,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.48
+    },
+    "related_words": [
+      "fluazuron",
+      "skull",
+      "incisor",
+      "erupted",
+      "microbes",
+      "hydrocloride",
+      "docking",
+      "clipping",
+      "tearing",
+      "incompetent",
+      "tosylchloramide",
+      "piceae",
+      "turiones",
+      "recentes",
+      "exitiosa",
+      "microcytos",
+      "mackini",
+      "perkinsus",
+      "marinus",
+      "taura",
+      "yellowhead",
+      "penned",
+      "calpis",
+      "humicola",
+      "insolens",
+      "belfeed",
+      "tolfenamic",
+      "bismuth",
+      "subcarbonate",
+      "subgallate"
+    ],
+    "prompt_length": 1767,
+    "category": "5606 agricultural policy"
+  }
+}

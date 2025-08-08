@@ -1,0 +1,63 @@
+{
+  "concept_id": "1321",
+  "concept_data": {
+    "title": "tax on spending",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax on consumption",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax on spending,\" redirected to \"tax on consumption,\" encompasses various taxation mechanisms applied to goods and services consumed by households and businesses within the EU. This regulatory framework prepares criteria for enforcing taxation on diverse products, including cigarettes and cars, while addressing potential imbalances in metropolitan areas. By illustrating the divergence in tax rates among member states, the EU aims to avoid exploitation of loopholes by proprietors. The taxation system functions to ensure commensurate contributions from all sectors, thereby enhancing simplicity in invoicing and compliance. This approach also considers the lifetime impact of consumption taxes on economic stability and societal behavior.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:36:14.500880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 758,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 396,
+      "selected_avg_freq": 198.72
+    },
+    "related_words": [
+      "snuff",
+      "cirteria",
+      "prepares",
+      "proprietors",
+      "berth",
+      "bunker",
+      "onshore",
+      "sek",
+      "functioned",
+      "cities",
+      "contradictory",
+      "counterparts",
+      "chewing",
+      "embracing",
+      "handed",
+      "rolls",
+      "relocation",
+      "lying",
+      "illustrate",
+      "hire",
+      "gbp",
+      "smoking",
+      "burning",
+      "nordic",
+      "shore",
+      "cigarettes",
+      "metropolitan",
+      "lease",
+      "invoicing",
+      "enforcing"
+    ],
+    "prompt_length": 1687,
+    "category": "2446 taxation"
+  }
+}

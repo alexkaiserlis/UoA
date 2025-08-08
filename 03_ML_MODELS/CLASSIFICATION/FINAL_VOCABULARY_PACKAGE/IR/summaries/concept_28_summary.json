@@ -1,0 +1,63 @@
+{
+  "concept_id": "28",
+  "concept_data": {
+    "title": "non-food additive",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "adjuvant",
+    "relation_type": "USE"
+  },
+  "summary": "In EU regulatory contexts, the term \"non-food additive,\" which redirects to \"adjuvant,\" refers to substances used to enhance the properties of products without being directly consumed. These include compounds like ethoxyquin and phytase, which serve as antioxidants and feed additives, respectively. Non-food additives may also encompass binders, such as cellulose and plastics, that improve product stability. Regulatory frameworks assess the migration of substances, including radionuclides like caesium from packaging materials, ensuring safety in applications involving coatings and films. The use of carotenoids and xanthophylls as pigments in animal feed exemplifies the extensive regulation of these substances, which must comply with EU standards to prevent fallout from hazardous materials like those from Chernobyl.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:29.734007",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 539,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 578,
+      "selected_avg_freq": 217.08666666666667
+    },
+    "related_words": [
+      "trichloro",
+      "hydroxydiphenyl",
+      "diethyleneglycol",
+      "ethanediol",
+      "monoethyleneglycol",
+      "nuclides",
+      "citrate",
+      "rcc",
+      "xanthophylls",
+      "monomers",
+      "ciba",
+      "fallout",
+      "uncoated",
+      "carotenoids",
+      "simulants",
+      "nitrogenous",
+      "hydroxyethyl",
+      "regenerated",
+      "ethoxyquin",
+      "antioxidants",
+      "phytase",
+      "migrating",
+      "caesium",
+      "pigments",
+      "radionuclide",
+      "migrate",
+      "coccidiostats",
+      "binders",
+      "cellulose",
+      "vitamin"
+    ],
+    "prompt_length": 1731,
+    "category": "6811 chemistry"
+  }
+}

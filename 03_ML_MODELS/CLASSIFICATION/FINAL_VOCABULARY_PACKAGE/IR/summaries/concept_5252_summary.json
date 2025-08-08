@@ -1,0 +1,63 @@
+{
+  "concept_id": "5252",
+  "concept_data": {
+    "title": "kid",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "goat",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"kid,\" categorized under means of agricultural production, redirects to the preferred term \"goat.\" In EU legal and regulatory contexts, goats (Capra aegagrus hircus) are recognized for their autochthonous breeds, such as Alentejana and Churra, which exhibit specificaid traits essential for sustainable farming. The promotion of goat farming aligns with EU directives aimed at enhancing rural development and ensuring the vigourous production of lambmeat. Regulatory frameworks also address health concerns, including epididymitis and EHD, necessitating the use of transponders for tracking. The genetic diversity, including homozygous and heterozygous polymorphisms, is crucial for breeding programs, ensuring that farmers can outstrip market demands while maintaining quality standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:30:17.272065",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2337,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 16.32
+    },
+    "related_words": [
+      "repsect",
+      "rustic",
+      "premim",
+      "inpro",
+      "coulter",
+      "specificaid",
+      "pourquier",
+      "outstrip",
+      "retailed",
+      "epididymitis",
+      "pastern",
+      "tattoo",
+      "prp",
+      "creutzfeld",
+      "rafoxanide",
+      "lectin",
+      "vigourous",
+      "lambmeat",
+      "disrutption",
+      "iga",
+      "transponder",
+      "icar",
+      "homozygous",
+      "heterozygous",
+      "tildipirosin",
+      "alessandria",
+      "rift",
+      "levucell",
+      "discriminated",
+      "readers"
+    ],
+    "prompt_length": 1710,
+    "category": "5626 means of agricultural production"
+  }
+}

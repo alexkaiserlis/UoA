@@ -1,0 +1,63 @@
+{
+  "concept_id": "3672",
+  "concept_data": {
+    "title": "university research",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"university research\" within the EU legal and regulatory framework pertains to the structured efforts undertaken by universities and research centres to advance knowledge and technological innovation. The EU encourages participation in multiannual programmes that set fixed budget allocations for research and development (RTD) activities. These programmes specify actions aimed at enhancing the effectiveness of research undertakings, ensuring coherent cooperation among participants. Limitations on funding are outlined to justify the allocation of resources, while methods for assessing the impact of research are detailed. The European Commission's Joint Research Centre (JRC) plays a pivotal role in this context, promoting sound economic growth through collaborative research efforts.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:23:57.554253",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2011.1583333333333
+    },
+    "related_words": [
+      "rtd",
+      "universities",
+      "jrc",
+      "demonstration",
+      "limitations",
+      "centres",
+      "participants",
+      "coherent",
+      "sized",
+      "detail",
+      "justification",
+      "cooperate",
+      "centre",
+      "multiannual",
+      "normally",
+      "supplement",
+      "technological",
+      "organizations",
+      "specifies",
+      "economy",
+      "medium",
+      "encourage",
+      "efforts",
+      "sound",
+      "title",
+      "participation",
+      "budget",
+      "research",
+      "fourth",
+      "effectiveness"
+    ],
+    "prompt_length": 1695,
+    "category": "6416 research and intellectual property"
+  }
+}

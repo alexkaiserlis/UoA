@@ -1,0 +1,63 @@
+{
+  "concept_id": "5582",
+  "concept_data": {
+    "title": "debtor",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "debt",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"debtor\" refers to an entity that owes a financial obligation, typically characterized by debt instruments. This concept is closely related to \"debt,\" which encompasses various exposures and positions that firms may hold. Regulatory frameworks, such as directives on banking supervision, establish thresholds for measuring credit risks associated with debtors. These frameworks involve prudential approaches to ensure that institutions can adequately cover potential losses. Stakeholders must consider the materiality of these debts, as they directly impact the financial health of issuers and the overall stability of the market. Thus, the analysis of debtors is essential for effective risk management and regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:07.846844",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 102,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 102,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1587.2450980392157
+    },
+    "related_words": [
+      "hedges",
+      "materiality",
+      "exposures",
+      "issuers",
+      "book",
+      "prudential",
+      "equity",
+      "stakeholder",
+      "derivatives",
+      "approaches",
+      "absolute",
+      "standardised",
+      "banking",
+      "measured",
+      "debt",
+      "thresholds",
+      "analysed",
+      "allowance",
+      "positions",
+      "credit",
+      "firms",
+      "numbers",
+      "defining",
+      "delegated",
+      "threshold",
+      "trading",
+      "net",
+      "solely",
+      "supervision",
+      "supplementing"
+    ],
+    "prompt_length": 1699,
+    "category": "1211 civil law"
+  }
+}

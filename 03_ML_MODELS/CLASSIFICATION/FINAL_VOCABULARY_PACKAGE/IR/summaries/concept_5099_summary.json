@@ -1,0 +1,63 @@
+{
+  "concept_id": "5099",
+  "concept_data": {
+    "title": "caravanning",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "camping",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"caravanning,\" which redirects to the preferred term \"camping,\" encompasses a range of social affairs related to the use of campsites and the provision of unfurnished accommodations for itinerant individuals. In the EU regulatory framework, this includes the establishment of standards for camps, hotels, and restaurants, ensuring ecological safeguards and promoting eco-labels for sustainable practices. The influx of tourists habitually seeking such accommodations necessitates appropriate qualifications for hosts, including diplomas in hospitality. Regulations also govern the letting of furnished and unfurnished spaces, ensuring that the profession maintains a repute that aligns with EU standards for safety and quality in residence and leisure activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:49:13.141125",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 405,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 855,
+      "selected_avg_freq": 405.94
+    },
+    "related_words": [
+      "campsite",
+      "unfurnished",
+      "cafes",
+      "taverns",
+      "rooming",
+      "itinerant",
+      "camps",
+      "habitually",
+      "hotels",
+      "influx",
+      "letting",
+      "whence",
+      "repute",
+      "houses",
+      "isic",
+      "ecolabel",
+      "caution",
+      "restaurants",
+      "happen",
+      "eating",
+      "ordination",
+      "beverage",
+      "possesses",
+      "profession",
+      "disappear",
+      "diplomas",
+      "drinking",
+      "occupation",
+      "besides",
+      "eco"
+    ],
+    "prompt_length": 1702,
+    "category": "2826 social affairs"
+  }
+}

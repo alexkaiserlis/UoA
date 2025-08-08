@@ -1,0 +1,63 @@
+{
+  "concept_id": "710",
+  "concept_data": {
+    "title": "electrotechnology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Electrotechnology encompasses the study and application of electrical phenomena, primarily focusing on the measurement and manipulation of voltage through various apparatus. In the context of EU legal and regulatory frameworks, it is crucial for ensuring compliance in the importation of electrical materials and installations. Regulatory documents often describe the requisite standards for manufactured devices, such as oscilloscopes and digital recording equipment, which are essential for experimental research and educational purposes. Experts in the field are tasked with examining the characteristics of these technologies to confer safety and efficiency. The duties associated with this sector include adherence to specific tariffs and regulations that govern the importation and construction of electrical systems, ensuring they are suited for their intended applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:42:22.327509",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 108,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 108,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1634.6759259259259
+    },
+    "related_words": [
+      "oscilloscope",
+      "explorer",
+      "nicolet",
+      "fusion",
+      "voltage",
+      "oriented",
+      "ordered",
+      "digital",
+      "affirmative",
+      "electrical",
+      "invoke",
+      "experimental",
+      "educational",
+      "apparatus",
+      "installations",
+      "principally",
+      "confer",
+      "suited",
+      "measurement",
+      "requisite",
+      "admission",
+      "recording",
+      "cultural",
+      "sub",
+      "alone",
+      "showed",
+      "construction",
+      "composed",
+      "character",
+      "reply"
+    ],
+    "prompt_length": 1709,
+    "category": "3606 natural and applied sciences"
+  }
+}

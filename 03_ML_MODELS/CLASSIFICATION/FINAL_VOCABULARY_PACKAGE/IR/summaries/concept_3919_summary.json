@@ -1,0 +1,63 @@
+{
+  "concept_id": "3919",
+  "concept_data": {
+    "title": "moral protection of children",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "child protection",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"moral protection of children,\" redirected to \"child protection,\" encompasses EU legal frameworks aimed at safeguarding children's welfare in various contexts, including childcare and educational settings. It addresses issues related to toxicokinetics of substances like chloromethyl and tcep, which may migrate into environments where children play, such as carpets and dressings. The EU's regulatory measures, including RAPEX, ensure that products containing hazardous plasticisers or retardants are monitored for safety. Additionally, the moral imperative extends to protecting children from harmful flavours in food, ensuring their dietary intake is free from toxic elements like barium and methylethyl compounds. This holistic approach reinforces the importance of safeguarding children's rights and health in all aspects of their lives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:02:05.338736",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 752,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 212,
+      "selected_avg_freq": 77.82
+    },
+    "related_words": [
+      "stairs",
+      "linoleic",
+      "tdcp",
+      "migrates",
+      "chloromethyl",
+      "atsdr",
+      "ipcs",
+      "stanol",
+      "pufa",
+      "ambulatory",
+      "tcep",
+      "tcpp",
+      "chloroethyl",
+      "plasticiser",
+      "methylethyl",
+      "ala",
+      "retardants",
+      "linolenic",
+      "sticky",
+      "scraped",
+      "walking",
+      "cmrs",
+      "polyunsaturated",
+      "toxicokinetics",
+      "coronary",
+      "walk",
+      "sterols",
+      "chloro",
+      "childcare",
+      "rapex"
+    ],
+    "prompt_length": 1696,
+    "category": "2826 social affairs"
+  }
+}

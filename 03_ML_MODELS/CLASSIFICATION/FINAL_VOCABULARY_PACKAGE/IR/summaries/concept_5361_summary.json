@@ -1,0 +1,63 @@
+{
+  "concept_id": "5361",
+  "concept_data": {
+    "title": "food cereals",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"food cereals\" encompasses various plant products, including maize, rice, and pasta, which are crucial for food security within the EU. Legal frameworks define these cereals, stating their differentiation and establishing formalities for their trade and management. Regulations may derogate from standard practices to accommodate specific situations, ensuring that burdensome restrictions do not impede market access. The EU codifies rules for the harvests of these products, issuing licences and refunds to facilitate trade. Additionally, the horizontal settlement of regulations clarifies the lowest common standards across member states, ensuring that all cereals, regardless of destination, qualify under identical criteria.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:17:26.842390",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 227,
+      "requested_words": 150,
+      "min_frequency_found": 43,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 43,
+      "selected_max_freq": 2233,
+      "selected_avg_freq": 1080.46
+    },
+    "related_words": [
+      "contiguous",
+      "digit",
+      "pasta",
+      "commit",
+      "harvests",
+      "derogates",
+      "burdensome",
+      "inward",
+      "potato",
+      "differentiation",
+      "destinations",
+      "subdivisions",
+      "subheadings",
+      "unduly",
+      "impede",
+      "differentiated",
+      "formalities",
+      "maize",
+      "lowest",
+      "similarly",
+      "stating",
+      "cereal",
+      "rationality",
+      "settlement",
+      "horizontal",
+      "rice",
+      "old",
+      "codified",
+      "left",
+      "refund"
+    ],
+    "prompt_length": 1681,
+    "category": "6006 plant product"
+  }
+}

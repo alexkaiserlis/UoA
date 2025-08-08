@@ -1,0 +1,63 @@
+{
+  "concept_id": "3965",
+  "concept_data": {
+    "title": "procedural time limit",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "limitation of legal proceedings",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"procedural time limit,\" also referred to as \"limitation of legal proceedings,\" is crucial in EU legal frameworks, ensuring that legal actions are initiated within specified periods to preserve equitable justice. These limits can be complex, involving various subperiods that may defer or interrupt proceedings, thereby impacting the enforcement of penalties and fines. For instance, in cases involving the importing of goods from CARIFORUM or the Hellenic region, adherence to these limits is vital to avoid sanctions. The length of these periods can vary, and failure to comply may lead to the infringement of rights, resulting in broken legal processes and potential penalties.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:33:48.389338",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 330,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 1315,
+      "selected_avg_freq": 686.1133333333333
+    },
+    "related_words": [
+      "deferment",
+      "aruba",
+      "fifteenth",
+      "cariforum",
+      "subperiods",
+      "octs",
+      "subperiod",
+      "antilles",
+      "remission",
+      "interrupting",
+      "infringe",
+      "husked",
+      "fines",
+      "holidays",
+      "employ",
+      "waterway",
+      "split",
+      "dominant",
+      "penalty",
+      "opens",
+      "repayment",
+      "equitable",
+      "enforce",
+      "starts",
+      "inland",
+      "rail",
+      "deferred",
+      "preserve",
+      "abuse",
+      "broken"
+    ],
+    "prompt_length": 1675,
+    "category": "1221 justice"
+  }
+}

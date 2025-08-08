@@ -1,0 +1,63 @@
+{
+  "concept_id": "4576",
+  "concept_data": {
+    "title": "bovine tuberculosis",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "animal tuberculosis",
+    "relation_type": "USE"
+  },
+  "summary": "Bovine tuberculosis, also known as animal tuberculosis, is a significant concern in EU agricultural activity, particularly in regions such as Lombardia and Mazowieckie. This infectious disease, primarily affecting cattle, necessitates stringent regulatory measures, including intradermal tuberculin testing to identify lesions. The EU mandates veterinary oversight to ensure leukosisfree herds, with expenditures allocated for disease control in areas like Campidano and Pesaro. Compliance with these regulations is crucial for maintaining animal health and safeguarding public welfare. Various regions, including Belluno and Verbania, implement specific protocols to manage outbreaks, emphasizing the importance of veterinary faculties and research institutions like Visavet and Complutense in combating this zoonotic threat.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:52.428863",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 874,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 24.526666666666667
+    },
+    "related_words": [
+      "intradermal",
+      "expentiture",
+      "leukosisfree",
+      "imperia",
+      "pesaro",
+      "macerata",
+      "perugia",
+      "lecco",
+      "sondrio",
+      "mantova",
+      "belluno",
+      "medio",
+      "campidano",
+      "ogliastra",
+      "tempio",
+      "fermo",
+      "região",
+      "ragusa",
+      "lubuskie",
+      "straws",
+      "savona",
+      "pescara",
+      "tuberculin",
+      "firenze",
+      "como",
+      "aii",
+      "rieti",
+      "veterinaria",
+      "visavet",
+      "facultad"
+    ],
+    "prompt_length": 1693,
+    "category": "5631 agricultural activity"
+  }
+}

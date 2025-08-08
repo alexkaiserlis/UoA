@@ -1,0 +1,26 @@
+{
+  "concept_id": "3356",
+  "concept_data": {
+    "title": "general medicine",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"general medicine\" within the EU legal and regulatory framework encompasses the broad field of healthcare that addresses the prevention, diagnosis, and treatment of various medical conditions. It is pivotal in establishing standards for healthcare delivery, ensuring patient safety, and promoting public health across member states. Regulatory bodies, such as the European Medicines Agency (EMA), oversee the approval and monitoring of medicinal products, ensuring they meet rigorous safety and efficacy standards. General medicine also intersects with various EU directives and regulations aimed at harmonizing healthcare practices, thereby facilitating cross-border healthcare access and enhancing the quality of medical services throughout the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:45.282703",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1162,
+    "category": "2841 health"
+  }
+}

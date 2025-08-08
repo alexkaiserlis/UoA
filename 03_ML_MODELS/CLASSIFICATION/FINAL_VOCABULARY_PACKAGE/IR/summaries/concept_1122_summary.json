@@ -1,0 +1,63 @@
+{
+  "concept_id": "1122",
+  "concept_data": {
+    "title": "merger",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU law, a \"merger\" refers to the consolidation of two or more companies into a single entity, often involving complex regulatory scrutiny. This process can include various forms, such as the merging of metallurgique firms like Metaleurop and Peñarroya, which are significant in sectors like zinc and electrolytic production. Mergers must comply with EU competition law to prevent anti-competitive practices, ensuring that shareholders are not adversely affected. Regulatory bodies publish bulletins detailing merger proceedings, and issuers must adhere to strict capitalization requirements. The lawmaking process surrounding mergers aims to facilitate efficient market operations while preventing outdated practices that could impede competition.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:56:48.186391",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 559,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 434,
+      "selected_avg_freq": 189.15333333333334
+    },
+    "related_words": [
+      "metaleurop",
+      "métallurgique",
+      "peñarroya",
+      "imetal",
+      "harlingerode",
+      "competes",
+      "budelco",
+      "samin",
+      "britannia",
+      "metallgesellschaft",
+      "definited",
+      "smelters",
+      "asturiana",
+      "ams",
+      "capitalization",
+      "subscribing",
+      "lme",
+      "minière",
+      "electrolytic",
+      "galvanizing",
+      "smelter",
+      "publishes",
+      "preussag",
+      "nuova",
+      "bulletin",
+      "lawmaking",
+      "dispensing",
+      "violent",
+      "merging",
+      "merge"
+    ],
+    "prompt_length": 1699,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3590",
+  "concept_data": {
+    "title": "insurer",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": true,
+    "preferred_term": "insurance occupation",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"insurer\" is redirected to \"insurance occupation,\" reflecting the profession's diverse branches and the qualifications required for practice. Insurers, including brokers and agents, operate under legislations that govern their conduct, ensuring they possess the necessary diplomas and qualifications. These professionals face constraints, such as ensuring compliance with supervisory offices and overcoming obstacles related to nationality and currencies. The ordination of insurers is crucial, as it empowers them to provide assurance to the insured. In cases of bankruptcy, the repute of the profession may swiftly disappear, necessitating unanimous assent from governors to lift undue restrictions and facilitate the pursuit of effective insurance practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:38.344786",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 351,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1010,
+      "selected_avg_freq": 511.12
+    },
+    "related_words": [
+      "divergencies",
+      "broker",
+      "legislations",
+      "ordinated",
+      "whence",
+      "repute",
+      "isic",
+      "brokers",
+      "constraint",
+      "insured",
+      "empowering",
+      "ordination",
+      "possesses",
+      "profession",
+      "disappear",
+      "bankruptcy",
+      "diplomas",
+      "governors",
+      "footing",
+      "undergoing",
+      "unanimous",
+      "nationality",
+      "swiftly",
+      "branches",
+      "lifting",
+      "join",
+      "abolishing",
+      "qualification",
+      "quotations",
+      "item"
+    ],
+    "prompt_length": 1714,
+    "category": "2431 insurance"
+  }
+}

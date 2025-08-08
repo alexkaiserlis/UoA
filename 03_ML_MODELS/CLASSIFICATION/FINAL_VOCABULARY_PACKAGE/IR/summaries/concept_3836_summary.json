@@ -1,0 +1,63 @@
+{
+  "concept_id": "3836",
+  "concept_data": {
+    "title": "cadmium",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cadmium, a toxic heavy metal, is regulated within the EU due to its potential to contaminate food products, including chocolates and confectionary items, and its presence in jewelleries. Its use in industries such as brazing and thermoelectric applications raises concerns about environmental pollution and health risks, particularly through ingestions of contaminated fish like sardinops and anguilla. Cadmium exposure can lead to abnormalities, necessitating strict regulations to minimize risks. The EU employs frameworks like REACH to control cadmium levels in various products, ensuring that materials, including those containing beryllium and isothiocyanates, are safe for consumers and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:48:23.253051",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1274,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 36,
+      "selected_avg_freq": 17.6
+    },
+    "related_words": [
+      "brazing",
+      "jewelleries",
+      "starchy",
+      "confectionary",
+      "chocolates",
+      "horseradish",
+      "banded",
+      "diplodus",
+      "anguilla",
+      "mullet",
+      "mugil",
+      "labrosus",
+      "louvar",
+      "luvarus",
+      "imperialis",
+      "dicologoglossa",
+      "cuneata",
+      "bullet",
+      "auxis",
+      "bichique",
+      "sicyopterus",
+      "lagocephalus",
+      "pzt",
+      "ftms",
+      "camelina",
+      "isothiocyanates",
+      "juncea",
+      "carinata",
+      "beryllium",
+      "sputtering"
+    ],
+    "prompt_length": 1709,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

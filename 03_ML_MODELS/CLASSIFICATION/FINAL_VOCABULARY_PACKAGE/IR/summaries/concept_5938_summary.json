@@ -1,0 +1,63 @@
+{
+  "concept_id": "5938",
+  "concept_data": {
+    "title": "transport of patients",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"transport of patients\" concept within the EU legal framework addresses the harmonization of regulations concerning the movement of patients across member states. This involves precise authorizations and recording of transactions to ensure compliance with health laws. The burden of taxes, including VAT, may be exempt in certain cases, impacting the turnover of healthcare services. The determination of resources required for patient transport is crucial, as is the calculation of contributions to healthcare systems. Advisory opinions from relevant authorities guide the authorizing process, ensuring that unjustified barriers are ceased. The sixth directive on taxation further influences these transactions, emphasizing uniformity across categories.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:11.698207",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 104,
+      "requested_words": 150,
+      "min_frequency_found": 197,
+      "max_frequency_found": 4108,
+      "selected_words": 104,
+      "selected_min_freq": 197,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1811.5
+    },
+    "related_words": [
+      "approximate",
+      "accruing",
+      "authorizations",
+      "unjustified",
+      "vat",
+      "calculate",
+      "turnover",
+      "taxes",
+      "recording",
+      "ceased",
+      "renewed",
+      "estimates",
+      "sixth",
+      "harmonization",
+      "exempt",
+      "authorizing",
+      "replacement",
+      "precise",
+      "contributions",
+      "base",
+      "unable",
+      "tax",
+      "opinions",
+      "transactions",
+      "atomic",
+      "definitive",
+      "involve",
+      "ecsc",
+      "english",
+      "burden"
+    ],
+    "prompt_length": 1663,
+    "category": "2841 health"
+  }
+}

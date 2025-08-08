@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_05f9c614",
+  "concept_data": {
+    "title": "public sector information",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": true,
+    "preferred_term": "public data",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"public sector information,\" also referred to as \"public data,\" encompasses all data produced, collected, or disseminated by public authorities in the EU. This information is crucial for transparency, accountability, and fostering innovation within the digital economy. The regulatory framework governing public data is primarily established by the Directive on the re-use of public sector information (PSI Directive), which aims to enhance access and facilitate the re-use of such information. By promoting the availability of public data, the EU seeks to empower citizens, stimulate economic growth, and support the development of new services and applications.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:03:45.602697",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1234,
+    "category": "3231 information and information processing"
+  }
+}

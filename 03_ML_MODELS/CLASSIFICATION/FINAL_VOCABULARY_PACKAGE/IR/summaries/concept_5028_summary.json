@@ -1,0 +1,63 @@
+{
+  "concept_id": "5028",
+  "concept_data": {
+    "title": "botany",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Botany, a critical field within natural and applied sciences, encompasses the study of plant life, including phenomena such as photosynthesis and pigment absorption. In EU legal and regulatory contexts, botany plays an indelible role in environmental protection and agricultural policies. Regulations often deal with botanical research, focusing on the propagation of species and the impact of horticulture on biodiversity. Advanced techniques, such as spectroradiometric analysis and the use of optical devices like monochromators and oscilloscopes, are employed to calibrate and analyze plant responses to radiation. The implications of these studies can outweigh disadvantages in sustainable development, ensuring that botanical practices align with EU environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:37:49.664415",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 255,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1427,
+      "selected_avg_freq": 541.4933333333333
+    },
+    "related_words": [
+      "indelibly",
+      "minimate",
+      "optronic",
+      "spectroradiometric",
+      "monochromator",
+      "riccarton",
+      "currie",
+      "spex",
+      "photosynthesis",
+      "oscilloscope",
+      "explorer",
+      "calibrating",
+      "researches",
+      "pulsed",
+      "photosensitive",
+      "longjumeau",
+      "jobin",
+      "yvon",
+      "canal",
+      "nicolet",
+      "printers",
+      "indelible",
+      "night",
+      "print",
+      "pigments",
+      "spectra",
+      "botanical",
+      "rue",
+      "gamma",
+      "flower"
+    ],
+    "prompt_length": 1688,
+    "category": "3606 natural and applied sciences"
+  }
+}

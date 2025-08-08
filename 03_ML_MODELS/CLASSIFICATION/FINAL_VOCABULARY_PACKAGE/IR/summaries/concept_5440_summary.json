@@ -1,0 +1,63 @@
+{
+  "concept_id": "5440",
+  "concept_data": {
+    "title": "gas appliance",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"gas appliance\" refers to devices that utilize gaseous fuels, such as liquefied petroleum gas (LPG), for various applications, including cooking and heating. In the EU regulatory context, these appliances must adhere to stringent safety standards to prevent accidents stemming from leaks or unsafe burning behavior. Portable gas appliances, often used in camping or at campsites, require specific instructions for servicing and operation to ensure safe usage. The intrinsic design of these appliances typically includes features like burner systems and cartridge fittings, which are essential for their functionality. Compliance with CEN standards is a prerequisite for market access, ensuring that these appliances are systematically tested for safety and performance.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:30:06.614557",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 237,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1643,
+      "selected_avg_freq": 672.18
+    },
+    "related_words": [
+      "pierceable",
+      "cartridges",
+      "camping",
+      "burner",
+      "campsites",
+      "tents",
+      "applicances",
+      "cartridge",
+      "leaks",
+      "burns",
+      "vapour",
+      "flame",
+      "lpg",
+      "unsafe",
+      "elevated",
+      "appliance",
+      "liquefied",
+      "servicing",
+      "burning",
+      "fuelled",
+      "gaseous",
+      "portable",
+      "stems",
+      "intrinsic",
+      "prerequisite",
+      "transposing",
+      "hot",
+      "fed",
+      "facto",
+      "insert"
+    ],
+    "prompt_length": 1663,
+    "category": "6821 mechanical engineering"
+  }
+}

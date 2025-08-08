@@ -1,0 +1,63 @@
+{
+  "concept_id": "4062",
+  "concept_data": {
+    "title": "sulphate",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "chemical salt",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sulphate,\" classified under the category of chemistry, is redirected to the preferred term \"chemical salt.\" In EU legal and regulatory contexts, sulphates are significant due to their presence in various substances, including superphosphates and aminsalz. Regulatory frameworks often address the environmental impacts of these compounds, particularly in relation to their use in agriculture, as seen with companies like Agrico and Texasgulf. The identification of sulphate-related substances, such as dichlorophenoxyacetate, is crucial for compliance. Moreover, the lapsing of permits for certain chemical processes can affect entities in states like Wyoming and Colorado, where industries like Stauffer and Tenneco operate. Understanding these regulations helps applicants navigate compliance effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:43.629293",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 3035,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 5.433333333333334
+    },
+    "related_words": [
+      "deadburned",
+      "texasgulf",
+      "tenneco",
+      "soidium",
+      "hoever",
+      "respresentatives",
+      "sabac",
+      "stauffer",
+      "colltected",
+      "chemische",
+      "kalk",
+      "povoa",
+      "durand",
+      "wyoming",
+      "colorado",
+      "contry",
+      "identifiably",
+      "makin",
+      "mad",
+      "statets",
+      "succed",
+      "imagine",
+      "beerse",
+      "nomal",
+      "acutally",
+      "permises",
+      "dimethylammonium",
+      "dichlorophenoxyacetate",
+      "aminsalz",
+      "carboxylic"
+    ],
+    "prompt_length": 1708,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "600",
+  "concept_data": {
+    "title": "bathing water",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"bathing water\" within EU legal and regulatory frameworks pertains to the quality of water at beaches and coastal areas, such as those in Estoril and Carcavelos. It encompasses microbiological and bacteriological assessments to ensure safety for public use, particularly in urban agglomerations adjacent to the Atlantic coast. Regulations mandate monitoring of dissolved solids, oxygen levels, and hydrodynamic factors like tides and currents, which influence water quality. The EU emphasizes the need for appropriate discharge practices to prevent deficiencies in bathing water quality, ensuring that concentrations of harmful substances are diluted. Compliance with these standards demonstrates the EU's commitment to protecting public health and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:17.949599",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 207,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1824,
+      "selected_avg_freq": 685.8
+    },
+    "related_words": [
+      "estoril",
+      "beaches",
+      "carcavelos",
+      "parede",
+      "rainha",
+      "cresmina",
+      "tamariz",
+      "torre",
+      "hydrodynamic",
+      "agglomeration",
+      "tagus",
+      "trophic",
+      "currents",
+      "tides",
+      "agglomerations",
+      "estuary",
+      "algarve",
+      "bathing",
+      "benthic",
+      "pedro",
+      "bacteriological",
+      "solids",
+      "dilution",
+      "oxygen",
+      "dispersion",
+      "dissolved",
+      "wind",
+      "discharges",
+      "beforehand",
+      "equivalents"
+    ],
+    "prompt_length": 1696,
+    "category": "5211 natural environment"
+  }
+}

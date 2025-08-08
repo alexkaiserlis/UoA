@@ -1,0 +1,63 @@
+{
+  "concept_id": "2352",
+  "concept_data": {
+    "title": "ship's crew",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "crew",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"ship's crew,\" redirected to \"crew,\" encompasses all personnel involved in the operation of a vessel, including seafarers and aircrew. This concept is vital for ensuring compliance with safety regulations and competency standards, such as those outlined in syllabi for training and drills. The EU emphasizes the importance of fatigue management and navigational proficiency, requiring regular revalidation of competencies. Regulations also address pilotage and the use of simulators for training. The interlinked nature of maritime law and international ratifications, such as those from the IACA, ensures that crews are adequately prepared for dynamic maritime environments, enhancing safety and operational efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:52:36.275300",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1235,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 94,
+      "selected_avg_freq": 37.10666666666667
+    },
+    "related_words": [
+      "aircrew",
+      "drills",
+      "dynamically",
+      "territority",
+      "seafarer",
+      "syllabi",
+      "aea",
+      "iaca",
+      "eighty",
+      "fst",
+      "fatigued",
+      "batumi",
+      "lifeboat",
+      "mmel",
+      "sailplane",
+      "gliding",
+      "bga",
+      "lapl",
+      "spl",
+      "examiner",
+      "piston",
+      "sfe",
+      "recognitions",
+      "fcl",
+      "instructor",
+      "procured",
+      "desiring",
+      "ratifications",
+      "wtmd",
+      "etd"
+    ],
+    "prompt_length": 1661,
+    "category": "4811 organisation of transport"
+  }
+}

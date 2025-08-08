@@ -1,0 +1,63 @@
+{
+  "concept_id": "3645",
+  "concept_data": {
+    "title": "technical specification",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"technical specification\" serves as a critical framework for rulemaking, particularly in technology and technical regulations. It outlines exigent requirements for equipment, ensuring safety and functionality, such as in avionics and digitalisation. These specifications may include parameters for coolant flowrate, shielding mechanisms, and stowage protocols. Compliance helps prevent malfunction and facilitates smooth disconnections during operations. Additionally, technical specifications can guide the equipage of systems like PMSE and AVIONICS, while also addressing situational factors in air traffic management (ATFM). Issuances of these specifications are essential for standardisation, promoting interoperability and efficiency across sectors.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:52:45.619512",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 3291,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 6.133333333333334
+    },
+    "related_words": [
+      "coolant",
+      "consequece",
+      "alphabet",
+      "minting",
+      "pto",
+      "shielding",
+      "malfunction",
+      "flowrate",
+      "exigent",
+      "oiml",
+      "stowage",
+      "vademecum",
+      "rulemaking",
+      "disconnections",
+      "aborts",
+      "dls",
+      "avionics",
+      "situational",
+      "sju",
+      "equipage",
+      "eurocae",
+      "atfm",
+      "ela",
+      "commemorative",
+      "celebrate",
+      "dishwasher",
+      "indicatively",
+      "vcjd",
+      "caproidae",
+      "stout"
+    ],
+    "prompt_length": 1699,
+    "category": "6411 technology and technical regulations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4684",
+  "concept_data": {
+    "title": "horsemeat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"horsemeat\" refers to the meat derived from equidae, including thoroughbreds and solipeds. The EU has established stringent regulations concerning the inspection and safety of horsemeat to mitigate hazards such as trichinella and trichinosis, which can arise from unfit animals. Regulatory measures include the detection of residues from hormonal and therapeutic medicines, ensuring that horsemeat is safe for consumption. Additionally, the arrival of horsemeat from countries like Namibia and Mexico is subject to thorough inspections to prevent the spreading of diseases. The reliability of these processes is crucial, as shortcomings can lead to serious health risks for consumers.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:20.943779",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 342,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1168,
+      "selected_avg_freq": 563.0266666666666
+    },
+    "related_words": [
+      "thoroughbred",
+      "stanbding",
+      "thrichinelle",
+      "trinichinosis",
+      "trichinelle",
+      "trichinosis",
+      "spiralis",
+      "trichinae",
+      "agonists",
+      "solipeds",
+      "inactivation",
+      "thyrostatic",
+      "stockfarming",
+      "mexican",
+      "hormonal",
+      "unfit",
+      "periodical",
+      "therapeutic",
+      "namibia",
+      "beta",
+      "detecting",
+      "inspected",
+      "horse",
+      "alert",
+      "banned",
+      "equidae",
+      "medicines",
+      "mexico",
+      "additions",
+      "hazard"
+    ],
+    "prompt_length": 1692,
+    "category": "6011 animal product"
+  }
+}

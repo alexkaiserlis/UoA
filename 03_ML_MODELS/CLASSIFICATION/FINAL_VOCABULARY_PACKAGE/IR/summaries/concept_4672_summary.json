@@ -1,0 +1,63 @@
+{
+  "concept_id": "4672",
+  "concept_data": {
+    "title": "tax-free shop",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "duty-free sale",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax-free shop,\" redirected to \"duty-free sale,\" pertains to the legal framework governing the sale of goods exempt from tax for travellers crossing frontiers within the EU and EFTA territories. This regulatory approach aims to prevent distortions in competition by maintaining allowances for temporary purchases made by individuals entering different member states. The directives introduced by the EU establish limits on the amount of goods that can be purchased duty-free, addressing difficulties caused by varying federal regulations. As a result, the respective territories of Austria and Germany, among others, benefit from a harmonized system that facilitates intra-community trade while respecting external trade regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:28:00.618910",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 18,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 18,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1891.4044943820224
+    },
+    "related_words": [
+      "crossed",
+      "travellers",
+      "linking",
+      "purchases",
+      "efta",
+      "allowances",
+      "travel",
+      "frontiers",
+      "frontier",
+      "distortions",
+      "tax",
+      "entering",
+      "land",
+      "coming",
+      "maintaining",
+      "intra",
+      "external",
+      "aimed",
+      "caused",
+      "respective",
+      "federal",
+      "territories",
+      "introducing",
+      "association",
+      "increasing",
+      "temporary",
+      "austria",
+      "directives",
+      "likely",
+      "derogation"
+    ],
+    "prompt_length": 1695,
+    "category": "2031 marketing"
+  }
+}

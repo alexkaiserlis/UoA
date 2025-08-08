@@ -1,0 +1,63 @@
+{
+  "concept_id": "1270",
+  "concept_data": {
+    "title": "vegetable oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vegetable oil\" within EU legal and regulatory frameworks encompasses a range of processed agricultural produce, including oils derived from various sources such as microalgae and allanblackia. These oils are subject to regulations concerning their composition, including unsaponifiable fractions and diacylglycerol content, which are critical for ensuring food safety and quality. The management of postharvest processes is essential, particularly for oils like Kürbiskernöl and bučno, which are recognized for their health benefits, including effects on cholesterolaemia. Regulatory bodies may also consider the environmental impact of production methods, as seen with innovations from companies like omegatech and nutrinova. Compliance with these regulations is vital for market access and consumer protection, reflecting the EU's commitment to responsible agricultural practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:55:11.866806",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 1423,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 55,
+      "selected_avg_freq": 19.826666666666668
+    },
+    "related_words": [
+      "grinder",
+      "repald",
+      "diacylglycerol",
+      "enovatm",
+      "citronella",
+      "unsaponifiable",
+      "pharmascience",
+      "expanscience",
+      "cholesterolaemia",
+      "denathonium",
+      "spearmint",
+      "postharvest",
+      "docosenoic",
+      "cetoleic",
+      "estabslihing",
+      "allanblackia",
+      "microalgae",
+      "omegatech",
+      "phlebiopsis",
+      "gigantea",
+      "gibberellic",
+      "gibberellins",
+      "virute",
+      "rmsponsible",
+      "managemetn",
+      "ulkenia",
+      "nutrinova",
+      "štajersko",
+      "prekmursko",
+      "bučno"
+    ],
+    "prompt_length": 1732,
+    "category": "6016 processed agricultural produce"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "742",
+  "concept_data": {
+    "title": "indebtedness",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Indebtedness, within the context of EU financial regulations, refers to the state of owing debts that can manifestly affect the financial stability of institutions and individuals. It encompasses both personal and severally incurred liabilities, which can lead to pronounced deficits and budgeted shortfalls. The underpinnings of indebtedness are often rooted in macroeconomic imbalances, exacerbated by downturns and deteriorating economic conditions. As borrowing increases, spending may become discretionary, leading to sizeable overruns. Regulatory frameworks aim to organize and validate finances, targeting unlawful practices while promoting recovery. Challenges in consolidating debts necessitate credible strategies for managing projected outlays and compensating for uncertainties in GDP performance.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:57:26.213732",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 415,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 792,
+      "selected_avg_freq": 394.74666666666667
+    },
+    "related_words": [
+      "severally",
+      "personally",
+      "outlays",
+      "shortfalls",
+      "deficient",
+      "underpinnings",
+      "manifestly",
+      "budgeted",
+      "worsened",
+      "offs",
+      "spending",
+      "disappeared",
+      "discretionary",
+      "borrowing",
+      "stronger",
+      "pronounced",
+      "overruns",
+      "sizeable",
+      "warehouse",
+      "recovering",
+      "deficits",
+      "credible",
+      "unaltered",
+      "macroeconomic",
+      "debts",
+      "imbalances",
+      "downturn",
+      "deteriorating",
+      "speeding",
+      "postponement"
+    ],
+    "prompt_length": 1743,
+    "category": "2416 financial institutions and credit"
+  }
+}

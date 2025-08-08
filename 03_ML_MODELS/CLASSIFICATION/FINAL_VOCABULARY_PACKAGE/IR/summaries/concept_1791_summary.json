@@ -1,0 +1,63 @@
+{
+  "concept_id": "1791",
+  "concept_data": {
+    "title": "cost analysis",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cost analysis, within the context of EU accounting regulations, is a critical tool for evaluating the feasibility and execution of budgets related to various projects, including those aimed at promoting sustainable practices in agriculture and veterinary sectors. This analysis assists in defining the consequences of financial decisions, particularly in addressing dilemmas posed by outbreaks of contagious diseases affecting livestock. By analysing costs, stakeholders can undertake informed options that align with the goals of harmonisation and prevention. Furthermore, conferences and training sessions offer lessons learned, enhancing the culture of education and learning among farmers and related entities, ultimately leading to more effective appropriations and project outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:41:42.781526",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 175,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3192,
+      "selected_avg_freq": 1296.72
+    },
+    "related_words": [
+      "dilemmas",
+      "cahp",
+      "lesson",
+      "epidemics",
+      "sec",
+      "learning",
+      "contagious",
+      "budgets",
+      "culture",
+      "analysing",
+      "enlarged",
+      "analyse",
+      "goal",
+      "focus",
+      "mouth",
+      "feasibility",
+      "firstly",
+      "pilot",
+      "secondly",
+      "sense",
+      "outbreaks",
+      "options",
+      "education",
+      "offering",
+      "livestock",
+      "diseases",
+      "appropriations",
+      "accounting",
+      "evaluate",
+      "farmers"
+    ],
+    "prompt_length": 1674,
+    "category": "4026 accounting"
+  }
+}

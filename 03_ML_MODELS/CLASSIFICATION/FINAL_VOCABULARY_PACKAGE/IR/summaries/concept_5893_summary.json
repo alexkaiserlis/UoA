@@ -1,0 +1,26 @@
+{
+  "concept_id": "5893",
+  "concept_data": {
+    "title": "network server",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"network server\" refers to a specialized computer system that manages network resources and facilitates data processing in an interconnected environment. In the context of EU legal and regulatory frameworks, network servers play a critical role in ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR). They are essential for the secure storage and processing of personal data, enabling organizations to uphold privacy rights while facilitating efficient information exchange. Furthermore, network servers must adhere to standards set forth by the European Union to mitigate cybersecurity risks and promote interoperability across member states, thereby enhancing the overall digital economy.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:09:08.623050",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1196,
+    "category": "3236 information technology and data processing"
+  }
+}

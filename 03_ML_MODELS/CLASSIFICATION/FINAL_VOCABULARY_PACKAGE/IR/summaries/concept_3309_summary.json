@@ -1,0 +1,63 @@
+{
+  "concept_id": "3309",
+  "concept_data": {
+    "title": "test tube fertilization",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "test tube fertilisation",
+    "relation_type": "USE"
+  },
+  "summary": "Test tube fertilisation, also known as in vitro fertilisation (IVF), is a significant concept within EU healthcare regulations, particularly concerning reproductive technologies. This process involves the procurement and preservation of human cells and tissues, often donated by partners or donors, to assist patients facing infertility. The European Centre for Disease Prevention and Control (ECDC) monitors the prevalence of chronic conditions that may affect reproductive health. Regulatory frameworks ensure that the donation process is ethical and that medical establishments comply with stringent standards. Test tube fertilisation solutions aim to diminish the cumbersome nature of traditional reproductive methods, providing a proportionate response to the incidence of infertility across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:38:33.839799",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 241,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1732,
+      "selected_avg_freq": 851.64
+    },
+    "related_words": [
+      "htlv",
+      "presume",
+      "donated",
+      "donation",
+      "parents",
+      "ecdc",
+      "organ",
+      "antibody",
+      "sexual",
+      "diminish",
+      "cumbersome",
+      "healthcare",
+      "donor",
+      "relied",
+      "cells",
+      "vitro",
+      "patients",
+      "tissues",
+      "chronic",
+      "batch",
+      "donors",
+      "tissue",
+      "presumption",
+      "prevalence",
+      "partner",
+      "costly",
+      "reproductive",
+      "incidence",
+      "diagnostic",
+      "blood"
+    ],
+    "prompt_length": 1709,
+    "category": "2806 family"
+  }
+}

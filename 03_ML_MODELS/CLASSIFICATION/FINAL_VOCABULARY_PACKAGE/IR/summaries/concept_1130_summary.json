@@ -1,0 +1,63 @@
+{
+  "concept_id": "1130",
+  "concept_data": {
+    "title": "credit guarantee",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"credit guarantee\" in the EU context serves as a financial instrument designed to enhance liquidity and mitigate risks for borrowers, particularly during countercyclical economic conditions. It involves guarantors, such as bürgschaftsbank or specialized consorzi, who provide assurances to lenders against defaults. This mechanism supports depositors and savers by ensuring that payouts are available in case of borrower insolvency. Programs like the sonderbürgschaftsprogramm facilitate access to credit for SMEs, promoting economic stability. The legal framework surrounding credit guarantees includes regulations on the approval process (bewilligungsausschuß) and the iterative refinements necessary to adapt to evolving market conditions, ensuring robust financial systems across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:26.898051",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1766,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 64,
+      "selected_avg_freq": 28.013333333333332
+    },
+    "related_words": [
+      "amercia",
+      "countercyclical",
+      "centros",
+      "überseering",
+      "sevic",
+      "cartesio",
+      "ciu",
+      "cannes",
+      "consorzi",
+      "fidi",
+      "krajina",
+      "iterated",
+      "borrowers",
+      "bürgschaftsbank",
+      "sonderbürgschaftsprogramm",
+      "liquiditätssicherung",
+      "bewilligungsausschuß",
+      "handwerkskammern",
+      "sonderbürgerschaftsprogramm",
+      "liquiditässicherung",
+      "recompensed",
+      "kocaeli",
+      "sakarya",
+      "bolu",
+      "yalova",
+      "aftershocks",
+      "subsurface",
+      "progres",
+      "ecomonic",
+      "kara"
+    ],
+    "prompt_length": 1763,
+    "category": "2416 financial institutions and credit"
+  }
+}

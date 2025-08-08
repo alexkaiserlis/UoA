@@ -1,0 +1,63 @@
+{
+  "concept_id": "3735",
+  "concept_data": {
+    "title": "decommissioning of power stations",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"decommissioning of power stations\" is a critical aspect of EU energy policy, particularly concerning the dismantling of nuclear reactors, such as those at kernkraftwerklingen sites. This process involves the careful management of manpower and resources to mitigate risks associated with fission and ensure the peaceful repurposing of land. Regulatory frameworks, including directives from the IEA and EBRD, emphasize the importance of safely shutting down facilities, reallocating borrowings, and enhancing safety measures. The decommissioning process must address weaknesses in existing infrastructures, such as those at Kozloduy and Bohunice, while ensuring that the continent transitions to sustainable energy sources, thus easing the environmental impact of lignite and other fossil fuels.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:53.670498",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 693,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 385,
+      "selected_avg_freq": 161.68666666666667
+    },
+    "related_words": [
+      "kernkraftwerklingen",
+      "mankind",
+      "mwe",
+      "uentrop",
+      "unna",
+      "lingen",
+      "inseparable",
+      "bohunice",
+      "mitigates",
+      "hochtemperatur",
+      "hkg",
+      "guarantors",
+      "dissipated",
+      "iea",
+      "kozloduy",
+      "enclosure",
+      "kernkraftwerk",
+      "dismantle",
+      "utilising",
+      "lightening",
+      "rescheduling",
+      "ebrd",
+      "fission",
+      "insist",
+      "lignite",
+      "weakness",
+      "manpower",
+      "borrowings",
+      "decommissioning",
+      "equip"
+    ],
+    "prompt_length": 1706,
+    "category": "6606 energy policy"
+  }
+}

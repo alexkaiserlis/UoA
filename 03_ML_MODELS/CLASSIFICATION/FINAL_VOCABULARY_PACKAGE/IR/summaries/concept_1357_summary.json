@@ -1,0 +1,63 @@
+{
+  "concept_id": "1357",
+  "concept_data": {
+    "title": "aeronautical industry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The aeronautical industry, a vital sector within mechanical engineering, encompasses a diverse range of activities, including the design, production, and maintenance of aircraft. In the EU, regulatory frameworks aim to ensure fair competition among major players like Airbus and Embraer, while addressing issues such as redundancy and dismissal of workers. The Bundesanstalt plays a crucial role in overseeing compliance, ensuring that companies like RUAG and Dornier operate transparently. Challenges such as unfairly liquidated entities, exemplified by Avcraft, highlight the need for vigilant oversight. The industry also focuses on rebuilding strengths and addressing deficiencies in costing and financing, promoting decentralisation and equalisation across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:47.969194",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 569,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 396,
+      "selected_avg_freq": 160.87333333333333
+    },
+    "related_words": [
+      "fairchild",
+      "oberpfaffenhofen",
+      "wessling",
+      "liquidate",
+      "avcraft",
+      "ruag",
+      "arbeit",
+      "proex",
+      "luftfahrt",
+      "programa",
+      "financiamentò",
+      "exportacoes",
+      "embraer",
+      "vigilant",
+      "dismiss",
+      "airbus",
+      "unfairly",
+      "dornier",
+      "lion",
+      "reimburses",
+      "aerospace",
+      "scm",
+      "bundesanstalt",
+      "equalisation",
+      "trustee",
+      "dsu",
+      "transparently",
+      "strengths",
+      "dismissal",
+      "redundancy"
+    ],
+    "prompt_length": 1690,
+    "category": "6821 mechanical engineering"
+  }
+}

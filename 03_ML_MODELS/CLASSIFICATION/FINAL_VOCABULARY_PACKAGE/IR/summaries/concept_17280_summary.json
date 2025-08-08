@@ -1,0 +1,26 @@
+{
+  "concept_id": "17280",
+  "concept_data": {
+    "title": "cybersecurity resilience",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "cyber resilience",
+    "relation_type": "USE"
+  },
+  "summary": "Cybersecurity resilience, often referred to as \"cyber resilience,\" is a critical concept within EU legal and regulatory frameworks concerning information technology and data processing. It encompasses the ability of organizations to prepare for, respond to, and recover from cyber incidents, thereby ensuring the continuity of operations and protection of sensitive data. The EU has increasingly emphasized cyber resilience through various directives and regulations, such as the NIS Directive and the GDPR, which mandate robust security measures and incident reporting. By prioritizing cyber resilience, the EU aims to enhance the overall security posture of its digital ecosystem, fostering trust and stability in the digital single market.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:24:54.418499",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1242,
+    "category": "3236 information technology and data processing"
+  }
+}

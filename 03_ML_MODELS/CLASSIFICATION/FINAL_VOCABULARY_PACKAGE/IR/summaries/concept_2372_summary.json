@@ -1,0 +1,63 @@
+{
+  "concept_id": "2372",
+  "concept_data": {
+    "title": "phosphorus",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Phosphorus, a crucial mineral compound, plays a significant role in EU regulatory frameworks addressing environmental impacts, particularly concerning eutrophication in inland lakes and seas. The enrichment of water bodies with phosphorus can lead to harmful algal blooms, disturbing biodiversity and oxygen levels, which may result in increased fish mortality. The EU prohibits hazardous emissions of phosphorus and restricts its use in feedingstuffs, facilitating alternatives that minimize ecological damage. Compulsory labelling and regular updates on phosphorus levels in products are mandated to ensure transparency. Additionally, the regulation of cadmium as a contaminant in phosphorus sources is critical for safeguarding public health and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:36:19.338199",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 146,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 146,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1488.7808219178082
+    },
+    "related_words": [
+      "phosphor",
+      "blooms",
+      "intensifiers",
+      "eutrophication",
+      "algae",
+      "images",
+      "substituting",
+      "oxygen",
+      "phosphorus",
+      "ray",
+      "deficiency",
+      "outweigh",
+      "coatings",
+      "lakes",
+      "biodiversity",
+      "enrichment",
+      "cadmium",
+      "image",
+      "spare",
+      "disturbing",
+      "impacts",
+      "blue",
+      "absolute",
+      "seas",
+      "mortality",
+      "hazardous",
+      "ecological",
+      "inland",
+      "feeding",
+      "mineral"
+    ],
+    "prompt_length": 1680,
+    "category": "6811 chemistry"
+  }
+}

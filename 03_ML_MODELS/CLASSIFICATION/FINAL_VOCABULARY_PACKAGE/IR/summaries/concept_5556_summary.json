@@ -1,0 +1,63 @@
+{
+  "concept_id": "5556",
+  "concept_data": {
+    "title": "Horn of Africa",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Horn of Africa\" is a strategically significant region encompassing countries such as Ethiopia, Somalia, Djibouti, and Eritrea. In the context of EU legal and regulatory frameworks, the area is pivotal for addressing issues like piracy, particularly through missions like EUTM Atalanta and EUCAP Nestor, which aim to enhance maritime security. The EU's engagement in the region, guided by the Common Security and Defence Policy (CSDP), involves staffing initiatives and discussions on stabilizing the Sahel and surrounding areas. Notably, the EU's commitment to supporting nations like Uganda and Malawi reflects its broader objectives of fostering regional stability and governance, while addressing challenges posed by piracy and conflict.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:20:05.199382",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 397,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 651,
+      "selected_avg_freq": 236.51333333333332
+    },
+    "related_words": [
+      "rondos",
+      "cornago",
+      "launay",
+      "etienne",
+      "montaigne",
+      "poncins",
+      "rmcb",
+      "alexander",
+      "linde",
+      "deterring",
+      "eums",
+      "nestor",
+      "captain",
+      "navy",
+      "eeas",
+      "eutm",
+      "sahel",
+      "jacques",
+      "francisco",
+      "atalanta",
+      "eucap",
+      "lesotho",
+      "coc",
+      "göteborg",
+      "ethiopia",
+      "somali",
+      "djibouti",
+      "csdp",
+      "staffing",
+      "piracy"
+    ],
+    "prompt_length": 1593,
+    "category": "7221 Africa"
+  }
+}

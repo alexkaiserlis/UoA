@@ -1,0 +1,63 @@
+{
+  "concept_id": "71",
+  "concept_data": {
+    "title": "product evolution",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "product design",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"product evolution,\" redirected to \"product design,\" encompasses the regulatory frameworks governing the development and redesign of products within the EU. This includes directives on energy efficiency, such as ecodesign regulations that yield ambitious benchmarks for functionalities like lighting. For instance, the use of halogen and fluorescent lamps is regulated to minimize watt consumption and noise levels. The implications of these regulations affect various sectors, including aviation, where airworthiness standards for aeroplanes, including models like Antonov and Kamov, are crucial. Additionally, the integration of proprietary technologies, such as UVC sockets and ACPI systems, is essential for compliance with alternating voltage requirements. Overall, product design must align with evolving technical regulations to ensure safety and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:45.712000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 510,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 626,
+      "selected_avg_freq": 259.4533333333333
+    },
+    "related_words": [
+      "directional",
+      "uvc",
+      "socket",
+      "antonov",
+      "helicopter",
+      "kamov",
+      "hereas",
+      "deviating",
+      "acpi",
+      "watt",
+      "luminaires",
+      "halogen",
+      "privilege",
+      "tungsten",
+      "ultraviolet",
+      "mains",
+      "ideally",
+      "alternating",
+      "twh",
+      "aeroplane",
+      "caps",
+      "staged",
+      "implication",
+      "standby",
+      "redesign",
+      "airworthiness",
+      "easa",
+      "fluorescent",
+      "ecodesign",
+      "yielding"
+    ],
+    "prompt_length": 1734,
+    "category": "6411 technology and technical regulations"
+  }
+}

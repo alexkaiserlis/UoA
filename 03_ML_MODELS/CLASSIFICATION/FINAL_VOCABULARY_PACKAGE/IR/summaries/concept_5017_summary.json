@@ -1,0 +1,63 @@
+{
+  "concept_id": "5017",
+  "concept_data": {
+    "title": "beverage",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"beverage\" encompasses a wide range of liquid consumables regulated under EU law, particularly concerning their safety, quality, and labeling. Legal frameworks address issues like overconsumption, particularly with sugary and dietetic beverages, advocating for transparency in ingredient disclosure. Beverages may contain emulsifiers, sweetening agents, and flavouring substances, which must be clearly described to avoid ambiguous interpretations. Specific attention is given to organoleptic properties and the functionality of ingredients like phytosterols and flavonoids. Regulations also stipulate precautions regarding allergies and the use of prepackaged products, ensuring that consumers are educated about the particularity of beverage compositions, including those derived from roots such as glycyrrhiza glabra.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:28:35.846967",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 517,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 496,
+      "selected_avg_freq": 197.8
+    },
+    "related_words": [
+      "oily",
+      "dalily",
+      "teriaka",
+      "paulig",
+      "overconsumption",
+      "descriptor",
+      "flavonoids",
+      "kaneka",
+      "glavonoid",
+      "prepackages",
+      "glycyrrhiza",
+      "glabra",
+      "emulsifier",
+      "descriptors",
+      "washed",
+      "educating",
+      "particularity",
+      "pull",
+      "rootstock",
+      "sixty",
+      "pharma",
+      "transparently",
+      "phytosterol",
+      "dispersal",
+      "encompasses",
+      "emulsifiers",
+      "faculty",
+      "phytostanols",
+      "phytostanol",
+      "phytosterols"
+    ],
+    "prompt_length": 1713,
+    "category": "6021 beverages and sugar"
+  }
+}

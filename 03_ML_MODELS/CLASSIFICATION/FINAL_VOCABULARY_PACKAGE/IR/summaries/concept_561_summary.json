@@ -1,0 +1,63 @@
+{
+  "concept_id": "561",
+  "concept_data": {
+    "title": "tax regulation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax law",
+    "relation_type": "USE"
+  },
+  "summary": "Tax regulation, often redirected to \"tax law,\" encompasses the legal frameworks governing taxation within the EU. It aims to ameliorate fiscal burdens on taxpayers while targeting fraudulent evasion and avoidance. The regulation stimulates compliance through tools such as VAT and allows for optional allowances, fostering a collectivity of ideas that converge on minimizing tax liabilities. As shifts in economic conditions emerge, tax law exercises an indispensable role in coordinating responses to greenhouse gas emissions and other fiscal challenges. The seriousness of tax regulation rests on its ability to reverse detrimental practices and stimulate savings, ensuring a fair and equitable system for all stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:15.468599",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 371,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 990,
+      "selected_avg_freq": 488.02
+    },
+    "related_words": [
+      "vies",
+      "ameliorate",
+      "fractionated",
+      "matthaeus",
+      "emit",
+      "collectivity",
+      "fiscalis",
+      "barthélemy",
+      "shifts",
+      "converge",
+      "stimulated",
+      "rests",
+      "ideal",
+      "taxpayers",
+      "ideas",
+      "emerge",
+      "impetus",
+      "stimulus",
+      "seminars",
+      "suggestions",
+      "minimising",
+      "reverse",
+      "linguistic",
+      "gases",
+      "derogates",
+      "fraudulent",
+      "evasion",
+      "targeting",
+      "greenhouse",
+      "taxable"
+    ],
+    "prompt_length": 1702,
+    "category": "2446 taxation"
+  }
+}

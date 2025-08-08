@@ -1,0 +1,63 @@
+{
+  "concept_id": "3207",
+  "concept_data": {
+    "title": "trade fair",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "trade event",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"trade fair,\" also referred to as a \"trade event,\" serves as a vital platform for exhibitors and organizers to showcase products and services, fostering industry connections. Events like the ITMA and CEMATEX congresses exemplify the significance of such gatherings in sectors like textiles and machinery. Regulatory compliance is essential for organizers to ensure fair admissions and avoid forfeits. The involvement of associations such as the VDMA and BTMA underscores the collaborative nature of these events. Additionally, the stringent regulations governing trade events aim to mitigate overutilisation of resources while promoting relevant innovations in fields like dentistry and electrotechnical sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:02:00.432327",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 981,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 112,
+      "selected_avg_freq": 33.43333333333333
+    },
+    "related_words": [
+      "dentalschau",
+      "ids",
+      "symposia",
+      "congresses",
+      "organizer",
+      "umpire",
+      "dentaire",
+      "relevent",
+      "cematex",
+      "itma",
+      "janaury",
+      "fachgemeinschaft",
+      "textilmaschinen",
+      "verein",
+      "anstalten",
+      "vdma",
+      "lyoner",
+      "constructeurs",
+      "symatex",
+      "drapiers",
+      "ucmtf",
+      "hoche",
+      "btma",
+      "costruttori",
+      "italiani",
+      "macchinario",
+      "acimit",
+      "tevere",
+      "textielmachines",
+      "gtm"
+    ],
+    "prompt_length": 1707,
+    "category": "2031 marketing"
+  }
+}

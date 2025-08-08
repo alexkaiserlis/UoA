@@ -1,0 +1,63 @@
+{
+  "concept_id": "1331",
+  "concept_data": {
+    "title": "profits tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "corporation tax",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"profits tax,\" which redirects to \"corporation tax,\" refers to the taxation imposed on the earnings of multinationals and corporations within the EU. This tax is crucial for ensuring neutrality in capital movements and preventing mismatches in taxation across member states. The regulation of corporation tax is often scrutinized to avoid abusive practices, such as the manipulation of distributions and dividends. Taxpayers benefit from provisions that allow for deductible expenses, thereby maximizing their net earnings. The EU aims to tackle issues related to withholding taxes and reorganisation efforts, reaffirming a commitment to fair taxation that strengthens economic stability and avoids abrupt collapses in revenue.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:41:01.796968",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 782,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 314,
+      "selected_avg_freq": 141.59333333333333
+    },
+    "related_words": [
+      "kapitalverkehrsteuer",
+      "gesellschaftsteuer",
+      "leeuwarder",
+      "papierwarenfabriek",
+      "primciple",
+      "rollback",
+      "multinationals",
+      "mismatches",
+      "hochtemperatur",
+      "hkg",
+      "taxpayer",
+      "kernkraftwerk",
+      "abusive",
+      "distributes",
+      "motivation",
+      "reaffirming",
+      "abused",
+      "helpful",
+      "distributions",
+      "owning",
+      "looked",
+      "taxpayers",
+      "certains",
+      "manifestly",
+      "unintended",
+      "cement",
+      "dividends",
+      "taxing",
+      "deductible",
+      "narrowly"
+    ],
+    "prompt_length": 1786,
+    "category": "2446 taxation"
+  }
+}

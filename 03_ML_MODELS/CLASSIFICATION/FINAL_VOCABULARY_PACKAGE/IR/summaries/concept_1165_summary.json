@@ -1,0 +1,63 @@
+{
+  "concept_id": "1165",
+  "concept_data": {
+    "title": "strategic planning",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "management planning",
+    "relation_type": "USE"
+  },
+  "summary": "Strategic planning, also referred to as management planning, is a critical process in EU regulatory frameworks, particularly in sectors like fisheries. It involves the systematic layout of objectives, ensuring that quotas for fishing are properly managed and adapted to maintain the authenticity of fishery resources. This includes the submission of applications for licences, which must qualify under multiannual periods. The mechanism for issuing certificates guarantees that imported and exported products, such as beef and veal, meet regulatory standards. Regular reviews and the flow of information are essential for the foreseeable status of these quotas, ensuring that the circulation of fresh products aligns with EU sustainability goals.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:39:27.570292",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 162,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 3458,
+      "selected_avg_freq": 1708.98
+    },
+    "related_words": [
+      "venus",
+      "clams",
+      "affording",
+      "layout",
+      "divide",
+      "authenticity",
+      "opens",
+      "chilled",
+      "flow",
+      "foreseeable",
+      "cmo",
+      "veal",
+      "sub",
+      "fishing",
+      "applicants",
+      "beef",
+      "autonomous",
+      "done",
+      "managed",
+      "multiannual",
+      "exporting",
+      "release",
+      "licences",
+      "fisheries",
+      "qualify",
+      "fishery",
+      "fresh",
+      "properly",
+      "quotas",
+      "circulation"
+    ],
+    "prompt_length": 1685,
+    "category": "4021 management"
+  }
+}

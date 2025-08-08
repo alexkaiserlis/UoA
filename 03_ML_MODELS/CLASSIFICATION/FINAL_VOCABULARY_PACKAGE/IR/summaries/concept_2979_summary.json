@@ -1,0 +1,63 @@
+{
+  "concept_id": "2979",
+  "concept_data": {
+    "title": "less-favoured agricultural region",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "less-favoured agricultural area",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"less-favoured agricultural region,\" redirected to \"less-favoured agricultural area,\" refers to regions within the EU that face significant hardships due to unfavourable natural conditions, such as rugged terrain or high salinity. These areas, often characterized by their utilizable agricultural potential, are subject to specific EU regulations aimed at supporting their development. Institutions in these regions, including municipalities and freguesias, receive guidance on management accounts and infrastructre improvements. Beforeaccession, these classifications were crucial for granting of aid to farmers, including those cultivating breeds like charolaise and limousine. Moreover, the EU's commitment to these areas reflects its broader agricultural policy objectives, ensuring that even the most iryda regions can thrive despite their challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:09:14.214889",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1687,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 42,
+      "selected_avg_freq": 15.88
+    },
+    "related_words": [
+      "moroever",
+      "utilizable",
+      "iryda",
+      "boudaries",
+      "hardships",
+      "mühlviertel",
+      "waldviertel",
+      "commuon",
+      "charolaise",
+      "limousine",
+      "salers",
+      "gudiance",
+      "massif",
+      "beforeaccession",
+      "neverthelses",
+      "tenths",
+      "favroured",
+      "freguesias",
+      "monaghan",
+      "slieve",
+      "felim",
+      "duplicated",
+      "rugged",
+      "salinity",
+      "nikula",
+      "urbanized",
+      "unfavourably",
+      "aaland",
+      "laani",
+      "kymi"
+    ],
+    "prompt_length": 1798,
+    "category": "5606 agricultural policy"
+  }
+}

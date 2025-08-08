@@ -1,0 +1,63 @@
+{
+  "concept_id": "4657",
+  "concept_data": {
+    "title": "vehicle on rails",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vehicle on rails\" pertains to the regulatory framework governing trains and wagons within the EU's land transport sector. This includes the internalisation of externalities such as noise and emissions, incentivising retrofitting initiatives to create quieter, more efficient rolling stock. The EU's roadmap for railways emphasizes the need for managers to implement systems that reduce the noticeable impact of noisy trains. Through mechanisms like malus and bonus schemes, stakeholders are encouraged to retrofit existing wagons, enhancing braking systems and axle configurations. The integration of composite subsystems aims to facilitate seamless connections between rail and waterway transport, ensuring efficient haulage while addressing localised environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:35:55.126082",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 439,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 626,
+      "selected_avg_freq": 266.48
+    },
+    "related_words": [
+      "externality",
+      "incentivising",
+      "ndtac",
+      "quiet",
+      "internalisation",
+      "incentivise",
+      "córas",
+      "iompair",
+      "éireann",
+      "retrofitted",
+      "retrofit",
+      "silent",
+      "localised",
+      "retrofitting",
+      "wagon",
+      "tsis",
+      "malus",
+      "bonus",
+      "rec",
+      "axle",
+      "brake",
+      "bonuses",
+      "noisy",
+      "surcharge",
+      "tsi",
+      "discount",
+      "subsystem",
+      "noticeable",
+      "trains",
+      "keepers"
+    ],
+    "prompt_length": 1632,
+    "category": "4816 land transport"
+  }
+}

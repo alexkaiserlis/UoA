@@ -1,0 +1,63 @@
+{
+  "concept_id": "1233",
+  "concept_data": {
+    "title": "protein feed",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "manufactured feedingstuffs",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"protein feed,\" categorized under agricultural activity, is redirected to \"manufactured feedingstuffs\" within EU legal and regulatory frameworks. Manufactured feedingstuffs encompass various nutriments designed for livestock, including poultryfeed and medicated options that may contain substances like morantel or acetylisovaleryltylosin. These products are essential for optimizing animal health and productivity, influencing factors such as ingestion and assimilation of aminoacids. Regulatory measures ensure that these feedingsuffs do not pollute the environment or interfere with animal welfare. Additionally, the legal framework addresses the quality of forages and the implications of using hydroxyanalogues and other additives, ensuring safe and benefic outcomes for livestock and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:35.371984",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 1598,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 58,
+      "selected_avg_freq": 24.56
+    },
+    "related_words": [
+      "poultryfeed",
+      "nutriments",
+      "benefic",
+      "tosylchloramide",
+      "piceae",
+      "turiones",
+      "recentes",
+      "offred",
+      "hydroxylated",
+      "urine",
+      "integro",
+      "gida",
+      "omeprazole",
+      "qualifing",
+      "pollute",
+      "cefalonium",
+      "rationing",
+      "commonest",
+      "orbreeding",
+      "organizaion",
+      "marke",
+      "medicated",
+      "feedingsuffs",
+      "ingest",
+      "amy",
+      "hydroxyanalogues",
+      "mulc",
+      "metamizole",
+      "extractum",
+      "lanthanum"
+    ],
+    "prompt_length": 1778,
+    "category": "5631 agricultural activity"
+  }
+}

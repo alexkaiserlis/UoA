@@ -1,0 +1,63 @@
+{
+  "concept_id": "6112",
+  "concept_data": {
+    "title": "spongiform encephalopathies",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "bovine spongiform encephalopathy",
+    "relation_type": "USE"
+  },
+  "summary": "\"Spongiform encephalopathies\" refers primarily to \"bovine spongiform encephalopathy\" (BSE), a transmissible spongiform encephalopathy (TSE) affecting cattle. In the EU regulatory framework, BSE is critical due to its infective prion nature, which compromises food safety and public health. Legal measures include culling infected cohorts, incinerating contaminated materials like bonemeal and tallow, and monitoring subpopulations for undetected cases. The pathogenesis of BSE is linked to the ingestion of infective agents through animal feed, raising unanswered questions about digestibility and the role of feed replacers. Regulatory bodies continuously collate epidemiological data to predict potential outbreaks and ensure compliance with biohazard protocols.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:53:25.403373",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 1612,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 90,
+      "selected_avg_freq": 46.306666666666665
+    },
+    "related_words": [
+      "priostrip",
+      "dicalcium",
+      "tsemm",
+      "predictions",
+      "ingesting",
+      "digested",
+      "replacers",
+      "colostral",
+      "dbes",
+      "otm",
+      "prionics",
+      "bonemeal",
+      "unanswered",
+      "detectably",
+      "subpopulations",
+      "compromises",
+      "agr",
+      "biohaz",
+      "casualty",
+      "lairage",
+      "cohort",
+      "srm",
+      "necrophagous",
+      "undetected",
+      "suspects",
+      "collating",
+      "cull",
+      "waves",
+      "cohorts",
+      "epidemio"
+    ],
+    "prompt_length": 1736,
+    "category": "5631 agricultural activity"
+  }
+}

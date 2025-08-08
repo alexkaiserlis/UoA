@@ -1,0 +1,63 @@
+{
+  "concept_id": "1762",
+  "concept_data": {
+    "title": "tropical disease",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tropical disease\" encompasses a range of health issues that are prevalent in tropical regions, often linked to environmental factors. In EU legal and regulatory frameworks, the monitoring of tropical diseases is crucial for public health safety. For instance, the rapid spread of diseases such as cholera, often associated with contaminated freshwater sources, necessitates stringent inspections of consignments arriving from affected areas like Peru and Ecuador. The EU's health committees continually assess these phenomena, ensuring that products like shellfish and freshwater trout are uncontaminated. Additionally, the presence of pathogens like ceratocystis and vibrio in aquatic environments, including piscifactorias, underscores the need for unity in health regulations to prevent epidemics. The legal framework aims to protect citizens from the risks posed by these diseases, which can rapidly transship across borders, revealing the interconnected nature of global health challenges.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:21:13.382856",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 139,
+    "vocabulary_stats": {
+      "total_related_words": 445,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 720,
+      "selected_avg_freq": 315.91333333333336
+    },
+    "related_words": [
+      "mariexport",
+      "commmitee",
+      "piscifactorias",
+      "andes",
+      "concepciรณn",
+      "rapdily",
+      "transship",
+      "uncontaminated",
+      "consigments",
+      "fagacearum",
+      "haven",
+      "cancels",
+      "los",
+      "wilt",
+      "ceratocystis",
+      "frogs",
+      "snails",
+      "visiting",
+      "vibrio",
+      "ripening",
+      "peruvian",
+      "cholera",
+      "continual",
+      "contaminate",
+      "oak",
+      "scallops",
+      "freshwater",
+      "bark",
+      "shellfish",
+      "look"
+    ],
+    "prompt_length": 1658,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2243",
+  "concept_data": {
+    "title": "European Parliamentary Assembly",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "European Parliament",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Parliamentary Assembly,\" now redirected to the \"European Parliament,\" serves as a vital legislative body within the EU framework. It emphasizes democratic principles by ensuring universal suffrage for citizens residing in member states. The Parliament convenes to enact legislation through a codecision process, strengthening the accountability of elected legislators. It plays a crucial role in the registration of candidacy for elections, while also addressing issues such as immigration and asylum. By rejecting disqualification and ensuring the privacy of citizens, the Parliament facilitates the reunification of peoples. Its actions are pivotal in shaping EU policies, including those related to biocidal substances and environmental regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:48:30.986571",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 698,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 443,
+      "selected_avg_freq": 197.32666666666665
+    },
+    "related_words": [
+      "cypriots",
+      "suffrage",
+      "disqualification",
+      "reunited",
+      "degressively",
+      "candidacy",
+      "codecision",
+      "difethialone",
+      "ast",
+      "emphasizes",
+      "reunification",
+      "birmingham",
+      "deprivation",
+      "democratically",
+      "bioaccumulate",
+      "legislator",
+      "rodenticides",
+      "election",
+      "convene",
+      "enact",
+      "citizen",
+      "electoral",
+      "precluded",
+      "strengthens",
+      "registrations",
+      "roll",
+      "reserving",
+      "accountable",
+      "asylum",
+      "organising"
+    ],
+    "prompt_length": 1809,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

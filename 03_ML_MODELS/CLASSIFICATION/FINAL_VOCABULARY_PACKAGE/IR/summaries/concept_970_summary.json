@@ -1,0 +1,63 @@
+{
+  "concept_id": "970",
+  "concept_data": {
+    "title": "cereal flour",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cereal flour, classified under the category of foodstuff (6026), encompasses various types of flour derived from grains, including spelt and meslin. In the EU regulatory framework, the quality and safety of cereal flour are paramount, particularly concerning ochratoxin levels and ash content. Specific flours, such as gofio from the Canarian region and pregelatinised varieties, are subject to distinct regulations to ensure compliance with food safety standards. The process of sifting and the presence of bran and sharps are critical in breadmaking, influencing the flour's nutritional profile. Regulatory bodies may intervene to align standards across member states, ensuring that products like piadina and pagnotta meet established criteria, thereby avoiding issues of anonymity in labeling and ensuring consumer protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:57:39.221553",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 842,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 331,
+      "selected_avg_freq": 146.24
+    },
+    "related_words": [
+      "épeautre",
+      "gofio",
+      "canario",
+      "agricualtural",
+      "tajkistan",
+      "wfp",
+      "piadina",
+      "romagnola",
+      "piada",
+      "castagne",
+      "farine",
+      "petit",
+      "pregelatinised",
+      "lunigiana",
+      "forego",
+      "tegument",
+      "pagnotta",
+      "dittaino",
+      "quellmehl",
+      "farina",
+      "insignificance",
+      "wherea",
+      "haute",
+      "alignments",
+      "ochratoxin",
+      "graduated",
+      "breadmaking",
+      "starches",
+      "della",
+      "spelt"
+    ],
+    "prompt_length": 1655,
+    "category": "6026 foodstuff"
+  }
+}

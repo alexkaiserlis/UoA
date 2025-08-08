@@ -1,0 +1,63 @@
+{
+  "concept_id": "1488",
+  "concept_data": {
+    "title": "investment",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"investment\" encompasses a range of activities emphasizing the allocation of capital to generate returns. Institutions such as the EIF and EUSEF appraise investment opportunities, selectively targeting sectors like infrastructure and technology. Fragmenting markets can hinder effective investment, as seen with entities like Jugobanka and Inex, which faced challenges in unfreezing assets. The regulatory landscape includes ordinances that govern investment practices, ensuring compliance with EU standards. Moreover, initiatives like Nordel and UCTE aim to enhance cross-border investments in energy. Overall, investment is crucial for economic growth, requiring careful oversight and strategic planning.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:47.783838",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1316,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 106,
+      "selected_avg_freq": 42.5
+    },
+    "related_words": [
+      "emphasizing",
+      "ucte",
+      "nordel",
+      "fragmenting",
+      "istitutions",
+      "simit",
+      "combick",
+      "bau",
+      "zoran",
+      "karic",
+      "genex",
+      "rudimex",
+      "yugotours",
+      "reisen",
+      "jugobanka",
+      "beogradska",
+      "inex",
+      "interexport",
+      "rtb",
+      "metalle",
+      "sartid",
+      "jugometal",
+      "magnorohm",
+      "magnorhrom",
+      "kraljevo",
+      "yusico",
+      "jugopetrol",
+      "inlit",
+      "yougoslave",
+      "fek"
+    ],
+    "prompt_length": 1655,
+    "category": "2426 financing and investment"
+  }
+}

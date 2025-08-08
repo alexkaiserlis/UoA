@@ -1,0 +1,63 @@
+{
+  "concept_id": "479",
+  "concept_data": {
+    "title": "product diversification",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Product diversification refers to the strategic process by which processors enhance their offerings of foodstuff, thereby averting confusion among consumers regarding product identity and quality. In the context of EU regulations, this concept is crucial for ensuring that labels uniformly inform consumers about the character and composition of products, which may include variations in sugar content or other attributes. By promoting an abundance of choices, product diversification helps maintain credibility within agri-food circles. Additionally, it addresses objections related to homogenous offerings, allowing for the inclusion of diverse models that cater to the wishes of various linguistic groups, such as Latvian, Lithuanian, and Bulgarian consumers.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:52.915176",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 245,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1812,
+      "selected_avg_freq": 799.38
+    },
+    "related_words": [
+      "avertising",
+      "renounced",
+      "symbols",
+      "abundance",
+      "circles",
+      "symbol",
+      "credibility",
+      "himself",
+      "homogenous",
+      "explain",
+      "foodstuff",
+      "diversification",
+      "processor",
+      "agri",
+      "avail",
+      "reproduction",
+      "processors",
+      "uniformly",
+      "latvian",
+      "informing",
+      "admissible",
+      "gathered",
+      "confusion",
+      "label",
+      "lithuanian",
+      "slovenian",
+      "removing",
+      "enhancing",
+      "romanian",
+      "wishes"
+    ],
+    "prompt_length": 1667,
+    "category": "6406 production"
+  }
+}

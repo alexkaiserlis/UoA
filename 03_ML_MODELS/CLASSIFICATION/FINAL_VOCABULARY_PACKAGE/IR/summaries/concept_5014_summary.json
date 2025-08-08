@@ -1,0 +1,63 @@
+{
+  "concept_id": "5014",
+  "concept_data": {
+    "title": "wood for construction",
+    "category_code": "6836",
+    "category_name": "wood industry",
+    "category_full": "6836 wood industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wood for construction\" encompasses various timber products, including plywood, beams, and panels, which are essential in the building industry. In the EU regulatory framework, manufacturers must adhere to stringent specifications and certification mandates to ensure safety and sustainability. This includes the use of lightweight, coniferous wood and composite materials in prefabricated kits and structures. The legal responsibilities of manufacturers are detailed in regulations that safeguard the quality and performance of wood products, attesting to their load-bearing capabilities. Additionally, the continuous approximation of standards across member states facilitates trade, reflecting the EU's commitment to harmonizing construction practices while reserving the right to impose onerous requirements when necessary.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:26:51.424566",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 174,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 3159,
+      "selected_avg_freq": 1302.6933333333334
+    },
+    "related_words": [
+      "plywoods",
+      "ancillaries",
+      "prefabricated",
+      "responsability",
+      "plywood",
+      "lightweight",
+      "coniferous",
+      "beams",
+      "log",
+      "kits",
+      "columns",
+      "onerous",
+      "panels",
+      "composite",
+      "timber",
+      "skin",
+      "mandates",
+      "attestation",
+      "attesting",
+      "load",
+      "select",
+      "frame",
+      "wood",
+      "preference",
+      "factory",
+      "undertook",
+      "family",
+      "manufacturer",
+      "gatt",
+      "stressed"
+    ],
+    "prompt_length": 1687,
+    "category": "6836 wood industry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1199",
+  "concept_data": {
+    "title": "purchasing association",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": true,
+    "preferred_term": "buying group",
+    "relation_type": "USE"
+  },
+  "summary": "A \"purchasing association,\" commonly referred to as a \"buying group,\" is a collective of independent entities that collaborate to enhance their purchasing power in the EU market. By pooling resources, these groups can negotiate better terms with suppliers, such as those in steelmaking or dockside operations, exemplified by firms like GKN and Hadfields. The regulatory framework governing such associations ensures compliance with competition laws, preventing anti-competitive practices. Notable examples include the independent entities from regions like Wolsingham and Sheerness, which leverage their collective strength to outstrip competitors. This concept is crucial for fostering cooperation among independents while adhering to EU legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:47:24.539901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 795,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 171,
+      "selected_avg_freq": 50.76
+    },
+    "related_words": [
+      "ssl",
+      "barworth",
+      "flockton",
+      "brymbo",
+      "parkin",
+      "sanderson",
+      "kayser",
+      "sheerness",
+      "forgemasters",
+      "guest",
+      "nettlefolds",
+      "gkn",
+      "duport",
+      "dunford",
+      "hadfields",
+      "cooper",
+      "neepsend",
+      "osborn",
+      "spartan",
+      "redheugh",
+      "wolsingham",
+      "asw",
+      "keting",
+      "spear",
+      "jackson",
+      "edgar",
+      "tor",
+      "schorndorf",
+      "scharr",
+      "darmstadt"
+    ],
+    "prompt_length": 1695,
+    "category": "2036 distributive trades"
+  }
+}

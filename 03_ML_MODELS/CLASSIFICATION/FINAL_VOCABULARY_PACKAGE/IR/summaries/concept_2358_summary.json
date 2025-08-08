@@ -1,0 +1,63 @@
+{
+  "concept_id": "2358",
+  "concept_data": {
+    "title": "small enterprise",
+    "category_code": "4011",
+    "category_name": "business classification",
+    "category_full": "4011 business classification",
+    "is_redirect": true,
+    "preferred_term": "small business",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"small enterprise,\" which redirects to \"small business,\" encompasses entities that are akin to the smallest classifications of businesses. These enterprises are crucial for economic growth, often facing burdensome regulations that can hinder their potential. The EU aims to boost small businesses by enacting policies that lighten their regulatory load, thereby unleashing their capacity for innovation. Small enterprises often encounter unbalanced market conditions and may be reluctant to engage in complex merger processes. By providing unambiguous remedies and support, the EU seeks to protect these businesses and enhance their uptake of digital solutions, ensuring they can cope with rising challenges in a rapidly evolving marketplace.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:44:31.029185",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 657,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 507,
+      "selected_avg_freq": 248.21333333333334
+    },
+    "related_words": [
+      "rapprochement",
+      "akin",
+      "unleashing",
+      "downtime",
+      "reluctant",
+      "cloud",
+      "unbalanced",
+      "academics",
+      "consultancy",
+      "graduated",
+      "exerts",
+      "vague",
+      "think",
+      "lighten",
+      "computing",
+      "responds",
+      "unaware",
+      "abiding",
+      "lie",
+      "remedies",
+      "unambiguous",
+      "treating",
+      "protects",
+      "apportioning",
+      "professions",
+      "valued",
+      "aggregation",
+      "practitioners",
+      "faster",
+      "apportionment"
+    ],
+    "prompt_length": 1725,
+    "category": "4011 business classification"
+  }
+}

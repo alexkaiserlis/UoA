@@ -1,0 +1,63 @@
+{
+  "concept_id": "1565",
+  "concept_data": {
+    "title": "milk",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU concept of \"milk\" encompasses a range of processed agricultural produce, including pasteurized and skim varieties, which are vital for consumption across member states. Regulatory frameworks govern the production, quality, and marketing of milk products, ensuring compliance with standards such as exportqualitaet. Establishments involved in milk processing must obtain licenceswith specific conditions to prevent issues like excesses and disequilibria in the market. The concept also includes products like milkpowder and cheese, such as caciocavallo siciliano, which may undergo processes like ultrafiltration or recombined methods. These regulations facilitate regional cooperation and enable effective management of milk supply chains, ensuring that the udder's output is efficiently transferred and marketed within the EU territory.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:53:57.550322",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 3401,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 10.186666666666667
+    },
+    "related_words": [
+      "grano",
+      "enabing",
+      "consemption",
+      "consumtion",
+      "pasteurized",
+      "souring",
+      "dornic",
+      "azorubin",
+      "eosin",
+      "butterkă",
+      "qualifiy",
+      "scas",
+      "transferrred",
+      "rerouting",
+      "ultrafiltration",
+      "milkpowder",
+      "nonmarketing",
+      "prefixation",
+      "suring",
+      "skim",
+      "licenceswith",
+      "conceal",
+      "recombined",
+      "inorder",
+      "parliment",
+      "estabishments",
+      "territoriy",
+      "furnishes",
+      "pardano",
+      "caseines"
+    ],
+    "prompt_length": 1716,
+    "category": "6016 processed agricultural produce"
+  }
+}

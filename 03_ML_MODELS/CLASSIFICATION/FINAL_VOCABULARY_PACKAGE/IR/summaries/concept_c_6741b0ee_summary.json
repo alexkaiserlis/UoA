@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_6741b0ee",
+  "concept_data": {
+    "title": "tendinitis",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "musculoskeletal disorder",
+    "relation_type": "USE"
+  },
+  "summary": "Tendinitis, categorized under the broader term \"musculoskeletal disorder,\" is a significant health concern within EU regulatory frameworks. This condition, characterized by inflammation of tendons, is often addressed in occupational health directives and workplace safety regulations. The EU emphasizes the prevention and management of musculoskeletal disorders to enhance worker well-being and productivity. As a redirect to \"musculoskeletal disorder,\" tendinitis highlights the importance of comprehensive health assessments and the implementation of preventive measures in various sectors. Regulatory bodies may require employers to adopt ergonomic practices and provide training to mitigate the risks associated with such disorders, ensuring compliance with EU health standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:37:51.460658",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "2841 health"
+  }
+}

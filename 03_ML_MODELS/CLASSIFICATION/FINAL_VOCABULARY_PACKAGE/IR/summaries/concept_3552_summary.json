@@ -1,0 +1,63 @@
+{
+  "concept_id": "3552",
+  "concept_data": {
+    "title": "teleworking",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Teleworking, as defined within EU legal and regulatory frameworks, refers to a flexible employment arrangement where employees, or teleworkers, perform their duties remotely, often utilizing software and digital tools. This innovative approach necessitates a robust regulatory framework to ensure fair wages and protect against abusively low compensation. The EU's rahmenplan promotes the improvement of regional economic structures by enhancing teleworking opportunities, particularly for disadvantaged groups. By investing in skilled manpower and connecting specialists across länder, teleworking can diminish underemployment and stabilize GDP. Consequently, it is an attractive scenario for both employees and investors, fostering a more resilient workforce.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:18:38.711544",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 322,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1061,
+      "selected_avg_freq": 448.67333333333335
+    },
+    "related_words": [
+      "teleworking",
+      "rahmenplan",
+      "gemeinschaftsaufgabe",
+      "verbesserung",
+      "regionalen",
+      "wirtschaftsstruktur",
+      "rahmenpläne",
+      "teleworker",
+      "necessiatate",
+      "abusively",
+      "consenquently",
+      "spends",
+      "innovativeness",
+      "clarly",
+      "tempted",
+      "earning",
+      "invariably",
+      "consultancy",
+      "installing",
+      "manpower",
+      "länder",
+      "diminish",
+      "intensities",
+      "skilled",
+      "apparently",
+      "stabilised",
+      "assumes",
+      "investing",
+      "wages",
+      "underemployment"
+    ],
+    "prompt_length": 1723,
+    "category": "4406 employment"
+  }
+}

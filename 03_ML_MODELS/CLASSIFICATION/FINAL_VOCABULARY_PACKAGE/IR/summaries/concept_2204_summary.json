@@ -1,0 +1,63 @@
+{
+  "concept_id": "2204",
+  "concept_data": {
+    "title": "farm implement",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "agricultural implement",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"farm implement,\" redirected to \"agricultural implement,\" encompasses various tools essential for agricultural production within the EU regulatory framework. These implements, such as schaufel and idealspaten, are critical for efficient farming operations. The legal context often involves assessing the quality and pricing of these tools, which can be influenced by factors like devaluations and discounts. Allegations of inferior products may arise, prompting hearings and commissions to address complaints from farmers. The survival of domestic agricultural sectors relies on the availability of reliable implements, as frequent conflicts over pricing and quality can lead to significant economic impacts, including bankruptcies and debts.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:46:57.735380",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 404,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 634,
+      "selected_avg_freq": 299.74666666666667
+    },
+    "related_words": [
+      "schaufel",
+      "idealspaten",
+      "bredt",
+      "herdecke",
+      "metalurgica",
+      "timboense",
+      "timbo",
+      "alowances",
+      "spades",
+      "shovels",
+      "purporting",
+      "devaluations",
+      "understated",
+      "verband",
+      "deutscher",
+      "catarina",
+      "bankrupt",
+      "convince",
+      "convinced",
+      "discount",
+      "conflicting",
+      "gone",
+      "depression",
+      "santa",
+      "priced",
+      "domestically",
+      "estimating",
+      "inferior",
+      "theoretical",
+      "resold"
+    ],
+    "prompt_length": 1736,
+    "category": "5626 means of agricultural production"
+  }
+}

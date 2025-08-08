@@ -1,0 +1,63 @@
+{
+  "concept_id": "3846",
+  "concept_data": {
+    "title": "cold store",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, a \"cold store\" refers to a specialized facility designed for the refrigeration and preservation of perishable goods. These insulated structures, often equipped with thick walls and advanced refrigeration pumps, ensure that products are securely stored and conditioned to prevent leakage and spoilage. Technicians and engineers are responsible for maintaining the integrity of these systems, addressing any defective components to avoid onerous operational failures. The design must consider the visibility of stored items, the width for pallet storage, and the ventilation to manage airflow. Compliance with regulations ensures that cold stores meet safety standards for seafarers and the broader supply chain, enhancing the desirability of refrigerated transport in the EU's trading framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:15:25.846847",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 388,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 826,
+      "selected_avg_freq": 300.23333333333335
+    },
+    "related_words": [
+      "mate",
+      "stuurman",
+      "kleine",
+      "handelsvaart",
+      "aanvulling",
+      "coaster",
+      "motordrijver",
+      "blown",
+      "foams",
+      "escaping",
+      "securely",
+      "technicians",
+      "engineer",
+      "touching",
+      "ventilated",
+      "seafaring",
+      "constrained",
+      "leak",
+      "repaired",
+      "walls",
+      "insulated",
+      "thick",
+      "legible",
+      "fluorinated",
+      "diploma",
+      "pallets",
+      "slowly",
+      "conditioning",
+      "pump",
+      "defective"
+    ],
+    "prompt_length": 1681,
+    "category": "6821 mechanical engineering"
+  }
+}

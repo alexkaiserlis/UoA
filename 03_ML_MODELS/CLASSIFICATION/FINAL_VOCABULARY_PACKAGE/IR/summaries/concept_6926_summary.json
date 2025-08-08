@@ -1,0 +1,63 @@
+{
+  "concept_id": "6926",
+  "concept_data": {
+    "title": "regional market",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regional market\" within EU trade policy encompasses the structured framework facilitating the exchange of goods and services across member states. It addresses various sectors, including the distribution of commodities like breads, pastries, and cements, while ensuring compliance with regulatory standards. The regional market promotes economic cohesion by allowing diverse products, from cordials to photographic materials, to flow seamlessly. It also emphasizes the importance of maintaining quality in items such as soaps, sauces, and furniture. By fostering competition and innovation, the regional market enhances consumer choice, ultimately benefiting the metropolitan population and supporting local economies.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:35:20.414119",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 451,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 471,
+      "selected_avg_freq": 174.33333333333334
+    },
+    "related_words": [
+      "doms",
+      "pebbles",
+      "icing",
+      "breads",
+      "pastries",
+      "cordials",
+      "doorframes",
+      "sideline",
+      "woods",
+      "dom",
+      "conveyance",
+      "sodas",
+      "ylang",
+      "joinery",
+      "cements",
+      "prostheses",
+      "miscellaneous",
+      "vanilla",
+      "spectacles",
+      "gravel",
+      "liqueurs",
+      "creams",
+      "portland",
+      "abrasive",
+      "glasses",
+      "cakes",
+      "dock",
+      "dues",
+      "margarine",
+      "jams"
+    ],
+    "prompt_length": 1627,
+    "category": "2006 trade policy"
+  }
+}

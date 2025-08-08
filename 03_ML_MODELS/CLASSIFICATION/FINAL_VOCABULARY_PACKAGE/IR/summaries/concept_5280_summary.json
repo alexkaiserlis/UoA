@@ -1,0 +1,63 @@
+{
+  "concept_id": "5280",
+  "concept_data": {
+    "title": "women",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "woman",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"women,\" redirected to the preferred term \"woman,\" encompasses critical issues in EU legal and regulatory frameworks, particularly concerning the dignity and rights of female beings. Women face various challenges, including emotional and psychological injuries stemming from violence and trafficking, which are often perpetrated against minors and youth. The EU has fostered multidisciplinary approaches to curbing these scourges, exemplified by initiatives like the Palermo Protocol. NGOs play a vital role in disseminating ideas and networking to support victims. Moreover, the reclassification of women’s health issues, such as breast implants, highlights the need for regulatory oversight in acquiring and using implantable devices. The synergy between member states is essential for addressing these transnational concerns effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:33:12.516071",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 430,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 734,
+      "selected_avg_freq": 308.37333333333333
+    },
+    "related_words": [
+      "daphne",
+      "emotional",
+      "scourge",
+      "infirmity",
+      "ivth",
+      "implants",
+      "minors",
+      "confines",
+      "smuggling",
+      "psychological",
+      "breast",
+      "perpetrated",
+      "motivation",
+      "implantable",
+      "fostered",
+      "ngos",
+      "curbing",
+      "violence",
+      "reclassification",
+      "multidisciplinary",
+      "mental",
+      "sexual",
+      "ideas",
+      "palermo",
+      "iib",
+      "essence",
+      "migrants",
+      "disseminating",
+      "injuries",
+      "dignity"
+    ],
+    "prompt_length": 1712,
+    "category": "2816 demography and population"
+  }
+}

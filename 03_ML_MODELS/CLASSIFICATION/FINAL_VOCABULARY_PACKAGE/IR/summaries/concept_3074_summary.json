@@ -1,0 +1,63 @@
+{
+  "concept_id": "3074",
+  "concept_data": {
+    "title": "humanitarian assistance",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": true,
+    "preferred_term": "humanitarian aid",
+    "relation_type": "USE"
+  },
+  "summary": "Humanitarian assistance, often referred to as humanitarian aid, is a critical component of the EU's cooperation policy aimed at addressing the needs of uprooted civilians affected by brutal conflicts and natural disasters. The EU resolutely supports initiatives that facilitate the reintegration of displaced populations, including returnees and stateless individuals, through various programs. This includes the handover of resources to NGOs and the provision of unimpeded access to affected regions, such as Darfur and Sudan. The EU's engagement often involves modernised frameworks like the EDF and Athena missions, which address the aspirations of communities impacted by violence and promote stability amidst ongoing wars.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:50:42.371626",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 961,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 192,
+      "selected_avg_freq": 80.92666666666666
+    },
+    "related_words": [
+      "imporation",
+      "fac",
+      "reintegrate",
+      "organges",
+      "théosophique",
+      "afism",
+      "sangaris",
+      "eccas",
+      "foc",
+      "uprooted",
+      "unimpeded",
+      "resolutely",
+      "ocha",
+      "nip",
+      "sudanese",
+      "rehouse",
+      "handover",
+      "displacements",
+      "demobilized",
+      "charcoal",
+      "ordre",
+      "aspirations",
+      "libyan",
+      "wars",
+      "eusec",
+      "returnees",
+      "soldiers",
+      "decommitted",
+      "civilians",
+      "stateless"
+    ],
+    "prompt_length": 1682,
+    "category": "0811 cooperation policy"
+  }
+}

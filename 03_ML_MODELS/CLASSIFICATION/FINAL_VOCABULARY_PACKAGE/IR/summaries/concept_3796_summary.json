@@ -1,0 +1,63 @@
+{
+  "concept_id": "3796",
+  "concept_data": {
+    "title": "biotechnology-based industry",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "bio-industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"biotechnology-based industry,\" commonly referred to as \"bio-industry,\" encompasses sectors leveraging biological processes for sustainable production, particularly in biofuels and bioenergy. In the EU regulatory framework, this industry is pivotal for achieving carbon savings and tackling greenhouse gas emissions. Initiatives like Bonsucro and ISCC exemplify partnerships aimed at ensuring sustainability and auditing practices within biofuel production. The nascent bioethanol and bioliquids markets demonstrate the strength of methodological approaches to enhance efficiency. However, challenges such as geographic fragmentation and unreasonable regulatory hurdles persist. The Horizon 2020 program aims to leverage innovations in biomass and biofuel technologies, aligning with societal goals for optimal environmental outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:30:29.330088",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 324,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1082,
+      "selected_avg_freq": 483.55333333333334
+    },
+    "related_words": [
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "greenergy",
+      "abengoa",
+      "rbsa",
+      "roundtable",
+      "bbi",
+      "nascent",
+      "bioenergy",
+      "bioliquids",
+      "leverage",
+      "bioethanol",
+      "biofuels",
+      "societal",
+      "biofuel",
+      "horizon",
+      "biomass",
+      "methodological",
+      "unreasonable",
+      "brazilian",
+      "fragmentation",
+      "bio",
+      "diesel",
+      "tackle",
+      "partnerships",
+      "auditing",
+      "petrol",
+      "genetically",
+      "saving"
+    ],
+    "prompt_length": 1740,
+    "category": "6411 technology and technical regulations"
+  }
+}

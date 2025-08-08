@@ -1,0 +1,63 @@
+{
+  "concept_id": "695",
+  "concept_data": {
+    "title": "election",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"election\" within EU legal and regulatory frameworks pertains to the processes of electing representatives and the democratization of governance. Elections are critical for reinforcing democratic principles and ensuring that governments are entrusted with the mandate of the people. The EU supports electoral processes through various resolutions, encouraging member states and associated countries, such as those in the Cotonou Partnership, to uphold democratic standards. In contexts like Haiti, where humanitarian crises may breach electoral integrity, the EU's mission includes reactivation of democratic institutions. Strengthening electoral frameworks is essential for gradual democratization and addressing issues like poverty and governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:38:54.949175",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 126,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 126,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1585.0555555555557
+    },
+    "related_words": [
+      "electing",
+      "reactivation",
+      "democratization",
+      "deserve",
+      "democratisation",
+      "oas",
+      "haitian",
+      "haiti",
+      "electoral",
+      "upheld",
+      "breached",
+      "elected",
+      "cotonou",
+      "humanitarian",
+      "poverty",
+      "institutes",
+      "american",
+      "fight",
+      "explained",
+      "reinforced",
+      "resolutions",
+      "occasion",
+      "ministers",
+      "president",
+      "lisbon",
+      "concluding",
+      "acp",
+      "encouraging",
+      "entrusted",
+      "conditional"
+    ],
+    "prompt_length": 1718,
+    "category": "0416 electoral procedure and voting"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5885",
+  "concept_data": {
+    "title": "secretariat of an Institution",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"secretariat of an Institution\" within the EU framework serves as a vital administrative body, entrusted with secretarial duties that include managing appointments, delegating responsibilities, and facilitating communication among various entities. This body handles the recruitment of staff, including probationers and contractors, and oversees their remuneration, emoluments, and pensions. The secretariat also plays a crucial role in translating and interpreting documents, ensuring that all delegations can cope with the linguistic diversity inherent in EU operations. By integrating various functions, the secretariat supports the presidency and judges in their roles, thereby reinforcing the institution's operational efficiency and neutrality.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:36:14.147150",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 332,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1014,
+      "selected_avg_freq": 421.7866666666667
+    },
+    "related_words": [
+      "iaa",
+      "detachment",
+      "trumpf",
+      "relinquish",
+      "probationer",
+      "probationary",
+      "seconding",
+      "laissez",
+      "passer",
+      "gsc",
+      "gpa",
+      "secretarial",
+      "recruited",
+      "translating",
+      "secondment",
+      "jürgen",
+      "delegating",
+      "registrar",
+      "appointments",
+      "advocates",
+      "deputy",
+      "entrusts",
+      "emoluments",
+      "interpreting",
+      "judges",
+      "contractors",
+      "subsistence",
+      "delegations",
+      "entrust",
+      "diplomas"
+    ],
+    "prompt_length": 1747,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "218",
+  "concept_data": {
+    "title": "military cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Military cooperation within the EU framework encompasses collaborative efforts among member states and third countries to enhance security and defense capabilities. This multidimensional approach is exemplified by missions like EUTM and AMISOM, which aim to train local forces in regions such as the Sahel and Chad. Initiatives like Eurofor and the deployment of soldiers in operations such as UNIFIL and Sangaris illustrate the EU's commitment to addressing security challenges. The legal basis for military cooperation includes tasking and timeframes established by regulatory frameworks, ensuring disciplined coordination. Furthermore, cooperation extends to coastguard missions and support for operations in conflict zones like Bangui and Kivu, where the EU plays a pivotal role in stabilizing regions affected by militias and unrest.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:52:48.742265",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 909,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 121,
+      "selected_avg_freq": 48.013333333333335
+    },
+    "related_words": [
+      "eurofor",
+      "minusca",
+      "bangui",
+      "trajkovski",
+      "snsf",
+      "disciplined",
+      "acc",
+      "acmc",
+      "amelineau",
+      "billard",
+      "afism",
+      "sangaris",
+      "eccas",
+      "foc",
+      "unifil",
+      "kivu",
+      "unamid",
+      "torben",
+      "brylle",
+      "malian",
+      "amis",
+      "handover",
+      "multidimensional",
+      "coastguard",
+      "ituri",
+      "ivorian",
+      "deploring",
+      "militias",
+      "toa",
+      "commended"
+    ],
+    "prompt_length": 1613,
+    "category": "0811 cooperation policy"
+  }
+}

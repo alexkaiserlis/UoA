@@ -1,0 +1,63 @@
+{
+  "concept_id": "4812",
+  "concept_data": {
+    "title": "World Bank Group",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "World Bank",
+    "relation_type": "USE"
+  },
+  "summary": "The \"World Bank Group,\" often redirected to the preferred term \"World Bank,\" plays a crucial role in EU legal and regulatory frameworks, particularly in addressing global economic instability. It devotes resources to support privatization and reconstruction efforts in developing nations, often negotiating loan agreements that complement EU strategies for macroeconomic stability. The Group's initiatives, such as the PHARE and TACIS programs, aim to liberalize markets and accelerate reforms, ensuring genuine progress in sectors like electricity generation. However, challenges remain, including managing residual liabilities and addressing the precarious nature of borrowings, which can jeopardize long-term sustainability and pricing strategies in member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:26:29.884441",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 256,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1456,
+      "selected_avg_freq": 656.48
+    },
+    "related_words": [
+      "rbmk",
+      "vver",
+      "devotes",
+      "instability",
+      "borrowings",
+      "liberalize",
+      "reactors",
+      "tacis",
+      "subscribe",
+      "privatization",
+      "shut",
+      "unsafe",
+      "phare",
+      "viewed",
+      "precarious",
+      "imf",
+      "macro",
+      "noting",
+      "donors",
+      "saving",
+      "reconstruction",
+      "vienna",
+      "soviet",
+      "strategies",
+      "pricing",
+      "reforms",
+      "sure",
+      "stations",
+      "genuine",
+      "accelerate"
+    ],
+    "prompt_length": 1680,
+    "category": "7606 United Nations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2867",
+  "concept_data": {
+    "title": "request for political asylum",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "political asylum",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"request for political asylum,\" redirected to the preferred term \"political asylum,\" pertains to international law and is crucial within the EU's legal framework. Political asylum allows individuals, particularly Palestinians and others facing persecution, to seek refuge in EU territory. The EU's Justice and Home Affairs (JHA) policies prioritize the reception and protection of asylum seekers, laying out instruments for evaluation and monitoring of their status. Resolutions and reports guide the practical implementation of asylum policies, ensuring cooperation among member states. The validity of these requests is assessed based on national interests and the future of asylum policies, reflecting the EU's commitment to human rights and justice.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:12:55.773204",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1897.1298701298701
+    },
+    "related_words": [
+      "palestinians",
+      "lessons",
+      "achievements",
+      "asylum",
+      "reception",
+      "reveal",
+      "stay",
+      "calling",
+      "jha",
+      "resolutions",
+      "home",
+      "permits",
+      "cfsp",
+      "useful",
+      "affairs",
+      "priorities",
+      "fields",
+      "priority",
+      "justice",
+      "preparation",
+      "practical",
+      "validity",
+      "considers",
+      "evaluation",
+      "resolution",
+      "temporary",
+      "matter",
+      "instruments",
+      "extension",
+      "territory"
+    ],
+    "prompt_length": 1699,
+    "category": "1231 international law"
+  }
+}

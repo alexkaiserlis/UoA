@@ -1,0 +1,26 @@
+{
+  "concept_id": "1323",
+  "concept_data": {
+    "title": "capital gains tax",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Capital gains tax (CGT) refers to the taxation imposed on the profit realized from the sale of non-inventory assets, such as stocks, bonds, and real estate, within the European Union. This tax is a critical component of national tax systems and varies significantly among member states, reflecting differing regulatory approaches to taxation. The EU encourages harmonization of tax policies to prevent tax evasion and ensure fair competition. While the EU does not impose a uniform capital gains tax, it provides a framework for cooperation and information exchange among member states, facilitating compliance and enforcement of tax obligations related to capital gains.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:50:53.051093",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1165,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2496",
+  "concept_data": {
+    "title": "housing policy",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Housing policy within the EU framework addresses the socio-economic integration of marginalized groups, including the Roma, through targeted interventions aimed at desegregation and enhancing living conditions. These policies focus on urban and rural housing, ensuring that all people, regardless of their socio-economic status, have access to adequate housing. The EU emphasizes the importance of cohesion and integration, aiming to replace deteriorating buildings with newly constructed, programmed housing that serves the needs of poor and threatened communities. By simplifying eligibility parameters and fostering sharing mechanisms, the EU seeks to combat exclusion and promote ordinary living standards for all citizens, thereby reinforcing social stability and equality.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:49:38.795201",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 168,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 3308,
+      "selected_avg_freq": 1447.1266666666668
+    },
+    "related_words": [
+      "roma",
+      "desegregation",
+      "marginalised",
+      "programmed",
+      "axis",
+      "segregation",
+      "renovation",
+      "focused",
+      "urban",
+      "housing",
+      "reiterated",
+      "interventions",
+      "constructed",
+      "serving",
+      "decisive",
+      "buildings",
+      "experiencing",
+      "socio",
+      "poor",
+      "threatened",
+      "enhancing",
+      "acceded",
+      "sharing",
+      "newly",
+      "regardless",
+      "extremely",
+      "parameters",
+      "education",
+      "disruption",
+      "deterioration"
+    ],
+    "prompt_length": 1712,
+    "category": "2846 construction and town planning"
+  }
+}

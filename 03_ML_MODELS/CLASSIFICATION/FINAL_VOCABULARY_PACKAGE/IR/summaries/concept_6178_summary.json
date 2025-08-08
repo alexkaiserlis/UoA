@@ -1,0 +1,26 @@
+{
+  "concept_id": "6178",
+  "concept_data": {
+    "title": "extranet",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"extranet\" refers to a secure network that allows controlled access to specific external users, facilitating communication and collaboration beyond an organization's internal systems. In the context of EU legal and regulatory frameworks, extranets are often employed to enhance transparency and efficiency in the exchange of information among member states, institutions, and stakeholders. They support compliance with various directives by ensuring that relevant data is readily accessible to authorized parties while maintaining stringent security protocols. This concept is integral to the digital transformation of EU governance, enabling streamlined processes and fostering cooperation across borders.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:00:39.744032",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1162,
+    "category": "3226 communications"
+  }
+}

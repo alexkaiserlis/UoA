@@ -1,0 +1,63 @@
+{
+  "concept_id": "5595",
+  "concept_data": {
+    "title": "personal data",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"personal data\" encompasses any information relating to an identified or identifiable individual, crucial in EU legal frameworks like the General Data Protection Regulation (GDPR). This regulation aims to protect datos personales, ensuring their processing aligns with principles of finality and consent. Knowledgeable Data Protection Officers (DPOs) oversee compliance, particularly in multisectoral contexts. The regulation also addresses issues of unsolicited data, malicious defamation, and falsehoods, emphasizing the need for accountability. In jurisdictions like Andorran and cantonal systems, the inscription of personal data must adhere to specific leyes, safeguarding individual rights against disqualification and ensuring data is erased when no longer necessary.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:34:14.599731",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1730,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 41,
+      "selected_avg_freq": 18.526666666666667
+    },
+    "related_words": [
+      "journalistic",
+      "dpo",
+      "knowledgeable",
+      "cantonal",
+      "datos",
+      "personales",
+      "acción",
+      "doctrines",
+      "deeds",
+      "reguladora",
+      "urcdp",
+      "finality",
+      "deputies",
+      "federally",
+      "particularise",
+      "amicably",
+      "dominion",
+      "sever",
+      "monarchy",
+      "ammendement",
+      "predates",
+      "unsolicited",
+      "defamation",
+      "malicious",
+      "habeas",
+      "falsehood",
+      "aircarriers",
+      "archbishop",
+      "princes",
+      "constitució"
+    ],
+    "prompt_length": 1733,
+    "category": "3236 information technology and data processing"
+  }
+}

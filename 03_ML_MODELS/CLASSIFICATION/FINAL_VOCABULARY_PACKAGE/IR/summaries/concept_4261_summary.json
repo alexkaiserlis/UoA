@@ -1,0 +1,63 @@
+{
+  "concept_id": "4261",
+  "concept_data": {
+    "title": "tourist vehicle",
+    "category_code": "4816",
+    "category_name": "land transport",
+    "category_full": "4816 land transport",
+    "is_redirect": true,
+    "preferred_term": "motor car",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"tourist vehicle\" is redirected to the preferred term \"motor car.\" This classification encompasses various vehicles designed for passenger transport, incorporating advanced mechanical systems such as clutches, flywheels, and powertrains. The regulation of these vehicles involves considerations of safety (eSafety) and environmental impact, particularly regarding emissions of substances like ethyltertbutylether and methyltertbutylether. Additionally, the classification of tourist vehicles includes aspects related to aftermarket modifications and the use of separable components, such as folding benches and durable housings. Proper functioning relies on the interaction of parts like shafts and pulleys, ensuring efficient circulation and performance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:18:49.782732",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1379,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 63,
+      "selected_avg_freq": 25.446666666666665
+    },
+    "related_words": [
+      "spiders",
+      "flywheels",
+      "pulley",
+      "circultation",
+      "arches",
+      "dumpers",
+      "tyred",
+      "tipper",
+      "incorportating",
+      "clutch",
+      "actuated",
+      "mechnical",
+      "sturdily",
+      "leying",
+      "ethyltertbutylether",
+      "methyltertbutylether",
+      "tba",
+      "separable",
+      "aftermarket",
+      "classificaiton",
+      "esafety",
+      "srr",
+      "multipart",
+      "vehichles",
+      "degoration",
+      "pedal",
+      "encapsulation",
+      "grille",
+      "radiator",
+      "powertrain"
+    ],
+    "prompt_length": 1713,
+    "category": "4816 land transport"
+  }
+}

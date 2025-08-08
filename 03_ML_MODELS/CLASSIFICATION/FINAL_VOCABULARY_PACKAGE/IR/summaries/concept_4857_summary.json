@@ -1,0 +1,63 @@
+{
+  "concept_id": "4857",
+  "concept_data": {
+    "title": "fodder beet",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fodder beet\" pertains to the category of plant products within EU regulatory frameworks, specifically under the directives governing agricultural practices. Fodder beet (Beta vulgaris) is a significant species used for propagating fodder, particularly in the context of livestock feed. The European Union has established arrangements for the marketing of seeds and plants, including fodder beet, through various directives that set standards for trials and tests to ensure quality. These regulations, carried out by the Commission and Council, are crucial for maintaining agricultural productivity and community health. The official journal of the EU regularly publishes decisions regarding the continuation of these practices, reflecting ongoing developments in the sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:49.767985",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 49,
+      "requested_words": 150,
+      "min_frequency_found": 26,
+      "max_frequency_found": 4108,
+      "selected_words": 49,
+      "selected_min_freq": 26,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1836.6734693877552
+    },
+    "related_words": [
+      "gramineae",
+      "medicago",
+      "sativa",
+      "beta",
+      "comparative",
+      "vine",
+      "trials",
+      "beet",
+      "propagating",
+      "fodder",
+      "seeds",
+      "vegetable",
+      "seed",
+      "started",
+      "tests",
+      "continuation",
+      "plants",
+      "species",
+      "plant",
+      "continued",
+      "material",
+      "directives",
+      "marketing",
+      "sets",
+      "setting",
+      "agricultural",
+      "carried",
+      "years",
+      "arrangements",
+      "year"
+    ],
+    "prompt_length": 1623,
+    "category": "6006 plant product"
+  }
+}

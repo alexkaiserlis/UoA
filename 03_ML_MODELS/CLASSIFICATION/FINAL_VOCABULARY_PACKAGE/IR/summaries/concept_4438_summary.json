@@ -1,0 +1,63 @@
+{
+  "concept_id": "4438",
+  "concept_data": {
+    "title": "transport aircraft",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": true,
+    "preferred_term": "aircraft",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"transport aircraft,\" which redirects to the preferred term \"aircraft,\" encompasses a variety of vehicles utilized in air and space transport within the EU regulatory framework. This includes certificated models such as helicopters, gliders, and the noisiest or quietest aircraft, which are subject to stringent regulations. The EU's legal landscape mandates recertificated standards for these vehicles, ensuring compliance with safety protocols like the SAFA (Safety Assessment of Foreign Aircraft) program. Additionally, the concept involves considerations for evacuation procedures, ramp operations, and the use of inertial navigation systems. Regulatory bodies, including ECAC and CFMU, oversee the management of these aircraft, promoting efficient air traffic and addressing issues related to brominated compounds in aviation materials.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:41.827050",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1476,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 88,
+      "selected_avg_freq": 36.88666666666666
+    },
+    "related_words": [
+      "ela",
+      "quietest",
+      "tfts",
+      "mmel",
+      "recertificated",
+      "noisiest",
+      "certificated",
+      "aero",
+      "delco",
+      "inertial",
+      "pentabde",
+      "slides",
+      "conurbation",
+      "tegel",
+      "tempelhof",
+      "authoritzes",
+      "supervening",
+      "ncus",
+      "uncovering",
+      "crco",
+      "cfmu",
+      "ancat",
+      "apus",
+      "antonov",
+      "helicopter",
+      "kamov",
+      "gliders",
+      "brominated",
+      "rafts",
+      "safa"
+    ],
+    "prompt_length": 1647,
+    "category": "4826 air and space transport"
+  }
+}

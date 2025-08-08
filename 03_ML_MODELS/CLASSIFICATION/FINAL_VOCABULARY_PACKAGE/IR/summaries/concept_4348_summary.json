@@ -1,0 +1,63 @@
+{
+  "concept_id": "4348",
+  "concept_data": {
+    "title": "suspension of aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"suspension of aid\" in EU cooperation policy refers to the temporary halt of financial assistance to entities, such as distilleries or agricultural cooperatives, due to failures in compliance or performance. This regulatory measure can be triggered by various factors, including hostilities in regions like Afghanistan or Liberia, where aid is entangled in complex socio-economic landscapes. The decision to suspend aid is often outlined in legal documents, ensuring that the totality of obligations is heeded. Such suspensions can hamper the abilities of beneficiaries to repay investments, affecting their operational viability. The process is digitised for efficiency, allowing for speedy assessments and ensuring that aid aligns with EU objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:02:59.494576",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 815,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 314,
+      "selected_avg_freq": 151.02
+    },
+    "related_words": [
+      "landwirtschaftliche",
+      "verschlussbrennereien",
+      "abfindungsbrennereien",
+      "stoffbesitzer",
+      "obstgemeinschaftsbrennereien",
+      "elasticities",
+      "haarzuilens",
+      "heeded",
+      "digitisation",
+      "entangled",
+      "digitised",
+      "landscapes",
+      "numeric",
+      "hostilities",
+      "windfall",
+      "outlining",
+      "abilities",
+      "usama",
+      "qaida",
+      "scattered",
+      "bin",
+      "taliban",
+      "distillery",
+      "bonded",
+      "constitutive",
+      "radical",
+      "tec",
+      "orchards",
+      "sow",
+      "repay"
+    ],
+    "prompt_length": 1741,
+    "category": "0811 cooperation policy"
+  }
+}

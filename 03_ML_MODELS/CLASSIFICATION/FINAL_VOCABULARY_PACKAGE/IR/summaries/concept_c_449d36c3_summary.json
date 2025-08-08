@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_449d36c3",
+  "concept_data": {
+    "title": "recall of products",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": true,
+    "preferred_term": "product recall",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"product recall\" pertains to the process by which manufacturers or distributors withdraw unsafe or defective products from the market to protect consumer safety. In the EU regulatory framework, product recalls are governed by various directives and regulations that mandate swift action to mitigate risks associated with hazardous goods. This legal obligation ensures that consumers are informed and that appropriate measures are taken to rectify potential dangers. The term \"recall of products\" serves as a redirect to \"product recall,\" emphasizing the importance of compliance with safety standards and consumer protection laws within the EU context.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:09.617188",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1203,
+    "category": "2026 consumption"
+  }
+}

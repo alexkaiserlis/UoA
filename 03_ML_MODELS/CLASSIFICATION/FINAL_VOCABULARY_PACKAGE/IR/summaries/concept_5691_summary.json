@@ -1,0 +1,63 @@
+{
+  "concept_id": "5691",
+  "concept_data": {
+    "title": "courts and tribunals",
+    "category_code": "1226",
+    "category_name": "organisation of the legal system",
+    "category_full": "1226 organisation of the legal system",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"courts and tribunals\" within the EU legal system encompasses entities that hear and resolve disputes, ensuring the enforceability of judgments across member states. These bodies, governed by the TFEU, regulate jurisdictional matters, including cases involving claimants and defendants, such as matrimonial disputes or patent infringements. Courts must navigate complex issues like lis pendens and irreconcilable judgments, while ensuring predictability in legal outcomes. The enforceability of decisions is paramount, particularly in cross-border contexts, where individuals may be domiciled in different jurisdictions. Furthermore, the unified approach to appeals and redress mechanisms enhances the legal framework's integrity, benefiting children and spouses alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:45.449357",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 288,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1379,
+      "selected_avg_freq": 667.4866666666667
+    },
+    "related_words": [
+      "upc",
+      "lis",
+      "pendens",
+      "irreconcilable",
+      "enumerate",
+      "claimant",
+      "sued",
+      "defendant",
+      "domiciled",
+      "domicile",
+      "defendants",
+      "spouses",
+      "matrimonial",
+      "enforceability",
+      "enforceable",
+      "parental",
+      "redress",
+      "patent",
+      "appeals",
+      "predictability",
+      "unlike",
+      "unified",
+      "hear",
+      "enforced",
+      "teu",
+      "divisions",
+      "insignificant",
+      "acceding",
+      "courts",
+      "enforce"
+    ],
+    "prompt_length": 1703,
+    "category": "1226 organisation of the legal system"
+  }
+}

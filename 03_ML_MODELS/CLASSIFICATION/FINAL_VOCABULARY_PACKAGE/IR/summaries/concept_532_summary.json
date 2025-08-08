@@ -1,0 +1,63 @@
+{
+  "concept_id": "532",
+  "concept_data": {
+    "title": "right of establishment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"right of establishment\" within the EU legal framework enables individuals and businesses to engage in economic activities across member states. This right facilitates the sidestepping of national restrictions, promoting a competitive market environment. Professionals, including gynaecologists, obstetricians, and physiotherapists, can establish their practices, ensuring compliance with local regulations such as the gewerbeordnung. The concept also encompasses specialized fields like ophthalmology and endocrinology, where practitioners must adhere to specific qualifications, such as NVQs. Furthermore, the right supports diverse sectors, from bookkeeping to hairdressing, fostering economic development and allowing for the outsourcing of services, thereby enhancing the overall efficiency of the labor market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:25:28.476601",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1725,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 34,
+      "selected_avg_freq": 12.126666666666667
+    },
+    "related_words": [
+      "sid",
+      "izvozna",
+      "razvojna",
+      "landbrugs",
+      "realkreditfond",
+      "skibskreditfond",
+      "skibskredit",
+      "outsource",
+      "muslim",
+      "shariah",
+      "retrocession",
+      "specializations",
+      "gynaecology",
+      "obstetrics",
+      "ophthalmology",
+      "enterology",
+      "endocrinology",
+      "physiotherapy",
+      "radiology",
+      "geriatrics",
+      "radiotherpy",
+      "studios",
+      "nvqs",
+      "psychiatric",
+      "appropriats",
+      "prosthetist",
+      "therapist",
+      "beschäftigungs",
+      "arbeitstherapeut",
+      "ergotherapist"
+    ],
+    "prompt_length": 1826,
+    "category": "4406 employment"
+  }
+}

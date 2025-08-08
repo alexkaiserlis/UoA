@@ -1,0 +1,63 @@
+{
+  "concept_id": "1640",
+  "concept_data": {
+    "title": "patents licence",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"patents licence\" within EU legal and regulatory frameworks pertains to the rights granted to a licensee by a patentholder for the use of a patented invention. This arrangement is crucial in promoting innovation while ensuring compliance with anticompetitive regulations. Licensees may face assertions from opponents regarding the indispensability of the patented technology, especially in landdevelopment projects involving subsoil reclamation. In cases of disputes, appellants may summon witnesses to testify on the patentable aspects of the invention. Royalties and surcharges are often negotiated, reflecting the economic value of the licensed technology. The arrondissementsrechtbank may adjudicate conflicts arising from such licenses, ensuring fair treatment for all parties involved.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:54.351563",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 712,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 266,
+      "selected_avg_freq": 104.58666666666667
+    },
+    "related_words": [
+      "expection",
+      "appellants",
+      "bronbemaling",
+      "heidemaatschappij",
+      "grondboorbedrijf",
+      "reinders",
+      "wessemius",
+      "grondboorbedrijven",
+      "ruiter",
+      "boringen",
+      "bemalingen",
+      "lareco",
+      "grondboringen",
+      "steenbergen",
+      "klaaswaal",
+      "halfweg",
+      "haarlemmerliede",
+      "rhoon",
+      "patentable",
+      "hagendoorn",
+      "arrondissementsrechtbank",
+      "haitjema",
+      "dedemsvaart",
+      "witnesses",
+      "patentholder",
+      "indispensability",
+      "subsoil",
+      "trench",
+      "dug",
+      "prelimary"
+    ],
+    "prompt_length": 1786,
+    "category": "6416 research and intellectual property"
+  }
+}

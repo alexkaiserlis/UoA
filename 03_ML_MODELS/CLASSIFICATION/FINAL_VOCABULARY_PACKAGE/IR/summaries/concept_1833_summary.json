@@ -1,0 +1,63 @@
+{
+  "concept_id": "1833",
+  "concept_data": {
+    "title": "switch",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "electrical equipment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"switch\" is redirected to \"electrical equipment,\" encompassing a broad range of devices, including transducers and amplifiers. This category includes components like piezzo crystals and photoresistors, which are essential in various applications, from loudspeakers to advanced electronics. The regulation of such equipment addresses concerns related to safety and environmental impact, particularly regarding materials like beryllium and the processes of graphitisation and sputtering. Compliance with standards ensures that products, such as connectors and enclosures, do not pose publicized inconveniences or health risks. The CJEU and ECGA often interpret these regulations, ensuring adherence to EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:04:50.867951",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1714,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 53,
+      "selected_avg_freq": 22.686666666666667
+    },
+    "related_words": [
+      "piezzo",
+      "crytals",
+      "bhopal",
+      "snaigė",
+      "rotory",
+      "pzt",
+      "decabde",
+      "weldstone",
+      "swt",
+      "heg",
+      "nipples",
+      "wco",
+      "cjeu",
+      "ecga",
+      "durgapur",
+      "rothenbach",
+      "graphitisation",
+      "graphitised",
+      "covas",
+      "intravascular",
+      "neglecting",
+      "hindustan",
+      "beryllium",
+      "sputtering",
+      "tracks",
+      "rar",
+      "publicized",
+      "loudspeaker",
+      "firedamp",
+      "bangalore"
+    ],
+    "prompt_length": 1721,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

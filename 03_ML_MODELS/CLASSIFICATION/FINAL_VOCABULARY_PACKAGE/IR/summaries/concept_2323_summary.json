@@ -1,0 +1,63 @@
+{
+  "concept_id": "2323",
+  "concept_data": {
+    "title": "fishing season",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"fishing season\" concept within EU fisheries regulation delineates specific periods during which various species, such as bluefin tuna and other migratory fish, can be legally exploited. These seasons are critical for managing stocks, ensuring sustainable practices, and complying with international agreements like ICCAT. Regulatory frameworks dictate allowable catch limits (TACs) and the use of specialized gears, including driftnets and trawls, to minimize bycatch. The deployment of cameras on boats enhances monitoring, while algorithms assist in analyzing catch data. Additionally, measures such as caging and the cessation of fishing during spawning periods are implemented to protect vulnerable populations, thereby supporting the sovereignty of EU member states in fisheries management.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:18.442116",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 339,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 996,
+      "selected_avg_freq": 456.4066666666667
+    },
+    "related_words": [
+      "baitboats",
+      "trolling",
+      "scrs",
+      "caging",
+      "stereoscopic",
+      "cessations",
+      "algorithms",
+      "driftnets",
+      "cameras",
+      "camera",
+      "seiners",
+      "spawning",
+      "bluefin",
+      "purse",
+      "boats",
+      "iccat",
+      "kattegat",
+      "tunas",
+      "tac",
+      "skagerrak",
+      "tacs",
+      "seasons",
+      "trawlers",
+      "trawls",
+      "pelagic",
+      "gate",
+      "mesh",
+      "gears",
+      "deployed",
+      "beam"
+    ],
+    "prompt_length": 1620,
+    "category": "5641 fisheries"
+  }
+}

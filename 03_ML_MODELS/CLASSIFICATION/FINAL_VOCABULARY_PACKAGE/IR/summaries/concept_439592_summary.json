@@ -1,0 +1,54 @@
+{
+  "concept_id": "439592",
+  "concept_data": {
+    "title": "President of the European Council",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"President of the European Council\" is an official elected position within the European Union, established by the Treaty on European Union. The current president, Herman Van Rompuy, serves a term that typically comes to an end in November. This role involves leading the Council's meetings and representing the Union in external affairs. The president's responsibilities include facilitating decision-making processes and ensuring continuity in the Council's agenda. Each election cycle, the process of electing a new president is documented in the Official Journal, reflecting the importance of this position in shaping EU policy and governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:55:59.837747",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 21,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 21,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1991.047619047619
+    },
+    "related_words": [
+      "rompuy",
+      "electing",
+      "herman",
+      "elected",
+      "van",
+      "president",
+      "come",
+      "office",
+      "term",
+      "current",
+      "august",
+      "end",
+      "new",
+      "november",
+      "journal",
+      "official",
+      "union",
+      "decision",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1390,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

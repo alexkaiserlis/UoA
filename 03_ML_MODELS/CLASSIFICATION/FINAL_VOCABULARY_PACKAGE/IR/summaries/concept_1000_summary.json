@@ -1,0 +1,63 @@
+{
+  "concept_id": "1000",
+  "concept_data": {
+    "title": "financing",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"financing\" within EU legal and regulatory frameworks encompasses a biannual assessment of funding mechanisms that support various initiatives, including those aimed at addressing issues like racism and xenophobia. It rationalises the allocation of resources through subprogrammes that may involve foreigner refugees and persecuted groups, ensuring soundly managed borrowings. The European Union employs instruments such as the European Development Fund (EDF) and the European Investment Bank (EIB) to facilitate these processes. Furthermore, financing strategies are evolutionary, adapting to emerging challenges like addiction and environmental concerns, while also considering multidisciplinary approaches to enhance effectiveness. The integration of insights from various consultants and counterparts ensures that financing remains responsive to societal needs, including the reprocessing of matériel and addressing the impacts of crises like the eruption of conflict in regions such as Apulia or Lebanon.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:54.094005",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 135,
+    "vocabulary_stats": {
+      "total_related_words": 1090,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 184,
+      "selected_avg_freq": 81.05333333333333
+    },
+    "related_words": [
+      "biannual",
+      "unifil",
+      "rationalises",
+      "eruption",
+      "ceas",
+      "persecuted",
+      "foreigner",
+      "soundly",
+      "evolutionary",
+      "biannually",
+      "hippokrates",
+      "grotius",
+      "agis",
+      "falcone",
+      "pushing",
+      "curriculum",
+      "reimburses",
+      "oisin",
+      "subprogramme",
+      "etna",
+      "judiciary",
+      "weee",
+      "charity",
+      "euribor",
+      "matériel",
+      "hicp",
+      "emcdda",
+      "reprocessing",
+      "proxima",
+      "refugee"
+    ],
+    "prompt_length": 1676,
+    "category": "2426 financing and investment"
+  }
+}

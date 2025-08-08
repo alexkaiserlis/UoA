@@ -1,0 +1,63 @@
+{
+  "concept_id": "826",
+  "concept_data": {
+    "title": "supplementary benefit",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "aid to disadvantaged groups",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supplementary benefit,\" redirected to \"aid to disadvantaged groups,\" encompasses various EU regulatory frameworks aimed at addressing the needs of underprivileged populations. These benefits are designed to combat underconsumption and insecurity, particularly among schoolchildren and families facing cutbacks in essential resources. The EU mobilises charities and charitable organisations to optimize the distribution of necessities, ensuring that unsold goods are retrieved and repurposed for those in need. This intervention is underpinned by programs like FEAD, which stabilise access to durable goods. By streamlining processes and anticipating future challenges, the EU aims to positively impact disadvantaged groups, adapting to evolving socio-economic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:24.044374",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1039,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 137.54666666666665
+    },
+    "related_words": [
+      "underconsumption",
+      "interventon",
+      "underprivileged",
+      "cutback",
+      "fruition",
+      "charities",
+      "attacking",
+      "fead",
+      "necessities",
+      "reassigned",
+      "finishes",
+      "schoolchildren",
+      "charity",
+      "retrieve",
+      "optimize",
+      "penalise",
+      "contemplate",
+      "distributive",
+      "insecurity",
+      "depots",
+      "saved",
+      "trail",
+      "streamlined",
+      "underpinned",
+      "unsold",
+      "retrospectively",
+      "durable",
+      "programmed",
+      "renounce",
+      "unavailability"
+    ],
+    "prompt_length": 1780,
+    "category": "2836 social protection"
+  }
+}

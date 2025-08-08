@@ -1,0 +1,63 @@
+{
+  "concept_id": "55",
+  "concept_data": {
+    "title": "financial accounting",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial accounting within the EU regulatory framework encompasses the precise measurement and reporting of financial transactions, ensuring compliance with International Accounting Standards (IAS). This discipline addresses the recognition of assets and liabilities, including derivatives and their associated counterparty risks. It mandates disclosures that clarify the fair value of impaired assets and the implications of novation in OTC transactions. Errors, such as misprints or incorrect interpretations, necessitate corrective measures to maintain accurate reporting. The burden of ensuring that financial statements are compliant rests on entities, which must also consider the impact of hedging strategies and the discontinuation of certain accounting practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:17:59.272842",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 142,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 142,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1551.4577464788733
+    },
+    "related_words": [
+      "misprints",
+      "novated",
+      "novation",
+      "hedge",
+      "hedging",
+      "counterparty",
+      "otc",
+      "recoverable",
+      "disclosures",
+      "ias",
+      "impairment",
+      "counterparties",
+      "derivative",
+      "impaired",
+      "discontinuation",
+      "interpretations",
+      "clearing",
+      "commencement",
+      "derivatives",
+      "compliant",
+      "relief",
+      "classes",
+      "confirms",
+      "agree",
+      "errors",
+      "measurement",
+      "assets",
+      "transaction",
+      "versions",
+      "retroactively"
+    ],
+    "prompt_length": 1715,
+    "category": "4026 accounting"
+  }
+}

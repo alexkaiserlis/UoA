@@ -1,0 +1,63 @@
+{
+  "concept_id": "5945",
+  "concept_data": {
+    "title": "administrative supervision",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Administrative supervision within the EU context refers to the oversight exercised by designated administrators over public institutions and regulatory bodies. This includes the monitoring of compliance with applicable disposiciones and the lawfulness of actions taken by entities such as the Comissão de Valores Mobiliários (CVM) and other financial regulatory bodies like the CNBV. Administrators may conduct onsite and offsite evaluations, summon stakeholders, and inquire into filings to ensure adherence to standards. The supervisory framework often involves reprimands for contraventions and the issuance of injunctive measures. Institutions like the Dodd-Frank Act and Singaporean regulations also influence EU practices, endowing the supervisory bodies with necessary authority to uphold financial integrity biannually.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:38:55.640817",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 935,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 127,
+      "selected_avg_freq": 48.22666666666667
+    },
+    "related_words": [
+      "administrators",
+      "csa",
+      "cad",
+      "dros",
+      "bancaria",
+      "cnbv",
+      "disposiciones",
+      "aplicables",
+      "institutiones",
+      "calificadoras",
+      "comision",
+      "cnv",
+      "autopista",
+      "informacion",
+      "comissão",
+      "mobiliários",
+      "público",
+      "reprimand",
+      "injunctive",
+      "onsite",
+      "offsite",
+      "filings",
+      "dodd",
+      "nrsro",
+      "nrsros",
+      "soyabeans",
+      "valores",
+      "endows",
+      "ceo",
+      "dro"
+    ],
+    "prompt_length": 1664,
+    "category": "0436 executive power and public service"
+  }
+}

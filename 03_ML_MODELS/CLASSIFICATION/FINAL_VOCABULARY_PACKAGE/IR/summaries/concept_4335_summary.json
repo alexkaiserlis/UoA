@@ -1,0 +1,63 @@
+{
+  "concept_id": "4335",
+  "concept_data": {
+    "title": "over-exploitation of resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"over-exploitation of resources\" within EU environmental policy addresses the unsustainable extraction of marine species, such as scomber and sprat, leading to overfishing. Regulatory frameworks, including the Common Fisheries Policy (CFP), aim to prevent the depletion of fish stocks like herring and mackerel by implementing catch limits and audits to quantify totalizes of landed tonnage. Inconsistencies in reporting can result in deductions from allowable catches, while unutilised quotas may be withheld or rescheduled. The rationale for these measures is to ensure sustainable management of resources, corroborated by scientific assessments from bodies like ICES and NAFO, to protect biodiversity and support restitution efforts for overfished stocks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:24:48.180077",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 333,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 990,
+      "selected_avg_freq": 439.24666666666667
+    },
+    "related_words": [
+      "crosschecking",
+      "unutilised",
+      "totalizes",
+      "subtracted",
+      "spr",
+      "reschedule",
+      "scomber",
+      "scombrus",
+      "rays",
+      "skates",
+      "restitution",
+      "sprat",
+      "noticed",
+      "overfished",
+      "discards",
+      "cecaf",
+      "corroborated",
+      "overfishing",
+      "trips",
+      "redfish",
+      "rationale",
+      "quantified",
+      "northwest",
+      "nafo",
+      "landed",
+      "herring",
+      "mackerel",
+      "multiplying",
+      "iia",
+      "ices"
+    ],
+    "prompt_length": 1674,
+    "category": "5206 environmental policy"
+  }
+}

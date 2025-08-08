@@ -1,0 +1,63 @@
+{
+  "concept_id": "3634",
+  "concept_data": {
+    "title": "production statistics",
+    "category_code": "6406",
+    "category_name": "production",
+    "category_full": "6406 production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Production statistics\" within the EU legal and regulatory framework pertains to the systematic collection and analysis of data related to manufacturing and mining activities. This concept is crucial for gauging economic cycles and assessing the interdependence of various sectors, including quarrying and engineering. The documentation obtained through surveys serves to identify discrepancies and align production methods with established conventions. It presupposes a coherent approach to monitoring output, thereby enabling stakeholders to compare performance and address any disturbances. Furthermore, production statistics are essential for crafting informed resolutions and permits, ensuring that manufacturing activities are sustainable and effectively managed.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:57:39.630144",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2240,
+      "selected_avg_freq": 1008.44
+    },
+    "related_words": [
+      "occupying",
+      "gauging",
+      "prodcom",
+      "cpa",
+      "quarrying",
+      "obtainable",
+      "surveyed",
+      "recession",
+      "insufficiently",
+      "informal",
+      "interdependence",
+      "presupposes",
+      "compare",
+      "cycles",
+      "discrepancies",
+      "mining",
+      "engineering",
+      "craft",
+      "ought",
+      "afford",
+      "alignment",
+      "sheet",
+      "intensive",
+      "pertaining",
+      "conventions",
+      "involvement",
+      "resolutions",
+      "cycle",
+      "disturbances",
+      "coherent"
+    ],
+    "prompt_length": 1706,
+    "category": "6406 production"
+  }
+}

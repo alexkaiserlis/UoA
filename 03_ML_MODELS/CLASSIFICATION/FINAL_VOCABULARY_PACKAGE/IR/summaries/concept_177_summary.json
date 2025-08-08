@@ -1,0 +1,63 @@
+{
+  "concept_id": "177",
+  "concept_data": {
+    "title": "pollution control",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pollution control within the EU's environmental policy framework encompasses a range of regulatory measures aimed at mitigating the impacts of pollutants, such as hexachlorobutadiene and naphthalenes, on freshwaters and catchments. The EU employs methods for validating datasets to monitor exceedances of pollution thresholds, ensuring compliance with standards for oligotrophic, mesotrophic, and hypertrophic water bodies. Regulatory bodies may utilize prognosis models to assess the ecological status of lowlands and industrial sites, such as those operated by Arkema and Lukoil. Effective pollution control strategies also involve recalculations of emissions from various sources, including kerosenes and excreta, to achieve sustainable environmental outcomes.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:44:02.573721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 2132,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 13.36
+    },
+    "related_words": [
+      "brazing",
+      "jewelleries",
+      "ied",
+      "aberthaw",
+      "remarked",
+      "elv",
+      "hexachlorobutadiene",
+      "naphthalenes",
+      "mehtods",
+      "wast",
+      "obtaines",
+      "oligotrophic",
+      "mesotrophic",
+      "eutrophic",
+      "recalculations",
+      "eshaust",
+      "kerosenes",
+      "spilt",
+      "anwil",
+      "cuf",
+      "industriais",
+      "arkema",
+      "validating",
+      "freshwaters",
+      "catchments",
+      "imagined",
+      "eurowaternet",
+      "rep",
+      "lowlands",
+      "tpp"
+    ],
+    "prompt_length": 1677,
+    "category": "5206 environmental policy"
+  }
+}

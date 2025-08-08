@@ -1,0 +1,63 @@
+{
+  "concept_id": "3321",
+  "concept_data": {
+    "title": "division of labour",
+    "category_code": "4416",
+    "category_name": "organisation of work and working conditions",
+    "category_full": "4416 organisation of work and working conditions",
+    "is_redirect": true,
+    "preferred_term": "allocation of work",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"division of labour,\" redirected to \"allocation of work,\" pertains to the structured distribution of tasks within the EU regulatory framework. This allocation is essential for the effective management of resources and expertise across various sectors, including public health and foodstuffs. Legislation, such as directives established in the EEC framework, lays down rules for the examination and updating of operational requirements. Participating institutes undertake measures to ensure relevance and compliance with community standards. The division of labour addresses questions regarding the protection of health and safety, necessitating a coordinated approach to resource distribution and administrative assistance within the EU and EEA.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:03.518199",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 62,
+      "requested_words": 150,
+      "min_frequency_found": 168,
+      "max_frequency_found": 4108,
+      "selected_words": 62,
+      "selected_min_freq": 168,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2228.1451612903224
+    },
+    "related_words": [
+      "inventory",
+      "institutes",
+      "expertise",
+      "distributed",
+      "questions",
+      "updating",
+      "participating",
+      "foodstuffs",
+      "tasks",
+      "updated",
+      "distribution",
+      "six",
+      "undertaken",
+      "scientific",
+      "food",
+      "examination",
+      "assistance",
+      "resources",
+      "least",
+      "standing",
+      "legislation",
+      "health",
+      "operation",
+      "months",
+      "administrative",
+      "public",
+      "sector",
+      "relevance",
+      "eea",
+      "protection"
+    ],
+    "prompt_length": 1744,
+    "category": "4416 organisation of work and working conditions"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3865",
+  "concept_data": {
+    "title": "magnetic device",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "electro-magnetic equipment",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"magnetic device,\" redirected to \"electro-magnetic equipment,\" encompasses a range of technologies utilized in various EU regulatory frameworks. This includes devices such as magnetometers and superconducting sensors, which are essential in applications like MRI and NMR imaging. The legal context often addresses safety standards for devices emitting electromagnetic pulses (EMP) and their implications for public health, particularly concerning ingestible components and their interaction with biological systems, such as lungs and swallowing mechanisms. Furthermore, regulations may cover constructional aspects of electro-magnetic equipment, ensuring proper encapsulating and shielding to mitigate risks associated with oscillating impulses and radiated emissions. Compliance with standards set by organizations like ASTM is crucial for manufacturers of devices ranging from digitalizers to grasscutters, ensuring that innovations like pulspak and VPD technologies meet EU safety and performance criteria.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:14.653232",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 731,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 118,
+      "selected_avg_freq": 38.413333333333334
+    },
+    "related_words": [
+      "pulsar",
+      "emp",
+      "pulspak",
+      "vpd",
+      "risetime",
+      "summagraphics",
+      "digitalizer",
+      "scintrex",
+      "fluxgate",
+      "mfm",
+      "micropulsations",
+      "heterodyne",
+      "ăšlectronique",
+      "informatique",
+      "martyrs",
+      "oligoatomic",
+      "grasscutters",
+      "mowers",
+      "ithaco",
+      "dynatrac",
+      "ftms",
+      "perforation",
+      "lungs",
+      "swallowing",
+      "encapsulating",
+      "collaring",
+      "cpsc",
+      "constructional",
+      "ingestible",
+      "magnetometer"
+    ],
+    "prompt_length": 1753,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

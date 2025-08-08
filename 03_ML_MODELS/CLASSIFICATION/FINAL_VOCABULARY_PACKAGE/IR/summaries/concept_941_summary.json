@@ -1,0 +1,63 @@
+{
+  "concept_id": "941",
+  "concept_data": {
+    "title": "exploitation of resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"exploitation of resources\" within EU environmental policy encompasses the simultaneous extraction and production of natural resources, including hydrocarbons and marine biodiversity. This concept is crucial for balancing economic intentions with ecological sustainability. Regulatory frameworks, such as the Nagoya Protocol, aim to oversee the prospection and extraction activities of major players like Statoil, Gazprom, and ExxonMobil. These regulations address disquieting practices in benthic and pelagic environments, ensuring that resource exploitation does not lead to unsuitable ecological impacts. The EU's approach includes restructuring energy grids and supervising liquefied natural gas (LNG) operations, fostering responsible resource management while exploring new production segments.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:57:25.841684",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 544,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 450,
+      "selected_avg_freq": 203.52666666666667
+    },
+    "related_words": [
+      "cbd",
+      "simoultaneously",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "disquieting",
+      "nagoya",
+      "calorific",
+      "majors",
+      "exxonmobil",
+      "solomon",
+      "barrels",
+      "extracting",
+      "prospection",
+      "benthic",
+      "exploring",
+      "lng",
+      "vertically",
+      "contests",
+      "stream",
+      "algerian",
+      "liquefied",
+      "productions",
+      "super",
+      "demersal",
+      "cubic",
+      "balancing",
+      "big"
+    ],
+    "prompt_length": 1668,
+    "category": "5206 environmental policy"
+  }
+}

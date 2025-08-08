@@ -1,0 +1,63 @@
+{
+  "concept_id": "3732",
+  "concept_data": {
+    "title": "rice",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"rice\" (Eurovoc category 6006 plant product) encompasses various aspects of its production, localization, and market dynamics within the EU regulatory framework. Rice, particularly varieties such as riso and vialone, plays a crucial role in food security and community sustenance. The regulation outlines exigencies related to fluctuations in yield and the impact of heatwaves on production. Legal provisions address the disposal of by-products like fecula and the intricacies of husking processes. Furthermore, the EU monitors overconsumption and promotes sustainable practices in rice cultivation, ensuring that the market remains resilient against complications arising from climatic changes and trade dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:25:56.397883",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 3230,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 14,
+      "selected_avg_freq": 7.693333333333333
+    },
+    "related_words": [
+      "fecula",
+      "producion",
+      "dispoal",
+      "subtotal",
+      "dericed",
+      "cangiรงao",
+      "aitolia",
+      "akarnania",
+      "fthiotida",
+      "complication",
+      "minimally",
+      "rend",
+      "localization",
+      "ousting",
+      "baraggia",
+      "biellese",
+      "vercellese",
+      "subparagrah",
+      "vialone",
+      "veronese",
+      "gelatinisation",
+      "heatwave",
+      "prepartion",
+      "reclaiming",
+      "communitie",
+      "oulined",
+      "fluctations",
+      "exigencies",
+      "yiels",
+      "defiection"
+    ],
+    "prompt_length": 1659,
+    "category": "6006 plant product"
+  }
+}

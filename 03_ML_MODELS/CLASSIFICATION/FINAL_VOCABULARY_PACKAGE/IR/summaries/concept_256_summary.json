@@ -1,0 +1,63 @@
+{
+  "concept_id": "256",
+  "concept_data": {
+    "title": "European Court of Auditors",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Court of Auditors (ECA) plays a pivotal role in ensuring the financial accountability of the EU, as enshrined in its foundational treaties. Established to audit the EU's finances, the ECA assesses the legality and regularity of revenue and expenditure, providing essential reports that inform the European Parliament and Council. Notable figures such as Desmond and Morten have contributed to its operational framework, while legal scholars like Máire and Karlsson have analyzed its regulatory impact. The ECA's findings, often articulated by members like Jesus and Armindo, enhance transparency and foster trust in EU institutions, ensuring that public funds are managed effectively and efficiently.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:28:39.322292",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 238,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 1511,
+      "selected_avg_freq": 429.56
+    },
+    "related_words": [
+      "everard",
+      "castells",
+      "desmond",
+      "armindo",
+      "jesus",
+      "ribeiro",
+      "aunus",
+      "salmi",
+      "karlsson",
+      "fabra",
+      "máire",
+      "geoghegan",
+      "quinn",
+      "morten",
+      "levysohn",
+      "reynders",
+      "caldeira",
+      "tobisson",
+      "fernand",
+      "hebette",
+      "angioi",
+      "bernicot",
+      "colling",
+      "hedda",
+      "wedel",
+      "clemente",
+      "warberg",
+      "antoni",
+      "silva",
+      "antedate"
+    ],
+    "prompt_length": 1627,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

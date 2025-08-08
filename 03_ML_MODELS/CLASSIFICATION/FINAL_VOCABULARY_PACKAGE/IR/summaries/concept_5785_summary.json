@@ -1,0 +1,63 @@
+{
+  "concept_id": "5785",
+  "concept_data": {
+    "title": "nursing staff",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"nursing staff\" within the EU legal and regulatory framework encompasses professionals appointed to provide patient care, including paediatric and adult services. This category consists of various roles, with associations representing these experts, such as those nominated by governments or agencies. The appointment process involves evaluating candidates, with a focus on training and the renewal of credentials. In Spain, for instance, the office responsible for nursing staff may issue a bando to call for replacements or alternates. The role of nursing staff is crucial in the administration of medicinal products, ensuring the effective delivery of healthcare services across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:35.988550",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1497.2201834862385
+    },
+    "related_words": [
+      "honorio",
+      "bando",
+      "casado",
+      "jeanette",
+      "maslin",
+      "paloma",
+      "misericordia",
+      "pino",
+      "enrique",
+      "paediatric",
+      "díaz",
+      "hernández",
+      "davidson",
+      "anna",
+      "gómez",
+      "fernández",
+      "garcía",
+      "carlos",
+      "patient",
+      "nursing",
+      "mrs",
+      "appoints",
+      "alternates",
+      "professionals",
+      "alternate",
+      "nominated",
+      "medicines",
+      "candidates",
+      "del",
+      "expression"
+    ],
+    "prompt_length": 1651,
+    "category": "2841 health"
+  }
+}

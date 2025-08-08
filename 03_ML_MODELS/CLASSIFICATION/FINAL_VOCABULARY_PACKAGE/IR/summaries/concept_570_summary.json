@@ -1,0 +1,63 @@
+{
+  "concept_id": "570",
+  "concept_data": {
+    "title": "matrimonial property rights",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "matrimonial law",
+    "relation_type": "USE"
+  },
+  "summary": "Matrimonial property rights, often addressed under the broader concept of matrimonial law, encompass the legal frameworks governing the property relations between spouses during and after marriage. This area of law is crucial for ensuring enforceability of rights and responsibilities, particularly in cases of marital breakdown, where courts may deal with issues of invalidity and redress. Various EU member states, including Slovakia, Estonia, and Malta, have specific treaties and concordats that enumerate the jurisdictional aspects of matrimonial property. The recognition and enforcement of judgments related to these rights are vital for protecting the interests of children and interested parties, ensuring that matrimonial agreements are both enforceable and adapted to the legal standards of each jurisdiction.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:43:37.497764",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 133,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 133,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1658.5037593984962
+    },
+    "related_words": [
+      "marriage",
+      "concordats",
+      "canonical",
+      "marriages",
+      "ecclesiastical",
+      "enumerate",
+      "holy",
+      "spouses",
+      "matrimonial",
+      "tribunals",
+      "enforceability",
+      "invalidity",
+      "enforceable",
+      "parental",
+      "redress",
+      "appeals",
+      "acceding",
+      "courts",
+      "judgments",
+      "children",
+      "mention",
+      "see",
+      "jurisdiction",
+      "judgment",
+      "deal",
+      "corresponds",
+      "qualified",
+      "treaties",
+      "slovakia",
+      "enforcement"
+    ],
+    "prompt_length": 1727,
+    "category": "2806 family"
+  }
+}

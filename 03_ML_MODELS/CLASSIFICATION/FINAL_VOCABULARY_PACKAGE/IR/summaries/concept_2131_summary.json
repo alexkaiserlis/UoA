@@ -1,0 +1,63 @@
+{
+  "concept_id": "2131",
+  "concept_data": {
+    "title": "olive-growing",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Olive-growing, classified under agricultural activity, is a vital sector within the EU, particularly in regions like Provence, Tuscany, and Umbria. This activity is subject to various regulations aimed at promoting sustainable practices and preserving the landscape. Exceptionally, olive groves can be reconstituted after frost damage, with detailed guidelines for replanting and transplantation of seedlings. The EU encourages interbranch cooperation to tally production averages and address issues such as erosion. Nurseries play a crucial role in supplying quality trees, while specific parcels may receive permission for tailored cultivation practices. Withholding support for non-compliance can penalise growers, ensuring adherence to standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:20:11.611240",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 741,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 213.34
+    },
+    "related_words": [
+      "exceptionnaly",
+      "sepember",
+      "protracted",
+      "commensurately",
+      "reconstitution",
+      "frosts",
+      "pressed",
+      "grove",
+      "frost",
+      "transplantation",
+      "reconstitute",
+      "interbranch",
+      "detailes",
+      "seedlings",
+      "groves",
+      "azur",
+      "alpes",
+      "languedoc",
+      "provence",
+      "umbria",
+      "withhold",
+      "tally",
+      "nurseries",
+      "roussillon",
+      "fly",
+      "substituting",
+      "liguria",
+      "tuscany",
+      "parcel",
+      "lazio"
+    ],
+    "prompt_length": 1693,
+    "category": "5631 agricultural activity"
+  }
+}

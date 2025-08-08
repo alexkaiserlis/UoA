@@ -1,0 +1,63 @@
+{
+  "concept_id": "5908",
+  "concept_data": {
+    "title": "transport statistics",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Transport statistics, as defined within the EU's transport policy framework, encompasses the systematic compilation and dissemination of data related to various transport modes, including railways, waterways, and airports. This domain adapts to the evolving needs of researchers and policymakers by ensuring that data is synchronized and classified effectively. By ascertaining variables such as load sizes and unloading practices, the statistics improve the navigability of transport systems. The EU collaborates with organizations like UNECE and ICAO to enhance the accuracy of these statistics, which are crucial for the coexistence of different transport modes and for exploiting the fullest potential of transport infrastructures.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:20:03.486728",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 499,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 682,
+      "selected_avg_freq": 317.1
+    },
+    "related_words": [
+      "nst",
+      "navigability",
+      "privately",
+      "synchronised",
+      "implicitly",
+      "synchronized",
+      "dispense",
+      "fullest",
+      "adapts",
+      "gibraltar",
+      "coexistence",
+      "disseminating",
+      "loads",
+      "researchers",
+      "train",
+      "railways",
+      "occasional",
+      "joining",
+      "ascertaining",
+      "renders",
+      "compile",
+      "unece",
+      "compiling",
+      "icao",
+      "disseminated",
+      "waterways",
+      "rev",
+      "classify",
+      "unloading",
+      "envisage"
+    ],
+    "prompt_length": 1672,
+    "category": "4806 transport policy"
+  }
+}

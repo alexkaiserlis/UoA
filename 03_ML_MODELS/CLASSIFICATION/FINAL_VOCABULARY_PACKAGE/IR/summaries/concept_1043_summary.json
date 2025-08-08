@@ -1,0 +1,63 @@
+{
+  "concept_id": "1043",
+  "concept_data": {
+    "title": "International Monetary Fund",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The International Monetary Fund (IMF) plays a crucial role in the macrofinancial stability of member states, particularly in times of economic shocks. It provides concessional financing through programs like the Extended Fund Facility (EFF) and the Stand-By Arrangement (SBA), which are instrumental in supporting the poorest nations, such as those in the Commonwealth and CIS. The IMF's efforts to liberalize economies and facilitate privatization are articulated through its policies, which emphasize pluralism and convertibility. By rescheduling undisbursed pledges and addressing issues of repayment, the IMF aims to reconstitute financial stability, thereby comforting nations facing economic instability.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:40:54.604564",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 735,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 255,
+      "selected_avg_freq": 100.68666666666667
+    },
+    "related_words": [
+      "preoccupying",
+      "pledges",
+      "concessionality",
+      "fsal",
+      "implented",
+      "bunching",
+      "undisbursed",
+      "courageous",
+      "comforting",
+      "sba",
+      "shocks",
+      "reap",
+      "eff",
+      "communist",
+      "worthiness",
+      "moldovan",
+      "pluralism",
+      "centred",
+      "sdr",
+      "concessional",
+      "convening",
+      "rescheduling",
+      "macrofinancial",
+      "pyramid",
+      "esaf",
+      "reconstitute",
+      "crucially",
+      "efsm",
+      "firmly",
+      "convertibility"
+    ],
+    "prompt_length": 1715,
+    "category": "7606 United Nations"
+  }
+}

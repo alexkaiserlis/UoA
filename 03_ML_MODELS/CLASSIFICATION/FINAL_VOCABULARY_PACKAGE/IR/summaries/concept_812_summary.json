@@ -1,0 +1,63 @@
+{
+  "concept_id": "812",
+  "concept_data": {
+    "title": "warehouse under customs control",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "customs warehouse",
+    "relation_type": "USE"
+  },
+  "summary": "A \"warehouse under customs control,\" commonly referred to as a \"customs warehouse,\" is a regulated facility where goods are stored without incurring import duties until they are despatched or disposed of. This arrangement alleviates financial burdens by allowing prefinancing of charges. Such warehouses, often located in outlying areas, must adhere to tighter regulations to prevent confiscation and ensure compliance with prohibitions. The owner of the goods can organize their storage in lots, filling gaps in inventory management. Customs officers oversee operations, ensuring that discrepancies are addressed and that goods are correctly declared. The system aims to facilitate quicker processing while maintaining security and control over imported items.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:36:37.808965",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 577,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 600,
+      "selected_avg_freq": 324.18666666666667
+    },
+    "related_words": [
+      "extinguished",
+      "incurrence",
+      "prefinanced",
+      "alleviation",
+      "silo",
+      "outlying",
+      "confiscation",
+      "tighter",
+      "despatched",
+      "ipso",
+      "prefinancing",
+      "alleviated",
+      "quicker",
+      "obtains",
+      "attaching",
+      "poseima",
+      "poseican",
+      "wrongly",
+      "insular",
+      "endorsement",
+      "fill",
+      "discrepancy",
+      "warehousing",
+      "boned",
+      "facto",
+      "organize",
+      "inward",
+      "warehouses",
+      "dispose",
+      "officer"
+    ],
+    "prompt_length": 1707,
+    "category": "2011 tariff policy"
+  }
+}

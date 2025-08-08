@@ -1,0 +1,63 @@
+{
+  "concept_id": "305",
+  "concept_data": {
+    "title": "Crete",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Crete, a significant region of Greece, is recognized within EU legal and regulatory frameworks, particularly concerning the protection of geographical indications (PDO) for foodstuffs. The island's unique ecosystems host various organisms, including the harmful cryphonectria parasitica, which poses threats to local wood and plant species. Regulatory documents often reference Crete in relation to protective zones aimed at preventing the spread of such organisms. The nomenclature and codes associated with Crete's agricultural products are crucial for maintaining their status in combined schemes. Previous objections to designations have led to adaptations in the register, ensuring that Crete’s rich biodiversity and heritage are duly recognized and preserved.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:29:15.785605",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1735.4188034188035
+    },
+    "related_words": [
+      "μεσσαρά",
+      "messara",
+      "cryphonectria",
+      "parasitica",
+      "murrill",
+      "barr",
+      "lesvos",
+      "burr",
+      "winsl",
+      "erwinia",
+      "amylovora",
+      "crete",
+      "pdo",
+      "organism",
+      "wood",
+      "obsolete",
+      "designations",
+      "organisms",
+      "objection",
+      "harmful",
+      "showing",
+      "zone",
+      "zones",
+      "spread",
+      "indications",
+      "protected",
+      "protective",
+      "foodstuffs",
+      "references",
+      "entering"
+    ],
+    "prompt_length": 1643,
+    "category": "7211 regions of EU Member States"
+  }
+}

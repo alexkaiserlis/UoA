@@ -1,0 +1,63 @@
+{
+  "concept_id": "4505",
+  "concept_data": {
+    "title": "aviation",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": true,
+    "preferred_term": "air transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"aviation,\" redirected to \"air transport,\" encompasses the regulatory framework governing air and space transport within the EU. This domain involves complex rulemaking processes, addressing issues such as congested airspace and the need for efficient interlining between carriers. The EU's aviation regulations aim to ensure safety and efficiency, evidenced by initiatives like RVSM (Reduced Vertical Separation Minimum). Additionally, the integration of technologies, such as ENIAC and ARIANE, facilitates enhanced operational capabilities. The legal landscape also includes provisions for financial support and exportações, motivating stakeholders to comply with standards while resisting regulatory challenges. Overall, air transport is pivotal for connecting conurbations and fostering economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:41:53.634330",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2412,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 12.286666666666667
+    },
+    "related_words": [
+      "aktion",
+      "urgend",
+      "sygros",
+      "aăšriennes",
+      "ace",
+      "rulemaking",
+      "arithmetically",
+      "quietest",
+      "resisting",
+      "unescorted",
+      "escorted",
+      "humiliating",
+      "conurbation",
+      "tegel",
+      "tempelhof",
+      "logon",
+      "arre",
+      "congested",
+      "ariana",
+      "afghan",
+      "tivat",
+      "vaduz",
+      "supervening",
+      "kosovar",
+      "interlining",
+      "rvsm",
+      "evidencing",
+      "motivating",
+      "lib",
+      "aom"
+    ],
+    "prompt_length": 1675,
+    "category": "4826 air and space transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3150",
+  "concept_data": {
+    "title": "wildlife",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"wildlife\" within EU legal and regulatory frameworks encompasses the protection and management of various species, including rare taxa like phalacrocorax and ornithoptera alexandrae. Regulations aim to prevent the trapping of endangered species and the use of leghold traps, ensuring that wildlife populations, including butterflies and apes, are not subjected to harmful practices. The EU promotes biodiversity through initiatives that support repopulation efforts and the establishment of protected areas, such as aquaria and zoos, which accommodate various species. Additionally, the impact of pandemics, such as Ebola, on wildlife is a critical concern, necessitating epidemiologically informed policies. The taxonomic classification of species is vital for conservation efforts, while ranching practices must adhere to strict regulations to prevent the mutation of wildlife lineages. The involvement of stakeholders in symposiums, like those held in Buenos Aires, is essential for fostering collaboration and sharing best practices in wildlife conservation across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:32:31.345829",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 150,
+    "vocabulary_stats": {
+      "total_related_words": 890,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 190,
+      "selected_avg_freq": 70.60666666666667
+    },
+    "related_words": [
+      "phalacrocorax",
+      "shouldf",
+      "cyclamen",
+      "persicum",
+      "birdwing",
+      "butterflies",
+      "ranching",
+      "ranched",
+      "ornithoptera",
+      "alexandrae",
+      "repopulation",
+      "aquaria",
+      "lama",
+      "guanicoe",
+      "apes",
+      "haemaglutination",
+      "trapped",
+      "uncertified",
+      "heves",
+      "borsod",
+      "abaúj",
+      "zemplén",
+      "carbo",
+      "eifel",
+      "pandemics",
+      "zaire",
+      "ebola",
+      "butterfly",
+      "symposium",
+      "weybridge"
+    ],
+    "prompt_length": 1663,
+    "category": "5211 natural environment"
+  }
+}

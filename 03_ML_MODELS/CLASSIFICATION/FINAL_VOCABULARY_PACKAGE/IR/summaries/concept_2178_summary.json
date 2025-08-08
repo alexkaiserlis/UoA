@@ -1,0 +1,63 @@
+{
+  "concept_id": "2178",
+  "concept_data": {
+    "title": "organization of professions",
+    "category_code": "4426",
+    "category_name": "labour law and labour relations",
+    "category_full": "4426 labour law and labour relations",
+    "is_redirect": true,
+    "preferred_term": "organisation of professions",
+    "relation_type": "USE"
+  },
+  "summary": "The \"organisation of professions\" concept within EU labour law and relations focuses on the structured framework governing various professional sectors. This regulatory approach aims to ensure consistency and flexibility in professional practices, allowing organisations to adapt to changing economic conditions. It involves controlling elements such as funding and expenses, which are crucial for beneficiaries in rural areas. The concept also reflects the need for simplified procedures and deadlines, particularly in sectors like olive cultivation, where producers may be penalised for non-compliance. By linking professional organisations to environmental standards, the EU seeks to support sustainable practices while protecting workers' rights and enhancing overall productivity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:23:36.642702",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 165,
+      "requested_words": 150,
+      "min_frequency_found": 49,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 49,
+      "selected_max_freq": 3411,
+      "selected_avg_freq": 1559.9466666666667
+    },
+    "related_words": [
+      "fly",
+      "substituting",
+      "penalised",
+      "olives",
+      "subjects",
+      "eafrd",
+      "refused",
+      "cultivation",
+      "focus",
+      "controlling",
+      "similarly",
+      "olive",
+      "expenses",
+      "unchanged",
+      "advances",
+      "flexible",
+      "cmo",
+      "securities",
+      "funding",
+      "useful",
+      "restrict",
+      "rural",
+      "verified",
+      "beneficiaries",
+      "element",
+      "simplified",
+      "release",
+      "protected",
+      "withdrawn",
+      "remains"
+    ],
+    "prompt_length": 1739,
+    "category": "4426 labour law and labour relations"
+  }
+}

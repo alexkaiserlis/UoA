@@ -1,0 +1,63 @@
+{
+  "concept_id": "4262",
+  "concept_data": {
+    "title": "economic statistics",
+    "category_code": "1631",
+    "category_name": "economic analysis",
+    "category_full": "1631 economic analysis",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Economic statistics within the EU context encompass the systematic collection, aggregation, and disaggregation of macroeconomic data, crucial for informed decision-making in the eurozone. This domain includes the establishment of methodologies and classifications, such as NACE and CPA, which facilitate the analysis of wages, salaries, and other economic indicators. The periodicity of data compilation is emphasized by Eurostat, which ensures credible aggregates for member states, including Icelandic affiliates. Furthermore, the integration of SDMX syntax and metadata enhances the interchange of information, supporting the ECOFIN's prioritisation of economic stability. The cyclical nature of these statistics aids in predictive modeling and effective policy formulation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:34:57.182768",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 674,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 513,
+      "selected_avg_freq": 231.46666666666667
+    },
+    "related_words": [
+      "eurozone",
+      "interrelationship",
+      "migs",
+      "establishement",
+      "sdmx",
+      "syntax",
+      "digits",
+      "markup",
+      "predictive",
+      "disaggregation",
+      "cpa",
+      "connexion",
+      "icelandic",
+      "prioritisation",
+      "aggregates",
+      "affiliates",
+      "spheres",
+      "metadata",
+      "templates",
+      "eua",
+      "settlements",
+      "groupings",
+      "emu",
+      "emphasises",
+      "totals",
+      "periodicity",
+      "ecofin",
+      "rounded",
+      "domains",
+      "wages"
+    ],
+    "prompt_length": 1701,
+    "category": "1631 economic analysis"
+  }
+}

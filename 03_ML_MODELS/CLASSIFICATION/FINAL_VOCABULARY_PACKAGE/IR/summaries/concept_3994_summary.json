@@ -1,0 +1,26 @@
+{
+  "concept_id": "3994",
+  "concept_data": {
+    "title": "banking secrecy",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Banking secrecy refers to the legal framework that protects the confidentiality of client information held by financial institutions and credit entities within the EU. This concept is pivotal in maintaining trust in banking systems, as it safeguards sensitive data from unauthorized disclosure. However, banking secrecy is increasingly scrutinized in the context of regulatory compliance, particularly concerning anti-money laundering (AML) and combating the financing of terrorism (CFT). The EU has initiated various directives to balance the need for confidentiality with transparency obligations, thereby ensuring that banking secrecy does not facilitate illicit activities while still protecting legitimate client interests.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:23.052454",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1188,
+    "category": "2416 financial institutions and credit"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2702",
+  "concept_data": {
+    "title": "legislative technique",
+    "category_code": "0426",
+    "category_name": "parliamentary proceedings",
+    "category_full": "0426 parliamentary proceedings",
+    "is_redirect": true,
+    "preferred_term": "legislative procedure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"legislative technique,\" redirecting to \"legislative procedure,\" encompasses the structured methods employed within EU parliamentary proceedings to facilitate the formulation and adoption of legislation. This dynamic process involves various stages, including the drafting of proposals, negotiation, and the securing of assent from member states, such as Liechtenstein, Norway, and Switzerland. The procedure incorporates mechanisms for ratification and allocation of funds, addressing the needs of diverse sectors like banking and insurance. It ensures that the acquis communautaire is fulfilled through simplified procedures, allowing for the effective incorporation of new initiatives, while considering the views of all stakeholders, including the presidency and recipient nations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:31:59.098367",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 171,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3302,
+      "selected_avg_freq": 1500.74
+    },
+    "related_words": [
+      "lichtenstein",
+      "communautaire",
+      "oporto",
+      "bind",
+      "possesses",
+      "homogenous",
+      "rebates",
+      "phrase",
+      "dynamic",
+      "principality",
+      "presidency",
+      "mutatis",
+      "mutandis",
+      "banking",
+      "efta",
+      "deciding",
+      "assent",
+      "ratification",
+      "acquis",
+      "chosen",
+      "incorporate",
+      "president",
+      "insurance",
+      "signature",
+      "loans",
+      "recipient",
+      "secure",
+      "iceland",
+      "grants",
+      "coal"
+    ],
+    "prompt_length": 1712,
+    "category": "0426 parliamentary proceedings"
+  }
+}

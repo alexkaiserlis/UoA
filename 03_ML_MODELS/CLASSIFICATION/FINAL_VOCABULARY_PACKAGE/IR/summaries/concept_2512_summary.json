@@ -1,0 +1,63 @@
+{
+  "concept_id": "2512",
+  "concept_data": {
+    "title": "ports policy",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"ports policy\" within the EU framework encompasses regulations and methodologies guiding the management and operation of maritime and inland waterway transport. This policy aims to ensure safe and efficient port operations, with a focus on pollution prevention and the performance of ships. It includes parameters for inspections and assessments conducted by professional officers, who verify compliance with safety standards. The applicability of this policy extends to various regions, addressing constraints and enhancing the feasibility of port infrastructure development. Through memoranda of understanding (MOU) and detailed examinations, the EU fosters a comprehensive understanding of port dynamics, ensuring that all items related to maritime transport are effectively managed.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:45:45.901221",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 95,
+      "requested_words": 150,
+      "min_frequency_found": 30,
+      "max_frequency_found": 4108,
+      "selected_words": 95,
+      "selected_min_freq": 30,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1623.621052631579
+    },
+    "related_words": [
+      "coss",
+      "mou",
+      "detention",
+      "guided",
+      "officers",
+      "judgement",
+      "generic",
+      "officer",
+      "profile",
+      "seas",
+      "ship",
+      "expanded",
+      "item",
+      "depth",
+      "flag",
+      "paris",
+      "ships",
+      "feasibility",
+      "build",
+      "memorandum",
+      "applicability",
+      "port",
+      "parameters",
+      "expertise",
+      "items",
+      "pollution",
+      "methodology",
+      "understanding",
+      "constraints",
+      "safe"
+    ],
+    "prompt_length": 1688,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

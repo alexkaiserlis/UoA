@@ -1,0 +1,63 @@
+{
+  "concept_id": "3516",
+  "concept_data": {
+    "title": "return to the labour market",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "reintegration into working life",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"return to the labour market,\" redirected to \"reintegration into working life,\" encompasses initiatives aimed at supporting marginalized individuals, including those with mental health challenges, in re-entering employment. EU regulatory frameworks emphasize agile strategies to facilitate this reintegration, particularly in regions like Midtjylland and Portalegre, where local economies, such as automotive (e.g., PSA, Citroën) and textile (e.g., Tekstile), play a crucial role. Programs often involve collaboration with companies like Alcoa and Danfoss, fostering partnerships that enhance employability. By addressing barriers faced by diverse groups, including those from Arnsberg and Azambuja, the EU aims to create a more inclusive labour market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:45.315084",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 702,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 50,
+      "selected_avg_freq": 19.986666666666668
+    },
+    "related_words": [
+      "marginalized",
+      "mentally",
+      "salonica",
+      "snaigė",
+      "mura",
+      "arnsberg",
+      "cegielski",
+      "midtjylland",
+      "bortex",
+      "azambuja",
+      "alcoa",
+      "fujikura",
+      "portalegre",
+      "denmarksubmitted",
+      "delphi",
+      "alytaus",
+      "tekstile",
+      "podkarpackie",
+      "tomaso",
+      "automobili",
+      "psa",
+      "citroën",
+      "merloni",
+      "benq",
+      "perlos",
+      "germanysubmitted",
+      "automoción",
+      "danfoss",
+      "manroland",
+      "aldi"
+    ],
+    "prompt_length": 1702,
+    "category": "4406 employment"
+  }
+}

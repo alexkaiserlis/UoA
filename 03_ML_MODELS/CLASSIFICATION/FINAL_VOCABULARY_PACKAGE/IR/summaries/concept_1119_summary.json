@@ -1,0 +1,63 @@
+{
+  "concept_id": "1119",
+  "concept_data": {
+    "title": "fresh fruit",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"fresh fruit\" within EU legal and regulatory frameworks encompasses a wide range of plant products, including varieties such as jabłka, abricots, and avocados. Fresh fruit is subject to detailed regulations regarding quality, packaging, and admissible consignment standards. Approved weighers and packers must ensure that products like artichockes and plaintains meet normality criteria before dispatch. Regulatory bodies, including EACCE and NZFSA, oversee compliance to maintain the integrity of the market. Additionally, mutations and mixes of varietes must be documented, while supplementary controls are applied to ensure that all consignments remain undisturbed during transport.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:26:55.822505",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 1590,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 79,
+      "selected_avg_freq": 32.68666666666667
+    },
+    "related_words": [
+      "abricots",
+      "aprpoved",
+      "detalied",
+      "weighers",
+      "salicina",
+      "opend",
+      "plaintains",
+      "artichockes",
+      "excepted",
+      "ribbed",
+      "coveres",
+      "admissble",
+      "ppecb",
+      "memberships",
+      "etablissement",
+      "autonome",
+      "eacce",
+      "ppis",
+      "normality",
+      "packer",
+      "dispatcher",
+      "qualiservice",
+      "undisturbed",
+      "suppelementary",
+      "vegetalbes",
+      "jabłka",
+      "łąckie",
+      "kephis",
+      "senegalese",
+      "nzfsa"
+    ],
+    "prompt_length": 1662,
+    "category": "6006 plant product"
+  }
+}

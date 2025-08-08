@@ -1,0 +1,63 @@
+{
+  "concept_id": "3055",
+  "concept_data": {
+    "title": "roadside checks",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "police checks",
+    "relation_type": "USE"
+  },
+  "summary": "Roadside checks, also referred to as \"police checks,\" are regulatory measures employed across the EU to enhance public safety and security. These checks are intrusive by nature, often involving the screening of vehicles and passengers for concealed items, such as explosives or improvised devices. Law enforcement agencies may deploy portable equipment to trace liquids, gels, and aerosols, ensuring compliance with safety regulations. The checks aim to minimize risks posed by terrorists while balancing individual liberty and dignity. Additionally, they may involve inspecting baggage and personal items, including headgear and prostheses, to ensure operability and safety. The legal framework governing these checks is designed to refine procedures and enhance cooperation among member states, ensuring efficient and effective enforcement.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:00:18.579732",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 437,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 655,
+      "selected_avg_freq": 253.96666666666667
+    },
+    "related_words": [
+      "hhmd",
+      "headgear",
+      "prosthesis",
+      "intrusive",
+      "screened",
+      "lags",
+      "stebs",
+      "divesting",
+      "concealments",
+      "improvised",
+      "minimalising",
+      "wtmd",
+      "etd",
+      "tamper",
+      "casts",
+      "terrorists",
+      "plaster",
+      "searches",
+      "walk",
+      "aerosols",
+      "liberty",
+      "religion",
+      "addenda",
+      "gels",
+      "operability",
+      "bureaux",
+      "trip",
+      "concealed",
+      "insurers",
+      "refine"
+    ],
+    "prompt_length": 1679,
+    "category": "0431 politics and public safety"
+  }
+}

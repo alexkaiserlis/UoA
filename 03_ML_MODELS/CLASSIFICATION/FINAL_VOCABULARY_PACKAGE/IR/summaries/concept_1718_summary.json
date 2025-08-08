@@ -1,0 +1,63 @@
+{
+  "concept_id": "1718",
+  "concept_data": {
+    "title": "machinery",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"machinery\" within EU legal and regulatory frameworks encompasses a wide array of mechanical devices, including those used in gardening, woodworking, and earthmoving. Regulations address safety standards for machinery, ensuring unobstructed operation and minimizing nuisances such as noisy malfunctions or ejected cuttings. Specific machinery types, like lawnmowers, shredders, and chippers, must comply with directives on PPE and arresters to prevent accidents. Additionally, the integration of attachments, such as ladders and chutes, is regulated to avoid hazards like slipping or tripping. The legal framework also considers the environmental impact of scrapping and demining machinery, ensuring compliance with sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:37:51.116158",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 701,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 105.94666666666667
+    },
+    "related_words": [
+      "multione",
+      "palù",
+      "grumolo",
+      "abbadesse",
+      "gardening",
+      "ejected",
+      "arrester",
+      "ladder",
+      "unobstructed",
+      "cage",
+      "malfunctions",
+      "noises",
+      "integrally",
+      "shredders",
+      "chippers",
+      "jammed",
+      "chute",
+      "landscaping",
+      "ride",
+      "fops",
+      "disabling",
+      "woodworking",
+      "demining",
+      "boring",
+      "arresters",
+      "blade",
+      "lawnmower",
+      "vicenza",
+      "ejection",
+      "tripping"
+    ],
+    "prompt_length": 1661,
+    "category": "6821 mechanical engineering"
+  }
+}

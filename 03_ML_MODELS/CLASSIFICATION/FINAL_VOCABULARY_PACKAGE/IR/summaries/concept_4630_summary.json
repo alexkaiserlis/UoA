@@ -1,0 +1,63 @@
+{
+  "concept_id": "4630",
+  "concept_data": {
+    "title": "utilisation of land",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "land use",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"utilisation of land,\" redirected to \"land use,\" encompasses the regulatory framework governing the cultivation of agricultural land within the EU. This includes provisions for the management of perennial crops, such as lavender and sage, and the cultivation of crops like sugarbeet and miscanthus. Legal documents address the practicality of land use, focusing on minimizing weeds and managing uncultivated areas. The EU's approach also considers meteorological factors, such as droughts and flooding, which can affect agricultural outputs. By reorganising land use practices, the EU aims to curtail environmental impacts while supporting collectors and claimants in agricultural sectors, ensuring a concordance between economic and ecological objectives.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:25:37.716864",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1126,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 178,
+      "selected_avg_freq": 84.58666666666667
+    },
+    "related_words": [
+      "lavender",
+      "lavandin",
+      "sage",
+      "provisin",
+      "redevelop",
+      "miscanthus",
+      "practicality",
+      "bdt",
+      "decoupling",
+      "droughts",
+      "tabular",
+      "sheltering",
+      "correspondent",
+      "concordance",
+      "claimant",
+      "graze",
+      "perfect",
+      "sanctioned",
+      "weeds",
+      "shredded",
+      "transcribe",
+      "collectors",
+      "uncultivated",
+      "flooded",
+      "orchard",
+      "minimizing",
+      "collector",
+      "xib",
+      "sinensis",
+      "perennial"
+    ],
+    "prompt_length": 1765,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

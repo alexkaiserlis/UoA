@@ -1,0 +1,63 @@
+{
+  "concept_id": "864",
+  "concept_data": {
+    "title": "regions of Spain",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"regions of Spain\" pertains to the administrative divisions recognized within EU legal and regulatory frameworks, encompassing areas such as Andalucía, Cataluña, and the Baleares. These regions, characterized by specific boundaries, play a crucial role in the implementation of EU policies, including agricultural aid and serosurveillance initiatives. For instance, the agricultural practices in regions like León and Vizcaya are influenced by EU guidance on sustainable farming, which encourages the cultivation of local products such as tomate and ficodindia. Furthermore, the regions are vital for ensuring compliance with regulations regarding geographical indications, as seen in the protection of products like torta and manzana. The diverse climatic conditions, including pluviometric variations, necessitate tailored approaches to resource management and agricultural support, ensuring that each region's unique characteristics are accounted for in EU legislation.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:50:28.166274",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 1071,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 128,
+      "selected_avg_freq": 48.093333333333334
+    },
+    "related_words": [
+      "boudaries",
+      "baleares",
+      "tomate",
+      "cañada",
+      "coruăąa",
+      "pontevedra",
+      "gudiance",
+      "beforeaccession",
+      "specificaid",
+      "leรณn",
+      "encourge",
+      "gaurantee",
+      "csfs",
+      "pluviometric",
+      "watering",
+      "pretuziano",
+      "teramane",
+      "torta",
+      "casar",
+      "manzana",
+      "girona",
+      "poma",
+      "lambmeat",
+      "inflicted",
+      "colline",
+      "agricultual",
+      "ficodindia",
+      "andalucia",
+      "serosurveillance",
+      "voivodship"
+    ],
+    "prompt_length": 1695,
+    "category": "7211 regions of EU Member States"
+  }
+}

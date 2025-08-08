@@ -1,0 +1,63 @@
+{
+  "concept_id": "3303",
+  "concept_data": {
+    "title": "motor vehicle insurance",
+    "category_code": "2431",
+    "category_name": "insurance",
+    "category_full": "2431 insurance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Motor vehicle insurance is a crucial aspect of EU regulatory frameworks, necessitating that insurers provide coverage to residents and travellers alike. This insurance aims to compensate victims of accidents, thereby addressing disparities in protection across member states. The concept presupposes that all vehicles crossing borders are insured, manifestly liberalizing the market. Addendums to policies may include specific conditions for injured parties, while bureaux facilitate the settling of claims. The reality of integration emphasizes the need for harmonized regulations, as accidents can impede the rights of insured individuals. Thus, the EU continually seeks to abolish barriers and ensure that all inhabitants are adequately protected.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:40.674194",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 319,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1142,
+      "selected_avg_freq": 500.2733333333333
+    },
+    "related_words": [
+      "dilatory",
+      "resides",
+      "appli",
+      "addendums",
+      "cation",
+      "insurer",
+      "addenda",
+      "bureaux",
+      "liberalize",
+      "injured",
+      "manifestly",
+      "insurers",
+      "card",
+      "insure",
+      "settling",
+      "insured",
+      "cards",
+      "necessitating",
+      "inhabitants",
+      "andorra",
+      "relaxation",
+      "presupposes",
+      "residing",
+      "basically",
+      "bureau",
+      "associate",
+      "travellers",
+      "travelling",
+      "victims",
+      "emphasized"
+    ],
+    "prompt_length": 1683,
+    "category": "2431 insurance"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3469",
+  "concept_data": {
+    "title": "pesticide residue",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Pesticide residue refers to the remnants of chemical substances, such as chloroxuron, methoxychlor, and mercurous compounds, that remain on agricultural products after pesticide application. In the EU, regulatory frameworks evaluate these residues to ensure they do not exceed finite safety limits, safeguarding public health and the environment. The evaluation process involves scientific assessments by bodies like JMPR, focusing on various substances, including cypermetrin and fenbutatinoxyde, across diverse crops like cucurbits and lupines. Legal measures address the risks posed by residues, including those from dioxathion and bromophos, ensuring compliance with standards that protect consumers from harmful effects, such as emetic reactions.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:35:00.176239",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1600,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 16,
+      "selected_avg_freq": 9.76
+    },
+    "related_words": [
+      "chloroxuron",
+      "ethane",
+      "methoxychlor",
+      "cartap",
+      "mercurous",
+      "calomel",
+      "alcoxyalkyl",
+      "aryl",
+      "dichloroethane",
+      "aobut",
+      "cypermetrin",
+      "fenbutatinoxyde",
+      "evalutation",
+      "dodine",
+      "dibromide",
+      "mevinphos",
+      "metsulfuron",
+      "omethoate",
+      "fenchlorphos",
+      "cucurbits",
+      "myclobutanyl",
+      "trimethylsulfonium",
+      "trifloxistrobin",
+      "lupines",
+      "chlorbenzilate",
+      "endosulphan",
+      "paraoxon",
+      "bromophos",
+      "dichlofluanid",
+      "dioxathion"
+    ],
+    "prompt_length": 1768,
+    "category": "5216 deterioration of the environment"
+  }
+}

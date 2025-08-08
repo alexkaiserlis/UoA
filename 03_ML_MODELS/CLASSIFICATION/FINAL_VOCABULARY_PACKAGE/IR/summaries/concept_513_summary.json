@@ -1,0 +1,63 @@
+{
+  "concept_id": "513",
+  "concept_data": {
+    "title": "right to information",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"right to information\" is a crucial aspect of EU rights and freedoms, reinforcing the principles of openness and transparency within institutions. It empowers citizens to gain cognisance of documents and papers, which may include sensitive or confidential materials, thereby justifying the need for disclosure. This right is particularly significant in the context of military and defence matters, where the seriousness of information can lead to a refusal of access if harm to national security is anticipated. The impetus for this right stems from treaties that advocate for closer scrutiny of governmental conduct, ensuring that the originator's confidence is balanced against the public's right to know. In moments of crisis, the declassification of reserved documents can strengthen democratic accountability, thereby fostering trust between councils and citizens.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:27:10.687733",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 179,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2836,
+      "selected_avg_freq": 1206.1866666666667
+    },
+    "related_words": [
+      "très",
+      "confidentiel",
+      "confident",
+      "cognisance",
+      "originator",
+      "scrutinising",
+      "declassified",
+      "birmingham",
+      "author",
+      "secret",
+      "papers",
+      "impetus",
+      "openness",
+      "edinburgh",
+      "prospective",
+      "councils",
+      "disclosed",
+      "helsinki",
+      "top",
+      "reinforcing",
+      "seriousness",
+      "refusal",
+      "harm",
+      "crucial",
+      "justifying",
+      "confidence",
+      "secretary",
+      "military",
+      "guaranteeing",
+      "confidentiality"
+    ],
+    "prompt_length": 1713,
+    "category": "1236 rights and freedoms"
+  }
+}

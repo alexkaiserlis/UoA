@@ -1,0 +1,63 @@
+{
+  "concept_id": "3946",
+  "concept_data": {
+    "title": "physics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "physical sciences",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"physics,\" redirected to the preferred term \"physical sciences,\" encompasses a broad spectrum of natural and applied sciences crucial for EU regulatory frameworks. It includes the study of particles, interactions, and phenomena such as condensation, cavitation, and the behavior of solids and surfaces under various conditions. Instruments like spectrophotometers and analyzers are employed to interpret data, including the behavior of ions and photons in multichannel systems. Understanding these principles is vital for developing regulations on environmental impacts, such as humidity and pollution, and for ensuring safety in technological applications, including biomechanical devices and projectors.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:07.868096",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 197,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2214,
+      "selected_avg_freq": 656.7466666666667
+    },
+    "related_words": [
+      "mee",
+      "condensation",
+      "multichanel",
+      "bombardment",
+      "amk",
+      "biomechanical",
+      "sportive",
+      "molten",
+      "incrustation",
+      "anaylzer",
+      "microcinematographic",
+      "projectors",
+      "photon",
+      "cavitation",
+      "tracor",
+      "nucleus",
+      "pye",
+      "unicam",
+      "nuclei",
+      "multichannel",
+      "foaming",
+      "infrared",
+      "cloud",
+      "spectrophotometer",
+      "oxford",
+      "shutter",
+      "perkin",
+      "elmer",
+      "spectral",
+      "slot"
+    ],
+    "prompt_length": 1718,
+    "category": "3606 natural and applied sciences"
+  }
+}

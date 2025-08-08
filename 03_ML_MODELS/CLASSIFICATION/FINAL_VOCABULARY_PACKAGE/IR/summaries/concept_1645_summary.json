@@ -1,0 +1,63 @@
+{
+  "concept_id": "1645",
+  "concept_data": {
+    "title": "transport licence",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"transport licence\" is a regulatory requirement within the EU's transport policy framework, essential for operators such as hauliers and coaches. This licence evidences compliance with safety and operational standards, motivating adherence to regulations governing suburban and seaway transport. It is crucial for facilitating tours and ticketing processes for tourists, ensuring that operators uphold the necessary qualifications, including instructor certifications for pilots and gliding activities. Legislators have established equivalencies to streamline the licensing process across member states, addressing the needs of diverse transport modes, from shuttle services to sailplane operations. The transport licence thus plays a pivotal role in maintaining safety and efficiency in European transport networks.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:19:25.768419",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1482,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 97,
+      "selected_avg_freq": 39.22
+    },
+    "related_words": [
+      "territority",
+      "seaway",
+      "reizen",
+      "tourists",
+      "vermaat",
+      "autobedrijf",
+      "ferne",
+      "suburban",
+      "rvsm",
+      "evidencing",
+      "motivating",
+      "ticketing",
+      "sailplane",
+      "gliding",
+      "bga",
+      "lapl",
+      "spl",
+      "examiner",
+      "europeans",
+      "fcl",
+      "instructor",
+      "shuttle",
+      "clarke",
+      "csts",
+      "nrvs",
+      "nrv",
+      "cst",
+      "equivalencies",
+      "liferafts",
+      "daylight"
+    ],
+    "prompt_length": 1618,
+    "category": "4806 transport policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "798",
+  "concept_data": {
+    "title": "scientific training",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "scientific education",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"scientific training,\" redirected to \"scientific education,\" encompasses the structured provision of knowledge and skills in various scientific disciplines within the EU. This educational framework is essential for establishing authorized departments and establishments that focus on research and the production of biological and chemical substances. It includes specific duties related to the import and export of scientific materials, ensuring compliance with customs regulations. The system provides reliefs and exemptions for educational activities, facilitating the admission of students into programs that are officially recognized. Such arrangements are crucial for fostering a public understanding of scientific principles, ultimately supporting economic development across the territory.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:33.558435",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 65,
+      "requested_words": 150,
+      "min_frequency_found": 69,
+      "max_frequency_found": 4108,
+      "selected_words": 65,
+      "selected_min_freq": 69,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2069.876923076923
+    },
+    "related_words": [
+      "reliefs",
+      "relief",
+      "biological",
+      "education",
+      "admission",
+      "departments",
+      "establishments",
+      "chemical",
+      "principal",
+      "officially",
+      "exclusively",
+      "substances",
+      "private",
+      "authorized",
+      "activity",
+      "research",
+      "duty",
+      "imported",
+      "obtained",
+      "duties",
+      "import",
+      "scientific",
+      "commercial",
+      "equivalent",
+      "customs",
+      "territory",
+      "drawn",
+      "setting",
+      "included",
+      "listed"
+    ],
+    "prompt_length": 1692,
+    "category": "3211 teaching"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2454",
+  "concept_data": {
+    "title": "European Union employment policy",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "EU employment policy",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Union employment policy,\" also referred to as \"EU employment policy,\" is a vital framework aimed at enhancing employability and addressing inequalities within the labor market. This policy underlines the importance of adaptability and flexicurity, promoting a responsive approach to demographic changes and macroeconomic imbalances. By collaborating with member states, the EU seeks to modernise employment practices, ensuring dignity for all workers. It encourages lifelong learning and the exchange of best practices, while also pinpointing the need for skilled labor in a diversifying economy. The policy aims to rationalise employment strategies, attract trained individuals, and explore innovative solutions to support the unemployed, thereby fostering synergy across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:18:12.936591",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 643,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 397,
+      "selected_avg_freq": 192.60666666666665
+    },
+    "related_words": [
+      "pinpointing",
+      "vitally",
+      "underlining",
+      "diversifying",
+      "flexicurity",
+      "impulse",
+      "responsive",
+      "employability",
+      "firmly",
+      "supportive",
+      "collaborate",
+      "stuttgart",
+      "roles",
+      "adaptable",
+      "disseminate",
+      "essen",
+      "adaptability",
+      "tertiary",
+      "inequalities",
+      "advising",
+      "dignity",
+      "lifelong",
+      "skilled",
+      "sex",
+      "headline",
+      "beijing",
+      "dublin",
+      "demographic",
+      "rationalising",
+      "paramount"
+    ],
+    "prompt_length": 1781,
+    "category": "4406 employment"
+  }
+}

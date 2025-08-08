@@ -1,0 +1,26 @@
+{
+  "concept_id": "2100",
+  "concept_data": {
+    "title": "non-competition clause",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A non-competition clause is a contractual provision that restricts an individual or entity from engaging in competitive activities within a specified timeframe and geographical area after the termination of a business relationship. In the context of EU competition law, such clauses must comply with regulations that prevent anti-competitive practices. The European Commission scrutinizes non-competition clauses to ensure they do not unduly restrict market entry or innovation. While they can protect legitimate business interests, excessive limitations may infringe upon free competition principles, thus necessitating careful legal assessment to balance protection and compliance with EU regulatory frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:11:29.303828",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1173,
+    "category": "4031 competition"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3332",
+  "concept_data": {
+    "title": "unemployment insurance",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Unemployment insurance is a crucial component of social protection within the EU, designed to support unemployed individuals and their families. This insurance scheme governs the provision of cash allowances to workers who have lost their jobs, ensuring a safety net during periods of unemployment. It covers various categories of employed persons, including temporary and migrant workers, and aims to supplement their living standards. The legal framework surrounding unemployment insurance also addresses issues of termination and benefits, providing a foundation for justice and correcting any inaccuracies in service delivery. Experts in the field continuously seek improvements to these schemes, ensuring they remain effective for all affected individuals.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:23:07.670203",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 135,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 135,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1824.0518518518518
+    },
+    "related_words": [
+      "inaccuracy",
+      "goes",
+      "migrant",
+      "unemployed",
+      "governs",
+      "sickness",
+      "immunities",
+      "families",
+      "privileges",
+      "foundation",
+      "deems",
+      "servants",
+      "unemployment",
+      "cash",
+      "moving",
+      "terminate",
+      "allowance",
+      "officials",
+      "family",
+      "insurance",
+      "termination",
+      "language",
+      "seek",
+      "correcting",
+      "staff",
+      "employed",
+      "living",
+      "identical",
+      "kind",
+      "workers"
+    ],
+    "prompt_length": 1679,
+    "category": "2836 social protection"
+  }
+}

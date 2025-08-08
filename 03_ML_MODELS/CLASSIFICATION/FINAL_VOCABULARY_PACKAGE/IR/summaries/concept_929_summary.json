@@ -1,0 +1,63 @@
+{
+  "concept_id": "929",
+  "concept_data": {
+    "title": "implementation of the budget",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"implementation of the budget\" in the EU context refers to the execution of financial plans, necessitating adherence to legal frameworks and regulatory guidelines. This process involves various themes, including the management of public funds, where auditors play a crucial role in ensuring credibility and identifying irregularities. The budget's execution is often monitored through systems like SISNET and SIRENE, which facilitate data sharing among member states. Challenges such as bankruptcies and negligence can lead to overpaid remunerations, necessitating a smoother recovery process. The implicit goal is to commit to transparency and accountability, thus preventing offences and ensuring that funds are not wrongly allocated or disappearing.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:29.868147",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 876,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 362,
+      "selected_avg_freq": 179.05333333333334
+    },
+    "related_words": [
+      "ecpi",
+      "agendas",
+      "sdr",
+      "sisnet",
+      "sirene",
+      "sincere",
+      "implicit",
+      "server",
+      "remunerations",
+      "bankruptcies",
+      "desk",
+      "ispa",
+      "refered",
+      "shifting",
+      "controller",
+      "rings",
+      "overpaid",
+      "disappearing",
+      "irrevocably",
+      "fault",
+      "smoother",
+      "addiction",
+      "themes",
+      "predict",
+      "deputy",
+      "mirror",
+      "simplifications",
+      "credibility",
+      "sis",
+      "prosecution"
+    ],
+    "prompt_length": 1671,
+    "category": "2441 budget"
+  }
+}

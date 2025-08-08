@@ -1,0 +1,63 @@
+{
+  "concept_id": "4425",
+  "concept_data": {
+    "title": "telecopy",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "facsimile",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"telecopy,\" redirecting to the preferred term \"facsimile,\" pertains to the transmission of documents via fax machines, which utilize thermal, ink, or laser printing technologies. In EU legal and regulatory contexts, facsimiles are often employed for compelling communications, particularly in contractual agreements and legal notifications. The use of faxes, including models from manufacturers like Philips and Mitsubishi, has been studied for its efficiency in document transfer, despite the discontinuation of some hardware. As industries evolve, the continual adaptation of facsimile technology is crucial, especially in jurisdictions such as Österreichische and Singapore, where compliance with regulatory standards is paramount.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:01:21.935659",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 666,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 403,
+      "selected_avg_freq": 212.95333333333335
+    },
+    "related_words": [
+      "facsimiles",
+      "jujo",
+      "kanzaki",
+      "tomoegawa",
+      "tray",
+      "ink",
+      "faxes",
+      "jumbo",
+      "suit",
+      "reels",
+      "exacerbated",
+      "print",
+      "österreichische",
+      "continual",
+      "mitsubishi",
+      "excepting",
+      "unsuccessful",
+      "compelling",
+      "coils",
+      "telefax",
+      "reconfirmed",
+      "philips",
+      "constructing",
+      "advising",
+      "depart",
+      "laser",
+      "jet",
+      "hardware",
+      "mills",
+      "possesses"
+    ],
+    "prompt_length": 1672,
+    "category": "3226 communications"
+  }
+}

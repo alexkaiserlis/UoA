@@ -1,0 +1,63 @@
+{
+  "concept_id": "3292",
+  "concept_data": {
+    "title": "optics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"optics\" encompasses a broad range of natural and applied sciences relevant to EU legal and regulatory frameworks. It includes specialized fields such as optronics and photomation, which are critical in developing advanced optical technologies. Regulations may address the use of aspherical lenses and the safety standards for devices utilizing halogens or flashlamps. Professionals like opticians and optometrists play a vital role in ensuring compliance with health regulations. The analysis of faults in optical systems, such as microscopes and cameras, is essential for reproducibility in scientific research. Additionally, the interaction of photons and excitons in materials like cristals can influence regulatory standards for electronic devices. Overall, optics is integral to various EU policies, particularly in innovation, health, and safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:22:22.113260",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 303,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 961,
+      "selected_avg_freq": 247.7
+    },
+    "related_words": [
+      "optronics",
+      "photomation",
+      "aspherical",
+      "adsorbates",
+      "cristals",
+      "technician",
+      "zubný",
+      "technik",
+      "optometrist",
+      "ortopædimekaniker",
+      "shoemaker",
+      "ortopædiskomager",
+      "leed",
+      "streak",
+      "quantex",
+      "chromatix",
+      "flashlamp",
+      "halogens",
+      "excitons",
+      "lem",
+      "sclerosis",
+      "oma",
+      "optic",
+      "auger",
+      "akashi",
+      "coll",
+      "photon",
+      "orthopaedic",
+      "gun",
+      "excitation"
+    ],
+    "prompt_length": 1676,
+    "category": "3606 natural and applied sciences"
+  }
+}

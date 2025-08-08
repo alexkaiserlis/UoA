@@ -1,0 +1,63 @@
+{
+  "concept_id": "402",
+  "concept_data": {
+    "title": "operational expenditure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Operational expenditure refers to the ongoing costs incurred by EU institutions in executing their functions, including the supervision of programs like the Common Security and Defence Policy (CSFP). These expenditures are crucial for rationalizing budgets and ensuring effective interventions, such as demining operations in Afghanistan or police training through EUPOL. By standardizing financial frameworks, the EU can stabilize its investments and chargeable activities, confirming the efficient use of resources. The emergence of new guidelines allows for the weighting of operational costs, ensuring that funds are allocated wherever they are most needed, thus completing the necessary balance in financial management and supporting various campaigns to eradicate issues like landmines.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:21:48.382248",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 499,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 737,
+      "selected_avg_freq": 394.66
+    },
+    "related_words": [
+      "csfp",
+      "investmens",
+      "demining",
+      "euromarkets",
+      "landmines",
+      "scaled",
+      "instructors",
+      "weu",
+      "standardize",
+      "eupol",
+      "rationalizing",
+      "afghanistan",
+      "compulsorily",
+      "usefully",
+      "supervising",
+      "specialists",
+      "newcastle",
+      "reactions",
+      "wherever",
+      "guideline",
+      "instituting",
+      "weighting",
+      "budgets",
+      "croatian",
+      "emergence",
+      "discretion",
+      "thirds",
+      "depreciation",
+      "financially",
+      "stabilise"
+    ],
+    "prompt_length": 1720,
+    "category": "2441 budget"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "264",
+  "concept_data": {
+    "title": "equipment cost",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"equipment cost\" pertains to the financial aspects associated with the installation and modification of equipment within various EU projects. This cost is regulated under the acquis communautaire, which governs the financial contributions of member states, including those in the Schengen Area and the Benelux region. Countries such as Norway, Iceland, and Switzerland also participate in these regulations, ensuring that costs are borne jointly by contracting governments. The gradual integration of equipment costs into project budgets is essential for historical and functional compliance. This includes considerations for member states like Slovakia, Hungary, and Malta, which contribute to the overall financial landscape of EU initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:51:29.165747",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 149,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 149,
+      "selected_min_freq": 34,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1666.724832214765
+    },
+    "related_words": [
+      "installing",
+      "sis",
+      "latters",
+      "integrating",
+      "principality",
+      "jha",
+      "benelux",
+      "liechtenstein",
+      "joined",
+      "schengen",
+      "historical",
+      "executive",
+      "installation",
+      "generation",
+      "acquis",
+      "borders",
+      "read",
+      "regulated",
+      "onwards",
+      "iceland",
+      "britain",
+      "jointly",
+      "gradual",
+      "confederation",
+      "abolition",
+      "swiss",
+      "contributes",
+      "borne",
+      "building",
+      "modification"
+    ],
+    "prompt_length": 1666,
+    "category": "4026 accounting"
+  }
+}

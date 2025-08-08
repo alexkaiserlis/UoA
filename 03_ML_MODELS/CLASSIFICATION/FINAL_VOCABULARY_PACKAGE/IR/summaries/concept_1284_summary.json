@@ -1,0 +1,63 @@
+{
+  "concept_id": "1284",
+  "concept_data": {
+    "title": "human nutrition",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"human nutrition\" encompasses the study and regulation of dietary components essential for health within the EU framework. It includes the analysis of substances such as lecithins, diglycerides, and progestagen, which are critical in formulating food products. Regulatory bodies assess the safety of additives like butylated hydroxyanisole (BHA) and thiabendazol, ensuring they do not adversely affect human health. The EU's altimentarius principles guide the use of ingredients, including those derived from kenari and blackcurrant (Ribes nigrum), to enhance nutritional value. Furthermore, the regulation of food supplements containing folate and hemicellulose reflects the innate need for balanced nutrition, promoting overall well-being.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:50:11.306770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 3486,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.273333333333333
+    },
+    "related_words": [
+      "moist",
+      "hydroxethyl",
+      "gianduja",
+      "altimentarius",
+      "progestagen",
+      "secretion",
+      "thiabendazol",
+      "metabisulphite",
+      "erythrosine",
+      "fungicidal",
+      "lecithins",
+      "aldehyde",
+      "ievel",
+      "chemcal",
+      "neutralizing",
+      "nangai",
+      "indicum",
+      "jobert",
+      "synonymously",
+      "kenari",
+      "butylated",
+      "hydroxyanisole",
+      "bha",
+      "folate",
+      "erythorbic",
+      "diglycerides",
+      "butylhydroquinone",
+      "tbhq",
+      "hemicellulose",
+      "hexylresorcinol"
+    ],
+    "prompt_length": 1704,
+    "category": "2841 health"
+  }
+}

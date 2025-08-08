@@ -1,0 +1,63 @@
+{
+  "concept_id": "2230",
+  "concept_data": {
+    "title": "television licence fee",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "quasi-fiscal charge",
+    "relation_type": "USE"
+  },
+  "summary": "The \"television licence fee,\" often categorized as a quasi-fiscal charge, is a regulatory mechanism within the EU that mandates payments for broadcasting services. This fee is scrutinized for its implications on competition, as it can disproportionately affect merchants and intermediaries in the media landscape. The fee is earmarked to support public broadcasting, thereby promoting cultural prosperity. However, its implementation can lead to debates over selectivity and fairness, with concerns that it may infringe upon the rights of consumers. Legal decrees have invalidated certain practices related to this fee, ensuring compliance with EU regulations and preventing distortions in the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:33:15.681139",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 755,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 349,
+      "selected_avg_freq": 176.01333333333332
+    },
+    "related_words": [
+      "bapsa",
+      "fasc",
+      "fnda",
+      "debars",
+      "gratuitous",
+      "leby",
+      "thousands",
+      "curbed",
+      "resepct",
+      "comeptition",
+      "mentined",
+      "incomptible",
+      "ignores",
+      "infringes",
+      "parafiscal",
+      "summarized",
+      "firmly",
+      "collector",
+      "durably",
+      "selectivity",
+      "sufficiency",
+      "merchants",
+      "viz",
+      "affords",
+      "prosperity",
+      "heart",
+      "par",
+      "scrutinized",
+      "pointing",
+      "keen"
+    ],
+    "prompt_length": 1741,
+    "category": "2446 taxation"
+  }
+}

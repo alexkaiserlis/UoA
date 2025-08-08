@@ -1,0 +1,63 @@
+{
+  "concept_id": "367",
+  "concept_data": {
+    "title": "loss",
+    "category_code": "4026",
+    "category_name": "accounting",
+    "category_full": "4026 accounting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"loss\" refers to a financial outturn that jeopardises the credibility of economic assessments and forecasts. It is crucially linked to accounting practices, where slippages in revenue or unexpected overruns can lead to a marked deterioration in fiscal health. The dynamics of loss are particularly fragile during economic downturns, such as recessions, where spending may be abrogated or reclassified. This concept underpins the need for robust reporting mechanisms to compile and monitor inventories, ensuring that any missed targets are solemnly addressed. Consequently, the effective management of losses invites scrutiny from fora like ECOFIN, as it directly impacts GNP and overall economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:36:30.565846",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 663,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 277,
+      "selected_avg_freq": 129.85333333333332
+    },
+    "related_words": [
+      "slippages",
+      "jeopardises",
+      "abrogate",
+      "slippage",
+      "thereupon",
+      "outturn",
+      "crucially",
+      "hinges",
+      "solemnly",
+      "moderately",
+      "missed",
+      "gnpmp",
+      "weaker",
+      "reclassification",
+      "underpinned",
+      "gnp",
+      "certainly",
+      "compares",
+      "abrogating",
+      "reversed",
+      "devolving",
+      "markedly",
+      "olympic",
+      "streamline",
+      "ecofin",
+      "fragile",
+      "edp",
+      "turning",
+      "recession",
+      "spending"
+    ],
+    "prompt_length": 1656,
+    "category": "4026 accounting"
+  }
+}

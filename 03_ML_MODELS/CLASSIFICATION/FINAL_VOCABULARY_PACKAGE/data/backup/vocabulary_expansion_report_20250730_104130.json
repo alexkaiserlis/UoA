@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-07-30T10:41:30.734919",
+  "expansion_summary": {
+    "original_vocabulary_size": 28641,
+    "extracted_vocabulary_size": 23853,
+    "new_additions": 724,
+    "updated_frequencies": 23129,
+    "final_vocabulary_size": 29365,
+    "growth_percentage": 2.5278446981599805,
+    "documents_processed": 57000
+  },
+  "top_new_words": {
+    "the": 1924771,
+    "and": 534249,
+    "for": 389495,
+    "having": 143400,
+    "that": 131862,
+    "with": 131351,
+    "should": 91821,
+    "from": 90673,
+    "this": 82753,
+    "are": 79018,
+    "down": 64329,
+    "which": 60673,
+    "not": 47752,
+    "has": 40511,
+    "under": 39860,
+    "into": 31695,
+    "have": 29840,
+    "its": 27415,
+    "been": 27001,
+    "other": 26788
+  },
+  "extraction_parameters": {
+    "min_frequency": 3,
+    "word_length_range": [
+      3,
+      30
+    ],
+    "sources": [
+      "train.jsonl",
+      "dev.jsonl",
+      "test.jsonl"
+    ]
+  },
+  "quality_metrics": {
+    "total_tokens_processed": 14631032,
+    "unique_words_found": 45175,
+    "words_above_threshold": 23853
+  }
+}

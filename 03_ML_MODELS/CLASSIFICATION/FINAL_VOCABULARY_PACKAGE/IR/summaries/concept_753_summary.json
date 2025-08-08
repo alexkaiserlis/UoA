@@ -1,0 +1,63 @@
+{
+  "concept_id": "753",
+  "concept_data": {
+    "title": "nuclear energy",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nuclear energy, a pivotal concept within the EU's electrical and nuclear industries, embodies a range of regulatory frameworks aimed at ensuring the safe and peaceful use of nuclear fission and fusion technologies. The European Atomic Energy Community (EAEC) assigns competencies for nuclear safety and radiological protection, promoting openness and excellence in regulatory practices. Key entities, such as the Joint Research Centre (JRC) and the World Nuclear Association (WENRA), facilitate the development of standards and peer reviews (PEERS) to address challenges related to ionizing radiations and reactor safety. The seamless integration of nuclear energy into the continent's energy mix requires mature governance structures, informed by lessons learnt from past achievements and ongoing projects like ITER. Centralized oversight ensures that the reprocessing of nuclear materials and management of radioactive waste are conducted responsibly, fostering a sustainable energy future.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:18.026719",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 136,
+    "vocabulary_stats": {
+      "total_related_words": 798,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 336,
+      "selected_avg_freq": 155.9
+    },
+    "related_words": [
+      "prenormative",
+      "jrcs",
+      "kedo",
+      "eurdep",
+      "develpment",
+      "wenra",
+      "ensreg",
+      "peers",
+      "embody",
+      "radiations",
+      "hfr",
+      "flux",
+      "competencies",
+      "reprocessing",
+      "fission",
+      "addressee",
+      "occupy",
+      "ionizing",
+      "borrowings",
+      "learnt",
+      "iter",
+      "centralized",
+      "cabinet",
+      "mature",
+      "reactors",
+      "dissociated",
+      "continent",
+      "thermonuclear",
+      "iaea",
+      "assigns"
+    ],
+    "prompt_length": 1682,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

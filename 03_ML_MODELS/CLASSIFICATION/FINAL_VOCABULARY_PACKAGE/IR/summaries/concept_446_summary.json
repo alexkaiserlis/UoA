@@ -1,0 +1,63 @@
+{
+  "concept_id": "446",
+  "concept_data": {
+    "title": "university degree",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": true,
+    "preferred_term": "diploma",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"university degree\" redirects to the preferred term \"diploma,\" which serves as a critical qualification for numerous occupations, particularly in specialized fields such as medicine. Diplomas attest to the completion of taught programs and are essential for practitioners who wish to upgrade their skills or enter selective professions. The influx of students pursuing diplomas has widened the scope of teaching methodologies, emphasizing the need for quality assurance in education. As practitioners converge on universal standards, caution is warranted to ensure that qualifications remain relevant and do not disappear amidst evolving market demands. Thus, diplomas play an immaterial yet pivotal role in organizing commerce and ensuring that qualified specialists can effectively serve patients and passengers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:42:49.016143",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 398,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 846,
+      "selected_avg_freq": 390.9266666666667
+    },
+    "related_words": [
+      "doctor",
+      "practitioner",
+      "taught",
+      "influx",
+      "illness",
+      "converge",
+      "whence",
+      "patient",
+      "forcing",
+      "emphasize",
+      "universally",
+      "diploma",
+      "caution",
+      "immaterial",
+      "practise",
+      "teaching",
+      "ordination",
+      "possesses",
+      "metric",
+      "practitioners",
+      "widened",
+      "disappear",
+      "tons",
+      "nationally",
+      "irreversible",
+      "diplomas",
+      "drivers",
+      "upgrade",
+      "intermediaries",
+      "patients"
+    ],
+    "prompt_length": 1730,
+    "category": "3216 organisation of teaching"
+  }
+}

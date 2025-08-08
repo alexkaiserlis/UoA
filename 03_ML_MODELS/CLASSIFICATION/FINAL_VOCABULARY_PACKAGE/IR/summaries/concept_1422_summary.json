@@ -1,0 +1,63 @@
+{
+  "concept_id": "1422",
+  "concept_data": {
+    "title": "means of information",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": true,
+    "preferred_term": "information",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"means of information,\" which redirects to the preferred term \"information,\" is vitally important in EU legal and regulatory frameworks. It encompasses various methods for disseminating data, especially in contexts where a dearth of clear communication can hinder compliance. Protagonists in this domain include regulatory bodies like the IASB and EFRAG, which emphasize the merit of accurate disclosures. Untapped potential exists in leveraging digital portals, such as EurLex, to enhance accessibility. Legal documents often require reclassification and declassifying of sensitive data, addressing issues like goodwill impairment and prepayments. This ensures that stakeholders, including winegrowers and adopters of IFRS, can realize their rights and obligations amidst regulatory turmoil. The ongoing evolution of these means is crucial for maintaining transparency and trust in the EU's legal landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:03:35.223163",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 1013,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 206,
+      "selected_avg_freq": 84.10666666666667
+    },
+    "related_words": [
+      "dearth",
+      "protagonists",
+      "untapped",
+      "eurlex",
+      "reclassify",
+      "distressed",
+      "adopter",
+      "unquoted",
+      "declassifying",
+      "vitally",
+      "prepayments",
+      "ifrss",
+      "winegrowers",
+      "loyalty",
+      "ifric",
+      "teg",
+      "extant",
+      "declassified",
+      "multiplier",
+      "downgrading",
+      "turmoil",
+      "reorganises",
+      "misunderstood",
+      "prepayment",
+      "iasb",
+      "eeurope",
+      "downgraded",
+      "gaap",
+      "summaries",
+      "inactive"
+    ],
+    "prompt_length": 1745,
+    "category": "3231 information and information processing"
+  }
+}

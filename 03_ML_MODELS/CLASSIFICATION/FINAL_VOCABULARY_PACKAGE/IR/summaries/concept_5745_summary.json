@@ -1,0 +1,63 @@
+{
+  "concept_id": "5745",
+  "concept_data": {
+    "title": "modem",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"modem\" refers to a critical device in telecommunications, enabling connectivity by converting digital signals into analog for transmission over various networks. The regulatory landscape often addresses issues related to modems, including allegations of subsidisation by corporate brands, particularly from regions like Shenzhen and Shanghai. These devices, alongside routers, are pivotal in interactive computing and networking, facilitating wireless communication. The EU monitors the market for countervailable practices and ensures compliance with standards, focusing on the numeration of devices and their compliance with regulations. Complaints regarding signal quality and device performance frequently emanate from users, prompting regulatory scrutiny and potential renovation of existing frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:57:20.589324",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 520,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 576,
+      "selected_avg_freq": 274.5466666666667
+    },
+    "related_words": [
+      "hinting",
+      "wwan",
+      "modems",
+      "routers",
+      "numeration",
+      "xian",
+      "microprocessor",
+      "famous",
+      "shenzhen",
+      "modem",
+      "parks",
+      "emanate",
+      "antenna",
+      "connectivity",
+      "reproducing",
+      "interactive",
+      "computing",
+      "brands",
+      "shanghai",
+      "countervailable",
+      "wireless",
+      "gaining",
+      "withdraws",
+      "renovation",
+      "networking",
+      "beijing",
+      "subsidisation",
+      "boxes",
+      "awards",
+      "domestically"
+    ],
+    "prompt_length": 1665,
+    "category": "3226 communications"
+  }
+}

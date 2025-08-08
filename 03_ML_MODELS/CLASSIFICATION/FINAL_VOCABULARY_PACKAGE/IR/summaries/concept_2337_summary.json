@@ -1,0 +1,63 @@
+{
+  "concept_id": "2337",
+  "concept_data": {
+    "title": "legal person",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal terminology, a \"legal person\" designates an entity that possesses rights and obligations, akin to a natural person. This concept is crucial in civil law, as it embodies the capacity to enter contracts, own property, and engage in legal proceedings. Legal persons, such as corporations or associations, can be involved in various activities, including combatting illegitimate practices or acquiring assets. They are often subject to regulations that supersede individual actions, ensuring compliance with EU directives. The legal framework surrounding legal persons also addresses issues like discontinuity in ownership and the implications of proclamations made by such entities, thereby facilitating a structured approach to governance and accountability.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:52.422920",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 534,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 605,
+      "selected_avg_freq": 245.65333333333334
+    },
+    "related_words": [
+      "rem",
+      "freehold",
+      "gbagbo",
+      "domiciliaries",
+      "topographiers",
+      "unoci",
+      "attracts",
+      "illegitimate",
+      "designers",
+      "supersedes",
+      "topographies",
+      "combatting",
+      "discontinuity",
+      "proclamation",
+      "presumptions",
+      "chip",
+      "mask",
+      "adduce",
+      "usama",
+      "qaida",
+      "obstruct",
+      "designing",
+      "bin",
+      "availing",
+      "taliban",
+      "entitle",
+      "semiconductor",
+      "unconditional",
+      "acquiring",
+      "laden"
+    ],
+    "prompt_length": 1668,
+    "category": "1211 civil law"
+  }
+}

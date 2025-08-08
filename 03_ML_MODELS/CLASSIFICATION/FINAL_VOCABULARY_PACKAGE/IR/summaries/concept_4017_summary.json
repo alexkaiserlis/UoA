@@ -1,0 +1,63 @@
+{
+  "concept_id": "4017",
+  "concept_data": {
+    "title": "European Union legal system",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU legal system",
+    "relation_type": "USE"
+  },
+  "summary": "The \"EU legal system\" encompasses a complex framework of laws and regulations that govern the European Union, ensuring justice and uniformity across member states. It includes various statutes and protocols, such as those related to the European Atomic Energy Community (EURATOM) and the European Coal and Steel Community (ECSC). This system requires judicial proceedings to maintain individual rights and interests, enabling effective examination and review of actions brought before the courts. The interpretation of laws is fundamental to the jurisdiction of EU courts, which concentrate on improving the quality of legal processes and ensuring that past and present facts are appropriately addressed. The enlargement of the EU has further necessitated the adaptation of its legal framework to accommodate diverse classes of persons and interests, thereby enhancing the overall effectiveness of the legal system.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:19:52.813443",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 133,
+    "vocabulary_stats": {
+      "total_related_words": 83,
+      "requested_words": 150,
+      "min_frequency_found": 62,
+      "max_frequency_found": 4108,
+      "selected_words": 83,
+      "selected_min_freq": 62,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1749.8313253012047
+    },
+    "related_words": [
+      "enlarge",
+      "attachment",
+      "hear",
+      "concentrate",
+      "paris",
+      "classes",
+      "judicial",
+      "complex",
+      "jurisdiction",
+      "statute",
+      "proceeding",
+      "instance",
+      "coal",
+      "task",
+      "facts",
+      "transferred",
+      "requiring",
+      "steel",
+      "past",
+      "fundamental",
+      "atomic",
+      "interpretation",
+      "ecsc",
+      "enabling",
+      "justice",
+      "court",
+      "brought",
+      "natural",
+      "effectiveness",
+      "actions"
+    ],
+    "prompt_length": 1705,
+    "category": "1011 European Union law"
+  }
+}

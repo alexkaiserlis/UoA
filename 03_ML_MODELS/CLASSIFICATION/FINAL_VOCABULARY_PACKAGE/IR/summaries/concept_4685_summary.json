@@ -1,0 +1,63 @@
+{
+  "concept_id": "4685",
+  "concept_data": {
+    "title": "buffalo meat",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Buffalo meat, categorized under animal products (6011), entails various cuts and grades, including boneless options. In the EU regulatory framework, the transferability of buffalo meat products is governed by strict licensing and authenticity standards, ensuring that provenance is maintained. The legal context involves committees that administer schedules for the marketing of these meats, which may include chilled and frozen varieties. Regulatory measures also address the need for standardised labeling, allowing consumers to observe the quality and origin of the product. This framework is essential for guaranteeing uninterrupted trade, particularly with countries like Argentina, Australia, and Canada, while also revising obsolete practices to enhance market efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:42:34.712080",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 443,
+      "requested_words": 150,
+      "min_frequency_found": 24,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 24,
+      "selected_max_freq": 851,
+      "selected_avg_freq": 445.43333333333334
+    },
+    "related_words": [
+      "transferability",
+      "skirt",
+      "coherently",
+      "brans",
+      "sharps",
+      "boneless",
+      "meslin",
+      "buffalo",
+      "meats",
+      "affording",
+      "committe",
+      "layout",
+      "allocates",
+      "thin",
+      "grades",
+      "beer",
+      "holidays",
+      "provenance",
+      "divide",
+      "nominated",
+      "revising",
+      "carcase",
+      "schedules",
+      "canadian",
+      "unilaterally",
+      "authenticity",
+      "uninterrupted",
+      "wake",
+      "recast",
+      "argentina"
+    ],
+    "prompt_length": 1672,
+    "category": "6011 animal product"
+  }
+}

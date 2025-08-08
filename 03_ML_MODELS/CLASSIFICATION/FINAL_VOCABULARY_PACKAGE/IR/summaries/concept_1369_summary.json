@@ -1,0 +1,63 @@
+{
+  "concept_id": "1369",
+  "concept_data": {
+    "title": "supplementary grant",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "additional benefit",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supplementary grant,\" redirected to \"additional benefit,\" pertains to social protection within the EU regulatory framework. This term is often associated with emoluments provided to members of the European Communities, particularly in the context of the Treaty establishing the European Atomic Energy Community (EURATOM) and the European Economic Community (EEC). Regulations determining these benefits are established by the European Commission and the Council, which hold authority over social protection measures. Such grants may cease under specific conditions, ensuring compliance with official journal directives. The determination of eligibility for these benefits is crucial for maintaining high standards of social welfare across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:35:38.878495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 30,
+      "requested_words": 150,
+      "min_frequency_found": 58,
+      "max_frequency_found": 4108,
+      "selected_words": 30,
+      "selected_min_freq": 58,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2126.366666666667
+    },
+    "related_words": [
+      "emoluments",
+      "eaec",
+      "commissions",
+      "hold",
+      "ceased",
+      "appointed",
+      "atomic",
+      "former",
+      "office",
+      "energy",
+      "euratom",
+      "determining",
+      "authority",
+      "determine",
+      "members",
+      "single",
+      "high",
+      "july",
+      "eec",
+      "economic",
+      "communities",
+      "journal",
+      "official",
+      "regulation",
+      "community",
+      "establishing",
+      "commission",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1503,
+    "category": "2836 social protection"
+  }
+}

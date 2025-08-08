@@ -1,0 +1,63 @@
+{
+  "concept_id": "3053",
+  "concept_data": {
+    "title": "forced disappearance",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Forced disappearance\" refers to the unlawful abduction of individuals by state officials or agents, leading to their absence from legal and social spheres. In the context of EU legal and regulatory frameworks, this concept is critical for assessing human rights violations, particularly in countries like Belarus, where such actions have occurred amidst electoral unrest. The EU has imposed restrictive measures on Belarusian officials, including travel bans and asset freezes, to address these grave violations. The situation necessitates a review of the EU's Common Foreign and Security Policy (CFSP) to ensure tangible progress in protecting democracy and human rights. The EU may decide to lift or extend restrictions based on the identified actions and the gravity of the situation, with conclusions drawn from ongoing assessments.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:42.708705",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 83,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 83,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1822.1927710843374
+    },
+    "related_words": [
+      "reapply",
+      "disappearances",
+      "belarusian",
+      "electoral",
+      "tangible",
+      "iiia",
+      "gravity",
+      "democracy",
+      "lift",
+      "belarus",
+      "sphere",
+      "travel",
+      "president",
+      "officials",
+      "cfsp",
+      "whilst",
+      "restrictive",
+      "occurred",
+      "figures",
+      "suspension",
+      "leading",
+      "suspended",
+      "restrictions",
+      "imposed",
+      "absence",
+      "actions",
+      "central",
+      "identified",
+      "exception",
+      "conclusions"
+    ],
+    "prompt_length": 1665,
+    "category": "0431 politics and public safety"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4056",
+  "concept_data": {
+    "title": "European Social Fund",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Social Fund (ESF) is a pivotal EU financial instrument aimed at enhancing employments and fostering social inclusion across member states. It intervenes in areas such as desegregation and the integration of marginalised groups, including migrants and the handicapped. By providing assistance for training and counselling, the ESF supports the redefinition of abilities and opportunities, particularly in regions like Extremadura, Asturias, and Valencia. The fund simplifies the workings of social policies, promoting anticipatory measures to address inequalities and modernizing approaches to placement and employment. Its classic role in networking and facilitating trainers is crucial for realizing a more inclusive European mentality.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:49:57.404018",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 929,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 259,
+      "selected_avg_freq": 125.36
+    },
+    "related_words": [
+      "employments",
+      "asssistance",
+      "extremadua",
+      "aquire",
+      "mentality",
+      "storstroem",
+      "articular",
+      "lăšon",
+      "intervenes",
+      "desegregation",
+      "counselling",
+      "realizing",
+      "jutland",
+      "euroepan",
+      "anticipatory",
+      "placement",
+      "castile",
+      "abilities",
+      "marginalised",
+      "andalusia",
+      "redefinition",
+      "classic",
+      "trainers",
+      "homes",
+      "resignations",
+      "simplifies",
+      "mancha",
+      "scarcity",
+      "priori",
+      "modifies"
+    ],
+    "prompt_length": 1715,
+    "category": "1021 EU finance"
+  }
+}

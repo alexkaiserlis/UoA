@@ -1,0 +1,63 @@
+{
+  "concept_id": "3034",
+  "concept_data": {
+    "title": "agricultural region",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"agricultural region\" pertains to specific areas within the EU, delineated for the purpose of implementing agricultural policies and regulations. These regions, or maatalouspiiri, are crucial for agrienvironmental initiatives aimed at enhancing ecological sustainability. Legal frameworks often defer to these regions when addressing issues such as overshot resource use or epizootiological concerns. For instance, the demarcation of subregions like Verbania and Alessandria facilitates targeted interventions. The EU's regulations implicitly support practices that modulate land use, ensuring that sowings do not exhaust local resources. Additionally, the protection of geographical indications, such as vino from Toscana, underscores the importance of these regions in preserving cultural and agricultural heritage.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:44:53.674139",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 857,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 204,
+      "selected_avg_freq": 82.14666666666666
+    },
+    "related_words": [
+      "inadvisable",
+      "maatalouspiiri",
+      "mikkeli",
+      "subregions",
+      "kilometer",
+      "surounded",
+      "scolt",
+      "lapps",
+      "agrienvironmental",
+      "overshoots",
+      "invasions",
+      "alessandria",
+      "exhausts",
+      "kunta",
+      "nanny",
+      "verbania",
+      "lodgment",
+      "ecology",
+      "biella",
+      "slom",
+      "uaa",
+      "novara",
+      "pressed",
+      "massa",
+      "carrara",
+      "karelia",
+      "overshot",
+      "indicazione",
+      "geografica",
+      "tipica"
+    ],
+    "prompt_length": 1692,
+    "category": "1616 regions and regional policy"
+  }
+}

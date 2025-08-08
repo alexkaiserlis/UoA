@@ -1,0 +1,63 @@
+{
+  "concept_id": "3754",
+  "concept_data": {
+    "title": "metallic ore",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"metallic ore\" pertains to the category of coal and mining industries within EU regulatory frameworks. It encompasses various mined minerals, including fluorspar, which are essential for industrial applications. The Commission has insisted on clear determinations regarding the classification and treatment of metallic ores, arguing that their separation from other materials precludes unwarranted regulatory overlap. In contested cases, complainants have objected to the representations made about the seriousness of alleged disadvantages. The totality of these factors must be accounted for in tariff classifications (TARIC), as they influence the resultant market dynamics. The EU's approach emphasizes cooperation among member states to ensure that qualifications are substantiated and that all segments of the industry are fairly represented in regulatory discussions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:54.602211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 400,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 750,
+      "selected_avg_freq": 362.4533333333333
+    },
+    "related_words": [
+      "receitals",
+      "fluorspar",
+      "commssion",
+      "infer",
+      "convey",
+      "insisted",
+      "mined",
+      "arguing",
+      "cake",
+      "filter",
+      "unwarranted",
+      "precludes",
+      "disputed",
+      "believes",
+      "totality",
+      "accepts",
+      "unreasonable",
+      "causal",
+      "determinations",
+      "cleared",
+      "segments",
+      "interchangeable",
+      "disadvantages",
+      "objected",
+      "separation",
+      "selecting",
+      "allegations",
+      "downward",
+      "contrast",
+      "complainants"
+    ],
+    "prompt_length": 1713,
+    "category": "6611 coal and mining industries"
+  }
+}

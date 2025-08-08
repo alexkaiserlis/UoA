@@ -1,0 +1,63 @@
+{
+  "concept_id": "2108",
+  "concept_data": {
+    "title": "Antarctic Ocean",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Antarctic Ocean\" is a critical marine area governed by international conventions aimed at conservation and sustainable management of living resources. Within this context, the EU has formulated binding regulations to protect fish stocks and species in the region, particularly off the coasts of South Georgia. These regulations impose minimum mesh sizes for fishing nets and ban certain types of fishing practices to ensure the long-term viability of marine resources. Contracting parties to the convention are bound to adopt recommendations and implement technical measures that achieve conservation aims. The absence of effective management could lead to objections from environmental groups, highlighting the need for detailed scientific advice in decision-making processes.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:46:24.468412",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 29,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 29,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1933.1460674157304
+    },
+    "related_words": [
+      "antarctic",
+      "coasts",
+      "nets",
+      "mesh",
+      "fishermen",
+      "georgia",
+      "formulated",
+      "conservation",
+      "marine",
+      "became",
+      "ban",
+      "objections",
+      "fishing",
+      "zone",
+      "advice",
+      "fish",
+      "living",
+      "off",
+      "south",
+      "fishery",
+      "bound",
+      "binding",
+      "recommendations",
+      "stocks",
+      "species",
+      "contracting",
+      "size",
+      "aims",
+      "imposed",
+      "absence"
+    ],
+    "prompt_length": 1631,
+    "category": "5211 natural environment"
+  }
+}

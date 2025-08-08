@@ -1,0 +1,63 @@
+{
+  "concept_id": "832",
+  "concept_data": {
+    "title": "thinning",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": true,
+    "preferred_term": "crop maintenance",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"thinning,\" redirected to \"crop maintenance,\" encompasses practices essential for optimizing agricultural land cultivation. This includes techniques such as pruning and adjusting plant density to enhance growth and yield. Growers often employ trellis systems for crops like hopfen, with specific designations and specifications to ensure quality. Regulatory frameworks may require the approval of methods involving herbicides and drying processes, particularly for protected geographical indications (PGI) of foodstuffs. The examination of these practices aims to justify their efficacy under varying weather conditions and temperatures, ensuring that registered plants meet maximum standards for agricultural production in regions like Germany.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:48:54.789310",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 85,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 85,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1681.5882352941176
+    },
+    "related_words": [
+      "trellis",
+      "tettnanger",
+      "pruning",
+      "hopfen",
+      "herbicides",
+      "hop",
+      "drying",
+      "pgi",
+      "growers",
+      "temperature",
+      "weather",
+      "designations",
+      "specification",
+      "minor",
+      "designation",
+      "recourse",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "approve",
+      "water",
+      "adjust",
+      "register",
+      "plants",
+      "raised",
+      "name",
+      "approving",
+      "registered",
+      "favourable",
+      "geographical"
+    ],
+    "prompt_length": 1709,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6767",
+  "concept_data": {
+    "title": "electronic document",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electronic document\" within EU legal and regulatory frameworks refers to a digitally created or transmitted communication that ensures comprehensibility and legibility. These documents, which can include invoices, endorsements, and updates, are designed to facilitate interoperability across various platforms and devices. They guarantee the completeness and accuracy of information while allowing for spontaneous inquiries and feedback. The use of electronic documents also addresses privacy concerns and supports the accreditation of processes by providing receipted evidence of transactions. Furthermore, they allow for the deferral of certain obligations, ensuring that all parties, including buyers and officers, can easily access and manage necessary documentation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:48.250420",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 633,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 529,
+      "selected_avg_freq": 263.92
+    },
+    "related_words": [
+      "communicaiton",
+      "receipted",
+      "spontaneous",
+      "garantees",
+      "comprehensibility",
+      "exposes",
+      "duplicates",
+      "implantable",
+      "chilean",
+      "logic",
+      "feedback",
+      "websites",
+      "executing",
+      "legibility",
+      "unconditional",
+      "deferral",
+      "alerts",
+      "deferring",
+      "realisation",
+      "accessories",
+      "endorsement",
+      "privacy",
+      "layout",
+      "overheads",
+      "invoices",
+      "inquiry",
+      "preparedness",
+      "completeness",
+      "deductions",
+      "page"
+    ],
+    "prompt_length": 1707,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5482",
+  "concept_data": {
+    "title": "climatic change",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "climate change",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"climate change,\" a redirect from \"climatic change,\" is pivotal in EU legal and regulatory frameworks addressing the deterioration of the environment. It emphasizes the need for methodologies that quantify anthropogenic greenhouse gases (GHG) emissions, aligning with overarching international agreements like the UNFCCC and the Kyoto Protocol. The EU's regulatory mechanisms, such as the Emissions Trading System (ETS) and the European Structural and Investment Funds (ESIF), aim to stabilize atmospheric conditions by auctioning entitlements and formulating inventories. Moreover, the interaction between aviation emissions, as regulated by ICAO, underscores the importance of recalculation and cancellation of allowances to achieve climate milestones. The EU urges member states to commit to ambitious targets while acknowledging dependencies on various sectors, including aerodromes and maritime activities, to ensure a sustainable future.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:10:40.054784",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 529,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 565,
+      "selected_avg_freq": 253.49333333333334
+    },
+    "related_words": [
+      "hgcc",
+      "mbms",
+      "dependencies",
+      "aerodromes",
+      "esif",
+      "momentum",
+      "auctioned",
+      "mbm",
+      "emff",
+      "emphasizes",
+      "milestone",
+      "surrender",
+      "overarching",
+      "unfccc",
+      "anthropogenic",
+      "recalculation",
+      "themes",
+      "unusually",
+      "outlines",
+      "quantified",
+      "thereunder",
+      "acknowledging",
+      "stabilizing",
+      "numbering",
+      "kyoto",
+      "dublin",
+      "interaction",
+      "preferred",
+      "inventories",
+      "formulate"
+    ],
+    "prompt_length": 1744,
+    "category": "5216 deterioration of the environment"
+  }
+}

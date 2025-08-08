@@ -1,0 +1,63 @@
+{
+  "concept_id": "6923",
+  "concept_data": {
+    "title": "international trade law",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "International trade law encompasses the legal frameworks governing transactions across borders, ensuring predictability and coherence in trade relations. Within the EU context, it promotes integration and autonomy among member states while respecting their jurisdiction. This body of law is shaped by international agreements, such as those established under the auspices of the Hague Conference, which aim to provide valuable solutions for disputes. It governs the enforcement of judgments and the choice of law, ensuring that policyholders and beneficiaries are protected. By signing treaties and adhering to unilateral commitments, states acquire competence to regulate trade, thus preserving a stable environment for international transactions.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:16:06.079346",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 162,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 3454,
+      "selected_avg_freq": 1348.98
+    },
+    "related_words": [
+      "paved",
+      "policyholder",
+      "reassess",
+      "weaker",
+      "reinsurance",
+      "insured",
+      "autonomy",
+      "predictability",
+      "hague",
+      "valuable",
+      "unilateral",
+      "exercises",
+      "judgments",
+      "auspices",
+      "sign",
+      "secondary",
+      "accede",
+      "preserve",
+      "judicial",
+      "stating",
+      "chosen",
+      "coherence",
+      "affects",
+      "solutions",
+      "insurance",
+      "jurisdiction",
+      "judgment",
+      "choice",
+      "consent",
+      "exclusion"
+    ],
+    "prompt_length": 1706,
+    "category": "1231 international law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1008",
+  "concept_data": {
+    "title": "financing of aid",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"financing of aid\" within EU cooperation policy encompasses various mechanisms that support agricultural sectors, including the production of flaxseed and oilcake. It involves the allocation of resources through specific heffingen and heffingverordening, aimed at enhancing bedrijfsorganisatie and promoting specialization in sectors like clover and lucerne. The financing framework also includes provisions for auctions and veilingen, facilitating the redistribution of resources to address challenges such as flooding and earthquake impacts. Moreover, it emphasizes the importance of rehabilitating affected areas and reallocating funds retrospectively, ensuring that aid is both effective and sustainable. The regulatory landscape is designed to prevent punishable actions while fostering cooperation among stakeholders, including wholesalers and producers, to achieve collective goals.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:11:11.264543",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 900,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 329,
+      "selected_avg_freq": 155.97333333333333
+    },
+    "related_words": [
+      "flaxseed",
+      "veevoeder",
+      "bett",
+      "interst",
+      "produktschappen",
+      "bedrijfsorganisatie",
+      "hoofdproduktschap",
+      "heffingen",
+      "heffingverordening",
+      "algemene",
+      "specifieke",
+      "veilingen",
+      "hfl",
+      "tsunami",
+      "decommitment",
+      "produktschap",
+      "punishable",
+      "skeleton",
+      "parafiscal",
+      "oilcake",
+      "meda",
+      "maldives",
+      "redefining",
+      "retrospectively",
+      "clover",
+      "sapard",
+      "lucerne",
+      "auctions",
+      "voor",
+      "reallocating"
+    ],
+    "prompt_length": 1710,
+    "category": "0811 cooperation policy"
+  }
+}

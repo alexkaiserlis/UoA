@@ -1,0 +1,63 @@
+{
+  "concept_id": "5439",
+  "concept_data": {
+    "title": "fur-bearing animal",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"fur-bearing animal\" encompasses various species, including felis silvestris and ruminants, recognized for their pelts, which are often used in garments. In EU legal and regulatory frameworks, the treatment of these animals is scrutinized, particularly regarding trapping methods, such as leghold traps, which have faced bans due to inhumane practices. The regulation aims to dissuade the circulation of fur products derived from inhumanely treated animals, imposing confiscation measures on non-compliant entities. Innovations in DNA and microscopy techniques enhance the ability to identify and seize illegally obtained pelts, ensuring compliance with humane standards and preserving diverse subspecies.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:24.551580",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 463,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 607,
+      "selected_avg_freq": 236.66666666666666
+    },
+    "related_words": [
+      "felis",
+      "silvestris",
+      "faux",
+      "inhumanely",
+      "microscopy",
+      "maldi",
+      "tof",
+      "taxidermy",
+      "tiny",
+      "specialise",
+      "leghold",
+      "pelts",
+      "seize",
+      "confiscation",
+      "garment",
+      "spectrometry",
+      "recognizable",
+      "abreast",
+      "subspecies",
+      "trapping",
+      "impediment",
+      "diverging",
+      "dog",
+      "humane",
+      "perception",
+      "prescribing",
+      "cat",
+      "innovations",
+      "revocation",
+      "tradition"
+    ],
+    "prompt_length": 1660,
+    "category": "5211 natural environment"
+  }
+}

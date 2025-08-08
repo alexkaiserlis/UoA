@@ -1,0 +1,63 @@
+{
+  "concept_id": "4399",
+  "concept_data": {
+    "title": "taxation of exports",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "export tax",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"taxation of exports,\" often redirected to the preferred term \"export tax,\" pertains to the regulatory framework governing the imposition of taxes on goods exiting the EU. This taxation is calculated severally and can incur penalties for non-compliance. Regulations within the EU aim to simplify the process, ensuring that declarants are aware of their obligations. The export tax framework is tailored to protect domestic industries while preventing arbitrary taxation that could disrupt trade. Causation for tax liabilities must be clear, and any invalidated claims can lead to abatement of duties. The complexities of this system require careful sifting through regulations and citations to ensure compliance and avoid blockage of goods in warehouses.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:59:13.464299",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1027,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 271,
+      "selected_avg_freq": 141.33333333333334
+    },
+    "related_words": [
+      "severally",
+      "calcultated",
+      "initio",
+      "personally",
+      "paricular",
+      "regulaiton",
+      "citations",
+      "suffices",
+      "incurs",
+      "rejects",
+      "blockage",
+      "minebea",
+      "protections",
+      "exerted",
+      "wihtin",
+      "exits",
+      "lebanese",
+      "declarant",
+      "spelt",
+      "sifting",
+      "penalize",
+      "groats",
+      "causation",
+      "ball",
+      "bearings",
+      "bran",
+      "abatement",
+      "sharps",
+      "meals",
+      "kilogrammes"
+    ],
+    "prompt_length": 1693,
+    "category": "2446 taxation"
+  }
+}

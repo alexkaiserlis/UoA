@@ -1,0 +1,63 @@
+{
+  "concept_id": "3213",
+  "concept_data": {
+    "title": "itinerant trade",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Itinerant trade\" refers to a form of commerce where individuals or firms engage in retail activities without a permanent establishment, often pursuing sales at venues like fairs or markets. This practice allows traders to possess flexibility in their operations, seeking to join various markets and reach customers directly. However, it can impose obstacles related to qualifications and proof of compliance with local regulations. EU legal frameworks aim to ensure that itinerant traders, regardless of nationality, are treated fairly, prohibiting discriminatory practices. The pursuit of itinerant trade necessitates adherence to specific vocational qualifications and may involve intermediaries to facilitate transactions, thereby enhancing the ability of employees to operate effectively within this dynamic sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:25.326933",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 210,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2207,
+      "selected_avg_freq": 934.8866666666667
+    },
+    "related_words": [
+      "fairground",
+      "itinerant",
+      "whence",
+      "repute",
+      "door",
+      "himself",
+      "possesses",
+      "disappear",
+      "bankruptcy",
+      "diplomas",
+      "intermediaries",
+      "branch",
+      "nationality",
+      "craft",
+      "join",
+      "pursuing",
+      "qualification",
+      "commerce",
+      "orders",
+      "qualifications",
+      "vocational",
+      "seeking",
+      "permanently",
+      "installations",
+      "imposes",
+      "host",
+      "wishes",
+      "pursuit",
+      "obstacle",
+      "employees"
+    ],
+    "prompt_length": 1680,
+    "category": "2036 distributive trades"
+  }
+}

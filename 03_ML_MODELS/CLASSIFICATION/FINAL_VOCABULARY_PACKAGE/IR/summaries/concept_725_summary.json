@@ -1,0 +1,63 @@
+{
+  "concept_id": "725",
+  "concept_data": {
+    "title": "Emilia-Romagna",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Emilia-Romagna, a region of Italy, is significant within the EU framework, particularly in terms of its oenological practices and agricultural cooperatives. Known for its unique products like piadina, coppa, and salame, the region utilizes traditional methods that enrich its culinary identity. The provinces of Bologna, Ferrara, and Piacenza exemplify the diversity of local grains and the vinification processes that contribute to the region's economy. Regulatory provisions under EU frameworks address issues such as acidification and atmospheric impacts on agriculture, ensuring sustainable practices. Additionally, Emilia-Romagna's programming for regional development includes phases of reintegration and additionality to combat globalisation's challenges, fostering local identity and economic resilience.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:58:10.736636",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 624,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 538,
+      "selected_avg_freq": 250.82666666666665
+    },
+    "related_words": [
+      "acidify",
+      "ferrara",
+      "mordano",
+      "salama",
+      "sugo",
+      "fungo",
+      "borgotaro",
+      "piadina",
+      "romagnola",
+      "piada",
+      "piacentina",
+      "piacentino",
+      "ostellato",
+      "coppa",
+      "piacenza",
+      "salame",
+      "bologna",
+      "verona",
+      "programmation",
+      "provisons",
+      "motorcycles",
+      "vinification",
+      "acidification",
+      "imp",
+      "lucerne",
+      "commune",
+      "acidity",
+      "emilia",
+      "romagna",
+      "enriched"
+    ],
+    "prompt_length": 1687,
+    "category": "7211 regions of EU Member States"
+  }
+}

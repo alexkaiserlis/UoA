@@ -1,0 +1,63 @@
+{
+  "concept_id": "3663",
+  "concept_data": {
+    "title": "industrial design",
+    "category_code": "6416",
+    "category_name": "research and intellectual property",
+    "category_full": "6416 research and intellectual property",
+    "is_redirect": true,
+    "preferred_term": "designs and models",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"industrial design,\" redirected to \"designs and models,\" encompasses the registrability of the aesthetic aspects of products, including topographies and layouts. This concept dispenses with the need for creators to navigate complex copyright and trademark restraints, allowing designers to protect their innovations. The European Union Intellectual Property Office (EUIPO) supervises registrations, ensuring that designs are not invalidated due to discontinuity or lack of appropriate documentation. Under the TRIPS agreement, the protection of designs is crucial for creators, as it fosters innovation and competition. The WIPO's guidelines further enhance the understanding of this discipline, promoting the resell and licensing of designs while ensuring that the rights of domiciliaries are upheld across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:07:42.131651",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 547,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 546,
+      "selected_avg_freq": 226.8
+    },
+    "related_words": [
+      "qulifying",
+      "dispenses",
+      "domiciliaries",
+      "topographiers",
+      "registrability",
+      "cheques",
+      "creators",
+      "thee",
+      "articled",
+      "designers",
+      "wipo",
+      "topographies",
+      "dispensation",
+      "forseeable",
+      "invalidation",
+      "mot",
+      "discontinuity",
+      "proclamation",
+      "chip",
+      "mask",
+      "aruba",
+      "topic",
+      "appropiate",
+      "designing",
+      "suppressing",
+      "friction",
+      "masters",
+      "resell",
+      "dispensed",
+      "semiconductor"
+    ],
+    "prompt_length": 1774,
+    "category": "6416 research and intellectual property"
+  }
+}

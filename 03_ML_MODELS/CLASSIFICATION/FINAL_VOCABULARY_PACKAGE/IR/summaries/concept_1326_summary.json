@@ -1,0 +1,63 @@
+{
+  "concept_id": "1326",
+  "concept_data": {
+    "title": "tax on income",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"tax on income\" concept within EU legal and regulatory frameworks pertains to the taxation of profits, wages, and salaries earned by individuals and entities. It reflects a constitutional approach to securing public revenue, with member states negotiating various conventions to harmonize tax policies. The preamble of such agreements often includes provisions for immunities and privileges for certain employees, such as those working for Europol or in the principality of Monaco. This taxation regime also involves allowances for savings and remuneration formats, ensuring compliance with modernisation efforts. The deputy organs of the EU may act as conciliators in arbitration processes related to tax disputes, while feedback mechanisms are instituted to facilitate continuous improvement in tax administration. Overall, the framework aims to balance the interests of communities while adhering to established legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:57:00.605622",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 132,
+    "vocabulary_stats": {
+      "total_related_words": 371,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1122,
+      "selected_avg_freq": 537.3733333333333
+    },
+    "related_words": [
+      "conciliator",
+      "plenipotentiary",
+      "spontaneous",
+      "remunerations",
+      "communites",
+      "standby",
+      "feedback",
+      "monaco",
+      "deputy",
+      "emoluments",
+      "arbitration",
+      "wages",
+      "agreeing",
+      "andorra",
+      "marino",
+      "organs",
+      "salaries",
+      "preamble",
+      "immunities",
+      "recruitment",
+      "modernisation",
+      "privileges",
+      "directors",
+      "europol",
+      "formats",
+      "constitutional",
+      "servants",
+      "accord",
+      "san",
+      "reveal"
+    ],
+    "prompt_length": 1709,
+    "category": "2446 taxation"
+  }
+}

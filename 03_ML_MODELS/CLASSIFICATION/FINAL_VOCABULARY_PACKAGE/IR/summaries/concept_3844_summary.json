@@ -1,0 +1,63 @@
+{
+  "concept_id": "3844",
+  "concept_data": {
+    "title": "therapeutic equipment",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "medical device",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"therapeutic equipment\" is primarily referred to as \"medical device,\" encompassing a broad range of products, including bandages and advanced diagnostic tools like Doppler systems for assessing carotid arteries. These devices often utilize emulsified phospholipids or ionised compounds in their formulations. Regulatory frameworks, such as those established by EUnetHTA, ensure that devices meet safety and efficacy standards. The importación of such devices is subject to arancelaria policies, while organizations like Infarmed oversee compliance. Additionally, psychophysical correlaters and neural monitoring technologies are evolving trends within this sector, highlighting the importance of rigorous evaluation and oversight in therapeutic applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:32:45.324770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1898,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 10,
+      "selected_avg_freq": 5.513333333333334
+    },
+    "related_words": [
+      "bandage",
+      "contouring",
+      "emulsified",
+      "política",
+      "arancelaria",
+      "importación",
+      "virtis",
+      "homogenizer",
+      "hip",
+      "atl",
+      "carotid",
+      "arteries",
+      "doppler",
+      "htg",
+      "pvr",
+      "averager",
+      "hta",
+      "acronym",
+      "eunethta",
+      "phospholipids",
+      "microsomes",
+      "innisfree",
+      "crt",
+      "neural",
+      "correlaters",
+      "psychophysical",
+      "watanabe",
+      "linearcorder",
+      "wtr",
+      "emotion"
+    ],
+    "prompt_length": 1688,
+    "category": "2841 health"
+  }
+}

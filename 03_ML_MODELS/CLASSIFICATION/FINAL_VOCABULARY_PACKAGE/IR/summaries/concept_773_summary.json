@@ -1,0 +1,63 @@
+{
+  "concept_id": "773",
+  "concept_data": {
+    "title": "recording of data",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "data recording",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"data recording,\" also referred to as \"recording of data,\" is pivotal in EU legal and regulatory frameworks governing information technology and data processing. It encompasses the systematic tagging and retrieval of datasets, such as voyage logs and hull records, which are essential for ensuring roadworthiness and compliance. Regulatory bodies supervise the digitalizing of data through tools like transponders and digitizers, ensuring that tagged information, including PNR and eartags, is accurately maintained. Evaluators utilize scorecards to assess the effectiveness of data recording practices, which are crucial for maritime safety and homeland security, particularly in monitoring boatmasters and crews during transient voyages.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:18.385690",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 891,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 235,
+      "selected_avg_freq": 99.2
+    },
+    "related_words": [
+      "scorecard",
+      "digitalizing",
+      "tektronix",
+      "vdr",
+      "vdrs",
+      "towage",
+      "tagged",
+      "enis",
+      "transponders",
+      "contrasts",
+      "digitizer",
+      "ris",
+      "eurid",
+      "tdl",
+      "evaluators",
+      "critera",
+      "fead",
+      "supervises",
+      "tagging",
+      "transient",
+      "pnr",
+      "salvage",
+      "diaries",
+      "roadworthiness",
+      "homeland",
+      "retrieve",
+      "dataset",
+      "boatmasters",
+      "replacements",
+      "memory"
+    ],
+    "prompt_length": 1691,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4718",
+  "concept_data": {
+    "title": "wine for direct consumption",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "table wine",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wine for direct consumption,\" redirected to \"table wine,\" encompasses a multitude of regulatory frameworks within the EU, primarily aimed at ensuring compliance among wineries and winegrowers. This regulation delimits the standards for production, labeling, and marketing, requiring paperwork that adheres to strict guidelines. The EU evaluates the quality of table wine through various metrics, including deacidification and coupage processes, to prevent frauds and maintain integrity. Additionally, the concept addresses the geographical indications, such as \"indicazione geografica tipica,\" that protect regional varieties like rosé and retsina. Compliance is essential to avoid penalties and losses, ensuring that all transacted wines meet the required standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:22:52.281317",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1695,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 76,
+      "selected_avg_freq": 36.513333333333335
+    },
+    "related_words": [
+      "reulation",
+      "witheld",
+      "evaluing",
+      "accorance",
+      "winegrower",
+      "winery",
+      "paperwork",
+      "sutmit",
+      "licneces",
+      "radiocative",
+      "incommensurate",
+      "evading",
+      "lossess",
+      "racking",
+      "hiatus",
+      "iwo",
+      "whereabouts",
+      "adjustement",
+      "requried",
+      "penalizing",
+      "incremental",
+      "delimits",
+      "rosé",
+      "minds",
+      "milliequivalents",
+      "retsina",
+      "multitude",
+      "graft",
+      "bumper",
+      "climbed"
+    ],
+    "prompt_length": 1744,
+    "category": "6021 beverages and sugar"
+  }
+}

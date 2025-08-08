@@ -1,0 +1,26 @@
+{
+  "concept_id": "3366",
+  "concept_data": {
+    "title": "hospital expenses",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"hospital expenses\" pertains to the financial obligations incurred by healthcare institutions within the European Union. These expenses encompass a range of costs associated with patient care, including medical supplies, personnel salaries, and facility maintenance. In the context of EU legal and regulatory frameworks, hospital expenses are subject to various directives and regulations aimed at ensuring transparency, efficiency, and equitable access to healthcare services. The management of these expenses is critical for compliance with EU health policies and for the sustainability of national health systems. Understanding hospital expenses is essential for effective healthcare governance and financial planning within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:25.659110",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1163,
+    "category": "2841 health"
+  }
+}

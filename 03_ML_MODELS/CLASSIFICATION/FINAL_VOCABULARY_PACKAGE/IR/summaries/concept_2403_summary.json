@@ -1,0 +1,63 @@
+{
+  "concept_id": "2403",
+  "concept_data": {
+    "title": "financial planning",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Financial planning within the EU context refers to the systematic approach to managing public finance and budget policy, crucial for ensuring the effective allocation of resources across various sectors. This process involves forecasts that cover several years, extending until the adoption of new proposals. The Council's decisions, often documented in the Official Journal, reflect the financial capacity necessary for missions under the Common Foreign and Security Policy (CFSP) and other regional initiatives. The financial planning framework is aligned with treaties, including those concerning Euratom and the European Economic Community (EEC), ensuring that all relevant affairs are adequately addressed and covered in a comprehensive manner.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:09:58.215500",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 48,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 48,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2012.9791666666667
+    },
+    "related_words": [
+      "nestor",
+      "eucap",
+      "horn",
+      "forecasts",
+      "maritime",
+      "africa",
+      "mission",
+      "cfsp",
+      "building",
+      "affairs",
+      "foreign",
+      "ecsc",
+      "covering",
+      "capacity",
+      "representative",
+      "euratom",
+      "extending",
+      "regional",
+      "extend",
+      "several",
+      "security",
+      "reference",
+      "high",
+      "amount",
+      "until",
+      "covered",
+      "years",
+      "policy",
+      "financial",
+      "april"
+    ],
+    "prompt_length": 1625,
+    "category": "2436 public finance and budget policy"
+  }
+}

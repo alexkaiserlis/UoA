@@ -1,0 +1,63 @@
+{
+  "concept_id": "5632",
+  "concept_data": {
+    "title": "professional experience",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"professional experience\" within the EU labour market framework encompasses the diverse and thematic aspects of an individual's work history, which is crucial for evaluating qualifications and competencies. This experience is often indexed in surveys conducted by Eurostat, providing a rounded view of employment trends and unemployment rates. Rapporteurs and advisors collaborate in workshops to ascertain the complexity of professional pathways, ensuring accessibility and reliability in data collection. The workload associated with evaluating professional experience depends on harmonized criteria, which eliminate ambiguity. Events and meetings organized by committees serve to fix standards, enhancing the understanding of this vital concept in EU regulatory documents.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:34.512141",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 213,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1858,
+      "selected_avg_freq": 873.44
+    },
+    "related_words": [
+      "indexes",
+      "predecessors",
+      "morning",
+      "afternoon",
+      "rapporteurs",
+      "acquainted",
+      "synchronized",
+      "advisors",
+      "indemnities",
+      "indemnity",
+      "thematic",
+      "demanding",
+      "rounded",
+      "literature",
+      "workshops",
+      "ascertaining",
+      "pool",
+      "accessibility",
+      "workload",
+      "travelling",
+      "rapporteur",
+      "modulation",
+      "stakeholder",
+      "serving",
+      "index",
+      "unemployment",
+      "spring",
+      "eurostat",
+      "complexity",
+      "surveys"
+    ],
+    "prompt_length": 1716,
+    "category": "4411 labour market"
+  }
+}

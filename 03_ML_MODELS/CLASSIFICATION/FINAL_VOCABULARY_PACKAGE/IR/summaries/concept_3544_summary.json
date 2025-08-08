@@ -1,0 +1,63 @@
+{
+  "concept_id": "3544",
+  "concept_data": {
+    "title": "fishing resources",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": true,
+    "preferred_term": "fishery resources",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"fishing resources,\" redirected to the preferred term \"fishery resources,\" encompasses the legal and regulatory frameworks governing the sustainable management of aquatic species within the EU. This includes the protection of significant species such as notothenia, dissostichus, and patagonotothen, which inhabit diverse marine environments, including the Antarctic. Regulatory bodies, such as the committee overseeing fisheries, utilize data on phytoplankton and macrophytes to assess the availability of these resources. The EU's approach emphasizes the importance of hydromorphological conditions and the role of species like sandeels and gunnari in maintaining ecological balance. Legal instruments also address issues related to transship and haul practices, ensuring compliance with sustainability standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:14:00.070112",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1996,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 37,
+      "selected_avg_freq": 17.126666666666665
+    },
+    "related_words": [
+      "prefect",
+      "booklets",
+      "antartic",
+      "patagonotothen",
+      "brevicauda",
+      "guntheri",
+      "notothenia",
+      "gibberifrons",
+      "chaenocephalus",
+      "aceratus",
+      "pseudochaenichthys",
+      "georgianus",
+      "squamifrons",
+      "rossii",
+      "dissostichus",
+      "eleginoides",
+      "dissotichus",
+      "mariexport",
+      "commmitee",
+      "sandeels",
+      "theroef",
+      "heilsufrodiliga",
+      "starvsstovan",
+      "piscifactorias",
+      "andes",
+      "concepciรณn",
+      "melila",
+      "ortder",
+      "phytoplankton",
+      "macrophytes"
+    ],
+    "prompt_length": 1808,
+    "category": "5641 fisheries"
+  }
+}

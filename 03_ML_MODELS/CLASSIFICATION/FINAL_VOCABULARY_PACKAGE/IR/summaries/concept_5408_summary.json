@@ -1,0 +1,63 @@
+{
+  "concept_id": "5408",
+  "concept_data": {
+    "title": "interinstitutional agreement",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"interinstitutional agreement\" (IIA) is a crucial legal instrument within the EU framework, facilitating cooperation among EU institutions, such as the European Parliament, Council, and Commission. These agreements often address complex issues, including the management of resources earmarked for disaster recovery, like the European Union Solidarity Fund (EUSF) in response to disastrous events, such as floods in Galicia or storms affecting towns in Noord and Zuid. They can also encompass regulatory frameworks for sectors like automotive and ICT, ensuring a cohesive approach to policy implementation. Through trilogue negotiations, institutions aim to deploy effective strategies for reallocating funds, addressing transitory challenges, and fostering collaboration across regions, including Podkarpackie and Aragón, while considering the impacts on communities and industries, such as apparel and motorcycles.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:11:13.146802",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 395,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 618,
+      "selected_avg_freq": 237.91333333333333
+    },
+    "related_words": [
+      "hurricane",
+      "dean",
+      "disastrous",
+      "eusf",
+      "mura",
+      "cegielski",
+      "podkarpackie",
+      "automoción",
+      "danfoss",
+      "qimonda",
+      "kozloduy",
+      "trilogue",
+      "poznań",
+      "wearing",
+      "cataluña",
+      "drenthe",
+      "spol",
+      "wielkopolskie",
+      "unilever",
+      "towns",
+      "utrecht",
+      "noord",
+      "nordjylland",
+      "aragón",
+      "comunidad",
+      "decommissioning",
+      "zuid",
+      "motorcycles",
+      "valenciana",
+      "storm"
+    ],
+    "prompt_length": 1696,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

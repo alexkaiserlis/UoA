@@ -1,0 +1,62 @@
+{
+  "concept_id": "1051",
+  "concept_data": {
+    "title": "foundation",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"foundation\" refers to a legal form of organisation established for a specific purpose, often involving the creation of funds or assets to support charitable, educational, or cultural activities. The foundation's functioning is governed by national laws of member states, yet it may also engage in international agreements, reflecting a broader European view. The European Commission and Council may issue recommendations regarding the authorising and opening of foundations, particularly in negotiations involving cross-border activities. The creation of such entities is often documented in official journals, ensuring compliance with treaties and decisions that guide their establishment within the Union.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:22:49.523470",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 29,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 29,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2103.103448275862
+    },
+    "related_words": [
+      "lac",
+      "latin",
+      "foundation",
+      "american",
+      "caribbean",
+      "concluding",
+      "opened",
+      "creation",
+      "authorising",
+      "opening",
+      "recommendation",
+      "negotiations",
+      "organisation",
+      "international",
+      "countries",
+      "agreement",
+      "view",
+      "functioning",
+      "march",
+      "journal",
+      "official",
+      "union",
+      "states",
+      "member",
+      "decision",
+      "commission",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1476,
+    "category": "4016 legal form of organisations"
+  }
+}

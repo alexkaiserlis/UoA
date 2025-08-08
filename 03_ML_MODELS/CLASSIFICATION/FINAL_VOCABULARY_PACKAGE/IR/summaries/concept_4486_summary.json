@@ -1,0 +1,63 @@
+{
+  "concept_id": "4486",
+  "concept_data": {
+    "title": "information processing",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"information processing\" within EU legal and regulatory frameworks encompasses the systematic handling of data through various methodologies, including digitization and data processing (dataprocessing). This involves the use of computersystems and microprocessors to convert and transcribe information, ensuring efficient management of data across sectors such as aquacultural and aerospace industries. Regulatory measures address potential incompatibilities and redundancy in data handling, promoting literacy in ICTs. The process may include the use of scanners, digitizers, and keyboards for data entry, while ensuring that the editorial and tutorial aspects of information are rigorously maintained. Ultimately, this concept classifies and coordinates data in a manner that supports robust governance and compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:04:19.312988",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 904,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 202,
+      "selected_avg_freq": 77.83333333333333
+    },
+    "related_words": [
+      "procession",
+      "computersystem",
+      "pdp",
+      "scholastic",
+      "burroughs",
+      "tutorial",
+      "aquacultural",
+      "dataprocessing",
+      "geometrical",
+      "diagrams",
+      "pad",
+      "emitter",
+      "proms",
+      "cursor",
+      "unform",
+      "unquestionable",
+      "efics",
+      "pen",
+      "vigorously",
+      "digitizer",
+      "prefential",
+      "coordinates",
+      "icts",
+      "horizontally",
+      "microprocessor",
+      "keyboard",
+      "digitizers",
+      "literacy",
+      "aerospace",
+      "ordinate"
+    ],
+    "prompt_length": 1742,
+    "category": "3231 information and information processing"
+  }
+}

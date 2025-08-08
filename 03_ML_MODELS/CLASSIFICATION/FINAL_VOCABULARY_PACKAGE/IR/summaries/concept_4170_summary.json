@@ -1,0 +1,63 @@
+{
+  "concept_id": "4170",
+  "concept_data": {
+    "title": "syrup",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"syrup\" refers to a concentrated solution of sugars, often derived from polysaccharides like glucitol and fructose. This foodstuff category encompasses various forms, including stoned and unstoned syrups, such as appelstroop and molasses. The production process may involve crystallization and hydrogenation, impacting the syrup's properties. Regulatory provisions address the interchangeability of syrups with other sweeteners, including sorbitol and lactose, ensuring consumer safety and product integrity. Additionally, syrups may serve as flavouring agents or medicaments, with specific guidelines on their use in food products, reflecting the EU's commitment to detailes and transparency in food safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:03:57.998594",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 996,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 257,
+      "selected_avg_freq": 115.8
+    },
+    "related_words": [
+      "representativï",
+      "refiner",
+      "haying",
+      "glucitol",
+      "disaccharides",
+      "penta",
+      "hexasaccharides",
+      "stoned",
+      "unstoned",
+      "appelstroop",
+      "crystallization",
+      "polysaccharides",
+      "crystallizing",
+      "hydrogenation",
+      "softeners",
+      "sorbose",
+      "hundredth",
+      "medicament",
+      "hydrolyzed",
+      "belated",
+      "hydrogenated",
+      "renounced",
+      "rinse",
+      "detailes",
+      "waxes",
+      "williams",
+      "tetra",
+      "sorbitol",
+      "vinegar",
+      "prejudicing"
+    ],
+    "prompt_length": 1716,
+    "category": "6026 foodstuff"
+  }
+}

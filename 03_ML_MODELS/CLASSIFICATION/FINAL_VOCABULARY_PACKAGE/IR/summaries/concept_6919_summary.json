@@ -1,0 +1,63 @@
+{
+  "concept_id": "6919",
+  "concept_data": {
+    "title": "weapons' destruction",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"weapons' destruction\" is pivotal in the context of international security and EU regulatory frameworks. It encompasses the demilitarisation of unserviceable arms and the systematic destruction of stockpiles, particularly small arms and light weapons (SALW), to reduce hazardous accumulation that poses destabilising threats. The EU, alongside NATO and other fora, actively pursues initiatives to ensure the safe execution of weapons destruction, particularly in regions like Albania and Ukraine, where uncontrolled arsenals can lead to conflict. The Ottawa Treaty, ratified by numerous states, envisages phases for the destruction of mines and ammunition, enhancing visibility and trust in peace processes while addressing the inappropriate stockpiling of arms.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:08:16.202441",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 226,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1491,
+      "selected_avg_freq": 559.66
+    },
+    "related_words": [
+      "unserviceable",
+      "pfp",
+      "demilitarisation",
+      "namsa",
+      "arsenal",
+      "wars",
+      "acutely",
+      "ottawa",
+      "salw",
+      "stockpiles",
+      "ammunition",
+      "stockpiling",
+      "nato",
+      "huge",
+      "destabilising",
+      "albanian",
+      "fora",
+      "ukrainian",
+      "incorrectly",
+      "visibility",
+      "uncontrolled",
+      "accommodate",
+      "ussr",
+      "weapons",
+      "phases",
+      "mines",
+      "threats",
+      "armed",
+      "packaged",
+      "executed"
+    ],
+    "prompt_length": 1676,
+    "category": "0816 international security"
+  }
+}

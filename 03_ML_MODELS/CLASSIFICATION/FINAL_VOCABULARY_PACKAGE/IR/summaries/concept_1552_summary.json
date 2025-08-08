@@ -1,0 +1,63 @@
+{
+  "concept_id": "1552",
+  "concept_data": {
+    "title": "fruit juice concentrate",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": true,
+    "preferred_term": "fruit juice",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"fruit juice concentrate,\" categorized under beverages and sugar, is a redirect to the preferred term \"fruit juice.\" In EU legal and regulatory frameworks, fruit juice concentrates are subject to specific tariff quotas, which establish preferential trade conditions. These concentrates can be reconstituted into unconcentrated juice forms, impacting consumption patterns across member states like Portugal. Regulatory standards ensure quality, addressing issues such as patulin levels in products like nectars and purees. Additionally, the classification of fruit juice includes various types, such as sylvaner and riesling, which are vital for viticultural campaigns. The legal framework also considers factors like fictive labeling and consolidations in trade agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:21.336334",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1817,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 68,
+      "selected_avg_freq": 26.533333333333335
+    },
+    "related_words": [
+      "tariffquota",
+      "porgugal",
+      "estbablishing",
+      "prefrential",
+      "minneolas",
+      "zuckerrübenkraut",
+      "zuckerrübensirup",
+      "rübenkraut",
+      "unconcentrated",
+      "fictive",
+      "reword",
+      "layw",
+      "qualifiable",
+      "byssochlamys",
+      "pmtdi",
+      "consolidations",
+      "noni",
+      "tahitian",
+      "noniâž",
+      "sylvaner",
+      "rheinisches",
+      "compaigns",
+      "consumpion",
+      "signment",
+      "tokaj",
+      "comsumption",
+      "aijn",
+      "reconstituting",
+      "scoop",
+      "rheinischer"
+    ],
+    "prompt_length": 1739,
+    "category": "6021 beverages and sugar"
+  }
+}

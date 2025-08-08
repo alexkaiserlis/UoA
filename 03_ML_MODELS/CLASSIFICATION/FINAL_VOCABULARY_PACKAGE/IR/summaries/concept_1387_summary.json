@@ -1,0 +1,63 @@
+{
+  "concept_id": "1387",
+  "concept_data": {
+    "title": "rubber production",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "rubber industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rubber production,\" redirected to the preferred term \"rubber industry,\" encompasses a wide range of activities related to the manufacturing of rubber products, including tyres, tubes, and flaps for trucks and other vehicles. In the EU regulatory framework, the rubber industry is subject to stringent standards, particularly concerning halogenated compounds like chlorobutyl and bromobutyl, which are used in modern tyre production. Regulatory bodies, such as the Belgian Moniteur, inform stakeholders about compliance measures that mitigate environmental impacts. The industry specializes in techniques that ensure interchangeable components, while also addressing issues of incompatibility and justifiable rebates. This sector's evolution is aided by retrospective analyses and precedents that favour innovation, particularly in areas like tubeless tyre technology. The district of Antwerp, known for its rubber production, exemplifies the industry's dynamic nature, where production methods are continually modernized to meet EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:29:08.726598",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 465,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 691,
+      "selected_avg_freq": 338.9
+    },
+    "related_words": [
+      "zwijndrecht",
+      "chlorobutyl",
+      "bromobutyl",
+      "tubeless",
+      "treads",
+      "flaps",
+      "specializes",
+      "moniteur",
+      "tyre",
+      "belge",
+      "inner",
+      "wheels",
+      "mitigated",
+      "antwerp",
+      "halogenated",
+      "immovable",
+      "tyres",
+      "trucks",
+      "informs",
+      "accrue",
+      "butyl",
+      "tantamount",
+      "notifies",
+      "cct",
+      "bfrs",
+      "tubes",
+      "rubber",
+      "interchangeable",
+      "contracted",
+      "rebates"
+    ],
+    "prompt_length": 1698,
+    "category": "6811 chemistry"
+  }
+}

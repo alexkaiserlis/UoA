@@ -1,0 +1,63 @@
+{
+  "concept_id": "774",
+  "concept_data": {
+    "title": "documentary reference recording",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"documentary reference recording\" pertains to the systematic registration of documents within EU legal and regulatory frameworks. This process facilitates accurate communication between designated bodies, ensuring that all parties, including producers and buyers, comply with contractual obligations. It involves the receipted delivery of supporting documents, such as invoices and contracts, which must be registered in advance to avoid duplicates. The logic behind this requirement is to enhance clarity and recognition of interests among groups and associations, particularly in the absence of longer documentation processes. Consequently, this mechanism aids in the efficient disposal and management of contractual agreements, ensuring that all deliveries are appropriately tracked and recorded.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:42.064401",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 105,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 105,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1997.2857142857142
+    },
+    "related_words": [
+      "communicaiton",
+      "receipted",
+      "duplicates",
+      "logic",
+      "invoices",
+      "hops",
+      "buyer",
+      "sending",
+      "indents",
+      "grown",
+      "deliveries",
+      "accurate",
+      "send",
+      "writing",
+      "fifth",
+      "registration",
+      "contract",
+      "supporting",
+      "contracts",
+      "recognition",
+      "producer",
+      "disposal",
+      "designated",
+      "registered",
+      "advance",
+      "groups",
+      "association",
+      "fourth",
+      "absence",
+      "clarity"
+    ],
+    "prompt_length": 1701,
+    "category": "3221 documentation"
+  }
+}

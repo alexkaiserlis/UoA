@@ -1,0 +1,63 @@
+{
+  "concept_id": "5827",
+  "concept_data": {
+    "title": "financial protocol",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"financial protocol\" is a key component of international agreements, particularly within the context of the EU's relations with African, Caribbean, and Pacific (ACP) countries. It aims to establish a multiannual framework for the disbursements of funds allocated to various actions and commitments. This protocol, often signed during meetings in Brussels or Luxembourg, integrates mechanisms for assessing performance and ensuring the exact realization of agreed objectives. It facilitates cooperation between governments and representatives, laying the groundwork for commercial partnerships. The protocols are integral to achieving developmental goals, with specific attention to the unique needs of regions like Ouagadougou and the Caribbean, thereby enhancing external relations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:10:08.297310",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 117,
+      "requested_words": 150,
+      "min_frequency_found": 33,
+      "max_frequency_found": 4108,
+      "selected_words": 117,
+      "selected_min_freq": 33,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1971.905982905983
+    },
+    "related_words": [
+      "edf",
+      "ouagadougou",
+      "disbursements",
+      "realisation",
+      "cotonou",
+      "caribbean",
+      "things",
+      "exact",
+      "integral",
+      "pacific",
+      "ministers",
+      "acp",
+      "protocols",
+      "african",
+      "multiannual",
+      "brussels",
+      "conclude",
+      "assessing",
+      "relations",
+      "governments",
+      "degree",
+      "partnership",
+      "commitments",
+      "luxembourg",
+      "portuguese",
+      "followed",
+      "conducted",
+      "external",
+      "aims",
+      "allocated"
+    ],
+    "prompt_length": 1679,
+    "category": "0806 international affairs"
+  }
+}

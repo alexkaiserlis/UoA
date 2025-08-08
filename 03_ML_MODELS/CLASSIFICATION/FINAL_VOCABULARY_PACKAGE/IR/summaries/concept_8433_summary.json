@@ -1,0 +1,63 @@
+{
+  "concept_id": "8433",
+  "concept_data": {
+    "title": "forgery of documents",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"forgery of documents\" within EU criminal law encompasses the falsification of official documents, such as passports and visas, which are essential for secure travel and identification. This includes the counterfeiting of biometric identifiers that must be readable and interoperable across member states, enhancing the integrity of the Schengen Area. The acquis communautaire mandates harmonisation of document features to ensure genuine and reliable identification for EU citizens and nationals from associated countries like Iceland and Switzerland. The fraudulent alteration of documents undermines security measures, necessitating robust legal frameworks to render such acts punishable and to protect the integrity of travel systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:21:10.720379",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 252,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1754,
+      "selected_avg_freq": 897.0333333333333
+    },
+    "related_words": [
+      "falsifications",
+      "biometrics",
+      "biometric",
+      "falsification",
+      "secret",
+      "readable",
+      "interoperable",
+      "sis",
+      "counterfeiting",
+      "icao",
+      "passports",
+      "identifiers",
+      "thessaloniki",
+      "passport",
+      "upgrade",
+      "fraudulent",
+      "visas",
+      "machine",
+      "builds",
+      "aviation",
+      "schengen",
+      "genuine",
+      "travel",
+      "perspective",
+      "nationals",
+      "acquis",
+      "render",
+      "read",
+      "designate",
+      "vis"
+    ],
+    "prompt_length": 1686,
+    "category": "1216 criminal law"
+  }
+}

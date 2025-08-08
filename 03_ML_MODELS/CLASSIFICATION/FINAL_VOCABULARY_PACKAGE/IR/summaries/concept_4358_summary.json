@@ -1,0 +1,63 @@
+{
+  "concept_id": "4358",
+  "concept_data": {
+    "title": "farming system",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"farming system\" concept within EU legal and regulatory frameworks encompasses various agricultural practices and structures, including the cultivation of crops such as sugarbeet, hemp, and olive trees. It involves the management of parcels of land, measured in hectares, where farmers declare their entitlements and claim subsidies. The system aims to harmonise agricultural standards across member states, ensuring that practices are not distorted by undue competition. Specific regulations may address the cultivation of fibre crops, like hemp, and the implementation of optional modulation measures. Furthermore, the farming system supports diverse varieties of livestock and crops, promoting sustainable practices while enabling farmers to continuously enjoy their rights and benefits.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:04:41.477810",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 317,
+      "requested_words": 150,
+      "min_frequency_found": 35,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 35,
+      "selected_max_freq": 1357,
+      "selected_avg_freq": 699.5266666666666
+    },
+    "related_words": [
+      "tetrahydrocannabinol",
+      "groves",
+      "sugarbeet",
+      "furniture",
+      "iva",
+      "parcels",
+      "sown",
+      "anymore",
+      "worker",
+      "hemp",
+      "entitlements",
+      "modulation",
+      "titles",
+      "hectares",
+      "trees",
+      "cane",
+      "distorted",
+      "implements",
+      "beet",
+      "declare",
+      "certifying",
+      "continuously",
+      "meant",
+      "optional",
+      "hectare",
+      "cultivation",
+      "fibre",
+      "aside",
+      "undue",
+      "host"
+    ],
+    "prompt_length": 1645,
+    "category": "5616 farming systems"
+  }
+}

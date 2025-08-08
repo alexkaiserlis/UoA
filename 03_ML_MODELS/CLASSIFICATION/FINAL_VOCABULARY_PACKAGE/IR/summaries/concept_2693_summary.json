@@ -1,0 +1,63 @@
+{
+  "concept_id": "2693",
+  "concept_data": {
+    "title": "electrolysis",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "electrical process",
+    "relation_type": "USE"
+  },
+  "summary": "Electrolysis, an electrical process, is pivotal in the EU's regulatory framework for technology and technical regulations. This electrochemical method employs electrodes to facilitate reactions, such as the oxidation of water into hydrogen and oxygen, thereby minimizing harmful discharges into groundwater. The process is advantageous for industrialization, particularly in the production of noble gases and alkali compounds. Regulatory imperatives focus on harmonizing practices across interconnected grids, ensuring compliance with environmental standards. Additionally, the use of electrocatalytic materials, such as those developed by Tokuyama, enhances efficiency. Therefore, understanding electrolysis is essential for policymakers aiming to devise sustainable energy solutions while addressing social and environmental concerns.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:53.443663",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 480,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 676,
+      "selected_avg_freq": 278.11333333333334
+    },
+    "related_words": [
+      "inertnal",
+      "potentiostat",
+      "electrocatalytic",
+      "elctrocatalytic",
+      "adatoms",
+      "galvanostat",
+      "demineralization",
+      "pricipally",
+      "programmer",
+      "electrochemical",
+      "polices",
+      "tokuyama",
+      "electrodialysis",
+      "therfore",
+      "chlorides",
+      "imperatives",
+      "chlor",
+      "rhodes",
+      "outlying",
+      "interconnections",
+      "grids",
+      "electrolysis",
+      "noble",
+      "sparsely",
+      "alkali",
+      "industrialization",
+      "electrodes",
+      "scattered",
+      "harmonizing",
+      "scanning"
+    ],
+    "prompt_length": 1807,
+    "category": "6411 technology and technical regulations"
+  }
+}

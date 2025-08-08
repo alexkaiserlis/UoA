@@ -1,0 +1,63 @@
+{
+  "concept_id": "3932",
+  "concept_data": {
+    "title": "privatization",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "privatisation",
+    "relation_type": "USE"
+  },
+  "summary": "Privatization, or privatisation, refers to the process of transferring ownership of public assets to private entities, often through concessionary leases or sales. In the EU legal context, this process is regulated to prevent overvaluation and ensure fair competition. For instance, when state-owned enterprises are privatized, liquidators may oversee the transition, ensuring that dependants, such as pensioning miners, are not adversely affected. The regulatory framework also addresses issues like the reauthorization of licenses for privatized services, ensuring compliance with environmental standards, particularly in sectors like airways and underground mining. This complex process can involve retransfer of assets and managing unworked resources, such as anthracite, while safeguarding public interests.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:04:52.536975",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 528,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 180.06
+    },
+    "related_words": [
+      "oal",
+      "overvaluation",
+      "overvaluing",
+      "ethniki",
+      "kefalaiou",
+      "reauthorizing",
+      "goitre",
+      "retransferred",
+      "airways",
+      "mothballed",
+      "rjb",
+      "subsidence",
+      "improbable",
+      "concessionary",
+      "dependants",
+      "enquired",
+      "lacks",
+      "privatize",
+      "anthracite",
+      "tower",
+      "reauthorize",
+      "liquidator",
+      "unworked",
+      "venting",
+      "trustee",
+      "tips",
+      "inherited",
+      "pensioning",
+      "oas",
+      "retired"
+    ],
+    "prompt_length": 1715,
+    "category": "1211 civil law"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5636",
+  "concept_data": {
+    "title": "talking book",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "facilities for people with disabilities",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"talking book\" is redirected to \"facilities for people with disabilities\" within EU legal and regulatory frameworks. These facilities aim to enhance accessibility for individuals with impairments, particularly in reading. By incorporating sophisticated technologies such as adjustable beds and telematics, these systems can dramatically improve the quality of life for the elderly and disabled. The integration of implantable devices and paging systems can minimise the unintended trouble faced by users, while alarms and messaging services provide essential support. Regulatory measures ensure that these utilities meet norms for safety and efficacy, thereby safeguarding users' rights and enhancing their expectancy of care.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:22.757553",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 718,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 360,
+      "selected_avg_freq": 146.01333333333332
+    },
+    "related_words": [
+      "sms",
+      "pmr",
+      "hip",
+      "adjustable",
+      "knee",
+      "shoulder",
+      "trouble",
+      "stolen",
+      "implants",
+      "impairments",
+      "surgery",
+      "paging",
+      "alarms",
+      "minimises",
+      "steer",
+      "subsystems",
+      "expectancy",
+      "ermes",
+      "joints",
+      "replacements",
+      "alarm",
+      "timescale",
+      "messaging",
+      "beds",
+      "meter",
+      "telematics",
+      "implantable",
+      "sight",
+      "occupy",
+      "hospital"
+    ],
+    "prompt_length": 1700,
+    "category": "2826 social affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3404",
+  "concept_data": {
+    "title": "reprography",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Reprography refers to the reproduction of documents and images through various means, including photocopiers and printers, which are essential for information dissemination within EU authorities. This concept encompasses the reproduction of materials such as banknotes, audio cassettes, and video recordings, raising copyright considerations. The legal framework surrounding reprography includes arrangements for acknowledging designers and ensuring that reproductions do not infringe on intellectual property rights. In regions like Flevoland and Brabant, specific regulations may apply to prevent the mutilated reproduction of copyrighted works. Thus, reprography plays a crucial role in balancing the rights of creators with public access to information.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:27:28.018393",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 511,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 618,
+      "selected_avg_freq": 218.89333333333335
+    },
+    "related_words": [
+      "vertain",
+      "authorithies",
+      "endiung",
+      "announcements",
+      "arragements",
+      "mutilated",
+      "typewriters",
+      "espadrilles",
+      "sided",
+      "prodcuts",
+      "photocopiers",
+      "designers",
+      "overijssel",
+      "clothes",
+      "reproductions",
+      "banknote",
+      "cassette",
+      "printers",
+      "dot",
+      "flevoland",
+      "devolved",
+      "oat",
+      "acknowledgement",
+      "radios",
+      "reproduce",
+      "brabant",
+      "utrecht",
+      "noord",
+      "naked",
+      "indefinitely"
+    ],
+    "prompt_length": 1690,
+    "category": "3231 information and information processing"
+  }
+}

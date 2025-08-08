@@ -1,0 +1,63 @@
+{
+  "concept_id": "5710",
+  "concept_data": {
+    "title": "renting",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "hiring",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"renting\" is a term redirected to \"hiring,\" which encompasses the temporary provision of goods or services, particularly in transport. This concept is crucial for establishing conditions concerning the carriage of goods by road vehicles, as outlined in various directives and regulations. The European Commission has proposed amendments to existing provisions to address discrimination in hiring practices, ensuring fair rates and economic viability. The implementation of these regulations is necessary for the abolition of barriers within the internal market. The Council and Parliament play vital roles in the definition and establishment of these community standards, reflecting the treaty's objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:46:10.970589",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 44,
+      "requested_words": 150,
+      "min_frequency_found": 27,
+      "max_frequency_found": 4108,
+      "selected_words": 44,
+      "selected_min_freq": 27,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2205.590909090909
+    },
+    "related_words": [
+      "reward",
+      "hired",
+      "hire",
+      "carriers",
+      "excludes",
+      "carriage",
+      "road",
+      "vehicles",
+      "abolition",
+      "discrimination",
+      "makes",
+      "definition",
+      "rates",
+      "own",
+      "transport",
+      "contained",
+      "goods",
+      "amend",
+      "provision",
+      "said",
+      "social",
+      "directive",
+      "use",
+      "implementation",
+      "account",
+      "conditions",
+      "proposal",
+      "amending",
+      "concerning",
+      "parliament"
+    ],
+    "prompt_length": 1615,
+    "category": "2031 marketing"
+  }
+}

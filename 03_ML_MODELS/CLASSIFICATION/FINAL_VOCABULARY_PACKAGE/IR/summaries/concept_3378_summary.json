@@ -1,0 +1,63 @@
+{
+  "concept_id": "3378",
+  "concept_data": {
+    "title": "property market",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"property market\" within the EU regulatory framework encompasses the transactions and taxation related to buildings and land. It involves complex issues such as the measurement of taxable turnover and the avoidance of tax evasion. The IASB and IFRS standards play a crucial role in streamlining accounting practices, ensuring consistency in interpretations across member states. Clarifications and corrections to existing regulations are often necessary to address ambiguities in the wording of tax liabilities. The EU aims to simplify the property market through harmonization efforts, authorizing improvements and clarifying options for purchasers. This cycle of regulation and compliance is vital for fostering a transparent and efficient property market.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:00:25.907415",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 200,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 2652,
+      "selected_avg_freq": 1114.6866666666667
+    },
+    "related_words": [
+      "habe",
+      "iasb",
+      "streamlining",
+      "ias",
+      "ifrs",
+      "inconsistency",
+      "interpretations",
+      "clarifying",
+      "carries",
+      "evasion",
+      "taxable",
+      "avoidance",
+      "clarifications",
+      "purchaser",
+      "buildings",
+      "began",
+      "discussed",
+      "charging",
+      "built",
+      "corrections",
+      "wishes",
+      "confirms",
+      "cycle",
+      "exercised",
+      "read",
+      "taxation",
+      "measurement",
+      "clarification",
+      "transaction",
+      "liability"
+    ],
+    "prompt_length": 1692,
+    "category": "2846 construction and town planning"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3594",
+  "concept_data": {
+    "title": "specialist",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "doctor",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"specialist\" is a redirect to \"doctor,\" encompassing various medical professionals with specific qualifications and specializations. This includes practitioners in fields such as gynaecology, obstetrics, ophthalmology, and endocrinology, among others. The recognition of specialists, such as optometrists and physiotherapists, is critical for ensuring quality healthcare delivery. Regulatory frameworks often require diplomas and certifications from accredited faculties, ensuring that professionals like Kirker, Healy, and Macnamara meet established standards. The roles of technicians and ortopædimekaniker are also vital in supporting specialists. The EU emphasizes the importance of these distinctions for patient safety and effective healthcare systems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:20:44.792277",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 423,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 376,
+      "selected_avg_freq": 75.6
+    },
+    "related_words": [
+      "papoutsakis",
+      "loukas",
+      "forakis",
+      "pissiotis",
+      "diplomes",
+      "kirker",
+      "prichard",
+      "healy",
+      "cillian",
+      "twomey",
+      "cormac",
+      "macnamara",
+      "specializations",
+      "stuyvenberg",
+      "vooys",
+      "coppens",
+      "wijn",
+      "technician",
+      "zubný",
+      "technik",
+      "optometrist",
+      "ortopædimekaniker",
+      "shoemaker",
+      "ortopædiskomager",
+      "trias",
+      "folch",
+      "muñoz",
+      "bombi",
+      "latorre",
+      "faculties"
+    ],
+    "prompt_length": 1705,
+    "category": "2841 health"
+  }
+}

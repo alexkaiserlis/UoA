@@ -1,0 +1,63 @@
+{
+  "concept_id": "3764",
+  "concept_data": {
+    "title": "petroleum exploration",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Petroleum exploration, a critical aspect of the oil industry, encompasses the activities of prospecting and drilling for crude oil (rohöl) and other mineral resources. In the EU, this process is governed by various legal frameworks, including the berggesetz and mineralrohstoffgesetz, which regulate the licensing and bidding processes for exploration rights. Companies such as OMV, ExxonMobil, and Eni engage in these activities, often employing geologists and geophysicists to identify promising sites. The exploration phase can lead to significant discoveries, yet many areas remain undeveloped. Compliance with regulations, such as the bundesvergabegesetz, is essential for licensees, ensuring fair competition (konkurrence) and environmental protection during extraction and quarrying operations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:19:31.677363",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 681,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 300,
+      "selected_avg_freq": 119.62666666666667
+    },
+    "related_words": [
+      "berggesetz",
+      "mineralrohstoffgesetz",
+      "bundesvergabegesetz",
+      "omv",
+      "rohöl",
+      "aufsuchungs",
+      "bitumengesetz",
+      "sickle",
+      "gesmbh",
+      "geologist",
+      "geophysicist",
+      "assomineraria",
+      "mærsk",
+      "olie",
+      "hess",
+      "nordzee",
+      "altinex",
+      "noreco",
+      "discoveries",
+      "undeveloped",
+      "konkurrence",
+      "forbrugerstyrelsen",
+      "allgemeine",
+      "bundesgesetz",
+      "engineer",
+      "edison",
+      "wintershall",
+      "prospecting",
+      "aps",
+      "dong"
+    ],
+    "prompt_length": 1715,
+    "category": "6616 oil industry"
+  }
+}

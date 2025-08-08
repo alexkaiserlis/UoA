@@ -1,0 +1,63 @@
+{
+  "concept_id": "8447",
+  "concept_data": {
+    "title": "visual disturbance",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "eye disease",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"visual disturbance,\" a redirect to \"eye disease,\" encompasses various conditions affecting eyesight, including those linked to diabetes and epilepsy. In the EU regulatory framework, the existence of such disorders necessitates the adaptation of medical preparations and the licensing of substances that may alleviate symptoms. Stricter regulations are imposed on the formulation of medicinal products, ensuring compliance with harmonised standards. Specialists are appointed to oversee the scientific progress of these substances, which may include traditional herbal medicines like hamamelis virginiana. Reports on the efficacy of combinations of treatments are regularly updated to inform driving fitness assessments and ensure public safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:01:06.279159",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 127,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 127,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1803.244094488189
+    },
+    "related_words": [
+      "eyesight",
+      "diabetes",
+      "epilepsy",
+      "hamamelis",
+      "virginiana",
+      "herbal",
+      "fitness",
+      "drive",
+      "combinations",
+      "specialists",
+      "comprised",
+      "driving",
+      "driver",
+      "medicines",
+      "formulated",
+      "stricter",
+      "medicinal",
+      "licensing",
+      "advised",
+      "medical",
+      "combination",
+      "preparations",
+      "updating",
+      "substance",
+      "impose",
+      "licences",
+      "traditional",
+      "appointed",
+      "complies",
+      "substances"
+    ],
+    "prompt_length": 1722,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2666",
+  "concept_data": {
+    "title": "discriminatory price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"discriminatory price\" in EU legal and regulatory frameworks refers to pricing strategies that differentiate costs for similar goods or services, often impacting the poorest and most vulnerable populations. This practice is particularly relevant in the pharmaceutical sector, where tiered pricing for medicines, such as HIV treatments like epivir and combivir, can affect access for patients in poverty. Discriminatory pricing may lead to the erosion of equitable access to essential drugs, vaccines, and diagnostics, especially in humanitarian contexts. Regulatory measures aim to prevent the diversion of counterfeit or pirated pharmaceuticals, ensuring that scarce resources are allocated fairly and that victims of communicable diseases receive affordable treatment.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:10:51.200289",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 297,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1279,
+      "selected_avg_freq": 536.5133333333333
+    },
+    "related_words": [
+      "epivir",
+      "combivir",
+      "tiered",
+      "malaria",
+      "donations",
+      "pirated",
+      "scarce",
+      "hiv",
+      "poorest",
+      "suspensive",
+      "affordable",
+      "seized",
+      "dependant",
+      "pharmaceuticals",
+      "forfeiture",
+      "communicable",
+      "segmentation",
+      "counterfeit",
+      "discounted",
+      "priced",
+      "erosion",
+      "luggage",
+      "forfeited",
+      "colza",
+      "diversion",
+      "drugs",
+      "diagnosis",
+      "travellers",
+      "victims",
+      "instructed"
+    ],
+    "prompt_length": 1709,
+    "category": "2451 prices"
+  }
+}

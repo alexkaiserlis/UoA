@@ -1,0 +1,63 @@
+{
+  "concept_id": "2807",
+  "concept_data": {
+    "title": "promotion",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"promotion\" constitutes a vital aspect of personnel management and staff remuneration. It encompasses the progressive advancement of workers, ensuring equal treatment and opportunities for both male and female employees. The principle of equality is furthered through various instruments aimed at improving access to vocational training and employment. EU laws and programmes prioritize the harmonization of pay structures and the approximation of working conditions, thereby enhancing job security and living standards. Achieving these objectives requires a resolution of matters related to promotion, which appears essential for maintaining a fair and inclusive workforce.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:08.309729",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 79,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 79,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1876.873417721519
+    },
+    "related_words": [
+      "furthered",
+      "female",
+      "men",
+      "male",
+      "women",
+      "vocational",
+      "equality",
+      "confer",
+      "priorities",
+      "harmonization",
+      "progressive",
+      "living",
+      "pay",
+      "promotion",
+      "workers",
+      "achieving",
+      "approximation",
+      "maintaining",
+      "training",
+      "employment",
+      "ensured",
+      "improvement",
+      "resolution",
+      "subsequent",
+      "equal",
+      "laws",
+      "matters",
+      "working",
+      "instruments",
+      "appears"
+    ],
+    "prompt_length": 1680,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

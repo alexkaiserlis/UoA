@@ -1,0 +1,63 @@
+{
+  "concept_id": "4270",
+  "concept_data": {
+    "title": "status of Jerusalem",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"status of Jerusalem\" is a critical issue within the context of international security, particularly under the EU's Common Foreign and Security Policy (CFSP). The European Union (EU) has adopted various decisions and proposals aimed at addressing the deteriorating situation in Jerusalem, which impedes the peace process in the Middle East. Appointed representatives, such as the High Representative for Foreign Affairs, play a vital role in implementing the EU's objectives and actions regarding this complex issue. The EU's mandate includes promoting stability and joint efforts towards achieving a peaceful resolution, as outlined in official documents from January, February, June, and July. The ongoing discussions reflect the EU's commitment to addressing the status of Jerusalem within the broader framework of international law and treaties.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:55:38.387061",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 46,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 46,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1754.5434782608695
+    },
+    "related_words": [
+      "reinicke",
+      "otte",
+      "marc",
+      "andreas",
+      "eusr",
+      "middle",
+      "peace",
+      "deteriorate",
+      "impede",
+      "appointing",
+      "east",
+      "cfsp",
+      "mandate",
+      "affairs",
+      "appointed",
+      "achievement",
+      "foreign",
+      "external",
+      "representative",
+      "security",
+      "process",
+      "joint",
+      "implement",
+      "context",
+      "objectives",
+      "high",
+      "special",
+      "action",
+      "situation",
+      "policy"
+    ],
+    "prompt_length": 1592,
+    "category": "0816 international security"
+  }
+}

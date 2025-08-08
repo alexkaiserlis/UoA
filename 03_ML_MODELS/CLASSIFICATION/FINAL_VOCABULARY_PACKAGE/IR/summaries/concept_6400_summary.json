@@ -1,0 +1,63 @@
+{
+  "concept_id": "6400",
+  "concept_data": {
+    "title": "reduction of gas emissions",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"reduction of gas emissions\" is a critical component of EU environmental policy aimed at abating greenhouse gas (GHG) emissions, including hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs). Regulatory frameworks promote the scaling of innovative technologies, such as biograce-certified biofuels and HVO, to enhance affordability and sustainability. Developers are encouraged to redesigning processes, focusing on ultrafine particulate emissions and efficient powertrain systems. Initiatives like the RSB and Bonsucro standards support emission reduction goals, while the use of advanced materials in lamination and encapsulation processes can further minimize emissive outputs. The EU’s commitment to reducing trifluoromethane and chlorodifluoromethane emissions reflects its broader environmental objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:10:45.575207",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2214,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 22,
+      "selected_avg_freq": 11.053333333333333
+    },
+    "related_words": [
+      "biograce",
+      "ghg",
+      "hvo",
+      "emissive",
+      "salbutamol",
+      "scaling",
+      "trifluoromethane",
+      "hfc",
+      "adipic",
+      "chlorodifluoromethane",
+      "abating",
+      "developers",
+      "reutlingen",
+      "refraction",
+      "fakt",
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "ensus",
+      "polynomial",
+      "hfcs",
+      "pfcs",
+      "hexafluoride",
+      "hydrofluorocarbons",
+      "perfluorocarbons",
+      "greenergy",
+      "affordability",
+      "abengoa",
+      "rbsa",
+      "denso"
+    ],
+    "prompt_length": 1666,
+    "category": "5206 environmental policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4819",
+  "concept_data": {
+    "title": "bar",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"bar\" in EU legal and regulatory contexts pertains to various technical regulations, particularly concerning materials like aluminium and their applications in manufacturing. This includes the use of enamelled and anodized finishes on wrought products, such as rods and connectors, which are essential in industries ranging from construction to telecommunications. Regulations may address countervailability issues related to imports from regions like Maharashtra and Hindustan, ensuring compliance with standards set by organizations like Eurofer. Additionally, programs for rentals and rentals of equipment, such as coaxial cables, may be governed by specific guidelines, including FTP and ECS protocols, to ensure safety and efficiency.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:24:54.443490",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 610,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 329,
+      "selected_avg_freq": 136.78
+    },
+    "related_words": [
+      "alumminium",
+      "enamelled",
+      "anodized",
+      "ssb",
+      "vpl",
+      "ecs",
+      "ftp",
+      "edes",
+      "maharashtra",
+      "depbs",
+      "aas",
+      "chandan",
+      "uncles",
+      "uncle",
+      "rentals",
+      "hindustan",
+      "wrought",
+      "venus",
+      "passbook",
+      "epcgs",
+      "eou",
+      "viraj",
+      "father",
+      "bombay",
+      "coaxial",
+      "goi",
+      "mumbai",
+      "countervailability",
+      "betwen",
+      "connectors"
+    ],
+    "prompt_length": 1614,
+    "category": "6411 technology and technical regulations"
+  }
+}

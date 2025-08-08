@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_9b88f778",
+  "concept_data": {
+    "title": "nosocomial infection",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "hospital infection",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"nosocomial infection,\" commonly referred to as \"hospital infection,\" pertains to infections acquired in healthcare settings, particularly hospitals. These infections pose significant public health challenges and are subject to stringent regulatory frameworks aimed at infection control and prevention. The European Centre for Disease Prevention and Control (ECDC) provides guidelines that member states must adhere to, ensuring that healthcare facilities implement effective surveillance and management strategies. The term \"hospital infection\" serves as the preferred nomenclature in EU documentation, emphasizing the need for robust policies to mitigate risks associated with these infections and enhance patient safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:47.262758",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1204,
+    "category": "2841 health"
+  }
+}

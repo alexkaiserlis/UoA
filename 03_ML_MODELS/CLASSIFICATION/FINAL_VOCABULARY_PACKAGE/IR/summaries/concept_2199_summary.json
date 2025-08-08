@@ -1,0 +1,63 @@
+{
+  "concept_id": "2199",
+  "concept_data": {
+    "title": "North Atlantic Treaty Organization",
+    "category_code": "7621",
+    "category_name": "world organisations",
+    "category_full": "7621 world organisations",
+    "is_redirect": true,
+    "preferred_term": "NATO",
+    "relation_type": "USE"
+  },
+  "summary": "The North Atlantic Treaty Organization (NATO) is a pivotal world organisation that plays a crucial role in ensuring collective security among its member states. In the context of EU legal and regulatory frameworks, NATO's importance is stressed in various documents, particularly concerning the Common Foreign and Security Policy (CFSP). The organisation facilitates negotiations and arrangements that derive from mutual obligations, enhancing security cooperation. The secretary general and respective secretariats often assist in achieving positive outcomes, while representatives engage in contacts to comply with approved regulations. As the EU navigates its security landscape, NATO remains a permanent partner, making its role integral to the conclusion of strategic arrangements.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:49:41.043245",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 72,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 72,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1687.1805555555557
+    },
+    "related_words": [
+      "secretaries",
+      "nato",
+      "barcelona",
+      "presidency",
+      "contacts",
+      "atlantic",
+      "begin",
+      "earliest",
+      "deriving",
+      "secretary",
+      "secretariat",
+      "stressed",
+      "assisted",
+      "cfsp",
+      "north",
+      "achieving",
+      "outcome",
+      "negotiated",
+      "arrangement",
+      "permanent",
+      "interim",
+      "positive",
+      "asked",
+      "letters",
+      "authorising",
+      "respective",
+      "recommendation",
+      "negotiations",
+      "representative",
+      "importance"
+    ],
+    "prompt_length": 1732,
+    "category": "7621 world organisations"
+  }
+}

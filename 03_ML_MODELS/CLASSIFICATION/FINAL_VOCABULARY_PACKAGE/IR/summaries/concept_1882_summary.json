@@ -1,0 +1,63 @@
+{
+  "concept_id": "1882",
+  "concept_data": {
+    "title": "metals",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"metals\" encompasses a range of materials critical to the iron, steel, and other metal industries within the EU regulatory framework. This includes the microstructural analysis of metals, where techniques such as dilatometry and microanalysis elucidate properties like fatigue and shear resistance. Regulatory standards often address the use of reactive metals and their dispersoids, ensuring safety in applications involving diisopropylnaphtalene and other compounds. The EU's approach to countervailability in metal production considers environmental impacts, such as those from the production processes in regions like Wilmington and Morges. Advanced methodologies, including spectrophotometry and the use of microscopes, support compliance with regulations governing the quality and performance of metals, ensuring they meet the necessary specifications for durability and safety.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:50:10.397437",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 968,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 159,
+      "selected_avg_freq": 57.10666666666667
+    },
+    "related_words": [
+      "dispersoids",
+      "diisopropylnaphtalene",
+      "microstructural",
+      "microanalysis",
+      "rotaflex",
+      "elucidation",
+      "quench",
+      "tel",
+      "dilatometer",
+      "dilatronic",
+      "nypa",
+      "plains",
+      "niagara",
+      "deformation",
+      "rigaku",
+      "theta",
+      "iiis",
+      "atsdr",
+      "ipcs",
+      "jem",
+      "minimus",
+      "sanayii",
+      "métaux",
+      "spéciaux",
+      "mssa",
+      "morges",
+      "evonik",
+      "dionex",
+      "displacements",
+      "anode"
+    ],
+    "prompt_length": 1676,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1595",
+  "concept_data": {
+    "title": "regulations on plant health",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "plant health legislation",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"regulations on plant health,\" often referred to as \"plant health legislation,\" encompasses EU legal frameworks aimed at safeguarding agricultural productivity and biodiversity. This legislation addresses various phytosanitary measures, including the control of pests like amauromyza and the regulation of substances such as triazamate and chloroxuron. It ensures that products like bonsai and photinia meet health standards, thereby preventing the introduction of harmful organisms. The legislation also involves publicizing best practices for the use of agrochemicals, including dimethipin and tebufenpyrad, while promoting sustainable agricultural practices. By reassigning responsibilities among member states, the EU aims to enhance plant health protection across regions like Gorenjska and Maribor, ensuring compliance with rigorous standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:18.186712",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 3503,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.386666666666667
+    },
+    "related_words": [
+      "triazamate",
+      "bonzai",
+      "reassign",
+      "chloroxuron",
+      "ethane",
+      "methoxychlor",
+      "cartap",
+      "slowness",
+      "aobut",
+      "amauromyza",
+      "bonsai",
+      "publicizing",
+      "existiang",
+      "porrum",
+      "libani",
+      "brutia",
+      "monocarbamide",
+      "dihydrogensulphate",
+      "dimethipin",
+      "aef",
+      "silthiopham",
+      "broward",
+      "hillsborough",
+      "secretaria",
+      "defensa",
+      "agropecuária",
+      "muricatum",
+      "nihon",
+      "nohyaku",
+      "gorenjska"
+    ],
+    "prompt_length": 1772,
+    "category": "5606 agricultural policy"
+  }
+}

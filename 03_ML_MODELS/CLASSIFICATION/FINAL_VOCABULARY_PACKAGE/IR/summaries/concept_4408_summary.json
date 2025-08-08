@@ -1,0 +1,63 @@
+{
+  "concept_id": "4408",
+  "concept_data": {
+    "title": "civil aviation",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Civil aviation encompasses the regulatory framework governing air transport within the EU's territory, focusing on safety, efficiency, and environmental impact. It includes rulemaking for aircrew qualifications, aircraft certification, and operational standards. The European Union Aviation Safety Agency (EASA) plays a pivotal role in assessing and certifying aircraft, ensuring compliance with regulations. This sector also addresses ultralight and microlight aircraft, with specific definitions and requirements for sailplanes and gliding operations. Intrusive noise regulations target the noisiest airports, such as Heathrow and Tegel, while initiatives promote quieter aircraft technologies. The regulatory landscape is dynamic, with supervening amendments reflecting evolving aviation needs and safety standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:06:38.200191",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1827,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 34,
+      "selected_avg_freq": 13.84
+    },
+    "related_words": [
+      "aircrew",
+      "territority",
+      "airside",
+      "rulemaking",
+      "hang",
+      "ultralight",
+      "amj",
+      "fan",
+      "quietest",
+      "aea",
+      "iaca",
+      "vagar",
+      "kangerlussuaq",
+      "hhmd",
+      "headgear",
+      "prosthesis",
+      "intrusive",
+      "screened",
+      "aer",
+      "lingus",
+      "assessors",
+      "heathrow",
+      "dub",
+      "lhr",
+      "recertificated",
+      "noisiest",
+      "certificated",
+      "aero",
+      "conurbation",
+      "tegel"
+    ],
+    "prompt_length": 1643,
+    "category": "4826 air and space transport"
+  }
+}

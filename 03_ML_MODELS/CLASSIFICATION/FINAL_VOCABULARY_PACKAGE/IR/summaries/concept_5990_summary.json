@@ -1,0 +1,63 @@
+{
+  "concept_id": "5990",
+  "concept_data": {
+    "title": "cider",
+    "category_code": "6021",
+    "category_name": "beverages and sugar",
+    "category_full": "6021 beverages and sugar",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cider, a distinct beverage within the EU's regulatory framework, is traditionally crafted from fermented apples, embodying a rich heritage akin to that of spirits like brandy and vodka. The production of cider, particularly in regions such as Somerset and Podlasie, enjoys a reputation for quality, often incorporating herbal extracts or ziołowa flavors. Regulatory standards ensure that labels accurately reflect the true nature of the drink, preventing misleading information. Cider can be aromatised or flavoured, with distinct denominations that highlight its unique characteristics. Aged cask varieties may also emerge, contributing to the diverse landscape of EU beverages, which includes drinks like cream and bison grass vodka.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:04:13.386650",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 185,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 2748,
+      "selected_avg_freq": 911.3466666666667
+    },
+    "related_words": [
+      "brandy",
+      "podlasie",
+      "lowland",
+      "ziołowa",
+      "niziny",
+      "północnopodlaskiej",
+      "aromatyzowana",
+      "ekstraktem",
+      "trawy",
+      "żubrowej",
+      "wódka",
+      "cask",
+      "vodka",
+      "somerset",
+      "cider",
+      "bison",
+      "herbal",
+      "aromatised",
+      "reserving",
+      "beverage",
+      "drink",
+      "flavoured",
+      "enjoys",
+      "reputation",
+      "distilled",
+      "county",
+      "mislead",
+      "familiar",
+      "heritage",
+      "aged"
+    ],
+    "prompt_length": 1641,
+    "category": "6021 beverages and sugar"
+  }
+}

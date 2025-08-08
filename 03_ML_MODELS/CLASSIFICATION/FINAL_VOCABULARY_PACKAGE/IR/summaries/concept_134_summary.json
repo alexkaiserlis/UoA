@@ -1,0 +1,63 @@
+{
+  "concept_id": "134",
+  "concept_data": {
+    "title": "protection of resources",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "conservation of resources",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"protection of resources,\" redirected to \"conservation of resources,\" is pivotal in EU environmental policy, particularly concerning biogeographical ecosystems. This regulatory framework addresses the sustainable management of marine resources, including species like Dissostichus eleginoides and Notothenia gibberifrons, which inhabit the Antarctic and are subject to overfishing. The EU's commitment to conservation encompasses measures against trawling practices that threaten cetaceans and other marine life. Legal instruments mandate logbooks for fishing activities, ensuring transparency and data deposition for ecosystem monitoring. Furthermore, initiatives like the CCAMLR aim to promote the replenishment of straddling stocks, enhancing selectivity and sustainability in fisheries management.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:32:39.117526",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 877,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 198,
+      "selected_avg_freq": 84.64
+    },
+    "related_words": [
+      "antartic",
+      "patagonotothen",
+      "brevicauda",
+      "guntheri",
+      "notothenia",
+      "gibberifrons",
+      "chaenocephalus",
+      "aceratus",
+      "pseudochaenichthys",
+      "georgianus",
+      "squamifrons",
+      "rossii",
+      "dissostichus",
+      "eleginoides",
+      "dissotichus",
+      "theroef",
+      "øresund",
+      "biogeograpical",
+      "windhoek",
+      "anf",
+      "champsocephalus",
+      "gunnari",
+      "steppic",
+      "haul",
+      "logbooks",
+      "cancun",
+      "ccamlr",
+      "biogeographical",
+      "deposition",
+      "drift"
+    ],
+    "prompt_length": 1795,
+    "category": "5206 environmental policy"
+  }
+}

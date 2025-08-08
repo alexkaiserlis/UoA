@@ -1,0 +1,63 @@
+{
+  "concept_id": "924",
+  "concept_data": {
+    "title": "tax haven",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "tax avoidance",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax haven,\" redirected to \"tax avoidance,\" encompasses jurisdictions that facilitate the manipulation of tax liabilities, often through illegitimate means. Within EU legal frameworks, these practices can exploit specificities in tax laws, allowing taxpayers to evade obligations and maximise deductions. This phenomenon undermines the resilience of tax systems, leading to massive losses in revenue for member states. The EU actively tackles abusive strategies, intervening to counteract the misuse of tax provisions. By appraising distributions and acquisitions, the EU aims to eliminate the circuits of tax avoidance that derogate from fair taxation principles, ensuring a more equitable apportionment of tax burdens among taxpayers.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:04:32.656137",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 630,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 461,
+      "selected_avg_freq": 217.65333333333334
+    },
+    "related_words": [
+      "qrm",
+      "resilient",
+      "illegitimate",
+      "taxpayer",
+      "collectivity",
+      "barthélemy",
+      "abusive",
+      "loses",
+      "presumptions",
+      "adduce",
+      "abused",
+      "helpful",
+      "distributions",
+      "appraise",
+      "taxpayers",
+      "quicker",
+      "dividends",
+      "ties",
+      "acquisitions",
+      "phenomena",
+      "exclusions",
+      "maximise",
+      "evade",
+      "tackling",
+      "countering",
+      "manipulation",
+      "withholding",
+      "mere",
+      "taxed",
+      "apportionment"
+    ],
+    "prompt_length": 1706,
+    "category": "2446 taxation"
+  }
+}

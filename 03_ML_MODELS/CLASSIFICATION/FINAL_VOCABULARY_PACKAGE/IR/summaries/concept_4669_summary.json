@@ -1,0 +1,63 @@
+{
+  "concept_id": "4669",
+  "concept_data": {
+    "title": "person-to-person selling",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "direct selling",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"person-to-person selling,\" commonly referred to as \"direct selling,\" encompasses retail transactions where goods are sold directly to consumers, bypassing traditional retail channels. In the EU legal framework, this practice is subject to regulations that aim to protect buyers and ensure fair trading. The seriousness of compliance is underscored by potential penalties for offences, which can hamper business operations. Key actors in this sector must observe regulations regarding the delivery of commodities, including the finalisation of contracts and the observance of consumer rights. As crises elapse, the need for effective deterrent measures becomes evident, ensuring that purchasers are treated fairly and that their experiences are safeguarded against delays and unfair practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:13:44.049880",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 463,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 870,
+      "selected_avg_freq": 505.58
+    },
+    "related_words": [
+      "summarizing",
+      "yoghurts",
+      "slom",
+      "elapsing",
+      "factually",
+      "lagomorphs",
+      "treating",
+      "offence",
+      "deterrent",
+      "overruns",
+      "crises",
+      "hardly",
+      "hamper",
+      "composite",
+      "launching",
+      "assignment",
+      "forwarding",
+      "finalise",
+      "commencement",
+      "experiences",
+      "actors",
+      "seriousness",
+      "purchaser",
+      "penalty",
+      "buyers",
+      "deletion",
+      "completing",
+      "excludes",
+      "commodities",
+      "purchasers"
+    ],
+    "prompt_length": 1740,
+    "category": "2031 marketing"
+  }
+}

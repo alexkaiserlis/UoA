@@ -1,0 +1,63 @@
+{
+  "concept_id": "2483",
+  "concept_data": {
+    "title": "support policy",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"support policy\" within the EU economic framework encompasses a range of measures designed to assist regions facing economic challenges, such as those in areas like Meulebeke and Ardooie. This policy aims to address unremitting economic disparities and promote sustainable development. Authorities in municipalities like Lichtervelde and Zwevezele may implement calculated initiatives to enhance local economies, including support for sectors like housepainters and wallpaper manufacturers. The policy also pinpoints specific needs in communities, ensuring that funding does not overspend while addressing diseases affecting local industries. By accentuating collaboration among regions like Torhout and Ichtegem, the support policy fosters a cohesive economic environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:36:23.261759",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1413,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 102,
+      "selected_avg_freq": 36.013333333333335
+    },
+    "related_words": [
+      "masures",
+      "tielt",
+      "pittem",
+      "meulebeke",
+      "ardooie",
+      "ingelmunster",
+      "lendelede",
+      "izegem",
+      "roeselaere",
+      "ledegem",
+      "moorslede",
+      "staden",
+      "zonnebeke",
+      "poelkapelle",
+      "lichtervelde",
+      "zwevezele",
+      "reninge",
+      "ichtegem",
+      "calcultaed",
+      "torhout",
+      "kortemark",
+      "genval",
+      "housepainters",
+      "wallpaper",
+      "unremitting",
+      "pinpoints",
+      "lanarkshire",
+      "hir",
+      "overspend",
+      "betws"
+    ],
+    "prompt_length": 1667,
+    "category": "1606 economic policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1118",
+  "concept_data": {
+    "title": "quince",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": true,
+    "preferred_term": "pip fruit",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"quince,\" categorized under the EU plant product classification 6006, is a redirect to the preferred term \"pip fruit.\" This classification encompasses various fruits, including rare varieties such as renetta, reinette, and the alatau. In EU regulatory frameworks, pip fruits like quince are subject to specific standards regarding their quality and marketing, ensuring that products such as bramley and mostviertler meet consumer expectations. The legal definitions also extend to processed forms, including oleoresin and apfelkraut. Quince's inclusion in the broader category of vegetales reflects its significance in agricultural policies, where it correlates with other fruits like figue and pistachio, ensuring a comprehensive approach to fruit product regulation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:51.970125",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2273,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.14
+    },
+    "related_words": [
+      "renetta",
+      "reinette",
+      "zarja",
+      "alatau",
+      "vegetales",
+      "provies",
+      "lobo",
+      "tønnes",
+      "therehold",
+      "representativï",
+      "horneburger",
+      "endured",
+      "armagh",
+      "bramley",
+      "figue",
+      "solliès",
+      "unconcentrated",
+      "maçã",
+      "palmela",
+      "blanche",
+      "apfelkraut",
+      "cono",
+      "fichi",
+      "ξηρά",
+      "σύκα",
+      "ταξιάρχη",
+      "xira",
+      "syka",
+      "taxiarchi",
+      "byssochlamys"
+    ],
+    "prompt_length": 1670,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "3113",
+  "concept_data": {
+    "title": "time of transport",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "length of journey",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"time of transport,\" which redirects to the preferred term \"length of journey,\" is pivotal in the context of EU transport regulations. It refers to the duration required for the movement of goods or passengers from one location to another. This metric is essential for compliance with various EU directives aimed at enhancing the efficiency and reliability of transport services. Accurate measurement of the length of journey is critical for ensuring adherence to safety standards, optimizing logistics, and facilitating cross-border transport operations. Understanding this concept aids in the assessment of transport performance and regulatory compliance within the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:32:18.198195",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1219,
+    "category": "4811 organisation of transport"
+  }
+}

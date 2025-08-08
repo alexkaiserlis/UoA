@@ -1,0 +1,63 @@
+{
+  "concept_id": "253",
+  "concept_data": {
+    "title": "pronunciamento",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": true,
+    "preferred_term": "coup d'?tat",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"pronunciamento,\" a redirect to \"coup d'état,\" refers to a significant political upheaval where a government is overthrown, often violating constitutional norms. In the context of EU legal and regulatory frameworks, such events are condemned as they undermine democratic principles and the rule of law. The EU engages in consultations with affected governments, particularly in regions like Africa and the Caribbean, to address uncertainties and promote a return to stability. The Cotonou Agreement outlines commitments for dialogue and partnership, emphasizing the need for a transition towards democratic governance. The EU's response includes guidelines for remedying the situation and ensuring adherence to fundamental democratic elements.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:44:14.110342",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 102,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 102,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1701.4607843137255
+    },
+    "related_words": [
+      "coup",
+      "firmness",
+      "benin",
+      "condemned",
+      "violated",
+      "cotonou",
+      "constitutional",
+      "uncertainties",
+      "begun",
+      "persist",
+      "depth",
+      "dialogue",
+      "caribbean",
+      "military",
+      "pacific",
+      "ability",
+      "concluding",
+      "acp",
+      "hereafter",
+      "african",
+      "remedy",
+      "democratic",
+      "return",
+      "governments",
+      "partnership",
+      "transition",
+      "opened",
+      "statement",
+      "consultations",
+      "commitments"
+    ],
+    "prompt_length": 1731,
+    "category": "0431 politics and public safety"
+  }
+}

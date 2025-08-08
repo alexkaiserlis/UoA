@@ -1,0 +1,63 @@
+{
+  "concept_id": "3908",
+  "concept_data": {
+    "title": "measures to combat discrimination",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": true,
+    "preferred_term": "anti-discriminatory measure",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"measures to combat discrimination,\" also referred to as \"anti-discriminatory measures,\" encompasses a range of legal and regulatory frameworks established by the EU to address inequalities based on ethnicity, religion, race, sexual orientation, and disability. These measures aim to combat racism and xenophobia, ensuring the enjoyment of rights for minorities and marginalized groups. Institutions like EASO, EIGE, and Eurofound play pivotal roles in disseminating information and advocating for anti-discrimination policies. The EU's commitment to liberty and equality is reflected in its thematic strategies, which reject outdated traditions and promote entrepreneurship and employment opportunities for all, including the unemployed and those with disabilities. Henceforward, these measures are essential in fostering an inclusive society that accommodates diverse abilities and beliefs.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:03:18.168926",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 623,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 360,
+      "selected_avg_freq": 152.52
+    },
+    "related_words": [
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "combated",
+      "microfinance",
+      "theories",
+      "frontex",
+      "ethnic",
+      "rejects",
+      "cepol",
+      "liberty",
+      "religion",
+      "minorities",
+      "racial",
+      "races",
+      "accommodated",
+      "henceforward",
+      "orientations",
+      "reward",
+      "enjoyment",
+      "abilities",
+      "racism",
+      "xenophobia",
+      "ranked",
+      "intolerance",
+      "eurojust",
+      "disability",
+      "intolerable",
+      "sexual"
+    ],
+    "prompt_length": 1756,
+    "category": "1236 rights and freedoms"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2421",
+  "concept_data": {
+    "title": "rolled product",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "plate",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"rolled product\" is primarily redirected to \"plate,\" which encompasses various forms of flat materials, including those used in construction and manufacturing. This category includes products from manufacturers like Gutex and Ahlstroem, known for their innovative fibrebuilding technologies. The regulation of these products often involves compliance with standards set by entities in regions such as Odenwald and Heinola. Notably, softboard and spanplatten are critical in sustainable building practices, while companies like Unilin and Caberboard contribute to the market with eco-friendly solutions. The legal framework ensures that products, such as those from Pomposa and Italp, meet safety and quality standards, fostering a competitive environment in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:38:39.940595",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1434,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 8.12
+    },
+    "related_words": [
+      "fibrebuilding",
+      "gutex",
+      "henselmann",
+      "odenwald",
+      "faserplattenwerk",
+      "amorbach",
+      "mondovă",
+      "ahlstroem",
+      "pihlava",
+      "enso",
+      "gutzeit",
+      "heinola",
+      "kuitulevy",
+      "wilh",
+      "schauman",
+      "karlholmsbruk",
+      "wekapal",
+      "salzuflen",
+      "softboard",
+      "spano",
+      "oostrozebeke",
+      "unilin",
+      "wielsbeke",
+      "caberboard",
+      "cowie",
+      "aaronson",
+      "molton",
+      "falco",
+      "pomposa",
+      "italp"
+    ],
+    "prompt_length": 1694,
+    "category": "6411 technology and technical regulations"
+  }
+}

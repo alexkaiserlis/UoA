@@ -1,0 +1,63 @@
+{
+  "concept_id": "3125",
+  "concept_data": {
+    "title": "airline",
+    "category_code": "4826",
+    "category_name": "air and space transport",
+    "category_full": "4826 air and space transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"airline\" within EU legal and regulatory frameworks encompasses various entities engaged in air transport, including regular lines and charter operations. Airlines operate through hubs and aerodromes, facilitating passenger movement across dependencies like Alitalia and Meridiana. Regulatory oversight ensures compliance with safety standards, addressing issues such as overvaluation of assets and the exoneration of liabilities during insolvency proceedings. Airlines may face contesting claims in arbitral settings, particularly regarding overdue payments or passenger rights. The EU's SESAR initiative aims to enhance air traffic management, ensuring efficient operations across networks, while maintaining professional standards among empresas in the aviation sector.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:52:18.263833",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 975,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 159,
+      "selected_avg_freq": 64.69333333333333
+    },
+    "related_words": [
+      "oal",
+      "overvaluation",
+      "overvaluing",
+      "ethniki",
+      "kefalaiou",
+      "passangers",
+      "guadalajara",
+      "overdue",
+      "wounding",
+      "bodily",
+      "exonerated",
+      "arbitral",
+      "pso",
+      "alghero",
+      "surety",
+      "alitalia",
+      "merdiana",
+      "profesional",
+      "navieras",
+      "líneas",
+      "regulares",
+      "analir",
+      "administración",
+      "contesting",
+      "hgcc",
+      "mbms",
+      "airways",
+      "improbable",
+      "enquired",
+      "dependencies"
+    ],
+    "prompt_length": 1648,
+    "category": "4826 air and space transport"
+  }
+}

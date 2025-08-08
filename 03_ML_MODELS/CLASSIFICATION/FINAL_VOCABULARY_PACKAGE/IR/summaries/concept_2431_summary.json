@@ -1,0 +1,63 @@
+{
+  "concept_id": "2431",
+  "concept_data": {
+    "title": "United Nations Volunteers",
+    "category_code": "7606",
+    "category_name": "United Nations",
+    "category_full": "7606 United Nations",
+    "is_redirect": true,
+    "preferred_term": "UN Development Programme",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"United Nations Volunteers\" (UNV) is closely associated with the UN Development Programme (UNDP), serving as a clearinghouse for fostering international cooperation and development. Within EU legal and regulatory frameworks, UNV initiatives aim to combat insecurity and destabilising factors in conflict zones, particularly in Eastern Europe, such as Belgrade. The UNDP highlights the importance of pursuing peace and eradicating crime, including the proliferation of illicit weapons. By strengthening governmental capabilities and sharing resources, the UNV intends to stem the uncontrolled flow of arms and render support to post-conflict recovery. This collaborative effort underscores the EU's commitment to combating challenges that undermine stability and pursuing sustainable development goals under the auspices of the Common Foreign and Security Policy (CFSP).",
+  "metadata": {
+    "generation_date": "2025-07-29T19:16:48.805914",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 159,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 3194,
+      "selected_avg_freq": 1132.4
+    },
+    "related_words": [
+      "clearinghouse",
+      "exacerbating",
+      "undp",
+      "insecurity",
+      "belgrade",
+      "destabilising",
+      "constraint",
+      "fuelled",
+      "highlights",
+      "fora",
+      "uncontrolled",
+      "undermining",
+      "weapons",
+      "proliferation",
+      "capabilities",
+      "fostering",
+      "emphasis",
+      "pact",
+      "york",
+      "stem",
+      "clearing",
+      "illicit",
+      "accumulation",
+      "house",
+      "arms",
+      "reality",
+      "governmental",
+      "pursuing",
+      "peace",
+      "goals"
+    ],
+    "prompt_length": 1716,
+    "category": "7606 United Nations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "6049",
+  "concept_data": {
+    "title": "committee (EU)",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"committee (EU)\" refers to various bodies within the European Union's institutional framework, empowered to assist lawmakers in the formalization of legislation. Committees, such as those chaired by figures like Hilmar Soelund or Raimondo Formentini, play critical roles in scrutinizing proposals and ensuring compliance with EU regulations. They facilitate dialogue among diverse stakeholders, including experts like Juergen Gerster and Matteo Bazzanella, to address complex issues. Committees also engage in consultations, gathering insights from members like Isidoro Sanchez and Alex Choong, thereby enhancing the legislative process. Their work is essential for maintaining transparency and accountability within the EU's regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:38:37.195716",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1894,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 7.486666666666666
+    },
+    "related_words": [
+      "secretaray",
+      "allt",
+      "hilmar",
+      "soelund",
+      "formentini",
+      "raimondo",
+      "fassa",
+      "pasetto",
+      "blaise",
+      "alex",
+      "choong",
+      "ratzenböck",
+      "goppel",
+      "klironomos",
+      "boehm",
+      "fontanini",
+      "benedetto",
+      "barranu",
+      "guenther",
+      "bergner",
+      "spitaels",
+      "cabras",
+      "baggioni",
+      "florian",
+      "gerster",
+      "juergen",
+      "gramke",
+      "kaalund",
+      "fromm",
+      "bazzanella"
+    ],
+    "prompt_length": 1665,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

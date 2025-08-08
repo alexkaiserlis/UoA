@@ -1,0 +1,63 @@
+{
+  "concept_id": "6350",
+  "concept_data": {
+    "title": "workforce flexibility",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "labour flexibility",
+    "relation_type": "USE"
+  },
+  "summary": "\"Workforce flexibility,\" redirected to the preferred term \"labour flexibility,\" refers to the adaptability of the labour market in the EU, emphasizing the need to address skill shortages and unemployment among various demographics, including immigrants and migrants. The concept is central to the EU's flexicurity model, which aims to integrate occupational skills and enhance job matching. This approach is crucial in modernising the workforce to tackle challenges posed by an ageing population and emerging sectors such as mining and quarrying. Guidelines and benchmarks are established to spur the retention and upgrading of skills, ensuring that the labour market can grow and respond to evolving demands, thereby reducing gaps and disadvantages faced by unemployed individuals.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:24:07.415861",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 262,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1338,
+      "selected_avg_freq": 580.2266666666667
+    },
+    "related_words": [
+      "esaw",
+      "eods",
+      "immigrants",
+      "spur",
+      "relaunched",
+      "flexicurity",
+      "quarrying",
+      "obtainable",
+      "skill",
+      "migrants",
+      "adaptability",
+      "shortages",
+      "migrant",
+      "unemployed",
+      "matching",
+      "predicted",
+      "module",
+      "attracting",
+      "benchmarks",
+      "rev",
+      "immigration",
+      "modules",
+      "modernising",
+      "ageing",
+      "explore",
+      "grow",
+      "nace",
+      "emphasis",
+      "debate",
+      "guideline"
+    ],
+    "prompt_length": 1712,
+    "category": "4411 labour market"
+  }
+}

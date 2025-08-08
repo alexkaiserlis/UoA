@@ -1,0 +1,63 @@
+{
+  "concept_id": "5456",
+  "concept_data": {
+    "title": "legal basis",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"legal basis\" in EU law refers to the foundational provisions that empower the European Union to enact legislation and policies. It is crucial for ensuring that actions taken are not overburdening member states and are consistent with the principles of communautaire law. Misinterpretations of these legal bases can lead to inconsistent applications across member states, affecting areas such as visas and consular affairs. The legal basis must be dynamic, integrating various inputs from member states while reserving the right to declassify sensitive information. This pragmatic approach ensures that the EU builds a homogenous legal framework that binds all partners while addressing specific needs, such as those related to the migration of individuals or the sending of messages regarding regulatory compliance.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:29:54.331866",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 451,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 798,
+      "selected_avg_freq": 336.85333333333335
+    },
+    "related_words": [
+      "smtp",
+      "overburdening",
+      "resend",
+      "misinterpretations",
+      "lichtenstein",
+      "declassify",
+      "restreint",
+      "migrated",
+      "declassifying",
+      "mta",
+      "declassified",
+      "sirene",
+      "referrred",
+      "downgraded",
+      "sates",
+      "pragmatic",
+      "communautaire",
+      "thirteen",
+      "oporto",
+      "sch",
+      "tec",
+      "messages",
+      "consular",
+      "bind",
+      "unavailable",
+      "configuration",
+      "reserving",
+      "rev",
+      "homogenous",
+      "message"
+    ],
+    "prompt_length": 1665,
+    "category": "1011 European Union law"
+  }
+}

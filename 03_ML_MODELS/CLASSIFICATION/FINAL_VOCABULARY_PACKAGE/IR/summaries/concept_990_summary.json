@@ -1,0 +1,63 @@
+{
+  "concept_id": "990",
+  "concept_data": {
+    "title": "textile thread",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "textile fibre",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"textile thread,\" which redirects to the preferred term \"textile fibre,\" is integral to the EU's leather and textile industries (Category 6841). Textile fibres, including specialized variants like phenyleneterephthalamide, are crucial in the production processes of various fabrics, such as dokuma and iplik. Regulatory frameworks govern the appropriate use of these materials, ensuring compliance in manufacturing practices across the EU. This includes standards for dyeing (boya), finishing (apre), and the operation of fabrikalari. The interconnectedness of textile production, from raw materials to finished products, underscores the importance of efficient supply chains, including the roles of imalciligi and filature in fostering innovation and sustainability within the sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:10:09.114682",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1922,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 7.48
+    },
+    "related_words": [
+      "phenyleneterephthalamide",
+      "rotspindel",
+      "bayreuth",
+      "volunteered",
+      "apppropriate",
+      "ihracat",
+      "pazarlama",
+      "iplik",
+      "dokuma",
+      "boya",
+      "apre",
+      "fabrikalari",
+      "tas",
+      "tekstil",
+      "sanayăźl",
+      "emboey",
+      "yuentas",
+      "birlesik",
+      "kamgarn",
+      "straygarn",
+      "imalciligi",
+      "interlaine",
+      "korteks",
+      "bursa",
+      "filature",
+      "espierres",
+      "kammgarnspinnerei",
+      "schoeller",
+      "eitorf",
+      "caullier"
+    ],
+    "prompt_length": 1711,
+    "category": "6841 leather and textile industries"
+  }
+}

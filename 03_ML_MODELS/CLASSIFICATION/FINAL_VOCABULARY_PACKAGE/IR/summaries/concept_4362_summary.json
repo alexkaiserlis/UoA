@@ -1,0 +1,63 @@
+{
+  "concept_id": "4362",
+  "concept_data": {
+    "title": "accounting system",
+    "category_code": "1626",
+    "category_name": "national accounts",
+    "category_full": "1626 national accounts",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"accounting system\" within the context of EU legal and regulatory frameworks is crucial for the accurate valuation of national accounts. It incorporates various methodologies that govern the recording and reporting of financial data, thereby ensuring transparency and accountability. The European Central Bank (ECB) plays a significant role in adapting these systems to meet the evolving needs of member states, including Greece. This system permits the submission of annual accounts that reflect infrastructure expenditure and transport networks, which are essential for economic analysis. Amendments to statutes may clarify the importance of these accounting practices, enabling banks and other entities to avail themselves of the benefits therein. Consequently, a robust accounting system lays the groundwork for effective monetary policy and economic stability across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:31:46.465263",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 42,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 42,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1902.3297872340424
+    },
+    "related_words": [
+      "feels",
+      "waterway",
+      "valuation",
+      "clarifications",
+      "avail",
+      "inland",
+      "rail",
+      "ecb",
+      "statute",
+      "banks",
+      "consequent",
+      "permits",
+      "securities",
+      "road",
+      "accounting",
+      "infrastructure",
+      "rapidly",
+      "network",
+      "accounts",
+      "unable",
+      "monetary",
+      "clarify",
+      "incorporated",
+      "adapting",
+      "drawing",
+      "bank",
+      "introducing",
+      "approach",
+      "greece",
+      "adopting"
+    ],
+    "prompt_length": 1658,
+    "category": "1626 national accounts"
+  }
+}

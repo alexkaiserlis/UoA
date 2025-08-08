@@ -1,0 +1,63 @@
+{
+  "concept_id": "1319",
+  "concept_data": {
+    "title": "national taxation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "national tax",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"national taxation,\" redirected to the preferred term \"national tax,\" encompasses the legal frameworks governing tax levies imposed by individual EU member states. This taxation system allows for varying rates and exemptions, justifying differences in burdens based on local circumstances, such as the unique status of the Canary Islands. Member states may collect taxes on imports and exports, including mercancías and milk, while also providing notifications regarding deadlines for payments and reductions. The regulatory landscape includes provisions for instalments and partial payments, ensuring that beneficiaries can manage their tax obligations satisfactorily. National parliaments authorise these tax measures, confirming compliance with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:06:29.923162",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 198,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 2759,
+      "selected_avg_freq": 1273.0466666666666
+    },
+    "related_words": [
+      "entregas",
+      "mercancías",
+      "islas",
+      "aiem",
+      "importaciones",
+      "arbitrio",
+      "sobre",
+      "canarias",
+      "las",
+      "handicaps",
+      "iia",
+      "locally",
+      "instalment",
+      "instalments",
+      "ease",
+      "recovered",
+      "varying",
+      "justifying",
+      "deferred",
+      "confirms",
+      "comment",
+      "canary",
+      "authorises",
+      "taxation",
+      "unchanged",
+      "surplus",
+      "collect",
+      "remained",
+      "inserted",
+      "cmo"
+    ],
+    "prompt_length": 1686,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4427",
+  "concept_data": {
+    "title": "poultry farming",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Poultry farming, categorized under agricultural activity (5631), is a prominent sector within the EU's agricultural framework. This activity involves the breeding and raising of domesticated birds, such as chickens and waterfowl, for meat and egg production. Regulatory authorities monitor poultry farming to ensure compliance with health standards, particularly concerning avirulent and virulent strains of pathogens. The sector is characterized by specialized practices, including the use of glasshouse environments and simulation techniques to optimize production. Additionally, the integration of horticiles and other agricultural products enhances market débouchés. As poultry farming evolves, it faces challenges from mutations and seropositive strains, necessitating ongoing research and adaptation within the community.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:39:52.413018",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1048,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 122,
+      "selected_avg_freq": 58.38
+    },
+    "related_words": [
+      "intracerebral",
+      "icpi",
+      "débouchés",
+      "fomed",
+      "prvided",
+      "fristly",
+      "horticiles",
+      "hulst",
+      "siergewassen",
+      "pak",
+      "authorties",
+      "avirulent",
+      "commuities",
+      "ondah",
+      "agricoles",
+      "horticoles",
+      "nevada",
+      "iifa",
+      "communit",
+      "sydney",
+      "glasshouse",
+      "virulent",
+      "waterfowl",
+      "gelderland",
+      "celsius",
+      "produktschap",
+      "diva",
+      "manifests",
+      "circulates",
+      "addlestone"
+    ],
+    "prompt_length": 1693,
+    "category": "5631 agricultural activity"
+  }
+}

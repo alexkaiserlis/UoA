@@ -1,0 +1,63 @@
+{
+  "concept_id": "1880",
+  "concept_data": {
+    "title": "mercury",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"mercury\" within the EU legal and regulatory framework pertains to its management in various industries, particularly those involving metals such as iron and steel. Mercury, including its organomercury compounds like phenylmercury and methylmercury, poses significant risks to biota and human health due to its propensity to accumulate in ecosystems, leading to biomagnification. Regulatory measures address the use of mercury in applications ranging from thermometric devices to crafted artwork, where its presence can be detrimental. The EU emphasizes the importance of monitoring and controlling mercury emissions, utilizing tools such as hygrometers, manometers, and voltammetry for accurate measurement. Additionally, the solidification and recuperation processes of mercury-containing waste are critical to mitigate environmental impacts.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:49:10.081818",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1034,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 79,
+      "selected_avg_freq": 31.906666666666666
+    },
+    "related_words": [
+      "accumulations",
+      "phenylmercury",
+      "ethylhexanoate",
+      "neodecanoate",
+      "interconversion",
+      "organomercury",
+      "intravascular",
+      "beryllium",
+      "sputtering",
+      "hygrometers",
+      "manometers",
+      "plethysmographs",
+      "tensiometers",
+      "thermometric",
+      "metering",
+      "pycnometers",
+      "platinum",
+      "porosimeters",
+      "voltammetry",
+      "crafted",
+      "luminous",
+      "hldts",
+      "artwork",
+      "handcrafted",
+      "furan",
+      "thermoelectric",
+      "recuperation",
+      "solidification",
+      "triple",
+      "inhibitor"
+    ],
+    "prompt_length": 1790,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

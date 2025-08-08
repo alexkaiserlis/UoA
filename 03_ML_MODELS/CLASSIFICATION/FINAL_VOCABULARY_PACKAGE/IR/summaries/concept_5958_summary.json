@@ -1,0 +1,63 @@
+{
+  "concept_id": "5958",
+  "concept_data": {
+    "title": "sensitive natural area",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "sensitive area",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, a \"sensitive natural area,\" also referred to as a \"sensitive area,\" defines zones that are particularly susceptible to environmental deterioration. These areas are subject to specific restrictions and prohibitions to safeguard biodiversity and prevent outbreaks of diseases that could endanger local herds, including ovine and caprine species. Regulations may clarify perimeters for conservation efforts, ensuring that raw materials sourced from these zones are certified as safe. Additionally, the dispatch of live embryos, semen, and ova from sensitive areas is strictly regulated to reinforce biosecurity measures. The consolidation of these regulations aims to mitigate risks associated with inactivating pathogens and managing epidemiological threats.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:30:39.918958",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 187,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2870,
+      "selected_avg_freq": 1281.98
+    },
+    "related_words": [
+      "rephrase",
+      "surrey",
+      "perimeters",
+      "petfood",
+      "biungulate",
+      "inactivating",
+      "sourced",
+      "enlarge",
+      "county",
+      "ova",
+      "herds",
+      "embryos",
+      "semen",
+      "subparagraphs",
+      "dispatch",
+      "caprine",
+      "zootechnical",
+      "ovine",
+      "epidemiological",
+      "susceptible",
+      "proven",
+      "foot",
+      "endanger",
+      "mouth",
+      "virus",
+      "dispatched",
+      "undergone",
+      "outbreak",
+      "heat",
+      "reinforce"
+    ],
+    "prompt_length": 1714,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4470",
+  "concept_data": {
+    "title": "tourist industry",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "tourism",
+    "relation_type": "USE"
+  },
+  "summary": "The \"tourist industry,\" redirected to the preferred term \"tourism,\" plays a vital role in EU social affairs, emphasizing the integration of diverse cultures and populations. The EU's approach to tourism promotes valuable transnational exchanges, enhancing awareness of heritage and citizenship among residents and tourists alike. Regulatory frameworks facilitate the accommodation of various kinds of tourism, addressing issues such as congestion and the need for easy visa access. Evaluations of tourism policies often consider the impact on SMEs and local communities, while also confronting challenges related to gender and informal tourism styles. Ultimately, tourism is a key driver for economic diversification and cultural expression within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:40.699218",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 485,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 813,
+      "selected_avg_freq": 380.94666666666666
+    },
+    "related_words": [
+      "styles",
+      "awarness",
+      "apporach",
+      "ads",
+      "confronting",
+      "accomodation",
+      "emphasizes",
+      "citizenship",
+      "appoints",
+      "enactment",
+      "cultures",
+      "pupils",
+      "occupies",
+      "idea",
+      "congestion",
+      "tourist",
+      "informal",
+      "duplicate",
+      "roots",
+      "residents",
+      "gender",
+      "turned",
+      "facilitation",
+      "school",
+      "heritage",
+      "abroad",
+      "promotes",
+      "transnational",
+      "tourism",
+      "resident"
+    ],
+    "prompt_length": 1697,
+    "category": "2826 social affairs"
+  }
+}

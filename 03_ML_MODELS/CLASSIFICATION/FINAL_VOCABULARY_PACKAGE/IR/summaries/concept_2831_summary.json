@@ -1,0 +1,63 @@
+{
+  "concept_id": "2831",
+  "concept_data": {
+    "title": "protection of shareholders",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"protection of shareholders\" within EU legal and regulatory frameworks encompasses safeguards designed to ensure that shareholders' rights and interests are maintained during corporate actions such as mergers, divisions, and alterations of company structure. This concept emphasizes the necessity for transparency through the disclosure of relevant information, ensuring that shareholders are adequately informed about their liabilities and the financial health of the firm. Codified regulations mandate the maintenance of accessible records, including subscribed shares and capital accounts, to prevent nullity in corporate actions. Furthermore, penalties for non-compliance with these regulations serve to enforce rationality and protect the identity and commitments of shareholders, thereby fostering a stable business environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:01:14.450926",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 183,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2952,
+      "selected_avg_freq": 1326.1266666666668
+    },
+    "related_words": [
+      "nullity",
+      "entrepreneur",
+      "twelfth",
+      "shareholder",
+      "mergers",
+      "subscribed",
+      "disclosed",
+      "divisions",
+      "liabilities",
+      "alteration",
+      "exercising",
+      "accessible",
+      "formation",
+      "safeguards",
+      "identity",
+      "likewise",
+      "seventh",
+      "rationality",
+      "division",
+      "transposition",
+      "liability",
+      "disclosure",
+      "codified",
+      "writing",
+      "coordinated",
+      "penalties",
+      "shares",
+      "sole",
+      "consolidated",
+      "limitation"
+    ],
+    "prompt_length": 1720,
+    "category": "4006 business organisation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2284",
+  "concept_data": {
+    "title": "vocational apprenticeship",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "apprenticeship",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vocational apprenticeship,\" a redirect to the preferred term \"apprenticeship,\" plays a decisive role in enhancing employability within the EU. Apprenticeships serve as pathways for youth, integrating practical skills with theoretical learning in various crafts. The EU acknowledges the importance of such programs, promoting transnational mobility and diversity among trainees. Initiatives like Europass facilitate the recognition of skills across borders, while the Leonardo and Vinci programs support the exchange of best practices. By equipping schools and SMEs with resources, the EU encourages the attractiveness of vocational training, ensuring that women and men from all backgrounds can access these extraordinary opportunities, thereby enhancing their occupational prospects.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:06:54.423327",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 281,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1293,
+      "selected_avg_freq": 573.54
+    },
+    "related_words": [
+      "apprenticeship",
+      "europass",
+      "beliefs",
+      "pathways",
+      "trainees",
+      "vinci",
+      "leonardo",
+      "employability",
+      "race",
+      "florence",
+      "crafts",
+      "attractiveness",
+      "advocates",
+      "equipping",
+      "sex",
+      "teaching",
+      "fora",
+      "youth",
+      "wheres",
+      "schools",
+      "exchanging",
+      "acknowledges",
+      "encourages",
+      "learning",
+      "stress",
+      "introductory",
+      "transnational",
+      "integrate",
+      "stresses",
+      "extraordinary"
+    ],
+    "prompt_length": 1720,
+    "category": "4406 employment"
+  }
+}

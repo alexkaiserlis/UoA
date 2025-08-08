@@ -1,0 +1,63 @@
+{
+  "concept_id": "3597",
+  "concept_data": {
+    "title": "midwife",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, the term \"midwife\" refers to a healthcare professional trained to assist in childbirth, embodying a pivotal role in maternal health. The profession is governed by various directives and regulations, ensuring standards of practice across member states. Notable figures in midwifery, such as Elizabeth and Eveline, have contributed to the evolution of this field, advocating for practices that prioritize maternal and infant welfare. Regulatory bodies, including those represented by Pilar and Toledano, emphasize the importance of midwifery education and training, aligning with EU health policies. The profession's recognition is essential for enhancing healthcare quality, as highlighted by experts like Geller and McAnulty, who stress the need for comprehensive support systems for midwives, including legal protections and professional development opportunities.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:42.796366",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 183,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2573,
+      "selected_avg_freq": 625.72
+    },
+    "related_words": [
+      "winship",
+      "elizabeth",
+      "mcanulty",
+      "pilar",
+      "toledano",
+      "adoración",
+      "beltrán",
+      "balsells",
+      "ute",
+      "geller",
+      "eveline",
+      "fugger",
+      "hannah",
+      "rausch",
+      "amstrup",
+      "aund",
+      "kammenou",
+      "renate",
+      "grossbichler",
+      "margarita",
+      "kindl",
+      "kirkovics",
+      "noula",
+      "spronken",
+      "verschuren",
+      "boogaard",
+      "ruth",
+      "schoon",
+      "dragiotou",
+      "apostolidou"
+    ],
+    "prompt_length": 1614,
+    "category": "2841 health"
+  }
+}

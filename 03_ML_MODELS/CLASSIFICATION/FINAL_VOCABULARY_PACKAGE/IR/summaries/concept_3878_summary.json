@@ -1,0 +1,63 @@
+{
+  "concept_id": "3878",
+  "concept_data": {
+    "title": "sentence",
+    "category_code": "1216",
+    "category_name": "criminal law",
+    "category_full": "1216 criminal law",
+    "is_redirect": true,
+    "preferred_term": "penalty",
+    "relation_type": "USE"
+  },
+  "summary": "In EU criminal law, the term \"sentence\" is often redirected to \"penalty,\" which encompasses various forms of legal repercussions for offenses, including those related to substances like benzylpiperazine (bzp) and methylenedioxymethamphetamine (MDMA). Sentences may involve imprisonment or fines, particularly for serious offenses that lead to hospitalisation due to overdosage or reckless behavior. The legal framework also addresses the distribution of psychoactive substances, such as trimethoxyamphetamine and methylamphetamine, which can result in severe penalties. Indictments for drug-related crimes often cite the dangers of these substances, including tremors, palpitations, and insomnia, emphasizing the need for strict regulation to combat their misuse.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:32:50.850645",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 1013,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 65,
+      "selected_avg_freq": 23.486666666666668
+    },
+    "related_words": [
+      "benzylpiperazine",
+      "bzp",
+      "tma",
+      "ethylthiophenethylamine",
+      "propylthiophenethylamine",
+      "trimethoxyamphetamine",
+      "phenethylamines",
+      "dob",
+      "methylthioamphetamine",
+      "methylenedioxymethamphetamine",
+      "overdosage",
+      "hospitalisation",
+      "serval",
+      "aminopropyl",
+      "fury",
+      "mydriasis",
+      "tremor",
+      "monoaminergic",
+      "aircarriers",
+      "recklessly",
+      "methylamphetamine",
+      "methylated",
+      "methylbenzyl",
+      "bmk",
+      "anorexia",
+      "perspiration",
+      "coughing",
+      "headache",
+      "palpitations",
+      "insomnia"
+    ],
+    "prompt_length": 1806,
+    "category": "1216 criminal law"
+  }
+}

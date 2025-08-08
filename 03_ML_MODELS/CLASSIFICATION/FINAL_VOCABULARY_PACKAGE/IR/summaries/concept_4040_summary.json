@@ -1,0 +1,63 @@
+{
+  "concept_id": "4040",
+  "concept_data": {
+    "title": "European Union relations",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "EU relations",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"EU relations,\" a redirect from \"European Union relations,\" encompasses the legal and regulatory frameworks governing the EU's diplomacy with its neighbours and other continents. It involves bilateral engagements that address issues such as expropriation, constitutional matters, and the provision of support to nations like the Togolese and Montenegrin. The EU's role as an envoy is crucial in mediating conflicts, as seen in the cases of Iraq and Belarusian diplomacy. Initiatives like Eulex and MEDA aim to foster consensual agreements while addressing challenges such as disappearances and unconstitutional actions. The EU's commitment to restart dialogue, particularly in regions like the Caucasus and with the Palestinians, illustrates its proactive stance in international relations.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:10.666429",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1126,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 132,
+      "selected_avg_freq": 55.946666666666665
+    },
+    "related_words": [
+      "diplomacy",
+      "sørensen",
+      "lien",
+      "valentin",
+      "inzko",
+      "serviced",
+      "gentilini",
+      "eyadema",
+      "arbitral",
+      "saddam",
+      "hussein",
+      "semneby",
+      "feith",
+      "sintra",
+      "morel",
+      "togolese",
+      "pieter",
+      "montenegrin",
+      "asterisk",
+      "coup",
+      "unconstitutional",
+      "ala",
+      "reapply",
+      "oslo",
+      "discharging",
+      "fernando",
+      "disappearances",
+      "impairs",
+      "valletta",
+      "expropriation"
+    ],
+    "prompt_length": 1713,
+    "category": "1016 European construction"
+  }
+}

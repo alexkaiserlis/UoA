@@ -1,0 +1,63 @@
+{
+  "concept_id": "1932",
+  "concept_data": {
+    "title": "millet",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"millet,\" classified under the category of plant products (6006), encompasses various grain varieties cultivated primarily in Africa and Asia. Within EU legal and regulatory frameworks, millet is subject to specific protocols and permits that govern its sown quantities and trade. Notably, deviations in millet production can lead to fluctuations in market surplus, impacting pricing coefficients and levies. Additionally, the EU engages in international agreements with regions such as the Caribbean and ACP countries, facilitating concessions for millet imports. The timing of these regulations reflects a commitment to maintaining quality standards and ensuring equivalence across diverse varieties, including buckwheat and sorghum.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:20.453520",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 304,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1296,
+      "selected_avg_freq": 694.66
+    },
+    "related_words": [
+      "noneneless",
+      "bullrush",
+      "caf",
+      "shorghum",
+      "buckwheat",
+      "millet",
+      "deviations",
+      "tanzania",
+      "sown",
+      "sorghum",
+      "oct",
+      "fluctuation",
+      "kenya",
+      "sudan",
+      "yellow",
+      "quarters",
+      "timing",
+      "reflection",
+      "grain",
+      "additionally",
+      "withdrawing",
+      "qualities",
+      "coefficients",
+      "caribbean",
+      "exact",
+      "canary",
+      "levies",
+      "pacific",
+      "cereal",
+      "surplus"
+    ],
+    "prompt_length": 1650,
+    "category": "6006 plant product"
+  }
+}

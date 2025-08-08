@@ -1,0 +1,63 @@
+{
+  "concept_id": "5424",
+  "concept_data": {
+    "title": "sub-Saharan Africa",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"sub-Saharan Africa\" encompasses a diverse region comprising countries such as Chad, Burundi, Gambia, Gabon, Togo, and São Tomé. Within EU legal and regulatory frameworks, this region is significant for its socio-economic dynamics and migration patterns, particularly regarding visas and the Schengen acquis. The EU engages with sub-Saharan nations like Nigeria, Senegal, and Mali to build partnerships that address issues such as development and security. The principality of Liechtenstein, along with other European entities, collaborates with African states to transmit knowledge and resources, fostering a confederation of mutual interests that includes countries like Côte d'Ivoire and Liberia.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:43:36.714495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 160,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1356.7733333333333
+    },
+    "related_words": [
+      "principe",
+      "chad",
+      "burundi",
+      "gambia",
+      "gabon",
+      "togo",
+      "tomé",
+      "benin",
+      "rwanda",
+      "equatorial",
+      "leone",
+      "mali",
+      "burkina",
+      "faso",
+      "nigeria",
+      "senegal",
+      "niger",
+      "liberia",
+      "sierra",
+      "ghana",
+      "bissau",
+      "cameroon",
+      "são",
+      "verde",
+      "ivoire",
+      "cape",
+      "côte",
+      "latters",
+      "congo",
+      "visas"
+    ],
+    "prompt_length": 1581,
+    "category": "7221 Africa"
+  }
+}

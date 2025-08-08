@@ -1,0 +1,63 @@
+{
+  "concept_id": "2098",
+  "concept_data": {
+    "title": "debenture loan",
+    "category_code": "2421",
+    "category_name": "free movement of capital",
+    "category_full": "2421 free movement of capital",
+    "is_redirect": true,
+    "preferred_term": "bond",
+    "relation_type": "USE"
+  },
+  "summary": "A \"debenture loan,\" commonly referred to as a \"bond,\" is a marketable debt instrument issued by a borrower, typically a corporation or government, to raise capital. In the context of EU legal and regulatory frameworks, bonds are crucial for facilitating the free movement of capital across member states. These instruments often feature coupons that provide periodic interest payments to the holder. Regulatory guidelines ensure that issuers maintain prudential standards, enhancing market liquidity and protecting stakeholders. Bonds can be denominated in various currencies, including euros, pounds, and yen, and may involve collateral arrangements to underpin their value. The Eurogroup monitors these financial instruments to ensure macroeconomic stability and compliance with conditionality measures.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:36:28.391763",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 416,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 725,
+      "selected_avg_freq": 303.52
+    },
+    "related_words": [
+      "coupon",
+      "coupons",
+      "premise",
+      "eurogroup",
+      "pounds",
+      "mortgages",
+      "haircuts",
+      "yen",
+      "prepayment",
+      "borrower",
+      "conditionality",
+      "dollars",
+      "mortgage",
+      "bond",
+      "floating",
+      "matched",
+      "guarantor",
+      "embedded",
+      "counterparties",
+      "sterling",
+      "issuer",
+      "underpin",
+      "refinancing",
+      "enhancement",
+      "ncbs",
+      "gains",
+      "collateral",
+      "debtor",
+      "eurosystem",
+      "restored"
+    ],
+    "prompt_length": 1718,
+    "category": "2421 free movement of capital"
+  }
+}

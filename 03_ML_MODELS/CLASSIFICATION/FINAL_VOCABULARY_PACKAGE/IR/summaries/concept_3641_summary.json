@@ -1,0 +1,63 @@
+{
+  "concept_id": "3641",
+  "concept_data": {
+    "title": "technical regulations",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Technical regulations within the EU framework encompass a wide array of standards and specifications that govern the design and performance of products and services. These regulations ensure safety and interoperability, particularly in sectors like transportation, where junctions and roundabouts must adhere to specific guidelines. For instance, the integration of silencer technology in vehicles is regulated to minimize noise pollution. Furthermore, technical regulations may involve standards for weldable materials and the use of absorbers in various applications. Compliance with these regulations, such as those outlined in editions of CISPR, is crucial for market access and consumer protection, while also facilitating the redeploying of resources in sectors like telecommunications, where PSTN and DTMF standards are vital. The discernment of these regulations is essential for manufacturers and service providers, particularly in regions like Budějovice and Berzo, where local adaptations may be necessary.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:07:06.972895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 139,
+    "vocabulary_stats": {
+      "total_related_words": 2518,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 17,
+      "selected_avg_freq": 9.153333333333334
+    },
+    "related_words": [
+      "junctions",
+      "roundabouts",
+      "halving",
+      "silencer",
+      "cispr",
+      "editions",
+      "weldable",
+      "intermittently",
+      "indentifying",
+      "strančice",
+      "české",
+      "budějovice",
+      "ptt",
+      "itstc",
+      "tfts",
+      "diano",
+      "lamifer",
+      "demafer",
+      "lavorazione",
+      "vari",
+      "sidercamuna",
+      "berzo",
+      "inferiore",
+      "redeploying",
+      "preferring",
+      "integrazione",
+      "guadagni",
+      "ignoring",
+      "openers",
+      "hexylester"
+    ],
+    "prompt_length": 1668,
+    "category": "6411 technology and technical regulations"
+  }
+}

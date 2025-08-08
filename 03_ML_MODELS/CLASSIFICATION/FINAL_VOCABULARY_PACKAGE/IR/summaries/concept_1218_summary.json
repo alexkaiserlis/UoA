@@ -1,0 +1,63 @@
+{
+  "concept_id": "1218",
+  "concept_data": {
+    "title": "Republic of Equatorial Guinea",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": true,
+    "preferred_term": "Equatorial Guinea",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Equatorial Guinea,\" commonly referred to as \"Equatorial Guinea,\" is a significant entity in the context of EU legal and regulatory frameworks, particularly concerning economic geography and marine resource management. The nation, with its capital Malabo, is situated in oceanic regions rich in exhaustible resources, including various species of tunas such as thunnus and bigeye. The EU's regulatory efforts, often in collaboration with international bodies like ICCAT, aim to conserve these vital marine resources. Unregulated fishing practices have led to diminished stocks, prompting attempts to lift prohibitions on certain fishing methods, such as longline fishing, while ensuring the sovereignty of Equatorial Guinea is respected. The EU's engagement with Equatorial Guinea also involves addressing prejudicial practices and substantiating sustainable fishing programs to protect its oceanic resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:58:54.805033",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 338,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1096,
+      "selected_avg_freq": 461.56
+    },
+    "related_words": [
+      "malabo",
+      "thunnnus",
+      "exhaustible",
+      "thynnus",
+      "xiphias",
+      "gladius",
+      "longline",
+      "obesus",
+      "diminishes",
+      "plenipotentiaries",
+      "grenadines",
+      "vincent",
+      "equatorial",
+      "janeiro",
+      "swordfish",
+      "bigeye",
+      "leone",
+      "unregulated",
+      "diminished",
+      "substantiating",
+      "unreported",
+      "iccat",
+      "tunas",
+      "sierra",
+      "fin",
+      "thunnus",
+      "bolivia",
+      "rio",
+      "conserve",
+      "belize"
+    ],
+    "prompt_length": 1711,
+    "category": "7231 economic geography"
+  }
+}

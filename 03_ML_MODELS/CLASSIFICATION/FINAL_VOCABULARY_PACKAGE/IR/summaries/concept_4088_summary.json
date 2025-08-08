@@ -1,0 +1,63 @@
+{
+  "concept_id": "4088",
+  "concept_data": {
+    "title": "meal",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"meal\" refers to a finely ground agricultural product, primarily derived from grains such as wheat, rye, barley, and spelt. The milling process involves sifting and separating components like bran and sharps, resulting in various qualities of flour. Regulatory frameworks govern allowable levels of ash and starch, ensuring food safety and quality. Variations in meal types, such as durum and meslin, are significant for food production, including bread and beer. The concept also encompasses the nutritional aspects of meal, including glucose and malt content, which are crucial for public health considerations and food mobilization strategies.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:04.923752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 441,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 925,
+      "selected_avg_freq": 452.12666666666667
+    },
+    "related_words": [
+      "agricualtural",
+      "quellmehl",
+      "alignments",
+      "fod",
+      "spelt",
+      "indeterminate",
+      "sifting",
+      "groats",
+      "bran",
+      "sharps",
+      "ash",
+      "meslin",
+      "intervening",
+      "bread",
+      "glucose",
+      "malt",
+      "beer",
+      "milling",
+      "flour",
+      "chronological",
+      "disturbing",
+      "threatening",
+      "reaches",
+      "allowable",
+      "rye",
+      "specimen",
+      "fob",
+      "algeria",
+      "meal",
+      "away"
+    ],
+    "prompt_length": 1618,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2056",
+  "concept_data": {
+    "title": "nickel",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Nickel, categorized under iron, steel, and other metal industries, plays a crucial role in metallurgy, particularly in the production of unwrought nickel and nickel alloys. Its applications span various sectors, including batteries and coatings, where nickel's conductivity and resistance to corrosion are vital. However, regulatory frameworks within the EU address the ecotoxicity and carcinogenicity of nickel compounds, including those that may release mutagens or cause sensitisation through dermal exposure. The calcination and sintering processes involved in nickel production can lead to the generation of powdery sinters and flakes, which pose inhalation risks. Comprehensive assessments of nickel's health impacts, including potential inaccuracies in risk evaluations, are essential for safeguarding public health and the environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:10:02.001957",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 407,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 559,
+      "selected_avg_freq": 212.23333333333332
+    },
+    "related_words": [
+      "sulphide",
+      "calcination",
+      "metallurgy",
+      "sinters",
+      "piercing",
+      "powdery",
+      "tracks",
+      "rar",
+      "pierced",
+      "cmrs",
+      "sieve",
+      "conductivity",
+      "inaccuracies",
+      "ears",
+      "plating",
+      "sintering",
+      "corrosion",
+      "grey",
+      "inaugural",
+      "sensitisation",
+      "flakes",
+      "inaccessible",
+      "electrodes",
+      "mutagens",
+      "cmr",
+      "cstee",
+      "unwrought",
+      "welding",
+      "tumour",
+      "scher"
+    ],
+    "prompt_length": 1692,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

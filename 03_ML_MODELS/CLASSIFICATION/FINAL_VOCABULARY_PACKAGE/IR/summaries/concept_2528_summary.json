@@ -1,0 +1,63 @@
+{
+  "concept_id": "2528",
+  "concept_data": {
+    "title": "chemical pollution",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Chemical pollution refers to the discharge of hazardous substances, such as cadmium and mercury, into surface waters, posing significant risks to aquatic ecosystems and human health. The EU regulatory framework aims to prevent such pollution through comprehensive recommendations and conventions, including the Rhine Convention. Operators in various industrial sectors are required to adopt practicable measures to mitigate accidents and ensure that discharges are kept within acceptable values. The EU proposes multiple strategies for monitoring and managing chemical substances, emphasizing the importance of informed decision-making and the collection of data on pollution sources. Unanimous acceptance of these measures is crucial for effective environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:11.513089",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 151,
+      "requested_words": 150,
+      "min_frequency_found": 16,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 16,
+      "selected_max_freq": 4090,
+      "selected_avg_freq": 1791.62
+    },
+    "related_words": [
+      "chlor",
+      "electrolysis",
+      "alkali",
+      "berne",
+      "discharged",
+      "discharges",
+      "cadmium",
+      "basin",
+      "mercury",
+      "unanimous",
+      "rhine",
+      "hazards",
+      "practicable",
+      "multiple",
+      "accident",
+      "discharge",
+      "accidents",
+      "aquatic",
+      "proposes",
+      "adopts",
+      "preventive",
+      "dangerous",
+      "surface",
+      "waters",
+      "pollution",
+      "operator",
+      "propose",
+      "chemical",
+      "identical",
+      "supplement"
+    ],
+    "prompt_length": 1705,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3646",
+  "concept_data": {
+    "title": "European standard",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European standard\" pertains to the regulatory framework within the EU, mandating uniformity in technology and technical regulations. These standards are crucial for ensuring safety and interoperability, particularly in sectors like bioagri and healthcare, where products like immunoblot tests and retroviral therapies must meet stringent criteria. The standards facilitate the docking of innovative technologies, ensuring they are adjustable and compatible with existing systems. By contouring regulations around safety, they prevent incompetent practices and carelessly designed products. The EU's approach, which includes simulcast dissemination of standards, positions it at the forefront of global regulatory practices, ensuring that products are not only compliant but also efficient in operation, such as in the case of dishwashers and saws.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:22:57.435398",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 3932,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 5.18
+    },
+    "related_words": [
+      "contouring",
+      "twist",
+      "gouge",
+      "submergence",
+      "sawing",
+      "saws",
+      "guarding",
+      "lantmännen",
+      "bioagri",
+      "mandating",
+      "bss",
+      "simulcast",
+      "forefront",
+      "infarmed",
+      "mbs",
+      "prestifarma",
+      "ehrlich",
+      "ncar",
+      "pei",
+      "misquoted",
+      "evpú",
+      "blot",
+      "immunoblot",
+      "retroviral",
+      "intercourse",
+      "docking",
+      "clipping",
+      "tearing",
+      "incompetent",
+      "contactless"
+    ],
+    "prompt_length": 1682,
+    "category": "6411 technology and technical regulations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4407",
+  "concept_data": {
+    "title": "tax on motor fuels",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": true,
+    "preferred_term": "fuel tax",
+    "relation_type": "USE"
+  },
+  "summary": "The \"tax on motor fuels,\" commonly referred to as \"fuel tax,\" is a critical component of EU taxation policy, impacting motoring across various domains, including urban and rural areas like Northumberland and Argyll. This tax is designed to alleviate the financial burden on residents while ensuring that the revenue generated is used for public services, such as maintaining forecourts and highways. The taxation framework allows for deductibles based on mileage and encourages the use of unleaded and LPG fuels. However, it can disproportionately affect outer and inner communes, particularly in regions like the Hebrides and Scilly Isles, where practicalities of transport are more challenging. The EU's approach to fuel tax reflects a tendency towards decentralisation, allowing member states to tailor their policies to local particularities while adhering to overarching regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:28:59.054731",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 130,
+    "vocabulary_stats": {
+      "total_related_words": 698,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 342,
+      "selected_avg_freq": 162.06666666666666
+    },
+    "related_words": [
+      "postcode",
+      "northumberland",
+      "argyll",
+      "bute",
+      "hawes",
+      "detours",
+      "forecourt",
+      "relieves",
+      "motoring",
+      "practicalities",
+      "scilly",
+      "corsican",
+      "highland",
+      "devolution",
+      "clyde",
+      "devon",
+      "mileage",
+      "alleviates",
+      "isles",
+      "precede",
+      "seamlessly",
+      "cumbria",
+      "hindrance",
+      "hebrides",
+      "unleaded",
+      "yorkshire",
+      "inner",
+      "decentralisation",
+      "lpg",
+      "taxing"
+    ],
+    "prompt_length": 1704,
+    "category": "2446 taxation"
+  }
+}

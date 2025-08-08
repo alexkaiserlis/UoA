@@ -1,0 +1,63 @@
+{
+  "concept_id": "385",
+  "concept_data": {
+    "title": "demography",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Demography, as a concept within EU legal and regulatory frameworks, refers to the statistical study of populations, particularly regarding their size, distribution, and trends. It is crucial for understanding the implications of treaties and protocols, especially during the accession of new member states, such as Croatia. The demographic figures are verified and updated regularly, providing a basis for policies that require a qualified majority in decision-making processes. The provisions set forth in various acts, including those adopted in July and amended in October, take into account the transitional arrangements necessary for effective functioning of the Union. These rules, annexed to official journals, ensure that demographic data is accurately calculated and represented, thereby informing requests and procedures that affect the population dynamics within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:04:37.441452",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 124,
+    "vocabulary_stats": {
+      "total_related_words": 55,
+      "requested_words": 150,
+      "min_frequency_found": 203,
+      "max_frequency_found": 4108,
+      "selected_words": 55,
+      "selected_min_freq": 203,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2182.9636363636364
+    },
+    "related_words": [
+      "subparagraphs",
+      "constituting",
+      "qualified",
+      "treaties",
+      "croatia",
+      "verified",
+      "figures",
+      "represent",
+      "majority",
+      "population",
+      "update",
+      "calculated",
+      "percentage",
+      "requests",
+      "fourth",
+      "annexed",
+      "least",
+      "protocol",
+      "transitional",
+      "total",
+      "hereinafter",
+      "accession",
+      "republic",
+      "until",
+      "according",
+      "act",
+      "effect",
+      "required",
+      "following",
+      "provide"
+    ],
+    "prompt_length": 1655,
+    "category": "2816 demography and population"
+  }
+}

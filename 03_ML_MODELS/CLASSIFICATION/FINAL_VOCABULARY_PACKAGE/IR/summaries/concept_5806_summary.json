@@ -1,0 +1,63 @@
+{
+  "concept_id": "5806",
+  "concept_data": {
+    "title": "Presidency of the Council of the European Union",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "Presidency of the Council of the EU",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Presidency of the Council of the European Union,\" also referred to as the \"Presidency of the Council of the EU,\" is an intergovernmental role that rotates among member states every six months. This presidency is crucial for determining the agenda and facilitating discussions on legislative proposals, including those related to energy, coal, and atomic matters under the auspices of the ECSC and EURATOM treaties. The president adopts decisions, oversees the adoption of texts, and ensures the functioning of the Council. Each presidency may also issue declarations and amendments, which are officially contained in the journal of the Union. The presidency's office, held by Finland in January and Germany in December, plays a pivotal role in the accession and entry into force of new acts, fostering cooperation among member states while respecting the principles laid out in the Lisbon Treaty.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:26:19.555834",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 140,
+    "vocabulary_stats": {
+      "total_related_words": 55,
+      "requested_words": 150,
+      "min_frequency_found": 111,
+      "max_frequency_found": 4108,
+      "selected_words": 55,
+      "selected_min_freq": 111,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2014.0
+    },
+    "related_words": [
+      "intergovernmental",
+      "presidency",
+      "adopts",
+      "foresees",
+      "president",
+      "lisbon",
+      "coal",
+      "conference",
+      "steel",
+      "atomic",
+      "ecsc",
+      "office",
+      "finland",
+      "connection",
+      "energy",
+      "exercise",
+      "euratom",
+      "declaration",
+      "held",
+      "germany",
+      "determining",
+      "annexed",
+      "contained",
+      "prejudice",
+      "final",
+      "amendments",
+      "paragraph",
+      "entry",
+      "accession",
+      "adopt"
+    ],
+    "prompt_length": 1747,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

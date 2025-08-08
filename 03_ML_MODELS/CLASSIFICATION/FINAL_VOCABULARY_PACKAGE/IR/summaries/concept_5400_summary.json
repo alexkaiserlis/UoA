@@ -1,0 +1,63 @@
+{
+  "concept_id": "5400",
+  "concept_data": {
+    "title": "access to the courts",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Access to the courts is a fundamental principle within EU legal frameworks, ensuring that individuals can seek adjudicatory remedies for grievances. This concept is essential for promoting justice and safeguarding rights, particularly in contexts involving extrajudicial disputes, such as those related to racism and xenophobia. The EU institutions, including Eurojust and Frontex, play pivotal roles in enhancing the enforceability of judicial decisions. Access is often mediated through interactive portals, where practitioners can leverage resources for settling disputes amicably. The Aarhus Convention further prescribes preconditions for access, embedding principles of autonomy and impartiality in legal processes, thereby enhancing the enjoyment of rights for all, including poorer and marginalized groups.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:06.503165",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 687,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 368,
+      "selected_avg_freq": 163.49333333333334
+    },
+    "related_words": [
+      "easo",
+      "eige",
+      "edps",
+      "eurofound",
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "frontex",
+      "mediators",
+      "embed",
+      "leveraging",
+      "accessed",
+      "mediator",
+      "cepol",
+      "delimit",
+      "extrajudicial",
+      "orientations",
+      "poorer",
+      "consensual",
+      "enjoyment",
+      "matrimonial",
+      "interactive",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "portal",
+      "eurojust",
+      "displaying",
+      "aarhus",
+      "interconnected"
+    ],
+    "prompt_length": 1727,
+    "category": "1221 justice"
+  }
+}

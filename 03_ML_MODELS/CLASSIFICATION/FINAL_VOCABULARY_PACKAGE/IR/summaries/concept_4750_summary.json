@@ -1,0 +1,63 @@
+{
+  "concept_id": "4750",
+  "concept_data": {
+    "title": "vote",
+    "category_code": "0416",
+    "category_name": "electoral procedure and voting",
+    "category_full": "0416 electoral procedure and voting",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"vote\" within EU legal and regulatory frameworks pertains to the procedures governing electoral processes, reflecting the democratic principles enshrined in treaties. Votes are fundamental in constituting representative bodies, where majority decisions are made based on weighted populations, as seen in various nations like Slovakia, Estonia, and Malta. The remit of voting includes indirect mechanisms and professional recommendations for updating electoral laws. Censuses play a crucial role in verifying figures and ensuring accurate representation. Additionally, adjustments in taxation and housing policies may arise from electoral outcomes, emphasizing the importance of votes in shaping EU governance and policy development.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:29:05.541729",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 140,
+      "requested_words": 150,
+      "min_frequency_found": 39,
+      "max_frequency_found": 4108,
+      "selected_words": 140,
+      "selected_min_freq": 39,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1678.9928571428572
+    },
+    "related_words": [
+      "censuses",
+      "votes",
+      "circles",
+      "remit",
+      "ece",
+      "weighting",
+      "housing",
+      "concentrate",
+      "forum",
+      "founded",
+      "reflecting",
+      "taxation",
+      "figure",
+      "detail",
+      "indirect",
+      "constituting",
+      "jointly",
+      "qualified",
+      "treaties",
+      "slovak",
+      "updating",
+      "wish",
+      "professional",
+      "exists",
+      "concept",
+      "figures",
+      "past",
+      "opinions",
+      "represent",
+      "majority"
+    ],
+    "prompt_length": 1658,
+    "category": "0416 electoral procedure and voting"
+  }
+}

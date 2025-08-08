@@ -1,0 +1,63 @@
+{
+  "concept_id": "6366",
+  "concept_data": {
+    "title": "commercial contract",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"commercial contract\" in the context of EU trade policy is a legally binding agreement between businesses that outlines the terms of their transactions. This concept is crucial for unleashing productivity and fostering trust among stakeholders. It addresses complexities such as confidentiality, liability, and the remedies available for breaches. The involvement of specialists ensures that contracts are unambiguous, protecting the integrity of the agreement. Digital providers must respond to the challenges of cloud computing, while businesses remain aware of limitations and the advisability of clear terms. The goal is to boost confidence and minimize downtime, ultimately enhancing job creation and economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:18:25.904857",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 237,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1479,
+      "selected_avg_freq": 682.3666666666667
+    },
+    "related_words": [
+      "unleashing",
+      "downtime",
+      "reluctant",
+      "cloud",
+      "unbalanced",
+      "academics",
+      "vague",
+      "computing",
+      "responds",
+      "unaware",
+      "lie",
+      "remedies",
+      "unambiguous",
+      "protects",
+      "professions",
+      "practitioners",
+      "faster",
+      "provider",
+      "failures",
+      "boost",
+      "breaches",
+      "specialists",
+      "advisability",
+      "uptake",
+      "underlines",
+      "stakeholder",
+      "trust",
+      "providers",
+      "unilateral",
+      "digital"
+    ],
+    "prompt_length": 1713,
+    "category": "2006 trade policy"
+  }
+}

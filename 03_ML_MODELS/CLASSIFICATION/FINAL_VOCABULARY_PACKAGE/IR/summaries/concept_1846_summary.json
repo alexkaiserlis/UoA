@@ -1,0 +1,63 @@
+{
+  "concept_id": "1846",
+  "concept_data": {
+    "title": "vehicle repair and maintenance",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "general mechanical engineering",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vehicle repair and maintenance,\" categorized under \"general mechanical engineering,\" encompasses the technical and regulatory frameworks governing the repair, functionality, and longevity of vehicles. In the EU, regulations prohibit the use of certain hazardous substances, such as hexavalent chromium and cadmium, in vehicle components to avoid emissions of heavy metals like mercury. The repair process must ensure that vehicles are equipped with spare parts that meet original specifications, thereby prolonging their life and maintaining functional properties. Exemptions may apply under specific conditions, but the disposal of waste materials must adhere to stringent regulations to prevent environmental harm. Hence, the regulatory landscape becomes crucial for sustainable automotive practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:31:40.719198",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 136,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 136,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1602.2058823529412
+    },
+    "related_words": [
+      "thermoelectric",
+      "recuperation",
+      "repaired",
+      "avoidable",
+      "prematurely",
+      "hexavalent",
+      "dimensional",
+      "exhaust",
+      "cadmium",
+      "automotive",
+      "unavoidable",
+      "mercury",
+      "chromium",
+      "spare",
+      "scientifically",
+      "repair",
+      "functional",
+      "fit",
+      "metals",
+      "metal",
+      "equipped",
+      "properties",
+      "disposed",
+      "technically",
+      "heat",
+      "vehicle",
+      "prolong",
+      "emissions",
+      "ones",
+      "prohibits"
+    ],
+    "prompt_length": 1763,
+    "category": "6821 mechanical engineering"
+  }
+}

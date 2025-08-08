@@ -1,0 +1,63 @@
+{
+  "concept_id": "1303",
+  "concept_data": {
+    "title": "parliamentary immunity",
+    "category_code": "0421",
+    "category_name": "parliament",
+    "category_full": "0421 parliament",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Parliamentary immunity refers to the specific privileges granted to members of the European Parliament (MEPs) and national parliaments, aimed at ensuring their independence in performing functions related to their office. This immunity operates to protect officials from criminal proceedings and interference while they are participating in parliamentary activities. It is crucial for maintaining the integrity of legislative processes, as it allows parliamentarians to represent their constituents without fear of unjust investigations or prosecutions. The character of this immunity is functional, exclusively designed to facilitate the effective functioning of democratic institutions, thereby clarifying the jurisdictional competence of law enforcement agencies like Europol in relation to parliamentarians.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:28:16.943009",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 137,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 137,
+      "selected_min_freq": 38,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1662.5766423357663
+    },
+    "related_words": [
+      "headed",
+      "immunity",
+      "leader",
+      "teams",
+      "offences",
+      "specificities",
+      "immunities",
+      "investigating",
+      "privileges",
+      "europol",
+      "servants",
+      "interference",
+      "team",
+      "functional",
+      "purely",
+      "jha",
+      "criminal",
+      "police",
+      "independence",
+      "auditors",
+      "terminate",
+      "enjoy",
+      "operates",
+      "officials",
+      "jurisdiction",
+      "agents",
+      "grants",
+      "investigations",
+      "staff",
+      "proceedings"
+    ],
+    "prompt_length": 1700,
+    "category": "0421 parliament"
+  }
+}

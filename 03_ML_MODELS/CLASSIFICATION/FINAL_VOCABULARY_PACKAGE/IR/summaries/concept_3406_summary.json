@@ -1,0 +1,63 @@
+{
+  "concept_id": "3406",
+  "concept_data": {
+    "title": "Virgin Islands of the United States",
+    "category_code": "7216",
+    "category_name": "America",
+    "category_full": "7216 America",
+    "is_redirect": true,
+    "preferred_term": "US Virgin Islands",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Virgin Islands of the United States,\" commonly referred to as the \"US Virgin Islands,\" is a territory that plays a significant role in EU legal and regulatory frameworks, particularly concerning animal health and food safety. This territory is associated with various movements of species, including pets and commercial animals, which necessitate checks and lists to mitigate risks, such as rabies. The EU applies specific regulations to ensure that the entry of animals from these islands aligns with health standards. This includes additional requirements for territories like Guam, Mariana, and Samoa, which are also relevant in the context of animal movement and health within the EEA.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:19:46.658046",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 89,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 89,
+      "selected_min_freq": 20,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2049.7977528089887
+    },
+    "related_words": [
+      "guam",
+      "mariana",
+      "samoa",
+      "puerto",
+      "rico",
+      "virgin",
+      "rabies",
+      "pet",
+      "moved",
+      "spreading",
+      "american",
+      "movements",
+      "islands",
+      "northern",
+      "species",
+      "chain",
+      "animals",
+      "territories",
+      "associated",
+      "checks",
+      "lists",
+      "higher",
+      "animal",
+      "includes",
+      "movement",
+      "commercial",
+      "found",
+      "food",
+      "thereto",
+      "applies"
+    ],
+    "prompt_length": 1652,
+    "category": "7216 America"
+  }
+}

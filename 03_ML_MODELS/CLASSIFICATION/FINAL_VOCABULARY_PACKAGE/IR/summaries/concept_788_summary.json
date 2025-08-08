@@ -1,0 +1,63 @@
+{
+  "concept_id": "788",
+  "concept_data": {
+    "title": "training of doctors",
+    "category_code": "3211",
+    "category_name": "teaching",
+    "category_full": "3211 teaching",
+    "is_redirect": true,
+    "preferred_term": "medical training",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"training of doctors,\" redirected to \"medical training,\" encompasses the formal education and qualification processes for various healthcare practitioners, including surgeons, midwives, and veterinarians. In the EU regulatory context, achieving high standards in medical training is crucial for ensuring mutual recognition of diplomas and certificates across member states. Committees play an important role in setting objectives and drafting resolutions that contribute to the establishment of a cohesive framework for training. This framework aims to provide evidence of the attainment of desirable qualifications, thereby enhancing the overall quality of healthcare services, including pharmacy and dentistry, across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:09.971464",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 71,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 71,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1644.5633802816901
+    },
+    "related_words": [
+      "surgeon",
+      "doctor",
+      "dentistry",
+      "pharmacy",
+      "midwives",
+      "comparably",
+      "midwifery",
+      "demanding",
+      "achievements",
+      "dental",
+      "practitioners",
+      "diplomas",
+      "advise",
+      "pharmaceutical",
+      "pursuing",
+      "qualification",
+      "qualifications",
+      "medical",
+      "attainment",
+      "committees",
+      "formal",
+      "achieving",
+      "favour",
+      "achievement",
+      "mutual",
+      "veterinary",
+      "training",
+      "certificates",
+      "recognition",
+      "declared"
+    ],
+    "prompt_length": 1747,
+    "category": "3211 teaching"
+  }
+}

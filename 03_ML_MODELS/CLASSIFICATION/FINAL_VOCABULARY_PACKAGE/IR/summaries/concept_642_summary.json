@@ -1,0 +1,63 @@
+{
+  "concept_id": "642",
+  "concept_data": {
+    "title": "waste of energy",
+    "category_code": "6606",
+    "category_name": "energy policy",
+    "category_full": "6606 energy policy",
+    "is_redirect": true,
+    "preferred_term": "energy saving",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"waste of energy,\" as categorized under EU energy policy, is effectively redirected to the preferred term \"energy saving.\" This regulatory focus aims to legislate measures that diminish the ineffectual consumption of energy in residential and commercial settings. By promoting the redesign of appliances, such as refrigerators and boilers, and enhancing insulation, the EU seeks to preserve energy efficiency. Regulations also address circulators and ballasts, ensuring that devices like fans and air conditioning units operate optimally. The Ecodesign Directive mandates that manufacturers affix energy labels, thereby informing occupants about energy consumption. Ultimately, these efforts aim to reduce unintended energy waste and promote sustainable practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:48:23.262481",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 1071,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 178,
+      "selected_avg_freq": 86.21333333333334
+    },
+    "related_words": [
+      "ineffectual",
+      "circulator",
+      "billing",
+      "occupiers",
+      "billed",
+      "fans",
+      "sstbs",
+      "glandless",
+      "standalone",
+      "circulators",
+      "ballasts",
+      "acpi",
+      "watt",
+      "eup",
+      "drives",
+      "disassembly",
+      "solemn",
+      "overtaken",
+      "legislate",
+      "ballast",
+      "mains",
+      "refrigerators",
+      "freezers",
+      "cite",
+      "ideally",
+      "twin",
+      "twh",
+      "reproducible",
+      "occupants",
+      "staged"
+    ],
+    "prompt_length": 1705,
+    "category": "6606 energy policy"
+  }
+}

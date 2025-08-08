@@ -1,0 +1,63 @@
+{
+  "concept_id": "4225",
+  "concept_data": {
+    "title": "agricultural by-product",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory frameworks, \"agricultural by-product\" refers to materials generated during agricultural activities that can be utilized rather than disposed of, such as tallow, manure, and husked grains. These by-products can be channelled into bioenergy production, including biogas and biodiesel, through processes like hydrolysis and fermentation. The treatment of agricultural by-products is subject to regulations to mitigate risks associated with impurities and untreated materials, ensuring safe application in sectors like biotechnology and fertilisers. Additionally, by-products may be processed in distilleries or used in winemaking, contributing to a circular economy and reducing landfill reliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:45:13.447815",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 95,
+    "vocabulary_stats": {
+      "total_related_words": 611,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 553,
+      "selected_avg_freq": 237.43333333333334
+    },
+    "related_words": [
+      "conveyer",
+      "châlon",
+      "hphb",
+      "kodak",
+      "abp",
+      "insoluble",
+      "bioenergy",
+      "saône",
+      "reconsideration",
+      "digestive",
+      "thermo",
+      "distil",
+      "risky",
+      "filtered",
+      "hydrolysis",
+      "tallow",
+      "alkaline",
+      "landfill",
+      "agonists",
+      "photographic",
+      "channelling",
+      "tract",
+      "vertebral",
+      "channelled",
+      "winemaking",
+      "biogas",
+      "stationary",
+      "mitigated",
+      "biodiesel",
+      "fractions"
+    ],
+    "prompt_length": 1683,
+    "category": "5631 agricultural activity"
+  }
+}

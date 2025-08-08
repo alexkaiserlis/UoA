@@ -1,0 +1,63 @@
+{
+  "concept_id": "435330",
+  "concept_data": {
+    "title": "European Union competition policy",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": true,
+    "preferred_term": "EU competition policy",
+    "relation_type": "USE"
+  },
+  "summary": "EU competition policy, a critical aspect of the European Union's legal framework, is designed to ensure the effective functioning of the internal market. It encompasses laws and regulations that promote open competition, prevent anti-competitive practices, and foster cooperation among member states. The policy is grounded in treaties and is subject to decisions made by the European Commission and the Council. Significant agreements, such as those signed in April and December, outline the application of these laws. The conclusion of negotiations concerning competition is documented in the Official Journal, reflecting the EU's commitment to maintaining a competitive confederation.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:52:30.406760",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 31,
+      "requested_words": 150,
+      "min_frequency_found": 514,
+      "max_frequency_found": 4108,
+      "selected_words": 31,
+      "selected_min_freq": 514,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2352.0
+    },
+    "related_words": [
+      "signing",
+      "confederation",
+      "swiss",
+      "completed",
+      "negotiations",
+      "laws",
+      "open",
+      "competition",
+      "signed",
+      "behalf",
+      "authorised",
+      "conjunction",
+      "conclusion",
+      "cooperation",
+      "agreement",
+      "subject",
+      "articles",
+      "april",
+      "functioning",
+      "application",
+      "proposal",
+      "concerning",
+      "december",
+      "journal",
+      "official",
+      "union",
+      "decision",
+      "commission",
+      "council",
+      "treaty"
+    ],
+    "prompt_length": 1548,
+    "category": "4031 competition"
+  }
+}

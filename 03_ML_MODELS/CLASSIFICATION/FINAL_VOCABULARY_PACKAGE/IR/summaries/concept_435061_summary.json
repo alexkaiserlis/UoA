@@ -1,0 +1,63 @@
+{
+  "concept_id": "435061",
+  "concept_data": {
+    "title": "carbon sequestration",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "carbon capture and storage",
+    "relation_type": "USE"
+  },
+  "summary": "Carbon sequestration, commonly referred to as carbon capture and storage (CCS), is a pivotal technology in the EU's regulatory framework aimed at mitigating climate change. It involves the capture of greenhouse gas emissions from sources like power plants, followed by their safe storage in geological formations. The EU has established various schemes to incentivize investment in innovative CCS projects, including the monetisation of carbon allowances. These allowances are awarded to entrants demonstrating significant emission reductions. The aim is to reach ambitious climate targets while covering operational costs. This regulatory approach supports the transition to renewable energy sources and addresses the ongoing climate crisis.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:02:42.685519",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1828.2244897959183
+    },
+    "related_words": [
+      "monetisation",
+      "ccs",
+      "res",
+      "geological",
+      "capture",
+      "entrants",
+      "grace",
+      "greenhouse",
+      "revenues",
+      "environmentally",
+      "demonstration",
+      "innovative",
+      "allowances",
+      "renewable",
+      "emission",
+      "climate",
+      "emissions",
+      "allowance",
+      "awarded",
+      "technologies",
+      "award",
+      "gas",
+      "selection",
+      "safe",
+      "reserve",
+      "trading",
+      "crisis",
+      "reach",
+      "projects",
+      "storage"
+    ],
+    "prompt_length": 1722,
+    "category": "6411 technology and technical regulations"
+  }
+}

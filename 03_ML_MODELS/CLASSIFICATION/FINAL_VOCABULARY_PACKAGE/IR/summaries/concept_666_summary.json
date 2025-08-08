@@ -1,0 +1,63 @@
+{
+  "concept_id": "666",
+  "concept_data": {
+    "title": "processing of agricultural products",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": true,
+    "preferred_term": "agro-industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"processing of agricultural products,\" redirected to the preferred term \"agro-industry,\" encompasses the transformation of raw agricultural materials into value-added products. This sector includes diverse activities, such as the threshed grains of cereais and the production of sorbitols, which are essential in the food industry. The EU regulatory framework aims to rationalize agroalimentação processes, ensuring compliance with safety standards and promoting sustainable practices. Notably, the supervision of agro-industry operations involves assessing subthresholds for contaminants and ensuring that products, such as the Valencian eclair or the patudo variety, meet market demands. This regulation supports the demobilization of nonagricultural barriers, fostering an environment for innovation and improvement in agrochimie practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:44:24.534378",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 3010,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 21,
+      "selected_avg_freq": 10.706666666666667
+    },
+    "related_words": [
+      "pereg",
+      "korso",
+      "sanguinello",
+      "sanguigno",
+      "moro",
+      "tarocco",
+      "patudo",
+      "atăşn",
+      "inconspicuous",
+      "daltons",
+      "casinates",
+      "adendum",
+      "whereof",
+      "stripping",
+      "ameded",
+      "pearled",
+      "subthresholds",
+      "subthreshold",
+      "nonagricultural",
+      "shceme",
+      "rhodesia",
+      "spontaneously",
+      "reapplied",
+      "eclair",
+      "demobilization",
+      "improvong",
+      "inexistance",
+      "wurtemberg",
+      "wurtemburg",
+      "exercice"
+    ],
+    "prompt_length": 1752,
+    "category": "6031 agri-foodstuffs"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "basic_statistics": {
+    "total_words": 40431,
+    "total_concepts": 3233099,
+    "average_concepts_per_word": 79.96584304123074,
+    "unique_concepts": 4108
+  },
+  "top_words_by_concept_count": [
+    [
+      "european",
+      4108
+    ],
+    [
+      "treaty",
+      4090
+    ],
+    [
+      "council",
+      4073
+    ],
+    [
+      "commission",
+      4003
+    ],
+    [
+      "establishing",
+      3824
+    ],
+    [
+      "community",
+      3811
+    ],
+    [
+      "decision",
+      3643
+    ],
+    [
+      "accordance",
+      3636
+    ],
+    [
+      "member",
+      3617
+    ],
+    [
+      "states",
+      3590
+    ]
+  ],
+  "most_frequent_concepts": [
+    [
+      "1309",
+      10233
+    ],
+    [
+      "2771",
+      9532
+    ],
+    [
+      "192",
+      7953
+    ],
+    [
+      "889",
+      7906
+    ],
+    [
+      "1318",
+      7384
+    ],
+    [
+      "1085",
+      7339
+    ],
+    [
+      "5451",
+      7263
+    ],
+    [
+      "1519",
+      7102
+    ],
+    [
+      "2300",
+      6945
+    ],
+    [
+      "863",
+      6847
+    ]
+  ],
+  "sample_vocabulary_entries": {
+    "official": [
+      {
+        "id": "10",
+        "title": "domestic trade"
+      },
+      {
+        "id": "1000",
+        "title": "financing"
+      },
+      {
+        "id": "1002",
+        "title": "long-term investment fund"
+      }
+    ],
+    "journal": [
+      {
+        "id": "10",
+        "title": "domestic trade"
+      },
+      {
+        "id": "1000",
+        "title": "financing"
+      },
+      {
+        "id": "1002",
+        "title": "long-term investment fund"
+      }
+    ],
+    "union": [
+      {
+        "id": "10",
+        "title": "domestic trade"
+      },
+      {
+        "id": "1000",
+        "title": "financing"
+      },
+      {
+        "id": "1002",
+        "title": "long-term investment fund"
+      }
+    ],
+    "implementing": [
+      {
+        "id": "10",
+        "title": "domestic trade"
+      },
+      {
+        "id": "1000",
+        "title": "financing"
+      },
+      {
+        "id": "1005",
+        "title": "European Union financing"
+      }
+    ],
+    "regulation": [
+      {
+        "id": "10",
+        "title": "domestic trade"
+      },
+      {
+        "id": "1000",
+        "title": "financing"
+      },
+      {
+        "id": "1004",
+        "title": "welfare"
+      }
+    ]
+  }
+}

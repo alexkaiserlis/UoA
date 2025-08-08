@@ -1,0 +1,63 @@
+{
+  "concept_id": "5023",
+  "concept_data": {
+    "title": "reduced interest rate loan",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "interest rate subsidy",
+    "relation_type": "USE"
+  },
+  "summary": "A \"reduced interest rate loan,\" often referred to as an \"interest rate subsidy,\" is a financial instrument utilized by EU institutions to support economic growth and stability. These loans are designed to lower borrowing costs for entities striving to repatriate investments or expand their operations internationally. By unifying financial mechanisms, the EU aims to allay misgivings about economic setbacks faced by various sectors, including those involved in cableways and elevators. Companies like Doppelmayr and Garaventa, headquartered in Europe, benefit from such subsidies, which help them maintain a foothold in competitive markets. This regulatory approach fosters innovation, enabling firms to tackle challenges, such as those posed by rivals in the ropeway industry, while managing intangibles and operational costs effectively.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:10:57.342677",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 1388,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 34.74
+    },
+    "related_words": [
+      "repatriated",
+      "repatriate",
+      "foreigh",
+      "unify",
+      "striving",
+      "tolerating",
+      "osirg",
+      "liftgmbh",
+      "doppelmayr",
+      "seilbahnvertriebsgesellschaft",
+      "cableways",
+      "funicular",
+      "elevators",
+      "garaging",
+      "stacker",
+      "ropeways",
+      "sanhe",
+      "chairlifts",
+      "headquartered",
+      "wolfurth",
+      "garaventa",
+      "pomagalski",
+      "tubemeuse",
+      "queried",
+      "internationalise",
+      "setbacks",
+      "foothold",
+      "ropeway",
+      "rivals",
+      "itends"
+    ],
+    "prompt_length": 1759,
+    "category": "2416 financial institutions and credit"
+  }
+}

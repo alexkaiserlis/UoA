@@ -1,0 +1,63 @@
+{
+  "concept_id": "2494",
+  "concept_data": {
+    "title": "transport policy",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EU's transport policy encompasses a comprehensive framework aimed at organizing and regulating transport systems across member states. It fosters the development of alternative modes of transport, including railways and airspace management, while addressing issues such as monopolies and scheduling. The policy aims to deliver a lawful and efficient transport network, curbing illegality and enhancing safety. Moreover, it promotes the use of ecopoints and prefinanced projects to support sustainable transport solutions. By deploying distinctive strategies, the policy seeks to surpass existing limitations and ensure that transport remains a busy and accessible sector, ultimately benefiting groupings of citizens and businesses alike.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:57.123015",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 994,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 250,
+      "selected_avg_freq": 121.02
+    },
+    "related_words": [
+      "aternative",
+      "bimodal",
+      "summertime",
+      "movereover",
+      "illegality",
+      "friendship",
+      "absolve",
+      "busy",
+      "csts",
+      "nrvs",
+      "nrv",
+      "cst",
+      "prefinanced",
+      "moveable",
+      "midnight",
+      "surpass",
+      "saturday",
+      "ecopoints",
+      "slot",
+      "exposes",
+      "delivers",
+      "fares",
+      "fare",
+      "hinders",
+      "deploying",
+      "monopolies",
+      "scrapped",
+      "scrapping",
+      "scheduling",
+      "fostered"
+    ],
+    "prompt_length": 1659,
+    "category": "4806 transport policy"
+  }
+}

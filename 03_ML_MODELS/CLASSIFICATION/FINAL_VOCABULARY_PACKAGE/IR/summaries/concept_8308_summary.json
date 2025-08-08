@@ -1,0 +1,63 @@
+{
+  "concept_id": "8308",
+  "concept_data": {
+    "title": "Plovdiv region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Plovdiv region,\" categorized under 7211 regions of EU Member States, is significant in the context of EU legal and regulatory frameworks, particularly concerning agricultural products. This region is known for its production of high-quality foodstuffs, including the renowned българско розово масло (bulgarsko rozovo maslo), which has received Protected Geographical Indication (PGI) status. The European Commission, pursuant to regulations established by the Council and Parliament, oversees the application and entry of such designations into the official register. These schemes aim to protect the geographical origin and quality of products, enhancing their marketability within the Union. The functioning of these regulations is published in the official journal, ensuring transparency and compliance with EU treaties.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:54:29.337685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 41,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 41,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1721.2926829268292
+    },
+    "related_words": [
+      "българско",
+      "розово",
+      "масло",
+      "bulgarsko",
+      "rozovo",
+      "maslo",
+      "pgi",
+      "opposition",
+      "designations",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "bulgaria",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "september",
+      "implementing",
+      "functioning",
+      "pursuant"
+    ],
+    "prompt_length": 1605,
+    "category": "7211 regions of EU Member States"
+  }
+}

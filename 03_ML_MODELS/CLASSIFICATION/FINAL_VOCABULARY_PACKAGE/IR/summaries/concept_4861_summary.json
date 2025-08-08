@@ -1,0 +1,63 @@
+{
+  "concept_id": "4861",
+  "concept_data": {
+    "title": "vegetable butter",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Vegetable butter, categorized under processed agricultural produce (NACE 6016), represents a significant subsector within the EU's food industry. This product, often derived from various fats, serves as a substitute for traditional butter, challenging conventional dairy markets. Its production involves the disaggregation of plant-based oils, which are then processed into a paste or powder form. Regulatory assessments focus on the qualitative aspects of vegetable butter, including its emissions and carbon intensity during manufacturing. The EU's climate policies encourage renewable installations that minimize leakage and enhance sustainability. Consequently, vegetable butter is distinguished by its potential to satisfy consumer demand while adhering to stringent environmental allowances and regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:26:25.226666",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 229,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1727,
+      "selected_avg_freq": 726.6866666666666
+    },
+    "related_words": [
+      "citl",
+      "challenging",
+      "disaggregation",
+      "tiles",
+      "baked",
+      "disaggregated",
+      "clay",
+      "paste",
+      "bricks",
+      "subsectors",
+      "constructions",
+      "subsector",
+      "roof",
+      "log",
+      "leakage",
+      "sweetening",
+      "cocoa",
+      "modest",
+      "reassessed",
+      "salt",
+      "nace",
+      "invest",
+      "distinguished",
+      "greenhouse",
+      "distinguishing",
+      "pass",
+      "intensity",
+      "qualitative",
+      "carbon",
+      "allowances"
+    ],
+    "prompt_length": 1694,
+    "category": "6016 processed agricultural produce"
+  }
+}

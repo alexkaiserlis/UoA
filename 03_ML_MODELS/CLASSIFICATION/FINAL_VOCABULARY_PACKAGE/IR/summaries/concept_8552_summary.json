@@ -1,0 +1,63 @@
+{
+  "concept_id": "8552",
+  "concept_data": {
+    "title": "Doha development agenda",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "Doha Round",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Doha Development Agenda,\" commonly referred to as the \"Doha Round,\" is a pivotal multilateral trade negotiation under the World Trade Organization (WTO) that aims to strengthen global trading systems. It encompasses commitments to enhance transparency and efficiency in trade, particularly in agriculture, where differential treatment for developing countries is paramount. The Doha Round seeks to address challenges such as stockholding and quotas, facilitating progressive integration of developing nations into the global market. Ministerial sessions have conducted discussions on various clauses, aiming for a successful outcome that minimizes distortions and advances the ability of all members to reach equitable solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:32:57.985671",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 130,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 130,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1574.7923076923078
+    },
+    "related_words": [
+      "ctd",
+      "trq",
+      "underfill",
+      "stockholding",
+      "encompasses",
+      "doha",
+      "toward",
+      "heart",
+      "paramount",
+      "attaches",
+      "restraint",
+      "differential",
+      "challenge",
+      "ninth",
+      "sure",
+      "recognises",
+      "ministerial",
+      "session",
+      "wto",
+      "clause",
+      "distort",
+      "ability",
+      "successful",
+      "uruguay",
+      "find",
+      "round",
+      "understanding",
+      "facilitating",
+      "progressive",
+      "multilateral"
+    ],
+    "prompt_length": 1722,
+    "category": "2011 tariff policy"
+  }
+}

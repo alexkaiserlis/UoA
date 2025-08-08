@@ -1,0 +1,63 @@
+{
+  "concept_id": "45",
+  "concept_data": {
+    "title": "competitiveness",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"competitiveness\" within EU legal and regulatory frameworks emphasizes the need to rationalize business practices and enhance economic performance. Initiatives like COSME and the European Investment Fund (EIF) aim to support SMEs by providing helpdesk services and facilitating access to financing. The EU intervenes strategically to counteract impediments to growth, such as inflationary pressures and market inefficiencies. Programs like Leonardo and Socrates focus on imparting skills to learners, ensuring talent development aligns with market needs. By promoting normalization and centralisation of standards, the EU seeks to create a conducive environment for careers in diverse sectors, particularly in academia and innovation-driven industries.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:24:34.027020",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1293,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 120,
+      "selected_avg_freq": 55.6
+    },
+    "related_words": [
+      "razionalize",
+      "normalization",
+      "cosme",
+      "helpdesk",
+      "iporta",
+      "ccee",
+      "enhace",
+      "talent",
+      "learners",
+      "ieea",
+      "tarifa",
+      "decarbonise",
+      "imparting",
+      "iee",
+      "everyone",
+      "especial",
+      "speak",
+      "teachers",
+      "portfolios",
+      "intervenes",
+      "oriental",
+      "hitting",
+      "impediments",
+      "modal",
+      "careers",
+      "directorates",
+      "bangemann",
+      "relinquishing",
+      "arbitrio",
+      "eif"
+    ],
+    "prompt_length": 1686,
+    "category": "4006 business organisation"
+  }
+}

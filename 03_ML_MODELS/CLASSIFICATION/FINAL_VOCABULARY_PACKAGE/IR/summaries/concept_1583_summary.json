@@ -1,0 +1,63 @@
+{
+  "concept_id": "1583",
+  "concept_data": {
+    "title": "Languedoc-Roussillon",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Languedoc-Roussillon, a region in France, is significant within EU legal and regulatory frameworks, particularly concerning agricultural and environmental policies. The region's diverse landscapes, from the cévennes to the coastal shores, support unique habitats and biodiversity, including species like sardine and cephalopods. The vineyards of Languedoc-Roussillon produce PDO wines, contributing to the EU's emphasis on quality and additionality in agricultural products. Regulatory measures, such as those from the Commission, govern fishing practices, ensuring sustainable trawls and selective gear use in its waters. The region also faces challenges like flood management and irrigation, necessitating comprehensive legal justifications for resource use and environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:33:33.987069",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 571,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 631,
+      "selected_avg_freq": 304.3466666666667
+    },
+    "related_words": [
+      "ocotber",
+      "oignon",
+      "doux",
+      "shallow",
+      "cévennes",
+      "miel",
+      "hérault",
+      "fries",
+      "depths",
+      "isobath",
+      "flood",
+      "sardine",
+      "azur",
+      "alpes",
+      "languedoc",
+      "provence",
+      "roussillon",
+      "comission",
+      "valley",
+      "cephalopods",
+      "seines",
+      "seine",
+      "nautical",
+      "shore",
+      "nets",
+      "stecf",
+      "trawlers",
+      "trawls",
+      "towed",
+      "miles"
+    ],
+    "prompt_length": 1636,
+    "category": "7211 regions of EU Member States"
+  }
+}

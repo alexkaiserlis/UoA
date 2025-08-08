@@ -1,0 +1,63 @@
+{
+  "concept_id": "2976",
+  "concept_data": {
+    "title": "substitute agricultural production",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "alternative agricultural production",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"substitute agricultural production,\" redirected to \"alternative agricultural production,\" encompasses various methods aimed at enhancing agricultural sustainability within the EU. This approach encourages the cultivation of diverse crops, such as buckwheat and millet, to address surplus production of traditional cereals. The European Commission has established regulations that fix marketing requirements and provide aid to farmers who adopt alternative practices. These measures aim to maintain a certain level of production while achieving social and economic objectives. The Council and Parliament have amended treaties to support these initiatives, ensuring that communities can adapt to changing market conditions effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:46.380852",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 51,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 51,
+      "selected_min_freq": 14,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2190.235294117647
+    },
+    "related_words": [
+      "buckwheat",
+      "millet",
+      "sown",
+      "canary",
+      "surplus",
+      "seed",
+      "attained",
+      "permits",
+      "cereals",
+      "alternative",
+      "encourage",
+      "proportion",
+      "maintained",
+      "actual",
+      "fixing",
+      "marketing",
+      "organization",
+      "aid",
+      "resulting",
+      "objective",
+      "production",
+      "amount",
+      "end",
+      "social",
+      "year",
+      "requirements",
+      "same",
+      "last",
+      "level",
+      "market"
+    ],
+    "prompt_length": 1736,
+    "category": "5611 agricultural structures and production"
+  }
+}

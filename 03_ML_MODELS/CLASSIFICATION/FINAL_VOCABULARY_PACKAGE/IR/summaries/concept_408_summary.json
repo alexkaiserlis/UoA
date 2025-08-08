@@ -1,0 +1,63 @@
+{
+  "concept_id": "408",
+  "concept_data": {
+    "title": "time deposit",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "bank deposit",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, a \"time deposit,\" often redirected to the preferred term \"bank deposit,\" encompasses funds that savers, or depositors, commit for a specified duration, typically yielding higher payouts than regular deposits. Financial institutions (MFIs) provision these deposits, which can be subject to revaluation and renegotiations during financial turmoil. Depositors may face counterclaims if their funds are depleted or unavailable due to insolvency issues. The Eurosystem regulates these transactions to ensure solvency and protect households. In cases of abrogation, the reorganisation of deposits may be triggered, impacting the multitude of stakeholders involved, including corporations and the IMF.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:23:20.678687",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 760,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 381,
+      "selected_avg_freq": 187.39333333333335
+    },
+    "related_words": [
+      "swell",
+      "transfered",
+      "payout",
+      "savers",
+      "depositors",
+      "depositor",
+      "payouts",
+      "countered",
+      "lire",
+      "provisioned",
+      "interferences",
+      "mfi",
+      "sdrs",
+      "multitude",
+      "mfis",
+      "counterclaims",
+      "turmoil",
+      "interfered",
+      "replenish",
+      "renegotiations",
+      "serbian",
+      "replenishment",
+      "renegotiated",
+      "unsuccessful",
+      "votes",
+      "solvency",
+      "corporations",
+      "reimbursing",
+      "repay",
+      "depleted"
+    ],
+    "prompt_length": 1744,
+    "category": "2416 financial institutions and credit"
+  }
+}

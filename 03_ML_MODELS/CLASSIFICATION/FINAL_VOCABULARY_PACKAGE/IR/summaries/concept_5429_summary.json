@@ -1,0 +1,63 @@
+{
+  "concept_id": "5429",
+  "concept_data": {
+    "title": "vehicle park",
+    "category_code": "2846",
+    "category_name": "construction and town planning",
+    "category_full": "2846 construction and town planning",
+    "is_redirect": true,
+    "preferred_term": "parking area",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"vehicle park,\" redirected to \"parking area,\" pertains to the regulatory frameworks governing the construction and management of designated spaces for vehicles. In the EU context, these areas are crucial for minimising urban congestion and optimising the use of built environments. Regulations encourage the deployment of intelligent parking systems that enhance interoperability and comfort for drivers. Such systems may include displaying signs that provide feedback on availability, ensuring privacy and anonymity for users. Additionally, the design of these parks must consider the behaviour of various vehicle types, including trucks, to prevent unsuitable alterations and guarantee safety. The acknowledgment of these factors is vital for effective urban planning and crime minimisation.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:52:06.987629",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 249,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 1548,
+      "selected_avg_freq": 639.48
+    },
+    "related_words": [
+      "psi",
+      "minimisation",
+      "reusing",
+      "licensee",
+      "parks",
+      "acknowledgement",
+      "redirected",
+      "parking",
+      "displaying",
+      "anonymity",
+      "truck",
+      "pillars",
+      "park",
+      "defective",
+      "feedback",
+      "comfort",
+      "anonymous",
+      "breaks",
+      "seamless",
+      "trucks",
+      "static",
+      "intelligent",
+      "highlights",
+      "choosing",
+      "interfaces",
+      "reuse",
+      "privacy",
+      "drivers",
+      "optimise",
+      "supervisor"
+    ],
+    "prompt_length": 1717,
+    "category": "2846 construction and town planning"
+  }
+}

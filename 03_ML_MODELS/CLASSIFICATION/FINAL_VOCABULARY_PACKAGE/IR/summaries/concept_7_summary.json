@@ -1,0 +1,63 @@
+{
+  "concept_id": "7",
+  "concept_data": {
+    "title": "arms trafficking",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": true,
+    "preferred_term": "arms trade",
+    "relation_type": "USE"
+  },
+  "summary": "Arms trafficking, often redirected to the preferred term \"arms trade,\" encompasses the illicit transfer of lethal cargoes, including firearms and explosives, which can lead to inhuman and degrading consequences. The EU's legal framework aims to implement strong measures against irresponsible brokers and stockpiles of small arms and light weapons (SALW). Through multilateralism and initiatives like the Arms Trade Treaty (ATT), the EU seeks to reaffirm its commitment to inclusiveness and responsible arms transfers. This includes convening biennial discussions, addressing neglected topics such as the impact on conflict zones like the DRC and Somalia, and ensuring compliance with international standards set by organizations like the OPCW and OSCE. The EU's regulatory approach also emphasizes the importance of outreach and monitoring to prevent the escalation of hostilities and promote ceasefire agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:28.031109",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 931,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 167,
+      "selected_avg_freq": 77.22
+    },
+    "related_words": [
+      "strongest",
+      "inclusiveness",
+      "implementable",
+      "tfis",
+      "unidir",
+      "codun",
+      "sitcen",
+      "sipri",
+      "att",
+      "biennial",
+      "ivorian",
+      "deploring",
+      "devising",
+      "amisom",
+      "neglected",
+      "cit",
+      "gge",
+      "wassenaar",
+      "seaports",
+      "convening",
+      "multilateralism",
+      "ceasefire",
+      "hostilities",
+      "opcw",
+      "salw",
+      "sanitation",
+      "firearms",
+      "reaffirming",
+      "outreach",
+      "topic"
+    ],
+    "prompt_length": 1674,
+    "category": "0821 defence"
+  }
+}

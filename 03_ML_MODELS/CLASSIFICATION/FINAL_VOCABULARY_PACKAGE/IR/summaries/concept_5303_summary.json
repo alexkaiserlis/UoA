@@ -1,0 +1,63 @@
+{
+  "concept_id": "5303",
+  "concept_data": {
+    "title": "cytology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Cytology, a vital branch of natural and applied sciences, focuses on the study of cells, including their structure and function. In the context of EU legal and regulatory frameworks, cytology plays a crucial role in immunological diagnostics and pathological assessments. Techniques such as centrifuge and supercentrifuge are employed for cellular separations, while spectrophotometric and spectrofluorometer analyses enhance the understanding of cellular components, including arachidonic and prostaglandins. Regulatory bodies may require the use of advanced analyzers, like those from Becton, Dickinson, and Perkin Elmer, to ensure compliance with health standards. The integration of cytological methods in donation protocols and research, particularly in relation to subcellular structures, underscores its significance in EU health regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:56:25.105643",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 290,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1113,
+      "selected_avg_freq": 342.20666666666665
+    },
+    "related_words": [
+      "superspeed",
+      "centrifuge",
+      "separations",
+      "supercentrifuge",
+      "cryofuge",
+      "christ",
+      "osterode",
+      "harz",
+      "heraeus",
+      "finnigan",
+      "incos",
+      "căšdex",
+      "heme",
+      "becton",
+      "dickinson",
+      "sorter",
+      "facs",
+      "immunological",
+      "scatter",
+      "aminco",
+      "sfr",
+      "braintree",
+      "subcellular",
+      "mse",
+      "manor",
+      "crawley",
+      "spectrophotometric",
+      "gradient",
+      "baird",
+      "membrane"
+    ],
+    "prompt_length": 1689,
+    "category": "3606 natural and applied sciences"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3690",
+  "concept_data": {
+    "title": "tile",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": true,
+    "preferred_term": "floor coverings",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"tile,\" categorized under building and public works, redirects to the preferred term \"floor coverings.\" In EU legal and regulatory contexts, floor coverings encompass various materials, including tiles, carpets, and polymeric options, which are scrutinized for compliance with safety and environmental standards. These materials must demonstrate attributes such as watertight membranes and electrostatic properties, particularly in wetroom applications. The thicknesses and textures of flooring, including tufted carpets and injected fixtures, are regulated to ensure durability and aesthetic appeal. Regulatory frameworks often insist on uncoated surfaces to enhance sustainability, while innovations in hardeners and cationic treatments are explored to improve performance.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:17.513013",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1257,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 91,
+      "selected_avg_freq": 38.086666666666666
+    },
+    "related_words": [
+      "ffl",
+      "cationic",
+      "hardener",
+      "attractions",
+      "transduction",
+      "watertight",
+      "wetroom",
+      "floors",
+      "aec",
+      "welwyn",
+      "kolon",
+      "skc",
+      "hade",
+      "volulme",
+      "genval",
+      "housepainters",
+      "wallpaper",
+      "unremitting",
+      "pinpoints",
+      "scrutinizes",
+      "fixtures",
+      "accentuating",
+      "flooring",
+      "redeeming",
+      "polymeric",
+      "wiesbaden",
+      "tufted",
+      "petition",
+      "panelling",
+      "deterring"
+    ],
+    "prompt_length": 1720,
+    "category": "6831 building and public works"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2733",
+  "concept_data": {
+    "title": "sugar product",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"sugar product\" encompasses a range of foodstuffs regulated under EU law, particularly concerning their composition and labeling. Sugar products, which include granulated sugar and various syrups, are subject to specific regulations to ensure consumer safety and accurate representation. The regulatory framework addresses aspects such as the crystallizing process, where polysaccharides may be utilized as softeners or fixings. Additionally, products like appelstroop and candy are monitored for their content of undenatured sugars and essences. The EU's approach aims to prevent distortive practices in commerce, ensuring that sugar products are not uneconomical or misleadingly marketed. Compliance with these regulations is crucial for manufacturers, who must adhere to guidelines regarding bagging, dilution, and extraction methods, thereby fostering a transparent market environment.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:09.653586",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 120,
+    "vocabulary_stats": {
+      "total_related_words": 1606,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 108,
+      "selected_avg_freq": 51.57333333333333
+    },
+    "related_words": [
+      "amout",
+      "repalce",
+      "enormously",
+      "crispbread",
+      "jume",
+      "pectic",
+      "maté",
+      "polysaccharide",
+      "operaçoes",
+      "lamberti",
+      "carboxymethylcellulose",
+      "lastingly",
+      "uneconomical",
+      "appelstroop",
+      "stats",
+      "crystallizing",
+      "bourse",
+      "essences",
+      "softeners",
+      "sorbose",
+      "hundredth",
+      "febeltex",
+      "dilute",
+      "bagging",
+      "cerestar",
+      "candy",
+      "fixings",
+      "renounced",
+      "polarization",
+      "alle"
+    ],
+    "prompt_length": 1691,
+    "category": "6026 foodstuff"
+  }
+}

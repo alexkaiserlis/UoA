@@ -1,0 +1,63 @@
+{
+  "concept_id": "3557",
+  "concept_data": {
+    "title": "travel expenses",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "allowances and expenses",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"travel expenses,\" redirected to \"allowances and expenses,\" encompasses various forms of reimbursement related to personnel management. This includes indemnities for overnight stays in hotels, subsistence allowances for meals, and representational costs incurred during official duties. Employees, such as rapporteurs and advisors, may claim expenses for hospitality and catering services while engaging in thematic consultations. The regulatory provisions ensure that these expenses are rounded and correspondingly reimbursed, reflecting the principles of fairness and transparency. Moreover, the management of these allowances is crucial for maintaining equitable treatment among staff, including those in secondment or shiftwork roles.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:55:08.459929",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 646,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 418,
+      "selected_avg_freq": 165.30666666666667
+    },
+    "related_words": [
+      "orphans",
+      "teaty",
+      "detachment",
+      "hotel",
+      "subsistance",
+      "sigle",
+      "representational",
+      "hospitality",
+      "caretaking",
+      "horeca",
+      "overnight",
+      "establising",
+      "cunsulting",
+      "indexes",
+      "predecessors",
+      "shiftwork",
+      "seconding",
+      "morning",
+      "karolus",
+      "advocate",
+      "actuarial",
+      "whreas",
+      "presidents",
+      "hotels",
+      "afternoon",
+      "rapporteurs",
+      "progression",
+      "secondment",
+      "advisors",
+      "correspondingly"
+    ],
+    "prompt_length": 1784,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

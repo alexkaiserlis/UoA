@@ -1,0 +1,63 @@
+{
+  "concept_id": "2622",
+  "concept_data": {
+    "title": "product withdrawn from the market",
+    "category_code": "5611",
+    "category_name": "agricultural structures and production",
+    "category_full": "5611 agricultural structures and production",
+    "is_redirect": true,
+    "preferred_term": "non-marketing premium",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"product withdrawn from the market\" is closely related to the preferred term \"non-marketing premium\" within EU agricultural regulations. This term refers to measures that dissuade producers from marketing certain agricultural products, such as nectarines and peaches, during periods of surplus or sudden market disturbances. By opting for non-marketing premiums, producers can retain their identity while stabilising their herds and crops. Such withdrawals may involve returning ineligible products or keeping fewer copies of certain items, thus mitigating unpredictable market fluctuations. Nonetheless, these measures ensure that producers are compensated, preventing the forfeiture of their investments and maintaining market equilibrium.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:12:26.556777",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 437,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 865,
+      "selected_avg_freq": 459.6533333333333
+    },
+    "related_words": [
+      "nonmarketing",
+      "retains",
+      "emptive",
+      "dissuade",
+      "opting",
+      "unpredictable",
+      "keeps",
+      "card",
+      "relax",
+      "cards",
+      "fewer",
+      "forfeited",
+      "duplicate",
+      "outset",
+      "returning",
+      "nectarines",
+      "releases",
+      "circumvent",
+      "majeure",
+      "outlet",
+      "peaches",
+      "precaution",
+      "fashion",
+      "cow",
+      "ineligible",
+      "withdrawals",
+      "herd",
+      "sudden",
+      "pears",
+      "stabilization"
+    ],
+    "prompt_length": 1723,
+    "category": "5611 agricultural structures and production"
+  }
+}

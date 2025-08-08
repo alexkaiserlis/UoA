@@ -1,0 +1,63 @@
+{
+  "concept_id": "2952",
+  "concept_data": {
+    "title": "sunflower seed oil",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Sunflower seed oil, classified under processed agricultural produce (6016), is a significant component in the EU's food regulatory framework. Its antioxidative properties, particularly due to tocopherol content, enhance its dietary value. The oil's viscosity and dispersible nature make it ideal for various formulations, including dietetic products. However, concerns regarding contaminants such as mcpd and pyrene necessitate rigorous safety assessments. The RASFF system monitors incidents involving unsafe sunflower seed oil, ensuring compliance with JECFA standards. Additionally, the presence of glucosinolates and lycopene in formulations can influence consumer allergies, highlighting the importance of correct labeling and transparency in the market.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:00:47.679820",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 629,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 400,
+      "selected_avg_freq": 176.46666666666667
+    },
+    "related_words": [
+      "suinflower",
+      "cwd",
+      "compressible",
+      "antioxidative",
+      "europeån",
+      "vitatene",
+      "sau",
+      "dwn",
+      "tocopherol",
+      "blakeslea",
+      "trispora",
+      "dispersible",
+      "perfected",
+      "breakfast",
+      "rassf",
+      "glucosinolates",
+      "glucosinolate",
+      "lycopene",
+      "ideally",
+      "unrwa",
+      "oxidative",
+      "mcpd",
+      "pyrene",
+      "tin",
+      "benzo",
+      "jecfa",
+      "viscosity",
+      "republication",
+      "unsafe",
+      "paraffin"
+    ],
+    "prompt_length": 1687,
+    "category": "6016 processed agricultural produce"
+  }
+}

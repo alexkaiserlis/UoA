@@ -1,0 +1,63 @@
+{
+  "concept_id": "246",
+  "concept_data": {
+    "title": "Corsica",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Corsica, an insular region of France, is recognized within the EU framework as a distinct entity under the category of regions of EU Member States. Its spécificité is highlighted by a rich cultural heritage, including culinary traditions such as charcuterie and salaisons, featuring local specialties like prisuttu and coppa. Corsica's historical significance is marked by figures such as Napoléon Bonaparte, whose legacy influences the region's identity. The island's unique geography, bordered by the méditerranée, fosters a keener focus on sustainable development and tourism regulation. Additionally, Corsica's economic activities, including the production of pomelo and the promotion of local earners, are essential for its growth and integration within EU policies. The region's governance involves a delicate balance between preserving its beauté and promoting modernization, as seen in renovated forecourts and infrastructure improvements.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:26:01.274917",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 131,
+    "vocabulary_stats": {
+      "total_related_words": 873,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 214,
+      "selected_avg_freq": 71.52
+    },
+    "related_words": [
+      "keener",
+      "mele",
+      "pomelo",
+      "forecourt",
+      "méditerranée",
+      "sncm",
+      "napoléon",
+      "bonaparte",
+      "danielle",
+      "casanova",
+      "beauté",
+      "liamone",
+      "aliso",
+      "paoli",
+      "paglia",
+      "orba",
+      "cinto",
+      "asco",
+      "berthed",
+      "sister",
+      "composing",
+      "concealing",
+      "reconnaissance",
+      "spécificité",
+      "insulaire",
+      "aziana",
+      "charcuterie",
+      "nunzi",
+      "sauveur",
+      "orezza"
+    ],
+    "prompt_length": 1648,
+    "category": "7211 regions of EU Member States"
+  }
+}

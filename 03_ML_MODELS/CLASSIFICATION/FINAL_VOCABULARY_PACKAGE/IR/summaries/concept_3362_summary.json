@@ -1,0 +1,63 @@
+{
+  "concept_id": "3362",
+  "concept_data": {
+    "title": "supplementary pension",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"supplementary pension\" within EU legal and regulatory frameworks refers to pension schemes that complement state pensions, addressing specificities in retirement planning. These pensions are often structured as occupational schemes, accommodating various stakeholders, including employers and employees. The European Insurance and Occupational Pensions Authority (EIOPA) plays a crucial role in ensuring prudential regulations for these schemes, enhancing creditworthiness and solvency. Legislators aim to harmonise the regulatory landscape, providing templates for managers to follow. By conducting exhaustive assessments of liabilities and insolvency risks, supplementary pensions offer transferable benefits, thus enhancing investor confidence and reliance on retirement income security.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:02:30.261446",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1137,
+      "selected_avg_freq": 519.5466666666666
+    },
+    "related_words": [
+      "liablilities",
+      "iorps",
+      "mechanistically",
+      "aifs",
+      "eiopa",
+      "aifms",
+      "accommodated",
+      "ucits",
+      "availed",
+      "creditworthiness",
+      "legislator",
+      "template",
+      "solvency",
+      "ratings",
+      "relying",
+      "issuers",
+      "insolvency",
+      "centralised",
+      "parameter",
+      "rating",
+      "pension",
+      "explaining",
+      "managers",
+      "reliance",
+      "prudential",
+      "specificities",
+      "transferable",
+      "transmitting",
+      "investors",
+      "retirement"
+    ],
+    "prompt_length": 1727,
+    "category": "2836 social protection"
+  }
+}

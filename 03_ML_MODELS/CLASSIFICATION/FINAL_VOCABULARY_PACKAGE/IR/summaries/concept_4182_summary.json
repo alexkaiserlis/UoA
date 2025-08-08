@@ -1,0 +1,63 @@
+{
+  "concept_id": "4182",
+  "concept_data": {
+    "title": "competence of the institution",
+    "category_code": "0431",
+    "category_name": "politics and public safety",
+    "category_full": "0431 politics and public safety",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"competence of the institution\" within EU legal and regulatory frameworks refers to the authority and jurisdiction granted to various EU bodies to legislate, enforce, and adjudicate matters. This competence is crucial for ensuring the correctness of actions taken under EU law, especially when contemplating complex issues such as the surveillance of aliens or the regulation of veterinary products (vétérinaria). Institutions like the European Court of Justice (ECJ) serve as judges in litigation, ensuring compliance with preconditions set forth in treaties. The interlinking of competencies among member states, such as in the case of the EBRD or the governance of public safety (sécurité), is essential for maintaining a cohesive legal environment. Furthermore, the involvement of agencies like AFSSA in monitoring food safety (aliments) and the management of wildlife (animaux sauvages) illustrates the breadth of institutional competence across various sectors. Ultimately, the effective exercise of these competences is vital for the EU's legislative pathologie and the governance of its diverse challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:24:12.395634",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 162,
+    "vocabulary_stats": {
+      "total_related_words": 528,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 558,
+      "selected_avg_freq": 244.24666666666667
+    },
+    "related_words": [
+      "contemplating",
+      "similary",
+      "aliens",
+      "veterinaria",
+      "visavet",
+      "facultad",
+      "complutense",
+      "eums",
+      "interlinking",
+      "rage",
+      "animaux",
+      "sauvages",
+      "vigilancia",
+      "cefas",
+      "weymouth",
+      "universidad",
+      "laboratorio",
+      "ebrd",
+      "governor",
+      "bench",
+      "pathologie",
+      "bih",
+      "eupm",
+      "litigation",
+      "études",
+      "sch",
+      "nancy",
+      "crustacean",
+      "aliments",
+      "laboratoire"
+    ],
+    "prompt_length": 1670,
+    "category": "0431 politics and public safety"
+  }
+}

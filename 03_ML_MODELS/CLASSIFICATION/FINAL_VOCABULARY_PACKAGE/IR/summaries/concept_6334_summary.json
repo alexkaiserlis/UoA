@@ -1,0 +1,26 @@
+{
+  "concept_id": "6334",
+  "concept_data": {
+    "title": "European Interbank Offered Rate",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "Euribor",
+    "relation_type": "USE"
+  },
+  "summary": "The European Interbank Offered Rate (Euribor) is a benchmark interest rate that reflects the average rate at which European banks lend to one another. It plays a critical role in monetary relations within the European Union, serving as a reference for various financial products, including loans and derivatives. As a key component of the EU's financial regulatory framework, Euribor is subject to oversight to ensure transparency and reliability. This concept is essential for maintaining stability in the financial markets and is often referenced in legal documents related to banking and finance, highlighting its significance in the EU's monetary policy landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:59:45.402539",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1216,
+    "category": "2406 monetary relations"
+  }
+}

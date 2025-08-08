@@ -1,0 +1,63 @@
+{
+  "concept_id": "3043",
+  "concept_data": {
+    "title": "littoral zone",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "coastal region",
+    "relation_type": "USE"
+  },
+  "summary": "The \"littoral zone,\" redirected to \"coastal region,\" is a crucial concept in EU regional policy, particularly concerning integrated coastal zone management (ICZM). This area encompasses diverse ecosystems along the coastline, such as the Tagus and Loire basins, where species like crabs, lobsters, and shrimps interact with their environments. Regulatory frameworks aim to diversify economic activities while addressing constraints like habitat degradation and diseases such as septicaemia and necrosis in marine populations. Effective management requires monitoring upstream activities and formulating strategies that positively impact the coastline. The concept plays a vital role in sustainable development, balancing ecological health with socio-economic interests across regions like Bretagne and Sussex.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:13:46.990028",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 624,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 459,
+      "selected_avg_freq": 196.14666666666668
+    },
+    "related_words": [
+      "cemaes",
+      "gloucester",
+      "norspa",
+      "versant",
+      "sélune",
+      "medspa",
+      "huisne",
+      "avon",
+      "bassin",
+      "iczm",
+      "ferté",
+      "tagus",
+      "pagurus",
+      "sussex",
+      "bernard",
+      "interacts",
+      "norvegicus",
+      "crangon",
+      "centimetres",
+      "bretagne",
+      "dams",
+      "crabs",
+      "sizing",
+      "hematopoietic",
+      "somerset",
+      "nephrops",
+      "brittany",
+      "coastline",
+      "loire",
+      "regulaton"
+    ],
+    "prompt_length": 1682,
+    "category": "1616 regions and regional policy"
+  }
+}

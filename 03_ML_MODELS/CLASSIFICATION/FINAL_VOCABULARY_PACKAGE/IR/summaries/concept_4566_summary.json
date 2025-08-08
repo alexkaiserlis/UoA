@@ -1,0 +1,63 @@
+{
+  "concept_id": "4566",
+  "concept_data": {
+    "title": "clover",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"clover,\" categorized under plant products (6006), encompasses various species, including Trifolium hybridum and alsike clover. In EU legal and regulatory frameworks, clover is significant for its role in horticulture and as fodder, particularly in the production of certified seeds for crops like sorghum and Sudan grass. Regulations prescribe standards for propagating these plants, ensuring identity and quality through inspections and marking. The equivalence of clover varieties, including hybrids, is crucial for satisfying market demand and affording farmers reliable options. Compliance with these regulations is essential for maintaining control over plant species and ensuring the integrity of agricultural practices in Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:11:58.172200",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 157,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3636,
+      "selected_avg_freq": 1586.6266666666668
+    },
+    "related_words": [
+      "hybridum",
+      "alsike",
+      "trifolium",
+      "clover",
+      "egyptian",
+      "thought",
+      "sorghum",
+      "grass",
+      "hybrids",
+      "sudan",
+      "afford",
+      "horticulture",
+      "beet",
+      "propagating",
+      "crossing",
+      "fibre",
+      "assurances",
+      "australia",
+      "fodder",
+      "identity",
+      "satisfying",
+      "expiring",
+      "seventh",
+      "cereal",
+      "harvested",
+      "marking",
+      "satisfactorily",
+      "equivalence",
+      "certified",
+      "crops"
+    ],
+    "prompt_length": 1650,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5903",
+  "concept_data": {
+    "title": "bullfighting",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "animal show",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"bullfighting,\" categorized under social affairs, is redirected to the preferred term \"animal show\" within EU legal and regulatory frameworks. This reflects a broader classification of events involving animals, such as circuses and exhibitions, which require compliance with specific regulations regarding animal welfare. For instance, itineraries for travelling exhibitions must ensure that animals, including bulls and equidae, are vaccinated and meet traceability standards to prevent diseases like rabies and spongiform encephalopathy. Additionally, regulations govern the dispatch and movement of animals, including the monitoring of ova and semen for breeding purposes. The EU emphasizes the importance of veterinary oversight and independent registers to safeguard fauna and flora during such events, ensuring that entertainment remains humane and compliant with zootechnical standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:56.542216",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 295,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1353,
+      "selected_avg_freq": 577.8733333333333
+    },
+    "related_words": [
+      "itineraries",
+      "filming",
+      "paralympics",
+      "circus",
+      "circuses",
+      "fei",
+      "racing",
+      "ordinarily",
+      "exhibition",
+      "equestrian",
+      "exhibitions",
+      "ferrets",
+      "entertainment",
+      "olympic",
+      "fairs",
+      "games",
+      "bulls",
+      "attested",
+      "vaccinations",
+      "sports",
+      "organising",
+      "passports",
+      "cats",
+      "fighting",
+      "rabies",
+      "dogs",
+      "veterinarian",
+      "fauna",
+      "quarantine",
+      "travelling"
+    ],
+    "prompt_length": 1703,
+    "category": "2826 social affairs"
+  }
+}

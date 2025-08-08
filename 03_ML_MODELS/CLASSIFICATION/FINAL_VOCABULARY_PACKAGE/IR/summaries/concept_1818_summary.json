@@ -1,0 +1,26 @@
+{
+  "concept_id": "1818",
+  "concept_data": {
+    "title": "wedlock",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "marriage",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"wedlock,\" categorized under family law, serves as a redirect to the preferred term \"marriage.\" In the context of EU legal and regulatory frameworks, marriage is recognized as a formal union between individuals, establishing legal rights and obligations. This concept is pivotal in various EU directives and regulations, particularly those addressing family reunification, cross-border recognition of marital status, and the protection of family rights. The legal implications of marriage extend to issues such as inheritance, taxation, and social security benefits, thereby influencing the socio-economic landscape within member states. Understanding \"marriage\" is essential for navigating EU legal instruments effectively.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:40:05.691335",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1181,
+    "category": "2806 family"
+  }
+}

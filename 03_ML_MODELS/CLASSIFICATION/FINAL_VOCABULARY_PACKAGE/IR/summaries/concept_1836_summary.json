@@ -1,0 +1,63 @@
+{
+  "concept_id": "1836",
+  "concept_data": {
+    "title": "milk fat",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"milk fat\" falls under the category of processed agricultural produce within EU regulations. It is essential for the standardization of dairy products, particularly in the context of Codex Alimentarius, which details the nomenclature and quality standards for various milk-derived products. Milk fat, including butteroil and sweetened solids, is subject to specific regulations to avoid ambiguities in labeling and ensure consumer protection. Accessions to EU regulations have aimed to manage the production and distribution of milk fat, addressing issues such as overloading in markets and ensuring equitable access for producers. The regulatory framework also considers regional specialties, such as requeijão from Cádíz and mantecadas from Astorga, promoting diverse dairy habits across member states while maintaining high quality.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:54:03.472941",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 699,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 497,
+      "selected_avg_freq": 207.76666666666668
+    },
+    "related_words": [
+      "unaccustomed",
+      "standarized",
+      "accesstion",
+      "ifgure",
+      "menclature",
+      "producdts",
+      "valdemone",
+      "ibores",
+      "alta",
+      "zafferano",
+      "gimignano",
+      "mantecadas",
+      "astorga",
+      "cea",
+      "requijão",
+      "jumilla",
+      "requeijão",
+      "overloading",
+      "pera",
+      "mangement",
+      "oli",
+      "hope",
+      "queso",
+      "cádiz",
+      "aceite",
+      "estrela",
+      "aquila",
+      "thirteenth",
+      "serra",
+      "terra"
+    ],
+    "prompt_length": 1648,
+    "category": "6016 processed agricultural produce"
+  }
+}

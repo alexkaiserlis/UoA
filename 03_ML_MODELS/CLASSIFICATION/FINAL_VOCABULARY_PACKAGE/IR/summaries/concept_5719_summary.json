@@ -1,0 +1,63 @@
+{
+  "concept_id": "5719",
+  "concept_data": {
+    "title": "transmissible spongiform encephalopathy",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "disease of the nervous system",
+    "relation_type": "USE"
+  },
+  "summary": "Transmissible spongiform encephalopathy (TSE), a disease of the nervous system, encompasses various conditions, including variant Creutzfeldt-Jakob disease (vcjd). In the EU regulatory framework, TSE is critically examined through diagnostic assays and screening devices that utilize advanced techniques such as electron microscopy. These methods are essential for confirming the presence of TSE antigens in blood and brain materials. Regulatory bodies emphasize reproducibility and compliance with specifications to ensure that medical apparatus are suited for accurate diagnosis. Experts in the field continually draw upon educational knowledge to invoke affirmative measures against TSE, highlighting its cultural and health implications across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:44:55.119124",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 160,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 3581,
+      "selected_avg_freq": 1569.5666666666666
+    },
+    "related_words": [
+      "vcjd",
+      "lem",
+      "sclerosis",
+      "akashi",
+      "assays",
+      "microscope",
+      "boschdijk",
+      "electron",
+      "creutzfeldt",
+      "reproducibility",
+      "jakob",
+      "eindhoven",
+      "antigens",
+      "philips",
+      "brain",
+      "nederland",
+      "variant",
+      "vitro",
+      "diagnosis",
+      "measurements",
+      "screening",
+      "diagnostic",
+      "art",
+      "multiple",
+      "blood",
+      "specially",
+      "affirmative",
+      "invoke",
+      "educational",
+      "apparatus"
+    ],
+    "prompt_length": 1733,
+    "category": "2841 health"
+  }
+}

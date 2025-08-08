@@ -1,0 +1,63 @@
+{
+  "concept_id": "2511",
+  "concept_data": {
+    "title": "agricultural monetary policy",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": true,
+    "preferred_term": "agri-monetary policy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"agricultural monetary policy,\" also referred to as \"agri-monetary policy,\" encompasses the regulatory framework governing the monetary aspects of agricultural markets within the EU. This policy diverges from traditional monetary policies by focusing on the unique needs of the agricultural sector, addressing issues such as currency fluctuations and their impact on import prices. It aims to neutralize the effects of devaluations and revaluations of currencies like the markka and krona, ensuring stability for farmers. The policy also facilitates the assimilation of diverse agricultural products, such as sugarcane and legumes, while managing the turbulent shifts in market dynamics. Through mechanisms like moratoriums and minimum price guarantees, it certifies that agricultural outputs, including prunes and endives, are adequately supported, thereby preventing abandonment of production. The legislative framework, articulated in various articles, seeks to establish a balanced environment for agricultural stakeholders, ensuring that substitutions and diversions do not adversely affect market equilibrium.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:44:35.974278",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 151,
+    "vocabulary_stats": {
+      "total_related_words": 1724,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 87,
+      "selected_avg_freq": 43.42666666666667
+    },
+    "related_words": [
+      "diverges",
+      "differntial",
+      "curreny",
+      "ovalabumin",
+      "markka",
+      "improt",
+      "dismantlements",
+      "ungilmed",
+      "pursposes",
+      "neutralized",
+      "minimun",
+      "artricle",
+      "suh",
+      "turbulent",
+      "assimilation",
+      "deseasonalisation",
+      "discontinues",
+      "parboiled",
+      "sugarcane",
+      "legume",
+      "devaluations",
+      "unripe",
+      "assimilate",
+      "staging",
+      "consecutively",
+      "revalued",
+      "ginned",
+      "grapefruit",
+      "schilling",
+      "precede"
+    ],
+    "prompt_length": 1758,
+    "category": "5606 agricultural policy"
+  }
+}

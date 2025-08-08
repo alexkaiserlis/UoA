@@ -1,0 +1,63 @@
+{
+  "concept_id": "1311",
+  "concept_data": {
+    "title": "tax (EU)",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "Community tax",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"tax (EU)\" is redirected to \"Community tax,\" which refers to the fiscal responsibilities imposed by the European Union on its member states. This regulatory framework compares various tax systems, ensuring that entitlements and privileges are uniformly applied across the EU. In situations involving cross-border employment, officials must navigate strict tax regulations, which can lead to paralysis in decision-making. The Community tax system also plays a role in funding initiatives such as the eradication of contagious diseases, including rinderpest and foot-and-mouth disease, through vaccination programs. This ensures that fresh meat remains safe for consumption, while also addressing the economic implications for sectors like bovine and porcine production.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:23:26.127805",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 147,
+      "requested_words": 150,
+      "min_frequency_found": 28,
+      "max_frequency_found": 4108,
+      "selected_words": 147,
+      "selected_min_freq": 28,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1695.7074829931973
+    },
+    "related_words": [
+      "paralysis",
+      "compares",
+      "teschen",
+      "euros",
+      "rinderpest",
+      "telegram",
+      "vaccinations",
+      "favourably",
+      "vaccinated",
+      "immunities",
+      "exotic",
+      "vesicular",
+      "privileges",
+      "contagious",
+      "entitlements",
+      "porcine",
+      "pensions",
+      "servants",
+      "transmissible",
+      "telex",
+      "alteration",
+      "remuneration",
+      "classical",
+      "vaccination",
+      "fever",
+      "foot",
+      "hours",
+      "mouth",
+      "eradication",
+      "occurrence"
+    ],
+    "prompt_length": 1704,
+    "category": "1021 EU finance"
+  }
+}

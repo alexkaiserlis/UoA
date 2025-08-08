@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_324b44f1",
+  "concept_data": {
+    "title": "social network",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "social media",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"social network,\" categorized under communications, is a redirect to the preferred term \"social media.\" In the context of EU legal and regulatory frameworks, social media encompasses platforms facilitating user-generated content and interaction. The EU has established various regulations addressing data protection, privacy, and online safety concerning social media, notably the General Data Protection Regulation (GDPR) and the Digital Services Act (DSA). These regulations aim to ensure user rights, promote transparency, and mitigate risks associated with misinformation and harmful content. Understanding social media's regulatory landscape is essential for compliance and fostering a safe digital environment within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:47:20.354750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1200,
+    "category": "3226 communications"
+  }
+}

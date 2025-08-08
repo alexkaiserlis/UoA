@@ -1,0 +1,63 @@
+{
+  "concept_id": "3394",
+  "concept_data": {
+    "title": "Central Portugal",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Central Portugal\" refers to a specific geographical region within the framework of EU regulations concerning the designation of origin for agricultural products. This area is recognized for its unique foodstuffs, such as requeijão, which may be eligible for Protected Designation of Origin (PDO) status. The European Commission, pursuant to various treaties and regulations, implements schemes to register and protect these products, ensuring their quality and origin. Applications for such designations are published in the Official Journal of the European Union, where they undergo scrutiny by the Council and Parliament. The functioning of these regulations aims to uphold the integrity of regional products, fostering opposition to misleading indications.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:11:55.443927",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 38,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 38,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1873.1842105263158
+    },
+    "related_words": [
+      "baixa",
+      "requeijão",
+      "beira",
+      "pdo",
+      "opposition",
+      "designations",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "geographical",
+      "schemes",
+      "portugal",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "implementing",
+      "functioning",
+      "pursuant",
+      "march",
+      "november",
+      "application",
+      "parliament"
+    ],
+    "prompt_length": 1576,
+    "category": "7211 regions of EU Member States"
+  }
+}

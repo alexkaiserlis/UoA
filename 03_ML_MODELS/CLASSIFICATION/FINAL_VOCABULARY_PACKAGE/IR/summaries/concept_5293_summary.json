@@ -1,0 +1,63 @@
+{
+  "concept_id": "5293",
+  "concept_data": {
+    "title": "blood transfusion",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Blood transfusion is a critical health procedure regulated within the EU framework to ensure the safety and efficacy of blood products. The process involves the donation of blood components, such as platelets and plasma, which are screened for suitability to prevent adverse reactions. Regulatory bodies, including the ECDC, emphasize the importance of preparedness during pandemics, like H1N1, to manage potential shortages. Professionals must systematically optimise the use of donated blood, ensuring that concentrates are used effectively while discarding unsuitable bags. Legal terminology surrounding transfusion includes deferral periods for donors, aimed at safeguarding public health and easing the impact of epidemiological episodes.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:23.750495",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 347,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1015,
+      "selected_avg_freq": 409.93333333333334
+    },
+    "related_words": [
+      "platelets",
+      "haemoglobin",
+      "donate",
+      "flu",
+      "episode",
+      "transfusion",
+      "pandemic",
+      "donated",
+      "lessened",
+      "platelet",
+      "h1n1",
+      "discarded",
+      "ecdc",
+      "faculty",
+      "optimisation",
+      "discard",
+      "discarding",
+      "appreciation",
+      "anaemia",
+      "shortest",
+      "plasma",
+      "deferral",
+      "donor",
+      "easing",
+      "concentrates",
+      "relaxation",
+      "epidemiology",
+      "optimise",
+      "bags",
+      "combine"
+    ],
+    "prompt_length": 1675,
+    "category": "2841 health"
+  }
+}

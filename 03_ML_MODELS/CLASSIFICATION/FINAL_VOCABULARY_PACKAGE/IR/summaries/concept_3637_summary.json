@@ -1,0 +1,63 @@
+{
+  "concept_id": "3637",
+  "concept_data": {
+    "title": "summit meeting",
+    "category_code": "0806",
+    "category_name": "international affairs",
+    "category_full": "0806 international affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"summit meeting\" within the context of EU legal and regulatory frameworks refers to high-level gatherings where heads of state or government convene to discuss strategic topics, including macroeconomic reforms and innovation. These summits, often characterized by tripartite dialogue involving employers and trade unions, aim to formalise cooperation and enhance representativity among confederations such as eurocadres and ETUC. Notable examples include the Laeken and Barcelona summits, which stressed the need for coherence and synergy in policy-making. The legitimacy of these meetings is derived from their ability to integrate diverse perspectives, fostering a willingness to craft comprehensive solutions over the past decade.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:30:35.673750",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 169,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 3111,
+      "selected_avg_freq": 986.5466666666666
+    },
+    "related_words": [
+      "troika",
+      "eve",
+      "summits",
+      "confederations",
+      "eurocadres",
+      "confédération",
+      "cadres",
+      "cec",
+      "ueapme",
+      "legitimacy",
+      "ceep",
+      "cologne",
+      "formalise",
+      "unice",
+      "européenne",
+      "tripartite",
+      "laeken",
+      "etuc",
+      "attended",
+      "topics",
+      "concertation",
+      "representativity",
+      "widest",
+      "synergy",
+      "representativeness",
+      "macroeconomic",
+      "summit",
+      "decade",
+      "councils",
+      "barcelona"
+    ],
+    "prompt_length": 1679,
+    "category": "0806 international affairs"
+  }
+}

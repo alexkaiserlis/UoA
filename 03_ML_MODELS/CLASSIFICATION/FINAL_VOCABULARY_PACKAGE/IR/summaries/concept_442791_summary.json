@@ -1,0 +1,63 @@
+{
+  "concept_id": "442791",
+  "concept_data": {
+    "title": "plant taxonomy",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Plant taxonomy is a critical aspect of EU legal and regulatory frameworks, particularly in agriculture and horticulture. It involves the classification and nomenclature of plant species, varieties, and landraces, ensuring accurate identification for seed and crop propagation. The International Code of Botanical Nomenclature (ICBN) and guidelines from the Community Plant Variety Office (CPVO) and the International Union for the Protection of New Varieties of Plants (UPOV) provide essential frameworks for assessing the suitability of plant varieties. This classification reflects genetic diversity and helps address issues like erosion and the conservation of threatened species. Updated catalogues and explanatory notes facilitate the acceptance and examination of plant denominations, ensuring compliance with EU regulations on seeds and feed.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:09:04.094091",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 142,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 142,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1759.3169014084508
+    },
+    "related_words": [
+      "icbn",
+      "landraces",
+      "cpvo",
+      "upov",
+      "localities",
+      "botanical",
+      "catalogues",
+      "denominations",
+      "erosion",
+      "intrinsic",
+      "tomato",
+      "catalogue",
+      "suitability",
+      "genetic",
+      "planting",
+      "horticulture",
+      "explanatory",
+      "propagating",
+      "threatened",
+      "grown",
+      "crop",
+      "traditionally",
+      "classes",
+      "ones",
+      "varieties",
+      "seeds",
+      "vegetable",
+      "seed",
+      "forestry",
+      "variety"
+    ],
+    "prompt_length": 1687,
+    "category": "3606 natural and applied sciences"
+  }
+}

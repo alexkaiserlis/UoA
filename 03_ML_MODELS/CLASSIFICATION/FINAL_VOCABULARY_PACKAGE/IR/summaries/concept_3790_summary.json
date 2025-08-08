@@ -1,0 +1,63 @@
+{
+  "concept_id": "3790",
+  "concept_data": {
+    "title": "astrophysics",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": true,
+    "preferred_term": "astronomy",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"astrophysics,\" categorized under natural and applied sciences, is a redirect to the preferred term \"astronomy.\" In EU legal and regulatory contexts, astronomy encompasses the study of celestial objects, including galaxies, stars, and their associated phenomena. Regulatory frameworks may address the use of advanced technologies such as photoconductive detectors and multichannel analyzers for astronomical research. Instruments like gravitational wave detectors and spectrographs are crucial for analyzing wavelengths and polarization of radiation from faint celestial bodies. The EU promotes research initiatives, including those involving holographic optics and parabolic telescopes, to enhance our understanding of the universe and support scientific collaboration across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:14:30.712714",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 201,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2185,
+      "selected_avg_freq": 741.7133333333334
+    },
+    "related_words": [
+      "parabolas",
+      "oap",
+      "photoconductive",
+      "reesearch",
+      "gwr",
+      "gravimeter",
+      "aperiodic",
+      "tuthill",
+      "celestron",
+      "astronomically",
+      "astronomical",
+      "photographically",
+      "spectro",
+      "photometry",
+      "galaxies",
+      "holographic",
+      "oma",
+      "gravitational",
+      "astronomy",
+      "faint",
+      "wavelengths",
+      "clusters",
+      "superconducting",
+      "multichannel",
+      "spherical",
+      "infra",
+      "polarization",
+      "optics",
+      "photography",
+      "schmidt"
+    ],
+    "prompt_length": 1727,
+    "category": "3606 natural and applied sciences"
+  }
+}

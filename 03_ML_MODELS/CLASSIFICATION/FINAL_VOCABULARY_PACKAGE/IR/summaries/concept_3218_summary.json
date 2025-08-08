@@ -1,0 +1,63 @@
+{
+  "concept_id": "3218",
+  "concept_data": {
+    "title": "distributor",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"distributor\" refers to an entity that procures goods, such as jeweller's ornaments or watchmaker's tools, and subsequently distributes them to retailers or directly to consumers. This role is crucial in the supply chain, ensuring that products like luxury watches and automotive lubricants from brands like Audi and Volkswagen reach the market efficiently. Distributors must adhere to regulations that govern exclusivity agreements and fair trading practices. They are also responsible for maintaining quality workmanship and providing accurate information, thereby shielding consumers from misinformation. The regulatory landscape often requires distributors to publish handbooks and guidelines that honour consumer rights while fostering competition among retailers, including supermarkets and specialty shops.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:19:52.314582",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 743,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 180,
+      "selected_avg_freq": 71.84666666666666
+    },
+    "related_words": [
+      "murat",
+      "viry",
+      "chatillon",
+      "latterly",
+      "jeweller",
+      "watchmaker",
+      "workmanship",
+      "unde",
+      "ieteren",
+      "audi",
+      "wolfsburg",
+      "marques",
+      "handbooks",
+      "abstained",
+      "misinformation",
+      "watchmaking",
+      "forbade",
+      "turbo",
+      "exclusivity",
+      "reproach",
+      "shields",
+      "diesels",
+      "lubricant",
+      "everyone",
+      "tours",
+      "ornaments",
+      "volkswagen",
+      "shear",
+      "publishes",
+      "clocks"
+    ],
+    "prompt_length": 1654,
+    "category": "2036 distributive trades"
+  }
+}

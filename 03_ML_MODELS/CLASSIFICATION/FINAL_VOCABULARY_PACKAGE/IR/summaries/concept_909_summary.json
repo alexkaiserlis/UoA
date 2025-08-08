@@ -1,0 +1,63 @@
+{
+  "concept_id": "909",
+  "concept_data": {
+    "title": "European countries",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": true,
+    "preferred_term": "Europe",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"European countries,\" redirected to the preferred term \"Europe,\" encompasses a diverse range of nations within the EU regulatory framework. This includes the management of exportable goods such as liquefied petroleum and grain, which are subject to specific prescriptions and approvals. The EU's agrimonetary policies aim to address disturbances in markets for cereals and rice, while tendering processes for contracts are organised to ensure fair competition among tenderers. Legal documents often reference vehicles and motor fuelled by gas, highlighting the need for compliance with operative regulations. Furthermore, the incorporation of euro securities and the removal of barriers to trade are vital for fostering reciprocal economic relationships among member states. Events such as invitations for tenders and awarded contracts play a crucial role in the EU's regulatory landscape, ensuring that all parties receive appropriate refunds and remedies as outlined in relevant paragraphs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:01:22.055093",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 214,
+      "requested_words": 150,
+      "min_frequency_found": 34,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 34,
+      "selected_max_freq": 2353,
+      "selected_avg_freq": 1102.0866666666666
+    },
+    "related_words": [
+      "exportable",
+      "liquefied",
+      "prescriptions",
+      "fuelled",
+      "wheeled",
+      "milled",
+      "approvals",
+      "tenderer",
+      "quoted",
+      "fitted",
+      "invitations",
+      "petroleum",
+      "grain",
+      "agrimonetary",
+      "sheet",
+      "assent",
+      "opposition",
+      "tendering",
+      "operative",
+      "motor",
+      "tenders",
+      "forming",
+      "disturbances",
+      "reciprocal",
+      "advances",
+      "rice",
+      "invitation",
+      "awarded",
+      "refund",
+      "award"
+    ],
+    "prompt_length": 1680,
+    "category": "7206 Europe"
+  }
+}

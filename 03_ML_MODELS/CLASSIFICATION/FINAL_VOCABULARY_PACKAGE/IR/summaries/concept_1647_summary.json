@@ -1,0 +1,63 @@
+{
+  "concept_id": "1647",
+  "concept_data": {
+    "title": "collective redundancy",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "collective dismissal",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, \"collective redundancy,\" also known as \"collective dismissal,\" refers to the process by which an employer terminates a significant number of employees simultaneously, often due to economic reasons. This concept emanates from EU directives aimed at protecting workers' rights during mass layoffs, ensuring that firms like AstraZeneca and Flextronics comply with regulations. The process prevails in various sectors, including automotive (e.g., Peugeot, Renault) and manufacturing (e.g., Whirlpool, Manroland). Employers must engage in consultations with employee representatives, as seen in cases from Denmark and Germany, to mitigate impacts on affected workers. This regulatory framework aims to facilitate agile transitions and safeguard social services, reflecting the EU's commitment to equitable labor practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:15:53.487597",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 925,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 92,
+      "selected_avg_freq": 29.52
+    },
+    "related_words": [
+      "equated",
+      "emanates",
+      "astrazeneca",
+      "flextronics",
+      "salo",
+      "denmarksubmitted",
+      "prevails",
+      "tomaso",
+      "automobili",
+      "psa",
+      "citroën",
+      "merloni",
+      "germanysubmitted",
+      "zalco",
+      "zeeland",
+      "ecl",
+      "manroland",
+      "aldi",
+      "epe",
+      "assoc",
+      "tabak",
+      "gad",
+      "simplifiée",
+      "agile",
+      "grupo",
+      "sprider",
+      "saab",
+      "mechel",
+      "campia",
+      "turzii"
+    ],
+    "prompt_length": 1670,
+    "category": "4406 employment"
+  }
+}

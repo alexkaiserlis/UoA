@@ -1,0 +1,63 @@
+{
+  "concept_id": "5849",
+  "concept_data": {
+    "title": "declining industrial region",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"declining industrial region\" refers to areas within the EU, such as parts of bergslagen, norrlandskusten, and ångermanlandskusten, that experience economic downturns due to industrial decline. These regions, including fyrstad and päijät, face challenges like unemployment and reduced investment. The EU's regional policy aims to address these issues through initiatives like the European Social Fund (ESF) and additionality principles, promoting sustainable development and economic revitalization. Notable examples include the transformation of areas in blekinge, norra varsinais, and kymenlaakso. The regulatory framework emphasizes perspectives on recovery, supporting regions like Uusimaa and Kokkola, while fostering collaboration across borders, including Nijmegen and Flanders, to enhance resilience in regions like Steiermark and Niedersachsen.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:43.083537",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 372,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 991,
+      "selected_avg_freq": 436.98
+    },
+    "related_words": [
+      "bergslagen",
+      "norrlandskusten",
+      "ångermanlandskusten",
+      "fyrstad",
+      "päijät",
+      "häme",
+      "blekinge",
+      "norra",
+      "varsinais",
+      "suomi",
+      "kymenlaakso",
+      "uusimaa",
+      "kokkola",
+      "nijmegen",
+      "humber",
+      "lee",
+      "satakunta",
+      "twente",
+      "karelia",
+      "bourgogne",
+      "arnhem",
+      "turnhout",
+      "flanders",
+      "steiermark",
+      "niederösterreich",
+      "yorkshire",
+      "flemish",
+      "nordrhein",
+      "vorarlberg",
+      "niedersachsen"
+    ],
+    "prompt_length": 1701,
+    "category": "1616 regions and regional policy"
+  }
+}

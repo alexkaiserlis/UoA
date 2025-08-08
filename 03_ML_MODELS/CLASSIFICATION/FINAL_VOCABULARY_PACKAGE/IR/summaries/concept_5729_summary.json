@@ -1,0 +1,63 @@
+{
+  "concept_id": "5729",
+  "concept_data": {
+    "title": "EMS exchange-rate mechanism",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The EMS exchange-rate mechanism (ERM) is a pivotal regulatory framework within the EU's monetary relations, designed to stabilize currencies and facilitate convergence among member states. At a juncture of economic performance, the ERM aims to limit fluctuations of currencies, such as the litas and lats, against the euro, ensuring nominal stability. This mechanism has seen performers like Latvia, which unilaterally committed to fulfilling its obligations under the ERM, facing tensions amid inflation and GDP deficits. The European Central Bank (ECB) plays a crucial role in monitoring these indices, while resolutions and statutes guide the abrogation of non-compliant currencies. Ultimately, the ERM serves as a credible benchmark for assessing economic health and fostering meaningful integration within the Economic and Monetary Union (EMU).",
+  "metadata": {
+    "generation_date": "2025-07-29T17:47:50.332029",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 340,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1018,
+      "selected_avg_freq": 525.9
+    },
+    "related_words": [
+      "outliers",
+      "commited",
+      "litas",
+      "lats",
+      "performers",
+      "erm",
+      "devalued",
+      "fulfillment",
+      "tensions",
+      "juncture",
+      "hicps",
+      "deviate",
+      "emu",
+      "meaningful",
+      "percent",
+      "abrogation",
+      "recalling",
+      "cent",
+      "arithmetic",
+      "benchmark",
+      "edinburgh",
+      "abrogated",
+      "credible",
+      "bonds",
+      "indices",
+      "fluctuation",
+      "escb",
+      "stood",
+      "ahead",
+      "statutes"
+    ],
+    "prompt_length": 1654,
+    "category": "2406 monetary relations"
+  }
+}

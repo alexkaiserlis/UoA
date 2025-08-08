@@ -1,0 +1,63 @@
+{
+  "concept_id": "7843",
+  "concept_data": {
+    "title": "Liberec Region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Liberec Region,\" categorized under 7211 regions of EU Member States, is a significant geographical area within the Czech Republic. This region is subject to various EU regulations concerning agricultural products, particularly those with protected designations of origin (PDO) and geographical indications (PGI). The approval process for such designations involves rigorous examination and specification of quality standards, ensuring that products meet the required criteria. Since the implementation of relevant regulations, applications for registered products have been published in the official journal of the Union. Amendments and statements regarding these designations are regularly reviewed by the Commission and the Parliament, reflecting the region's commitment to maintaining high-quality foodstuffs.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:34:36.961828",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 53,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 53,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1803.754716981132
+    },
+    "related_words": [
+      "lomnické",
+      "suchary",
+      "pgi",
+      "opposition",
+      "designations",
+      "specification",
+      "minor",
+      "indications",
+      "protected",
+      "indication",
+      "foodstuffs",
+      "register",
+      "statement",
+      "czech",
+      "name",
+      "approving",
+      "registered",
+      "geographical",
+      "schemes",
+      "examined",
+      "origin",
+      "published",
+      "approval",
+      "amendment",
+      "entered",
+      "amendments",
+      "quality",
+      "received",
+      "meaning",
+      "agricultural"
+    ],
+    "prompt_length": 1703,
+    "category": "7211 regions of EU Member States"
+  }
+}

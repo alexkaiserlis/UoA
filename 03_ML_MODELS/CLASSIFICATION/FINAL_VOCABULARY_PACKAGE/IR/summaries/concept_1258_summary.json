@@ -1,0 +1,63 @@
+{
+  "concept_id": "1258",
+  "concept_data": {
+    "title": "processed foodstuff",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"processed foodstuff\" refers to food products that have undergone various treatments, such as salting, slicing, or spicing, to enhance preservation and palatability. This category includes items like chipped strawberries, sliced yams, and pregelatinized rice. The regulatory framework ensures that these foodstuffs, including molluscan species like gutted herrings and anchovies, meet safety standards to mitigate risks associated with pathogens like listeria monocytogenes. Moreover, processed foodstuffs must be documented accurately, presenting unexpired labels and clear ingredient lists, which may include bioenergy components or pectinidae derivatives. Compliance with these regulations is crucial for consumer safety and market integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:56:23.614143",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1707,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 86,
+      "selected_avg_freq": 42.733333333333334
+    },
+    "related_words": [
+      "chipped",
+      "strowberries",
+      "presentated",
+      "wheeas",
+      "unexpired",
+      "talking",
+      "sliced",
+      "spiced",
+      "riz",
+      "counry",
+      "kunserva",
+      "pineappple",
+      "shreds",
+      "molluscan",
+      "pregelatinized",
+      "camargue",
+      "summing",
+      "yams",
+      "lourenzá",
+      "documental",
+      "headless",
+      "hphb",
+      "isd",
+      "assimilating",
+      "crush",
+      "tegument",
+      "lauroyl",
+      "arginate",
+      "morhua",
+      "marzano"
+    ],
+    "prompt_length": 1662,
+    "category": "6026 foodstuff"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3871",
+  "concept_data": {
+    "title": "record",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, the term \"record\" refers to a systematic collection of information, often recordable in various formats. This can include phonograms, where a performer’s work is captured, or data related to intellectual property, such as lyrics and compositions by a librettist or composer. Records must be unencumbered and may include objectionable content that requires careful management. The EU regulatory framework ensures that such records are distributable and fixations are properly managed, allowing for the rebalance of rights among stakeholders. Notably, the concept encompasses diverse genres, including jazz, and is relevant in jurisdictions like Wiesbaden and Kronberg, where systems like CECMA and Italcard operate.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:03:05.299652",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 892,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 117,
+      "selected_avg_freq": 37.42666666666667
+    },
+    "related_words": [
+      "recordable",
+      "cecma",
+      "italcard",
+      "datentră",
+      "ger",
+      "cpo",
+      "oosterhout",
+      "fuji",
+      "kleve",
+      "ensisheim",
+      "mpo",
+      "averton",
+      "imag",
+      "steag",
+      "hamatech",
+      "sternenfels",
+      "worm",
+      "carton",
+      "sleeve",
+      "eximation",
+      "fixations",
+      "objectionable",
+      "refrains",
+      "recouped",
+      "distributable",
+      "unwaivable",
+      "unencumbered",
+      "lyrics",
+      "overwhelmingly",
+      "librettist"
+    ],
+    "prompt_length": 1639,
+    "category": "3226 communications"
+  }
+}

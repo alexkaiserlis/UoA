@@ -1,0 +1,63 @@
+{
+  "concept_id": "5782",
+  "concept_data": {
+    "title": "transferable emission permit",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "tradeable emission permit",
+    "relation_type": "USE"
+  },
+  "summary": "A \"transferable emission permit,\" also known as a \"tradeable emission permit,\" is a regulatory instrument within the EU's environmental policy framework aimed at abating greenhouse gas emissions. These permits allow developers to emit a fractionated amount of pollutants, promoting a market-based approach to emissions control. The system encourages participants to commercialise their emissions reductions, creating a competitive environment among bidders. The European Commission organises auctions for these permits, which are essential for scaling up climate ambitions. By utilising tools like ecopoints and emissions trading systems (ETS), the EU aims to reduce emissions of substances such as nitrous oxide and chlorofluorocarbons, while also addressing challenges posed by hydrobromofluorocarbon and trifluoromethane emissions. This regulatory mechanism is crucial for achieving the EU's long-term environmental objectives and fostering sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:43:18.419247",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 1426,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 67,
+      "selected_avg_freq": 29.4
+    },
+    "related_words": [
+      "aution",
+      "webpages",
+      "arithmetically",
+      "ecoponts",
+      "rollende",
+      "landstraă",
+      "emissive",
+      "salbutamol",
+      "scaling",
+      "trifluoromethane",
+      "hfc",
+      "adipic",
+      "chlorodifluoromethane",
+      "abating",
+      "developers",
+      "eex",
+      "voiles",
+      "slivers",
+      "commisssion",
+      "admissions",
+      "fractionated",
+      "urging",
+      "intents",
+      "ambition",
+      "webs",
+      "fumigator",
+      "citl",
+      "cancun",
+      "organises",
+      "bidders"
+    ],
+    "prompt_length": 1763,
+    "category": "5206 environmental policy"
+  }
+}

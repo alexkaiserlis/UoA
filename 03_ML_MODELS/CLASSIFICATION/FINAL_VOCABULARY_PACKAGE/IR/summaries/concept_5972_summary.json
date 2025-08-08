@@ -1,0 +1,63 @@
+{
+  "concept_id": "5972",
+  "concept_data": {
+    "title": "result-based budgeting",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": true,
+    "preferred_term": "programme budgeting",
+    "relation_type": "USE"
+  },
+  "summary": "Result-based budgeting, also known as programme budgeting, is a financial management approach endorsed by the EU to enhance discipline in public finance. This method requires a clear alignment of budgetary appropriations with the results achieved, ensuring that expenditures are adjusted based on performance outcomes. In the context of multiannual financial frameworks, it lays down ceilings for commitments and payments, facilitating sound management of resources. The approach is particularly relevant during negotiations regarding budgetary matters, as it aims to offset increases in expenditure with demonstrable results. This system is crucial for the financial governance of member states, including Croatia, ensuring that funds are effectively utilized to meet agreed objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:27:51.745052",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 73,
+      "requested_words": 150,
+      "min_frequency_found": 91,
+      "max_frequency_found": 4108,
+      "selected_words": 73,
+      "selected_min_freq": 91,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1918.5890410958905
+    },
+    "related_words": [
+      "transitory",
+      "discipline",
+      "endorsed",
+      "offset",
+      "decrease",
+      "sub",
+      "interinstitutional",
+      "appropriations",
+      "ceilings",
+      "croatia",
+      "composed",
+      "multiannual",
+      "heading",
+      "conference",
+      "commitment",
+      "ceiling",
+      "raised",
+      "eur",
+      "budgetary",
+      "sound",
+      "million",
+      "negotiations",
+      "adjusted",
+      "adjustment",
+      "payment",
+      "expenditure",
+      "matters",
+      "agreed",
+      "fully",
+      "prices"
+    ],
+    "prompt_length": 1735,
+    "category": "2436 public finance and budget policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1012",
+  "concept_data": {
+    "title": "budget financing",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Budget financing\" within the EU legal framework refers to the mechanisms through which resources are mobilized and disbursed to support various initiatives. This includes the validation of invoices and the management of subscriptions by shareholders in the European Central Bank (ECB) and national central banks (NCBs). The process is crucial for ensuring that earmarked funds are allocated efficiently, minimizing lag and workload. For instance, in the context of Baltic states, budget financing may involve periodic reviews and classifications of resource allocation. The formula for financing decisions is refined to ensure that fees are accrued and refunded appropriately, maintaining a balance in financial operations across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:41:12.914567",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 369,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1033,
+      "selected_avg_freq": 491.35333333333335
+    },
+    "related_words": [
+      "tune",
+      "latvijas",
+      "disbursing",
+      "travels",
+      "gdansk",
+      "banka",
+      "warsaw",
+      "surrendered",
+      "lag",
+      "mobilized",
+      "depository",
+      "ncb",
+      "subscription",
+      "booking",
+      "wheras",
+      "watch",
+      "interrupted",
+      "ncbs",
+      "belts",
+      "weightings",
+      "refunded",
+      "abrogated",
+      "classifications",
+      "workload",
+      "subscribed",
+      "earmarked",
+      "escb",
+      "slow",
+      "mobilization",
+      "shareholders"
+    ],
+    "prompt_length": 1633,
+    "category": "2441 budget"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4773",
+  "concept_data": {
+    "title": "yoghourt",
+    "category_code": "6016",
+    "category_name": "processed agricultural produce",
+    "category_full": "6016 processed agricultural produce",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"yoghourt\" within EU legal and regulatory frameworks pertains to processed agricultural produce, specifically fermented dairy products. Yoghourt, often consumed by schoolchildren, is subject to regulations that govern its production, including standards for milk quality and flavouring agents such as chocolate. The EU's legal framework includes provisions for subsidies and levies to support smaller producers and ensure conservation of traditional methods, particularly in regions like the Aegean and Baltic. Regulatory departments oversee the distribution and licensing of yoghurt, with specific headings and subheadings detailing requirements for reconstituted and flavoured varieties. This ensures that products purchased by consumers meet established quality forecasts and distinctions.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:35:28.083949",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 276,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 1643,
+      "selected_avg_freq": 936.3333333333334
+    },
+    "related_words": [
+      "yoghourt",
+      "schoolchildren",
+      "regrouped",
+      "yoghurt",
+      "fermented",
+      "reconstituted",
+      "chocolate",
+      "flavoured",
+      "schools",
+      "school",
+      "aegean",
+      "litre",
+      "expanding",
+      "cheeses",
+      "baltic",
+      "subheadings",
+      "headings",
+      "purchased",
+      "levies",
+      "forecast",
+      "conservation",
+      "expressly",
+      "suppliers",
+      "subsidy",
+      "reserved",
+      "distributed",
+      "distinction",
+      "derogate",
+      "daily",
+      "concessions"
+    ],
+    "prompt_length": 1695,
+    "category": "6016 processed agricultural produce"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3173",
+  "concept_data": {
+    "title": "registered designation of origin",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "designation of origin",
+    "relation_type": "USE"
+  },
+  "summary": "The \"registered designation of origin,\" commonly referred to as \"designation of origin,\" is a legal term within EU marketing regulations that protects specific foodstuffs, ensuring they are produced in a defined geographical area using traditional methods. This concept is crucial for products like sherry, tokay, and setúbal, which derive their unique qualities from local conditions. The EU framework categorizes these designations to safeguard authenticity, as seen with products like karlsbader and φέτα. By establishing a categorical link between origin and quality, the regulation enhances consumer trust and promotes regional specialties, such as tarentine olives and kołacz pastries, thus preserving cultural heritage and economic viability.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:51:39.010984",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 4080,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.953333333333333
+    },
+    "related_words": [
+      "sherry",
+      "tokay",
+      "setúbal",
+      "acd",
+      "tarentine",
+      "foodstsuffs",
+      "pfund",
+      "poperingse",
+      "hopscheuten",
+      "hoppescheuten",
+      "aceituna",
+      "aloreña",
+      "castelmagno",
+      "κοπανιστή",
+      "kopanisti",
+      "karlovarské",
+      "trojhránky",
+      "karlsbader",
+      "oblaten",
+      "salient",
+      "karlsbad",
+      "karlovy",
+      "rieser",
+      "weizenbier",
+      "göttinger",
+      "μανταρίνι",
+      "χίου",
+      "mandarini",
+      "chiou",
+      "categorical"
+    ],
+    "prompt_length": 1716,
+    "category": "2031 marketing"
+  }
+}

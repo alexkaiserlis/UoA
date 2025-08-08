@@ -1,0 +1,63 @@
+{
+  "concept_id": "1884",
+  "concept_data": {
+    "title": "heavy metal",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"heavy metal\" pertains to a category within the iron, steel, and other metal industries, highlighting its significance in EU legal and regulatory frameworks. Heavy metals, such as cadmium and mercury, are anthropogenic contaminants that pose risks to the atmosphere and public health. Regulatory measures enforced by the EU aim to monitor and analyze these metals using advanced tools like spectrophotometers and analyzers, ensuring trace levels are maintained below permissible parts per million (ppm). The impacts of heavy metals on the environment necessitate rapidity in research and action, particularly concerning recycling and reuse of materials, including plastics and glass. The transboundary nature of pollution requires collaboration among consignors and consignees, with a focus on minimizing contamination in crates and pallets. The Aarhus Convention emphasizes transparency in measurements and alerts regarding heavy metal emissions, fostering an environmentally sustainable approach to industrial practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:44:22.320648",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 143,
+    "vocabulary_stats": {
+      "total_related_words": 475,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 784,
+      "selected_avg_freq": 372.72
+    },
+    "related_words": [
+      "objec",
+      "recearch",
+      "tive",
+      "spectrophotometer",
+      "sulphites",
+      "perkin",
+      "elmer",
+      "loops",
+      "gabonese",
+      "spectral",
+      "rapidity",
+      "crates",
+      "consignee",
+      "analyzer",
+      "gabon",
+      "anthropogenic",
+      "aarhus",
+      "pallets",
+      "ppm",
+      "consignor",
+      "filling",
+      "incineration",
+      "sweeteners",
+      "recycled",
+      "reuse",
+      "atmosphere",
+      "colours",
+      "periodical",
+      "cadmium",
+      "atmospheric"
+    ],
+    "prompt_length": 1702,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5090",
+  "concept_data": {
+    "title": "savings and loan association",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "mortgage bank",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"savings and loan association\" is a redirect to \"mortgage bank,\" a category within financial institutions and credit in EU regulatory frameworks. Mortgage banks are specialized institutions that provide credit for real estate purchases, facilitating the allocation of funds for housing. The implementation of directives concerning these banks is crucial for managing financial risks and ensuring a consolidated approach to banking. Discussions in various fora have expressed the need for a clear definition and treatment of these institutions, particularly regarding their accounts and the calculation of total funds. Since April, additional regulations have aimed to enhance the transparency and stability of this sector, reflecting the EU's commitment to a wider financial landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:43:55.662413",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 67,
+      "requested_words": 150,
+      "min_frequency_found": 68,
+      "max_frequency_found": 4108,
+      "selected_words": 67,
+      "selected_min_freq": 68,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2039.5671641791046
+    },
+    "related_words": [
+      "fora",
+      "banking",
+      "item",
+      "wider",
+      "banks",
+      "discussions",
+      "credit",
+      "propose",
+      "consolidated",
+      "accounts",
+      "gives",
+      "original",
+      "calculated",
+      "category",
+      "risks",
+      "allocation",
+      "funds",
+      "advisory",
+      "six",
+      "institutions",
+      "definition",
+      "fund",
+      "own",
+      "treatment",
+      "expressed",
+      "final",
+      "total",
+      "results",
+      "meaning",
+      "annual"
+    ],
+    "prompt_length": 1707,
+    "category": "2416 financial institutions and credit"
+  }
+}

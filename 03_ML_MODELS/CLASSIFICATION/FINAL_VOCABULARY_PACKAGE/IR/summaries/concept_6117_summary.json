@@ -1,0 +1,63 @@
+{
+  "concept_id": "6117",
+  "concept_data": {
+    "title": "re-establishment of peace",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "establishment of peace",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"re-establishment of peace,\" redirected to the preferred term \"establishment of peace,\" is pivotal in EU legal and regulatory frameworks concerning international security. This concept encompasses peacekeeping efforts and the demobilisation and reintegration of conflict-affected populations, notably in regions like Liberia and Sudan. The EU, through entities such as the European External Action Service (EEAS), actively engages in intensive dialogue and governance initiatives to restore stability in deteriorated areas, as observed in Darfur. Resolutions from the United Nations Security Council (UNSC) and the Cotonou Agreement highlight the EU's commitment to lifting impeding barriers to peace. The EU's role in appointing mediators and facilitating contacts is crucial for ensuring that peace agreements are assured and violations are addressed, thereby extending the prospects for lasting peace.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:32:25.717973",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 284,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1471,
+      "selected_avg_freq": 650.78
+    },
+    "related_words": [
+      "peacekeeping",
+      "reinicke",
+      "otte",
+      "headway",
+      "demobilisation",
+      "liberian",
+      "eeas",
+      "darfur",
+      "marc",
+      "andreas",
+      "attest",
+      "breaking",
+      "eusr",
+      "dramatically",
+      "liberia",
+      "impeding",
+      "unscr",
+      "unsc",
+      "convenient",
+      "restoring",
+      "deteriorated",
+      "sudan",
+      "violated",
+      "cotonou",
+      "reintegration",
+      "autumn",
+      "lift",
+      "observes",
+      "middle",
+      "peace"
+    ],
+    "prompt_length": 1714,
+    "category": "0816 international security"
+  }
+}

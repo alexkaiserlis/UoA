@@ -1,0 +1,63 @@
+{
+  "concept_id": "6789",
+  "concept_data": {
+    "title": "nutritional supplement",
+    "category_code": "6026",
+    "category_name": "foodstuff",
+    "category_full": "6026 foodstuff",
+    "is_redirect": true,
+    "preferred_term": "food supplement",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"nutritional supplement\" is often redirected to \"food supplement,\" which encompasses various products designed to enhance dietary intake. These supplements may include ingredients such as niacin, nicotinic acid, and folate, which address pathophysiological needs. Regulatory frameworks govern their formulation, ensuring aspects like flowability and toughness are optimized, often employing agents like ethylcellulose and polysiloxane for stability. Additionally, specific compounds such as selenised heptahydrate and anionic substances may be included to improve health outcomes, including digestive health and halitosis management. The use of innovative ingredients, such as bilysinate and kefiri, reflects ongoing advancements in food science, ensuring that these products remain appetising and effective.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:19:18.625699",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1634,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 7.16
+    },
+    "related_words": [
+      "fumaric",
+      "vinylpyridine",
+      "ethylcellulose",
+      "zoetis",
+      "selenised",
+      "heptahydrate",
+      "niacin",
+      "nicotinic",
+      "nicotinamide",
+      "anionic",
+      "stomach",
+      "irritating",
+      "afb",
+      "pellet",
+      "appetising",
+      "kefiri",
+      "bilysinate",
+      "flowability",
+      "cellulosic",
+      "toughness",
+      "pathophysiological",
+      "cokg",
+      "folate",
+      "pva",
+      "instant",
+      "odours",
+      "swallow",
+      "dissolves",
+      "animalis",
+      "salivarius"
+    ],
+    "prompt_length": 1715,
+    "category": "6026 foodstuff"
+  }
+}

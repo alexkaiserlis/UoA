@@ -1,0 +1,63 @@
+{
+  "concept_id": "3320",
+  "concept_data": {
+    "title": "migrant",
+    "category_code": "2811",
+    "category_name": "migration",
+    "category_full": "2811 migration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"migrant\" encompasses individuals who move across borders, often facing challenges such as smuggling and trafficking. The Palermo Protocol highlights the need for transnational cooperation to combat these crimes. EU directives instruct member states to address demographic variables, ensuring the welfare of migrants, including women and children. The codification of migration policies aims to facilitate accurate data collection via Eurostat, enabling the analysis of migration trends. Solidarity among member states is crucial, particularly in addressing barriers to arrival and integration. The Hague and Thessaloniki modules provide frameworks for negotiating feasible solutions to ongoing migration issues.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:43:52.647485",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 233,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 1729,
+      "selected_avg_freq": 758.1266666666667
+    },
+    "related_words": [
+      "descendants",
+      "smuggling",
+      "palermo",
+      "migrants",
+      "columns",
+      "demographic",
+      "module",
+      "trafficking",
+      "codification",
+      "hague",
+      "modules",
+      "thessaloniki",
+      "headquarters",
+      "instructed",
+      "directors",
+      "transnational",
+      "variables",
+      "analysing",
+      "barrier",
+      "women",
+      "crime",
+      "explanatory",
+      "challenges",
+      "migration",
+      "solidarity",
+      "highlighted",
+      "addressing",
+      "optional",
+      "greatest",
+      "arrival"
+    ],
+    "prompt_length": 1676,
+    "category": "2811 migration"
+  }
+}

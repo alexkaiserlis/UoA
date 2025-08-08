@@ -1,0 +1,63 @@
+{
+  "concept_id": "4259",
+  "concept_data": {
+    "title": "population statistics",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Population statistics are critical in the context of EU demography and population regulation, providing essential data for understanding socioeconomic inequalities and challenges. These statistics, derived from censuses and disaggregated indicators, facilitate the synchronization of demographic projections across member states. Eurostat plays a pivotal role in disseminating these statistics, ensuring objectivity and impartiality in the representation of various dimensions such as age, gender, and geographic distribution. The Gothenburg and Beijing platforms exemplify the EU’s commitment to sustainability and solidarity in addressing demographic changes. By documenting population trends, the EU can better navigate the complexities of housing, finances, and the ageing population, fostering independence and resilience in its policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:04:26.166043",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 358,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 896,
+      "selected_avg_freq": 469.00666666666666
+    },
+    "related_words": [
+      "demography",
+      "synchronization",
+      "overviews",
+      "gothenburg",
+      "denominator",
+      "disaggregated",
+      "censuses",
+      "votes",
+      "exhibits",
+      "inequalities",
+      "disseminating",
+      "census",
+      "sex",
+      "generations",
+      "objectivity",
+      "metropolitan",
+      "impartiality",
+      "beijing",
+      "demographic",
+      "projections",
+      "gender",
+      "ece",
+      "ageing",
+      "estimation",
+      "picture",
+      "scientifically",
+      "teu",
+      "weighting",
+      "platform",
+      "documented"
+    ],
+    "prompt_length": 1747,
+    "category": "2816 demography and population"
+  }
+}

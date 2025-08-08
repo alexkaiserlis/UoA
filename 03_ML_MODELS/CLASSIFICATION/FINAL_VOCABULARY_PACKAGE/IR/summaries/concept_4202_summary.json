@@ -1,0 +1,26 @@
+{
+  "concept_id": "4202",
+  "concept_data": {
+    "title": "European public limited company",
+    "category_code": "4016",
+    "category_name": "legal form of organisations",
+    "category_full": "4016 legal form of organisations",
+    "is_redirect": true,
+    "preferred_term": "European company",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European public limited company,\" commonly referred to as a \"European company,\" represents a unique legal form of organization within the European Union. Established under Regulation (EC) No. 2157/2001, this entity allows companies to operate across EU member states with a unified legal framework. It facilitates cross-border mergers and enhances corporate mobility, thus promoting economic integration. The European company structure is designed to simplify regulatory compliance and provide a flexible governance model, enabling businesses to adapt to diverse market conditions while benefiting from the single market. This concept underscores the EU's commitment to fostering a cohesive business environment.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:04:42.525694",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1234,
+    "category": "4016 legal form of organisations"
+  }
+}

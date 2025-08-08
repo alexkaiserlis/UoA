@@ -1,0 +1,63 @@
+{
+  "concept_id": "5922",
+  "concept_data": {
+    "title": "data-processing system",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "computer system",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"data-processing system,\" redirected to \"computer system,\" encompasses various technologies that govern the processing of data within EU legal frameworks. These systems are crucial for managing information related to diverse fields, including zootechnics and molecular biology. They facilitate the transcription of data, ensuring readable formats for stakeholders. The architecture of these systems often involves interfaces that optimise data flow and enhance outcomes. Additionally, they support intergovernmental initiatives, such as Eurodac and Sanco, by linking signatures and managing contractors. The effective computerisation of data-processing systems acknowledges the need for robust governance, particularly in areas like voting and contractor management, thus developing a monopoly on data integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:28:02.175549",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 655,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 446,
+      "selected_avg_freq": 208.10666666666665
+    },
+    "related_words": [
+      "crystallographic",
+      "computor",
+      "knd",
+      "enraf",
+      "nonius",
+      "rontgenweg",
+      "diffractometer",
+      "curently",
+      "delft",
+      "nicolet",
+      "whch",
+      "cure",
+      "transcribe",
+      "adns",
+      "eurodac",
+      "sanco",
+      "typology",
+      "signatures",
+      "computerisation",
+      "transcription",
+      "tape",
+      "zootechnics",
+      "animo",
+      "personality",
+      "architecture",
+      "readable",
+      "ray",
+      "seminars",
+      "hosting",
+      "sis"
+    ],
+    "prompt_length": 1736,
+    "category": "3236 information technology and data processing"
+  }
+}

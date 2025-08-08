@@ -1,0 +1,63 @@
+{
+  "concept_id": "1643",
+  "concept_data": {
+    "title": "asbestos",
+    "category_code": "6611",
+    "category_name": "coal and mining industries",
+    "category_full": "6611 coal and mining industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Asbestos, a naturally occurring mineral, poses severe health risks, including asbestosis and mesothelioma, due to its fibrous nature. In the EU, regulatory frameworks obligate the prohibition of asbestos in various applications, including paints, varnishes, and heaters, to protect public health. The dangers of asbestos fibres, particularly crocidolite and amphibole types, have prompted stringent measures for exposure reduction. Regulations mandate labelling and the safe removal of asbestos-containing materials, with exceptions for specific uses. The adaptation of substitutes and the promotion of safer alternatives are crucial in mitigating the risks associated with asbestos, ensuring compliance with EU directives aimed at safeguarding human health.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:12:38.136173",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 146,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 146,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1429.7328767123288
+    },
+    "related_words": [
+      "heath",
+      "fixity",
+      "asbestosis",
+      "mesothelioma",
+      "severest",
+      "crocidolite",
+      "amphibole",
+      "lung",
+      "heaters",
+      "spraying",
+      "adaption",
+      "occuring",
+      "asbestos",
+      "ores",
+      "varnishes",
+      "catalytic",
+      "smoking",
+      "paints",
+      "sand",
+      "accessories",
+      "toys",
+      "dangers",
+      "impurities",
+      "cancer",
+      "promoted",
+      "naturally",
+      "releasing",
+      "fibres",
+      "obligatory",
+      "substitute"
+    ],
+    "prompt_length": 1662,
+    "category": "6611 coal and mining industries"
+  }
+}

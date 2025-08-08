@@ -1,0 +1,63 @@
+{
+  "concept_id": "1883",
+  "concept_data": {
+    "title": "ferrous metal",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"ferrous metal\" encompasses various alloys and materials essential to the iron, steel, and other metal industries within the EU regulatory framework. This includes the production and utilization of ferroaleacione, which is critical for alloying processes. The industry is influenced by regulations concerning the use of minerals, such as calcio and carbureto, and the standards set by organizations like the comité européen. Companies like ferbasa and italmagnésio in regions such as Belo Horizonte and Gelsenkirchen are pivotal in the supply chain. The legal landscape also addresses electrométallurgie practices, ensuring compliance with environmental and economic directives that govern the production of ferrous metals across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:06:11.783535",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 708,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 335,
+      "selected_avg_freq": 128.12
+    },
+    "related_words": [
+      "italmagnesio",
+      "promsyrio",
+      "ferroaleacione",
+      "ferronor",
+      "mataporquera",
+      "electricas",
+      "bilbao",
+      "italmagnésio",
+      "eisen",
+      "dozen",
+      "cia",
+      "ligas",
+      "ferbasa",
+      "cรกlcio",
+      "dumont",
+      "pojuca",
+      "metall",
+      "electrométallurgie",
+      "eletrometalur",
+      "electrometalur",
+      "cbcc",
+      "santos",
+      "belo",
+      "horizonte",
+      "minerais",
+      "brasileira",
+      "carbureto",
+      "deoxidiser",
+      "companhia",
+      "fundiciones"
+    ],
+    "prompt_length": 1706,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

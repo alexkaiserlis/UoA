@@ -1,0 +1,63 @@
+{
+  "concept_id": "4455",
+  "concept_data": {
+    "title": "therapeutics",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"therapeutics\" encompasses a wide range of medical treatments and interventions regulated within the EU framework. It includes various agents such as bronchodilators, steroids, and anticholinergic compounds, which are essential in managing conditions like hyperthyroidism and asthma. Regulatory bodies oversee the approval of inhaled therapies, including metered-dose inhalers (MDIs) and their components, such as bromochloromethane and chlorofluorocarbons (CFCs). The legal context also addresses the safety of hormonal therapies, including oestradiol and thyrostatic agents, while ensuring that carcinogens and halogenated substances are adequately controlled. The use of therapeutics in veterinary medicine, particularly in stockfarming, is also subject to stringent regulations to prevent adverse effects on both animal and human health.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:46:59.130507",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 507,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 497,
+      "selected_avg_freq": 190.64666666666668
+    },
+    "related_words": [
+      "bronchiodilators",
+      "steroids",
+      "anticholinergic",
+      "stilbene",
+      "unattractive",
+      "bromo",
+      "chloromethane",
+      "agonist",
+      "hyperthyroidism",
+      "oestrus",
+      "essentiality",
+      "prostaglandins",
+      "tomography",
+      "scvph",
+      "hydrobromofluorocarbon",
+      "chlorofluorocarbon",
+      "inhaled",
+      "oestradiol",
+      "bromochloromethane",
+      "stilbenes",
+      "substantively",
+      "metered",
+      "inhalers",
+      "induction",
+      "mdis",
+      "promoter",
+      "trichloroethane",
+      "cfcs",
+      "cfc",
+      "obtainable"
+    ],
+    "prompt_length": 1760,
+    "category": "2841 health"
+  }
+}

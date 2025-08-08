@@ -1,0 +1,63 @@
+{
+  "concept_id": "3435",
+  "concept_data": {
+    "title": "waterway",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "network of navigable waterways",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"waterway,\" redirected to the preferred term \"network of navigable waterways,\" is crucial in EU legal and regulatory frameworks concerning maritime and inland waterway transport. The navigability of these waterways establishes essential lanes for shipping vessels, facilitating reciprocal communications among member states. The European Commission, under various directives, outlines the duty of member states to maintain and supply information regarding licensing and recognition of these waterways. Decisions made in accordance with the Treaty of Rome and subsequent EEC regulations serve as the basis for establishing a comprehensive list of navigable waterways, enhancing economic communities within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:08:11.570637",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 33,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 33,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2174.3030303030305
+    },
+    "related_words": [
+      "navigability",
+      "lanes",
+      "waterway",
+      "inland",
+      "shipping",
+      "reciprocal",
+      "maritime",
+      "communications",
+      "vessels",
+      "licences",
+      "recognition",
+      "supplied",
+      "duty",
+      "establish",
+      "list",
+      "directive",
+      "information",
+      "basis",
+      "january",
+      "application",
+      "july",
+      "eec",
+      "economic",
+      "communities",
+      "states",
+      "member",
+      "decision",
+      "community",
+      "establishing",
+      "commission"
+    ],
+    "prompt_length": 1570,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

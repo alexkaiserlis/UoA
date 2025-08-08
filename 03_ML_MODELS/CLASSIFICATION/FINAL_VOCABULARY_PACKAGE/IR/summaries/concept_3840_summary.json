@@ -1,0 +1,63 @@
+{
+  "concept_id": "3840",
+  "concept_data": {
+    "title": "motorcycle industry",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "cycle and motorcycle industry",
+    "relation_type": "USE"
+  },
+  "summary": "The \"motorcycle industry,\" redirected to the preferred term \"cycle and motorcycle industry,\" encompasses a broad spectrum of motorized and non-motorized vehicles, including cyclocross bikes and pedal-powered options. In the EU regulatory framework, this industry is subject to stringent safety and environmental standards, impacting manufacturers from various regions, such as the bairro of Hunedoara and the blvd of Frattamaggiore. Regulatory compliance ensures that products, whether prams, pushchairs, or specialized bicycles like the goldbike and velox, meet EU directives. The industry also engages in innovation, with companies like Koga and Helkama contributing to advancements in design and functionality, ensuring that all ridden vehicles adhere to established norms.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:55:36.687731",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 522,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 38,
+      "selected_avg_freq": 11.826666666666666
+    },
+    "related_words": [
+      "cyclocross",
+      "bestween",
+      "clamp",
+      "inches",
+      "motorized",
+      "ridden",
+      "prams",
+      "pushchairs",
+      "pedal",
+      "bairro",
+      "oia",
+      "lote",
+      "balkanvelo",
+      "blvd",
+      "bonaventure",
+      "stoomtuigstraat",
+      "hadji",
+      "dimitar",
+      "santuhalm",
+      "deva",
+      "hunedoara",
+      "carmelo",
+      "pezzullo",
+      "frattamaggiore",
+      "goldbike",
+      "poutena",
+      "vilarinho",
+      "helkama",
+      "velox",
+      "santalantie"
+    ],
+    "prompt_length": 1725,
+    "category": "6821 mechanical engineering"
+  }
+}

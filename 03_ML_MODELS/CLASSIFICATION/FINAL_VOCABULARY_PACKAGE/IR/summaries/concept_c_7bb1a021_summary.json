@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7bb1a021",
+  "concept_data": {
+    "title": "pseudonymisation",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "anonymisation",
+    "relation_type": "USE"
+  },
+  "summary": "Pseudonymisation, often redirected to the preferred term \"anonymisation,\" is a critical concept in EU legal and regulatory frameworks concerning data protection. It refers to the process of transforming personal data in such a way that it can no longer be attributed to a specific individual without the use of additional information. This technique enhances privacy by allowing data to be processed while minimizing the risk of re-identification. Under the General Data Protection Regulation (GDPR), pseudonymisation is recognized as a valuable measure to safeguard personal data, promoting compliance and facilitating data sharing while ensuring individuals' rights are upheld.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:02:35.857685",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1231,
+    "category": "3236 information technology and data processing"
+  }
+}

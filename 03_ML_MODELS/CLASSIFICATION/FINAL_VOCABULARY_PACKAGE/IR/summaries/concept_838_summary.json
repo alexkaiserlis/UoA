@@ -1,0 +1,63 @@
+{
+  "concept_id": "838",
+  "concept_data": {
+    "title": "epidemiology",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Epidemiology, a crucial concept in EU health regulation, involves the study of disease patterns, causes, and effects within populations. It is essential for predicting outbreaks of preventable diseases such as smallpox, diphtheria, and tularaemia. Regulatory frameworks often consult epidemiological data to coordinate responses to pandemics and sporadic cases of infections, including those caused by vectors like culicoides and ornithodorus ticks. The analysis of subpopulations helps identify risk factors and informs vaccination strategies, ensuring that cohorts are immunised against emerging threats. By understanding the dynamics of viraemic transmissions and biohaz risks, EU authorities can enhance public health reassurance and mitigate the impacts of epidemics.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:51:08.395563",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 1660,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 49,
+      "selected_avg_freq": 21.746666666666666
+    },
+    "related_words": [
+      "ewrs",
+      "tsemm",
+      "dsn",
+      "ornithodorus",
+      "erraticus",
+      "bites",
+      "epidermo",
+      "epidemo",
+      "ostertag",
+      "predictions",
+      "congruent",
+      "smallpox",
+      "tetanus",
+      "sporadically",
+      "diphtheria",
+      "tularaemia",
+      "preventable",
+      "viraemic",
+      "euphin",
+      "hsscd",
+      "culicoides",
+      "indistinguishable",
+      "transfusion",
+      "estremadure",
+      "culicoïdes",
+      "caporale",
+      "teramo",
+      "immunised",
+      "veterinære",
+      "tick"
+    ],
+    "prompt_length": 1700,
+    "category": "2841 health"
+  }
+}

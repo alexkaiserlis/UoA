@@ -1,0 +1,63 @@
+{
+  "concept_id": "362",
+  "concept_data": {
+    "title": "administrative unit",
+    "category_code": "0436",
+    "category_name": "executive power and public service",
+    "category_full": "0436 executive power and public service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, an \"administrative unit\" refers to a defined bailiwick responsible for executing public service functions. These units may encompass dependencies, such as territories or colonies, and are crucial for ensuring the adequacy of governance. They operate under statutory orders that safeguard individual rights and ensure compliance with EU commitments. The commissioner overseeing these units enjoys the ability to investigate issues and enforce regulations, thereby preventing unjustifiable discrimination. Notwithstanding their independence, these units must operate within a framework that complements judicial oversight and provides remedies for individuals affected by administrative actions. This supervision ensures that all actions are transparent and justified, thereby reinforcing the integrity of the EU's regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:37:44.008964",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 181,
+      "requested_words": 150,
+      "min_frequency_found": 14,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 14,
+      "selected_max_freq": 2885,
+      "selected_avg_freq": 1313.9266666666667
+    },
+    "related_words": [
+      "bailiwick",
+      "dependencies",
+      "sixteen",
+      "arbitrarily",
+      "colony",
+      "unjustifiably",
+      "crown",
+      "guernsey",
+      "disguised",
+      "discriminate",
+      "commissioner",
+      "enjoys",
+      "invested",
+      "enforced",
+      "prevail",
+      "approaches",
+      "surrounding",
+      "adequacy",
+      "barrier",
+      "british",
+      "orders",
+      "independence",
+      "ratification",
+      "judicial",
+      "complement",
+      "statutory",
+      "defence",
+      "ability",
+      "notwithstanding",
+      "find"
+    ],
+    "prompt_length": 1736,
+    "category": "0436 executive power and public service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5414",
+  "concept_data": {
+    "title": "lawsuit",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": true,
+    "preferred_term": "civil proceedings",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal terminology, the concept of \"lawsuit\" is redirected to \"civil proceedings,\" which encompasses a range of adjudicatory processes where plaintiffs seek remedies against defendants. These proceedings can include extrajudicial methods such as mediation and conciliation, promoting amicable settlements tailored to the needs of the parties involved. Courts are seised with cases that may involve matrimonial disputes or contractual issues, where enforceability of judgments is crucial. Practitioners often encourage clients to voluntarily engage in arbitration to circumvent lengthy litigation. The predictability of outcomes and the autonomy of parties are essential, as they seek to fill gaps in enforceable agreements while illustrating the importance of trust and impartiality in the judicial process.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:33:25.031372",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 449,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 709,
+      "selected_avg_freq": 321.82666666666665
+    },
+    "related_words": [
+      "adjudicatory",
+      "seised",
+      "unenforceable",
+      "plaintiffs",
+      "mediators",
+      "mediator",
+      "defendants",
+      "extrajudicial",
+      "poorer",
+      "consensual",
+      "matrimonial",
+      "atlas",
+      "displaying",
+      "prescription",
+      "amicable",
+      "enforceability",
+      "enforceable",
+      "settling",
+      "prescribes",
+      "arbitration",
+      "impartial",
+      "anything",
+      "autonomy",
+      "parental",
+      "tampere",
+      "pronounced",
+      "practitioners",
+      "attempts",
+      "tailored",
+      "predictable"
+    ],
+    "prompt_length": 1738,
+    "category": "1221 justice"
+  }
+}

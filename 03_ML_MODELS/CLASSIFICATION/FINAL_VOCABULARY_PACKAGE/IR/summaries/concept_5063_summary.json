@@ -1,0 +1,63 @@
+{
+  "concept_id": "5063",
+  "concept_data": {
+    "title": "Republic of Bulgaria",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Bulgaria",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Republic of Bulgaria,\" redirecting to the preferred term \"Bulgaria,\" is a significant entity in EU political geography. As a member state, Bulgaria's legal framework is influenced by EU regulations, impacting various sectors governed by officials such as Georgi Slavov and Kornelia Marinova. The Bulgarian government, represented by figures like Andriana Sukova and Katya Doycheva, plays a crucial role in implementing EU directives. Key legal concepts are shaped by contributions from experts like Bozhidar Yotov and Svetlin Tanchev, while local governance is reflected in the actions of officials like Orhan Idriz and Penka Penkova. Bulgaria's integration into the EU framework is essential for regional stability and compliance with EU law.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:00:05.030009",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 3550,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 4.586666666666667
+    },
+    "related_words": [
+      "jeliazko",
+      "christov",
+      "bulgariangovernment",
+      "kornelia",
+      "marinova",
+      "katya",
+      "doycheva",
+      "dora",
+      "iankova",
+      "orhan",
+      "mumun",
+      "penka",
+      "penkova",
+      "georgi",
+      "slavov",
+      "bozhidar",
+      "yotov",
+      "andonov",
+      "shukran",
+      "idriz",
+      "lichev",
+      "rashev",
+      "svetlin",
+      "tanchev",
+      "nayden",
+      "zelenogorski",
+      "ahmedov",
+      "krassimir",
+      "kostov",
+      "andriana"
+    ],
+    "prompt_length": 1662,
+    "category": "7236 political geography"
+  }
+}

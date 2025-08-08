@@ -1,0 +1,63 @@
+{
+  "concept_id": "1362",
+  "concept_data": {
+    "title": "chemical production",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": true,
+    "preferred_term": "chemical industry",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"chemical production,\" redirected to the preferred term \"chemical industry,\" encompasses a vast array of processes that are crucial for the EU's economic framework. This sector is characterized by its interplay of various chemical compounds, including oleochemical and sulphuric substances, which are essential for producing unmodified materials and specialized products. Regulatory frameworks often address the environmental impacts of chemical production, negotiating standards that prevent malignant outcomes, such as scleroderma and angiosarcoma, from hazardous substances. The industry is also involved in catalyzing innovations, with investments in technologies that outstrip traditional methods. Furthermore, the EU's legal documents, such as the staatsblad, reflect the need for compliance with safety regulations, ensuring that chemical processes do not lead to inopportune refusals in production. The integration of sustainable practices is vital, as seen in initiatives like investeringspremierregeling, aimed at fostering a crispbread of eco-friendly solutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:05.816069",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 142,
+    "vocabulary_stats": {
+      "total_related_words": 1595,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 100,
+      "selected_avg_freq": 42.79333333333334
+    },
+    "related_words": [
+      "amout",
+      "repalce",
+      "enormously",
+      "crispbread",
+      "geleen",
+      "boroughs",
+      "heerlen",
+      "catalyzing",
+      "ate",
+      "investeringspremierregeling",
+      "laevulose",
+      "veendam",
+      "acro",
+      "osteolysis",
+      "scleroderma",
+      "angiosarcoma",
+      "sassafras",
+      "safrole",
+      "hongye",
+      "puyang",
+      "hongjian",
+      "outstrips",
+      "dockside",
+      "oleochemical",
+      "inopportune",
+      "furfuryl",
+      "investeringspremieregeling",
+      "reversible",
+      "assimilating",
+      "exp"
+    ],
+    "prompt_length": 1750,
+    "category": "6811 chemistry"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "416",
+  "concept_data": {
+    "title": "salinisation",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "desertification",
+    "relation_type": "USE"
+  },
+  "summary": "Salinisation, often redirected to \"desertification,\" is a significant environmental issue governed by EU legal frameworks aimed at combating the deterioration of ecosystems. This complex problem contributes to poverty and affects disadvantaged regions, particularly in the Mediterranean and northern Africa. The EU encourages initiatives that tackle desertification through sustainable practices and conservation efforts. By affirming commitments made during the Paris Agreement ratification, the EU promotes cooperation among nations to mitigate the impacts of drought and support biological diversity. These efforts are essential for achieving global environmental goals and addressing the multifaceted interactions between climate change and land degradation.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:07:24.211433",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 153,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 4003,
+      "selected_avg_freq": 1505.4266666666667
+    },
+    "related_words": [
+      "desertification",
+      "affirm",
+      "depositing",
+      "spheres",
+      "interactions",
+      "encourages",
+      "tackle",
+      "drought",
+      "disadvantaged",
+      "poverty",
+      "participated",
+      "experiencing",
+      "mitigate",
+      "stand",
+      "paris",
+      "ratification",
+      "climate",
+      "eradication",
+      "biological",
+      "complex",
+      "conservation",
+      "africa",
+      "initiatives",
+      "combating",
+      "cultural",
+      "mediterranean",
+      "seriously",
+      "cooperate",
+      "combat",
+      "contributes"
+    ],
+    "prompt_length": 1780,
+    "category": "5216 deterioration of the environment"
+  }
+}

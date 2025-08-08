@@ -1,0 +1,63 @@
+{
+  "concept_id": "569",
+  "concept_data": {
+    "title": "maritime law",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Maritime law, a crucial aspect of the EU's regulatory framework, governs the complexities of maritime and inland waterway transport. It encompasses various elements, including the roles of shipowners and shippers, as well as the legalities surrounding containerization and ticketing for sailings. Notably, ports like Europort, Göteborg, and Lübeck serve as vital hubs for traffic between regions such as Jutland and Travemünde. The law addresses issues of refusals and unsatisfied claims, ensuring that practices are straightforward and compliant with EU standards. Moreover, it centralizes regulations to prevent abuses, thereby fostering a safer maritime environment for all stakeholders involved, including lorry operators and freight handlers.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:29.794323",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 808,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 195,
+      "selected_avg_freq": 70.94
+    },
+    "related_words": [
+      "roedby",
+      "stena",
+      "rederi",
+      "puttgarden",
+      "taffic",
+      "europort",
+      "goeteborg",
+      "rostock",
+      "warnemuende",
+      "crow",
+      "gedser",
+      "helsingoer",
+      "helsingborg",
+      "travemuende",
+      "trelleborg",
+      "frederikshavn",
+      "fyn",
+      "saeed",
+      "tăšlăšmarketing",
+      "cbem",
+      "clt",
+      "ipb",
+      "resoning",
+      "containerization",
+      "legalization",
+      "bundesbahn",
+      "luebeck",
+      "centralise",
+      "abusing",
+      "unsatisfied"
+    ],
+    "prompt_length": 1688,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

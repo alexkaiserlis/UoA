@@ -1,0 +1,63 @@
+{
+  "concept_id": "8284",
+  "concept_data": {
+    "title": "European Fisheries Control Agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Fisheries Control Agency (EFCA) is a key body established to empower the European Union in its mission to combat illegal, unreported, and unregulated (IUU) fishing. Designated pursuant to Regulation (EC) No. 768/2005, the agency coordinates operations among Member States to ensure conformity with common fisheries policy rules. Its tasks include monitoring compliance, preventing violations, and eliminating IUU fishing activities. The EFCA operates within a framework that includes various articles and decisions, notified in the Official Journal of the European Union. By carrying out its designated missions, the agency plays a crucial role in the sustainable management of fisheries resources.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:05:26.443501",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 56,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 56,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2022.1964285714287
+    },
+    "related_words": [
+      "cfca",
+      "unregulated",
+      "unreported",
+      "deter",
+      "empower",
+      "designating",
+      "missions",
+      "coordinate",
+      "illegal",
+      "designate",
+      "combat",
+      "fishing",
+      "eliminate",
+      "fisheries",
+      "designated",
+      "agency",
+      "body",
+      "tasks",
+      "conformity",
+      "carry",
+      "alia",
+      "determined",
+      "prevent",
+      "operations",
+      "inter",
+      "control",
+      "document",
+      "purposes",
+      "notified",
+      "policy"
+    ],
+    "prompt_length": 1688,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

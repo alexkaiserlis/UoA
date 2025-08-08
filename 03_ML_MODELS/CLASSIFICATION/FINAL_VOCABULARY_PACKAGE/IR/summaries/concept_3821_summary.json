@@ -1,0 +1,63 @@
+{
+  "concept_id": "3821",
+  "concept_data": {
+    "title": "producer's agreement",
+    "category_code": "4006",
+    "category_name": "business organisation",
+    "category_full": "4006 business organisation",
+    "is_redirect": true,
+    "preferred_term": "inter-company agreement",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory frameworks, a \"producer's agreement,\" also referred to as an \"inter-company agreement,\" plays a pivotal role in business organisation. These agreements, often involving entities in sectors such as métallurgie, facilitate cooperation among producers, particularly in regions like Differdange and Hayange, where ironmaking and aciers production are prominent. The primacy of such agreements lies in their ability to regulate joint ventures and collaborative projects, ensuring economic efficiency. Notably, companies like Bouygues and Dumez may engage in these agreements to streamline operations across borders, such as through the Eurotunnel. Invitees to these agreements often include auxiliary firms like Spie and Halcrow, enhancing the overall project execution.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:43:57.893618",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 2883,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 4.706666666666667
+    },
+    "related_words": [
+      "primacy",
+      "unimetal",
+      "unimétal",
+      "aciers",
+      "longs",
+      "differdange",
+      "hayange",
+      "rombas",
+      "longwy",
+      "belval",
+      "gandrange",
+      "rodange",
+      "métallurgie",
+      "athus",
+      "mmra",
+      "usine",
+      "quesdtion",
+      "trith",
+      "squint",
+      "léger",
+      "ironmaking",
+      "eurotunnel",
+      "maître",
+      "oeuvre",
+      "ctg",
+      "transmanche",
+      "beatty",
+      "costain",
+      "tarmac",
+      "wimpey"
+    ],
+    "prompt_length": 1686,
+    "category": "4006 business organisation"
+  }
+}

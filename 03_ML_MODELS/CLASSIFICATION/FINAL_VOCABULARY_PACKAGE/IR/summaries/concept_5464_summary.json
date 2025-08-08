@@ -1,0 +1,63 @@
+{
+  "concept_id": "5464",
+  "concept_data": {
+    "title": "ecological niche",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "biotope",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"ecological niche,\" redirected to the preferred term \"biotope,\" refers to specific habitats where organisms, such as phanerogams and seagrass like Posidonia oceanica, thrive. In EU regulatory frameworks, understanding these niches is crucial for the protection of marine ecosystems, particularly in relation to fishing practices. Regulations governing trawlers and their gears, including dredges and seines, aim to minimize interference with sensitive habitats along the continental shelf. Effective management of these ecological niches ensures sustainable catches of species like cephalopods while justifying the need for corrective measures to protect vulnerable beds. Monitoring depths and nautical miles is essential for preserving biodiversity along the coast.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:30:57.292070",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 218,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1732,
+      "selected_avg_freq": 658.44
+    },
+    "related_words": [
+      "gangui",
+      "posidonia",
+      "oceanica",
+      "phanerogams",
+      "seagrass",
+      "dredges",
+      "isobath",
+      "beds",
+      "niche",
+      "azur",
+      "boat",
+      "alpes",
+      "purse",
+      "provence",
+      "trawl",
+      "cephalopods",
+      "seines",
+      "nautical",
+      "shore",
+      "nets",
+      "stecf",
+      "meters",
+      "bottom",
+      "trawlers",
+      "trawls",
+      "towed",
+      "miles",
+      "habitats",
+      "justifications",
+      "gears"
+    ],
+    "prompt_length": 1638,
+    "category": "5211 natural environment"
+  }
+}

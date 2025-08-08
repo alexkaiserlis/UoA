@@ -1,0 +1,63 @@
+{
+  "concept_id": "4692",
+  "concept_data": {
+    "title": "pork",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": true,
+    "preferred_term": "pigmeat",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"pork,\" redirected to the preferred term \"pigmeat,\" encompasses various animal products derived from pigs, including ham, bellies, and jowls. In EU legal and regulatory frameworks, the classification of pigmeat is critical for ensuring clarity in trade practices and quality standards. The classification centers, such as those in Bielefeld and Brugge, play a vital role in the determination of product quality and compliance with EU regulations. Challenges, such as stalling and difficulties in production, necessitate rigorous meßverfahren and autorized applications for market access. Additionally, preparations like chorizo and lomo must adhere to specific standards, ensuring valid and massaged products. The regulatory landscape promotes fair competition and consumer safety, addressing confrontations in market practices across regions like Oberösterreich and Tielt.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:29.644428",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 3419,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 7,
+      "selected_avg_freq": 4.94
+    },
+    "related_words": [
+      "difficultues",
+      "pratice",
+      "storter",
+      "brugge",
+      "bielefeld",
+      "măźnster",
+      "klassificeringscenter",
+      "klassificering",
+      "poroducts",
+      "bellies",
+      "valild",
+      "meßverfahren",
+      "stalling",
+      "determinded",
+      "junew",
+      "applcation",
+      "ldoging",
+      "shoulders",
+      "ham",
+      "chorizo",
+      "lomo",
+      "intrascope",
+      "autorized",
+      "derinded",
+      "massaged",
+      "confrontation",
+      "giralda",
+      "choirometer",
+      "exetended",
+      "clairty"
+    ],
+    "prompt_length": 1701,
+    "category": "6011 animal product"
+  }
+}

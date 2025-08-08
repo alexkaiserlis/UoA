@@ -1,0 +1,63 @@
+{
+  "concept_id": "1156",
+  "concept_data": {
+    "title": "company administration",
+    "category_code": "4021",
+    "category_name": "management",
+    "category_full": "4021 management",
+    "is_redirect": true,
+    "preferred_term": "business management",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"company administration,\" redirected to \"business management,\" encompasses the multidimensional aspects of managing enterprises within the EU regulatory framework. It involves guiding practices that ensure accountability and diligence, particularly in the context of internationalisation and compliance with standards like IFRS and IAS. Companies, especially multinationals, must navigate complexities such as corruption and bribery, which can lead to significant abuses if not addressed constructively. The adoption of CSR principles and the implementation of Emas can serve as levers for positive outcomes. Furthermore, the reorganisation of business structures can be pivotal in mitigating risks associated with abrupt market changes and ensuring that providers meet predetermined objectives. By adhering to these frameworks, firms can avoid collapse and materialise their strategic goals, aligning with G20 guidelines and other extant regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:46:02.033082",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 788,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 295,
+      "selected_avg_freq": 138.42666666666668
+    },
+    "related_words": [
+      "levers",
+      "csr",
+      "bribery",
+      "materialisation",
+      "sic",
+      "rollback",
+      "adopters",
+      "constructively",
+      "rewarding",
+      "multidimensional",
+      "multinationals",
+      "hedge",
+      "divulging",
+      "ifric",
+      "extant",
+      "g20",
+      "internationalisation",
+      "iasb",
+      "backgrounds",
+      "emas",
+      "milestone",
+      "materialised",
+      "subcontracting",
+      "conveyed",
+      "diligence",
+      "think",
+      "looked",
+      "tripartite",
+      "template",
+      "ias"
+    ],
+    "prompt_length": 1728,
+    "category": "4021 management"
+  }
+}

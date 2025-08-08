@@ -1,0 +1,63 @@
+{
+  "concept_id": "3179",
+  "concept_data": {
+    "title": "social rehabilitation",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Social rehabilitation\" within the EU legal framework refers to the comprehensive process aimed at fostering the optimal integration of individuals with disabilities into society. This concept proclaims the importance of accessibility in various dimensions, including housing, education, and vocational training. It emphasizes the need for specialized programs that respect the diverse capacities of handicapped individuals, ensuring they can rely on flexible support systems. The collaboration among member states, as affirmed by the Strasbourg Charter, highlights the commitment to teaching and forming inclusive environments. By addressing ergonomic and functional aspects, social rehabilitation seeks to enhance mobility and participation in cooperative settings, ultimately benefiting families and communities alike.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:48:07.655854",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 254,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1530,
+      "selected_avg_freq": 741.5266666666666
+    },
+    "related_words": [
+      "proclaims",
+      "helios",
+      "ergonomics",
+      "affirm",
+      "slower",
+      "disability",
+      "disabilities",
+      "handicapped",
+      "disabled",
+      "strasbourg",
+      "teaching",
+      "rehabilitation",
+      "schools",
+      "accessibility",
+      "lies",
+      "linguistic",
+      "housing",
+      "cooperative",
+      "specialized",
+      "mobility",
+      "functional",
+      "occupational",
+      "adult",
+      "rely",
+      "buildings",
+      "foster",
+      "optimal",
+      "dimension",
+      "vocational",
+      "sites"
+    ],
+    "prompt_length": 1712,
+    "category": "2826 social affairs"
+  }
+}

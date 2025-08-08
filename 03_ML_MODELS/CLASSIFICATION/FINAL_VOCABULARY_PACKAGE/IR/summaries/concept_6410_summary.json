@@ -1,0 +1,63 @@
+{
+  "concept_id": "6410",
+  "concept_data": {
+    "title": "chemical waste",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"chemical waste\" refers to hazardous by-products resulting from the use of pesticides and other chemicals, such as furathiocarb, diazonon, and quinalphos. These substances can lead to environmental deterioration, necessitating strict regulations on their disposal and management. The EU establishes tolerances for constituents like methidathion and propiconazole, ensuring that exceedence of safe levels is avoided. Regulatory bodies assess the chronic and acute impacts of chemicals, including aldicarb and carbofuran, to protect public health. The management of chemical waste is crucial for mitigating risks associated with substances like endosulfan and thiophanate, thereby safeguarding ecosystems and human health.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:23.298923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 238,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1406,
+      "selected_avg_freq": 527.7266666666667
+    },
+    "related_words": [
+      "furathiocarb",
+      "diazonon",
+      "quinalphos",
+      "esfenvalerate",
+      "disulfoton",
+      "mecarbam",
+      "phorate",
+      "propoxur",
+      "triforine",
+      "methidathion",
+      "pirimiphos",
+      "benalaxyl",
+      "acephate",
+      "triazophos",
+      "benfuracarb",
+      "carbosulfan",
+      "fenarimol",
+      "thiodicarb",
+      "chlorothalonil",
+      "propyzamide",
+      "exceedence",
+      "chlormequat",
+      "carbofuran",
+      "propiconazole",
+      "thiophanate",
+      "carbendazim",
+      "ethephon",
+      "fenvalerate",
+      "aldicarb",
+      "fenbutatin"
+    ],
+    "prompt_length": 1763,
+    "category": "5216 deterioration of the environment"
+  }
+}

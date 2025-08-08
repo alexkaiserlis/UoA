@@ -1,0 +1,63 @@
+{
+  "concept_id": "849",
+  "concept_data": {
+    "title": "electronic equipment",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electronic equipment\" encompasses a wide range of devices utilized in electronics and electrical engineering, including components like transducers, emitters, and photoresistors. In EU legal and regulatory frameworks, electronic equipment is subject to directives that govern aspects such as safety, electromagnetic compatibility, and environmental impact. For instance, regulations may address the aftermarket for devices like photocopiers and handsets, ensuring compliance with standards for energy consumption measured in watt. Additionally, the use of materials such as beryllium and the application of sputtering techniques in manufacturing are regulated to mitigate health risks. The integration of technologies like dataprocessing and the use of geometrical diagrams in design are also critical for compliance. Overall, the regulatory landscape aims to ensure that electronic equipment meets stringent safety and performance criteria while fostering innovation in areas such as astronomy and telecommunications.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:41:53.760588",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 1499,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 45,
+      "selected_avg_freq": 21.1
+    },
+    "related_words": [
+      "konishoroku",
+      "minolta",
+      "cache",
+      "aftermarket",
+      "pap",
+      "pzt",
+      "dataprocessing",
+      "decabde",
+      "geometrical",
+      "diagrams",
+      "pad",
+      "emitter",
+      "proms",
+      "cursor",
+      "eatchip",
+      "ricoh",
+      "cecom",
+      "copier",
+      "ppcs",
+      "primarly",
+      "isocentre",
+      "unform",
+      "beryllium",
+      "sputtering",
+      "transponder",
+      "icar",
+      "warc",
+      "handset",
+      "astronomy",
+      "teleservice"
+    ],
+    "prompt_length": 1675,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

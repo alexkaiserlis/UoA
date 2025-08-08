@@ -1,0 +1,63 @@
+{
+  "concept_id": "6019",
+  "concept_data": {
+    "title": "coding",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"coding\" refers to the systematic transcription and representation of data, particularly in information technology and data processing. This process involves the use of computerized systems to transcribe messages and survey results into readable formats, ensuring that variables are accurately captured. Coding is essential for conducting surveys and analyzing data from various sources, such as zootechnical studies or merchandise inventories. It facilitates the codification of typologies and the insertion of data into databases, enabling efficient management of information. The shift towards advanced coding techniques, including magnetic tape and machine coding, enhances the reliability of data representation across diverse applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:43.662161",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 271,
+      "requested_words": 150,
+      "min_frequency_found": 19,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 19,
+      "selected_max_freq": 1541,
+      "selected_avg_freq": 738.7733333333333
+    },
+    "related_words": [
+      "transcribe",
+      "eeg",
+      "merchandise",
+      "typology",
+      "transcription",
+      "tape",
+      "animo",
+      "readable",
+      "surveyed",
+      "messages",
+      "lacking",
+      "plantations",
+      "codification",
+      "message",
+      "mammalian",
+      "quick",
+      "magnetic",
+      "boundaries",
+      "software",
+      "computerized",
+      "variables",
+      "modes",
+      "machine",
+      "trees",
+      "outline",
+      "shift",
+      "coding",
+      "conducting",
+      "computerised",
+      "file"
+    ],
+    "prompt_length": 1686,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4378",
+  "concept_data": {
+    "title": "air freight rate",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"air freight rate\" pertains to the pricing structure applied to cargo transported by airlines within the EU's liberalized transport policy framework. These rates are influenced by various factors, including scheduling, routes, and the dominant carriers operating at busy airports. Airlines often declare their freight fares, which must comply with EU regulations to ensure fair competition among entrants. The interlining of cargo and the allocation of slots at airports are critical for optimizing revenues and operational efficiency. Eurocontrol plays a role in navigation and scheduling, while concerted efforts among airlines may affect pricing strategies and market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:52:31.297493",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 402,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1009,
+      "selected_avg_freq": 492.91333333333336
+    },
+    "related_words": [
+      "prb",
+      "arre",
+      "interlining",
+      "busy",
+      "alliances",
+      "slot",
+      "slots",
+      "fares",
+      "fare",
+      "consignors",
+      "attempted",
+      "scheduling",
+      "airline",
+      "eurocontrol",
+      "sky",
+      "baggage",
+      "entrants",
+      "declares",
+      "attempts",
+      "liberalized",
+      "prompted",
+      "filed",
+      "airlines",
+      "necessitated",
+      "today",
+      "airport",
+      "routes",
+      "block",
+      "airports",
+      "schedules"
+    ],
+    "prompt_length": 1654,
+    "category": "4806 transport policy"
+  }
+}

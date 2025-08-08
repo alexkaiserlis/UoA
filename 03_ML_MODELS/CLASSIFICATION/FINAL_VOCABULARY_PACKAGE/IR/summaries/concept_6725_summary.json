@@ -1,0 +1,63 @@
+{
+  "concept_id": "6725",
+  "concept_data": {
+    "title": "EU Treaty of Accession",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "EU Accession Treaty",
+    "relation_type": "USE"
+  },
+  "summary": "The \"EU Treaty of Accession,\" commonly referred to as the \"EU Accession Treaty,\" is a pivotal legal instrument that governs the accession of new member states to the European Union. This treaty comprises protocols that establish the jurisdiction of EU institutions, including the Court of Justice, and lay down rules for the allocation of rights and obligations among member states. It ensures that languages, such as Slovene, Estonian, Maltese, and Hungarian, are recognized in EU proceedings. The treaty also addresses energy policies under Euratom and sets the quorum for decision-making in various chambers. Each applicant state, including Cyprus, Latvia, and Lithuania, must adjust its statutes to align with EU law, ensuring a full integration into the Union's legal framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:51:13.928901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1726.3956043956043
+    },
+    "related_words": [
+      "quorum",
+      "sitting",
+      "slovene",
+      "judges",
+      "chamber",
+      "nice",
+      "estonian",
+      "maltese",
+      "latvian",
+      "lithuanian",
+      "languages",
+      "hungarian",
+      "grand",
+      "forming",
+      "institution",
+      "polish",
+      "jurisdiction",
+      "statute",
+      "comprising",
+      "language",
+      "instance",
+      "slovak",
+      "applicant",
+      "atomic",
+      "estonia",
+      "adjust",
+      "malta",
+      "slovenia",
+      "latvia",
+      "lithuania"
+    ],
+    "prompt_length": 1674,
+    "category": "1011 European Union law"
+  }
+}

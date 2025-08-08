@@ -1,0 +1,63 @@
+{
+  "concept_id": "5",
+  "concept_data": {
+    "title": "retailer",
+    "category_code": "2036",
+    "category_name": "distributive trades",
+    "category_full": "2036 distributive trades",
+    "is_redirect": true,
+    "preferred_term": "retail trade",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"retailer,\" a redirect to \"retail trade,\" encompasses entities engaged in the sale of goods directly to consumers. Retailers, including jewellers and watchmakers, embody a diverse range of businesses that distribute products, from personalised gifts to ornamental clocks. These salesmen operate within a framework that shields consumers, ensuring warranties and quality workmanship. The regulatory landscape facilitates the operations of resellers, who may deviate from traditional sales methods, such as doorstep selling or online platforms. Retailing practices are governed by laws that honour consumer rights, ensuring that brands maintain integrity across continents while promoting fair competition among dealers.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:25:06.918906",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 795,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 240,
+      "selected_avg_freq": 102.06
+    },
+    "related_words": [
+      "murat",
+      "viry",
+      "chatillon",
+      "latterly",
+      "jeweller",
+      "watchmaker",
+      "workmanship",
+      "watchmaking",
+      "forbade",
+      "interposed",
+      "facilitaties",
+      "shields",
+      "odyssefs",
+      "fokas",
+      "tours",
+      "ornaments",
+      "publishes",
+      "neets",
+      "clocks",
+      "reseller",
+      "gift",
+      "doorstep",
+      "deviates",
+      "retailing",
+      "personalised",
+      "posters",
+      "honour",
+      "watches",
+      "plated",
+      "continents"
+    ],
+    "prompt_length": 1676,
+    "category": "2036 distributive trades"
+  }
+}

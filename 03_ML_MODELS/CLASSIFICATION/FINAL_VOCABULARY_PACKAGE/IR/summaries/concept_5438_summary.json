@@ -1,0 +1,63 @@
+{
+  "concept_id": "5438",
+  "concept_data": {
+    "title": "England",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"England\" within EU legal and regulatory frameworks encompasses various aspects, including energy regulation and resource management. The Office of Gas and Electricity Markets (Ofgem) plays a crucial role in overseeing the unbundled operations of energy suppliers, ensuring compliance with the BETTA framework. In the context of natural gas, major companies like Statoil, Gazprom, and Sonatrach are involved in liquefied natural gas (LNG) production, which is critical for balancing supply and demand. The region's municipalities engage in prospection and exploring for resources, while regulators monitor the calorific value of piped gas. Issues such as scarcity, switching, and the expiration of contracts are determinants in the energy market, impacting the workings of generators and the overall portfolio of energy resources in England.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:58:27.446394",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 811,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 243,
+      "selected_avg_freq": 117.36
+    },
+    "related_words": [
+      "ofgem",
+      "betta",
+      "municpalities",
+      "hcv",
+      "piped",
+      "statoil",
+      "gazprom",
+      "sonatrach",
+      "unbundled",
+      "hourly",
+      "tso",
+      "calorific",
+      "majors",
+      "exxonmobil",
+      "renegotiating",
+      "substitutable",
+      "barrels",
+      "determinant",
+      "extracting",
+      "prospection",
+      "exploring",
+      "lng",
+      "dominated",
+      "vertically",
+      "contests",
+      "scarcity",
+      "stream",
+      "algerian",
+      "workings",
+      "precipitation"
+    ],
+    "prompt_length": 1678,
+    "category": "7206 Europe"
+  }
+}

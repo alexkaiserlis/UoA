@@ -1,0 +1,63 @@
+{
+  "concept_id": "2686",
+  "concept_data": {
+    "title": "delivered price",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"delivered price\" refers to the total cost of a product, including all expenses incurred until it reaches the buyer's location. In EU regulatory contexts, this concept is crucial for reconciling invoices and ensuring accuracy in accountancy practices. It reflects the prevailing market conditions and is often detailed in contracts and notifications. The delivered price can vary depending on several factors, including the origin of the product and the method of export. Regulatory frameworks may impose deadlines for invoicing and require reliable documentation to support sales. Improved practices in calculating this price can better inform stakeholders and enhance market transparency.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:02:44.714657",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 111,
+      "requested_words": 150,
+      "min_frequency_found": 53,
+      "max_frequency_found": 4108,
+      "selected_words": 111,
+      "selected_min_freq": 53,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1938.081081081081
+    },
+    "related_words": [
+      "reconcile",
+      "invoiced",
+      "invoices",
+      "accountancy",
+      "describe",
+      "restricting",
+      "factory",
+      "accuracy",
+      "prevailing",
+      "monthly",
+      "daily",
+      "survey",
+      "cmo",
+      "notifications",
+      "reliable",
+      "whilst",
+      "depending",
+      "licences",
+      "milk",
+      "source",
+      "definitive",
+      "sales",
+      "sources",
+      "contracts",
+      "difficult",
+      "relate",
+      "collected",
+      "improved",
+      "reflect",
+      "deadline"
+    ],
+    "prompt_length": 1670,
+    "category": "6806 industrial structures and policy"
+  }
+}

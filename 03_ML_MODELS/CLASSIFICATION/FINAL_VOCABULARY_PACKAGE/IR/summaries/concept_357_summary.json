@@ -1,0 +1,63 @@
+{
+  "concept_id": "357",
+  "concept_data": {
+    "title": "East Africa",
+    "category_code": "7221",
+    "category_name": "Africa",
+    "category_full": "7221 Africa",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"East Africa\" encompasses a region characterized by diverse ecological and socio-economic conditions, influencing EU legal and regulatory frameworks. Countries such as Kenya, Uganda, Tanzania, Mozambique, and Sudan are pivotal players in addressing endemic and epidemic challenges, including cholera caused by Vibrio cholerae. The EU actively engages in precautionary measures to mitigate contamination risks, appointing agents to monitor microbiological qualities of transported fruits and other goods. Regulatory frameworks may involve levies on imports to ensure equivalence with EU standards. The incidence of infectious diseases necessitates ongoing dialogue and contacts among member states to advise on health strategies, while fluctuations in agricultural outputs, such as millet, can impact trade policies.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:55:40.437161",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 274,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1423,
+      "selected_avg_freq": 633.3
+    },
+    "related_words": [
+      "ajello",
+      "survives",
+      "roeland",
+      "geer",
+      "bullrush",
+      "caf",
+      "cholerae",
+      "envoy",
+      "illness",
+      "vibrio",
+      "advises",
+      "cholera",
+      "millet",
+      "eusr",
+      "deviations",
+      "mozambique",
+      "lakes",
+      "uganda",
+      "tanzania",
+      "endemic",
+      "epidemic",
+      "van",
+      "players",
+      "fluctuation",
+      "kenya",
+      "sudan",
+      "precaution",
+      "microbiological",
+      "yellow",
+      "congo"
+    ],
+    "prompt_length": 1643,
+    "category": "7221 Africa"
+  }
+}

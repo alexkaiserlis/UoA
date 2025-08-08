@@ -1,0 +1,26 @@
+{
+  "concept_id": "4664",
+  "concept_data": {
+    "title": "instalment sale",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "credit sale",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"instalment sale,\" which redirects to the preferred term \"credit sale,\" refers to a transaction where the buyer acquires goods or services through a series of payments over time, rather than a single upfront payment. In the context of EU legal and regulatory frameworks, such arrangements are governed by consumer protection laws that ensure transparency and fairness in credit agreements. The regulations aim to safeguard consumers from excessive interest rates and hidden fees, promoting responsible lending practices. This concept is crucial for understanding consumer rights and obligations in credit transactions within the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:51.844616",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 96,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1195,
+    "category": "2031 marketing"
+  }
+}

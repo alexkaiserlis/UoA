@@ -1,0 +1,63 @@
+{
+  "concept_id": "2393",
+  "concept_data": {
+    "title": "development project",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": true,
+    "preferred_term": "development plan",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"development project,\" redirected to the preferred term \"development plan,\" encompasses initiatives aimed at enhancing economic dynamism and addressing specific regional difficulties. These plans often involve multimodal strategies for infrastructure, such as electrification and decongestion of landlocked areas. They may also include horticultural projects or aquaculture, such as catfish hatcheries and mussel farming, which are crucial for local economies. Furthermore, development plans are specified to ensure that resources are prefinanced and allocated effectively, allowing for the concomitant growth of various sectors. The success of these projects relies on thorough planning and the interaction of diverse stakeholders, ensuring that the benefits are equitably apportioned across regions like Burgundy and Hesse.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:09:20.206989",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 1642,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 55,
+      "selected_avg_freq": 29.013333333333332
+    },
+    "related_words": [
+      "caseine",
+      "catfish",
+      "electrification",
+      "horticultal",
+      "difficultires",
+      "transnationally",
+      "mainstay",
+      "thoroughbred",
+      "specfied",
+      "liberate",
+      "interland",
+      "decongestion",
+      "scapping",
+      "movereover",
+      "undoubted",
+      "develpment",
+      "ist",
+      "pfatz",
+      "limousin",
+      "esm",
+      "burgundy",
+      "ile",
+      "prefinanced",
+      "flanking",
+      "caseinate",
+      "sprint",
+      "multimodal",
+      "concerne",
+      "addentum",
+      "zonal"
+    ],
+    "prompt_length": 1715,
+    "category": "1606 economic policy"
+  }
+}

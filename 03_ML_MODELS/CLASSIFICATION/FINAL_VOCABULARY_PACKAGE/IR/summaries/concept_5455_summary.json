@@ -1,0 +1,63 @@
+{
+  "concept_id": "5455",
+  "concept_data": {
+    "title": "European Central Bank",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The European Central Bank (ECB) serves as a pivotal institution within the EU, primarily responsible for monetary policy and financial stability. It oversees the eurozone's monetary framework, addressing issues such as seigniorage and disintermediation. Notable figures, including Draghi and Trichet, have shaped its regulatory landscape. The ECB facilitates borderless transactions and interoperation among national central banks (NCCs), ensuring a coherent monetary policy. Its governance structure includes various officials, such as Benoît Coeuré and Mersch, who contribute to its strategic decisions. The ECB also engages in teleconferencing with stakeholders, addressing reputational concerns and ensuring compliance with EU regulations, thereby enhancing its role as a servant of the EU's economic stability.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:41:28.040829",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 2061,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 9.106666666666667
+    },
+    "related_words": [
+      "asmussen",
+      "lautenschläger",
+      "páramo",
+      "mersch",
+      "teleconferencing",
+      "bini",
+      "smaghi",
+      "benoît",
+      "coeuré",
+      "renumbering",
+      "epco",
+      "trichet",
+      "resolves",
+      "delocation",
+      "disintermediation",
+      "draghi",
+      "sabine",
+      "coverning",
+      "dpo",
+      "unrounded",
+      "dereliction",
+      "servant",
+      "coopers",
+      "lybrand",
+      "revisores",
+      "oficiais",
+      "contas",
+      "consultores",
+      "associados",
+      "sociedade"
+    ],
+    "prompt_length": 1715,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "538",
+  "concept_data": {
+    "title": "rights of the individual",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": true,
+    "preferred_term": "fundamental rights",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rights of the individual,\" redirected to \"fundamental rights,\" encompasses essential protections within EU legal frameworks. These rights legislate against discrimination based on gender, race, or xenophobia, ensuring that all individuals residing in EU member states are treated justifiably. The EU's commitment to democratisation is evident in its regulations, which promote privacy and the right to asylum. Institutions like the ombudsman oversee compliance, while thematic collections of data disclose trends in rights violations. The cabinet and provincial governors are tasked with consolidating efforts to combat intolerance and promote equal access to services, including healthcare and telecommunication.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:05:45.755639",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 626,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 471,
+      "selected_avg_freq": 216.52
+    },
+    "related_words": [
+      "cantonal",
+      "federally",
+      "interprovincial",
+      "canton",
+      "junta",
+      "transborder",
+      "legislate",
+      "democratisation",
+      "cantons",
+      "collections",
+      "arbitrarily",
+      "discloses",
+      "collects",
+      "governor",
+      "orientations",
+      "provincial",
+      "referendum",
+      "ombudsman",
+      "racism",
+      "xenophobia",
+      "intolerance",
+      "disclosures",
+      "hospitals",
+      "cabinet",
+      "unjustifiably",
+      "election",
+      "disguised",
+      "thematic",
+      "telecommunication",
+      "discriminate"
+    ],
+    "prompt_length": 1793,
+    "category": "1236 rights and freedoms"
+  }
+}

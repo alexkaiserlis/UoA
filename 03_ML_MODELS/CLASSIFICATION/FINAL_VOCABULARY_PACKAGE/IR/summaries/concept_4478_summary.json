@@ -1,0 +1,63 @@
+{
+  "concept_id": "4478",
+  "concept_data": {
+    "title": "translation",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory documents, \"translation\" encompasses the process of converting texts from one language to another, crucial for ensuring accessibility and compliance across member states. This process is particularly significant in the realm of patents, where accurate translations are necessary to avoid infringing on rights held by proprietors. The European Patent Convention (EPC) outlines requirements for translations, which must be handled with substantive care to prevent disputes. Automated translation engines may assist, but customarily, human translators are preferred to maintain faith in the accuracy of legal texts. The costs associated with translations can be costly, and delays may lead to damages or recalls of publications. Thus, the EU emphasizes the importance of high-quality translations to disseminate legal information effectively, ensuring that all parties, including SMEs and those domiciled in different jurisdictions, can navigate the complexities of EU law without lag.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:18:07.175436",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 145,
+    "vocabulary_stats": {
+      "total_related_words": 525,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 726,
+      "selected_avg_freq": 342.06
+    },
+    "related_words": [
+      "contrastive",
+      "acpm",
+      "eurotra",
+      "epo",
+      "infringer",
+      "epc",
+      "cgc",
+      "translating",
+      "domiciled",
+      "proprietor",
+      "unitary",
+      "patents",
+      "orientations",
+      "customarily",
+      "translations",
+      "pairs",
+      "sme",
+      "disseminate",
+      "lag",
+      "infringing",
+      "crest",
+      "reimbursements",
+      "publications",
+      "recalls",
+      "patent",
+      "damages",
+      "filed",
+      "faith",
+      "lapse",
+      "bureau"
+    ],
+    "prompt_length": 1675,
+    "category": "3231 information and information processing"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3880",
+  "concept_data": {
+    "title": "prefabrication",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Prefabrication refers to the construction process involving the manufacturing of building components in a factory setting, such as precast concrete, timber frames, and aerated blocks. This method allows for lightweight structures and the use of kits that simplify assembly on-site. EU regulations mandate specific specifications and certification processes to ensure the quality and safety of prefabricated materials, including fire resistance and structural integrity. The existence of attestation bodies ensures compliance with these onerous requirements. Prefabrication offers continuous possibilities for innovation in building design, incorporating organic materials and advanced technologies, thereby enhancing the efficiency and sustainability of construction practices across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:48:54.999864",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 158,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 3617,
+      "selected_avg_freq": 1615.4466666666667
+    },
+    "related_words": [
+      "precast",
+      "autoclaved",
+      "prefabricated",
+      "lightweight",
+      "log",
+      "kits",
+      "aerated",
+      "onerous",
+      "floor",
+      "beam",
+      "timber",
+      "mandates",
+      "block",
+      "attestation",
+      "attesting",
+      "fire",
+      "select",
+      "reaction",
+      "frame",
+      "incorporating",
+      "concrete",
+      "preference",
+      "organic",
+      "factory",
+      "family",
+      "manufacturer",
+      "detail",
+      "processes",
+      "corresponds",
+      "building"
+    ],
+    "prompt_length": 1700,
+    "category": "6831 building and public works"
+  }
+}

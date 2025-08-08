@@ -1,0 +1,63 @@
+{
+  "concept_id": "1854",
+  "concept_data": {
+    "title": "screening for illness",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "disease prevention",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"screening for illness,\" redirected to \"disease prevention,\" is pivotal in EU health regulations. It encompasses various methodologies, including intradermal tests and virologically based audits, to identify preventable diseases such as smallpox, diphtheria, and tularaemia. Effective screening strategies, like herdchek and phagetyping, are essential for managing invasions of diseases, ensuring seronegative status in populations. The EU's workplan emphasizes rigorous investigación and auditability in health systems, addressing issues like reinfestation and inbreeding in animal populations. Notoriously, sporadically occurring diseases require congruent preventive measures, supported by immunohistochemical and histopathological analyses, to enhance public health outcomes across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:16:30.788357",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 2960,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 11,
+      "selected_avg_freq": 7.6
+    },
+    "related_words": [
+      "priostrip",
+      "inpro",
+      "coulter",
+      "ewrs",
+      "investigación",
+      "cisa",
+      "valdeolmos",
+      "dsn",
+      "lia",
+      "idexx",
+      "herdchek",
+      "eia",
+      "bites",
+      "reinfestation",
+      "notoriously",
+      "inbreeding",
+      "pourquier",
+      "peripherical",
+      "workplan",
+      "intradermal",
+      "idanha",
+      "phagetyping",
+      "ahs",
+      "congruent",
+      "smallpox",
+      "tetanus",
+      "sporadically",
+      "diphtheria",
+      "tularaemia",
+      "salmonides"
+    ],
+    "prompt_length": 1737,
+    "category": "2841 health"
+  }
+}

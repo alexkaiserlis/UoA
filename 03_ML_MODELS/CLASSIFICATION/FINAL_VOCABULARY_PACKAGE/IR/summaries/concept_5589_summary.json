@@ -1,0 +1,63 @@
+{
+  "concept_id": "5589",
+  "concept_data": {
+    "title": "dissemination of European Union information",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": true,
+    "preferred_term": "dissemination of EU information",
+    "relation_type": "USE"
+  },
+  "summary": "The \"dissemination of EU information\" encompasses the systematic propagation of data and knowledge related to European Union activities, ensuring transparency and accessibility. This concept is enshrined in various legal frameworks, promoting the reusability of information through searchable portals like EurLex and EUDR. It involves the evaluation of content by evaluators and the uncoordinated efforts of lobbyists and civil society actors, including churches and philosophical organizations. The legitimacy of this dissemination is further supported by disclaimers and the enumeration of themes that reflect diverse contexts. By streamlining access to microdata and fostering open communication, the EU aims to engage citizens and stakeholders sincerely, thereby enhancing the overall governance framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:17:48.736135",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1046,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 188,
+      "selected_avg_freq": 79.43333333333334
+    },
+    "related_words": [
+      "disclaimers",
+      "antedate",
+      "untapped",
+      "eurlex",
+      "eudr",
+      "eureg",
+      "searchable",
+      "enshrines",
+      "lobbyists",
+      "singled",
+      "emn",
+      "churches",
+      "philosophical",
+      "confessional",
+      "aes",
+      "reusability",
+      "corpus",
+      "microdata",
+      "eurid",
+      "evaluators",
+      "uncoordinated",
+      "asbl",
+      "supervises",
+      "legitimacy",
+      "cabinets",
+      "sincere",
+      "posters",
+      "enumeration",
+      "enumerates",
+      "unambiguously"
+    ],
+    "prompt_length": 1780,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

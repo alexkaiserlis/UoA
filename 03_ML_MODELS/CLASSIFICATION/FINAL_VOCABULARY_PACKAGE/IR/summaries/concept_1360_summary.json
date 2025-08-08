@@ -1,0 +1,63 @@
+{
+  "concept_id": "1360",
+  "concept_data": {
+    "title": "food industry",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"food industry\" encompasses a broad spectrum of activities related to the production, processing, and distribution of agri-foodstuffs within the EU. Regulatory frameworks, such as those addressing the use of plasticisers and histomonostats, are crucial for ensuring food safety and quality. In regions like Wallonie, initiatives such as the SMLs and investments from the SRIW bolster local food production. The industry must navigate complex requisites, including compliance with standards for sauces and pestos. Moreover, the EU's commitment to sustainability is reflected in regulations that disallow harmful practices, thereby rescuing biodiversity and promoting personalised nutrition. This multifaceted sector undeniably transcends traditional boundaries, requiring continuous adaptation to evolving legal landscapes.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:18:12.416656",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 994,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 205,
+      "selected_avg_freq": 85.31333333333333
+    },
+    "related_words": [
+      "tournai",
+      "investissement",
+      "wallonie",
+      "sriw",
+      "smls",
+      "pestos",
+      "chupa",
+      "chups",
+      "minería",
+      "gaskets",
+      "lids",
+      "régionale",
+      "gad",
+      "simplifiée",
+      "requisites",
+      "nutriart",
+      "zigas",
+      "plasticisers",
+      "condemn",
+      "neets",
+      "simulants",
+      "disallow",
+      "sia",
+      "filtration",
+      "personalised",
+      "telexes",
+      "intervened",
+      "sprout",
+      "unquestionably",
+      "transcending"
+    ],
+    "prompt_length": 1681,
+    "category": "6031 agri-foodstuffs"
+  }
+}

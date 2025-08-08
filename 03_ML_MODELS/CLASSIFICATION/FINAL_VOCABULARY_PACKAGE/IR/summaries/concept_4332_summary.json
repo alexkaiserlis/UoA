@@ -1,0 +1,63 @@
+{
+  "concept_id": "4332",
+  "concept_data": {
+    "title": "withdrawal of employment",
+    "category_code": "4406",
+    "category_name": "employment",
+    "category_full": "4406 employment",
+    "is_redirect": true,
+    "preferred_term": "job cuts",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"withdrawal of employment,\" commonly equated with \"job cuts,\" pertains to the legal and regulatory framework governing redundancies within the EU. This term emanates from complex employer-employee relationships, particularly in cases of bankruptcies or significant organizational restructuring. EU directives stipulating the rights of workers during such terminations promote a balanced approach to employment security. Employers are required to inform affected workers and adhere to deadlines for redundancy notifications. The judicial consequences of non-compliance can include collective actions by workers, necessitating a careful transposition of EU law into national frameworks. Experts advocate for rationality in managing redundancies to alleviate the impact on living standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:20:29.827211",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 180,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3015,
+      "selected_avg_freq": 1376.8933333333334
+    },
+    "related_words": [
+      "equated",
+      "emanates",
+      "bankruptcies",
+      "redundancy",
+      "employer",
+      "strasbourg",
+      "stipulating",
+      "redundancies",
+      "employers",
+      "promoted",
+      "independently",
+      "afforded",
+      "informing",
+      "alleviate",
+      "heads",
+      "collective",
+      "complexity",
+      "judicial",
+      "convergence",
+      "charter",
+      "rationality",
+      "transposition",
+      "lines",
+      "calculate",
+      "termination",
+      "terminated",
+      "balanced",
+      "consolidated",
+      "stipulated",
+      "option"
+    ],
+    "prompt_length": 1766,
+    "category": "4406 employment"
+  }
+}

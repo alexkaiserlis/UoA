@@ -1,0 +1,63 @@
+{
+  "concept_id": "504",
+  "concept_data": {
+    "title": "double taxation",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Double taxation refers to the unintended taxation of the same income or profits by multiple jurisdictions, often arising from mismatches in tax regulations between countries. This phenomenon can lead to abusive tax practices, where taxpayers face severe financial burdens due to overlapping tax claims on dividends and profits derived from subsidiaries. The EU addresses double taxation through conventions and regulations that aim to eliminate or mitigate these issues, ensuring that taxpayers are not unfairly taxed. By advising on the advisability of specific tax structures and tackling evasion, the EU seeks to guarantee a fair taxation environment, assisting corporations in maximizing their profits while maintaining compliance.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:23:53.663655",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 349,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 953,
+      "selected_avg_freq": 498.81333333333333
+    },
+    "related_words": [
+      "mismatches",
+      "taxpayer",
+      "abusive",
+      "informally",
+      "abused",
+      "helpful",
+      "distributions",
+      "taxpayers",
+      "unintended",
+      "dividends",
+      "deductible",
+      "advising",
+      "arbitration",
+      "maximise",
+      "tackling",
+      "withholding",
+      "exempts",
+      "eliminates",
+      "specificities",
+      "advisability",
+      "tackle",
+      "genuinely",
+      "misuse",
+      "rome",
+      "severity",
+      "advise",
+      "evasion",
+      "assisting",
+      "arises",
+      "reality"
+    ],
+    "prompt_length": 1693,
+    "category": "2446 taxation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2270",
+  "concept_data": {
+    "title": "social participation",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Social participation is a crucial concept within EU social affairs, encompassing the systematic engagement of individuals in societal functions and decision-making processes. It promotes solidarity and integration across generations, facilitating dialogue among stakeholders, including friends, relatives, and neighbours. The concept relates to various fields, such as poverty alleviation and cultural inclusion, targeting the exclusion of marginalized groups. By assuming a consultative role, social participation fosters timely representation and broad engagement, ensuring that diverse voices are heard. Regulatory frameworks often include longitudinal studies, such as those by SILC, to assess the impact of social participation on living conditions and income variables, thereby enhancing the overall function of society.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:47:50.973888",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 162,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 3511,
+      "selected_avg_freq": 1556.2333333333333
+    },
+    "related_words": [
+      "friends",
+      "relatives",
+      "neighbours",
+      "cariforum",
+      "silc",
+      "longitudinal",
+      "sectional",
+      "generations",
+      "informal",
+      "convened",
+      "encompassing",
+      "organising",
+      "module",
+      "assuming",
+      "ageing",
+      "variables",
+      "poverty",
+      "freedoms",
+      "willingness",
+      "solidarity",
+      "consultative",
+      "dialogue",
+      "secondary",
+      "variable",
+      "broad",
+      "secretariat",
+      "representation",
+      "systematic",
+      "stakeholders",
+      "cultural"
+    ],
+    "prompt_length": 1709,
+    "category": "2826 social affairs"
+  }
+}

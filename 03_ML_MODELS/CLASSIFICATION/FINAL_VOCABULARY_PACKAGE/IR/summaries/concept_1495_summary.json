@@ -1,0 +1,63 @@
+{
+  "concept_id": "1495",
+  "concept_data": {
+    "title": "private investment",
+    "category_code": "2426",
+    "category_name": "financing and investment",
+    "category_full": "2426 financing and investment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Private investment refers to the allocation of capital by private entities, often in the context of financing and investment frameworks established by EU regulations. This concept is crucial for ensuring solvency and addressing liabilities, particularly in sectors like pensions and insurance. The EU has drafted templates for private investment strategies that accommodate stakeholder interests while promoting prudential oversight. Regulatory bodies, such as EIOPA, analyse private investment's impact on occupational pensions and retirement funds, ensuring comparability and transparency. As the market evolves, private investment must harmonise with EU competences to avoid disproportionate risks, particularly concerning carbon emissions and environmental targets.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:55:02.001353",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 233,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1821,
+      "selected_avg_freq": 898.3533333333334
+    },
+    "related_words": [
+      "ineffectual",
+      "liablilities",
+      "eiopa",
+      "overtaken",
+      "accommodated",
+      "availed",
+      "template",
+      "solvency",
+      "uneven",
+      "insolvency",
+      "centralised",
+      "pension",
+      "prudential",
+      "transmitting",
+      "retirement",
+      "stakeholder",
+      "pensions",
+      "trust",
+      "shortly",
+      "exhaustive",
+      "occupational",
+      "save",
+      "dioxide",
+      "fairly",
+      "website",
+      "ease",
+      "carbon",
+      "choose",
+      "competences",
+      "drafted"
+    ],
+    "prompt_length": 1717,
+    "category": "2426 financing and investment"
+  }
+}

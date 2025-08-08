@@ -1,0 +1,63 @@
+{
+  "concept_id": "2041",
+  "concept_data": {
+    "title": "maritime shipping",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Maritime shipping, a crucial aspect of the EU's maritime and inland waterway transport framework, encompasses various regulatory elements governing seafarers, navigational safety, and environmental compliance. Key competencies for mariners are established through structured syllabi and revalidation processes, ensuring that crews are adequately trained. The role of the coastguard is vital in enforcing compliance with maritime laws, including those related to lifeboat safety and radionavigation systems like LORAN and DECCA. Additionally, simulators are employed for training navigators, enhancing their skills in handling unfortunate situations at sea. The EU also recognizes the importance of aggregations of maritime data for improving operational efficiencies and safety standards, thereby entitling operators to procure advanced technologies. Overall, maritime shipping regulations aim to enhance safety, efficiency, and environmental sustainability across EU waters.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:41:40.787343",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 947,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 140,
+      "selected_avg_freq": 58.473333333333336
+    },
+    "related_words": [
+      "raytheon",
+      "mariner",
+      "pathfinder",
+      "seafarer",
+      "syllabi",
+      "batumi",
+      "lifeboat",
+      "radionavigation",
+      "chayka",
+      "decca",
+      "loran",
+      "lighthouse",
+      "formatted",
+      "reallocates",
+      "mate",
+      "stuurman",
+      "kleine",
+      "handelsvaart",
+      "aanvulling",
+      "coaster",
+      "motordrijver",
+      "unfortunate",
+      "recognitions",
+      "procured",
+      "navigator",
+      "simulators",
+      "kilowatt",
+      "coastguard",
+      "competency",
+      "engineer"
+    ],
+    "prompt_length": 1731,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1512",
+  "concept_data": {
+    "title": "insulator",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"insulator\" is classified under the EU legal and regulatory framework as a specific category within chemistry, particularly relevant to the trade of goods. It is described in the customs nomenclature, where it is essential for the binding classification of products. The relevant authorities issue rules that provide a uniform interpretation of insulators, ensuring that they are correctly classified in the tariff tables. This classification is vital for statistical purposes and trade regulations, as it adds clarity to the functioning of the market. Pursuant to established guidelines, the holder of goods must apply these rules within the specified period, continuing compliance with the annexed regulations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:07:26.768266",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 85,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 85,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2407.670588235294
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "classification",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "statistical",
+      "code",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods",
+      "months",
+      "reasons",
+      "continue",
+      "three",
+      "adopt"
+    ],
+    "prompt_length": 1642,
+    "category": "6811 chemistry"
+  }
+}

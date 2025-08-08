@@ -1,0 +1,63 @@
+{
+  "concept_id": "2111",
+  "concept_data": {
+    "title": "Indian Ocean Region",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "Indian Ocean",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Indian Ocean Region,\" redirected to the preferred term \"Indian Ocean,\" encompasses vital waters for fisheries management and conservation within EU legal frameworks. This region is crucial for the exploitation of migratory species, such as albacore and swordfish, necessitating rational management practices. The Indian Ocean Tuna Commission (IOTC) plays a pivotal role in regulating fishing fleets, setting limitations on catch tonnage, and ensuring the conservation of tuna stocks. EU regulations emphasize cooperation among member states and fishing organizations to strengthen biological conservation efforts. Through active participation in meetings, stakeholders engage in managing fishing patterns and opportunities, thereby fostering sustainable practices in these tropical waters.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:26:06.639574",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 149,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 149,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1613.2080536912752
+    },
+    "related_words": [
+      "iotc",
+      "albacore",
+      "culminated",
+      "swordfish",
+      "conserving",
+      "tunas",
+      "conserve",
+      "migratory",
+      "tropical",
+      "indian",
+      "ocean",
+      "fishermen",
+      "tonnage",
+      "participated",
+      "tuna",
+      "catch",
+      "fleet",
+      "historical",
+      "rational",
+      "accede",
+      "limitations",
+      "biological",
+      "contractual",
+      "manage",
+      "exploitation",
+      "managing",
+      "conservation",
+      "gross",
+      "patterns",
+      "waters"
+    ],
+    "prompt_length": 1706,
+    "category": "5211 natural environment"
+  }
+}

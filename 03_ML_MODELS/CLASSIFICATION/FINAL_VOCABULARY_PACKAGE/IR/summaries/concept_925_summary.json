@@ -1,0 +1,63 @@
+{
+  "concept_id": "925",
+  "concept_data": {
+    "title": "examination",
+    "category_code": "3216",
+    "category_name": "organisation of teaching",
+    "category_full": "3216 organisation of teaching",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"examination\" refers to the structured assessment of candidates' abilities and qualifications within various educational and vocational settings. This process is essential for ensuring that drivers, particularly those operating hybrid and electric vehicles, are equipped with the necessary skills to navigate increasingly heterogeneous and technically demanding environments. Examinations aim to minimise risks associated with dangerous driving and polluting vehicles, thereby promoting safer modes of transport. Additionally, advisers play a crucial role in guiding candidates through the examination process, ensuring that they understand the contents and entitlements associated with their qualifications, ultimately fostering a more environmentally friendly and efficient transportation system.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:49:46.548571",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 267,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 1460,
+      "selected_avg_freq": 660.22
+    },
+    "related_words": [
+      "overloaded",
+      "adviser",
+      "leisure",
+      "abilities",
+      "advisers",
+      "motorcycles",
+      "heterogeneous",
+      "utility",
+      "polluting",
+      "accommodation",
+      "drive",
+      "safer",
+      "drivers",
+      "fighting",
+      "subjects",
+      "unloading",
+      "hybrid",
+      "waterway",
+      "friendly",
+      "entitlements",
+      "driving",
+      "safely",
+      "modes",
+      "dedicated",
+      "driver",
+      "fire",
+      "qualification",
+      "environmentally",
+      "skills",
+      "candidates"
+    ],
+    "prompt_length": 1672,
+    "category": "3216 organisation of teaching"
+  }
+}

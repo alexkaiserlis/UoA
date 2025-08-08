@@ -1,0 +1,63 @@
+{
+  "concept_id": "260",
+  "concept_data": {
+    "title": "watercourse",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"watercourse\" encompasses various aquatic systems, including rivers, tributaries, and estuaries, which serve as critical habitats for diverse species, such as juvenile eels. The management of these watercourses involves addressing issues like pollution from identified polluters and ensuring the maintenance of fairways and locks to facilitate navigation. Legal frameworks often require the rectifying of habitats affected by debris and blocking, while promoting the stocking of fish populations to support spawning. Additionally, riparian liaisons play a vital role in managing drainage basins and lagoons, ensuring the ecological integrity of these vital water bodies across member states, including the Danube and Elbe rivers.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:06.352981",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 467,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 637,
+      "selected_avg_freq": 248.64
+    },
+    "related_words": [
+      "fairway",
+      "ordnance",
+      "preented",
+      "tributaries",
+      "sargasso",
+      "riparian",
+      "liaisons",
+      "unexploded",
+      "wroclaw",
+      "magdeburg",
+      "locks",
+      "debris",
+      "sporadic",
+      "stocked",
+      "estuaries",
+      "elbe",
+      "sofia",
+      "oder",
+      "blocking",
+      "lagoons",
+      "basins",
+      "slovene",
+      "recruit",
+      "spheres",
+      "budapest",
+      "polluter",
+      "belgrade",
+      "spawning",
+      "danube",
+      "rivers"
+    ],
+    "prompt_length": 1642,
+    "category": "5211 natural environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3262",
+  "concept_data": {
+    "title": "tax inspection",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Tax inspection refers to the regulatory process whereby tax authorities assess the compliance of taxable entities, such as businesses and enterprises, with applicable tax laws. In the EU context, this process often involves the examination of VAT records, turnover, and other financial documentation to ensure that taxes are collected accurately and that exemptions are applied correctly. Smaller businesses may be subject to different thresholds and derogations, allowing for reduced compliance burdens. Tax inspections can result in letters authorising further action or adjustments, impacting the overall tax scheme. The secretariat plays a role in coordinating these inspections, ensuring that resources are efficiently allocated across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:05:10.111901",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 110,
+      "requested_words": 150,
+      "min_frequency_found": 111,
+      "max_frequency_found": 4108,
+      "selected_words": 110,
+      "selected_min_freq": 111,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1844.090909090909
+    },
+    "related_words": [
+      "opt",
+      "taxable",
+      "accruing",
+      "chapters",
+      "vat",
+      "businesses",
+      "secretariat",
+      "negligible",
+      "turnover",
+      "smaller",
+      "currency",
+      "exempt",
+      "threshold",
+      "whilst",
+      "release",
+      "resulted",
+      "tax",
+      "enterprises",
+      "derogating",
+      "collected",
+      "letters",
+      "authorising",
+      "romania",
+      "consider",
+      "conversion",
+      "eur",
+      "registered",
+      "title",
+      "introduce",
+      "regular"
+    ],
+    "prompt_length": 1641,
+    "category": "2446 taxation"
+  }
+}

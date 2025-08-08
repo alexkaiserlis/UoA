@@ -1,0 +1,63 @@
+{
+  "concept_id": "1873",
+  "concept_data": {
+    "title": "Autonomous Community of Andalusia",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Andalusia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Autonomous Community of Andalusia,\" commonly referred to as \"Andalusia,\" is a significant region within the EU, known for its rich agricultural heritage and diverse foodstuffs. This region is delimited by various provinces, including Cádiz and Antequera, and is renowned for its exceptional products like jamón and olive oils, which have received Protected Designation of Origin (PDO) and Protected Geographical Indication (PGI) status. The regulatory framework governing these designations ensures that Andalusian products meet strict specifications, thereby protecting their unique characteristics. Additionally, the region's agricultural practices are subject to sanitary regulations to prevent outbreaks of diseases, ensuring high yields and maintaining the homogenous quality of its produce.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:45:35.616171",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 150,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1709.34
+    },
+    "related_words": [
+      "serón",
+      "antequera",
+      "caballa",
+      "melva",
+      "zaragoza",
+      "jamón",
+      "andalucía",
+      "cádiz",
+      "delimiting",
+      "delimited",
+      "sierra",
+      "stopping",
+      "homogenous",
+      "homogeneous",
+      "pdo",
+      "pgi",
+      "classical",
+      "sanitary",
+      "yields",
+      "fever",
+      "opposition",
+      "province",
+      "outbreak",
+      "olive",
+      "pigmeat",
+      "designations",
+      "swine",
+      "fats",
+      "specification",
+      "objection"
+    ],
+    "prompt_length": 1721,
+    "category": "7211 regions of EU Member States"
+  }
+}

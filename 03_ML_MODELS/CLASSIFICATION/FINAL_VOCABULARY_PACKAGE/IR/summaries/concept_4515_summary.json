@@ -1,0 +1,63 @@
+{
+  "concept_id": "4515",
+  "concept_data": {
+    "title": "transport by inland waterway",
+    "category_code": "4821",
+    "category_name": "maritime and inland waterway transport",
+    "category_full": "4821 maritime and inland waterway transport",
+    "is_redirect": true,
+    "preferred_term": "inland waterway transport",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"inland waterway transport,\" a preferred term under the category of maritime and inland waterway transport, encompasses the navigation of navigable waterways by vessels such as barges and pushers. This mode of transport is pivotal for shippers, as it offers a fluidity that can alleviate congestion in railways and road haulage. EU regulations aim to foster the normalisation of practices among boatmasters and advisers, ensuring compliance with navigability standards. By delimiting routes and promoting sustainable tonnages, the EU seeks to enhance the efficiency of this transport mode, thereby conserving resources and addressing the worrying issues of saturation and illegality in transiting goods.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:14.384710",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 995,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 238,
+      "selected_avg_freq": 115.38
+    },
+    "related_words": [
+      "possessors",
+      "sail",
+      "navigate",
+      "illegality",
+      "undoing",
+      "navigable",
+      "navigability",
+      "normalisation",
+      "pusher",
+      "pretext",
+      "ordinate",
+      "adviser",
+      "shippers",
+      "boatmasters",
+      "chartering",
+      "conveniently",
+      "exposes",
+      "synchronized",
+      "saturation",
+      "knowing",
+      "radar",
+      "advisers",
+      "fostered",
+      "delimiting",
+      "diverging",
+      "sailing",
+      "tonnages",
+      "halved",
+      "embarked",
+      "dispersed"
+    ],
+    "prompt_length": 1766,
+    "category": "4821 maritime and inland waterway transport"
+  }
+}

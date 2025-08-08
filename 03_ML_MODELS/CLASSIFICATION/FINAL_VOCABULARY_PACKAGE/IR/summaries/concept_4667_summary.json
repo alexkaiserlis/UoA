@@ -1,0 +1,63 @@
+{
+  "concept_id": "4667",
+  "concept_data": {
+    "title": "reduced-price sale",
+    "category_code": "2031",
+    "category_name": "marketing",
+    "category_full": "2031 marketing",
+    "is_redirect": true,
+    "preferred_term": "discount sale",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reduced-price sale,\" also referred to as \"discount sale,\" pertains to the marketing regulations within the EU framework. This practice is subject to stringent regulations to ensure that consumers are not misled by deceptive pricing. The legal confines dictate that any discount must be clearly communicated, with legible wordings on promotional materials, such as preprinted wrappers or vouchers. The reconstitution of pricing strategies must contemplate the quality of goods, including milkproducts and butterfat, to avoid depreciated perceptions. Additionally, sanctioning for non-compliance can include prosecuting entities that attempt to manipulate prices. Thus, adherence to these regulations is indispensable for maintaining consumer trust in euromarkets.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:15:25.461764",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1285,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 160,
+      "selected_avg_freq": 71.75333333333333
+    },
+    "related_words": [
+      "creamy",
+      "increas",
+      "regulaon",
+      "stingent",
+      "behelf",
+      "milkproducts",
+      "inflexibility",
+      "preprinted",
+      "ibor",
+      "arpil",
+      "qualtiy",
+      "wordings",
+      "immobilized",
+      "prosecute",
+      "tot",
+      "reconstitution",
+      "armies",
+      "sitosterol",
+      "wrappers",
+      "butterfat",
+      "tracers",
+      "euromarkets",
+      "confines",
+      "stigmasterol",
+      "formulas",
+      "euribor",
+      "reglation",
+      "indispensible",
+      "contemplate",
+      "fide"
+    ],
+    "prompt_length": 1712,
+    "category": "2031 marketing"
+  }
+}

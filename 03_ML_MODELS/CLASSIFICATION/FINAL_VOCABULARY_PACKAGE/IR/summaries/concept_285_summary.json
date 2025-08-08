@@ -1,0 +1,63 @@
+{
+  "concept_id": "285",
+  "concept_data": {
+    "title": "credit system",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "credit",
+    "relation_type": "USE"
+  },
+  "summary": "The \"credit system,\" as a redirect to the preferred term \"credit,\" encompasses the regulatory framework governing financial institutions and credit operations within the EU. This system is designed to ensure the soundness of monetary flows, facilitating drawdowns and appropriations for various economic activities. It accentuates countercyclical measures to stabilize markets, particularly during periods of financial distress. The framework includes provisions for securitisation, allowing for the pooling of assets and the injection of liquidity into the market. Obligors, including microfinance institutions (MFI), must adhere to strict regulations to maintain solvency and avoid bankrupt scenarios. Additionally, the system addresses the materiality of financial transactions, ensuring that all parties, including returnees and delegates, are treated fairly in renegotiations of credit terms. Overall, the credit system is pivotal in fostering a pragmatic approach to financial stability across EU subregions, inspiring confidence among investors and consumers alike.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:06.405317",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 142,
+    "vocabulary_stats": {
+      "total_related_words": 853,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 263,
+      "selected_avg_freq": 99.96
+    },
+    "related_words": [
+      "drawdown",
+      "countercyclical",
+      "centros",
+      "überseering",
+      "sevic",
+      "cartesio",
+      "ciu",
+      "appopriations",
+      "whereupon",
+      "genval",
+      "housepainters",
+      "wallpaper",
+      "unremitting",
+      "pinpoints",
+      "accentuating",
+      "obligor",
+      "mfi",
+      "petition",
+      "monies",
+      "subregion",
+      "nivelles",
+      "appropriation",
+      "condominium",
+      "returnees",
+      "soundness",
+      "securitisation",
+      "injected",
+      "delegates",
+      "programmable",
+      "uncultivated"
+    ],
+    "prompt_length": 1766,
+    "category": "2416 financial institutions and credit"
+  }
+}

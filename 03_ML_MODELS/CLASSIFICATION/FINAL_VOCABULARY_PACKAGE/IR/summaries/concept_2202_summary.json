@@ -1,0 +1,63 @@
+{
+  "concept_id": "2202",
+  "concept_data": {
+    "title": "Organization of African Unity",
+    "category_code": "7616",
+    "category_name": "extra-European organisations",
+    "category_full": "7616 extra-European organisations",
+    "is_redirect": true,
+    "preferred_term": "African Union",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Organization of African Unity,\" now referred to as the \"African Union,\" plays a crucial role in the context of EU legal and regulatory frameworks, particularly concerning foreign affairs and peace missions. The EU supports the African Union's efforts in regions like Darfur and Somalia, where missions such as UNAMID and AMIS have been deployed to intervene in deteriorating situations. The EU's Common Foreign and Security Policy (CFSP) often aligns with the African Union's mandates, appointing civilian and military components to support peace and stability. Timely interventions are essential to prevent harm and impede the escalation of conflicts in nations like Burundi and Sudan, ensuring the continuation of political transitions and the achievement of lasting peace.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:42:06.491235",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 143,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 143,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1607.2447552447552
+    },
+    "related_words": [
+      "quince",
+      "gary",
+      "koen",
+      "vervaeke",
+      "unamid",
+      "amis",
+      "toa",
+      "timeframes",
+      "burundi",
+      "darfur",
+      "eusr",
+      "somalia",
+      "unsc",
+      "civilian",
+      "hybrid",
+      "intervene",
+      "sudan",
+      "peace",
+      "deteriorate",
+      "harm",
+      "impede",
+      "missions",
+      "decides",
+      "undermine",
+      "appointing",
+      "military",
+      "closed",
+      "terminated",
+      "mission",
+      "cfsp"
+    ],
+    "prompt_length": 1696,
+    "category": "7616 extra-European organisations"
+  }
+}

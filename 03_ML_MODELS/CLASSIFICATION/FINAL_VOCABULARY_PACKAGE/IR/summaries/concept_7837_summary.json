@@ -1,0 +1,63 @@
+{
+  "concept_id": "7837",
+  "concept_data": {
+    "title": "Bansk? Bystrica region",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Banská Bystrica region\" is a designated area within Slovakia, recognized in EU legal and regulatory frameworks. It plays a crucial role in the implementation of agricultural schemes, particularly concerning the quality of foodstuffs. The region's products may receive geographical indications, which are protected under EU regulations. As per the Council and Parliament's regulations, applications for such designations must be published in the official journal, with statements regarding their origin and quality entered into the register. The functioning of these systems is governed by treaties and implementing regulations, ensuring that products from Banská Bystrica meet the necessary standards for entry into the European Union market.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:54:41.115521",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 37,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 37,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1904.1081081081081
+    },
+    "related_words": [
+      "klenovecký",
+      "syrec",
+      "pgi",
+      "opposition",
+      "designations",
+      "slovakia",
+      "indications",
+      "protected",
+      "foodstuffs",
+      "entering",
+      "register",
+      "statement",
+      "name",
+      "geographical",
+      "schemes",
+      "origin",
+      "published",
+      "entered",
+      "quality",
+      "received",
+      "agricultural",
+      "products",
+      "implementing",
+      "functioning",
+      "january",
+      "pursuant",
+      "november",
+      "application",
+      "parliament",
+      "journal"
+    ],
+    "prompt_length": 1578,
+    "category": "7211 regions of EU Member States"
+  }
+}

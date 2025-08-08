@@ -1,0 +1,63 @@
+{
+  "concept_id": "431",
+  "concept_data": {
+    "title": "regional development",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Regional development within the EU framework refers to policies aimed at enhancing the economic and social conditions of various regions, such as the kreisfreie areas and stadt districts. This concept necessitates the participation of local authorities and stakeholders to ensure effective contribution to regional economic structures. The EU provides guidange through rahmenpläne that address specific needs, such as improving the wirtschaftsstruktur in areas like Clwyd and Grevena. Innovative strategies, including teleworking and the development of arbeitsmarktregionen, are encouraged to foster regional growth. Consequently, the implementation of these policies aims to achieve a balanced and sustainable development across inhabited regions, including those in Örebro and Götaland.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:15:59.382237",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1758,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 19,
+      "selected_avg_freq": 8.793333333333333
+    },
+    "related_words": [
+      "certin",
+      "clwyd",
+      "kreisfreie",
+      "stadt",
+      "intervais",
+      "particpation",
+      "guidange",
+      "contibution",
+      "autun",
+      "charleville",
+      "mézières",
+      "sedan",
+      "corop",
+      "gebieden",
+      "ijmond",
+      "kop",
+      "trasimeno",
+      "teleworking",
+      "rahmenplan",
+      "gemeinschaftsaufgabe",
+      "verbesserung",
+      "regionalen",
+      "wirtschaftsstruktur",
+      "rahmenpläne",
+      "teleworker",
+      "necessiatate",
+      "abusively",
+      "consenquently",
+      "spends",
+      "innovativeness"
+    ],
+    "prompt_length": 1749,
+    "category": "1616 regions and regional policy"
+  }
+}

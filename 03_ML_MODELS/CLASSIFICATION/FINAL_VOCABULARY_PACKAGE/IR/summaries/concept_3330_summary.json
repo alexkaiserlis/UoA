@@ -1,0 +1,63 @@
+{
+  "concept_id": "3330",
+  "concept_data": {
+    "title": "voluntary work",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Voluntary work\" within the EU context refers to the engagement of volunteers in various initiatives aimed at fostering solidarity and addressing social inequalities. This concept emphasizes the importance of volunteering across all ages, promoting intergenerational cooperation and citizenship. The EU recognises the role of volunteers in enhancing democracy and social cohesion, particularly through transnational projects that facilitate mobility and learning. By supporting informal and formal volunteering, the EU aims to develop crucial competences and skills, empowering both men and women. The founding of initiatives like the European Year of Volunteering highlights the motivation to engage citizens in rich, meaningful activities that complement societal needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:59:57.770150",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 275,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 1096,
+      "selected_avg_freq": 488.3333333333333
+    },
+    "related_words": [
+      "volunteering",
+      "volunteers",
+      "volunteer",
+      "founding",
+      "intergenerational",
+      "announce",
+      "motivation",
+      "citizenship",
+      "ages",
+      "anniversary",
+      "leadership",
+      "inequalities",
+      "lifelong",
+      "particularities",
+      "foundations",
+      "rich",
+      "informal",
+      "youth",
+      "peer",
+      "realised",
+      "complements",
+      "gender",
+      "societies",
+      "intergovernmental",
+      "tenth",
+      "learning",
+      "envelope",
+      "fostering",
+      "transnational",
+      "democracy"
+    ],
+    "prompt_length": 1700,
+    "category": "2826 social affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5235",
+  "concept_data": {
+    "title": "technical standard",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, a \"technical standard\" refers to a set of criteria that ensure the interoperability and safety of products and services across the single market. These standards are often developed through permissive directives, allowing for evolutions in technology while maintaining thoroughness in compliance. For instance, technical standards may address watertight claddings in construction or the manoeuvrability of vehicles, ensuring they meet specific requirements. The manifestation of these standards can be seen in massmarket applications, where unsynchronised technologies must adhere to established norms. This regulatory approach facilitates innovation while safeguarding public interests, exemplified by standards in pediatrics and other specialized fields.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:07:18.883553",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 4140,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.226666666666667
+    },
+    "related_words": [
+      "trawled",
+      "meshes",
+      "massmarket",
+      "permissive",
+      "evolutions",
+      "diective",
+      "manoeuvrability",
+      "claddings",
+      "pleven",
+      "gabrovo",
+      "veliko",
+      "russe",
+      "turgovishte",
+      "silistra",
+      "triavna",
+      "pazardjik",
+      "smolyan",
+      "kurdzhaly",
+      "stara",
+      "zagora",
+      "rspg",
+      "fdd",
+      "unsynchronised",
+      "bems",
+      "nomadic",
+      "bwa",
+      "raster",
+      "presses",
+      "revolution",
+      "watertight"
+    ],
+    "prompt_length": 1686,
+    "category": "6411 technology and technical regulations"
+  }
+}

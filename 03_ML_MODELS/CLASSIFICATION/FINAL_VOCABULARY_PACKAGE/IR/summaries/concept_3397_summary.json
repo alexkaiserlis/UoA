@@ -1,0 +1,63 @@
+{
+  "concept_id": "3397",
+  "concept_data": {
+    "title": "North West (England)",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept \"North West (England)\" pertains to a specific region within the EU's regulatory frameworks, encompassing areas such as Cheshire, Merseyside, Lancashire, Cumbria, and Manchester. It is significant in the context of European Structural Funds (ESF) and the European Regional Development Fund (ERDF), which aim to address regional disparities. The programming of allocations in this area foresees additionality in funding through indexed loans from the European Investment Bank (EIB). Statutory frameworks guide the breakdown of appropriations, ensuring that recipients satisfy eligibility criteria. The region's economic readiness is assessed through various indicators, including inflation patterns and declining trends, to adopt effective lending packages that fulfill EU objectives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:47:14.330954",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 344,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1208,
+      "selected_avg_freq": 701.28
+    },
+    "related_words": [
+      "cheshire",
+      "merseyside",
+      "lancashire",
+      "cumbria",
+      "manchester",
+      "rechar",
+      "additionality",
+      "indexed",
+      "england",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "com",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "declining",
+      "inflation",
+      "packages",
+      "adopts",
+      "perspective",
+      "foresees",
+      "statutory",
+      "west",
+      "loan"
+    ],
+    "prompt_length": 1663,
+    "category": "7206 Europe"
+  }
+}

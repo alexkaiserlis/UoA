@@ -1,0 +1,63 @@
+{
+  "concept_id": "927",
+  "concept_data": {
+    "title": "exclusion from treatment (EU)",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"exclusion from treatment\" in EU trade policy pertains to the strictest regulations governing the sourcing and classification of goods under the Generalized Scheme of Preferences (GSP). This exclusion typically applies to products that do not conform to established standards, such as those related to purity and provenance. For instance, certain horticulture items, like apples and pears, may face exclusion if they exhibit genetic modifications or fail to meet quality criteria. Additionally, the avoidance of tax through evasion or misclassification can lead to significant shortfalls in revenue. Thus, the regulatory framework aims to ensure that all movable goods, including butteroil and whey, are uniformly assessed and that any ministerial decisions regarding exclusions are made with the utmost diligence, mutatis mutandis, to uphold trade integrity.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:55:20.670900",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 463,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 13,
+      "selected_max_freq": 830,
+      "selected_avg_freq": 414.68666666666667
+    },
+    "related_words": [
+      "unmodified",
+      "montserrat",
+      "movable",
+      "splitting",
+      "dessert",
+      "strictest",
+      "butteroil",
+      "whey",
+      "sourcing",
+      "voted",
+      "cables",
+      "carrots",
+      "apple",
+      "connections",
+      "bean",
+      "tangible",
+      "gsp",
+      "colouring",
+      "wire",
+      "prospect",
+      "provenance",
+      "shortfall",
+      "typically",
+      "inward",
+      "reproductive",
+      "evasion",
+      "conforms",
+      "pears",
+      "forest",
+      "ancillary"
+    ],
+    "prompt_length": 1667,
+    "category": "2006 trade policy"
+  }
+}

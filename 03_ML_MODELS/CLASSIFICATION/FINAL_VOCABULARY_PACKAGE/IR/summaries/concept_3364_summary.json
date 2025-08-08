@@ -1,0 +1,26 @@
+{
+  "concept_id": "3364",
+  "concept_data": {
+    "title": "health card",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"health card\" is a crucial instrument within the European Union's regulatory framework, facilitating access to healthcare services across member states. It embodies the principles of cross-border healthcare, ensuring that individuals can receive medical treatment while traveling or residing in another EU country. The health card serves as proof of entitlement to necessary healthcare, streamlining administrative processes and enhancing patient mobility. It is integral to the implementation of EU regulations on social security coordination, promoting equitable access to health services. This concept underscores the EU's commitment to safeguarding public health and fostering cooperation among member states in healthcare delivery.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:25.786625",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1157,
+    "category": "2841 health"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3809",
+  "concept_data": {
+    "title": "chemical element",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"chemical element\" is pivotal in EU legal and regulatory frameworks, particularly in the fields of electrochemistry and electrometallurgy. Chemical elements, such as uranium, are often subject to stringent regulations due to their potential environmental impact and safety concerns. The Commission's guidelines distinguish between various elements, ensuring that practices like redistillation and electrolysis are conducted safely. Regulatory bodies aim to prevent undercutting and erosion of standards, providing reliefs for compliant sellers. The disappearance of certain elements from the market can jeopardize supply chains, prompting defensive measures. Overall, the regulation of chemical elements is crucial for maintaining steady industrial practices and protecting public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:00:51.814687",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 490,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 504,
+      "selected_avg_freq": 203.14666666666668
+    },
+    "related_words": [
+      "electrometallurgy",
+      "électrométallurgie",
+      "électrochimie",
+      "péchiney",
+      "extramet",
+      "quigly",
+      "redistillation",
+      "igneous",
+      "chunks",
+      "redistilled",
+      "chambre",
+      "syndicale",
+      "electrochemistry",
+      "crowns",
+      "pfizer",
+      "cheapest",
+      "commisson",
+      "answers",
+      "electrolysis",
+      "defensive",
+      "uranium",
+      "distinguishes",
+      "coincided",
+      "granules",
+      "orginating",
+      "chose",
+      "alkaline",
+      "looked",
+      "surge",
+      "matched"
+    ],
+    "prompt_length": 1693,
+    "category": "6811 chemistry"
+  }
+}

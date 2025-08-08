@@ -1,0 +1,63 @@
+{
+  "concept_id": "1723",
+  "concept_data": {
+    "title": "water wheel",
+    "category_code": "6821",
+    "category_name": "mechanical engineering",
+    "category_full": "6821 mechanical engineering",
+    "is_redirect": true,
+    "preferred_term": "hydraulic machinery",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"water wheel,\" categorized under mechanical engineering, is redirected to \"hydraulic machinery\" in EU legal and regulatory contexts. Hydraulic machinery encompasses various devices, including water wheels, which are pivotal in operations involving fluid dynamics. In regions like Durham and Somerset, hydraulic systems have historical significance, often associated with local industries such as those in Bridgewater and Birtley. Companies like Kobelco and Hitachi manufacture excavators that utilize hydraulic principles, underscoring the technology's relevance. Regulatory frameworks may address the admissibility of hydraulic machinery in construction, ensuring compliance with safety standards. Similarities in design and functionality among various models, including those from Mitsubishi and Komatsu, necessitate thorough assessments to avoid inadmissible equipment in community projects.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:51:40.306575",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 540,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 428,
+      "selected_avg_freq": 196.3
+    },
+    "related_words": [
+      "birtley",
+      "calmed",
+      "opeations",
+      "durham",
+      "tridiam",
+      "kobemac",
+      "communtity",
+      "reyners",
+      "equipco",
+      "boeg",
+      "thomsen",
+      "vipperoed",
+      "oswald",
+      "bruycker",
+      "ostend",
+      "beazer",
+      "bridgewater",
+      "histories",
+      "komatsu",
+      "itoh",
+      "kobelco",
+      "kobesteel",
+      "woking",
+      "surrey",
+      "conceded",
+      "stretching",
+      "hampshire",
+      "involuntary",
+      "excavator",
+      "dkr"
+    ],
+    "prompt_length": 1705,
+    "category": "6821 mechanical engineering"
+  }
+}

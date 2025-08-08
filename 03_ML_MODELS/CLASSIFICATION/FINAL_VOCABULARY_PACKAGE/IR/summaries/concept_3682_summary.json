@@ -1,0 +1,63 @@
+{
+  "concept_id": "3682",
+  "concept_data": {
+    "title": "farm income",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"farm income\" within EU legal and regulatory frameworks pertains to the financial returns generated from agricultural activities. This income is crucial for determining the gainful viability of farming systems across various localities, including regions like Wuerttemberg and Magyarország. Regulatory measures often focus on stratification of income sources, addressing uncontrollable factors such as climatic conditions in hilly or marshy areas. The EU employs imputed values and revaluations to assess farm income, ensuring that it reflects the realities of diverse agricultural practices. Consequently, farm income plays a pivotal role in the economic stability of communities, influencing policies that aim to liberate farmers from dwindling profits and support sustainable development.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:47:02.957620",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 1113,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 151,
+      "selected_avg_freq": 60.64666666666667
+    },
+    "related_words": [
+      "amendsed",
+      "particuliar",
+      "wuerttemburg",
+      "liberate",
+      "uncontrollable",
+      "közép",
+      "dunántúl",
+      "nyugat",
+      "dél",
+      "magyarország",
+      "észak",
+      "alföld",
+      "gainful",
+      "caves",
+      "kommuner",
+      "foersamlingar",
+      "awu",
+      "gemeinden",
+      "foreland",
+      "mur",
+      "murtal",
+      "betriebszahl",
+      "km²",
+      "stratification",
+      "minho",
+      "litoral",
+      "hilly",
+      "portugese",
+      "oga",
+      "humid"
+    ],
+    "prompt_length": 1643,
+    "category": "5616 farming systems"
+  }
+}

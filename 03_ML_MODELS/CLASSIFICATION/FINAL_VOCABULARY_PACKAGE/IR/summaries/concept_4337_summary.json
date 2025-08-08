@@ -1,0 +1,63 @@
+{
+  "concept_id": "4337",
+  "concept_data": {
+    "title": "size of holding",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": true,
+    "preferred_term": "area of holding",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"size of holding,\" redirected to the preferred term \"area of holding,\" is crucial in EU agricultural regulations. It encompasses the total area of land utilized for farming, which can include plots for sunflowers, legumes, and other crops. This area is often categorized by typology, such as irrigated or fallow land, and is subject to various legal frameworks that govern inheritance and land transfers. The area of holding is analyzed through censuses and agrometeorological data, ensuring equitable distribution and sustainable practices. Understanding these increments is essential for effective policy application, particularly in regions like Pannonia and Alentejano, where farming systems are diverse and technologically advanced.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:33:03.043743",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1276,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 150,
+      "selected_avg_freq": 71.34
+    },
+    "related_words": [
+      "beentaken",
+      "particulrly",
+      "transferrred",
+      "unspecialized",
+      "minima",
+      "montado",
+      "regadio",
+      "sunflowers",
+      "acreages",
+      "technologial",
+      "pannonia",
+      "agrometeorological",
+      "respectful",
+      "sowed",
+      "inheritance",
+      "strata",
+      "aide",
+      "areal",
+      "fallow",
+      "sheltering",
+      "alentejano",
+      "graze",
+      "inequitable",
+      "increments",
+      "appliction",
+      "alphanumeric",
+      "framing",
+      "irrigated",
+      "nectarine",
+      "replant"
+    ],
+    "prompt_length": 1743,
+    "category": "5616 farming systems"
+  }
+}

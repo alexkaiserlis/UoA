@@ -1,0 +1,63 @@
+{
+  "concept_id": "1186",
+  "concept_data": {
+    "title": "working to rule",
+    "category_code": "4426",
+    "category_name": "labour law and labour relations",
+    "category_full": "4426 labour law and labour relations",
+    "is_redirect": true,
+    "preferred_term": "strike",
+    "relation_type": "USE"
+  },
+  "summary": "\"Working to rule\" is a form of industrial action where employees strictly adhere to regulations and procedures, thereby inflicting disruption on operations without outright striking. This concept underlies the broader category of \"strike\" within EU labour law and relations, where individuals engage in actions that may obstruct normal conduct. Such actions can lead to grave breaches of contractual obligations, intensifying tensions between employers and employees. The right to strike is fundamental, safeguarding workers' freedom to respond to grievances. However, engaging in \"working to rule\" must be proportionate and not cause excessive losses, ensuring that the maintenance of relations remains intact.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:43:46.431039",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 139,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 139,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1744.7769784172663
+    },
+    "related_words": [
+      "inflict",
+      "underlie",
+      "obstructed",
+      "abstain",
+      "strike",
+      "engaging",
+      "intensify",
+      "breaches",
+      "grave",
+      "restore",
+      "safeguarding",
+      "obstacle",
+      "respond",
+      "breach",
+      "frontiers",
+      "obstacles",
+      "contractual",
+      "proportionate",
+      "disruption",
+      "comprises",
+      "breakdown",
+      "fulfilment",
+      "intends",
+      "exclusive",
+      "facilitating",
+      "losses",
+      "competence",
+      "conduct",
+      "occur",
+      "occurred"
+    ],
+    "prompt_length": 1710,
+    "category": "4426 labour law and labour relations"
+  }
+}

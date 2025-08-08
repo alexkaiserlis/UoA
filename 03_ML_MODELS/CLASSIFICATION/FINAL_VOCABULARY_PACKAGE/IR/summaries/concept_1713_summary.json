@@ -1,0 +1,63 @@
+{
+  "concept_id": "1713",
+  "concept_data": {
+    "title": "Province of Luxembourg",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Province of Luxembourg\" is a significant administrative region within Belgium, categorized under the EU's framework of regions of Member States. It plays a crucial role in the programming and allocation of EU funding, particularly through the European Regional Development Fund (ERDF) and the European Social Fund (ESF). Recognizing its unique challenges, the province adopts statutory commitments to enhance local development. The municipality of Aubange, for instance, exemplifies the intent to instigate additionality in regional projects. Frameworks for funding prioritize readiness and verified outcomes, ensuring that appropriations are effectively utilized. The province's programming foresees a breakdown of resources, enabling precise evaluation of projects aimed at eradication of poverty and supporting local economies through loans and lending initiatives.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:43.330729",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 321,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 10,
+      "selected_max_freq": 1286,
+      "selected_avg_freq": 738.3133333333334
+    },
+    "related_words": [
+      "aubange",
+      "instigate",
+      "comitments",
+      "programmation",
+      "pole",
+      "municipality",
+      "recognizing",
+      "additionality",
+      "perspectives",
+      "esf",
+      "indexation",
+      "readiness",
+      "stopped",
+      "analogy",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "classical",
+      "lending",
+      "vaccination",
+      "eib",
+      "declining",
+      "fever",
+      "province",
+      "adopts",
+      "foresees",
+      "eradication",
+      "statutory",
+      "loan"
+    ],
+    "prompt_length": 1699,
+    "category": "7211 regions of EU Member States"
+  }
+}

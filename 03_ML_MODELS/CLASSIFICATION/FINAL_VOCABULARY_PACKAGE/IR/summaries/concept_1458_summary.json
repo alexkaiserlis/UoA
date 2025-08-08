@@ -1,0 +1,63 @@
+{
+  "concept_id": "1458",
+  "concept_data": {
+    "title": "musical instrument",
+    "category_code": "6846",
+    "category_name": "miscellaneous industries",
+    "category_full": "6846 miscellaneous industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"musical instrument\" encompasses a wide range of items, including pianos and portable instruments, which are often subject to stringent EU regulations. These regulations address the legality of exporting and reimporting musical instruments, particularly those made from endangered fauna and flora. Artists and musicians may face incidents involving the illegal dumping of such instruments, prompting resolutions to ensure sustainability. The EU also regulates the subsidized trade of musical instruments, with specific attention to the impacts on populations and the environment. Notably, the conf of musical instruments often cites issues related to the acceptance of specimens returned by travellers, ensuring compliance with international accords.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:02:50.762606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 341,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 1156,
+      "selected_avg_freq": 597.6533333333333
+    },
+    "related_words": [
+      "raznoexport",
+      "pianos",
+      "upright",
+      "artists",
+      "conf",
+      "cites",
+      "reimport",
+      "sixteenth",
+      "moscow",
+      "musical",
+      "trophies",
+      "music",
+      "hunting",
+      "legality",
+      "specimens",
+      "portable",
+      "voluntarily",
+      "thereagainst",
+      "fauna",
+      "travellers",
+      "flora",
+      "nimexe",
+      "incidents",
+      "endangered",
+      "soviet",
+      "negatively",
+      "household",
+      "populations",
+      "returned",
+      "generalized"
+    ],
+    "prompt_length": 1690,
+    "category": "6846 miscellaneous industries"
+  }
+}

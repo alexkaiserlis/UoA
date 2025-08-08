@@ -1,0 +1,63 @@
+{
+  "concept_id": "2842",
+  "concept_data": {
+    "title": "soil protection",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Soil protection is a critical aspect of EU agricultural policy, focusing on the conservation and improvement of soil quality across member states, including Portugal and its autonomous regions like Madeira. This concept encompasses various practices, such as drainage and irrigation, aimed at enhancing soil structures and effectiveness. Legal frameworks guide owners and collective stakeholders in implementing projects that address rural development and agricultural sustainability. The European Agricultural Guidance and Guarantee Fund (EAGGF) supports these initiatives through financial schemes, ensuring that expenditures are aligned with regional conservation goals. Studies and analyses are consulted to adjust guidelines and improve the overall management of agricultural land.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:50:03.894631",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 130,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 130,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1724.1846153846154
+    },
+    "related_words": [
+      "protuguese",
+      "drainage",
+      "irrigation",
+      "widen",
+      "addendum",
+      "formerly",
+      "madeira",
+      "owners",
+      "arisen",
+      "collective",
+      "island",
+      "soil",
+      "conservation",
+      "farm",
+      "forestry",
+      "renewal",
+      "eaggf",
+      "consists",
+      "adjusting",
+      "rural",
+      "ceilings",
+      "autonomous",
+      "studies",
+      "transmitted",
+      "traditional",
+      "forwarded",
+      "water",
+      "portuguese",
+      "previously",
+      "guidance"
+    ],
+    "prompt_length": 1699,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

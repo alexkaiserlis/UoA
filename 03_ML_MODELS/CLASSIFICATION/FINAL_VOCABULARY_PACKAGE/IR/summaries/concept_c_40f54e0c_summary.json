@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_40f54e0c",
+  "concept_data": {
+    "title": "metainformation",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "metadata",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory documents, \"metainformation,\" which redirects to the preferred term \"metadata,\" refers to structured information that provides context about other data. Metadata is crucial for the documentation and retrieval of legal texts, facilitating efficient access and understanding of complex regulatory frameworks. It encompasses details such as authorship, publication dates, and document types, enhancing the usability of legal resources. By employing metadata, EU institutions can ensure compliance with transparency and accessibility standards, thereby improving the overall efficacy of legal information management within the EU's regulatory landscape.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:57:13.872082",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 91,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1196,
+    "category": "3221 documentation"
+  }
+}

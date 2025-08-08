@@ -1,0 +1,26 @@
+{
+  "concept_id": "7355",
+  "concept_data": {
+    "title": "pharmacy",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pharmacy\" within the EU legal and regulatory framework pertains to the profession and establishment of pharmacies, which are critical in ensuring public health through the provision of medicinal products and healthcare services. EU regulations govern the licensing, operation, and oversight of pharmacies to ensure compliance with safety standards and quality assurance. The European Medicines Agency (EMA) plays a pivotal role in the regulatory landscape, facilitating the harmonization of pharmacy practices across member states. Additionally, directives related to the distribution and sale of pharmaceuticals are integral to maintaining a robust healthcare system, safeguarding both patients and healthcare professionals.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:35.336091",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1154,
+    "category": "2841 health"
+  }
+}

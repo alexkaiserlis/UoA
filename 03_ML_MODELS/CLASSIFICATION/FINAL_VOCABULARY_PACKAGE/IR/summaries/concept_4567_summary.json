@@ -1,0 +1,63 @@
+{
+  "concept_id": "4567",
+  "concept_data": {
+    "title": "Commonwealth of the Bahamas",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Bahamas",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Commonwealth of the Bahamas,\" often referred to simply as \"Bahamas,\" is a significant entity in political geography, particularly within EU legal and regulatory frameworks. As a member of the Commonwealth, the Bahamas engages in various negotiations concerning fisheries and trade, ensuring compliance with EU standards. This includes the verification of hygiene controls for bivalve molluscs caught in its waters. Establishments involved in the processing and storing of these products must be equipped to meet stringent hygienic requirements. The EU may issue waivers or interim measures to facilitate trade, provided that assurances are in place regarding the entirety of the supply chain. The Bahamas' regulatory framework is thus bound by these provisions, ensuring that all vessels and factories comply with EU directives for effective market access.",
+  "metadata": {
+    "generation_date": "2025-07-29T16:53:42.209252",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 188,
+      "requested_words": 150,
+      "min_frequency_found": 25,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 25,
+      "selected_max_freq": 2886,
+      "selected_avg_freq": 1447.12
+    },
+    "related_words": [
+      "grenada",
+      "bahamas",
+      "commonwealth",
+      "waiver",
+      "hygienic",
+      "freezer",
+      "visa",
+      "algeria",
+      "bivalve",
+      "stay",
+      "stores",
+      "caught",
+      "molluscs",
+      "equipped",
+      "assurances",
+      "entirety",
+      "cold",
+      "dispatched",
+      "factory",
+      "department",
+      "verifying",
+      "hygiene",
+      "stored",
+      "fulfilment",
+      "establishments",
+      "vessels",
+      "simplified",
+      "capable",
+      "provisionally",
+      "live"
+    ],
+    "prompt_length": 1694,
+    "category": "7236 political geography"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "381",
+  "concept_data": {
+    "title": "political pluralism",
+    "category_code": "0406",
+    "category_name": "political framework",
+    "category_full": "0406 political framework",
+    "is_redirect": true,
+    "preferred_term": "democracy",
+    "relation_type": "USE"
+  },
+  "summary": "Political pluralism, a fundamental aspect of democracy, is crucial in the EU's legal framework. It encompasses the principles of electoral integrity, where campaigning must be free from unconstitutional breaches, ensuring that elected representatives uphold democratic values. The EU monitors political pluralism through benchmarks that assess the democratization processes in member states and neighboring regions, such as Burkina Faso and Mauritania. In contexts like Haiti, where political stability has deteriorated due to coups and junta rule, the EU emphasizes the importance of restoring civilian governance. The Cotonou Agreement illustrates the EU's commitment to supporting consensual reforms and resuming democratic practices in nations facing political crises, thereby reinforcing the notion that all citizens deserve a voice in shaping their state.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:03:34.716085",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 118,
+    "vocabulary_stats": {
+      "total_related_words": 385,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 770,
+      "selected_avg_freq": 316.9266666666667
+    },
+    "related_words": [
+      "état",
+      "campaigning",
+      "bacai",
+      "sanhá",
+      "cplp",
+      "reactivation",
+      "coup",
+      "unconstitutional",
+      "ecowas",
+      "democratization",
+      "junta",
+      "deserve",
+      "democratisation",
+      "oas",
+      "restart",
+      "haitian",
+      "consensual",
+      "supreme",
+      "guinean",
+      "democratically",
+      "haiti",
+      "reforming",
+      "burkina",
+      "faso",
+      "nigeria",
+      "ouagadougou",
+      "electoral",
+      "presidential",
+      "upheld",
+      "bissau"
+    ],
+    "prompt_length": 1719,
+    "category": "0406 political framework"
+  }
+}

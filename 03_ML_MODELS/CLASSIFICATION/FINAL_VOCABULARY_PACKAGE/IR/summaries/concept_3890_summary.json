@@ -1,0 +1,63 @@
+{
+  "concept_id": "3890",
+  "concept_data": {
+    "title": "trimmings",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": true,
+    "preferred_term": "haberdashery",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"trimmings\" refers to various ornamental elements used in the leather and textile industries, often categorized under the preferred term \"haberdashery.\" This includes items such as beads, sequins, and embroidered motifs that are sewn onto fabric pieces to enhance their aesthetic appeal. The regulation of these materials involves stringent importations and cutting practices to ensure compliance with established standards. Disparities in the quality and shape of trimmings can lead to unpredictable deflection in product performance. The EU's framework aims to prohibit non-compliant items while facilitating the flow of compliant, elaborate designs that fulfill market demands.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:40:04.391548",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 206,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2294,
+      "selected_avg_freq": 904.4333333333333
+    },
+    "related_words": [
+      "stitch",
+      "scalloped",
+      "scalloping",
+      "appliquăš",
+      "sequins",
+      "fufilled",
+      "massively",
+      "motifs",
+      "embroidery",
+      "unpredictably",
+      "embroidered",
+      "sewn",
+      "motif",
+      "beads",
+      "scallop",
+      "slide",
+      "edge",
+      "fasteners",
+      "rectangular",
+      "strips",
+      "edges",
+      "plain",
+      "opposite",
+      "elaborate",
+      "fabric",
+      "piece",
+      "ornamental",
+      "shape",
+      "deflection",
+      "taiwan"
+    ],
+    "prompt_length": 1689,
+    "category": "6841 leather and textile industries"
+  }
+}

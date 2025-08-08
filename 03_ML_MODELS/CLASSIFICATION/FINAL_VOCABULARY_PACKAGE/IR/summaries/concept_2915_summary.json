@@ -1,0 +1,63 @@
+{
+  "concept_id": "2915",
+  "concept_data": {
+    "title": "agronomic research",
+    "category_code": "5606",
+    "category_name": "agricultural policy",
+    "category_full": "5606 agricultural policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Agronomic research within the EU agricultural policy framework encompasses a broad spectrum of activities aimed at enhancing crop production and sustainability. This includes experimenting with various genera, such as malus and prunus, to develop transplants that can coexist with local ecosystems. Researchers often focus on perennial crops, like strawberries and currants, while addressing pests and diseases, including tristeza. The integration of biotechnology is steered by regulatory bodies, ensuring that practices align with environmental standards. Journals documenting these findings serve as reminders of the importance of accessing and sharing knowledge. As agronomic research progresses, it is crucial to pinpoint the tastes and needs of different subsectors, particularly in regions like Campania and Basilicata, to avoid stagnating growth and foster innovation.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:38.020572",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 770,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 323,
+      "selected_avg_freq": 146.18
+    },
+    "related_words": [
+      "experimenting",
+      "coex",
+      "transplants",
+      "pinpointing",
+      "ligustrum",
+      "fulgens",
+      "persica",
+      "batsch",
+      "idaeus",
+      "rubus",
+      "abbreviated",
+      "euphorbia",
+      "questionable",
+      "counsellors",
+      "tristeza",
+      "prunus",
+      "domestica",
+      "steered",
+      "fits",
+      "stagnating",
+      "malus",
+      "journals",
+      "vulgare",
+      "contend",
+      "chamaecyparis",
+      "tending",
+      "perennial",
+      "subsectors",
+      "tastes",
+      "subsector"
+    ],
+    "prompt_length": 1704,
+    "category": "5606 agricultural policy"
+  }
+}

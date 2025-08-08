@@ -1,0 +1,63 @@
+{
+  "concept_id": "40",
+  "concept_data": {
+    "title": "supporting competence",
+    "category_code": "1011",
+    "category_name": "European Union law",
+    "category_full": "1011 European Union law",
+    "is_redirect": true,
+    "preferred_term": "competence of the Member States",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"supporting competence\" redirects to \"competence of the Member States,\" reflecting the legal framework established by the Treaty on the Functioning of the European Union (TFEU). This competence allows Member States to enact regulations and directives within certain areas, particularly concerning the internal market and agricultural products. The European Commission and Council play crucial roles in establishing common rules and measures, ensuring that decisions are made in accordance with community interests. Articles within the EEC Treaty outline the application of these competences, thereby facilitating cooperation among countries while respecting the autonomy of individual states in specific domains.",
+  "metadata": {
+    "generation_date": "2025-07-31T01:16:22.581803",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 450,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 1,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 1,
+      "selected_avg_freq": 1.0
+    },
+    "related_words": [
+      "regulation",
+      "commission",
+      "european",
+      "whereas",
+      "article",
+      "eec",
+      "regard",
+      "community",
+      "council",
+      "products",
+      "particular",
+      "decision",
+      "having",
+      "establishing",
+      "treaty",
+      "thereof",
+      "measures",
+      "certain",
+      "accordance",
+      "member",
+      "union",
+      "amended",
+      "directive",
+      "market",
+      "provided",
+      "states",
+      "communities",
+      "committee",
+      "common",
+      "rules"
+    ],
+    "prompt_length": 1694,
+    "category": "1011 European Union law"
+  }
+}

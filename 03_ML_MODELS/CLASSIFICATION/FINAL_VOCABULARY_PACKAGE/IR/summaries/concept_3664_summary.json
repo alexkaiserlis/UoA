@@ -1,0 +1,53 @@
+{
+  "concept_id": "3664",
+  "concept_data": {
+    "title": "supplementary income",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Supplementary income\" refers to an allowance granted to members of the European Communities, aimed at adjusting their remuneration in accordance with specific economic conditions. Established by decisions from the European Commission and the Council, this income serves to enhance the financial support provided to personnel, particularly in light of social and economic factors. The legal framework surrounding supplementary income is often amending treaties that address the evolving needs of staff remuneration. As outlined in various regulatory documents, the amount of supplementary income is determined based on daily assessments and is crucial for maintaining equitable compensation within the EU institutions.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:35:49.726721",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 20,
+      "requested_words": 150,
+      "min_frequency_found": 371,
+      "max_frequency_found": 4108,
+      "selected_words": 20,
+      "selected_min_freq": 371,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2756.3
+    },
+    "related_words": [
+      "allowance",
+      "daily",
+      "adjusted",
+      "members",
+      "single",
+      "amount",
+      "granted",
+      "social",
+      "amending",
+      "eec",
+      "economic",
+      "communities",
+      "december",
+      "committee",
+      "decision",
+      "establishing",
+      "commission",
+      "council",
+      "treaty",
+      "european"
+    ],
+    "prompt_length": 1401,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2551",
+  "concept_data": {
+    "title": "working population engaged in agriculture",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"working population engaged in agriculture\" pertains to individuals employed in agricultural activities within the EU, reflecting a critical occupational sector. This demographic is often accompanied by unique challenges, necessitating skills and qualifications that are sometimes not uniformly acquired across regions. The EU aims to stimulate mobility among these workers, enabling them to pursue opportunities that suit their professional abilities. Reform projects specifically target the imbalance in employment, offering considerable support to those wishing to change their background or cease traditional farming methods. Such initiatives make it possible for workers to adapt to changing agricultural practices, ensuring their homes and livelihoods are secured.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:34:34.009773",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 121,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 121,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1568.5867768595042
+    },
+    "related_words": [
+      "aquire",
+      "mentality",
+      "abilities",
+      "homes",
+      "chance",
+      "stimulating",
+      "worked",
+      "necessitate",
+      "acquire",
+      "mobility",
+      "occupational",
+      "skills",
+      "save",
+      "sometimes",
+      "qualifications",
+      "imbalance",
+      "moving",
+      "principally",
+      "leaving",
+      "background",
+      "changing",
+      "suited",
+      "pursue",
+      "expressly",
+      "enables",
+      "offers",
+      "self",
+      "organised",
+      "cease",
+      "employed"
+    ],
+    "prompt_length": 1695,
+    "category": "5616 farming systems"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1476",
+  "concept_data": {
+    "title": "interest rate",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": true,
+    "preferred_term": "interest",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"interest rate,\" redirected to the preferred term \"interest,\" is pivotal in EU financial regulations governing financial institutions and credit. Interest rates influence financing mechanisms, such as drawdown provisions and appropriations for various projects. In the context of monetary policy, instruments like TLTROs and MROs modulate liquidity, impacting the cost of borrowing. The EURIBOR serves as a benchmark, affecting syndicate loans and coupon payments. Regulatory frameworks ensure that MFIs adhere to standards, preventing interferences in the market. Additionally, the treatment of notional amounts and the management of recoveries are essential for maintaining stability in the EU's financial ecosystem.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:10:41.504876",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1449,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 121,
+      "selected_avg_freq": 52.026666666666664
+    },
+    "related_words": [
+      "fiancing",
+      "drawdown",
+      "approriations",
+      "defrayment",
+      "storagecost",
+      "coupon",
+      "coupons",
+      "devastated",
+      "ibor",
+      "mesure",
+      "earmarkable",
+      "ons",
+      "tltros",
+      "mros",
+      "tltro",
+      "rrc",
+      "provisioned",
+      "tying",
+      "interferences",
+      "plenipotentiary",
+      "mfi",
+      "recoveries",
+      "entitles",
+      "untaxed",
+      "sdrs",
+      "immobilized",
+      "subscribers",
+      "modulate",
+      "devolution",
+      "mfis"
+    ],
+    "prompt_length": 1715,
+    "category": "2416 financial institutions and credit"
+  }
+}

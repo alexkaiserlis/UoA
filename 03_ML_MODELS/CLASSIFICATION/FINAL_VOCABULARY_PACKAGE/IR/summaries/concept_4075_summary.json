@@ -1,0 +1,63 @@
+{
+  "concept_id": "4075",
+  "concept_data": {
+    "title": "natural hazard",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"natural hazard\" within EU environmental policy encompasses various dangerous phenomena that pose significant risks to human safety and the environment. In climatology, these hazards are analyzed to inform preventive measures and recommendations. The EU authorizes member governments to participate in mutual agreements aimed at mitigating the impact of such hazards. This involves collecting data and sharing research to negotiate practicable solutions. Programmes are envisaged to address major problems associated with natural hazards, ensuring that operators are kept informed. By consulting scientific analysis, the EU seeks to step up its efforts in managing accidents and enhancing environmental resilience, particularly in regions like Sweden and Iceland.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:16.411763",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 123,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 123,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1888.6260162601627
+    },
+    "related_words": [
+      "epoch",
+      "climatology",
+      "associating",
+      "expect",
+      "hazards",
+      "practicable",
+      "accident",
+      "science",
+      "accidents",
+      "authorizes",
+      "preventive",
+      "dangerous",
+      "negotiate",
+      "iceland",
+      "operator",
+      "wholly",
+      "bilateral",
+      "step",
+      "partly",
+      "technology",
+      "governments",
+      "kept",
+      "recommendations",
+      "substances",
+      "participate",
+      "collected",
+      "mutual",
+      "asked",
+      "share",
+      "environmental"
+    ],
+    "prompt_length": 1689,
+    "category": "5206 environmental policy"
+  }
+}

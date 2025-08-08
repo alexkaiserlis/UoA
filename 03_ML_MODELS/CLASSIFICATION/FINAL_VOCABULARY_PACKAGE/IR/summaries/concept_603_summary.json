@@ -1,0 +1,63 @@
+{
+  "concept_id": "603",
+  "concept_data": {
+    "title": "inland waters",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"inland waters\" within EU legal and regulatory frameworks encompasses various waterways under the jurisdiction of member states, reflecting their sovereignty and the need for harmonisation in navigation and conservation efforts. The EU empowers authorities to regulate fishing activities, including the catch and landing of species such as cod and seabream, while ensuring the retention of fish stocks is not exhausted. Regulations may prohibit certain practices, curtailing exploitation and promoting sustainable practices. The CCNR (Central Commission for the Navigation of the Rhine) and other networks facilitate transhipment and shipping, addressing limitations and distortions in waterway usage, thus enhancing opportunities for vessels operating under varying flags.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:05:31.963871",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 209,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 2507,
+      "selected_avg_freq": 1059.68
+    },
+    "related_words": [
+      "ecshould",
+      "ccnr",
+      "viib",
+      "viie",
+      "seabream",
+      "cecaf",
+      "curtailed",
+      "waterway",
+      "cod",
+      "rhine",
+      "transhipment",
+      "sovereignty",
+      "navigation",
+      "landing",
+      "catch",
+      "inland",
+      "red",
+      "retention",
+      "flying",
+      "catches",
+      "shipping",
+      "deep",
+      "flag",
+      "varying",
+      "limitations",
+      "incorporate",
+      "reflecting",
+      "authorises",
+      "exhausted",
+      "exploitation"
+    ],
+    "prompt_length": 1662,
+    "category": "1231 international law"
+  }
+}

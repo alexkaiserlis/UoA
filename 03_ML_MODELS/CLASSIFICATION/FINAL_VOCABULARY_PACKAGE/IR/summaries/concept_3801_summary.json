@@ -1,0 +1,63 @@
+{
+  "concept_id": "3801",
+  "concept_data": {
+    "title": "flat product",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"flat product\" refers to a category of steel products, including slabs and billets, produced through processes such as ironmaking and metallurgie. These products are essential for various applications, including the manufacturing of rails and tubular structures. Notably, the production of flat products often involves specialized techniques, such as oxygenblown methods at steelworks in regions like Differdange and Hayange. The interdependent nature of the steel industry necessitates compliance with regulations governing environmental impacts and safety standards. Additionally, the reassembly of these products can involve complex processes, including melting and piling, which are subject to regulatory oversight to ensure quality and sustainability.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:15:25.708261",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 848,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 238,
+      "selected_avg_freq": 89.92
+    },
+    "related_words": [
+      "unimetal",
+      "unimétal",
+      "aciers",
+      "longs",
+      "differdange",
+      "hayange",
+      "rombas",
+      "longwy",
+      "belval",
+      "gandrange",
+      "rodange",
+      "métallurgie",
+      "athus",
+      "mmra",
+      "usine",
+      "quesdtion",
+      "trith",
+      "squint",
+      "léger",
+      "ironmaking",
+      "oxygenblown",
+      "reassembly",
+      "secondarily",
+      "ferritic",
+      "aisi",
+      "billets",
+      "harms",
+      "usinor",
+      "blooms",
+      "specialize"
+    ],
+    "prompt_length": 1658,
+    "category": "6411 technology and technical regulations"
+  }
+}

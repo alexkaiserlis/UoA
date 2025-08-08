@@ -1,0 +1,63 @@
+{
+  "concept_id": "1427",
+  "concept_data": {
+    "title": "business data processing",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"business data processing\" within EU legal and regulatory frameworks encompasses the systematic handling of data related to various sectors, including fisheries and aquaculture. This processing is crucial for the establishment of authentic registers that facilitate the management of fleets and vessels, particularly in countries like Greece, Spain, and the Netherlands. The EU aims to improve industry operations by adopting measures that require member states, such as Belgium and Ireland, to adapt their data processing structures. This contributes to a cohesive programme that grants assistance and ensures compliance across the sector, ultimately enhancing the efficiency of data management in business operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:45:23.859386",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 94,
+      "requested_words": 150,
+      "min_frequency_found": 65,
+      "max_frequency_found": 4108,
+      "selected_words": 94,
+      "selected_min_freq": 65,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2083.936170212766
+    },
+    "related_words": [
+      "hardware",
+      "fleets",
+      "fleet",
+      "fishing",
+      "aquaculture",
+      "vessels",
+      "purchase",
+      "greek",
+      "fisheries",
+      "register",
+      "dutch",
+      "facilities",
+      "english",
+      "texts",
+      "spanish",
+      "structures",
+      "belgium",
+      "indent",
+      "greece",
+      "adopting",
+      "netherlands",
+      "adapt",
+      "undertaken",
+      "ireland",
+      "constitutes",
+      "french",
+      "towards",
+      "spain",
+      "assistance",
+      "improve"
+    ],
+    "prompt_length": 1698,
+    "category": "3236 information technology and data processing"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "c_9ffd3927": {
+    "title": "2G",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "c_715c08c0": {
+    "title": "three-dimensional printing",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": true,
+    "preferred_term": "3D printing",
+    "relation_type": "USE"
+  },
+  "c_18cee978": {
+    "title": "3G",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "c_ad1c90d4": {
+    "title": "4G",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "c_83235c0f": {
+    "title": "fifth generation mobile technologies",
+    "category_code": "3226",
+    "category_name": "communications",
+    "category_full": "3226 communications",
+    "is_redirect": true,
+    "preferred_term": "5G",
+    "relation_type": "USE"
+  },
+  "434966": {
+    "title": "emission quota",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "emission allowance",
+    "relation_type": "USE"
+  },
+  "c_f5622f5f": {
+    "title": "assisted living",
+    "category_code": "2836",
+    "category_name": "social protection",
+    "category_full": "2836 social protection",
+    "is_redirect": true,
+    "preferred_term": "active and assisted living",
+    "relation_type": "USE"
+  },
+  "594": {
+    "title": "Associated African and Malagasy States",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": true,
+    "preferred_term": "AAMS countries",
+    "relation_type": "USE"
+  },
+  "2894": {
+    "title": "management report",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "activity report",
+    "relation_type": "USE"
+  },
+  "5972": {
+    "title": "result-based budgeting",
+    "category_code": "2436",
+    "category_name": "public finance and budget policy",
+    "category_full": "2436 public finance and budget policy",
+    "is_redirect": true,
+    "preferred_term": "programme budgeting",
+    "relation_type": "USE"
+  },
+  "3509": {
+    "title": "ABM Agreement",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "447917": {
+    "title": "European Union Agency for the Cooperation of Energy Regulators",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "450953": {
+    "title": "African Court on Human and Peoples' Rights",
+    "category_code": "7616",
+    "category_name": "extra-European organisations",
+    "category_full": "7616 extra-European organisations",
+    "is_redirect": true,
+    "preferred_term": "African Court of Justice and Human Rights",
+    "relation_type": "USE"
+  },
+  "5083": {
+    "title": "ACP countries",
+    "category_code": "7231",
+    "category_name": "economic geography",
+    "category_full": "7231 economic geography",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "4051": {
+    "title": "ACP-EU Committee of Ambassadors",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "4049": {
+    "title": "ACP-EU Convention",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "4041": {
+    "title": "ACP-EU Council of Ministers",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "5132": {
+    "title": "ACP-EU Joint Assembly",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "4052": {
+    "title": "ACP-EU Joint Committee",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "1450": {
+    "title": "ACP-EU institution",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "539",
+  "concept_data": {
+    "title": "competition regulations",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": true,
+    "preferred_term": "competition law",
+    "relation_type": "USE"
+  },
+  "summary": "Competition regulations, often referred to as competition law in the EU, encompass a framework that governs market practices to ensure fair competition. This legal structure is designed to prevent infringment of competitive practices, thereby promoting a diverse segmentstruktur within the market. The permissibility of certain business agreements is scrutinized, particularly those that could lead to monopolistic behaviors. Notably, landmark cases such as Magill and Bronner have shaped the interpretation of these laws, emphasizing the necessity of equitable access to data and resources. In this context, the requirements for compliance are stringent, and entities must navigate these regulations without unzulänglich practices that could undermine competition. Consequently, a thorough understanding of the legal landscape is essential for businesses operating in the EU, as non-compliance could lead to significant penalties.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:24:24.375826",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 127,
+    "vocabulary_stats": {
+      "total_related_words": 2736,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 8,
+      "selected_avg_freq": 4.386666666666667
+    },
+    "related_words": [
+      "azyx",
+      "brick",
+      "permissibility",
+      "landgericht",
+      "magill",
+      "ladbroke",
+      "bronner",
+      "cinq",
+      "infringment",
+      "oberlandesgericht",
+      "beklagten",
+      "dritten",
+      "selbständige",
+      "entwicklung",
+      "einer",
+      "segmentstruktur",
+      "ebenfalls",
+      "einteilung",
+      "nach",
+      "landkreisen",
+      "kreisfreien",
+      "städten",
+      "postleitzahlbezirken",
+      "beruht",
+      "deshalb",
+      "ggfs",
+      "annähernd",
+      "gleichen",
+      "anzahl",
+      "segmenten"
+    ],
+    "prompt_length": 1740,
+    "category": "4031 competition"
+  }
+}

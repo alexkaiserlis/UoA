@@ -1,0 +1,63 @@
+{
+  "concept_id": "4636",
+  "concept_data": {
+    "title": "vaccination",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Vaccination is a critical public health measure identified within EU legal frameworks, aimed at controlling diseases through the administration of biologicals, such as vaccines. The regulatory landscape encompasses various aspects, including the branding of vaccines, transparency in their efficacy, and the identification of specific antigenically relevant strains. In response to epidemiological data, the EU promotes revaccination and booster strategies to enhance immunity against emerging pathogens, including avian and psittacidae-related diseases. Legal documents also address the restocking of vaccines in regions like Trenčín and Banská Bystrica, ensuring that populations are adequately protected against potential incursions of infectious diseases.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:25:46.704796",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1917,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 29,
+      "selected_avg_freq": 15.06
+    },
+    "related_words": [
+      "branding",
+      "indentified",
+      "indentification",
+      "tattooing",
+      "kreuznach",
+      "intracerebral",
+      "icpi",
+      "epidemiogical",
+      "rimavská",
+      "piešť",
+      "hlohovec",
+      "banská",
+      "bystrica",
+      "brezno",
+      "korce",
+      "revaccination",
+      "booster",
+      "formaline",
+      "correspondigly",
+      "žiar",
+      "hronom",
+      "žarnovica",
+      "štiavnica",
+      "antigenically",
+      "ăšpizooties",
+      "lelystad",
+      "biologicals",
+      "pak",
+      "westphalen",
+      "trasparency"
+    ],
+    "prompt_length": 1670,
+    "category": "2841 health"
+  }
+}

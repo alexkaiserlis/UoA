@@ -1,0 +1,63 @@
+{
+  "concept_id": "1042",
+  "concept_data": {
+    "title": "fluorine",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Fluorine, categorized under chemistry (6811), is a critical element in EU regulatory frameworks, particularly concerning environmental and health safety. Its compounds, such as fluorinated substances, are scrutinized due to potential health risks, including kidney abnormalities and intoxications from excessive ingestion. Regulatory measures aim to minimize fluorine's presence in feeds and feedstocks, particularly in fishmeal and herbages, to prevent accumulation in the food chain. The manipulation of fluorine levels in premixtures is essential for ensuring safe ratios that do not adversely affect the lifespan of aquatic and terrestrial organisms. Additionally, the caking of fluorine in agricultural contexts can lead to polluted pastures, necessitating stringent oversight to counteract these effects and protect biodiversity.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:16:44.588724",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 539,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 412,
+      "selected_avg_freq": 180.72666666666666
+    },
+    "related_words": [
+      "fluorspar",
+      "polluted",
+      "ingestions",
+      "calcifying",
+      "herbages",
+      "abnormalities",
+      "minimizes",
+      "vermiculite",
+      "accumulates",
+      "fluorine",
+      "krill",
+      "skeleton",
+      "premixture",
+      "lifespan",
+      "manipulate",
+      "ration",
+      "incidentally",
+      "caking",
+      "kidneys",
+      "fishmeal",
+      "phosphates",
+      "feedstock",
+      "fluorinated",
+      "fluoride",
+      "dilution",
+      "premixtures",
+      "ingestion",
+      "binders",
+      "pastures",
+      "mip"
+    ],
+    "prompt_length": 1679,
+    "category": "6811 chemistry"
+  }
+}

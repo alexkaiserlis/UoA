@@ -1,0 +1,63 @@
+{
+  "concept_id": "1309",
+  "concept_data": {
+    "title": "import",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"import\" refers to the process of bringing goods into the EU from non-member countries, such as Namibia, which may involve specific regulations regarding the importation of products like babassu or resinous materials. The EU's import policies are designed to protect consumers and communities, ensuring compliance with standards such as radioprotection. Monitoring mechanisms are established to oversee imports, particularly for hazardous substances like amosite and antophyllite. Additionally, preferential trade agreements may influence import duties, impacting industries from sawmills to ecomat producers. Overall, the import framework pivots on balancing economic interests with health and safety regulations throughout the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:54:34.796752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 10233,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 4,
+      "selected_avg_freq": 3.7666666666666666
+    },
+    "related_words": [
+      "boe",
+      "indended",
+      "namibian",
+      "bursaphalencus",
+      "refrerence",
+      "embarrassed",
+      "babassu",
+      "mounth",
+      "resinous",
+      "sawmills",
+      "spruce",
+      "preferental",
+      "bucket",
+      "pivoting",
+      "mtps",
+      "ecomat",
+      "belley",
+      "pel",
+      "alby",
+      "chéran",
+      "macmoter",
+      "modigliana",
+      "vermeer",
+      "hoofddorp",
+      "dorheim",
+      "verbist",
+      "breendonk",
+      "saville",
+      "stratford",
+      "imer"
+    ],
+    "prompt_length": 1643,
+    "category": "2016 trade"
+  }
+}

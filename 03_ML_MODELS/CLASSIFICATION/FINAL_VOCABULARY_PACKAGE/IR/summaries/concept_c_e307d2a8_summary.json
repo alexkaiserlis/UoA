@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_e307d2a8",
+  "concept_data": {
+    "title": "therapeutic trial",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "clinical trial",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"therapeutic trial\" is a redirect to the preferred term \"clinical trial\" within the EU legal and regulatory framework. Clinical trials are essential for evaluating the efficacy and safety of medicinal products before they receive market authorization. Governed by Regulation (EU) No 536/2014, these trials must adhere to stringent ethical and scientific standards, ensuring participant safety and data integrity. The regulatory framework mandates comprehensive protocols, informed consent, and rigorous oversight by competent authorities. By facilitating the systematic investigation of therapeutic interventions, clinical trials play a pivotal role in advancing public health and ensuring that new treatments are both effective and safe for patient use.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:11:24.064025",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1197,
+    "category": "2841 health"
+  }
+}

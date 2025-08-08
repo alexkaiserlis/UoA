@@ -1,0 +1,63 @@
+{
+  "concept_id": "5971",
+  "concept_data": {
+    "title": "chlorine",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Chlorine, a pivotal chemical in EU regulatory frameworks, serves as a disinfectant in various applications, including swimming pools and water treatment. Its use is governed by stringent regulations to mitigate risks such as biomagnification and the potential burden on aquatic dwellers. The European Commission, through documents like commission_2010, addresses concerns related to chlorine compounds, including chlorate and trichloroisocyanuric (TCCA), ensuring faithful compliance with safety standards. Additionally, substances like chlorsulfuron and dimethachlor are monitored for their environmental impact. The voluminous documentation, often scanned and stored in formats like pdf, reflects the EU's commitment to safeguarding public health while balancing industrial needs.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:22.558764",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 941,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 198,
+      "selected_avg_freq": 76.26666666666667
+    },
+    "related_words": [
+      "bleacher",
+      "swimming",
+      "pools",
+      "liaocheng",
+      "zhonglian",
+      "juancheng",
+      "kangtai",
+      "doclib",
+      "docs",
+      "pdf",
+      "chlorsulfuron",
+      "dimethachlor",
+      "triflusulfuron",
+      "noa",
+      "diisopropylamine",
+      "trichloroisocyanuric",
+      "tcca",
+      "symclosene",
+      "faithful",
+      "disinfecting",
+      "biomagnification",
+      "dwellers",
+      "underreported",
+      "voluminous",
+      "bruxelles",
+      "belgië",
+      "brussel",
+      "lufenuron",
+      "chlorine",
+      "etofenprox"
+    ],
+    "prompt_length": 1725,
+    "category": "6811 chemistry"
+  }
+}

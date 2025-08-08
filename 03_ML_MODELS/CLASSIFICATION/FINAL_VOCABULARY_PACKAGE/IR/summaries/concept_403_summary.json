@@ -1,0 +1,63 @@
+{
+  "concept_id": "403",
+  "concept_data": {
+    "title": "public expenditure",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Public expenditure in the EU context refers to budgeted financial outlays by governmental entities, which are crucial for stabilising economies, especially during recessionary periods. The trajectory of public expenditure often hinges on economic conditions, with projections indicating potential hikes or declines. Regulatory measures aim to counterbalance the effects of economic slowdown, ensuring that durable growth is achieved. The European Commission frequently announces budgetary stances that attract scrutiny, particularly during times of contraction. As member states navigate their fiscal responsibilities, they must weigh the implications of their spending decisions, which can either boost or shrink economic activity, thereby influencing overall outturn and compliance with the Excessive Deficit Procedure (EDP).",
+  "metadata": {
+    "generation_date": "2025-07-29T23:35:34.340742",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 1005,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 151,
+      "selected_avg_freq": 78.86
+    },
+    "related_words": [
+      "hinged",
+      "hikes",
+      "measurres",
+      "recessionary",
+      "odorous",
+      "shrink",
+      "announces",
+      "veto",
+      "eerp",
+      "climb",
+      "grodno",
+      "forty",
+      "declines",
+      "asf",
+      "cleansed",
+      "concurred",
+      "alerted",
+      "slowed",
+      "outturn",
+      "boars",
+      "backdrop",
+      "cyclically",
+      "trajectory",
+      "stance",
+      "stabilisers",
+      "disinfected",
+      "converging",
+      "attracted",
+      "hosts",
+      "boosting"
+    ],
+    "prompt_length": 1651,
+    "category": "2441 budget"
+  }
+}

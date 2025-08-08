@@ -1,0 +1,63 @@
+{
+  "concept_id": "2521",
+  "concept_data": {
+    "title": "polluting product",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "pollutant",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"polluting product,\" redirected to \"pollutant,\" encompasses substances that contribute to environmental deterioration. These pollutants, such as methylmercury and chlordecone, can bioaccumulate in biota, affecting the lifecycle and lifespan of various species. Regulatory frameworks often employ advanced metering techniques, including hygrometers and thermometric probes, to monitor pollutant levels. Notably, substances like perfluorooctane and polybrominated diphenyls (PBDEs) are scrutinized for their neurodevelopmental impacts and cardiovascular effects. The use of barometers and plethysmographs aids in assessing environmental determinants, while the presence of persistent organic pollutants (POPs) necessitates stringent regulations to mitigate their harmful effects on ecosystems and human health.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:51:21.721512",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 616,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 289,
+      "selected_avg_freq": 106.92666666666666
+    },
+    "related_words": [
+      "traiing",
+      "hygrometers",
+      "manometers",
+      "plethysmographs",
+      "tensiometers",
+      "thermometric",
+      "metering",
+      "pycnometers",
+      "platinum",
+      "porosimeters",
+      "voltammetry",
+      "pops",
+      "triple",
+      "chlordecone",
+      "hexabromobiphenyl",
+      "pentachlorobenzene",
+      "biota",
+      "pbts",
+      "biomagnifies",
+      "octabromodiphenyl",
+      "sphygmomanometers",
+      "barometers",
+      "antiques",
+      "pfos",
+      "sulfonic",
+      "softening",
+      "probes",
+      "pop",
+      "capacitance",
+      "methylmercury"
+    ],
+    "prompt_length": 1878,
+    "category": "5216 deterioration of the environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "2232",
+  "concept_data": {
+    "title": "parasitology",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Parasitology, a vital branch within natural and applied sciences, encompasses the study of parasites, including species such as *laspeyresia* and *muricatum*, which can affect various hostplants like *rhododendron* and *viburnum*. In EU regulatory frameworks, understanding parasitology is crucial for managing plant health risks, particularly in regions like Gorenjska and Maribor, where specific pests such as *scirtothrips* and *dipsaci* pose threats to agriculture. Regulations may involve monitoring for pathogens like *tilletia* and *oxysporum*, ensuring timely interventions. The implications of parasitology extend to trade, with considerations for species like *gladiolus* and *photinia*, emphasizing the need for compliance with EU directives to protect biodiversity and agricultural integrity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:26:59.686306",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 2059,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 9,
+      "selected_avg_freq": 6.253333333333333
+    },
+    "related_words": [
+      "tbe",
+      "existiang",
+      "anarsia",
+      "lineatella",
+      "laspeyresia",
+      "molesta",
+      "muricatum",
+      "gorenjska",
+      "maribor",
+      "dunajská",
+      "streda",
+      "poltár",
+      "rožňava",
+      "trebišov",
+      "photinia",
+      "dcne",
+      "cardot",
+      "rhododendron",
+      "viburnum",
+      "simsii",
+      "heliothis",
+      "ibiza",
+      "koroška",
+      "notranjska",
+      "grisons",
+      "destructor",
+      "thorne",
+      "gladiolus",
+      "dipsaci",
+      "kuehn"
+    ],
+    "prompt_length": 1658,
+    "category": "3606 natural and applied sciences"
+  }
+}

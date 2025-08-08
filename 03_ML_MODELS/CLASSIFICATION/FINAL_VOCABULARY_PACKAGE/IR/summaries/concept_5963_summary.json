@@ -1,0 +1,26 @@
+{
+  "concept_id": "5963",
+  "concept_data": {
+    "title": "cheque",
+    "category_code": "2411",
+    "category_name": "monetary economics",
+    "category_full": "2411 monetary economics",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"cheque\" is a financial instrument widely recognized in the EU's monetary economics framework, serving as a written order directing a bank to pay a specified sum from the account of the issuer to the payee. In the context of EU legal and regulatory documents, cheques are governed by various directives and regulations that ensure their validity, security, and interoperability across member states. The regulatory landscape addresses issues such as fraud prevention, cross-border transactions, and consumer protection, thereby facilitating trust in cheque transactions. As a negotiable instrument, the cheque plays a crucial role in both domestic and international trade within the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:01:47.749069",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1164,
+    "category": "2411 monetary economics"
+  }
+}

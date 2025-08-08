@@ -1,0 +1,63 @@
+{
+  "concept_id": "6021",
+  "concept_data": {
+    "title": "navigational code",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"navigational code\" is a critical component of EU transport policy, enhancing the regulation of navigable waterways and maritime traffic. It incorporates standards set by international bodies such as the IMO and SOLAS, ensuring that vessels, including ships and inland ships, adhere to mandatory safety and operational guidelines. This code facilitates the certification of shipping facilities and promotes genuine maritime practices, thereby reducing fraud. It serves to link various stakeholders, including port owners and shipping companies, under a unified framework that fosters cooperation and enhances navigation. The code's implementation is often subject to unanimous voting among member states, ensuring a cohesive approach to maritime regulation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:08:22.600140",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 237,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2005,
+      "selected_avg_freq": 918.0133333333333
+    },
+    "related_words": [
+      "ccr",
+      "isps",
+      "dissent",
+      "navigable",
+      "rgulation",
+      "merchandise",
+      "msc",
+      "solas",
+      "unanimity",
+      "strasbourg",
+      "voted",
+      "waterways",
+      "imo",
+      "constituent",
+      "diplomatic",
+      "belongs",
+      "rhine",
+      "navigation",
+      "owner",
+      "serving",
+      "ship",
+      "inland",
+      "launch",
+      "say",
+      "certifying",
+      "shipping",
+      "belong",
+      "unique",
+      "genuine",
+      "enhancing"
+    ],
+    "prompt_length": 1630,
+    "category": "4806 transport policy"
+  }
+}

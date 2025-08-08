@@ -1,0 +1,63 @@
+{
+  "concept_id": "981",
+  "concept_data": {
+    "title": "iron",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"iron\" encompasses a range of regulatory frameworks within the EU, particularly concerning the iron, steel, and other metal industries. Authorizations for production and trade are critical, with companies like Severstal and Thyssenkrupp adhering to stringent standards. The Cherepovetsky and Changshu facilities exemplify advanced production techniques, including electrolytically processed iron. Regulatory bodies monitor the use of deoxidisers and stimuli in manufacturing, ensuring compliance with safety and environmental standards. The integration of silicon and quartzite in iron production is also regulated, impacting firms such as Corus and Wisco. Overall, the EU's legal framework aims to balance industrial growth with sustainability in the iron sector.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:19:07.784816",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1509,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 75,
+      "selected_avg_freq": 28.5
+    },
+    "related_words": [
+      "authorizaions",
+      "whih",
+      "cherepovetsky",
+      "staleprokatny",
+      "zavod",
+      "chspz",
+      "severstal",
+      "metiz",
+      "severtal",
+      "electrolytically",
+      "corus",
+      "piombino",
+      "changshu",
+      "xingdao",
+      "everbright",
+      "bengang",
+      "benxi",
+      "angang",
+      "ansc",
+      "tks",
+      "dallian",
+      "wisco",
+      "wugang",
+      "stimuli",
+      "sillicon",
+      "jegunovice",
+      "acount",
+      "çelik",
+      "andfast",
+      "posco"
+    ],
+    "prompt_length": 1646,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

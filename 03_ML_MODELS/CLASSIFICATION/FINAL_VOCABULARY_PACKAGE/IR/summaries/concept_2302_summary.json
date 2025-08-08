@@ -1,0 +1,63 @@
+{
+  "concept_id": "2302",
+  "concept_data": {
+    "title": "prepared hide",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": true,
+    "preferred_term": "animal skin",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"prepared hide,\" redirected to the preferred term \"animal skin,\" pertains to animal products regulated under EU law. This includes the skins of various ungulates and marine mammals, such as seals, which are often subject to hunting and culling practices. The EU enforces strict regulations to prevent the depletion of species like harp and hooded seals, ensuring that hunting occurs in a sustainable manner. Legal frameworks address issues like the salting and tanning processes necessary for preserving hides, while also combating unreliable practices that may pollute the environment. The regulation aims to protect both the animals, including pups and whitecoats, and the interests of communities, such as the Inuits, who rely on these resources for their livelihoods.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:41.887282",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 726,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 366,
+      "selected_avg_freq": 160.51333333333332
+    },
+    "related_words": [
+      "whitecoats",
+      "prey",
+      "kid",
+      "whitecoat",
+      "unharmed",
+      "inuits",
+      "disesase",
+      "necesarry",
+      "pollute",
+      "chamois",
+      "prosper",
+      "backs",
+      "dispensable",
+      "inuit",
+      "barents",
+      "pups",
+      "harp",
+      "hooded",
+      "crust",
+      "entanglement",
+      "henan",
+      "tanning",
+      "hide",
+      "hunt",
+      "withstand",
+      "salting",
+      "sine",
+      "rip",
+      "seals",
+      "hides"
+    ],
+    "prompt_length": 1637,
+    "category": "6011 animal product"
+  }
+}

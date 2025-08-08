@@ -1,0 +1,63 @@
+{
+  "concept_id": "2903",
+  "concept_data": {
+    "title": "water-moderated reactor",
+    "category_code": "6621",
+    "category_name": "electrical and nuclear industries",
+    "category_full": "6621 electrical and nuclear industries",
+    "is_redirect": true,
+    "preferred_term": "nuclear reactor",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"water-moderated reactor\" is a redirect to the preferred term \"nuclear reactor,\" which encompasses various designs, including those utilizing water as a moderator to control fission reactions. In the context of EU legal and regulatory frameworks, these reactors are subject to rigorous oversight by bodies such as the JRC and ENSREG, ensuring compliance with safety standards and radiological protection. The development of centralized nuclear facilities involves peer-reviewed assessments to address dangers associated with ionizing radiations and transient events. Lessons learnt from past incidents inform the judgment of regulatory competencies, fostering openness and excellence in nuclear sciences across the continent. The IAEA and WENRA provide essential guidelines for the safe operation of these reactors, which are irreplaceable in the transition towards sustainable energy sources, including thermonuclear and fusion technologies.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:29.132920",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 695,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 393,
+      "selected_avg_freq": 174.42666666666668
+    },
+    "related_words": [
+      "prenormative",
+      "jrcs",
+      "kaman",
+      "blowdown",
+      "develpment",
+      "wenra",
+      "ensreg",
+      "peers",
+      "petten",
+      "conceptual",
+      "radiations",
+      "hfr",
+      "vibration",
+      "trilogue",
+      "transient",
+      "eda",
+      "flux",
+      "competencies",
+      "irreplaceable",
+      "fission",
+      "isotopes",
+      "sensors",
+      "ionizing",
+      "learnt",
+      "steam",
+      "iter",
+      "centralized",
+      "reactors",
+      "continent",
+      "thermonuclear"
+    ],
+    "prompt_length": 1707,
+    "category": "6621 electrical and nuclear industries"
+  }
+}

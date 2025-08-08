@@ -1,0 +1,63 @@
+{
+  "concept_id": "2655",
+  "concept_data": {
+    "title": "price of farm land",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"price of farmland\" is a critical concept within EU agricultural policy, reflecting the valuation of plots used for farming, which can drastically fluctuate due to market conditions. Recent trends show that prices have plummeted in some regions, while in others, they have sharply risen, disproportionately affecting families dependent on subsistence farming. Regulatory frameworks often include provisions for subsidising inputs like fertilisers, which can influence farmland valuation. The economic climate, including recession and unemployment rates, can aggravate these price dynamics, impacting borrowers and purchasers alike. Understanding these factors is essential for municipalities and agricultural bureaus when assessing marketable land and its returns.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:52:03.303242",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 386,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 792,
+      "selected_avg_freq": 345.0466666666667
+    },
+    "related_words": [
+      "plummeting",
+      "ltl",
+      "subsidising",
+      "plot",
+      "lats",
+      "farmland",
+      "drastically",
+      "outright",
+      "borrower",
+      "deepening",
+      "diploma",
+      "worsen",
+      "recession",
+      "finish",
+      "encounter",
+      "foundations",
+      "unemployed",
+      "subsistence",
+      "fertilisers",
+      "book",
+      "dropped",
+      "aggravated",
+      "weightings",
+      "municipality",
+      "refunded",
+      "hit",
+      "disproportionately",
+      "multiplying",
+      "risen",
+      "proceeds"
+    ],
+    "prompt_length": 1686,
+    "category": "5616 farming systems"
+  }
+}

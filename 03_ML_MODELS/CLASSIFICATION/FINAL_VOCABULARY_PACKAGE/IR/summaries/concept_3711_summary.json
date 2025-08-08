@@ -1,0 +1,63 @@
+{
+  "concept_id": "3711",
+  "concept_data": {
+    "title": "North Rhine-Westphalia (Land)",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "North Rhine-Westphalia",
+    "relation_type": "USE"
+  },
+  "summary": "North Rhine-Westphalia (Land) is a significant region within the EU, known for its diverse landscapes and regulatory frameworks. It encompasses vital areas such as feuchtwiesenschutzgebieten, which are crucial for the erhaltung of the naturhaushalt. The region's legal instruments include richtlinien aimed at the abwehr of drohenden gefahren to biodiversity. North Rhine-Westphalia also supports agricultural initiatives, notably in the anbaugebiet for spargel, and has a robust approach to environmental protection. Furthermore, the management of kernkraftwerk decommissioning and the regulation of immunisation practices reflect its commitment to public health. This concept serves as a redirect to the preferred term \"North Rhine-Westphalia,\" emphasizing its role in EU legal and regulatory contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:47:02.562856",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 872,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 259,
+      "selected_avg_freq": 101.58666666666667
+    },
+    "related_words": [
+      "pflege",
+      "feuchtwiesenschutzgebieten",
+      "zwecke",
+      "naturschutzes",
+      "abwehr",
+      "unmittelbar",
+      "drohenden",
+      "gefahren",
+      "naturhaushalt",
+      "richtlinien",
+      "ueber",
+      "gewaehrung",
+      "zuwendungen",
+      "mwe",
+      "uentrop",
+      "unna",
+      "lingen",
+      "erhaltung",
+      "anually",
+      "bornheimer",
+      "bornheim",
+      "nieheimer",
+      "westfalia",
+      "spargel",
+      "anbaugebiet",
+      "käse",
+      "hochtemperatur",
+      "hkg",
+      "enclosure",
+      "kernkraftwerk"
+    ],
+    "prompt_length": 1747,
+    "category": "7211 regions of EU Member States"
+  }
+}

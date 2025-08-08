@@ -1,0 +1,63 @@
+{
+  "concept_id": "833",
+  "concept_data": {
+    "title": "physical environment",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"physical environment\" embodies the natural surroundings that are central to EU policies and treaties, particularly in the context of promoting sustainability and safety. The European Union assigns a principal role to the physical environment in its multiannual strategies, aiming for balanced expansion and continuous improvement. The Joint Research Centre (JRC) engages in scientific research to define and demonstrate the impact of various technologies on the physical environment. Coordination among member states is crucial for the dissemination of knowledge and the attainment of environmental objectives, particularly regarding nuclear safety and energy policies. The EU's commitment to a harmonious relationship with the physical environment is reflected in its resolutions and research projects, confirming its central importance in EU regulatory frameworks.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:37:03.324575",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 124,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 124,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1748.1290322580646
+    },
+    "related_words": [
+      "embody",
+      "assigns",
+      "jrc",
+      "demonstration",
+      "science",
+      "acquisition",
+      "harmonious",
+      "dissemination",
+      "expansion",
+      "nuclear",
+      "play",
+      "balanced",
+      "attainment",
+      "engaged",
+      "keeping",
+      "centre",
+      "treaties",
+      "task",
+      "principal",
+      "multiannual",
+      "advantage",
+      "continuous",
+      "promoting",
+      "technology",
+      "stability",
+      "atomic",
+      "generally",
+      "strategy",
+      "training",
+      "range"
+    ],
+    "prompt_length": 1686,
+    "category": "5211 natural environment"
+  }
+}

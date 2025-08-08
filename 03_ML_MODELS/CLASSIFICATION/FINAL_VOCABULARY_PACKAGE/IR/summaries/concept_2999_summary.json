@@ -1,0 +1,63 @@
+{
+  "concept_id": "2999",
+  "concept_data": {
+    "title": "shellfish farming",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Shellfish farming, a vital segment of the fisheries sector, involves the cultivation of molluscs such as oysters (Crassostrea gigas) and mussels along coastlines like Galicia and the Loire. The EU's legal framework regulates this practice to ensure zoosanitary standards, preventing the inadvertent introduction of exotic species and diseases. Regulations mandate the disinfection of gear and tanks, alongside protocols for relaying and repairing damaged stocks. The sector faces challenges from spills and shipwrecks that can jeopardise shellfish populations. Modernizing practices and instituting robust diagnostic measures are essential for maintaining the prestige of shellfish products while compensating for unforeseen environmental impacts.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:02:56.499578",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 578,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 547,
+      "selected_avg_freq": 254.94
+    },
+    "related_words": [
+      "inadvertent",
+      "shipwrecked",
+      "shipwreck",
+      "mussel",
+      "zoosanitary",
+      "reinstating",
+      "oyster",
+      "crassostrea",
+      "gigas",
+      "repairing",
+      "oysters",
+      "seaweed",
+      "gametes",
+      "coastline",
+      "loire",
+      "spills",
+      "devastating",
+      "mollusc",
+      "shellfish",
+      "prestige",
+      "modernizing",
+      "relaying",
+      "tanker",
+      "jeopardising",
+      "repetition",
+      "disinfection",
+      "echinoderms",
+      "tunicates",
+      "juveniles",
+      "fifg"
+    ],
+    "prompt_length": 1690,
+    "category": "5641 fisheries"
+  }
+}

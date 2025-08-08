@@ -1,0 +1,63 @@
+{
+  "concept_id": "3246",
+  "concept_data": {
+    "title": "credit institution",
+    "category_code": "2416",
+    "category_name": "financial institutions and credit",
+    "category_full": "2416 financial institutions and credit",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "A \"credit institution\" in the EU context refers to a financial entity that accepts deposits and grants credit, operating under strict regulatory frameworks. These institutions are prudentially supervised to ensure compliance with applicable disposiciones and maintain financial stability. They may engage in complex activities such as securitisations and tranching, capturing various obligors and collateralised assets. Credit institutions can also outsource certain functions while adhering to guidelines set by regulatory bodies like the Comissão de Valores Mobiliários (CNMV). Their operations often involve onsite and offsite inspections, ensuring that they meet standards for redeemable instruments and comply with shariah finance principles when applicable.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:46:21.520218",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 2540,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 12,
+      "selected_avg_freq": 6.946666666666666
+    },
+    "related_words": [
+      "redeemable",
+      "sid",
+      "izvozna",
+      "razvojna",
+      "landbrugs",
+      "realkreditfond",
+      "skibskreditfond",
+      "skibskredit",
+      "outsource",
+      "muslim",
+      "shariah",
+      "administrators",
+      "csa",
+      "cad",
+      "dros",
+      "bancaria",
+      "cnbv",
+      "disposiciones",
+      "aplicables",
+      "institutiones",
+      "calificadoras",
+      "substructures",
+      "candid",
+      "mpors",
+      "compute",
+      "prudentially",
+      "mpor",
+      "proxies",
+      "capturing",
+      "centrally"
+    ],
+    "prompt_length": 1718,
+    "category": "2416 financial institutions and credit"
+  }
+}

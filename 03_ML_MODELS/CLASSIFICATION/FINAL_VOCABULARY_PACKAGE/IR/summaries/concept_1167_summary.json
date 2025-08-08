@@ -1,0 +1,63 @@
+{
+  "concept_id": "1167",
+  "concept_data": {
+    "title": "game bird",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": true,
+    "preferred_term": "game animal",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"game bird,\" redirected to \"game animal,\" encompasses various species hunted for sport and food within EU regulations. This concept includes waterfowl such as ducks and mallards, as well as ungulates like reindeer. Legal frameworks detail hunting practices, biosecurity measures against diseases like trichinosis and H5N1, and the management of trophies and specimens. Regulations also address the logistics of hunting, ensuring compliance with CITES and other legalities. Hunters must attest to the legality of their activities, particularly concerning unvaccinated animals and the handling of viscera post-mortem. The tradition of hunting in regions like Ribatejo and Lisboa reflects cultural significance, while subtypes of game animals are classified for conservation purposes.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:29:51.024848",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 587,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 400,
+      "selected_avg_freq": 167.22666666666666
+    },
+    "related_words": [
+      "subchapter",
+      "tusks",
+      "trophy",
+      "mallard",
+      "barquinha",
+      "hunters",
+      "waterfowl",
+      "bleeding",
+      "viscera",
+      "conf",
+      "vila",
+      "ribatejo",
+      "lisboa",
+      "tejo",
+      "trichinosis",
+      "vale",
+      "diaphragm",
+      "reindeer",
+      "hunted",
+      "unvaccinated",
+      "captivity",
+      "cites",
+      "sixteenth",
+      "numbered",
+      "attest",
+      "hour",
+      "musical",
+      "nova",
+      "infestation",
+      "trichinella"
+    ],
+    "prompt_length": 1666,
+    "category": "5631 agricultural activity"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4511",
+  "concept_data": {
+    "title": "passenger traffic",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "carriage of passengers",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"passenger traffic,\" redirected to the preferred term \"carriage of passengers,\" encompasses the organized movement of individuals across various transport modalities, including seaborne and air carriers. EU regulations enshrining passenger rights aim to protect tourists and ensure a seamless travel experience. This includes provisions for itinerary planning, refreshments during transit, and obligations of exploitants to provide adequate services. Legal frameworks address suburban transport and the operation of autobus services, ensuring compliance with standards. The regulation of this sector is crucial for busy routes, particularly on fridays and saturdays, facilitating the navigation of diverse passenger needs across Europe.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:50.986282",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 2153,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 30,
+      "selected_avg_freq": 14.266666666666667
+    },
+    "related_words": [
+      "seaborne",
+      "asor",
+      "enshrining",
+      "reizen",
+      "tourists",
+      "vermaat",
+      "autobedrijf",
+      "ferne",
+      "anciens",
+      "établissements",
+      "frisch",
+      "rollingergrund",
+      "fridays",
+      "saturdays",
+      "schiocchet",
+      "ludelange",
+      "boulange",
+      "overlapped",
+      "audun",
+      "itinerary",
+      "aumetz",
+      "tressange",
+      "bure",
+      "nondkeil",
+      "mildness",
+      "waybill",
+      "luxavia",
+      "canach",
+      "luxembourgeoise",
+      "exploitants"
+    ],
+    "prompt_length": 1730,
+    "category": "4811 organisation of transport"
+  }
+}

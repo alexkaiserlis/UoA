@@ -1,0 +1,63 @@
+{
+  "concept_id": "6076",
+  "concept_data": {
+    "title": "Community Plant Variety Office",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The Community Plant Variety Office (CPVO) is a centralised EU institution responsible for examining and granting plant variety rights in accordance with the UPOV Convention. It plays a crucial role in horticulture by ensuring that candidates can file applications for plant varieties, which are catalogued for public access. The CPVO chairperson oversees the appeals process, allowing appellants to contest refusals or surcharges related to their applications. By observing the attractiveness of various plant varieties, the CPVO greatly contributes to the revenues of the agricultural sector. The office also facilitates the renewal of rights and manages the grouping of varieties, ensuring compliance with legal standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:07:21.158183",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 441,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 878,
+      "selected_avg_freq": 413.36
+    },
+    "related_words": [
+      "millett",
+      "kiewiet",
+      "kooij",
+      "godinho",
+      "expection",
+      "appellants",
+      "pereira",
+      "bart",
+      "cpvo",
+      "carlos",
+      "arranging",
+      "surcharges",
+      "upov",
+      "timothy",
+      "paul",
+      "filing",
+      "attractiveness",
+      "chairperson",
+      "observing",
+      "catalogues",
+      "appeals",
+      "resignation",
+      "der",
+      "vacant",
+      "centralised",
+      "vice",
+      "grouping",
+      "alternate",
+      "van",
+      "ante"
+    ],
+    "prompt_length": 1694,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

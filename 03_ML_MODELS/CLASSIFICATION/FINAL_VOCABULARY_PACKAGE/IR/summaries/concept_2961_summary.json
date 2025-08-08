@@ -1,0 +1,63 @@
+{
+  "concept_id": "2961",
+  "concept_data": {
+    "title": "re-export",
+    "category_code": "2016",
+    "category_name": "trade",
+    "category_full": "2016 trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"re-export\" refers to the process of exporting a commodity that has previously been imported, often subject to specific regulations and countervailability assessments. This concept is crucial for maintaining compliance with trade agreements and ensuring that inward and outward flows of goods, such as bearings and filmscreens, abide by established rules. The EU may implement amendments to facilitate re-export processes, addressing discrepancies in valuation and countervailing duties. Additionally, the reasoning behind re-export regulations often involves strengthening trade relationships, particularly with countries like Thailand, where regulations may include phytosanitary measures. The computerized tracking of re-exports ensures accurate recalculation of duties and compliance with international standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:11:40.803733",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 542,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 473,
+      "selected_avg_freq": 231.01333333333332
+    },
+    "related_words": [
+      "commundity",
+      "mineba",
+      "ths",
+      "departement",
+      "nbm",
+      "amendements",
+      "countervaling",
+      "knonw",
+      "inury",
+      "definitve",
+      "filmscreens",
+      "baht",
+      "ayutthaya",
+      "bang",
+      "strenghtening",
+      "febma",
+      "countervailability",
+      "pelmec",
+      "nmb",
+      "minebea",
+      "bangkok",
+      "computerization",
+      "ippc",
+      "recalculate",
+      "countervailable",
+      "recalculation",
+      "pvc",
+      "tech",
+      "equates",
+      "abiding"
+    ],
+    "prompt_length": 1679,
+    "category": "2016 trade"
+  }
+}

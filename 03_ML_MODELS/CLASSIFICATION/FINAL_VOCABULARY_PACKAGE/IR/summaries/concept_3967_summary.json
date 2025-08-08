@@ -1,0 +1,63 @@
+{
+  "concept_id": "3967",
+  "concept_data": {
+    "title": "stratosphere",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": true,
+    "preferred_term": "atmosphere",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"stratosphere,\" categorized under the natural environment, is redirected to the preferred term \"atmosphere\" in EU legal and regulatory frameworks. This relationship underscores the importance of atmospheric layers, particularly in discussions surrounding ozone depletion and the regulation of chlorofluorocarbons and halons. The EU employs sophisticated measuring apparatus, such as spectrometers, to assess atmospheric particles and radiation absorption. Regulatory measures, including quotas for importers, aim to deplete harmful substances while promoting educational initiatives on atmospheric sensitivity. Experts invoke the Montreal Protocol and London amendments to enhance precision in atmospheric protection, ensuring compliance with established environmental standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:51:53.748117",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 155,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 3811,
+      "selected_avg_freq": 1548.4133333333334
+    },
+    "related_words": [
+      "photoacoustic",
+      "edt",
+      "gilford",
+      "oas",
+      "spectral",
+      "spectrometer",
+      "halons",
+      "aerosol",
+      "park",
+      "chlorofluorocarbons",
+      "estate",
+      "particles",
+      "deplete",
+      "ozone",
+      "montreal",
+      "atmospheric",
+      "spectrum",
+      "layer",
+      "radiation",
+      "royal",
+      "absorption",
+      "specially",
+      "sensitivity",
+      "precision",
+      "affirmative",
+      "london",
+      "invoke",
+      "educational",
+      "apparatus",
+      "measuring"
+    ],
+    "prompt_length": 1708,
+    "category": "5211 natural environment"
+  }
+}

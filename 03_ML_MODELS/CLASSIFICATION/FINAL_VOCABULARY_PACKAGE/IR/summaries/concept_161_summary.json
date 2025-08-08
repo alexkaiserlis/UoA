@@ -1,0 +1,63 @@
+{
+  "concept_id": "161",
+  "concept_data": {
+    "title": "zero-duty quota",
+    "category_code": "2011",
+    "category_name": "tariff policy",
+    "category_full": "2011 tariff policy",
+    "is_redirect": true,
+    "preferred_term": "tariff quota",
+    "relation_type": "USE"
+  },
+  "summary": "The \"zero-duty quota,\" a term redirected to \"tariff quota,\" is a crucial element in the EU's 2011 tariff policy. This regulatory framework establishes uninterrupted access for specific products, such as boysenberries and marinated items, under reduced or zero tariffs. The initial arrangements necessitate that eligible products, including polyethylenes and hydroxydes, are accompanied by proper documentation to ensure compliance. The tariff quota system significantly reduces trade barriers, fostering economic cooperation among member states like Portugal. By adapting to these tariff quotas, the EU aims to accommodate various sectors while ensuring that the administration of these measures remains efficient and effective, thereby enhancing market dynamics.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:39.214301",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 4532,
+      "requested_words": 150,
+      "min_frequency_found": 1,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 1,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 3.546666666666667
+    },
+    "related_words": [
+      "uninterrrupted",
+      "spian",
+      "intial",
+      "pentylanthraquinone",
+      "provding",
+      "boysenberries",
+      "jam",
+      "polyethylenes",
+      "fleshed",
+      "marinated",
+      "evaporated",
+      "producted",
+      "fultil",
+      "orvi",
+      "ministration",
+      "insignifiant",
+      "tariffquota",
+      "porgugal",
+      "raspings",
+      "ajdapt",
+      "reapeal",
+      "interferon",
+      "forzen",
+      "trariff",
+      "necessarry",
+      "estbablishing",
+      "tariffa",
+      "accompaanied",
+      "aggrangements",
+      "reduging"
+    ],
+    "prompt_length": 1770,
+    "category": "2011 tariff policy"
+  }
+}

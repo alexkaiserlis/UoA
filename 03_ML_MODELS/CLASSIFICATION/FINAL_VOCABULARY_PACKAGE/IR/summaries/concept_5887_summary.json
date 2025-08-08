@@ -1,0 +1,63 @@
+{
+  "concept_id": "5887",
+  "concept_data": {
+    "title": "aviation safety",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "air safety",
+    "relation_type": "USE"
+  },
+  "summary": "Aviation safety, often referred to as air safety, encompasses regulatory frameworks ensuring the secure operation of airspaces within the EU. This concept involves rulemaking processes that address various aspects, including the stowage of cargo and the screening of passengers and baggage by screeners. The EU's approach includes oversight of flight crew licensing (FCL) and the implementation of safety management systems (SMS) to minimize risks associated with operations, such as those involving sailplanes or piston aircraft. Regulatory bodies may request assessments from reviewers to uncovering potential risks, ensuring compliance with standards like EUAVSEC. The aim is to create the safest aviation environment possible, aligning with international best practices.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:53:11.393616",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1684,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 44,
+      "selected_avg_freq": 19.893333333333334
+    },
+    "related_words": [
+      "airspaces",
+      "alphabetically",
+      "vfr",
+      "stowage",
+      "airside",
+      "rulemaking",
+      "ela",
+      "vagar",
+      "kangerlussuaq",
+      "hhmd",
+      "headgear",
+      "prosthesis",
+      "intrusive",
+      "screened",
+      "yaizu",
+      "überlingen",
+      "acas",
+      "reviewer",
+      "sailplane",
+      "gliding",
+      "bga",
+      "lapl",
+      "spl",
+      "examiner",
+      "uncovering",
+      "lags",
+      "stebs",
+      "divesting",
+      "screeners",
+      "refreshed"
+    ],
+    "prompt_length": 1651,
+    "category": "4806 transport policy"
+  }
+}

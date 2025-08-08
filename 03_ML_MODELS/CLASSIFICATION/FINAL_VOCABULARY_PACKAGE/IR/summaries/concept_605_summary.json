@@ -1,0 +1,63 @@
+{
+  "concept_id": "605",
+  "concept_data": {
+    "title": "maritime waters",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": true,
+    "preferred_term": "international waters",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"maritime waters,\" redirected to \"international waters,\" encompasses areas beyond national jurisdiction, where various legal frameworks apply, including international law and EU regulations. These waters are crucial for partnerships in fisheries management, particularly under Regional Fisheries Management Organizations (RFMOs) that govern species like boarfish and deep-sea creatures. The EU's purview includes ensuring sustainable practices, addressing underutilisation of resources, and managing discarded catches of species such as clupea and harengus. The European Maritime Safety Agency (EMSA) plays a pivotal role in pilotage and safety measures, while the regulation of deepwater species like roughy and grenadier remains essential for ecological balance and economic viability.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:45:23.959292",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 872,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 162,
+      "selected_avg_freq": 61.13333333333333
+    },
+    "related_words": [
+      "sparked",
+      "partership",
+      "ghl",
+      "sbr",
+      "rfmo",
+      "purview",
+      "jaw",
+      "dcommon",
+      "pilotage",
+      "safeseanet",
+      "boarfish",
+      "deepsea",
+      "rfmos",
+      "yellowtail",
+      "vian",
+      "megrims",
+      "forkbeard",
+      "greenlandic",
+      "fork",
+      "underutilisation",
+      "viib",
+      "forkbeards",
+      "roundnose",
+      "grenadier",
+      "roughy",
+      "clupea",
+      "harengus",
+      "pilots",
+      "lived",
+      "vib"
+    ],
+    "prompt_length": 1652,
+    "category": "1231 international law"
+  }
+}

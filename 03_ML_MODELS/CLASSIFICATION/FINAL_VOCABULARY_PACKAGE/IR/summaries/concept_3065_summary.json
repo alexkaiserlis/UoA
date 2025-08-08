@@ -1,0 +1,63 @@
+{
+  "concept_id": "3065",
+  "concept_data": {
+    "title": "market support",
+    "category_code": "2006",
+    "category_name": "trade policy",
+    "category_full": "2006 trade policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"market support\" within EU trade policy refers to regulatory measures aimed at fortifying market stability, particularly in sectors like agriculture and wine production. This includes cofinancing schemes that assist winegrowers in regions such as Lérida and Zaragoza, where traditional practices face struggles against market disturbances. The EU employs mechanisms to cushion the impact of fluctuating prices on producers, ensuring that unjustifiable penalization does not occur. By facilitating the repurchasing of surplus products, such as bullocks or vinous goods, the EU seeks to soften the effects of market volatility. Through these efforts, the EU aims to enhance throughput and support local economies, including those in comarcas like Emsland and Weser.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:43:03.587717",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1314,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 140,
+      "selected_avg_freq": 59.04
+    },
+    "related_words": [
+      "fortifier",
+      "mediocre",
+      "ber",
+      "bying",
+      "lerida",
+      "wingede",
+      "sheme",
+      "diepholz",
+      "traditinal",
+      "verden",
+      "struggle",
+      "oirlo",
+      "toldijke",
+      "simplest",
+      "repurchasing",
+      "damme",
+      "penalization",
+      "lérida",
+      "bullocks",
+      "curtailing",
+      "distrubance",
+      "emsland",
+      "flaps",
+      "lairage",
+      "winegrowers",
+      "consigning",
+      "zaragoza",
+      "segovia",
+      "cull",
+      "brains"
+    ],
+    "prompt_length": 1668,
+    "category": "2006 trade policy"
+  }
+}

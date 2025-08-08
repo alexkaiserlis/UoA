@@ -1,0 +1,63 @@
+{
+  "concept_id": "3528",
+  "concept_data": {
+    "title": "animal resources",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"animal resources\" within EU legal and regulatory frameworks encompasses the management and conservation of various species, particularly in relation to habitats and ecosystems. It aims to establish standards for the sustainable use of animal resources, including fisheries and aquaculture. The EU seeks to clarify practices surrounding the translocations and introductions of alien species, ensuring that such actions are transparent and informed by data. Regulations are developed to assess the impact of these practices, allowing for the identification of species that require protection. Furthermore, the harmonisation of communication and registers supports the minimisation of risks associated with non-native species, thereby safeguarding local biodiversity.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:01:30.678096",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 98,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 98,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2049.3061224489797
+    },
+    "related_words": [
+      "translocations",
+      "alien",
+      "informatics",
+      "introductions",
+      "absent",
+      "habitats",
+      "locally",
+      "registers",
+      "minimise",
+      "aquatic",
+      "transparent",
+      "language",
+      "adding",
+      "aquaculture",
+      "harmonisation",
+      "target",
+      "identify",
+      "fisheries",
+      "clarify",
+      "develop",
+      "assist",
+      "species",
+      "share",
+      "assess",
+      "requests",
+      "define",
+      "associated",
+      "practices",
+      "developed",
+      "establishes"
+    ],
+    "prompt_length": 1678,
+    "category": "5211 natural environment"
+  }
+}

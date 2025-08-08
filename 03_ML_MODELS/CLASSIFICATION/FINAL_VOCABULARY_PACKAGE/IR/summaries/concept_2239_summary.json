@@ -1,0 +1,26 @@
+{
+  "concept_id": "2239",
+  "concept_data": {
+    "title": "uncle",
+    "category_code": "2806",
+    "category_name": "family",
+    "category_full": "2806 family",
+    "is_redirect": true,
+    "preferred_term": "family relationship",
+    "relation_type": "USE"
+  },
+  "summary": "The Eurovoc concept \"uncle\" is categorized under family relationships, specifically redirecting to the preferred term \"family relationship.\" In the context of EU legal and regulatory frameworks, family relationships are pivotal in various legal matters, including inheritance rights, cross-border family law, and social security entitlements. The term \"uncle\" signifies a familial connection that may influence legal standings, particularly in matters of guardianship or kinship recognition. Understanding these relationships is essential for effective legal interpretation and application within EU jurisdictions, ensuring compliance with regulations that govern familial rights and obligations across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:17:33.377827",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 91,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1190,
+    "category": "2806 family"
+  }
+}

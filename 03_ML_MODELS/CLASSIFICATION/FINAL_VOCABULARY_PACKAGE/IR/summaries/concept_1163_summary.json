@@ -1,0 +1,63 @@
+{
+  "concept_id": "1163",
+  "concept_data": {
+    "title": "staff turnover",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "personnel administration",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"staff turnover,\" redirected to \"personnel administration,\" encompasses the processes involved in managing personnel changes within EU institutions. This includes the recruitment of new officers, the appointment of probationers, and the oversight of disciplinary actions against staff. Effective personnel administration is crucial for maintaining the inviolability of privileges and immunities afforded to EU officials, particularly in combating corruption and ensuring transparency. Managers and supervisors must cope with the challenges of decentralized recruitment efforts and the need for confidentiality in handling sensitive information. Additionally, the role of agencies like OLAF in investigating suspicions of misconduct underscores the importance of robust personnel management practices across EU delegations and councils.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:39:37.017752",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 574,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 479,
+      "selected_avg_freq": 213.14
+    },
+    "related_words": [
+      "iaa",
+      "dereliction",
+      "servant",
+      "probationer",
+      "probationary",
+      "circumscribed",
+      "privilege",
+      "secretarial",
+      "archives",
+      "inviolability",
+      "recruited",
+      "translating",
+      "cepol",
+      "suspicions",
+      "edfs",
+      "decentralized",
+      "disciplinary",
+      "edf",
+      "legislator",
+      "consultants",
+      "supervisors",
+      "appointments",
+      "college",
+      "posted",
+      "convene",
+      "entrusts",
+      "interpreting",
+      "olaf",
+      "corruption",
+      "officers"
+    ],
+    "prompt_length": 1784,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

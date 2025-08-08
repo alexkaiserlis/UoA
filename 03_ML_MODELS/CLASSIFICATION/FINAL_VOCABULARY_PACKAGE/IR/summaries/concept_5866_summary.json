@@ -1,0 +1,63 @@
+{
+  "concept_id": "5866",
+  "concept_data": {
+    "title": "guarantee fund for lending transactions",
+    "category_code": "1021",
+    "category_name": "EU finance",
+    "category_full": "1021 EU finance",
+    "is_redirect": true,
+    "preferred_term": "budgetary reserve (EU)",
+    "relation_type": "USE"
+  },
+  "summary": "The \"guarantee fund for lending transactions,\" also referred to as \"budgetary reserve (EU),\" serves as a financial mechanism to support SMEs and other debtors in the EU. This fund is designed to provision against potential defaults, ensuring that outstanding liabilities are honoured, even in crises. It facilitates access to loans by providing a safety net for lenders, thus modernising the financing landscape. The fund operates with uncapped reserves, allowing for flexibility in programming and modulation of resources. Its complexity lies in the need for concurrent management of risks and forecasts, ensuring that investments are viable and that networks remain robust against late repayments and decommitted funds. By connecting various financial instruments, the fund aims to recover outstanding debts while maintaining a horizontal approach to financial stability across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:35:27.346754",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 129,
+    "vocabulary_stats": {
+      "total_related_words": 420,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 982,
+      "selected_avg_freq": 541.6333333333333
+    },
+    "related_words": [
+      "uncapped",
+      "concurrent",
+      "defaulting",
+      "irrespectively",
+      "securitisation",
+      "decommitted",
+      "debtors",
+      "provisioning",
+      "honoured",
+      "endowed",
+      "agreeing",
+      "accessions",
+      "unpaid",
+      "crises",
+      "accomplished",
+      "connecting",
+      "modernise",
+      "invested",
+      "eafrd",
+      "eagf",
+      "modulation",
+      "executed",
+      "liabilities",
+      "smes",
+      "viability",
+      "recovered",
+      "telecommunications",
+      "outstanding",
+      "auditors",
+      "undermine"
+    ],
+    "prompt_length": 1770,
+    "category": "1021 EU finance"
+  }
+}

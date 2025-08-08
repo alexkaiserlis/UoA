@@ -1,0 +1,63 @@
+{
+  "concept_id": "3616",
+  "concept_data": {
+    "title": "European industry",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": true,
+    "preferred_term": "European industrial area",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"European industry,\" redirected to the preferred term \"European industrial area,\" encompasses the regulatory framework governing industrial structures within the EU. This framework aims to secure a competitive environment for industries such as steel, coal, and chemicals, which are indispensable for economic growth. It addresses the insufficiency of resources and the need to overcome barriers at frontiers, ensuring the free flows of goods. Regulatory measures, including quotas and tariffs, are implemented to protect domestic producers while justifying derogations for external manufacturers. The European Coal and Steel Community (ECSC) plays a crucial role in authorizing and maintaining these protective measures, which are essential for sustaining industrial undertakings and preventing injurious competition.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:05:41.178606",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 108,
+      "requested_words": 150,
+      "min_frequency_found": 31,
+      "max_frequency_found": 4108,
+      "selected_words": 108,
+      "selected_min_freq": 31,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1648.3333333333333
+    },
+    "related_words": [
+      "transforming",
+      "insufficiency",
+      "injurious",
+      "securing",
+      "sure",
+      "overcome",
+      "jeopardize",
+      "iron",
+      "competing",
+      "justifying",
+      "indispensable",
+      "frontiers",
+      "flows",
+      "chemical",
+      "coal",
+      "function",
+      "preferential",
+      "physical",
+      "steel",
+      "protective",
+      "industries",
+      "insufficient",
+      "authorization",
+      "governments",
+      "suspension",
+      "quotas",
+      "produce",
+      "ecsc",
+      "quota",
+      "derogating"
+    ],
+    "prompt_length": 1768,
+    "category": "6806 industrial structures and policy"
+  }
+}

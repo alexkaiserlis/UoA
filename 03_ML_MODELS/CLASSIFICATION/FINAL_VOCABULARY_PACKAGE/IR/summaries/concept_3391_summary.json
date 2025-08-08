@@ -1,0 +1,63 @@
+{
+  "concept_id": "3391",
+  "concept_data": {
+    "title": "Valencian Community",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": true,
+    "preferred_term": "Community of Valencia",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Valencian Community,\" also referred to as the \"Community of Valencia,\" is a significant region within the EU Member States, recognized for its diverse agricultural products such as chufa, cítricos, and arròs. The region's economy is bolstered by sectors like textiles, leather, and footwear, which are subject to EU regulations on designations and specifications. The Valencians actively engage in practices such as transhumance and the cultivation of nuts and goats, contributing to the region's cultural heritage. EU policies favour the mobilisation of resources and reintegration of redundant sectors, addressing globalisation challenges. The community's legal framework supports the development of PDO products and promotes sustainable practices, ensuring that the unique characteristics of the valenciana identity are preserved.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:21:01.631340",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 243,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1664,
+      "selected_avg_freq": 746.02
+    },
+    "related_words": [
+      "chufa",
+      "comunitat",
+      "cítricos",
+      "valencianos",
+      "cítrics",
+      "valencians",
+      "arròs",
+      "valència",
+      "arroz",
+      "fabricated",
+      "aceite",
+      "comunidad",
+      "transhumance",
+      "valenciana",
+      "valencia",
+      "practising",
+      "footwear",
+      "leather",
+      "egf",
+      "redundancies",
+      "nace",
+      "reintegration",
+      "globalisation",
+      "broadened",
+      "mobilised",
+      "pdo",
+      "mobilise",
+      "goat",
+      "textiles",
+      "buildings"
+    ],
+    "prompt_length": 1740,
+    "category": "7211 regions of EU Member States"
+  }
+}

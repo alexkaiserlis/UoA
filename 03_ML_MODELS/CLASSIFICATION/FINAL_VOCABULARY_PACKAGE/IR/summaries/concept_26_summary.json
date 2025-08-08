@@ -1,0 +1,63 @@
+{
+  "concept_id": "26",
+  "concept_data": {
+    "title": "European Communities",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"European Communities\" represents an evolutionary framework underpinning the integration of member states within the EU. This legal construct facilitates the alignment of diverse national laws and policies, pushing for a cohesive regulatory environment. It encompasses various dimensions, including transfrontier cooperation and the ratification of treaties that stimulate collaboration among signatory nations. The dissolution of former Yugoslav states, such as Montenegro and Serbia, illustrates the complexities of accession and independence, while the consultative processes in cities like Cardiff and Copenhagen highlight the importance of unanimous assent in legislative matters. The audiovisual sector, for instance, is a platform for professionals to choose and deposit content, thereby intensifying cultural ties across Europe. As candidate countries like North Macedonia and others join, the EU's commitment to freedoms and stabilization remains paramount, ensuring that all member states are welcomed into a cooperative framework that fosters science, media, and economic growth.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:01:52.400179",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 148,
+    "vocabulary_stats": {
+      "total_related_words": 385,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 980,
+      "selected_avg_freq": 499.74666666666667
+    },
+    "related_words": [
+      "evolutionary",
+      "pushing",
+      "declines",
+      "seabed",
+      "cardiff",
+      "sentences",
+      "depositing",
+      "center",
+      "transfrontier",
+      "ties",
+      "balkan",
+      "underpin",
+      "dissolution",
+      "attaches",
+      "succession",
+      "audiovisual",
+      "intensify",
+      "professionals",
+      "television",
+      "ahead",
+      "unanimous",
+      "copenhagen",
+      "helsinki",
+      "platform",
+      "ratified",
+      "signatory",
+      "join",
+      "freedoms",
+      "candidate",
+      "montenegro"
+    ],
+    "prompt_length": 1706,
+    "category": "1016 European construction"
+  }
+}

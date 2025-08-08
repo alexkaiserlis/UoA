@@ -1,0 +1,63 @@
+{
+  "concept_id": "5016",
+  "concept_data": {
+    "title": "reforestation",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": true,
+    "preferred_term": "afforestation",
+    "relation_type": "USE"
+  },
+  "summary": "Reforestation, often redirected to the preferred term \"afforestation,\" encompasses the practice of establishing woodlands on previously non-forested land, which is critical for environmental restoration. In EU legal frameworks, afforestation is governed by guidelines that encourage the planting of diverse seedlings, including species like oak and populus, to enhance biodiversity and mitigate climate change. Regulatory measures may include strictest standards for felling and managing afforested parcels, ensuring sustainable practices. Additionally, initiatives aim to furthering the restoration of deteriorated landscapes, with estimations of carbon sequestration cycles playing a vital role in policy formulation. The EU's approach also includes revising existing laws to neutralize unsatisfactory practices and promote rotational forestry methods, thereby supporting the countryside's ecological balance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:42:25.505772",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 554,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 660,
+      "selected_avg_freq": 279.53333333333336
+    },
+    "related_words": [
+      "densify",
+      "revises",
+      "felling",
+      "sowed",
+      "reafforestation",
+      "populus",
+      "afforested",
+      "aide",
+      "accompaniment",
+      "amendement",
+      "woodlands",
+      "seedlings",
+      "nigra",
+      "cork",
+      "furthering",
+      "estimations",
+      "afforestation",
+      "oak",
+      "strictest",
+      "languedoc",
+      "neutralize",
+      "roussillon",
+      "rotational",
+      "cleansing",
+      "alters",
+      "practising",
+      "count",
+      "affording",
+      "forests",
+      "incorrectly"
+    ],
+    "prompt_length": 1733,
+    "category": "5636 forestry"
+  }
+}

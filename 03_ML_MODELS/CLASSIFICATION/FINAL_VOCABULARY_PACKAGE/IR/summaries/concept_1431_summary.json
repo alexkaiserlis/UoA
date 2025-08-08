@@ -1,0 +1,63 @@
+{
+  "concept_id": "1431",
+  "concept_data": {
+    "title": "medical computing",
+    "category_code": "3236",
+    "category_name": "information technology and data processing",
+    "category_full": "3236 information technology and data processing",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"medical computing\" encompasses the utilization of computerized systems and apparatus in healthcare, particularly for analyzing patient data and enhancing care delivery. In the EU regulatory context, medical computing is crucial for ensuring that devices, such as those used for cardiac and respiratory monitoring, meet requisite safety and efficacy standards. This includes the importation of manufactured medical devices, which must comply with federal regulations. Experts in the field are tasked with examining the relationship between technology and patient outcomes, particularly for vulnerable populations like neonates. The regulatory framework also addresses cultural concerns and the educational duty of manufacturers to provide affirmative information regarding their products.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:45:59.211073",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 118,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 118,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1637.8813559322034
+    },
+    "related_words": [
+      "cardiac",
+      "neonates",
+      "hewlett",
+      "packard",
+      "analyze",
+      "patient",
+      "respiratory",
+      "computerized",
+      "ordered",
+      "affirmative",
+      "computer",
+      "intensive",
+      "invoke",
+      "educational",
+      "apparatus",
+      "principally",
+      "care",
+      "confer",
+      "suited",
+      "medical",
+      "requisite",
+      "admission",
+      "cultural",
+      "seriously",
+      "alone",
+      "assisted",
+      "showed",
+      "composed",
+      "character",
+      "reply"
+    ],
+    "prompt_length": 1711,
+    "category": "3236 information technology and data processing"
+  }
+}

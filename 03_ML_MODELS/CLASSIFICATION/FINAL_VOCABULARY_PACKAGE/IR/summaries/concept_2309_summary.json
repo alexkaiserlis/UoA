@@ -1,0 +1,63 @@
+{
+  "concept_id": "2309",
+  "concept_data": {
+    "title": "discarded fish",
+    "category_code": "5641",
+    "category_name": "fisheries",
+    "category_full": "5641 fisheries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"discarded fish\" pertains to the regulatory challenges within EU fisheries management, particularly concerning the sustainability of finfish populations like micromesistius and scomber. Discarding, often a result of highgrading practices, leads to significant waste and impacts the survivability of species such as anchovy and nephrops. The EU's Common Fisheries Policy (CFP) aims to address these issues by promoting selectivity in fishing methods, including the use of creels and fyke traps, to minimize crowding and entangling of non-target species. Regulations advise against practices that nullified the abundance of vital stocks, ensuring that trawlers and pair fishing methods align with conservation goals. Enhanced monitoring and reporting mechanisms are essential to prevent mismatches in catch data, thereby improving the management of resources like albacore and sprat.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:14:49.808713",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 682,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 209,
+      "selected_avg_freq": 79.05333333333333
+    },
+    "related_words": [
+      "nwwrac",
+      "crowding",
+      "dying",
+      "micromesistius",
+      "poutassou",
+      "midwater",
+      "ptm",
+      "encrasicolus",
+      "boxing",
+      "creels",
+      "fyke",
+      "baltfish",
+      "entangling",
+      "hooking",
+      "mcrs",
+      "crashes",
+      "underlies",
+      "nullified",
+      "finfish",
+      "positioned",
+      "alalunga",
+      "trachurus",
+      "inexistent",
+      "jack",
+      "highgrading",
+      "engraulis",
+      "meshed",
+      "pots",
+      "survivability",
+      "trawler"
+    ],
+    "prompt_length": 1648,
+    "category": "5641 fisheries"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3286",
+  "concept_data": {
+    "title": "paediatrics",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"paediatrics\" within EU legal and regulatory frameworks pertains to the specialized field of healthcare focused on the medical treatment of children. Regulatory authorities are empowered to define and specify essential elements for paediatric medicinal products, ensuring their safety and efficacy. The implementation of paediatric regulations includes provisions for deferral of certain requirements, allowing for the collection of relevant data before the completion of product development. Regulatory scrutiny is vital in the investigation of potential infringements, with penalties for non-compliance. Furthermore, the scope of these regulations is designed to enhance the availability of paediatric medicines across EU regions, promoting social and financial well-being for young patients.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:25:58.764173",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 81,
+      "requested_words": 150,
+      "min_frequency_found": 10,
+      "max_frequency_found": 4108,
+      "selected_words": 81,
+      "selected_min_freq": 10,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2214.1604938271603
+    },
+    "related_words": [
+      "paediatric",
+      "deferral",
+      "medicinal",
+      "infringement",
+      "initiation",
+      "penalties",
+      "scrutiny",
+      "empowered",
+      "supplement",
+      "investigation",
+      "regulatory",
+      "conferred",
+      "collection",
+      "completion",
+      "define",
+      "grounds",
+      "specify",
+      "elements",
+      "exercise",
+      "designed",
+      "plan",
+      "methods",
+      "consulting",
+      "powers",
+      "amounts",
+      "granting",
+      "maximum",
+      "amend",
+      "acting",
+      "regions"
+    ],
+    "prompt_length": 1645,
+    "category": "2841 health"
+  }
+}

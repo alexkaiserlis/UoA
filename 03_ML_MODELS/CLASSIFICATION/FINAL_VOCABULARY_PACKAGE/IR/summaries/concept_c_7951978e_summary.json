@@ -1,0 +1,26 @@
+{
+  "concept_id": "c_7951978e",
+  "concept_data": {
+    "title": "veterinary drug residue",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": true,
+    "preferred_term": "drug residue",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"veterinary drug residue\" refers to the remnants of pharmaceuticals used in veterinary medicine that may remain in food products derived from treated animals. This concept is crucial for ensuring public health and food safety, as the presence of drug residues can pose risks to consumers. The term redirects to \"drug residue,\" which encompasses all types of residues from medicinal products. EU regulations, such as Regulation (EC) No 470/2009, establish maximum residue limits (MRLs) to safeguard against potential adverse effects. Monitoring and compliance with these standards are essential for maintaining the integrity of the food supply chain.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:37:46.409179",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1201,
+    "category": "2841 health"
+  }
+}

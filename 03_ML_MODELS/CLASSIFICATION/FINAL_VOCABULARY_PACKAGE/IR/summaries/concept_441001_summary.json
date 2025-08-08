@@ -1,0 +1,63 @@
+{
+  "concept_id": "441001",
+  "concept_data": {
+    "title": "executive agency",
+    "category_code": "1006",
+    "category_name": "EU institutions and European civil service",
+    "category_full": "1006 EU institutions and European civil service",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"executive agency\" within the EU context refers to a body entrusted with the implementation of specific tasks related to the EU's Multiannual Financial Framework (MFF). These agencies focus on thematic portfolios, such as research and innovation, and are designed to enhance policymaking efficiency by centralizing functions and delegating responsibilities. By outsourcing certain operations, they can capitalize on specialized expertise, thus improving outreach and impact. For instance, the European Research Council (ERC) and the COSME programme exemplify agencies that pool resources and assemble knowledge to address disruptive challenges. Their legacy includes streamlined processes and quicker responses to emerging needs, reinforcing the EU's commitment to effective governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:12:29.316369",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 509,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 373,
+      "selected_avg_freq": 136.81333333333333
+    },
+    "related_words": [
+      "curie",
+      "overtime",
+      "mff",
+      "cba",
+      "cosme",
+      "helpdesk",
+      "iporta",
+      "thematically",
+      "iee",
+      "focussing",
+      "portfolios",
+      "anec",
+      "policymaking",
+      "directorates",
+      "relinquishing",
+      "outsourcing",
+      "cip",
+      "centralisation",
+      "strand",
+      "disruptive",
+      "emff",
+      "entrusting",
+      "ipr",
+      "marie",
+      "erc",
+      "succeeding",
+      "capitalise",
+      "promoter",
+      "polo",
+      "marco"
+    ],
+    "prompt_length": 1680,
+    "category": "1006 EU institutions and European civil service"
+  }
+}

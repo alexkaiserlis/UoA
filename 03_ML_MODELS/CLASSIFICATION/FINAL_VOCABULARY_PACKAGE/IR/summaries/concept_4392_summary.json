@@ -1,0 +1,63 @@
+{
+  "concept_id": "4392",
+  "concept_data": {
+    "title": "VAT rate",
+    "category_code": "2446",
+    "category_name": "taxation",
+    "category_full": "2446 taxation",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"VAT rate\" is a critical concept within EU taxation, functioning to regulate the taxation of goods and services. It calculates the tax burden on various categories, including vehicles and alcohols, ensuring that disparate rates do not generate undistorted market conditions. The VAT system allows for deductible expenses, where businesses can reclaim tax on outgoing supplies, thus relieving financial pressure. Additionally, the VAT framework includes provisions for specific sectors, such as distilleries and motoring, where unique rates may apply. This rationalises the taxing process, aligning with broader EU goals of economic efficiency and fairness, while also addressing the topography of consumption patterns across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:21:38.991756",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 1092,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 186,
+      "selected_avg_freq": 89.12666666666667
+    },
+    "related_words": [
+      "vehichles",
+      "degoration",
+      "relieves",
+      "motoring",
+      "consumes",
+      "outgoing",
+      "calculates",
+      "hlpa",
+      "cotisation",
+      "boissons",
+      "alcooliques",
+      "vignette",
+      "sociale",
+      "vss",
+      "immoderate",
+      "mileage",
+      "rums",
+      "posei",
+      "proviso",
+      "permanence",
+      "eighteenth",
+      "disparate",
+      "alignments",
+      "undistorted",
+      "admitting",
+      "restrain",
+      "functioned",
+      "bigger",
+      "jewellery",
+      "generates"
+    ],
+    "prompt_length": 1670,
+    "category": "2446 taxation"
+  }
+}

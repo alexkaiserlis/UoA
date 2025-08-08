@@ -1,0 +1,63 @@
+{
+  "concept_id": "3766",
+  "concept_data": {
+    "title": "oil rig",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": true,
+    "preferred_term": "offshore oil structure",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"oil rig,\" a redirect to \"offshore oil structure,\" encompasses various platforms utilized in the oil industry for drilling and extraction. In the EU regulatory context, these structures are subject to stringent legal frameworks aimed at preventing noxious discharges and spills, which can have devastating environmental impacts. Regulatory bodies stress the importance of timely responses to incidents, employing dispersants to cleanse affected areas. Subcontractors involved in the construction and operation of these platforms must adhere to strict mooring and safety standards to avoid contraventions. The lessons learned from past incidents inform current practices, ensuring that the prestige of the offshore sector is maintained while addressing misgivings about reliability and environmental safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:25:20.635329",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 789,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 329,
+      "selected_avg_freq": 158.65333333333334
+    },
+    "related_words": [
+      "osirg",
+      "erika",
+      "cecis",
+      "dispersants",
+      "allay",
+      "mooring",
+      "misgivings",
+      "cleanseanet",
+      "shrunk",
+      "submarine",
+      "win",
+      "subcontracts",
+      "timeliness",
+      "noxious",
+      "misses",
+      "dissuade",
+      "theory",
+      "verbale",
+      "yard",
+      "contravention",
+      "contradiction",
+      "yards",
+      "drilling",
+      "escalation",
+      "curtail",
+      "counterparts",
+      "pipelines",
+      "subcontractors",
+      "feels",
+      "spills"
+    ],
+    "prompt_length": 1700,
+    "category": "6616 oil industry"
+  }
+}

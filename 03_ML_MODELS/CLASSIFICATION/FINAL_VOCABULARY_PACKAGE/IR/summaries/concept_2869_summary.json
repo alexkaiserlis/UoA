@@ -1,0 +1,63 @@
+{
+  "concept_id": "2869",
+  "concept_data": {
+    "title": "quality of the environment",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"quality of the environment\" is a pivotal concept within EU environmental policy, encompassing various factors that influence ecological integrity. It addresses exceedences of pollutants, such as chlorides and particulates, and emphasizes the need for stringent regulations on substances like hydrobromofluorocarbons and hydrochlorofluorocarbons. The assessment of environmental quality involves monitoring phytoplankton, macrophytes, and phytobenthos, which relay critical data on ecosystem health. Legal frameworks stipulate methodologies, including spectrophotometric and chromatograph analyses, to ensure repeatable and understandable results. Furthermore, the integration of hydromorphological considerations and the management of hydrocarbons propel efforts toward sustainable practices, enhancing the overall quality of the environment in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:55:47.508873",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 1044,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 158,
+      "selected_avg_freq": 65.67333333333333
+    },
+    "related_words": [
+      "exceedences",
+      "phytoplankton",
+      "macrophytes",
+      "phytobenthos",
+      "hydromorphological",
+      "relay",
+      "epefe",
+      "propel",
+      "cm³",
+      "amalgamating",
+      "multidirectional",
+      "eshaust",
+      "kerosenes",
+      "hutton",
+      "xpd",
+      "rechargeable",
+      "controllable",
+      "concorde",
+      "bedfordshire",
+      "evaporative",
+      "spectrophotometric",
+      "inconceivable",
+      "propelling",
+      "unburnt",
+      "pye",
+      "unicam",
+      "stringency",
+      "climatology",
+      "chlorides",
+      "chromatograph"
+    ],
+    "prompt_length": 1792,
+    "category": "5206 environmental policy"
+  }
+}

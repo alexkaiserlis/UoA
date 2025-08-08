@@ -1,0 +1,63 @@
+{
+  "concept_id": "2661",
+  "concept_data": {
+    "title": "threshold price",
+    "category_code": "2451",
+    "category_name": "prices",
+    "category_full": "2451 prices",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"threshold price\" in EU legal and regulatory frameworks pertains to a predetermined price level that, when reached, initiates specific interventions in agricultural markets. This mechanism is vital for stabilizing prices and ensuring equitable access to essential feedingstuff. The threshold price serves as a brake against drastic price decrements, allowing for the readjustment of market alignments. In the context of commodities like milkfat, spelt, and various flours, it aids in managing availabilities and mitigating inequitable market deviations. The regulation of threshold prices also facilitates the organization of interventions, ensuring that inferior quality products do not dominate the market, thereby supporting regionalization efforts and the promotion of quality products like Parmigiano Reggiano and Grana Padano.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:11:43.060308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 116,
+    "vocabulary_stats": {
+      "total_related_words": 857,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 278,
+      "selected_avg_freq": 135.33333333333334
+    },
+    "related_words": [
+      "dispoal",
+      "husking",
+      "orgainzation",
+      "agrucultural",
+      "airising",
+      "hase",
+      "avance",
+      "inititated",
+      "decrement",
+      "grained",
+      "milkfat",
+      "invervention",
+      "readjustment",
+      "inequitable",
+      "subtracting",
+      "unrefined",
+      "alignments",
+      "unprepared",
+      "derivation",
+      "brake",
+      "activating",
+      "ration",
+      "duisburg",
+      "stabilizer",
+      "spelt",
+      "fluidity",
+      "parmigiano",
+      "reggiano",
+      "groats",
+      "palermo"
+    ],
+    "prompt_length": 1691,
+    "category": "2451 prices"
+  }
+}

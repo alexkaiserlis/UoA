@@ -1,0 +1,63 @@
+{
+  "concept_id": "5900",
+  "concept_data": {
+    "title": "nursing care",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Nursing care\" refers to the provision of medical and personal assistance to individuals requiring health support, particularly in the EU context. Regulatory frameworks, such as those outlined by Matilde Ledesma and Ralph Wallace, emphasize the importance of qualified nursing professionals, including those with diplomas and alternate qualifications. The European Union mandates that candidates for nursing positions, such as those appointed in Austria, must meet specific standards. This includes the nomination of individuals like Claudia Maslin and Enrique Gómez, ensuring that nursing care is delivered comparably across member states. The role of nursing care is critical in addressing the demanding health needs of the population, as highlighted by the qualifications of professionals like Vicente Díaz and Anna Neumann.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:55.671844",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 143,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 143,
+      "selected_min_freq": 4,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1280.2027972027972
+    },
+    "related_words": [
+      "matilde",
+      "ledesma",
+      "ralph",
+      "margaret",
+      "wallace",
+      "schwochert",
+      "novakiewitsch",
+      "kurtenbach",
+      "ilsedore",
+      "zopfy",
+      "claudia",
+      "honorio",
+      "bando",
+      "casado",
+      "jeanette",
+      "maslin",
+      "neumann",
+      "paloma",
+      "misericordia",
+      "pino",
+      "barbara",
+      "vicente",
+      "colin",
+      "enrique",
+      "christa",
+      "díaz",
+      "hernández",
+      "davidson",
+      "anna",
+      "comparably"
+    ],
+    "prompt_length": 1634,
+    "category": "2841 health"
+  }
+}

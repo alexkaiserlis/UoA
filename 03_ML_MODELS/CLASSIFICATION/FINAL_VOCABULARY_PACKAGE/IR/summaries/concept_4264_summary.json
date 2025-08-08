@@ -1,0 +1,63 @@
+{
+  "concept_id": "4264",
+  "concept_data": {
+    "title": "industrial statistics",
+    "category_code": "6806",
+    "category_name": "industrial structures and policy",
+    "category_full": "6806 industrial structures and policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Industrial statistics refer to the systematic collection and analysis of data related to various sectors of industry within the EU, crucial for informing policies and actions. These statistics are essential for governments and institutions, such as the ECSC and Euratom, to establish relevant frameworks and programmes. They involve continuous monitoring of industrial structures, including coal and steel markets, and are used to assess the consequences of regulatory measures. The data collected informs the final declaration of policies and is annexed to relevant documents. Users, including industry representatives, are consulted to ensure the statistics meet the needs of the market until the expiry of specific protocols.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:02:53.056733",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 91,
+      "requested_words": 150,
+      "min_frequency_found": 51,
+      "max_frequency_found": 4108,
+      "selected_words": 91,
+      "selected_min_freq": 51,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2096.8571428571427
+    },
+    "related_words": [
+      "spc",
+      "audiovisual",
+      "prolongation",
+      "aforesaid",
+      "infrastructure",
+      "coal",
+      "series",
+      "conference",
+      "expires",
+      "steel",
+      "continuous",
+      "half",
+      "governments",
+      "invited",
+      "ecsc",
+      "consequences",
+      "users",
+      "statistics",
+      "collected",
+      "expiry",
+      "policies",
+      "sectors",
+      "research",
+      "actions",
+      "representatives",
+      "euratom",
+      "consulted",
+      "declaration",
+      "fund",
+      "statistical"
+    ],
+    "prompt_length": 1684,
+    "category": "6806 industrial structures and policy"
+  }
+}

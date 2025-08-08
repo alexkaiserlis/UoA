@@ -1,0 +1,63 @@
+{
+  "concept_id": "6333",
+  "concept_data": {
+    "title": "European Currency Unit",
+    "category_code": "2406",
+    "category_name": "monetary relations",
+    "category_full": "2406 monetary relations",
+    "is_redirect": true,
+    "preferred_term": "Ecu",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Currency Unit\" (Ecu) was a monetary unit used within the European Union, serving as a precursor to the euro. Its introduction aimed to facilitate conversion and reduce confusion in monetary relations among member states. The Ecu was designed to adapt to various economic factors, including agriculture and marketing, while also addressing the rounding of decimal values in transactions. The Commission played a crucial role in its administration, overseeing the abolition of the Ecu as it transitioned to the euro. This modification aimed to streamline financial operations across departments in countries like Portugal, Hungary, and Bulgaria, ensuring a cohesive monetary framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:57:41.136115",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 143,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 143,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1880.1048951048951
+    },
+    "related_words": [
+      "rounding",
+      "decimal",
+      "commision",
+      "aegean",
+      "cancel",
+      "abolishing",
+      "starts",
+      "cheese",
+      "madeira",
+      "azores",
+      "confusion",
+      "places",
+      "powder",
+      "ecus",
+      "correction",
+      "came",
+      "smaller",
+      "departments",
+      "abolition",
+      "overseas",
+      "coal",
+      "factor",
+      "slovak",
+      "off",
+      "islands",
+      "steel",
+      "milk",
+      "beginning",
+      "values",
+      "interim"
+    ],
+    "prompt_length": 1663,
+    "category": "2406 monetary relations"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "438",
+  "concept_data": {
+    "title": "lexicon",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "dictionary",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"lexicon\" in the context of EU legal and regulatory documents is a redirect to the preferred term \"dictionary.\" This concept encompasses a comprehensive glossary that serves as an essential manual for understanding legal terminology across multiple languages. It is regularly updated to reflect changes in legislation and judicial matters, ensuring that agencies can access the most current version of relevant documents. By publishing these resources online, the EU aims to achieve clarity and accessibility, allowing users to draw upon a wealth of information. Consequently, this facilitates the effective implementation of legal objectives and the informed transmission of knowledge across the EU framework.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:10:21.593447",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2025.6753246753246
+    },
+    "related_words": [
+      "glossary",
+      "extrajudicial",
+      "transmitting",
+      "manual",
+      "internet",
+      "served",
+      "site",
+      "languages",
+      "judicial",
+      "publish",
+      "receiving",
+      "done",
+      "updating",
+      "regularly",
+      "agencies",
+      "version",
+      "draw",
+      "appear",
+      "service",
+      "updated",
+      "containing",
+      "supplied",
+      "adopting",
+      "points",
+      "matters",
+      "publication",
+      "documents",
+      "commercial",
+      "published",
+      "achieve"
+    ],
+    "prompt_length": 1680,
+    "category": "3221 documentation"
+  }
+}

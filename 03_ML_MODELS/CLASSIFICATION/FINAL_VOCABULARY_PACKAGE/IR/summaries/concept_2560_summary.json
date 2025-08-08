@@ -1,0 +1,63 @@
+{
+  "concept_id": "2560",
+  "concept_data": {
+    "title": "swine",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"swine\" within EU legal and regulatory frameworks encompasses various aspects of agricultural production, particularly concerning animal welfare and food safety. Regulations address issues such as immunocastration techniques to manage sexually mature testicles, minimizing taint in meat products like ham and chorizo. The presence of skatole and androstenone in backfat is scrutinized to ensure quality. Furthermore, epizootiologically significant diseases, such as PRRS, necessitate stringent monitoring and control measures. The EU also mandates analgesia during surgical procedures, including docking and clipping, to uphold animal welfare standards. Authorisation processes for swine-related products, including those from regions like Oberösterreich and Badajoz, are critical for maintaining clarity and compliance in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:35:49.798494",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 3931,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 6,
+      "selected_avg_freq": 5.213333333333333
+    },
+    "related_words": [
+      "taint",
+      "androstenone",
+      "skatole",
+      "sexually",
+      "testicles",
+      "immunocastration",
+      "castrate",
+      "analgesia",
+      "surgically",
+      "backfat",
+      "epizootiologically",
+      "flatten",
+      "propounds",
+      "prrs",
+      "abortions",
+      "krka",
+      "sanitel",
+      "despacho",
+      "ham",
+      "chorizo",
+      "lomo",
+      "kreuznach",
+      "clairty",
+      "adoted",
+      "artifical",
+      "classifal",
+      "classifcal",
+      "docking",
+      "clipping",
+      "tearing"
+    ],
+    "prompt_length": 1685,
+    "category": "5626 means of agricultural production"
+  }
+}

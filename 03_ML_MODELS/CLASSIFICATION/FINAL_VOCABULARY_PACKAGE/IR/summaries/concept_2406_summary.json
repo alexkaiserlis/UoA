@@ -1,0 +1,63 @@
+{
+  "concept_id": "2406",
+  "concept_data": {
+    "title": "national planning",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "National planning within the EU context refers to the strategic framework established by member states to coordinate economic policies, particularly in the agricultural sector. This includes the management of livestock, such as cattle, goats, and sheep, to address diseases like tuberculosis and brucellosis. By notifying farmers of disease outbreaks and facilitating eradication efforts, national planning aims to accelerate the execution of health measures. The schedule for slaughterings and dairy production is often aligned with EU regulations to ensure premium quality. Additionally, national plans may include options for beef and veal production, thereby impacting the agricultural calendar and the overall economic policy landscape.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:05:44.095303",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 262,
+      "requested_words": 150,
+      "min_frequency_found": 22,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 22,
+      "selected_max_freq": 1673,
+      "selected_avg_freq": 884.6133333333333
+    },
+    "related_words": [
+      "slaughterings",
+      "accelerating",
+      "misunderstanding",
+      "leucosis",
+      "viewpoint",
+      "suckler",
+      "tuberculosis",
+      "brucellosis",
+      "encountering",
+      "cow",
+      "goat",
+      "completing",
+      "eradicate",
+      "deduction",
+      "infected",
+      "classical",
+      "notifying",
+      "accelerated",
+      "begin",
+      "fever",
+      "postpone",
+      "thereafter",
+      "remainder",
+      "goats",
+      "cattle",
+      "eradication",
+      "dairy",
+      "hellenic",
+      "render",
+      "swine"
+    ],
+    "prompt_length": 1675,
+    "category": "1606 economic policy"
+  }
+}

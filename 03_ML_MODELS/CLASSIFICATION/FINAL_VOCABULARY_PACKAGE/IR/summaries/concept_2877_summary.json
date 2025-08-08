@@ -1,0 +1,63 @@
+{
+  "concept_id": "2877",
+  "concept_data": {
+    "title": "disinfection",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "decontamination",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU environmental policy, \"disinfection,\" redirected to \"decontamination,\" encompasses methods aimed at eradicating harmful pathogens, including invididual pathotypes of diseases like pneumonia and cryptogamic infections. Effective decontaminating practices are essential for maintaining auditability in environmental safety, particularly concerning the management of pests such as heterodera and quadraspidiotus perniciosus. The EU regulatory framework emphasizes the need for methodically applied techniques, including the use of incinerators and recyclable materials, to avert the reappearance of diseases. Strengthening protective measures against outbreaks, such as those instigated by endobioticum and schilb, is crucial for safeguarding biodiversity and public health.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:59:58.506050",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 97,
+    "vocabulary_stats": {
+      "total_related_words": 1185,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 117,
+      "selected_avg_freq": 46.973333333333336
+    },
+    "related_words": [
+      "topping",
+      "inventoried",
+      "invididual",
+      "pathotypes",
+      "wart",
+      "cryptogamic",
+      "acclerated",
+      "radiction",
+      "eradicted",
+      "cbpp",
+      "whih",
+      "synchytrium",
+      "endobioticum",
+      "schilb",
+      "perc",
+      "heterodera",
+      "woll",
+      "perriod",
+      "pleuro",
+      "pneumonia",
+      "carnation",
+      "auditability",
+      "dicotyledonous",
+      "quadraspidiotus",
+      "perniciosus",
+      "comst",
+      "decontaminating",
+      "proctective",
+      "cyst",
+      "eelworm"
+    ],
+    "prompt_length": 1751,
+    "category": "5206 environmental policy"
+  }
+}

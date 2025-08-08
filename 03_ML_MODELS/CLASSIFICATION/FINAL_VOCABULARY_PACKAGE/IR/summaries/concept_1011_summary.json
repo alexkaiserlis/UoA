@@ -1,0 +1,63 @@
+{
+  "concept_id": "1011",
+  "concept_data": {
+    "title": "party financing",
+    "category_code": "0411",
+    "category_name": "political party",
+    "category_full": "0411 political party",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Party financing within the EU legal framework encompasses the specificities of how political parties are funded, including donations, prefinancing, and the management of budgets during election campaigns. It aims to ensure transparency and accountability, guiding parties to observe regulations that prevent the infringement of electoral integrity. Elected officials and their alliances must rely on structured financing to avoid debts and unspent sums. Auditors play a crucial role in recovering and distributing funds, while the judicial system addresses challenges that may arise. By establishing precedents, the EU seeks to predict impacts on broader democratic processes, ensuring that party financing remains fair and equitable.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:29:40.463792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 363,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 1102,
+      "selected_avg_freq": 527.1066666666667
+    },
+    "related_words": [
+      "unspent",
+      "agendas",
+      "idem",
+      "donations",
+      "shifting",
+      "alliance",
+      "prefinancing",
+      "reimbursable",
+      "predict",
+      "lump",
+      "guided",
+      "foundations",
+      "infringe",
+      "elected",
+      "distributing",
+      "specificities",
+      "debts",
+      "precedent",
+      "capabilities",
+      "nice",
+      "broader",
+      "elections",
+      "bis",
+      "match",
+      "impacts",
+      "spent",
+      "budgets",
+      "officer",
+      "funded",
+      "incentives"
+    ],
+    "prompt_length": 1660,
+    "category": "0411 political party"
+  }
+}

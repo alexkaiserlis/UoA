@@ -1,0 +1,63 @@
+{
+  "concept_id": "5059",
+  "concept_data": {
+    "title": "amending budget",
+    "category_code": "2441",
+    "category_name": "budget",
+    "category_full": "2441 budget",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "An \"amending budget\" refers to a budgetary adjustment within the EU framework, allowing for the mobilisation of additional funds to address unforeseen disasters, such as flooding or forest fires. This process is essential for fulfilling the EU's solidarity agenda, particularly in response to crises that strike southern regions during summer months. The amending budget can supplement existing allocations, ensuring that the budgetary ceiling is not exceeded while allowing for sound financial discipline. It involves interinstitutional cooperation among parliaments and is crucial for improving the multiannual financial framework. Ultimately, it plays a definitive role in the EU's capacity to respond effectively to emerging challenges.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:57:16.965493",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 124,
+      "requested_words": 150,
+      "min_frequency_found": 41,
+      "max_frequency_found": 4108,
+      "selected_words": 124,
+      "selected_min_freq": 41,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1765.4112903225807
+    },
+    "related_words": [
+      "storm",
+      "flooding",
+      "struck",
+      "shorten",
+      "disaster",
+      "disasters",
+      "forest",
+      "fire",
+      "mobilise",
+      "billion",
+      "agenda",
+      "mobilisation",
+      "solidarity",
+      "summer",
+      "item",
+      "southern",
+      "week",
+      "definitively",
+      "ten",
+      "discipline",
+      "eight",
+      "interinstitutional",
+      "multiannual",
+      "parliaments",
+      "supplementing",
+      "population",
+      "atomic",
+      "created",
+      "malta",
+      "delay"
+    ],
+    "prompt_length": 1635,
+    "category": "2441 budget"
+  }
+}

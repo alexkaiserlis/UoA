@@ -1,0 +1,63 @@
+{
+  "concept_id": "1965",
+  "concept_data": {
+    "title": "Principality of Monaco",
+    "category_code": "7236",
+    "category_name": "political geography",
+    "category_full": "7236 political geography",
+    "is_redirect": true,
+    "preferred_term": "Monaco",
+    "relation_type": "USE"
+  },
+  "summary": "The \"Principality of Monaco,\" commonly referred to as \"Monaco,\" is a sovereign city-state situated along the French Riviera, bordered by the Alps. In EU legal and regulatory contexts, Monaco engages in various negotiations concerning financial regulations, particularly regarding the issuance of monegasque banknotes and coins, which are often denominated in euros. The principality's unique status presupposes specific arrangements with the EU, including the renegotiation of treaties and the adequacy of systemic financial regulations. Monaco's banking sector, represented by institutions like the Banque de Monaco, undertakes measures to prevent counterfeiting and ensure the integrity of its currency, including the issuance of tokens and medals that reflect its cultural heritage. The principality's serene highness, the Prince, plays a pivotal role in these diplomatic configurations, ensuring that Monaco's interests are represented in transitory agreements with the EU and other entities, such as the Vatican.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:42:00.919828",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 141,
+    "vocabulary_stats": {
+      "total_related_words": 482,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 669,
+      "selected_avg_freq": 313.1933333333333
+    },
+    "related_words": [
+      "electing",
+      "monegasque",
+      "serene",
+      "highness",
+      "negotiates",
+      "alps",
+      "tokens",
+      "renegotiations",
+      "medals",
+      "coin",
+      "conglomerate",
+      "prince",
+      "franc",
+      "renegotiated",
+      "banque",
+      "vatican",
+      "monaco",
+      "renegotiation",
+      "characters",
+      "euros",
+      "identifier",
+      "configuration",
+      "counterfeiting",
+      "refinancing",
+      "alpine",
+      "convened",
+      "presupposes",
+      "marino",
+      "coins",
+      "submits"
+    ],
+    "prompt_length": 1730,
+    "category": "7236 political geography"
+  }
+}

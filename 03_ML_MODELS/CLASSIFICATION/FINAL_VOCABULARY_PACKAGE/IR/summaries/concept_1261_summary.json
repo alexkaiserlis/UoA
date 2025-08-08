@@ -1,0 +1,63 @@
+{
+  "concept_id": "1261",
+  "concept_data": {
+    "title": "hops",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hops, classified under the category of 6006 plant product, are essential in the production of beer and are subject to EU regulations governing their cultivation and trade. The examination of hop varieties, such as Chinook, Magnum, and Hallertauer, ensures quality and compliance with standards. Hops are typically grown on trellis systems, where clonal propagation and pruning techniques enhance yield. The presence of lupulin in hop cones contributes to the isomerized compounds that impart bitterness and aroma to beer. Regulatory frameworks also address the production, marketing, and cooperative structures (coophounord) involved in hop cultivation, ensuring sustainable practices and traceability in the market.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:48:06.600725",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 1485,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 105,
+      "selected_avg_freq": 39.053333333333335
+    },
+    "related_words": [
+      "examintion",
+      "leones",
+      "fino",
+      "alsacia",
+      "chinook",
+      "nugget",
+      "yeoman",
+      "hallertauer",
+      "magnum",
+      "hersbrucker",
+      "triploid",
+      "tutsham",
+      "grops",
+      "rows",
+      "bracts",
+      "poperingse",
+      "hopscheuten",
+      "hoppescheuten",
+      "lupulin",
+      "markt",
+      "resting",
+      "unharvested",
+      "isomerized",
+      "transitoinal",
+      "tade",
+      "coopérative",
+      "houblonnière",
+      "coophounord",
+      "prdouction",
+      "provieded"
+    ],
+    "prompt_length": 1667,
+    "category": "6006 plant product"
+  }
+}

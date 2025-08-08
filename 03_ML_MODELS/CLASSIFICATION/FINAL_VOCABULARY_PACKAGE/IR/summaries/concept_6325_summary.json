@@ -1,0 +1,63 @@
+{
+  "concept_id": "6325",
+  "concept_data": {
+    "title": "forest certification",
+    "category_code": "5636",
+    "category_name": "forestry",
+    "category_full": "5636 forestry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Forest certification is a regulatory scheme within the EU aimed at ensuring sustainable forestry practices. It offers assurances that timber and non-timber forest products are sourced from well-managed forests, thereby preventing disruption to ecosystems. This certification is crucial for imports, particularly from regions like Belarus and the former Yugoslav states, where equivalence in standards may be questioned. The validity of such certifications is governed by strict categories, ensuring that only authorised materials are marketed. As the EU extends its regulatory framework, future certifications must adapt to changing patterns in agriculture and horticulture, ensuring that reproductive and propagating materials meet identified standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:21:09.587392",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 101,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 101,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1870.073394495413
+    },
+    "related_words": [
+      "disrupted",
+      "reproductive",
+      "forest",
+      "belarus",
+      "presently",
+      "horticulture",
+      "zealand",
+      "propagating",
+      "oecd",
+      "afforded",
+      "assurances",
+      "macedonia",
+      "bosnia",
+      "herzegovina",
+      "moving",
+      "yugoslav",
+      "equivalence",
+      "patterns",
+      "disruption",
+      "seeds",
+      "forestry",
+      "offers",
+      "avoided",
+      "certification",
+      "source",
+      "selected",
+      "expiry",
+      "former",
+      "guarantees",
+      "authorising"
+    ],
+    "prompt_length": 1689,
+    "category": "5636 forestry"
+  }
+}

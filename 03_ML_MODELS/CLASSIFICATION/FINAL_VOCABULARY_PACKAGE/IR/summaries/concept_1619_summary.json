@@ -1,0 +1,63 @@
+{
+  "concept_id": "1619",
+  "concept_data": {
+    "title": "freedom of expression",
+    "category_code": "1236",
+    "category_name": "rights and freedoms",
+    "category_full": "1236 rights and freedoms",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"freedom of expression\" is a fundamental right enshrined in EU legal frameworks, reflecting commitments to democratic principles and the rule of law. It allows individuals to express opinions without intimidation, crucial during political events such as elections. However, this freedom can be undermined by governments through restrictive measures, as seen in cases involving Zimbabwean observers during presidential elections. The Cotonou Agreement emphasizes the importance of fair consultations and peaceful assembly, ensuring that expression is not violated. Recent developments in Luxembourg highlight the need for adequate protections against violence and serious violations, reinforcing the EU's role in promoting democratic values.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:25:33.328021",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 125,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 125,
+      "selected_min_freq": 11,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1689.8
+    },
+    "related_words": [
+      "intimidation",
+      "opponents",
+      "zimbabwean",
+      "escalation",
+      "violence",
+      "election",
+      "presidential",
+      "peaceful",
+      "observers",
+      "violated",
+      "cotonou",
+      "elections",
+      "zimbabwe",
+      "cited",
+      "twelve",
+      "expression",
+      "media",
+      "explained",
+      "undermine",
+      "assembly",
+      "concluding",
+      "acp",
+      "closed",
+      "adequately",
+      "ending",
+      "seriously",
+      "events",
+      "cease",
+      "democratic",
+      "restrictive"
+    ],
+    "prompt_length": 1714,
+    "category": "1236 rights and freedoms"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5384",
+  "concept_data": {
+    "title": "hemp",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Hemp, classified under the EU's plant product category, encompasses various fibrous and oleaginous varieties, including the notable cultivars such as Finola and Carmagnola. In regulatory contexts, hemp's applications extend to textiles, where it can be spun into twine or used in espadrilles, and to food products, often involving deseeding processes. The cultivation of hemp must comply with stipulations regarding tetrahydrocannabinol (THC) levels to avoid disqualification as a narcotic. Additionally, the valorization of hemp products can provoke economic benefits, yet challenges such as imbalances in market demand and the need for detailed requirements persist. Merchants must navigate these complexities while forgoing intoxicating uses to align with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:44:58.678540",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1315,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 164,
+      "selected_avg_freq": 75.06666666666666
+    },
+    "related_words": [
+      "fedora",
+      "valorize",
+      "flaxseed",
+      "fasamo",
+      "juso",
+      "requiremens",
+      "carmagnola",
+      "deseeding",
+      "unbroken",
+      "imblance",
+      "fibrous",
+      "bialobrzeskie",
+      "hamp",
+      "worms",
+      "retted",
+      "deseeded",
+      "disqualified",
+      "detaled",
+      "cannabis",
+      "finola",
+      "tiborszállási",
+      "wheresas",
+      "narcotics",
+      "espadrilles",
+      "cutter",
+      "shives",
+      "intoxicating",
+      "forgo",
+      "thc",
+      "tallies"
+    ],
+    "prompt_length": 1658,
+    "category": "6006 plant product"
+  }
+}

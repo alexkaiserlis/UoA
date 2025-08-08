@@ -1,0 +1,63 @@
+{
+  "concept_id": "1252",
+  "concept_data": {
+    "title": "quality certification",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": true,
+    "preferred_term": "approval",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, \"quality certification,\" redirected to \"approval,\" encompasses the assessment of products and services to ensure compliance with established standards. This process often involves the use of advanced technologies, such as opacimeters for measuring particulate matter or transponders for tracking compliance. Regulatory bodies may conservatively recommend specific methodologies, including the use of ultrafine biologicals in testing. Quality certification is crucial for sectors like transportation, where safety standards for semitrailers and quadricycles are paramount. Furthermore, initiatives like Bonsucro and ISCC promote sustainable practices, enhancing the credibility of approved entities. Ultimately, quality certification serves as a shield against non-compliance, fostering trust in the EU market.",
+  "metadata": {
+    "generation_date": "2025-07-29T17:06:41.413064",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 2144,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 34,
+      "selected_avg_freq": 16.266666666666666
+    },
+    "related_words": [
+      "pto",
+      "shielding",
+      "acaa",
+      "opacimeter",
+      "aebs",
+      "conservatively",
+      "versant",
+      "sélune",
+      "sidecar",
+      "tilt",
+      "bacino",
+      "taverone",
+      "sessera",
+      "bondo",
+      "fosso",
+      "melga",
+      "rsb",
+      "bonsucro",
+      "iscc",
+      "heaviest",
+      "recommanded",
+      "unbelted",
+      "semitrailer",
+      "braked",
+      "decelerations",
+      "skid",
+      "knife",
+      "greenergy",
+      "abengoa",
+      "rbsa"
+    ],
+    "prompt_length": 1696,
+    "category": "6411 technology and technical regulations"
+  }
+}

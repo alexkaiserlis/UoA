@@ -1,0 +1,63 @@
+{
+  "concept_id": "2267",
+  "concept_data": {
+    "title": "staff report",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "staff assessment",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"staff report,\" now redirected to \"staff assessment,\" refers to a structured evaluation of personnel qualifications and skills. This assessment is crucial for entities involved in sectors such as manufacturing and testing, particularly those dealing with fluorinated gases and greenhouse emissions. It ensures that candidates are properly certified and entitled to undertake specific tasks, thereby avoiding undue delays in operations. By issuing certificates that recognize mutual knowledge and training, the assessment builds a framework for personnel management. This process helps in recovering from potential barriers in compliance, ensuring that all personnel are supervised and operating within designated standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:53:57.019328",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 146,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 146,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1686.2191780821918
+    },
+    "related_words": [
+      "enrolled",
+      "fluorinated",
+      "leakage",
+      "solvents",
+      "recovering",
+      "gases",
+      "supervised",
+      "greenhouse",
+      "qualification",
+      "skills",
+      "candidate",
+      "gain",
+      "build",
+      "undue",
+      "personnel",
+      "indirectly",
+      "delays",
+      "certified",
+      "format",
+      "ability",
+      "potentially",
+      "avoiding",
+      "unnecessary",
+      "gas",
+      "creating",
+      "barriers",
+      "entities",
+      "officially",
+      "issuing",
+      "obtaining"
+    ],
+    "prompt_length": 1756,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

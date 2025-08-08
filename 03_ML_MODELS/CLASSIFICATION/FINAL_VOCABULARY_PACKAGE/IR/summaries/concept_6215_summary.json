@@ -1,0 +1,63 @@
+{
+  "concept_id": "6215",
+  "concept_data": {
+    "title": "youth policy",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Youth policy within the EU framework encompasses a range of initiatives aimed at fostering intergenerational solidarity and addressing inequalities faced by young people. It promotes volunteering and active citizenship, encouraging youth engagement in democratic processes. The policy framework, established in the Amsterdam Treaty, recognises the importance of lifelong learning and skills development, particularly through transnational mobility programs. It aims to motivate young volunteers and leaders, enhancing their capacities to contribute to society. By celebrating milestones, such as the tenth anniversary of key initiatives, the EU emphasises the rich dimensions of youth involvement, fostering a politically active and socially responsible generation across all ages and genders.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:35:56.258249",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 343,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 9,
+      "selected_max_freq": 950,
+      "selected_avg_freq": 412.66
+    },
+    "related_words": [
+      "volunteering",
+      "volunteers",
+      "volunteer",
+      "founding",
+      "intergenerational",
+      "announce",
+      "motivation",
+      "citizenship",
+      "politically",
+      "ages",
+      "anniversary",
+      "leadership",
+      "inequalities",
+      "lifelong",
+      "particularities",
+      "foundations",
+      "rich",
+      "informal",
+      "youth",
+      "peer",
+      "realised",
+      "complements",
+      "gender",
+      "societies",
+      "intergovernmental",
+      "tenth",
+      "learning",
+      "envelope",
+      "fostering",
+      "transnational"
+    ],
+    "prompt_length": 1698,
+    "category": "2826 social affairs"
+  }
+}

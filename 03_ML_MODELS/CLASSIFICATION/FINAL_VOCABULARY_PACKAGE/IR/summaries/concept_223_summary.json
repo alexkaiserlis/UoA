@@ -1,0 +1,63 @@
+{
+  "concept_id": "223",
+  "concept_data": {
+    "title": "scientific cooperation",
+    "category_code": "0811",
+    "category_name": "cooperation policy",
+    "category_full": "0811 cooperation policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Scientific cooperation within the EU framework embodies an interdisciplinary approach to enhance research and innovation across various fields, including genomics, climatology, and cytology. This cooperation is pivotal for addressing global challenges such as malaria and thrombosis, fostering a transatlantic dialogue among scholars and engineers. The EU's regulatory landscape encourages the appropriation of resources to maximise the impact of scientific endeavors, ensuring timeliness and relevance. Initiatives like the EDCTP and BRITE exemplify this commitment, promoting coexisting efforts among member states. By mainstreaming scientific collaboration, the EU aims to refit its research agenda, imparting a versatile and conceptual flair to its policies, while addressing neglected themes and enhancing the wealth of knowledge across borders.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:33:21.696663",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 112,
+    "vocabulary_stats": {
+      "total_related_words": 1059,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 176,
+      "selected_avg_freq": 70.66666666666667
+    },
+    "related_words": [
+      "cytology",
+      "negociate",
+      "rela",
+      "ting",
+      "flair",
+      "brasilia",
+      "interdisciplinary",
+      "maximised",
+      "edctp",
+      "genomics",
+      "thrombosis",
+      "kyiv",
+      "versatility",
+      "scholars",
+      "brite",
+      "epoch",
+      "imparting",
+      "sexes",
+      "conceptual",
+      "coexisting",
+      "etablished",
+      "refit",
+      "climatology",
+      "esprit",
+      "neglected",
+      "anonymised",
+      "spes",
+      "appropriation",
+      "eda",
+      "theme"
+    ],
+    "prompt_length": 1667,
+    "category": "0811 cooperation policy"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1260",
+  "concept_data": {
+    "title": "horticulture",
+    "category_code": "5631",
+    "category_name": "agricultural activity",
+    "category_full": "5631 agricultural activity",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Horticulture, classified under agricultural activity in EU legal frameworks, encompasses the cultivation of various plants, including rare species like paeonia and azalea. It involves activities such as propagatingh and marketing outputs from nurseries, which may include pot plants like pelargonium and ficus. The EU regulates horticultural practices to enhance competitivity and ensure sustainable practices, including reclamation and draining measures for optimal growth. Legal structures support the enrolment of growers and the management of pests, such as thrips, while addressing issues like firewood usage and unbinding regulations. Compliance with these measures is essential for maintaining quality and market standards across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:00:15.025261",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 941,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 216,
+      "selected_avg_freq": 81.05333333333333
+    },
+    "related_words": [
+      "lueneberg",
+      "paeonia",
+      "geranium",
+      "maketing",
+      "propagatingh",
+      "hosta",
+      "tratt",
+      "pulcherrima",
+      "willd",
+      "klotzsch",
+      "accompagnied",
+      "itends",
+      "enrolment",
+      "giver",
+      "subect",
+      "stuctures",
+      "prepacking",
+      "narcissus",
+      "acitivity",
+      "gentse",
+      "azalea",
+      "ligustrum",
+      "fulgens",
+      "firewood",
+      "fmk",
+      "hérit",
+      "euphorbia",
+      "reclamation",
+      "draining",
+      "unbinding"
+    ],
+    "prompt_length": 1644,
+    "category": "5631 agricultural activity"
+  }
+}

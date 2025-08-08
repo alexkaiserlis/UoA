@@ -1,0 +1,63 @@
+{
+  "concept_id": "1054",
+  "concept_data": {
+    "title": "common fund",
+    "category_code": "2021",
+    "category_name": "international trade",
+    "category_full": "2021 international trade",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"common fund\" concept within the context of EU international trade refers to a financial mechanism established by member states to facilitate the collective management of commodities and resources. This fund is crucial for the ratification of agreements concerning economic matters among nations. The proposal for such a fund is typically covered in treaties signed by the Council and the Commission, ensuring that procedures for approval and acceptance are completed in accordance with established jurisdiction. The common fund plays an important role in supporting the policies of the European Economic Communities (EEC) and fosters cooperation among member states, thereby enhancing the overall effectiveness of trade agreements.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:20:53.597179",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 43,
+      "requested_words": 150,
+      "min_frequency_found": 156,
+      "max_frequency_found": 4108,
+      "selected_words": 43,
+      "selected_min_freq": 156,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2227.2093023255816
+    },
+    "related_words": [
+      "deposited",
+      "commodities",
+      "secretary",
+      "ratification",
+      "jurisdiction",
+      "relates",
+      "approve",
+      "acceptance",
+      "nations",
+      "completed",
+      "matters",
+      "commercial",
+      "fund",
+      "signed",
+      "approval",
+      "organization",
+      "important",
+      "conclusion",
+      "already",
+      "united",
+      "covered",
+      "procedures",
+      "policy",
+      "agreement",
+      "general",
+      "common",
+      "proposal",
+      "concerning",
+      "eec",
+      "economic"
+    ],
+    "prompt_length": 1614,
+    "category": "2021 international trade"
+  }
+}

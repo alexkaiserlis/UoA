@@ -1,0 +1,63 @@
+{
+  "concept_id": "1623",
+  "concept_data": {
+    "title": "freedom of navigation",
+    "category_code": "1231",
+    "category_name": "international law",
+    "category_full": "1231 international law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"freedom of navigation\" is enshrined in international law, safeguarding the rights of carriers and passengers to operate in waterways without unjustified restrictions. Within the EU regulatory framework, this principle entails the removal of barriers that distort competition and impede the transport of goods and services. It implies that all persons, regardless of nationality, should enjoy equal treatment in accessing maritime and inland operations. Binding laws and regulations must ensure that interests are balanced, avoiding any disturbing practices that could undermine market integrity. The courts play a crucial role in adjudicating matters related to this freedom, ensuring justice and compliance with established principles.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:25:42.844787",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 105,
+    "vocabulary_stats": {
+      "total_related_words": 106,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 106,
+      "selected_min_freq": 5,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1988.066037735849
+    },
+    "related_words": [
+      "enshrining",
+      "safeguarded",
+      "distorting",
+      "waterway",
+      "disturbing",
+      "nationality",
+      "resident",
+      "carriers",
+      "passengers",
+      "inland",
+      "equality",
+      "entails",
+      "implies",
+      "removal",
+      "freedom",
+      "operate",
+      "binding",
+      "person",
+      "justice",
+      "court",
+      "service",
+      "restrictions",
+      "imposed",
+      "grounds",
+      "laws",
+      "obtained",
+      "matter",
+      "competition",
+      "own",
+      "justified"
+    ],
+    "prompt_length": 1660,
+    "category": "1231 international law"
+  }
+}

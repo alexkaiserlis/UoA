@@ -1,0 +1,26 @@
+{
+  "concept_id": "2855",
+  "concept_data": {
+    "title": "psychiatry",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Psychiatry, categorized under health in EU legal and regulatory frameworks, encompasses the study, diagnosis, and treatment of mental disorders. It plays a crucial role in public health policy, influencing legislation regarding mental health services and patient rights. The EU promotes the integration of psychiatric care within broader health systems, ensuring compliance with directives aimed at safeguarding mental health. Additionally, psychiatry is subject to various regulations that govern the ethical treatment of patients, the confidentiality of medical records, and the provision of informed consent. This discipline is essential for advancing mental health initiatives and fostering a comprehensive approach to health care across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:02:58.339267",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1156,
+    "category": "2841 health"
+  }
+}

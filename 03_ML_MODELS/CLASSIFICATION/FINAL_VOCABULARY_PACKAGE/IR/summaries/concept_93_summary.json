@@ -1,0 +1,63 @@
+{
+  "concept_id": "93",
+  "concept_data": {
+    "title": "confectionery",
+    "category_code": "6031",
+    "category_name": "agri-foodstuffs",
+    "category_full": "6031 agri-foodstuffs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"confectionery\" falls under the category of agri-foodstuffs within EU legal and regulatory frameworks. It is classified as a specific group of goods that includes various sweet products, which are subject to uniform rules and regulations. The nomenclature for confectionery is established in the customs tariff code, ensuring a binding interpretation for trade authorities. This classification is crucial for the application of statistical data and for the adoption of additional measures relating to trade. Pursuant to the established rules, confectionery goods are described in detail in an annexed table, which provides essential information for stakeholders involved in the confectionery market.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:03:36.966628",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 83,
+      "requested_words": 150,
+      "min_frequency_found": 296,
+      "max_frequency_found": 4108,
+      "selected_words": 83,
+      "selected_min_freq": 296,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2405.409638554217
+    },
+    "related_words": [
+      "subdivision",
+      "adds",
+      "invoked",
+      "holder",
+      "column",
+      "wholly",
+      "partly",
+      "interpretation",
+      "binding",
+      "classified",
+      "nomenclature",
+      "table",
+      "classification",
+      "combined",
+      "described",
+      "virtue",
+      "tariff",
+      "statistical",
+      "code",
+      "indicated",
+      "customs",
+      "uniform",
+      "issued",
+      "annexed",
+      "goods",
+      "months",
+      "reasons",
+      "continue",
+      "three",
+      "adopt"
+    ],
+    "prompt_length": 1641,
+    "category": "6031 agri-foodstuffs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "186",
+  "concept_data": {
+    "title": "misuse of power",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": true,
+    "preferred_term": "abuse of power",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"misuse of power,\" commonly referred to as \"abuse of power,\" pertains to actions that violate legal norms and principles within EU civil law. This term encompasses the misappropriation of resources or authority by individuals or entities, particularly in the context of regulatory frameworks. The EU has established criteria for identifying violations that lead to restrictive measures, such as freezing funds associated with designated persons or bodies. These actions are aimed at ensuring compliance with human rights standards and maintaining security. The EU's Common Foreign and Security Policy (CFSP) clarifies the scope of such measures, amending existing regulations to effectively address the situation in Ukraine and other contexts.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:29:23.012877",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 75,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 75,
+      "selected_min_freq": 8,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1967.32
+    },
+    "related_words": [
+      "misappropriation",
+      "clarifies",
+      "ukrainian",
+      "targeting",
+      "violations",
+      "freezing",
+      "directed",
+      "ukraine",
+      "amends",
+      "cfsp",
+      "designation",
+      "affairs",
+      "entities",
+      "clarified",
+      "restrictive",
+      "falls",
+      "gives",
+      "foreign",
+      "regulatory",
+      "natural",
+      "associated",
+      "funds",
+      "identified",
+      "representative",
+      "bodies",
+      "responsible",
+      "human",
+      "persons",
+      "rights",
+      "amendment"
+    ],
+    "prompt_length": 1690,
+    "category": "1211 civil law"
+  }
+}

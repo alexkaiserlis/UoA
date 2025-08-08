@@ -1,0 +1,63 @@
+{
+  "concept_id": "4674",
+  "concept_data": {
+    "title": "orchard",
+    "category_code": "5621",
+    "category_name": "cultivation of agricultural land",
+    "category_full": "5621 cultivation of agricultural land",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"orchard\" pertains to the cultivation of agricultural land, specifically focusing on the planting and management of fruit-bearing trees such as apples, pears, peaches, and nectarines. In EU legal and regulatory frameworks, orchards are critical for ensuring productive agricultural practices and addressing mismatches in land use. Regulations may specify the varieties of trees to be planted, with attention to their suitability for specific climates and soil types. Additionally, measures for remedying imbalances in orchard productivity, such as replanting or grubbing unsuitable trees, are essential for maintaining stability in agricultural outputs. Premiums and titles for orchards can incentivize sustainable practices, while accurate assessments of hectares cultivated are necessary for effective policy implementation.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:22:32.384134",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 113,
+    "vocabulary_stats": {
+      "total_related_words": 256,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 1658,
+      "selected_avg_freq": 772.32
+    },
+    "related_words": [
+      "mismatch",
+      "nectarine",
+      "replant",
+      "orchard",
+      "replanted",
+      "cider",
+      "nut",
+      "grubbed",
+      "pear",
+      "orchards",
+      "peach",
+      "breaks",
+      "avert",
+      "remedying",
+      "grubbing",
+      "apple",
+      "abandon",
+      "nectarines",
+      "iva",
+      "planted",
+      "unsuitable",
+      "peaches",
+      "withdrawals",
+      "titles",
+      "pears",
+      "hectares",
+      "stabilization",
+      "trees",
+      "productive",
+      "durum"
+    ],
+    "prompt_length": 1663,
+    "category": "5621 cultivation of agricultural land"
+  }
+}

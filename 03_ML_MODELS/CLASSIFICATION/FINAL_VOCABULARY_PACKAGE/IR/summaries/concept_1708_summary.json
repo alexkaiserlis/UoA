@@ -1,0 +1,63 @@
+{
+  "concept_id": "1708",
+  "concept_data": {
+    "title": "fight against crime",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"fight against crime\" within the EU legal framework encompasses a multifaceted approach to combatting criminal activities, including radicalisation and the prosecution of fugitives. It involves consultancies and research initiatives aimed at understanding criminal networks, such as those linked to indictees like Radovan Karadžić and Ratko Mladić. The EUCPN facilitates cooperation among member states, focusing on the forensic analysis of caches and trails left by criminals. Efforts include monitoring convoys and caravans used for illicit activities, as well as addressing issues related to casinos and stolen assets. The indictment of figures like Vlastimir Đorđević and Goran Pavković exemplifies the EU's commitment to prosecuting serious crimes, ensuring that justice prevails against those who threaten societal safety.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:47:33.364916",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 1764,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 43,
+      "selected_avg_freq": 19.553333333333335
+    },
+    "related_words": [
+      "consultancies",
+      "radovan",
+      "karadžić",
+      "mladić",
+      "radicalisation",
+      "researching",
+      "saps",
+      "caches",
+      "fugitive",
+      "indictees",
+      "programe",
+      "zdravko",
+      "tolimir",
+      "trails",
+      "criminals",
+      "instrumentalities",
+      "camden",
+      "convoys",
+      "uthman",
+      "omar",
+      "mahmoud",
+      "othman",
+      "nigerien",
+      "casinos",
+      "eucpn",
+      "stojan",
+      "zupljanin",
+      "congolese",
+      "vlastimir",
+      "djordjevic"
+    ],
+    "prompt_length": 1672,
+    "category": "2826 social affairs"
+  }
+}

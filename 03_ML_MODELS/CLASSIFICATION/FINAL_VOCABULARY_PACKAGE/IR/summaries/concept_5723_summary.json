@@ -1,0 +1,63 @@
+{
+  "concept_id": "5723",
+  "concept_data": {
+    "title": "sports competition",
+    "category_code": "2826",
+    "category_name": "social affairs",
+    "category_full": "2826 social affairs",
+    "is_redirect": true,
+    "preferred_term": "sporting event",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"sports competition,\" redirected to the preferred term \"sporting event,\" encompasses various regulated activities within the EU, including elite tournaments like the UEFA and IIHF competitions. These events, ranging from motogp races to basketball and rugby matches, reflect the passion and pride of athletes and supporters alike. The regulatory framework ensures fair play and safety for participants, including endurance tests in cycling and skiing. Commemorating winners, such as those in tennis and handball, highlights the cultural significance of these competitions. The EU's commitment to promoting sports also includes addressing issues like foreclosure of venues and acclimatisation of international athletes, thereby enhancing the overall popularity and accessibility of sporting events across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:53:16.315285",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 114,
+    "vocabulary_stats": {
+      "total_related_words": 1014,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 73,
+      "selected_avg_freq": 28.233333333333334
+    },
+    "related_words": [
+      "motogp",
+      "prix",
+      "riders",
+      "basketball",
+      "internazionali",
+      "tennis",
+      "italians",
+      "passion",
+      "cycling",
+      "fenice",
+      "testifies",
+      "pride",
+      "winner",
+      "infront",
+      "scala",
+      "hockey",
+      "iihf",
+      "fis",
+      "iaaf",
+      "elite",
+      "handball",
+      "vault",
+      "discus",
+      "intrinsically",
+      "foreclosure",
+      "caen",
+      "orne",
+      "sartilly",
+      "frontera",
+      "alajuela"
+    ],
+    "prompt_length": 1681,
+    "category": "2826 social affairs"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5375",
+  "concept_data": {
+    "title": "truce",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "cease-fire",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the concept of \"truce,\" redirected to \"cease-fire,\" is pivotal in international security frameworks. It pertains to agreements aimed at halting military activities, thereby fostering peace and stability in conflict zones, such as the Democratic Republic of Congo. The European Union, through its Common Foreign and Security Policy (CFSP), often engages in joint efforts to support ceasefire agreements, providing technical and financial assistance to ensure their implementation. Such agreements are crucial in the peace process, allowing for the fulfilment of specified tasks and the establishment of rules governing military conduct. The EU's position, as outlined in various treaties and decisions, emphasizes the importance of cooperation and adherence to established procedures in these critical activities.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:09:45.615792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 119,
+    "vocabulary_stats": {
+      "total_related_words": 42,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 42,
+      "selected_min_freq": 6,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1967.2142857142858
+    },
+    "related_words": [
+      "jmc",
+      "lusaka",
+      "ceasefire",
+      "congo",
+      "peace",
+      "military",
+      "intends",
+      "cfsp",
+      "democratic",
+      "offer",
+      "tasks",
+      "fulfil",
+      "aspects",
+      "assistance",
+      "process",
+      "joint",
+      "conjunction",
+      "position",
+      "specified",
+      "support",
+      "allow",
+      "activities",
+      "republic",
+      "non",
+      "technical",
+      "financial",
+      "agreement",
+      "implementing",
+      "implementation",
+      "procedure"
+    ],
+    "prompt_length": 1596,
+    "category": "0816 international security"
+  }
+}

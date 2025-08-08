@@ -1,0 +1,63 @@
+{
+  "concept_id": "5728",
+  "concept_data": {
+    "title": "material of animal origin",
+    "category_code": "6011",
+    "category_name": "animal product",
+    "category_full": "6011 animal product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The term \"material of animal origin\" encompasses various substances derived from animals, which are subject to stringent EU regulations to ensure safety and prevent contamination. This includes products like ginseng tincture and pharmacopoeias that may contain animal-derived ingredients. The transmissibility of diseases such as CJD necessitates rigorous controls on materials, including those involving orthosomycins and firocoxib. Additionally, substances like florfenicol and ceftiofur are regulated to mitigate risks associated with veterinary medicines. The use of additives, such as bituminosulfonates and monooleate, in animal products must comply with EU standards, ensuring that all materials, including those from the spinal cord or eyeballs, meet safety requirements.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:59:18.339628",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 593,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 251,
+      "selected_avg_freq": 91.57333333333334
+    },
+    "related_words": [
+      "bituminosulfonates",
+      "ginseng",
+      "tincture",
+      "dilutions",
+      "orthosomycins",
+      "firocoxib",
+      "omeprazole",
+      "cefalonium",
+      "eyeballs",
+      "irrefutable",
+      "lectin",
+      "châlon",
+      "cjd",
+      "metamizole",
+      "avilamycin",
+      "trioleate",
+      "pharmacopoeias",
+      "morantel",
+      "trichlormethiazide",
+      "kodak",
+      "acetylisovaleryltylosin",
+      "flubendazole",
+      "encephalon",
+      "ceftiofur",
+      "contaminating",
+      "monooleate",
+      "sorbitan",
+      "polyoxyethylene",
+      "tulathromycin",
+      "supposing"
+    ],
+    "prompt_length": 1807,
+    "category": "6011 animal product"
+  }
+}

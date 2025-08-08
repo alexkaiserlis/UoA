@@ -1,0 +1,63 @@
+{
+  "concept_id": "3874",
+  "concept_data": {
+    "title": "laser",
+    "category_code": "6826",
+    "category_name": "electronics and electrical engineering",
+    "category_full": "6826 electronics and electrical engineering",
+    "is_redirect": true,
+    "preferred_term": "apparatus based on the use of rays",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"laser,\" redirected to \"apparatus based on the use of rays,\" encompasses a wide array of technologies utilized in electronics and electrical engineering within EU regulatory frameworks. Lasers, including tunable and monochromator types, play pivotal roles in applications such as holography and photodissociation. Their regulation involves considerations of safety and efficacy, particularly concerning devices like anemometers and attenuators. The EU's legal landscape addresses the use of lasers in various sectors, ensuring compliance with standards that govern polyatomic interactions and resonant frequencies. This includes oversight of apparatuses employing halogens and flashlamp technologies, crucial for innovations in fields from medical devices, like clinac systems, to advanced photonic applications.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:05:20.430560",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 550,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 44,
+      "selected_avg_freq": 13.92
+    },
+    "related_words": [
+      "gca",
+      "pherson",
+      "doppelgitterhalter",
+      "xcel",
+      "microsector",
+      "anemometer",
+      "risers",
+      "spacer",
+      "photodissociation",
+      "fractures",
+      "polyatomic",
+      "acoustically",
+      "resonant",
+      "opto",
+      "frequence",
+      "molectron",
+      "hyper",
+      "photocathodes",
+      "jodon",
+      "micropositionable",
+      "mph",
+      "attenuator",
+      "uba",
+      "parabolic",
+      "holography",
+      "dissociation",
+      "emg",
+      "physik",
+      "boecklerstrasse",
+      "goettingen"
+    ],
+    "prompt_length": 1778,
+    "category": "6826 electronics and electrical engineering"
+  }
+}

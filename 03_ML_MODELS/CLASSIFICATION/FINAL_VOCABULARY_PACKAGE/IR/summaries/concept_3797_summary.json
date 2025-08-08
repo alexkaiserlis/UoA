@@ -1,0 +1,63 @@
+{
+  "concept_id": "3797",
+  "concept_data": {
+    "title": "biotechnology",
+    "category_code": "6411",
+    "category_name": "technology and technical regulations",
+    "category_full": "6411 technology and technical regulations",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Biotechnology, as defined within EU legal and regulatory frameworks, encompasses a diverse range of engineered biotechnologies that are pivotal in sectors such as agriculture, pharmaceuticals, and food production. The EU prioritizes biosafety and pharmacovigilance, ensuring that biotechnological products, including genetically modified organisms (GMOs) and fertilizers, are rigorously evaluated and reclassified based on their transmissibility and potential health impacts. Regulations, such as the Cartagena Protocol, inform collaborative efforts to manage risks associated with airborne and intestinal biotechnologies. The focus on excellence in research and development aims to predictably address public concerns, while also considering the inconveniences of intolerance to certain engineered variants. Through logical containment strategies and specialization, the EU seeks to balance innovation with safety, ensuring that the benefits of biotechnology are accessible while minimizing risks.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:31:51.765077",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 126,
+    "vocabulary_stats": {
+      "total_related_words": 591,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 451,
+      "selected_avg_freq": 199.46
+    },
+    "related_words": [
+      "reevaluated",
+      "eclair",
+      "cultor",
+      "triacylglycerides",
+      "abstaining",
+      "inconveniences",
+      "asterisks",
+      "salatrims",
+      "focussing",
+      "calorie",
+      "engineered",
+      "biotechnologies",
+      "nairobi",
+      "gastro",
+      "danisco",
+      "transmissibility",
+      "linkage",
+      "fourteen",
+      "pharmacovigilance",
+      "creutzfeldt",
+      "jakob",
+      "reclassified",
+      "intestinal",
+      "intolerance",
+      "airborne",
+      "biosafety",
+      "workplace",
+      "containment",
+      "specialization",
+      "crest"
+    ],
+    "prompt_length": 1767,
+    "category": "6411 technology and technical regulations"
+  }
+}

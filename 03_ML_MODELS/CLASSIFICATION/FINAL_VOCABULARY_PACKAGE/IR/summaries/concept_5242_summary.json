@@ -1,0 +1,63 @@
+{
+  "concept_id": "5242",
+  "concept_data": {
+    "title": "natural rubber",
+    "category_code": "6811",
+    "category_name": "chemistry",
+    "category_full": "6811 chemistry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Natural rubber, derived primarily from the Hevea brasiliensis tree, plays a crucial role in the EU's chemical and agricultural sectors. As a deliverable commodity, it is subject to various regulatory frameworks that govern its production, trade, and merchandising. The EU's legal landscape includes provisions for the registration of plantations and the negotiation of futures contracts, ensuring that sellers and buyers can transact under clear guidelines. Regulatory bodies, such as the ICCH, oversee compliance, while secretariats facilitate communication among stakeholders. Issues such as offending practices or dissatisfaction among clients can lead to appeals, necessitating realigning of terms and conditions. The market dynamics often involve brokers who tender bids and manage warehouse inventories, ensuring that the cheapest options are available without distorting fair trade principles.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:56.461458",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 527,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 430,
+      "selected_avg_freq": 191.34666666666666
+    },
+    "related_words": [
+      "lrtma",
+      "hevea",
+      "braziliensis",
+      "rubbed",
+      "deliverable",
+      "factsthe",
+      "registrable",
+      "realigning",
+      "broker",
+      "appellant",
+      "kuala",
+      "lumpur",
+      "deliverer",
+      "offending",
+      "expelled",
+      "cheapest",
+      "merchandising",
+      "multiples",
+      "expel",
+      "transacted",
+      "icch",
+      "plantation",
+      "outcry",
+      "dissatisfied",
+      "negotiable",
+      "secretariats",
+      "payer",
+      "procures",
+      "rounds",
+      "dealer"
+    ],
+    "prompt_length": 1656,
+    "category": "6811 chemistry"
+  }
+}

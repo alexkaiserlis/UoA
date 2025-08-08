@@ -1,0 +1,63 @@
+{
+  "concept_id": "2090",
+  "concept_data": {
+    "title": "nuisance",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "In EU legal and regulatory contexts, \"nuisance\" refers to any activity or condition that causes harm or deterioration of the environment, impacting public health or ecological balance. This concept encompasses a range of issues, including the management of invasive species such as *Dendroctonus* and *Rhynchophorus*, which can lead to significant ecological disruption. Regulatory frameworks may address nuisances arising from practices like debarking of trees (*Abies*, *Picea*, *Larix*) or the introduction of pathogens like *Tristeza* and *Tylcv*. Effective management requires adherence to international standards, such as those set by ISPM and IPPC, to mitigate risks associated with pests like *Diabrotica* and *Virgifera*. The EU's commitment to environmental protection necessitates proactive measures against nuisances that threaten biodiversity, including rare species like *Cedrus* and *Tsuga*.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:15:20.912208",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 122,
+    "vocabulary_stats": {
+      "total_related_words": 473,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 462,
+      "selected_avg_freq": 147.61333333333334
+    },
+    "related_words": [
+      "micrans",
+      "sahlbey",
+      "tpfq",
+      "trew",
+      "dietr",
+      "tsuga",
+      "carr",
+      "cedrus",
+      "pseudotsuga",
+      "ispm",
+      "montichiari",
+      "trsv",
+      "curl",
+      "abies",
+      "picea",
+      "larix",
+      "setubal",
+      "debarked",
+      "tristeza",
+      "gussago",
+      "corbetta",
+      "tylcv",
+      "deciduous",
+      "dunnage",
+      "dryocosmus",
+      "kuriphilus",
+      "pinewood",
+      "kugelan",
+      "amitinus",
+      "eichhof"
+    ],
+    "prompt_length": 1638,
+    "category": "5216 deterioration of the environment"
+  }
+}

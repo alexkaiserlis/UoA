@@ -1,0 +1,63 @@
+{
+  "concept_id": "3949",
+  "concept_data": {
+    "title": "applied sciences",
+    "category_code": "3606",
+    "category_name": "natural and applied sciences",
+    "category_full": "3606 natural and applied sciences",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"applied sciences\" within the EU legal and regulatory framework emphasises the importance of innovative and technological advancements in various domains. It entails a coordinated approach to research and development, inviting businesses and administrations to pursue socio-economic growth. The coverage of applied sciences is governed by multiannual strategies, which highlight the necessity for impartiality and equality, particularly in gender representation among respondents. The usefulness of applied sciences is demonstrated through indicators that assess capability and mobility, contributing to a rapidly evolving society. The OECD's involvement underscores the need for comparability and reliability in applied sciences, ensuring that intellectual property is adequately protected while fostering collaboration across sectors.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:06:31.068370",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 214,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 2186,
+      "selected_avg_freq": 995.5666666666667
+    },
+    "related_words": [
+      "welcoming",
+      "realising",
+      "disaggregated",
+      "emphasises",
+      "crest",
+      "cater",
+      "impartiality",
+      "attaches",
+      "respondents",
+      "gender",
+      "overlap",
+      "usefulness",
+      "inviting",
+      "domain",
+      "capability",
+      "helsinki",
+      "men",
+      "mobility",
+      "women",
+      "demonstration",
+      "intellectual",
+      "innovative",
+      "highlighted",
+      "oecd",
+      "science",
+      "socio",
+      "equality",
+      "indicators",
+      "coverage",
+      "entails"
+    ],
+    "prompt_length": 1747,
+    "category": "3606 natural and applied sciences"
+  }
+}

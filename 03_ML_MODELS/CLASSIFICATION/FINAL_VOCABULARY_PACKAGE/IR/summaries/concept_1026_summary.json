@@ -1,0 +1,63 @@
+{
+  "concept_id": "1026",
+  "concept_data": {
+    "title": "wage rate",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "wage determination",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"wage rate,\" redirected to \"wage determination,\" encompasses the legal frameworks governing remuneration within the EU. This includes the establishment of salary scales for public servants, which are subject to actuarial assessments and may reflect variations in subsistence costs. The determination of wages often involves consultative processes among stakeholders, including advocates and auditors, to ensure fairness and compliance with established privileges and immunities. Moreover, wage determination can address arrears and allowances, ensuring that no individual is overpaid or underpaid. The tribunal's role in overseeing these processes is crucial, as it mirrors the principles of equity and justice upheld by EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:36:18.649923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 340,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 12,
+      "selected_max_freq": 1117,
+      "selected_avg_freq": 506.8333333333333
+    },
+    "related_words": [
+      "nineteen",
+      "actuarial",
+      "presidents",
+      "remunerations",
+      "overpaid",
+      "arrears",
+      "overhaul",
+      "registrar",
+      "advocates",
+      "emoluments",
+      "mirror",
+      "thereunder",
+      "judges",
+      "fifteen",
+      "tribunal",
+      "subsistence",
+      "upwards",
+      "schools",
+      "salaries",
+      "weightings",
+      "hague",
+      "pension",
+      "vice",
+      "upward",
+      "immunities",
+      "recruitment",
+      "downwards",
+      "privileges",
+      "scales",
+      "europol"
+    ],
+    "prompt_length": 1753,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

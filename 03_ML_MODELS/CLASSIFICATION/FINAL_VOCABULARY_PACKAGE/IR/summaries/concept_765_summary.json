@@ -1,0 +1,63 @@
+{
+  "concept_id": "765",
+  "concept_data": {
+    "title": "urea",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "chemical fertiliser",
+    "relation_type": "USE"
+  },
+  "summary": "Urea, classified under the category of means of agricultural production, is a pivotal chemical fertiliser within EU regulatory frameworks. As a nitrogen source, it plays a crucial role in enhancing crop yield through processes like nitrification and chelating, which mitigate chlorosis. The EU regulates urea's composition, ensuring compliance with standards for complexing agents such as ethylenediamine and dicyandiamide, which act as inhibitors to optimize fertiliser efficiency. Notably, urea's application is influenced by factors like its ammoniacal content and the presence of methylpyrazole. The term \"chemical fertiliser\" serves as the preferred nomenclature, redirecting from urea to encapsulate its broader regulatory implications in agricultural practices across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:00:59.923427",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 1415,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 93,
+      "selected_avg_freq": 36.913333333333334
+    },
+    "related_words": [
+      "chimco",
+      "complexing",
+      "lignosulfonic",
+      "hydroxybenzyl",
+      "ethylenediamine",
+      "diacetic",
+      "hbed",
+      "chlorosis",
+      "methylpyrazole",
+      "nitrophenyl",
+      "triamide",
+      "npt",
+      "npk",
+      "superfos",
+      "badische",
+      "anilin",
+      "ruhrstickstoff",
+      "agrimonte",
+      "anonima",
+      "cros",
+      "fertilizantes",
+      "imperial",
+      "ince",
+      "capactiy",
+      "languagues",
+      "eaxporter",
+      "waidhaus",
+      "relabelling",
+      "wanting",
+      "novomoskovsk"
+    ],
+    "prompt_length": 1767,
+    "category": "5626 means of agricultural production"
+  }
+}

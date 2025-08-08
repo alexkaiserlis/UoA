@@ -1,0 +1,63 @@
+{
+  "concept_id": "4777",
+  "concept_data": {
+    "title": "Yorkshire and The Humber",
+    "category_code": "7206",
+    "category_name": "Europe",
+    "category_full": "7206 Europe",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"Yorkshire and The Humber\" pertains to a specific region within the EU's regulatory frameworks, particularly in relation to funding mechanisms such as the European Social Fund (ESF) and the European Regional Development Fund (ERDF). This area is characterized by various socio-economic challenges that necessitate additionality in allocations. The region's programming reflects a progressive approach to addressing declining economic patterns, with statutory frameworks designed to simplify the evaluation of projects. The European Investment Bank (EIB) plays a crucial role in providing loans that satisfy the region's needs, while annual appropriations are indexed to inflation. Perspectives on the region’s development are shaped by partners who prepare indicative plans, ensuring that unused resources are effectively utilized. The allocation process foresees a breakdown of priorities that are precisely defined to fulfill the objectives of the EU's cohesion policy.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:26:55.918860",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 137,
+    "vocabulary_stats": {
+      "total_related_words": 285,
+      "requested_words": 150,
+      "min_frequency_found": 11,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 11,
+      "selected_max_freq": 1519,
+      "selected_avg_freq": 867.9933333333333
+    },
+    "related_words": [
+      "humber",
+      "yorkshire",
+      "additionality",
+      "indexed",
+      "perspectives",
+      "esf",
+      "indexation",
+      "analogy",
+      "frameworks",
+      "seq",
+      "erdf",
+      "ruled",
+      "eib",
+      "declining",
+      "inflation",
+      "mention",
+      "perspective",
+      "unused",
+      "foresees",
+      "statutory",
+      "allocations",
+      "ecus",
+      "satisfies",
+      "loans",
+      "programming",
+      "pattern",
+      "modifying",
+      "precisely",
+      "recipient",
+      "speed"
+    ],
+    "prompt_length": 1683,
+    "category": "7206 Europe"
+  }
+}

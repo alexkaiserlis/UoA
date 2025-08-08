@@ -1,0 +1,63 @@
+{
+  "concept_id": "4542",
+  "concept_data": {
+    "title": "shipowner",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": true,
+    "preferred_term": "carrier",
+    "relation_type": "USE"
+  },
+  "summary": "In EU legal and regulatory contexts, the term \"shipowner\" is often redirected to the preferred term \"carrier,\" which encompasses entities responsible for the transport of goods via maritime services. This concept is critical for understanding the obligations and liabilities of entities involved in shipping, including those operating scheepsdienst and managing salvage operations. The regulatory framework facilitates the activities of shipbuilders and yards, ensuring compliance with standards that govern safety and environmental impact. Additionally, carriers may engage in activities such as ferry services and utilize tugs for navigation. The legal definitions are essential for addressing issues like indiscriminate practices and ensuring that carriers affirm their responsibilities under the EU's maritime laws, thereby curbing potential disputes and fostering a reliable transport network across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:53:56.109792",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 123,
+    "vocabulary_stats": {
+      "total_related_words": 944,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 192,
+      "selected_avg_freq": 76.01333333333334
+    },
+    "related_words": [
+      "redding",
+      "scheepsdienst",
+      "scheepswerf",
+      "ruppelmonde",
+      "fulton",
+      "dive",
+      "stout",
+      "fawn",
+      "fertex",
+      "advisedly",
+      "lattter",
+      "tivat",
+      "kosovar",
+      "boelwerf",
+      "tugs",
+      "aeo",
+      "montenegrin",
+      "indiscriminate",
+      "leipzig",
+      "eori",
+      "pleading",
+      "excuse",
+      "pantone",
+      "europese",
+      "shipbuilders",
+      "submarine",
+      "unie",
+      "reiterate",
+      "salvage",
+      "subtracting"
+    ],
+    "prompt_length": 1677,
+    "category": "4811 organisation of transport"
+  }
+}

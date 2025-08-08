@@ -1,0 +1,63 @@
+{
+  "concept_id": "1726",
+  "concept_data": {
+    "title": "textile machine",
+    "category_code": "6841",
+    "category_name": "leather and textile industries",
+    "category_full": "6841 leather and textile industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"textile machine\" pertains to the machinery utilized in the leather and textile industries, encompassing a range of equipment from manufacturers like VDMA and ACIMIT. These machines are integral to the production processes of textiles and hosiery, with significant events such as ITMA showcasing innovations in this field. Regulatory frameworks often involve organizations like UCMTF and Fachgemeinschaft, which advocate for standards and practices in textile machinery. Exhibitors at trade fairs in cities like Zuerich and Bruxelles are subject to stringent compliance, ensuring that their products meet EU regulations. The involvement of syndicates and groups, such as the BTMA and VSM, further underscores the collaborative efforts in this sector, promoting advancements while addressing challenges faced by manufacturers and resellers alike.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:36:25.490902",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 121,
+    "vocabulary_stats": {
+      "total_related_words": 499,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 272,
+      "selected_avg_freq": 82.42
+    },
+    "related_words": [
+      "cematex",
+      "itma",
+      "janaury",
+      "fachgemeinschaft",
+      "textilmaschinen",
+      "verein",
+      "anstalten",
+      "vdma",
+      "lyoner",
+      "constructeurs",
+      "symatex",
+      "drapiers",
+      "ucmtf",
+      "hoche",
+      "btma",
+      "costruttori",
+      "italiani",
+      "macchinario",
+      "acimit",
+      "tevere",
+      "textielmachines",
+      "gtm",
+      "metaal",
+      "elektrotechnische",
+      "fme",
+      "bredewater",
+      "zoetermeer",
+      "vsm",
+      "kirchenweg",
+      "mock"
+    ],
+    "prompt_length": 1690,
+    "category": "6841 leather and textile industries"
+  }
+}

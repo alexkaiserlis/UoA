@@ -1,0 +1,63 @@
+{
+  "concept_id": "3549",
+  "concept_data": {
+    "title": "natural resources",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"natural resources\" within EU legal and regulatory frameworks encompasses the various biotopes and environments that are essential for ecological balance and human welfare. EU policies urgently direct governments and agencies to coordinate efforts in protecting these resources, integrating conservation strategies that address pollution and promote sustainability. Methodological approaches, such as the CORINE land cover project, guide the gathering of data on natural phenomena and their interaction with human activities. This coordination fosters a network of transfrontier cooperation, ensuring the compatibility of conservation efforts across differing political landscapes, while also considering the desirability and usefulness of natural resources for future generations.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:07:50.925876",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 233,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 2028,
+      "selected_avg_freq": 994.7666666666667
+    },
+    "related_words": [
+      "corine",
+      "biotopes",
+      "interact",
+      "ordinating",
+      "directing",
+      "assemble",
+      "transfrontier",
+      "desirability",
+      "phenomena",
+      "environments",
+      "guided",
+      "interaction",
+      "methodological",
+      "atmospheric",
+      "gathering",
+      "usefulness",
+      "urgently",
+      "furnished",
+      "differing",
+      "dimension",
+      "incorporating",
+      "experimental",
+      "rational",
+      "coordinating",
+      "coordinate",
+      "intermediate",
+      "generated",
+      "conservation",
+      "protecting",
+      "entrusted"
+    ],
+    "prompt_length": 1780,
+    "category": "5211 natural environment"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "5311",
+  "concept_data": {
+    "title": "vade-mecum",
+    "category_code": "3221",
+    "category_name": "documentation",
+    "category_full": "3221 documentation",
+    "is_redirect": true,
+    "preferred_term": "user guide",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"vade-mecum,\" categorized under documentation, is a redirect to the preferred term \"user guide.\" In the context of EU legal and regulatory frameworks, a user guide serves as a comprehensive manual that describes procedures and instructions for various processes, such as the declassifying of confidential documents or the issuance of visas. These guides ensure uniformity in the application of regulations across member states, facilitating multilaterally agreed protocols. They often include a glossary of terms, alerts for updates, and instructions for using automated systems like SIS and Schengen databases. Such resources are essential for police and consular services, ensuring appropriate handling of sensitive information while maintaining privacy and security standards.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:39:36.164895",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 110,
+    "vocabulary_stats": {
+      "total_related_words": 427,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 969,
+      "selected_avg_freq": 453.2
+    },
+    "related_words": [
+      "declassify",
+      "restreint",
+      "aliens",
+      "declassifying",
+      "multilaterally",
+      "glossary",
+      "declassified",
+      "sirene",
+      "downgraded",
+      "bilaterally",
+      "extrajudicial",
+      "implantable",
+      "sch",
+      "websites",
+      "mirror",
+      "unconditional",
+      "strasbourg",
+      "alerts",
+      "consular",
+      "sis",
+      "accessories",
+      "privacy",
+      "rev",
+      "describes",
+      "search",
+      "updates",
+      "stood",
+      "automated",
+      "transmitting",
+      "assisting"
+    ],
+    "prompt_length": 1709,
+    "category": "3221 documentation"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "4355",
+  "concept_data": {
+    "title": "System for Mineral Products",
+    "category_code": "1016",
+    "category_name": "European construction",
+    "category_full": "1016 European construction",
+    "is_redirect": true,
+    "preferred_term": "Sysmin",
+    "relation_type": "USE"
+  },
+  "summary": "The \"System for Mineral Products,\" commonly referred to as \"Sysmin,\" is a regulatory framework established by the European Union to support member countries in managing mineral resources. This system stipulates measures for financing the extraction and processing of mineral products, particularly in overseas territories. It applies to ten countries and includes provisions for transitional periods, fixing amounts for financing over a specified period. The decision to adopt Sysmin was made in the context of the EEC Treaty, with further proposals discussed in the Council and Commission meetings held in January and March. This system aims to enhance economic stability and promote sustainable practices within the community.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:12:25.289533",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 40,
+      "requested_words": 150,
+      "min_frequency_found": 416,
+      "max_frequency_found": 4108,
+      "selected_words": 40,
+      "selected_min_freq": 416,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2458.3
+    },
+    "related_words": [
+      "ten",
+      "overseas",
+      "territories",
+      "stipulates",
+      "association",
+      "pending",
+      "fixing",
+      "five",
+      "financing",
+      "amounts",
+      "transitional",
+      "context",
+      "way",
+      "covered",
+      "years",
+      "countries",
+      "applied",
+      "year",
+      "further",
+      "applicable",
+      "new",
+      "january",
+      "adopted",
+      "period",
+      "march",
+      "appropriate",
+      "proposal",
+      "provisions",
+      "july",
+      "eec"
+    ],
+    "prompt_length": 1592,
+    "category": "1016 European construction"
+  }
+}

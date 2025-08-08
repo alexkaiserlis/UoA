@@ -1,0 +1,63 @@
+{
+  "concept_id": "1349",
+  "concept_data": {
+    "title": "wage indexing",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Wage indexing is a mechanism employed in personnel management and staff remuneration within the EU, aimed at adjusting wages based on predetermined indices that reflect inflationary pressures and living costs. This process ensures that remuneration remains comprehensible and relevant, particularly for employed officials and civil servants. By utilizing reliable statistical studies, wage dynamics are adjusted seasonally to minimise disparities in purchasing power. The feasibility of such adjustments often involves comparing various formats and weightings of indices, including those from countries like Switzerland and Algeria. Ultimately, wage indexing seeks to provide a flexible and fair remuneration schedule that is responsive to economic conditions.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:57:47.171589",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 200,
+      "requested_words": 150,
+      "min_frequency_found": 20,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 20,
+      "selected_max_freq": 2527,
+      "selected_avg_freq": 1089.3666666666666
+    },
+    "related_words": [
+      "comprehensible",
+      "inflationary",
+      "emanating",
+      "seasonally",
+      "interpret",
+      "posted",
+      "dynamics",
+      "wage",
+      "predetermined",
+      "statistically",
+      "rev",
+      "pressures",
+      "weightings",
+      "compare",
+      "lebanon",
+      "indices",
+      "nace",
+      "usage",
+      "formats",
+      "weighting",
+      "pensions",
+      "servants",
+      "fast",
+      "algeria",
+      "compilation",
+      "remuneration",
+      "egypt",
+      "standardised",
+      "index",
+      "feasible"
+    ],
+    "prompt_length": 1710,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

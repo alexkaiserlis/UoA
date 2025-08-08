@@ -1,0 +1,63 @@
+{
+  "concept_id": "99",
+  "concept_data": {
+    "title": "international crisis",
+    "category_code": "0816",
+    "category_name": "international security",
+    "category_full": "0816 international security",
+    "is_redirect": true,
+    "preferred_term": "international conflict",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"international crisis,\" redirected to \"international conflict,\" encompasses the EU's legal and regulatory frameworks aimed at strengthening international security. The EU's Common Foreign and Security Policy (CFSP) plays a crucial role in coordinating responses to conflicts, ensuring a peaceful resolution through diplomatic tools and civilian missions. The Lisbon Treaty emphasizes the need for a comprehensive approach, combining efforts from various stakeholders, including donors and member states. The EU's presidency often highlights the importance of inquiry into conflict situations, fostering synergy among forces to build lasting solutions. By undertaking strict measures such as embargoes, the EU seeks to secure stability and confidence in affected regions, addressing the breakdown of peace and mitigating injury to civilian populations.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:12:48.356883",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 199,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 2534,
+      "selected_avg_freq": 1077.3466666666666
+    },
+    "related_words": [
+      "secretaray",
+      "tagliavini",
+      "strenghten",
+      "responsiveness",
+      "heidi",
+      "feira",
+      "mount",
+      "idea",
+      "peaceful",
+      "gulf",
+      "synergy",
+      "commit",
+      "combine",
+      "inquiry",
+      "civilian",
+      "embargo",
+      "donors",
+      "conflicts",
+      "helsinki",
+      "perspectives",
+      "georgia",
+      "presidency",
+      "highlighted",
+      "tools",
+      "coordinating",
+      "conflict",
+      "ready",
+      "confidence",
+      "suffered",
+      "head"
+    ],
+    "prompt_length": 1714,
+    "category": "0816 international security"
+  }
+}

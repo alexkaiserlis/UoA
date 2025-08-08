@@ -1,0 +1,63 @@
+{
+  "concept_id": "3769",
+  "concept_data": {
+    "title": "paraffin",
+    "category_code": "6616",
+    "category_name": "oil industry",
+    "category_full": "6616 oil industry",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Paraffin, a key component in the oil industry, is subject to rigorous EU regulatory frameworks concerning its purity and toxicity. Notably, the toxicological profiles of paraffins are elaborated in various pharmacopoeia, ensuring compliance with safety standards. The assessment of ecotoxicity is crucial, particularly for chlorinated paraffins, which may pose risks to bystanders and the environment. Notifiers must submit detailed dossiers, including data on metalworking fluids and their inclusions, to confirm compliance with regulations. The correlation between toxicity and the purity of paraffin is carefully examined during the standardization process, with rapporteurs overseeing the evaluation of shipments and subdivisions to ensure adherence to EU directives.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:26:39.866052",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 470,
+      "requested_words": 150,
+      "min_frequency_found": 8,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 8,
+      "selected_max_freq": 826,
+      "selected_avg_freq": 394.17333333333335
+    },
+    "related_words": [
+      "metalworking",
+      "parcom",
+      "sccps",
+      "paraffins",
+      "twentieth",
+      "chlorinated",
+      "bystanders",
+      "cstee",
+      "pharmacopoeia",
+      "fourteenth",
+      "inclusions",
+      "notifiers",
+      "finishing",
+      "paraffin",
+      "illustrate",
+      "interpreting",
+      "elaborated",
+      "ecotoxicity",
+      "fluids",
+      "solved",
+      "peer",
+      "confirmatory",
+      "notifier",
+      "leather",
+      "submits",
+      "sampled",
+      "elapse",
+      "cas",
+      "rapporteur",
+      "sunflower"
+    ],
+    "prompt_length": 1706,
+    "category": "6616 oil industry"
+  }
+}

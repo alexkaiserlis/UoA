@@ -1,0 +1,63 @@
+{
+  "concept_id": "586",
+  "concept_data": {
+    "title": "contract farming",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Contract farming refers to a contractual arrangement between farmers and purchasers, such as processors or retailers, where the terms of production and delivery of agricultural products are pre-defined. This system is regulated under EU legal frameworks, particularly within the Common Market Organisation (CMO) regulations. Farmers and entities engage in negotiations to establish written contracts that specify volumes, delivery schedules, and product specifications, including geographical indications for protected products like cheese and milk. These contracts facilitate interbranch relations and ensure recognition of producers' rights. Notifications and reports on contract compliance are essential for maintaining transparency and addressing any refusal or withdrawal issues that may arise.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:37:29.112542",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 109,
+      "requested_words": 150,
+      "min_frequency_found": 23,
+      "max_frequency_found": 4108,
+      "selected_words": 109,
+      "selected_min_freq": 23,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1784.788990825688
+    },
+    "related_words": [
+      "interbranch",
+      "iia",
+      "farmer",
+      "processor",
+      "refuse",
+      "refusal",
+      "cheese",
+      "purchasers",
+      "regulating",
+      "contractual",
+      "inserted",
+      "cmo",
+      "volumes",
+      "withdraw",
+      "designation",
+      "farmers",
+      "notifications",
+      "prepare",
+      "entities",
+      "written",
+      "associations",
+      "delivery",
+      "protected",
+      "indication",
+      "milk",
+      "relations",
+      "withdrawal",
+      "raw",
+      "offer",
+      "contract"
+    ],
+    "prompt_length": 1673,
+    "category": "5616 farming systems"
+  }
+}

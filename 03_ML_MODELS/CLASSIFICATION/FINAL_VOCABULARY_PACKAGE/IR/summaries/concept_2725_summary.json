@@ -1,0 +1,63 @@
+{
+  "concept_id": "2725",
+  "concept_data": {
+    "title": "agricultural productivity",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Agricultural productivity, as defined within the EU's regulatory framework, encompasses the efficiency and output of farming systems, crucial for ensuring sustainability and food security. The European Innovation Partnership (EIP) and the European Agricultural Fund for Rural Development (EAFRD) set out thematic strategies aimed at stimulating agricultural advancements. Chairpersons of relevant institutes coordinate dialogue among researchers and stakeholders, fostering networking to enhance productivity. The governance of agricultural practices includes verifications of additionality and allowances, preventing inflationary pressures on resources. Luxembourgish perspectives on weather variability and its impact on crop yields are also considered, ensuring comprehensive approaches to agricultural productivity in the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:48:22.649219",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 531,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 770,
+      "selected_avg_freq": 414.41333333333336
+    },
+    "related_words": [
+      "subchapter",
+      "eip",
+      "enrd",
+      "setout",
+      "bumper",
+      "chairpersons",
+      "implementations",
+      "luxembourgish",
+      "reindeer",
+      "chairperson",
+      "stimulation",
+      "revaluation",
+      "thematic",
+      "leader",
+      "researchers",
+      "networking",
+      "answered",
+      "vice",
+      "laender",
+      "observers",
+      "rome",
+      "eafrd",
+      "additionality",
+      "lowering",
+      "delivering",
+      "prevents",
+      "unlimited",
+      "perspectives",
+      "providers",
+      "indexation"
+    ],
+    "prompt_length": 1732,
+    "category": "5616 farming systems"
+  }
+}

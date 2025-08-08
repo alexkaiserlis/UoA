@@ -1,0 +1,63 @@
+{
+  "concept_id": "64",
+  "concept_data": {
+    "title": "tied sales outlet",
+    "category_code": "4031",
+    "category_name": "competition",
+    "category_full": "4031 competition",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tied sales outlet\" pertains to competition law within the EU framework, where suppliers impose restrictions on retailers, compelling them to sell specific products or brands exclusively. Such practices can lead to insufficient market competition, as they may divert consumer choices and yield improper market dominance. The European Commission scrutinizes these arrangements to ensure compliance with applicable regulations, aiming to prevent derogations that could ensult fair trading habits. In accordance with EU directives, tied sales must be judged against their impact on market qualities, ensuring that the simplest and most equitable solutions are pursued. This regulatory intervention is crucial for maintaining balanced availabilities in sectors like wineries and distillers, where repackaging and distribution practices must align with strictest standards to avoid market distortions.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:11:54.345947",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 125,
+    "vocabulary_stats": {
+      "total_related_words": 618,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 430,
+      "selected_avg_freq": 210.12
+    },
+    "related_words": [
+      "insufficent",
+      "payement",
+      "applicale",
+      "derogatons",
+      "ensulting",
+      "feedwheat",
+      "intrvention",
+      "qualitites",
+      "simplest",
+      "arrives",
+      "explicity",
+      "wineries",
+      "vercelli",
+      "repacking",
+      "distil",
+      "vinous",
+      "depot",
+      "repackaging",
+      "acordance",
+      "eeg",
+      "equip",
+      "divert",
+      "strictest",
+      "judging",
+      "yielding",
+      "distillers",
+      "improper",
+      "boneless",
+      "availabilities",
+      "grower"
+    ],
+    "prompt_length": 1667,
+    "category": "4031 competition"
+  }
+}

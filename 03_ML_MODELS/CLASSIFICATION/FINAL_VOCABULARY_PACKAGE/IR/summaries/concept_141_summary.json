@@ -1,0 +1,63 @@
+{
+  "concept_id": "141",
+  "concept_data": {
+    "title": "water consumption",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Water consumption, as defined within EU environmental policy, encompasses the measurement and regulation of water usage across various sectors, including household appliances and industrial utilities. Accurate measurement is integral to evaluating flowrate and ensuring compliance with legally prescribed standards. The installation of meters, conforming to CEN and CENELEC specifications, invites partners to adopt harmonized practices that reflect exigent demands for resource efficiency. By standardizing measurements, the EU aims to rationalize water consumption, reducing errors and promoting cheaper, efficient appliances. This regulatory framework empowers customers to make informed choices regarding their water usage, ultimately contributing to sustainable environmental practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:30:40.158038",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 98,
+    "vocabulary_stats": {
+      "total_related_words": 236,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 1937,
+      "selected_avg_freq": 878.0133333333333
+    },
+    "related_words": [
+      "flowrate",
+      "exigent",
+      "oiml",
+      "bills",
+      "meter",
+      "helpful",
+      "electrotechnical",
+      "installing",
+      "cenelec",
+      "utility",
+      "appliance",
+      "rated",
+      "cheaper",
+      "washing",
+      "meters",
+      "embodied",
+      "invites",
+      "remit",
+      "measurements",
+      "hot",
+      "appliances",
+      "heating",
+      "discretion",
+      "machines",
+      "cen",
+      "evaluating",
+      "art",
+      "household",
+      "installed",
+      "conforming"
+    ],
+    "prompt_length": 1690,
+    "category": "5206 environmental policy"
+  }
+}

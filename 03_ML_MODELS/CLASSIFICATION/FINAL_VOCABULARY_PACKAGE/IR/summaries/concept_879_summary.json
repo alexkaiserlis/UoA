@@ -1,0 +1,63 @@
+{
+  "concept_id": "879",
+  "concept_data": {
+    "title": "tin",
+    "category_code": "6816",
+    "category_name": "iron, steel and other metal industries",
+    "category_full": "6816 iron, steel and other metal industries",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"tin\" within the EU legal and regulatory framework pertains to its role in various industries, particularly in relation to marine and environmental regulations. Tin compounds, including organotin, are subject to stringent guidelines due to their potential for harmful pollution in seas and ports. The International Maritime Organization (IMO) and the Marine Environment Protection Committee (MEPC) have established provisions for the certification and inspection of ships flying flags that utilize tin-based anti-fouling treatments. These regulations aim to demonstrate the effectiveness of prevention measures against marine pollution. Compliance with these recommendations is crucial for parties involved, ensuring safe practices and environmental protection.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:12:18.533533",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 124,
+      "requested_words": 150,
+      "min_frequency_found": 9,
+      "max_frequency_found": 4108,
+      "selected_words": 124,
+      "selected_min_freq": 9,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1864.016129032258
+    },
+    "related_words": [
+      "fouling",
+      "afs",
+      "organotin",
+      "mepc",
+      "tin",
+      "brief",
+      "imo",
+      "seas",
+      "compounds",
+      "flying",
+      "flag",
+      "ships",
+      "similarly",
+      "port",
+      "marine",
+      "maritime",
+      "pollution",
+      "survey",
+      "sampling",
+      "harmful",
+      "demonstrate",
+      "safe",
+      "fifth",
+      "anti",
+      "provisionally",
+      "certification",
+      "approve",
+      "prohibition",
+      "prevention",
+      "giving"
+    ],
+    "prompt_length": 1675,
+    "category": "6816 iron, steel and other metal industries"
+  }
+}

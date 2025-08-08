@@ -1,0 +1,26 @@
+{
+  "concept_id": "273",
+  "concept_data": {
+    "title": "health costs",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"health costs\" within EU legal and regulatory frameworks encompasses the financial implications associated with healthcare services and interventions. It includes direct costs, such as medical treatments and hospital stays, as well as indirect costs, like lost productivity due to illness. The EU's regulatory bodies, including the European Medicines Agency (EMA) and the European Centre for Disease Prevention and Control (ECDC), assess health costs to inform policy decisions and resource allocation. Understanding health costs is crucial for developing sustainable healthcare systems, ensuring equitable access to medical services, and evaluating the economic impact of public health initiatives across member states.",
+  "metadata": {
+    "generation_date": "2025-07-29T23:42:56.840686",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1158,
+    "category": "2841 health"
+  }
+}

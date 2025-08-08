@@ -1,0 +1,63 @@
+{
+  "concept_id": "4273",
+  "concept_data": {
+    "title": "staff rules",
+    "category_code": "4421",
+    "category_name": "personnel management and staff remuneration",
+    "category_full": "4421 personnel management and staff remuneration",
+    "is_redirect": true,
+    "preferred_term": "staff regulations",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"staff rules,\" which redirects to \"staff regulations,\" encompasses formalised guidelines governing personnel management and staff remuneration within EU institutions. These regulations characterise the tripartite relationship between employees, employers, and stakeholders, ensuring equality and diversity in the workplace. They entitle staff to specific rights, including pension benefits, while addressing inequalities that may arise. The regulations are reformed periodically to anticipate forthcoming challenges and strengthen governance frameworks. By engaging a balanced composition of men and women, these rules create a foundation for successful careers. They underline the importance of representation and encourage vocational development, proving essential for the effective function of EU bodies.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:54:02.443770",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 196,
+      "requested_words": 150,
+      "min_frequency_found": 17,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 17,
+      "selected_max_freq": 2570,
+      "selected_avg_freq": 1018.7733333333333
+    },
+    "related_words": [
+      "formalised",
+      "careers",
+      "characterise",
+      "tripartite",
+      "entitle",
+      "inequalities",
+      "reformed",
+      "anticipate",
+      "coordinator",
+      "pension",
+      "bureau",
+      "specificity",
+      "underlines",
+      "foundation",
+      "boards",
+      "reconsider",
+      "men",
+      "employers",
+      "servants",
+      "treat",
+      "approaches",
+      "forthcoming",
+      "women",
+      "creates",
+      "vocational",
+      "equality",
+      "success",
+      "governance",
+      "diversity",
+      "employees"
+    ],
+    "prompt_length": 1772,
+    "category": "4421 personnel management and staff remuneration"
+  }
+}

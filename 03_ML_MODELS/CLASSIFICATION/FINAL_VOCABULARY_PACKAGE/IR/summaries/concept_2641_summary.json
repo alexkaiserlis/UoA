@@ -1,0 +1,63 @@
+{
+  "concept_id": "2641",
+  "concept_data": {
+    "title": "forward delivery price",
+    "category_code": "4806",
+    "category_name": "transport policy",
+    "category_full": "4806 transport policy",
+    "is_redirect": true,
+    "preferred_term": "cif price",
+    "relation_type": "USE"
+  },
+  "summary": "The \"forward delivery price,\" often redirected to the preferred term \"cif price,\" is a crucial concept in EU transport policy, particularly in the context of international trade. This price encompasses the costs associated with delivering goods, including transport, insurance, and freight, to a specified destination. It is essential for standardizing transactions and mitigating complications arising from marketable anomalies. Sellers must classify goods accurately, ensuring that impurities and deviations are minimized. The cif price is analyzed in terms of its intrinsic value, often expressed in metric tonnage, and can be influenced by factors such as discounts and the reliability of supply chains. Understanding this concept aids in navigating the complexities of trade agreements, particularly in regions like Rotterdam and Tanzania, where diverse commodities, including sorghum and molasses, are traded.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:04:18.601822",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 128,
+    "vocabulary_stats": {
+      "total_related_words": 704,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 357,
+      "selected_avg_freq": 177.17333333333335
+    },
+    "related_words": [
+      "cangiรงao",
+      "complication",
+      "bonnet",
+      "belle",
+      "patna",
+      "bullrush",
+      "caf",
+      "realizations",
+      "omit",
+      "grained",
+      "parboiled",
+      "analyzed",
+      "minneapolis",
+      "unrefined",
+      "sacks",
+      "ton",
+      "anomalies",
+      "spelt",
+      "millet",
+      "groats",
+      "standardize",
+      "disregard",
+      "egyptian",
+      "brewing",
+      "kilogrammes",
+      "meslin",
+      "intervening",
+      "molasses",
+      "packings",
+      "deviations"
+    ],
+    "prompt_length": 1703,
+    "category": "4806 transport policy"
+  }
+}

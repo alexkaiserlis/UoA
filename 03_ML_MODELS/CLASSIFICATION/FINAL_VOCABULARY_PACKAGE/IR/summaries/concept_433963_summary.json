@@ -1,0 +1,63 @@
+{
+  "concept_id": "433963",
+  "concept_data": {
+    "title": "global warming potential",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": true,
+    "preferred_term": "global warming",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"global warming potential\" (GWP) is pivotal in EU environmental legislation, particularly in the context of anthropogenic climate change. GWP measures the relative warming impact of greenhouse gases, such as carbon dioxide, over a specified timeframe. The Intergovernmental Panel on Climate Change (IPCC) provides methodologies for calculating GWP, which informs inventories of emissions and removals. Under the United Nations Framework Convention on Climate Change (UNFCCC), nations report GWP values to ensure consistency in emissions trading schemes. This concept is crucial for determining allowances and adjustments in climate legislation, facilitating effective climate change mitigation strategies across the EU.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:13:21.867308",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 100,
+      "requested_words": 150,
+      "min_frequency_found": 12,
+      "max_frequency_found": 4108,
+      "selected_words": 100,
+      "selected_min_freq": 12,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1773.7
+    },
+    "related_words": [
+      "sinks",
+      "gwp",
+      "potentials",
+      "ipcc",
+      "removals",
+      "unfccc",
+      "anthropogenic",
+      "warming",
+      "inventories",
+      "intergovernmental",
+      "gases",
+      "methodologies",
+      "greenhouse",
+      "dioxide",
+      "carbon",
+      "allowances",
+      "emission",
+      "climate",
+      "emissions",
+      "panel",
+      "allowance",
+      "equivalence",
+      "calculate",
+      "determines",
+      "eight",
+      "gas",
+      "reported",
+      "trading",
+      "conference",
+      "beginning"
+    ],
+    "prompt_length": 1737,
+    "category": "5216 deterioration of the environment"
+  }
+}

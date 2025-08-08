@@ -1,0 +1,63 @@
+{
+  "concept_id": "4656",
+  "concept_data": {
+    "title": "electric vehicle",
+    "category_code": "4811",
+    "category_name": "organisation of transport",
+    "category_full": "4811 organisation of transport",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"electric vehicle\" (EV) within EU legal and regulatory frameworks is pivotal for the decarbonisation of the automotive sector. As the EU aims to modernise transport, EVs represent a flagship initiative fostering clean mobility. The deployment of intelligent charging grids enhances the uptake of affordable, hybrid, and fully electric cars. Regulatory bodies, such as the Landesamt für Umwelt, oversee compliance with environmental standards, ensuring that these vehicles contribute to sustainable urban terrain. The era of globalisation invites diverse stakeholders to participate in this transition, promoting innovative solutions that break traditional automotive paradigms and support the EU's commitment to a greener future.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:40:33.371812",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 296,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 967,
+      "selected_avg_freq": 404.0133333333333
+    },
+    "related_words": [
+      "huabao",
+      "zhiying",
+      "guashan",
+      "yongkang",
+      "qbb",
+      "funsporthandel",
+      "hofstraβe",
+      "traben",
+      "trarbach",
+      "landesamt",
+      "wasserwirtschaft",
+      "gewerbeaufsicht",
+      "decarbonise",
+      "atv",
+      "zhejiang",
+      "umwelt",
+      "affordable",
+      "mini",
+      "sustaining",
+      "terrain",
+      "für",
+      "wrote",
+      "bore",
+      "era",
+      "appliance",
+      "rheinland",
+      "flagship",
+      "pfalz",
+      "enhances",
+      "intelligent"
+    ],
+    "prompt_length": 1666,
+    "category": "4811 organisation of transport"
+  }
+}

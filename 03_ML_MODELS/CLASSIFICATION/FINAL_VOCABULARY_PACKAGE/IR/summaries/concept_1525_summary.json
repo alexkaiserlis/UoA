@@ -1,0 +1,63 @@
+{
+  "concept_id": "1525",
+  "concept_data": {
+    "title": "kitchen garden",
+    "category_code": "5616",
+    "category_name": "farming systems",
+    "category_full": "5616 farming systems",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"kitchen garden\" within the EU regulatory framework pertains to farming systems that integrally support local food production and biodiversity. Kitchen gardens are often equipped with machinery such as shredders and chippers, which facilitate the processing of cuttings and organic waste. These devices, powered by various appliances, must adhere to harmonised specifications to ensure safety and efficiency. EU legislation includes clauses aimed at preventing risks associated with the use of such equipment, ensuring that moving parts, like blades and chutes, are safeguarded. The integration of kitchen gardens into urban society promotes sustainable practices, whilst fostering a choice of fresh produce that aligns with EU standards.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:23:16.201957",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 120,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 120,
+      "selected_min_freq": 7,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1638.9416666666666
+    },
+    "related_words": [
+      "integrally",
+      "shredders",
+      "chippers",
+      "jammed",
+      "chute",
+      "blade",
+      "garden",
+      "cuttings",
+      "guards",
+      "appliance",
+      "powered",
+      "transposing",
+      "machine",
+      "cen",
+      "dimensions",
+      "cutting",
+      "presumed",
+      "adult",
+      "fails",
+      "discharge",
+      "clauses",
+      "built",
+      "moving",
+      "machinery",
+      "devices",
+      "clause",
+      "standardisation",
+      "side",
+      "running",
+      "objection"
+    ],
+    "prompt_length": 1649,
+    "category": "5616 farming systems"
+  }
+}

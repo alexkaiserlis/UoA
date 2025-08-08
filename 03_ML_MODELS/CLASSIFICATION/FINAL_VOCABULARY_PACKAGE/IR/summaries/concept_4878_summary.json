@@ -1,0 +1,63 @@
+{
+  "concept_id": "4878",
+  "concept_data": {
+    "title": "consumer goods",
+    "category_code": "2026",
+    "category_name": "consumption",
+    "category_full": "2026 consumption",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"consumer goods\" within EU legal and regulatory frameworks encompasses a wide range of products designed for personal use, inherently appealing to consumers. These goods can include disposable items, novelty products, and even flammable materials, which pose unique dangers in various surroundings. Regulations aim to ensure that manufacturers and consignors provide meaningful information regarding the safety and quality of these goods. The EU's telematics initiatives facilitate the tracking and redistributing of consumer goods, while addressing potential casualties from defective items. By enacting stringent safety standards, the EU anticipates mitigating risks associated with toxicology and flammable products, ultimately protecting consumers from harm.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:35:17.664490",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 760,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 368,
+      "selected_avg_freq": 172.7
+    },
+    "related_words": [
+      "informtion",
+      "bursts",
+      "throwaway",
+      "secondarily",
+      "infrequent",
+      "entertaining",
+      "casualty",
+      "burns",
+      "consignees",
+      "edi",
+      "edicom",
+      "victim",
+      "referenced",
+      "inherently",
+      "explosion",
+      "disposable",
+      "novelty",
+      "telematics",
+      "redistributing",
+      "hospital",
+      "surroundings",
+      "flammable",
+      "aegis",
+      "consignors",
+      "lighters",
+      "telematic",
+      "spheres",
+      "roles",
+      "flame",
+      "appealing"
+    ],
+    "prompt_length": 1683,
+    "category": "2026 consumption"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "3163",
+  "concept_data": {
+    "title": "pollution from ships",
+    "category_code": "5216",
+    "category_name": "deterioration of the environment",
+    "category_full": "5216 deterioration of the environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"pollution from ships\" encompasses various legal and regulatory frameworks aimed at mitigating the devastating environmental impacts of maritime activities. Under EU law, particularly through instruments like MARPOL and the International Maritime Organization (IMO), regulations are promulgating measures to prevent spills of noxious substances and sewage from shipboard operations. The IGC and IBC codes centralise safety protocols for handling hazardous materials, while the MEPC addresses issues such as organotin compounds and ballast water management. Recklessly discharging pollutants can lead to severe penalties for polluters, including disapproval from regulatory bodies. The EU also emphasizes the timeliness of response to incidents, such as slicks from collisions or stranding events, necessitating the use of dispersants and effective cleanup strategies. Compliance with these regulations is crucial for maintaining marine refuge and protecting ecosystems from irradiated waste and other harmful materials.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:01:53.456608",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 138,
+    "vocabulary_stats": {
+      "total_related_words": 960,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 206,
+      "selected_avg_freq": 86.32666666666667
+    },
+    "related_words": [
+      "igc",
+      "erika",
+      "cecis",
+      "dispersants",
+      "recklessly",
+      "manned",
+      "circ",
+      "centralise",
+      "ibc",
+      "slick",
+      "warships",
+      "stranding",
+      "wingtanks",
+      "bottoms",
+      "hydrostatically",
+      "inf",
+      "flasks",
+      "charterers",
+      "disapproval",
+      "polluters",
+      "imdg",
+      "cleanseanet",
+      "haven",
+      "unclos",
+      "incoherence",
+      "promulgating",
+      "segregated",
+      "ballast",
+      "timeliness",
+      "refuge"
+    ],
+    "prompt_length": 1672,
+    "category": "5216 deterioration of the environment"
+  }
+}

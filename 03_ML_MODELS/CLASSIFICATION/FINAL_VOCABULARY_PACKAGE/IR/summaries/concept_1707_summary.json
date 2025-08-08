@@ -1,0 +1,63 @@
+{
+  "concept_id": "1707",
+  "concept_data": {
+    "title": "reduction of pollution",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": true,
+    "preferred_term": "pollution control measures",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"reduction of pollution,\" redirected to \"pollution control measures,\" encompasses a range of EU regulatory frameworks aimed at mitigating environmental degradation. These measures address pollutants in freshwaters, including oligotrophic, mesotrophic, and hypertrophic conditions in catchments and tributaries. The EU employs intercalibration and intercomparison techniques to ensure effective pollution management across member states. Regulations targeting fluorocarbons and other disrupters are crucial for safeguarding ecosystems. The praxis of greening initiatives and the careful monitoring of spilt substances, such as excreta and diluents, reflect the EU's commitment to sustainable development. By synchronising efforts and engaging liaisons with stakeholders, the EU aims to achieve a holistic approach to pollution control, ultimately enhancing the health of watersheds and promoting biodiversity.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:44:09.161923",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 117,
+    "vocabulary_stats": {
+      "total_related_words": 2402,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 28,
+      "selected_avg_freq": 14.733333333333333
+    },
+    "related_words": [
+      "poetter",
+      "intercomparison",
+      "gems",
+      "oligotrophic",
+      "mesotrophic",
+      "eutrophic",
+      "spilled",
+      "greening",
+      "eper",
+      "spilt",
+      "diffuse",
+      "commps",
+      "helcom",
+      "dynamec",
+      "ptbs",
+      "disrupters",
+      "synchronisation",
+      "freshwaters",
+      "catchments",
+      "fluorocarbons",
+      "ingnored",
+      "tributaries",
+      "diluents",
+      "sahara",
+      "billing",
+      "occupiers",
+      "billed",
+      "recklessly",
+      "crco",
+      "cfmu"
+    ],
+    "prompt_length": 1744,
+    "category": "5206 environmental policy"
+  }
+}

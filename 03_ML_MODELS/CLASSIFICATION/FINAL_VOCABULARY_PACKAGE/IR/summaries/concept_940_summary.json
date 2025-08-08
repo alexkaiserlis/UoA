@@ -1,0 +1,63 @@
+{
+  "concept_id": "940",
+  "concept_data": {
+    "title": "exploitation of the seas",
+    "category_code": "5206",
+    "category_name": "environmental policy",
+    "category_full": "5206 environmental policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"exploitation of the seas\" encompasses the various operations undertaken within EU waters, focusing on sustainable practices in the fishing industry. This includes the catching of eligible species and the regulation of fisheries to ensure the long-term viability of marine resources. The EU encourages cooperation among member states to implement detailed policies that respect environmental objectives. Nautical ventures, such as exploratory voyages, are subject to regulations that restrict activities in specific areas to protect coasts and marine biodiversity. Financial contributions are often supplied to support joint initiatives aimed at enhancing the experience and standing of the sector while laying the groundwork for future operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:57:35.881105",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 77,
+      "requested_words": 150,
+      "min_frequency_found": 38,
+      "max_frequency_found": 4108,
+      "selected_words": 77,
+      "selected_min_freq": 38,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 2023.1038961038962
+    },
+    "related_words": [
+      "coasts",
+      "voyages",
+      "nautical",
+      "exploratory",
+      "catching",
+      "ventures",
+      "miles",
+      "fished",
+      "encouragement",
+      "suggest",
+      "object",
+      "fishing",
+      "off",
+      "fisheries",
+      "restricted",
+      "species",
+      "previously",
+      "encourage",
+      "course",
+      "determination",
+      "supplied",
+      "undertaken",
+      "hand",
+      "extending",
+      "scientific",
+      "eligible",
+      "industry",
+      "line",
+      "contribution",
+      "joint"
+    ],
+    "prompt_length": 1685,
+    "category": "5206 environmental policy"
+  }
+}

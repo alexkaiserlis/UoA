@@ -1,0 +1,63 @@
+{
+  "concept_id": "2303",
+  "concept_data": {
+    "title": "arms supply",
+    "category_code": "0821",
+    "category_name": "defence",
+    "category_full": "0821 defence",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"arms supply\" within the EU legal and regulatory framework pertains to the provision of military matériel and weapons to foreign entities, often governed by restrictive measures such as sanctions and embargoes. The EU's Common Foreign and Security Policy (CFSP) empowers member states to impose bans on arms exports to nations like Lebanon, Eritrea, and Somalia, particularly in response to violations of United Nations Security Council (UNSC) resolutions. These measures may include freezing assets and penalties against individuals or entities involved in arms trafficking. The EU regularly updates its regulations to ensure compliance with international law, maintaining a dissuasive stance against armed conflicts and promoting democratic governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:10:09.059256",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 109,
+    "vocabulary_stats": {
+      "total_related_words": 187,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 2848,
+      "selected_avg_freq": 1308.06
+    },
+    "related_words": [
+      "unifil",
+      "matériel",
+      "expediency",
+      "lebanese",
+      "eritrea",
+      "somalia",
+      "dissuasive",
+      "unsc",
+      "embargo",
+      "lebanon",
+      "weapons",
+      "updates",
+      "armed",
+      "congo",
+      "arms",
+      "implements",
+      "violation",
+      "freezing",
+      "directed",
+      "imposes",
+      "infringements",
+      "entity",
+      "resolutions",
+      "military",
+      "forces",
+      "amends",
+      "proportionate",
+      "sanctions",
+      "assets",
+      "authorisations"
+    ],
+    "prompt_length": 1657,
+    "category": "0821 defence"
+  }
+}

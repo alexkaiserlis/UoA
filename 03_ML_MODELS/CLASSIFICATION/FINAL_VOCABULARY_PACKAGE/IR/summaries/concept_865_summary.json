@@ -1,0 +1,63 @@
+{
+  "concept_id": "865",
+  "concept_data": {
+    "title": "protected species",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"protected species\" within EU legal and regulatory frameworks refers to species that must be defended against threats to their survival, including habitat destruction and illegal trade. This includes a diverse range of organisms, from the rare cyclamen persicum to the ornithoptera alexandrae butterfly. The EU's Natura 2000 network aims to preserve biogeographical regions, ensuring that species like the mustela altaica and guanicoe lama are safeguarded. Regulations prohibit practices such as leghold trapping and the trade of pelts from endangered species. Effective conservation requires collaboration across member states, evolving strategies to protect these vital biological fragments and their ecosystems.",
+  "metadata": {
+    "generation_date": "2025-07-29T22:46:14.467846",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 881,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 204,
+      "selected_avg_freq": 77.87333333333333
+    },
+    "related_words": [
+      "shouldf",
+      "gaborone",
+      "belongings",
+      "chattels",
+      "cyclamen",
+      "persicum",
+      "gigiri",
+      "mustela",
+      "altaica",
+      "kathiah",
+      "varanus",
+      "nebulosus",
+      "guaiacum",
+      "birdwing",
+      "butterflies",
+      "ranching",
+      "ranched",
+      "ornithoptera",
+      "alexandrae",
+      "lama",
+      "guanicoe",
+      "evolves",
+      "biogeograpical",
+      "steppic",
+      "aloe",
+      "annotation",
+      "butterfly",
+      "necrophagous",
+      "defended",
+      "sibirica"
+    ],
+    "prompt_length": 1660,
+    "category": "5211 natural environment"
+  }
+}

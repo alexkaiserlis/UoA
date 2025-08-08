@@ -1,0 +1,63 @@
+{
+  "concept_id": "3882",
+  "concept_data": {
+    "title": "large-scale construction",
+    "category_code": "6831",
+    "category_name": "building and public works",
+    "category_full": "6831 building and public works",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "\"Large-scale construction\" refers to extensive building and public works projects within the EU, often involving substantial investment and regulatory scrutiny. These projects can radically transform socioeconomic landscapes, necessitating adherence to norms that govern environmental impact and safety. For instance, the realization of a new refinery in Rotterdam may involve the distillation of various fractions of crude oil, requiring compliance with EU directives. Contractors must notify relevant authorities and attach necessary documentation to avoid incompatibility with existing regulations. Moreover, the challenge of managing such projects often entails discerning the merits of different approaches, ensuring that investments accrue benefits while favouring sustainable practices.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:26:46.976857",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 101,
+    "vocabulary_stats": {
+      "total_related_words": 426,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 709,
+      "selected_avg_freq": 357.3466666666667
+    },
+    "related_words": [
+      "gpt",
+      "europoort",
+      "cracker",
+      "discernible",
+      "investeringsrekening",
+      "wir",
+      "distillates",
+      "infer",
+      "radically",
+      "briefly",
+      "catalytic",
+      "lighter",
+      "fractions",
+      "attaching",
+      "motivated",
+      "norms",
+      "transform",
+      "counterpart",
+      "accrue",
+      "refinery",
+      "tantamount",
+      "notifies",
+      "wet",
+      "rotterdam",
+      "realization",
+      "aided",
+      "petrol",
+      "invest",
+      "differential",
+      "challenge"
+    ],
+    "prompt_length": 1692,
+    "category": "6831 building and public works"
+  }
+}

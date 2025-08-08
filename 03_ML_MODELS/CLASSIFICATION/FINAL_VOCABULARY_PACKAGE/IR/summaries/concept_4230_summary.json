@@ -1,0 +1,26 @@
+{
+  "concept_id": "4230",
+  "concept_data": {
+    "title": "undernourishment",
+    "category_code": "2841",
+    "category_name": "health",
+    "category_full": "2841 health",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "Undernourishment, classified under the health category in EU legal and regulatory frameworks, refers to a state where individuals do not receive adequate nutrition to maintain health and well-being. This concept is critical in the context of EU policies aimed at combating food insecurity and promoting public health. The European Union implements various regulations and directives to address undernourishment, particularly in vulnerable populations, including children and the elderly. Initiatives such as the Common Agricultural Policy (CAP) and the European Food Safety Authority (EFSA) play a pivotal role in ensuring food quality and accessibility, thereby mitigating the risks associated with undernourishment across member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T03:22:48.973273",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 102,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1162,
+    "category": "2841 health"
+  }
+}

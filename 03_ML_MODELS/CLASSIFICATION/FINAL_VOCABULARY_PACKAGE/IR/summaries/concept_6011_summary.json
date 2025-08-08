@@ -1,0 +1,63 @@
+{
+  "concept_id": "6011",
+  "concept_data": {
+    "title": "climate",
+    "category_code": "5211",
+    "category_name": "natural environment",
+    "category_full": "5211 natural environment",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"climate\" within EU legal and regulatory frameworks emphasizes the importance of addressing anthropogenic impacts on the natural environment. It encompasses various themes, including urbanized areas, hilly slopes, and marshy grassland, which suffer from climate change effects such as depopulation and dwindling biodiversity. The EU outlines policies that acknowledge the heterogeneity of localities, from alpine regions to low-lying forelands, and the need for stabilizing measures in municipalities (gemeinden) and enclaves. Regulatory inventories assess usable land and drainage systems, while initiatives in regions like Styria and Salzburg aim to mitigate unfavourable conditions, ensuring sustainable management of resources across diverse altitudes and terrains.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:10:27.377073",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 428,
+      "requested_words": 150,
+      "min_frequency_found": 6,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 6,
+      "selected_max_freq": 498,
+      "selected_avg_freq": 181.80666666666667
+    },
+    "related_words": [
+      "nikula",
+      "urbanized",
+      "unfavourably",
+      "aaland",
+      "laani",
+      "kymi",
+      "minicipalities",
+      "gemeinden",
+      "foreland",
+      "mur",
+      "murtal",
+      "betriebszahl",
+      "km²",
+      "hilly",
+      "enclaves",
+      "kunta",
+      "humid",
+      "abbreviated",
+      "kommun",
+      "marshy",
+      "dwindling",
+      "locality",
+      "slope",
+      "infertile",
+      "emphasizes",
+      "slopes",
+      "salzburg",
+      "eeg",
+      "styria",
+      "enclave"
+    ],
+    "prompt_length": 1660,
+    "category": "5211 natural environment"
+  }
+}

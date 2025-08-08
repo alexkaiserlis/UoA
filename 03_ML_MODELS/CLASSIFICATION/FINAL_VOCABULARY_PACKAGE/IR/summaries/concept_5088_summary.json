@@ -1,0 +1,63 @@
+{
+  "concept_id": "5088",
+  "concept_data": {
+    "title": "coffee",
+    "category_code": "6006",
+    "category_name": "plant product",
+    "category_full": "6006 plant product",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"coffee,\" classified under the EU category of plant products (6006), encompasses various forms, including robusta and decaffeinated varieties. Legal frameworks regulate its merchandising, ensuring that products are registrable and comply with standards to prevent adulteration. The presence of ochratoxin in coffee raises concerns, warranting strict monitoring to avoid offending health regulations. Additionally, the EU emphasizes the importance of precise naming and labelling to prevent misinterpretation by consumers. Agreements among member states facilitate the transacted trade of coffee, while secretariats oversee compliance. The robust legal structure aims to protect both the payer and the deliverer in this lucrative market, addressing any outcry from dissatisfied stakeholders.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:14:49.036825",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 107,
+    "vocabulary_stats": {
+      "total_related_words": 1061,
+      "requested_words": 150,
+      "min_frequency_found": 2,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 2,
+      "selected_max_freq": 198,
+      "selected_avg_freq": 91.51333333333334
+    },
+    "related_words": [
+      "ctmal",
+      "robusta",
+      "decaffeinated",
+      "factsthe",
+      "registrable",
+      "pectic",
+      "maté",
+      "lemonades",
+      "overlook",
+      "misinterpreted",
+      "transact",
+      "appellant",
+      "agreemnt",
+      "deliverer",
+      "mejillón",
+      "mexillón",
+      "café",
+      "bassano",
+      "offending",
+      "essences",
+      "expelled",
+      "merchandising",
+      "castagna",
+      "naming",
+      "expel",
+      "asparago",
+      "violates",
+      "transacted",
+      "imprecise",
+      "icch"
+    ],
+    "prompt_length": 1675,
+    "category": "6006 plant product"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "concept_id": "1027",
+  "concept_data": {
+    "title": "Province of West Flanders",
+    "category_code": "7211",
+    "category_name": "regions of EU Member States",
+    "category_full": "7211 regions of EU Member States",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"Province of West Flanders\" is a significant region within Belgium, categorized under the EU's framework of regions of Member States. This province plays a crucial role in the implementation of EU structural funds, including the European Regional Development Fund (ERDF) and the European Social Fund (ESF). It is involved in various investment plans that align with EU priorities, demonstrating readiness to contribute to regional development through effective partnerships. The province's budgetary commitments are indicative of its intent to enhance economic growth and social cohesion. Coordination with the European Investment Bank (EIB) facilitates the conversion of plans into actionable tasks, ensuring that funds are utilized effectively and consistently with EU regulations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:56:58.770960",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 136,
+      "requested_words": 150,
+      "min_frequency_found": 13,
+      "max_frequency_found": 4108,
+      "selected_words": 136,
+      "selected_min_freq": 13,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1810.7720588235295
+    },
+    "related_words": [
+      "comitments",
+      "turnhout",
+      "esf",
+      "readiness",
+      "intent",
+      "frameworks",
+      "seq",
+      "erdf",
+      "lending",
+      "eib",
+      "loan",
+      "belgian",
+      "statute",
+      "indicative",
+      "contributing",
+      "priorities",
+      "indication",
+      "source",
+      "selected",
+      "partnership",
+      "dutch",
+      "prepared",
+      "plans",
+      "examine",
+      "description",
+      "estimated",
+      "approving",
+      "preparation",
+      "conversion",
+      "bank"
+    ],
+    "prompt_length": 1684,
+    "category": "7211 regions of EU Member States"
+  }
+}

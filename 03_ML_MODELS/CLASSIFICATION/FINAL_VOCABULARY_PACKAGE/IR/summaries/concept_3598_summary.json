@@ -1,0 +1,63 @@
+{
+  "concept_id": "3598",
+  "concept_data": {
+    "title": "singer",
+    "category_code": "2831",
+    "category_name": "culture and religion",
+    "category_full": "2831 culture and religion",
+    "is_redirect": true,
+    "preferred_term": "artistic profession",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"singer,\" while commonly understood, is redirected to the preferred term \"artistic profession\" within EU legal and regulatory contexts. This encompasses a range of performers, including those in genres such as jazz, pop, and opera. Artistic professions involve complex copyright issues, particularly regarding the lawful reproduction of phonograms and compositions. Performers, including singers, are entitled to royalties from the rental and distribution of their works, which can be contractually negotiated. The eventuality of renegotiation of contracts is crucial for ensuring that artists receive fair compensation for their creative contributions. This includes rights to unwaivable royalties and protections against objectionable copying of their fixations.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:34:26.534909",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 443,
+      "requested_words": 150,
+      "min_frequency_found": 7,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 7,
+      "selected_max_freq": 624,
+      "selected_avg_freq": 239.27333333333334
+    },
+    "related_words": [
+      "fixations",
+      "objectionable",
+      "refrains",
+      "recouped",
+      "distributable",
+      "unwaivable",
+      "unencumbered",
+      "lyrics",
+      "overwhelmingly",
+      "librettist",
+      "composer",
+      "genres",
+      "jazz",
+      "rebalance",
+      "performer",
+      "phonogram",
+      "featured",
+      "slate",
+      "pop",
+      "royalty",
+      "phonograms",
+      "reproductions",
+      "creative",
+      "coexist",
+      "careers",
+      "surviving",
+      "opera",
+      "contractually",
+      "royalties",
+      "performers"
+    ],
+    "prompt_length": 1740,
+    "category": "2831 culture and religion"
+  }
+}

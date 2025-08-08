@@ -1,0 +1,63 @@
+{
+  "concept_id": "3069",
+  "concept_data": {
+    "title": "aid for restructuring",
+    "category_code": "1606",
+    "category_name": "economic policy",
+    "category_full": "1606 economic policy",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"aid for restructuring\" within EU economic policy refers to financial assistance provided to companies facing severe financial distress, aiming to facilitate their retooling and eventual recovery. Such aid is often inadvisable without a clear restructuring plan, as it may lead to market distortions. In the context of the European legal framework, companies like chemobudowa in Kraków or those involved in social housing (towarzystwo budownictwa społecznego) may seek this aid to liquidate unviable operations or to support tenants in need. The procedures, including concordato preventivo, must comply with EU regulations to ensure fair competition. This aid is critical for maintaining economic stability in regions like Małopolska, where firms like avcraft or starrag operate.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:50:23.026635",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 115,
+    "vocabulary_stats": {
+      "total_related_words": 2461,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 13,
+      "selected_avg_freq": 7.433333333333334
+    },
+    "related_words": [
+      "inadvisable",
+      "tenant",
+      "retool",
+      "abovenamed",
+      "chemobudowa",
+      "kraków",
+      "chk",
+      "towarzystwo",
+      "budownictwa",
+      "społecznego",
+      "krak",
+      "tbs",
+      "apartment",
+      "pfron",
+      "zus",
+      "małopolska",
+      "tights",
+      "showrooms",
+      "heckert",
+      "werkzeugmaschinen",
+      "hwg",
+      "chemnitzer",
+      "hcw",
+      "traub",
+      "reichenbach",
+      "froze",
+      "starrag",
+      "fairchild",
+      "oberpfaffenhofen",
+      "wessling"
+    ],
+    "prompt_length": 1706,
+    "category": "1606 economic policy"
+  }
+}

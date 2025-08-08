@@ -1,0 +1,63 @@
+{
+  "concept_id": "2333",
+  "concept_data": {
+    "title": "senior citizen",
+    "category_code": "2816",
+    "category_name": "demography and population",
+    "category_full": "2816 demography and population",
+    "is_redirect": true,
+    "preferred_term": "elderly person",
+    "relation_type": "USE"
+  },
+  "summary": "The term \"senior citizen\" is a redirect to the preferred term \"elderly person,\" reflecting the EU's emphasis on the demographic of aged individuals. In legal and regulatory contexts, the concept encompasses various aspects of ageing, including the rights and freedoms of elderly persons, their mobility, and the socio-economic challenges they face. The EU promotes solidarity and furthering the integration of elderly individuals into mainstream society, addressing issues such as disabilities and impairments. Regulatory frameworks aim to enhance rehabilitation and residential support, ensuring that elderly persons can live independently while receiving necessary stimulation and assistance. This approach fosters a harmonious interconnection among generations, reducing fragmentation and duplication in services.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:43:00.214625",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 108,
+    "vocabulary_stats": {
+      "total_related_words": 306,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 1202,
+      "selected_avg_freq": 525.3266666666667
+    },
+    "related_words": [
+      "handicapping",
+      "individends",
+      "prinicple",
+      "convergent",
+      "aspirations",
+      "tide",
+      "mainstream",
+      "nursing",
+      "furthering",
+      "disability",
+      "impairment",
+      "disabilities",
+      "handicapped",
+      "residential",
+      "stimulation",
+      "elderly",
+      "pooling",
+      "disabled",
+      "generations",
+      "fragmented",
+      "demographic",
+      "rehabilitation",
+      "orientation",
+      "interconnection",
+      "expensive",
+      "aged",
+      "launching",
+      "tend",
+      "ageing",
+      "emphasis"
+    ],
+    "prompt_length": 1773,
+    "category": "2816 demography and population"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "concept_id": "3940",
+  "concept_data": {
+    "title": "legal domicile",
+    "category_code": "1211",
+    "category_name": "civil law",
+    "category_full": "1211 civil law",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The concept of \"legal domicile\" refers to the established residence of an individual or entity, which serves as the basis for legal jurisdiction and applicable laws in civil law contexts. Within EU legal frameworks, legal domicile is crucial for determining the competent court in disputes, tax obligations, and the applicability of specific legal protections. It influences various regulatory aspects, including consumer rights and contractual obligations. The determination of legal domicile can affect cross-border legal matters, as differing national laws may apply based on the domicile's location, thereby impacting the enforcement of legal rights and responsibilities across EU member states.",
+  "metadata": {
+    "generation_date": "2025-07-30T00:30:23.928000",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 0,
+      "selected_words": 0
+    },
+    "related_words": [],
+    "prompt_length": 1163,
+    "category": "1211 civil law"
+  }
+}

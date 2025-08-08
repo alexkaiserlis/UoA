@@ -1,0 +1,63 @@
+{
+  "concept_id": "3079",
+  "concept_data": {
+    "title": "rural zone",
+    "category_code": "1616",
+    "category_name": "regions and regional policy",
+    "category_full": "1616 regions and regional policy",
+    "is_redirect": true,
+    "preferred_term": "rural region",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"rural zone,\" redirected to \"rural region,\" encompasses areas characterized by low population density and agricultural landscapes, such as Cornwall, Galloway, and the Ardennes. In EU legal and regulatory frameworks, rural regions like Auvergne, Limousin, and Dumfries face unique infrastructural challenges, including limited broadband access and fewer amenities compared to urban centers. The EU promotes regional policy initiatives to enhance development in these areas, addressing disparities in regions like Wallonne, Côtes, and Provence. By fostering intermediary support in regions such as Niedersachsen and Wurttemberg, the EU aims to ensure sustainable growth and integration across diverse rural landscapes, including the Pyrénées and Marche.",
+  "metadata": {
+    "generation_date": "2025-07-30T02:29:32.856689",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 104,
+    "vocabulary_stats": {
+      "total_related_words": 461,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 732,
+      "selected_avg_freq": 285.81333333333333
+    },
+    "related_words": [
+      "cornwall",
+      "galloway",
+      "intermendiate",
+      "ocotber",
+      "hageland",
+      "auitaine",
+      "limousin",
+      "dumfries",
+      "devon",
+      "bornholm",
+      "wallonne",
+      "côtes",
+      "villages",
+      "bourgogne",
+      "franche",
+      "wuerttemberg",
+      "infrastructural",
+      "ardennes",
+      "amenities",
+      "comté",
+      "auvergne",
+      "aquitaine",
+      "poitou",
+      "champagne",
+      "nordrhein",
+      "pyrénées",
+      "niedersachsen",
+      "westfalen",
+      "azur",
+      "alpes"
+    ],
+    "prompt_length": 1712,
+    "category": "1616 regions and regional policy"
+  }
+}

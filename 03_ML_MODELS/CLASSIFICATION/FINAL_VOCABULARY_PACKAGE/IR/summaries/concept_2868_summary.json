@@ -1,0 +1,63 @@
+{
+  "concept_id": "2868",
+  "concept_data": {
+    "title": "required job qualifications",
+    "category_code": "4411",
+    "category_name": "labour market",
+    "category_full": "4411 labour market",
+    "is_redirect": true,
+    "preferred_term": "professional qualifications",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"required job qualifications\" redirects to \"professional qualifications,\" which encompass the necessary competencies for various occupations, including roles such as nurse, chiropodist, and therapist. These qualifications are often formalized through NVQs and other recognized certifications, ensuring mastery in fields like bookkeeping and diving. The EU emphasizes the recognition of qualifications across member states, facilitating the mobility of professionals. Regulations, such as the arbeitstherapeutengesetz, govern the standards for professions like ergotherapist and prosthetist. This regulatory landscape guarantees that practitioners possess the requisite knowledge and skills, ultimately enhancing the labour market's effectiveness and adaptability.",
+  "metadata": {
+    "generation_date": "2025-07-30T01:58:19.418936",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 100,
+    "vocabulary_stats": {
+      "total_related_words": 1519,
+      "requested_words": 150,
+      "min_frequency_found": 5,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 5,
+      "selected_max_freq": 47,
+      "selected_avg_freq": 20.746666666666666
+    },
+    "related_words": [
+      "ela",
+      "nvqs",
+      "psychiatric",
+      "stout",
+      "fawn",
+      "prosthetist",
+      "therapist",
+      "beschäftigungs",
+      "arbeitstherapeut",
+      "ergotherapist",
+      "ergotherapeut",
+      "arbeitstherapeutengesetz",
+      "chiropodist",
+      "podologo",
+      "chiropodists",
+      "bookkeeping",
+      "bookkeeper",
+      "gewerblicher",
+      "buchhalter",
+      "gewerbeordnung",
+      "selbständiger",
+      "wirtschaftstreuhandberufe",
+      "werbeagentur",
+      "gewerbeordnungsnovelle",
+      "nurse",
+      "nvq",
+      "qca",
+      "trainer",
+      "apitude",
+      "instuctors"
+    ],
+    "prompt_length": 1825,
+    "category": "4411 labour market"
+  }
+}

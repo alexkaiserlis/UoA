@@ -1,0 +1,63 @@
+{
+  "concept_id": "453",
+  "concept_data": {
+    "title": "public information",
+    "category_code": "3231",
+    "category_name": "information and information processing",
+    "category_full": "3231 information and information processing",
+    "is_redirect": true,
+    "preferred_term": "access to information",
+    "relation_type": "USE"
+  },
+  "summary": "In the context of EU legal and regulatory frameworks, \"public information,\" redirected to \"access to information,\" embodies the principle of transparency and accountability. This concept necessitates thoroughness in the evaluation of public data, ensuring that citizens have cognisance of governmental actions. Institutions, such as inspectorates, must institutionalise practices that facilitate access, thereby combatting issues like antifraud. The manifestation of this principle is evident in various statistical reports, including those from DREES and other agencies. Furthermore, the renumbering of regulations and the careful handling of confidential data are crucial to maintain public trust and wellbeing. Access to information is vital for informed civic engagement and effective governance.",
+  "metadata": {
+    "generation_date": "2025-07-29T19:30:00.752614",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 106,
+    "vocabulary_stats": {
+      "total_related_words": 2360,
+      "requested_words": 150,
+      "min_frequency_found": 3,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 3,
+      "selected_max_freq": 26,
+      "selected_avg_freq": 12.106666666666667
+    },
+    "related_words": [
+      "renumbering",
+      "malfunction",
+      "très",
+      "confidentiel",
+      "confident",
+      "cognisance",
+      "évaluation",
+      "statistiques",
+      "drees",
+      "animation",
+      "dares",
+      "rfsuny",
+      "eläketurvakeskus",
+      "etk",
+      "manifestation",
+      "thoroughness",
+      "wellbeing",
+      "chw",
+      "wilson",
+      "princeton",
+      "rady",
+      "inmarsat",
+      "solaris",
+      "terrestar",
+      "spacecraft",
+      "fabbrica",
+      "lastre",
+      "vetro",
+      "sciarra",
+      "pisana"
+    ],
+    "prompt_length": 1728,
+    "category": "3231 information and information processing"
+  }
+}

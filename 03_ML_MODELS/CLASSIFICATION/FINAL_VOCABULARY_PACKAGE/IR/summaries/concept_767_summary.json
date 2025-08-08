@@ -1,0 +1,63 @@
+{
+  "concept_id": "767",
+  "concept_data": {
+    "title": "organic fertilizer",
+    "category_code": "5626",
+    "category_name": "means of agricultural production",
+    "category_full": "5626 means of agricultural production",
+    "is_redirect": true,
+    "preferred_term": "organic fertiliser",
+    "relation_type": "USE"
+  },
+  "summary": "The concept of \"organic fertiliser,\" categorized under means of agricultural production, is crucial in EU regulatory frameworks concerning sustainable agriculture. This term encompasses various composted materials, including those derived from stockbreeders, which are essential for enhancing soil fertility and managing pastureland. EU regulations, such as arrêté modifiant existing guidelines, govern the use of organic fertilisers to mitigate contaminations from substances like pyrethroids and metaldehyde. The management of these fertilisers involves processes like digestion and composting, ensuring that they are safe for the environment. The legislation also addresses the use of ammoniacal compounds and orthophosphate, promoting practices that reconcile agricultural productivity with environmental stewardship.",
+  "metadata": {
+    "generation_date": "2025-07-29T21:25:30.439254",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 103,
+    "vocabulary_stats": {
+      "total_related_words": 942,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 185,
+      "selected_avg_freq": 74.0
+    },
+    "related_words": [
+      "fertial",
+      "arrêté",
+      "février",
+      "modifiant",
+      "livre",
+      "constituant",
+      "qui",
+      "gestion",
+      "mesophilic",
+      "phenomenons",
+      "stockbreeders",
+      "pyrethroids",
+      "lambdacyhalothrin",
+      "orthophosphate",
+      "oxychloride",
+      "tribasic",
+      "cuprous",
+      "gouvernement",
+      "wallon",
+      "ammoniacal",
+      "composted",
+      "thee",
+      "limestone",
+      "acreage",
+      "contaminations",
+      "molluscicide",
+      "concerne",
+      "compost",
+      "metaldehyde",
+      "wallonia"
+    ],
+    "prompt_length": 1764,
+    "category": "5626 means of agricultural production"
+  }
+}

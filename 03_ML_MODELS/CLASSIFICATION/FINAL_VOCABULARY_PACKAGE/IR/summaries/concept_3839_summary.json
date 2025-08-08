@@ -1,0 +1,63 @@
+{
+  "concept_id": "3839",
+  "concept_data": {
+    "title": "seizure of goods",
+    "category_code": "1221",
+    "category_name": "justice",
+    "category_full": "1221 justice",
+    "is_redirect": false,
+    "preferred_term": null,
+    "relation_type": null
+  },
+  "summary": "The \"seizure of goods\" within EU legal and regulatory frameworks refers to the enforcement action taken by authorities to confiscate items deemed unlawful or ineffective. This process is governed by mutual recognition principles and requires proper jurisdiction to ensure compliance with relevant conventions. Parties involved must abstain from actions that undermine the enforcement of judgments. The seizure can affect family relationships and commercial matters, necessitating satisfactory notification to all parties. Instruments authorising seizure must be deposited and ratified, creating a legal relationship that alters the contents of ownership. Unless properly executed, recovery of seized goods may be rendered ineffective.",
+  "metadata": {
+    "generation_date": "2025-07-29T20:15:46.582844",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 99,
+    "vocabulary_stats": {
+      "total_related_words": 134,
+      "requested_words": 150,
+      "min_frequency_found": 45,
+      "max_frequency_found": 4108,
+      "selected_words": 134,
+      "selected_min_freq": 45,
+      "selected_max_freq": 4108,
+      "selected_avg_freq": 1744.9701492537313
+    },
+    "related_words": [
+      "abstain",
+      "ineffective",
+      "ratify",
+      "child",
+      "deposited",
+      "judgments",
+      "expressing",
+      "undermine",
+      "acceded",
+      "ratification",
+      "contents",
+      "amends",
+      "render",
+      "affects",
+      "family",
+      "jurisdiction",
+      "alter",
+      "done",
+      "danish",
+      "enforcement",
+      "governed",
+      "recovery",
+      "relationship",
+      "entering",
+      "bound",
+      "created",
+      "authorise",
+      "maintenance",
+      "satisfactory",
+      "contracting"
+    ],
+    "prompt_length": 1672,
+    "category": "1221 justice"
+  }
+}

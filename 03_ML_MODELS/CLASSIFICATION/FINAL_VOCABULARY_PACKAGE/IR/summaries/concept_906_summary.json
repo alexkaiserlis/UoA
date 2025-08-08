@@ -1,0 +1,63 @@
+{
+  "concept_id": "906",
+  "concept_data": {
+    "title": "European Organization for the Safety of Air Navigation",
+    "category_code": "7611",
+    "category_name": "European organisations",
+    "category_full": "7611 European organisations",
+    "is_redirect": true,
+    "preferred_term": "Eurocontrol",
+    "relation_type": "USE"
+  },
+  "summary": "The \"European Organization for the Safety of Air Navigation,\" commonly referred to as Eurocontrol, plays a pivotal role in enhancing the safety and efficiency of air traffic management across Europe. Mandated by the Chicago Convention, Eurocontrol strives to improve connectivity and reduce congestion in the sky by facilitating the exchange of information among member states. It employs automated systems to manage flights, including taxiing and departure processes at aerodromes. Eurocontrol also addresses incompatibilities in navigation systems, such as GNSS, and works to mitigate greenhouse gas emissions from emitting aircraft. Through robust regulatory frameworks, Eurocontrol finalizes agreements that enhance the safety and efficiency of air navigation, ensuring impartial oversight and streamlined operations.",
+  "metadata": {
+    "generation_date": "2025-07-29T18:00:12.902134",
+    "model_used": "gpt-4o-mini",
+    "summary_length_target": 100,
+    "actual_word_count": 111,
+    "vocabulary_stats": {
+      "total_related_words": 558,
+      "requested_words": 150,
+      "min_frequency_found": 4,
+      "max_frequency_found": 4108,
+      "selected_words": 150,
+      "selected_min_freq": 4,
+      "selected_max_freq": 532,
+      "selected_avg_freq": 262.6533333333333
+    },
+    "related_words": [
+      "taxiing",
+      "eatchip",
+      "logon",
+      "eatmn",
+      "aerodromes",
+      "ecac",
+      "cruise",
+      "emitters",
+      "emitting",
+      "connectivity",
+      "incompatibilities",
+      "gnss",
+      "strive",
+      "eurocontrol",
+      "empt",
+      "stream",
+      "sky",
+      "employs",
+      "administratively",
+      "impartial",
+      "chicago",
+      "congestion",
+      "mandated",
+      "emitted",
+      "icao",
+      "gate",
+      "statistically",
+      "flights",
+      "robust",
+      "message"
+    ],
+    "prompt_length": 1753,
+    "category": "7611 European organisations"
+  }
+}
